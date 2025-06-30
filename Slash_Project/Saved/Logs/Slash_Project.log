@@ -1856,3 +1856,91 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.06.30-15.28.39:347][992]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 692.785278
 [2025.06.30-15.28.40:349][995]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.06.30-15.28.40:349][995]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 693.453613, Update Interval: 318.920868
+[2025.06.30-15.34.06:453][266]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1019.891052
+[2025.06.30-15.34.07:451][269]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.30-15.34.07:451][269]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1020.557861, Update Interval: 307.941528
+[2025.06.30-15.34.23:214][688]LogSlate: Window 'Save Level As' being destroyed
+[2025.06.30-15.34.23:498][688]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.06.30-15.34.23:557][688]LogChaosDD: Creating Chaos Debug Draw Scene for world Minimal_Default_2
+[2025.06.30-15.34.23:590][688]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.06.30-15.34.23:644][688]LogSavePackage: Moving output files for package: /Game/Maps/Minimal_Default_2
+[2025.06.30-15.34.23:644][688]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Saved/Minimal_Default_2C019C35B4E2172905D3C7280B9791344.tmp' to '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Content/Maps/Minimal_Default_2.umap'
+[2025.06.30-15.34.23:685][688]LogFileHelpers: Saving map 'Minimal_Default_2' took 0.407
+[2025.06.30-15.34.23:685][688]Cmd: MAP LOAD FILE="../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Content/Maps/Minimal_Default_2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.06.30-15.34.23:730][688]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2025.06.30-15.34.23:730][688]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.30-15.34.23:744][688]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.06.30-15.34.23:747][688]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.06.30-15.34.23:749][688]LogWorld: UWorld::CleanupWorld for Minimal_Default_2, bSessionEnded=true, bCleanupResources=true
+[2025.06.30-15.34.23:749][688]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.30-15.34.23:764][688]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2025.06.30-15.34.23:778][688]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.06.30-15.34.23:779][688]LogStreaming: Display: FlushAsyncLoading(504): 1 QueuedPackages, 0 AsyncPackages
+[2025.06.30-15.34.23:787][688]LogAudio: Display: Audio Device (ID: 1) registered with world 'Minimal_Default_2'.
+[2025.06.30-15.34.23:787][688]LogChaosDD: Creating Chaos Debug Draw Scene for world Minimal_Default_2
+[2025.06.30-15.34.23:963][688]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.06.30-15.34.23:977][688]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.06.30-15.34.24:041][688]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.06.30-15.34.24:042][688]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.081ms to complete.
+[2025.06.30-15.34.24:098][688]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.30-15.34.24:098][688]LogContentValidation: Enabled validators:
+[2025.06.30-15.34.24:098][688]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.30-15.34.24:098][688]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.30-15.34.24:098][688]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.30-15.34.24:098][688]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.30-15.34.24:098][688]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.30-15.34.24:098][688]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.30-15.34.24:102][688]AssetCheck: /Game/Maps/Minimal_Default_2 Validating asset
+[2025.06.30-15.34.41:835][752]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_0
+[2025.06.30-15.34.46:587][760]LogPSOHitching: Encountered 200 PSO creation hitches so far (76 graphics, 124 compute). 0 of them were precached.
+[2025.06.30-15.34.55:270][ 55]LogSlate: External Image Picker: DecompressImage failed
+[2025.06.30-15.35.06:300][150]LogSlate: Window 'Project Settings' being destroyed
+[2025.06.30-15.35.06:565][150]LogSlate: Window 'Project Settings' being destroyed
+[2025.06.30-15.35.29:166][456]LogSlate: Window 'Editor Preferences' being destroyed
+[2025.06.30-15.35.29:337][456]LogSlate: Window 'Editor Preferences' being destroyed
+[2025.06.30-15.35.33:356][590]LogSlate: External Image Picker: DecompressImage failed
+[2025.06.30-15.35.36:834][622]LogShaderCompilers: Display: ================================================
+[2025.06.30-15.35.36:834][622]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.06.30-15.35.36:835][622]LogShaderCompilers: Display: Total job queries 1,533, among them cache hits 208 (13.57%), DDC hits 1,071 (69.86%), Duplicates 7 (0.46%)
+[2025.06.30-15.35.36:835][622]LogShaderCompilers: Display: Tracking 1,318 distinct input hashes that result in 983 distinct outputs (74.58%)
+[2025.06.30-15.35.36:835][622]LogShaderCompilers: Display: RAM used: 603.02 KiB of 819.20 MiB budget. Usage: 0.07%
+[2025.06.30-15.35.36:835][622]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.06.30-15.35.36:835][622]LogShaderCompilers: Display: Shaders Compiled: 247
+[2025.06.30-15.35.36:835][622]LogShaderCompilers: Display: Jobs assigned 247, completed 247 (100%)
+[2025.06.30-15.35.36:835][622]LogShaderCompilers: Display: Average time worker was idle: 31.53 s
+[2025.06.30-15.35.36:835][622]LogShaderCompilers: Display: Time job spent in pending queue: average 30.61 s, longest 73.80 s
+[2025.06.30-15.35.36:835][622]LogShaderCompilers: Display: Job execution time: average 3.24 s, max 17.33 s
+[2025.06.30-15.35.36:835][622]LogShaderCompilers: Display: Job life time (pending + execution): average 33.85 s, max 78.44
+[2025.06.30-15.35.36:835][622]LogShaderCompilers: Display: Shader code size: average 7.951 KiB, min 2.703 KiB, max 26.703 KiB
+[2025.06.30-15.35.36:835][622]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 109.55 s
+[2025.06.30-15.35.36:835][622]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2025.06.30-15.35.36:835][622]LogShaderCompilers: Display: Jobs were issued in 247 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.06.30-15.35.36:835][622]LogShaderCompilers: Display: Average processing rate: 2.25 jobs/sec
+[2025.06.30-15.35.36:835][622]LogShaderCompilers: Display: Total thread time: 709.096 s
+[2025.06.30-15.35.36:835][622]LogShaderCompilers: Display: Total thread preprocess time: 58.491 s
+[2025.06.30-15.35.36:835][622]LogShaderCompilers: Display: Percentage time preprocessing: 8.25%
+[2025.06.30-15.35.36:835][622]LogShaderCompilers: Display: Effective parallelization: 6.47 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.06.30-15.35.36:835][622]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.06.30-15.35.36:835][622]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    2 times, average 16.76 sec, max 17.23 sec, min 16.29 sec)
+[2025.06.30-15.35.36:835][622]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    2 times, average 13.73 sec, max 13.81 sec, min 13.65 sec)
+[2025.06.30-15.35.36:836][622]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    6 times, average 5.76 sec, max 10.27 sec, min 3.34 sec)
+[2025.06.30-15.35.36:836][622]LogShaderCompilers: Display:                                            FDistortionMeshPS (compiled    3 times, average 3.44 sec, max 4.07 sec, min 2.40 sec)
+[2025.06.30-15.35.36:836][622]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   53 times, average 3.37 sec, max 7.84 sec, min 0.71 sec)
+[2025.06.30-15.35.36:836][622]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.06.30-15.35.36:836][622]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 25.20% of total time (compiled   53 times, average 3.37 sec, max 7.84 sec, min 0.71 sec)
+[2025.06.30-15.35.36:836][622]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 20.46% of total time (compiled   59 times, average 2.46 sec, max 4.64 sec, min 0.48 sec)
+[2025.06.30-15.35.36:836][622]LogShaderCompilers: Display:                                                 FLumenCardPS - 17.77% of total time (compiled   51 times, average 2.47 sec, max 5.28 sec, min 0.71 sec)
+[2025.06.30-15.35.36:836][622]LogShaderCompilers: Display:                                                 FLumenCardVS - 15.23% of total time (compiled   51 times, average 2.12 sec, max 3.79 sec, min 0.63 sec)
+[2025.06.30-15.35.36:836][622]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 4.88% of total time (compiled    6 times, average 5.76 sec, max 10.27 sec, min 3.34 sec)
+[2025.06.30-15.35.36:836][622]LogShaderCompilers: Display: === Material stats ===
+[2025.06.30-15.35.36:836][622]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.06.30-15.35.36:836][622]LogShaderCompilers: Display: Materials Translated:    183
+[2025.06.30-15.35.36:836][622]LogShaderCompilers: Display: Material Total Translate Time: 0.33 s
+[2025.06.30-15.35.36:836][622]LogShaderCompilers: Display: Material Translation Only: 0.18 s (53%)
+[2025.06.30-15.35.36:836][622]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.06.30-15.35.36:836][622]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2025.06.30-15.35.36:836][622]LogShaderCompilers: Display: ================================================
+[2025.06.30-15.35.43:009][693]LogSlate: Took 0.001233 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.06.30-15.35.55:104][949]LogSlate: Window 'Project Settings' being destroyed
+[2025.06.30-15.35.55:250][949]LogSlate: Window 'Project Settings' being destroyed
+[2025.06.30-15.36.04:199][ 54]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
