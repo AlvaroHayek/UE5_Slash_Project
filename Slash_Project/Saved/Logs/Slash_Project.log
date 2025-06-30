@@ -1944,3 +1944,56 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.06.30-15.35.55:104][949]LogSlate: Window 'Project Settings' being destroyed
 [2025.06.30-15.35.55:250][949]LogSlate: Window 'Project Settings' being destroyed
 [2025.06.30-15.36.04:199][ 54]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
+[2025.06.30-15.38.36:860][702]LogShaderCompilers: Display: ================================================
+[2025.06.30-15.38.36:860][702]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.06.30-15.38.36:860][702]LogShaderCompilers: Display: Total job queries 1,537, among them cache hits 208 (13.53%), DDC hits 1,071 (69.68%), Duplicates 7 (0.46%)
+[2025.06.30-15.38.36:860][702]LogShaderCompilers: Display: Tracking 1,322 distinct input hashes that result in 987 distinct outputs (74.66%)
+[2025.06.30-15.38.36:860][702]LogShaderCompilers: Display: RAM used: 604.31 KiB of 819.20 MiB budget. Usage: 0.07%
+[2025.06.30-15.38.36:860][702]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.06.30-15.38.36:860][702]LogShaderCompilers: Display: Shaders Compiled: 251
+[2025.06.30-15.38.36:860][702]LogShaderCompilers: Display: Jobs assigned 251, completed 251 (100%)
+[2025.06.30-15.38.36:860][702]LogShaderCompilers: Display: Average time worker was idle: 32.04 s
+[2025.06.30-15.38.36:860][702]LogShaderCompilers: Display: Time job spent in pending queue: average 30.12 s, longest 73.80 s
+[2025.06.30-15.38.36:860][702]LogShaderCompilers: Display: Job execution time: average 3.21 s, max 17.33 s
+[2025.06.30-15.38.36:860][702]LogShaderCompilers: Display: Job life time (pending + execution): average 33.34 s, max 78.44
+[2025.06.30-15.38.36:860][702]LogShaderCompilers: Display: Shader code size: average 7.942 KiB, min 2.703 KiB, max 26.703 KiB
+[2025.06.30-15.38.36:860][702]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 111.34 s
+[2025.06.30-15.38.36:860][702]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2025.06.30-15.38.36:860][702]LogShaderCompilers: Display: Jobs were issued in 251 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.06.30-15.38.36:860][702]LogShaderCompilers: Display: Average processing rate: 2.25 jobs/sec
+[2025.06.30-15.38.36:860][702]LogShaderCompilers: Display: Total thread time: 711.939 s
+[2025.06.30-15.38.36:860][702]LogShaderCompilers: Display: Total thread preprocess time: 58.586 s
+[2025.06.30-15.38.36:860][702]LogShaderCompilers: Display: Percentage time preprocessing: 8.23%
+[2025.06.30-15.38.36:860][702]LogShaderCompilers: Display: Effective parallelization: 6.39 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.06.30-15.38.36:860][702]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.06.30-15.38.36:861][702]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    2 times, average 16.76 sec, max 17.23 sec, min 16.29 sec)
+[2025.06.30-15.38.36:861][702]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    2 times, average 13.73 sec, max 13.81 sec, min 13.65 sec)
+[2025.06.30-15.38.36:861][702]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    6 times, average 5.76 sec, max 10.27 sec, min 3.34 sec)
+[2025.06.30-15.38.36:861][702]LogShaderCompilers: Display:                                            FDistortionMeshPS (compiled    3 times, average 3.44 sec, max 4.07 sec, min 2.40 sec)
+[2025.06.30-15.38.36:861][702]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   54 times, average 3.33 sec, max 7.84 sec, min 0.71 sec)
+[2025.06.30-15.38.36:861][702]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.06.30-15.38.36:861][702]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 25.22% of total time (compiled   54 times, average 3.33 sec, max 7.84 sec, min 0.71 sec)
+[2025.06.30-15.38.36:861][702]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 20.47% of total time (compiled   60 times, average 2.43 sec, max 4.64 sec, min 0.48 sec)
+[2025.06.30-15.38.36:861][702]LogShaderCompilers: Display:                                                 FLumenCardPS - 17.79% of total time (compiled   52 times, average 2.44 sec, max 5.28 sec, min 0.70 sec)
+[2025.06.30-15.38.36:861][702]LogShaderCompilers: Display:                                                 FLumenCardVS - 15.25% of total time (compiled   52 times, average 2.09 sec, max 3.79 sec, min 0.62 sec)
+[2025.06.30-15.38.36:861][702]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 4.86% of total time (compiled    6 times, average 5.76 sec, max 10.27 sec, min 3.34 sec)
+[2025.06.30-15.38.36:861][702]LogShaderCompilers: Display: === Material stats ===
+[2025.06.30-15.38.36:861][702]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.06.30-15.38.36:861][702]LogShaderCompilers: Display: Materials Translated:    183
+[2025.06.30-15.38.36:861][702]LogShaderCompilers: Display: Material Total Translate Time: 0.33 s
+[2025.06.30-15.38.36:861][702]LogShaderCompilers: Display: Material Translation Only: 0.18 s (53%)
+[2025.06.30-15.38.36:861][702]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.06.30-15.38.36:861][702]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2025.06.30-15.38.36:861][702]LogShaderCompilers: Display: ================================================
+[2025.06.30-15.39.30:671][888]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1344.107788
+[2025.06.30-15.39.31:674][891]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.30-15.39.31:674][891]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1344.772827, Update Interval: 347.420258
+[2025.06.30-15.42.40:900][500]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.06.30-15.42.44:093][532]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.06.30-15.42.45:698][549]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.06.30-15.42.47:615][579]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.06.30-15.42.47:792][580]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.06.30-15.42.47:901][581]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.06.30-15.45.45:058][130]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1718.496582
+[2025.06.30-15.45.46:059][133]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.30-15.45.46:059][133]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1719.163208, Update Interval: 339.744263
