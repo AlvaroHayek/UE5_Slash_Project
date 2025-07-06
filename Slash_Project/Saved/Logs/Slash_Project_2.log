@@ -1705,3 +1705,24 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.07.06-21.42.48:803][403]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.07.06-21.42.48:803][403]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.07.06-21.42.48:813][403]AssetCheck: /Game/Maps/SlashOpenWorld Validating asset
+[2025.07.06-21.44.33:946][994]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.07.06-21.45.45:726][596]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9455.503906
+[2025.07.06-21.45.45:934][599]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.07.06-21.45.47:027][599]LogSlate: Window 'Save Content' being destroyed
+[2025.07.06-21.45.47:214][599]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.06-21.45.47:356][599]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2025.07.06-21.45.47:365][599]LogSavePackage: Moving output files for package: /Game/Maps/SlashOpenWorld
+[2025.07.06-21.45.47:366][599]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Saved/SlashOpenWorldEDA0BE6341B70701264CB9B436178386.tmp' to '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Content/Maps/SlashOpenWorld.umap'
+[2025.07.06-21.45.47:391][599]LogFileHelpers: Saving map 'SlashOpenWorld' took 0.105
+[2025.07.06-21.45.47:421][599]LogFileHelpers: InternalPromptForCheckoutAndSave took 206.907 ms (total: 947.387 ms)
+[2025.07.06-21.45.47:482][599]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.06-21.45.47:482][599]LogContentValidation: Enabled validators:
+[2025.07.06-21.45.47:482][599]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.06-21.45.47:482][599]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.06-21.45.47:482][599]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.06-21.45.47:482][599]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.06-21.45.47:482][599]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.06-21.45.47:482][599]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.06-21.45.47:482][599]AssetCheck: /Game/Maps/SlashOpenWorld Validating asset
+[2025.07.06-21.45.47:554][600]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.06-21.45.47:554][600]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9457.322266, Update Interval: 332.890411
