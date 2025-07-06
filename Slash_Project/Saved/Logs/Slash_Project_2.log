@@ -1802,3 +1802,97 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.07.06-21.51.53:545][997]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.07.06-21.51.53:545][997]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.07.06-21.51.53:545][997]AssetCheck: /Game/Maps/SlashOpenWorld Validating asset
+[2025.07.06-21.52.08:859][ 52]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9838.617188
+[2025.07.06-21.52.09:858][ 55]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.06-21.52.09:858][ 56]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9839.282227, Update Interval: 314.777069
+[2025.07.06-21.53.05:439][769]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Workbench/Rusty_Metal_Workbench_ukkiejiaw_Mid.Rusty_Metal_Workbench_ukkiejiaw_Mid
+[2025.07.06-21.53.05:440][769]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Workbench/Rusty_Metal_Workbench_ukkiejiaw_Mid.Rusty_Metal_Workbench_ukkiejiaw_Mid
+[2025.07.06-21.53.05:444][769]LogActorFactory: Actor Factory spawned StaticMesh /Game/Workbench/Rusty_Metal_Workbench_ukkiejiaw_Mid.Rusty_Metal_Workbench_ukkiejiaw_Mid as actor: StaticMeshActor /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.StaticMeshActor_0
+[2025.07.06-21.53.06:495][777]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.07.06-21.53.06:497][777]LogEditorActor: Deleted 0 Actors (0.019 secs)
+[2025.07.06-21.53.06:510][777]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Workbench/Rusty_Metal_Workbench_ukkiejiaw_Mid.Rusty_Metal_Workbench_ukkiejiaw_Mid
+[2025.07.06-21.53.06:510][777]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Workbench/Rusty_Metal_Workbench_ukkiejiaw_Mid.Rusty_Metal_Workbench_ukkiejiaw_Mid
+[2025.07.06-21.53.06:512][777]LogActorFactory: Actor Factory spawned StaticMesh /Game/Workbench/Rusty_Metal_Workbench_ukkiejiaw_Mid.Rusty_Metal_Workbench_ukkiejiaw_Mid as actor: StaticMeshActor /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.StaticMeshActor_1
+[2025.07.06-21.53.22:292][ 92]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.07.06-21.53.23:026][ 97]LogRenderer: Warning: [VSM] Non-Nanite Marking Job Queue overflow. Performance may be affected. This occurs when many non-nanite meshes cover a large area of the shadow map.
+[2025.07.06-21.53.44:685][364]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.07.06-21.53.45:774][364]LogSlate: Window 'Save Content' being destroyed
+[2025.07.06-21.53.45:887][364]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.06-21.53.45:965][364]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2025.07.06-21.53.47:229][364]LogSavePackage: Moving output files for package: /Game/Maps/SlashOpenWorld
+[2025.07.06-21.53.47:231][364]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Saved/SlashOpenWorldE7B912C043B4B1AEEB80AB884074A99B.tmp' to '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Content/Maps/SlashOpenWorld.umap'
+[2025.07.06-21.53.47:255][364]LogFileHelpers: Saving map 'SlashOpenWorld' took 1.333
+[2025.07.06-21.53.47:263][364]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.37 sec (total: 3.72 sec)
+[2025.07.06-21.53.47:302][364]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.06-21.53.47:302][364]LogContentValidation: Enabled validators:
+[2025.07.06-21.53.47:302][364]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.06-21.53.47:302][364]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.06-21.53.47:302][364]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.06-21.53.47:302][364]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.06-21.53.47:302][364]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.06-21.53.47:302][364]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.06-21.53.47:302][364]AssetCheck: /Game/Maps/SlashOpenWorld Validating asset
+[2025.07.06-21.54.48:385][575]LogDerivedDataCache: C:/Users/Usuario/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.098 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 137 files in 271 folders with total size 0 MiB.
+[2025.07.06-21.57.32:752][415]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.07.06-21.57.32:752][415]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.07.06-21.58.17:236][245]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10207.003906
+[2025.07.06-21.58.17:454][256]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.06-21.58.17:454][256]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10207.199219, Update Interval: 327.834717
+[2025.07.06-21.58.32:276][668]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.07.06-21.58.32:276][668]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.07.06-21.58.57:986][427]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.07.06-21.58.57:986][427]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.07.06-21.59.46:540][720]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.07.06-21.59.46:540][720]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.07.06-22.02.08:791][114]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.07.06-22.02.10:526][114]LogSlate: Window 'Save Content' being destroyed
+[2025.07.06-22.02.10:672][114]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.06-22.02.10:753][114]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.07.06-22.02.11:800][114]LogSavePackage: Moving output files for package: /Game/Maps/SlashOpenWorld
+[2025.07.06-22.02.11:802][114]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Saved/SlashOpenWorld6248ABC54E5B9A9F895387998CB3B35A.tmp' to '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Content/Maps/SlashOpenWorld.umap'
+[2025.07.06-22.02.11:834][114]LogFileHelpers: Saving map 'SlashOpenWorld' took 1.132
+[2025.07.06-22.02.11:842][114]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.16 sec (total: 4.89 sec)
+[2025.07.06-22.02.11:883][114]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.06-22.02.11:883][114]LogContentValidation: Enabled validators:
+[2025.07.06-22.02.11:883][114]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.06-22.02.11:883][114]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.06-22.02.11:883][114]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.06-22.02.11:883][114]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.06-22.02.11:883][114]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.06-22.02.11:883][114]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.06-22.02.11:884][114]AssetCheck: /Game/Maps/SlashOpenWorld Validating asset
+[2025.07.06-22.04.20:705][513]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10570.501953
+[2025.07.06-22.04.21:704][516]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.06-22.04.21:704][516]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10571.168945, Update Interval: 352.924591
+[2025.07.06-22.05.13:624][777]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.07.06-22.05.13:624][777]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.07.06-22.05.22:994][907]Cmd: TRANSACTION UNDO
+[2025.07.06-22.05.22:994][907]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2025.07.06-22.05.36:843][989]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.07.06-22.05.36:843][989]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.07.06-22.06.20:906][400]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'AssetThumbnail.Border'.'
+[2025.07.06-22.07.58:615][898]Cmd: TRANSACTION UNDO
+[2025.07.06-22.07.58:615][898]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2025.07.06-22.08.08:423][898]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.Landscape_0.Heightmap_26 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2025.07.06-22.08.08:424][898]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.Landscape_0.Heightmap_25 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2025.07.06-22.08.08:424][898]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.Landscape_0.Heightmap_22 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2025.07.06-22.08.08:427][898]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.Landscape_0.Heightmap_21 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2025.07.06-22.08.36:349][773]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.07.06-22.08.37:820][773]LogSlate: Window 'Save Content' being destroyed
+[2025.07.06-22.08.37:960][773]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.06-22.08.38:042][773]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2025.07.06-22.08.38:261][773]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.Landscape_0.Heightmap_21 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2025.07.06-22.08.38:269][773]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.Landscape_0.Heightmap_25 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2025.07.06-22.08.39:028][773]LogSavePackage: Moving output files for package: /Game/Maps/SlashOpenWorld
+[2025.07.06-22.08.39:029][773]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Saved/SlashOpenWorldCD8BDA304C79149427137CAAFA83E1C1.tmp' to '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Content/Maps/SlashOpenWorld.umap'
+[2025.07.06-22.08.39:052][773]LogFileHelpers: Saving map 'SlashOpenWorld' took 1.059
+[2025.07.06-22.08.39:069][773]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.11 sec (total: 6.00 sec)
+[2025.07.06-22.08.39:116][773]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.06-22.08.39:116][773]LogContentValidation: Enabled validators:
+[2025.07.06-22.08.39:116][773]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.06-22.08.39:116][773]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.06-22.08.39:116][773]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.06-22.08.39:116][773]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.06-22.08.39:116][773]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.06-22.08.39:116][773]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.06-22.08.39:117][773]AssetCheck: /Game/Maps/SlashOpenWorld Validating asset
