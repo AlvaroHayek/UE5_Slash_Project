@@ -1256,3 +1256,1284 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.07.06-18.31.20:513][  0]LogPython: Display: No enabled plugins with python dependencies found, skipping
 [2025.07.06-18.31.20:630][  0]LogStreaming: Warning: Failed to read file 'Common/Selector.png' error.
 [2025.07.06-18.31.20:630][  0]LogSlate: Could not find file for Slate resource: Common/Selector.png
+[2025.07.06-18.31.20:706][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2025.07.06-18.31.20:802][  0]LogEditorDataStorage: Initializing
+[2025.07.06-18.31.20:803][  0]LogEditorDataStorage: Initialized
+[2025.07.06-18.31.20:845][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2025.07.06-18.31.20:848][  0]SourceControl: Revision control is disabled
+[2025.07.06-18.31.20:848][  0]LogUnrealEdMisc: Loading editor; pre map load, took 22.493
+[2025.07.06-18.31.20:849][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Content/Maps/Minimal_Default_2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.07.06-18.31.20:859][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2025.07.06-18.31.20:859][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.06-18.31.20:869][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.07.06-18.31.20:871][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.07.06-18.31.20:874][  0]LogAssetRegistry: Display: Triggering cache save on discovery complete
+[2025.07.06-18.31.21:261][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Minimal_Default_2'.
+[2025.07.06-18.31.21:261][  0]LogChaosDD: Creating Chaos Debug Draw Scene for world Minimal_Default_2
+[2025.07.06-18.31.21:284][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.07.06-18.31.21:299][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2025.07.06-18.31.21:299][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.07.06-18.31.21:299][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.115ms to complete.
+[2025.07.06-18.31.21:332][  0]LogUnrealEdMisc: Total Editor Startup Time, took 22.977
+[2025.07.06-18.31.21:448][  0]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2025.07.06-18.31.21:564][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.06-18.31.21:633][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.06-18.31.21:694][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.06-18.31.21:699][  0]LogAssetRegistry: Display: Asset registry cache written as 35.5 MiB to ../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Intermediate/CachedAssetRegistry_*.bin
+[2025.07.06-18.31.21:754][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.06-18.31.21:888][  0]LogPakFile: Initializing PakPlatformFile
+[2025.07.06-18.31.21:895][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2025.07.06-18.31.21:895][  0]LogPakFile: Initializing PakPlatformFile
+[2025.07.06-18.31.21:904][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2025.07.06-18.31.21:905][  0]LogPakFile: Initializing PakPlatformFile
+[2025.07.06-18.31.21:914][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2025.07.06-18.31.21:914][  0]LogPakFile: Initializing PakPlatformFile
+[2025.07.06-18.31.21:922][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2025.07.06-18.31.21:922][  0]LogPakFile: Initializing PakPlatformFile
+[2025.07.06-18.31.21:929][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2025.07.06-18.31.21:929][  0]LogPakFile: Initializing PakPlatformFile
+[2025.07.06-18.31.21:935][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2025.07.06-18.31.21:935][  0]LogPakFile: Initializing PakPlatformFile
+[2025.07.06-18.31.21:942][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2025.07.06-18.31.21:942][  0]LogPakFile: Initializing PakPlatformFile
+[2025.07.06-18.31.21:950][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2025.07.06-18.31.21:950][  0]LogPakFile: Initializing PakPlatformFile
+[2025.07.06-18.31.21:959][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2025.07.06-18.31.21:959][  0]LogPakFile: Initializing PakPlatformFile
+[2025.07.06-18.31.21:966][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2025.07.06-18.31.23:093][  0]LogWebBrowser: Loaded CEF3 version 90.6.7.2358 from C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/CEF3/Win64
+[2025.07.06-18.31.23:147][  0]LogCEFBrowser: CEF GPU acceleration enabled
+[2025.07.06-18.31.23:254][  0]LogStall: Startup...
+[2025.07.06-18.31.23:257][  0]LogStall: Startup complete.
+[2025.07.06-18.31.23:279][  0]LogLoad: (Engine Initialization) Total time: 24.92 seconds
+[2025.07.06-18.31.23:531][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2025.07.06-18.31.23:531][  0]LogCsvProfiler: Display: Metadata set : streamingpoolsizemb="1000"
+[2025.07.06-18.31.23:551][  0]LogSlate: Took 0.006341 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.07.06-18.31.23:559][  0]LogSlate: Took 0.005675 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2025.07.06-18.31.23:566][  0]LogSlate: Took 0.006427 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2025.07.06-18.31.23:580][  0]LogSlate: Took 0.005273 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2025.07.06-18.31.23:635][  0]LogStreaming: Display: FlushAsyncLoading(339): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.06-18.31.24:169][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.06-18.31.24:171][  0]LogFab: Error: Login failed - error code: EOS_InvalidAuth
+[2025.07.06-18.31.24:171][  0]LogFab: Display: Logging in using exchange code
+[2025.07.06-18.31.24:171][  0]LogFab: Display: Reading exchange code from commandline
+[2025.07.06-18.31.24:171][  0]LogEOSSDK: Error: LogEOSAuth: Invalid parameter EOS_Auth_Credentials.Token reason: must not be null or empty
+[2025.07.06-18.31.24:172][  0]LogPython: Display: Running start-up script C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/ControlRig/Content/Python/init_unreal.py... started...
+[2025.07.06-18.31.24:438][  0]LogPython: registering <class 'ControlRigWorkflows.workflow_deformation_rig_preset.provider'>
+
+[2025.07.06-18.31.24:446][  0]LogPython: Display: Running start-up script C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/ControlRig/Content/Python/init_unreal.py... took 273.582 ms
+[2025.07.06-18.31.24:671][  1]LogAssetRegistry: AssetRegistryGather time 0.1144s: AssetDataDiscovery 0.0415s, AssetDataGather 0.0138s, StoreResults 0.0591s. Wall time 12.8710s.
+	NumCachedDirectories 0. NumUncachedDirectories 1533. NumCachedFiles 7489. NumUncachedFiles 1.
+	BackgroundTickInterruptions 2.
+[2025.07.06-18.31.24:702][  1]LogSourceControl: Uncontrolled asset enumeration started...
+[2025.07.06-18.31.24:702][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000000 seconds (updated 0 objects)
+[2025.07.06-18.31.24:747][  1]LogFab: Error: Login failed - error code: EOS_InvalidParameters
+[2025.07.06-18.31.25:214][  3]LogEOSSDK: LogEOS: SDK Config Platform Update Request Successful, Time: 7.364246
+[2025.07.06-18.31.25:215][  3]LogEOSSDK: LogEOSAnalytics: EOS SDK Analytics disabled for route [1].
+[2025.07.06-18.31.25:217][  3]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7.652930
+[2025.07.06-18.31.25:676][  5]LogSourceControl: Uncontrolled asset enumeration finished in 0.97412 seconds (Found 7466 uncontrolled assets)
+[2025.07.06-18.31.26:514][  7]LogEOSSDK: LogEOSAnalytics: Start Session (User: ...)
+[2025.07.06-18.31.27:180][  9]LogEOSSDK: LogEOS: SDK Config Product Update Request Successful, Time: 9.286536
+[2025.07.06-18.31.27:182][  9]LogEOSSDK: LogEOS: SDK Config Data - Watermark: -987497851
+[2025.07.06-18.31.27:182][  9]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9.286536, Update Interval: 332.674347
+[2025.07.06-18.33.05:561][321]LogDerivedDataCache: C:/Users/Usuario/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.030 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 137 files in 271 folders with total size 0 MiB.
+[2025.07.06-18.33.33:368][551]LogSlate: Window 'Bridge' being destroyed
+[2025.07.06-18.33.33:372][551]LogSlate: Window 'Bridge' being destroyed
+[2025.07.06-18.33.33:372][551]LogWebBrowser: Closing browser during destruction, this may cause a later crash.
+[2025.07.06-18.33.33:372][551]LogWebBrowser: Deleting browser for Url=file:///C:/Program%20Files/Epic%20Games/UE_5.5/Engine/Plugins/Bridge/ThirdParty/megascans/index.html#/.
+[2025.07.06-18.34.05:293][278]LogSlate: Took 0.000284 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.07.06-18.34.32:939][655]LogWindows: LaunchURL https://www.fab.com/migrated-listing/xiemca1?source=quixel
+[2025.07.06-18.36.49:524][670]LogSlate: Took 0.009974 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.07.06-18.36.49:652][675]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_0
+[2025.07.06-18.36.50:151][680]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
+[2025.07.06-18.36.56:902][988]LogStreaming: Display: FlushAsyncLoading(342): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.06-18.37.21:709][988]LogFactory: FactoryCreateFile: DataTable with ReimportDataTableFactory (0 1 ../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/stone_structure_scnv2_mid/scnv2.json)
+[2025.07.06-18.37.28:488][988]LogSlate: Window 'DataTable Options' being destroyed
+[2025.07.06-18.37.28:546][988]LogAssetTools: The import task was canceled.
+[2025.07.06-18.37.28:558][989]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 370.996490
+[2025.07.06-18.37.29:117][ 13]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.06-18.37.29:117][ 13]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 371.537964, Update Interval: 300.049438
+[2025.07.06-18.37.33:879][258]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.07.06-18.37.33:976][258]LogContentBrowser: Creating deferred item: NewFolder
+[2025.07.06-18.37.33:985][259]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.07.06-18.37.35:946][363]LogContentBrowser: Attempting asset rename: NewFolder -> Stone
+[2025.07.06-18.37.35:947][363]LogContentBrowser: End creating deferred item NewFolder
+[2025.07.06-18.37.49:574][595]LogStreaming: Display: FlushAsyncLoading(347): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.06-18.37.49:608][595]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Usuario/Desktop/Unreal Engine + Unity/stone_structure_scnv2_mid/Stone_Structure_scnv2_Mid.fbx]
+[2025.07.06-18.38.01:887][595]LogSlate: Window 'Import Content' being destroyed
+[2025.07.06-18.38.01:958][595]LogInterchangeEngine: [Pending] Importing
+[2025.07.06-18.38.01:959][595]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.07.06-18.38.01:959][595]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Usuario/Desktop/Unreal Engine + Unity/stone_structure_scnv2_mid/Stone_Structure_scnv2_Mid_2K_AO.jpg]
+[2025.07.06-18.38.01:960][595]LogInterchangeEngine: [Pending] Importing -  (3)
+[2025.07.06-18.38.01:960][595]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Usuario/Desktop/Unreal Engine + Unity/stone_structure_scnv2_mid/Stone_Structure_scnv2_Mid_2K_BaseColor.jpg]
+[2025.07.06-18.38.01:961][595]LogInterchangeEngine: [Pending] Importing -  (4)
+[2025.07.06-18.38.01:961][595]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Usuario/Desktop/Unreal Engine + Unity/stone_structure_scnv2_mid/Stone_Structure_scnv2_Mid_2K_Bump.jpg]
+[2025.07.06-18.38.01:962][595]LogInterchangeEngine: [Pending] Importing -  (5)
+[2025.07.06-18.38.01:962][595]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Usuario/Desktop/Unreal Engine + Unity/stone_structure_scnv2_mid/Stone_Structure_scnv2_Mid_2K_Cavity.jpg]
+[2025.07.06-18.38.01:962][595]LogInterchangeEngine: [Pending] Importing -  (6)
+[2025.07.06-18.38.01:963][595]LogInterchangeEngine: [Pending] Importing -  (7)
+[2025.07.06-18.38.01:964][595]LogInterchangeEngine: [Pending] Importing -  (8)
+[2025.07.06-18.38.01:965][595]LogInterchangeEngine: [Pending] Importing -  (9)
+[2025.07.06-18.38.02:005][596]LogStreaming: Display: FlushAsyncLoading(360): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.06-18.38.02:103][598]LogStreaming: Display: FlushAsyncLoading(361): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.06-18.38.02:108][599]LogInterchangeImport: JPEG file [C:/Users/Usuario/Desktop/Unreal Engine + Unity/stone_structure_scnv2_mid/Stone_Structure_scnv2_Mid_2K_Bump.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'.
+[2025.07.06-18.38.02:108][599]LogInterchangeImport: JPEG file [C:/Users/Usuario/Desktop/Unreal Engine + Unity/stone_structure_scnv2_mid/Stone_Structure_scnv2_Mid_2K_AO.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'.
+[2025.07.06-18.38.02:108][599]LogInterchangeImport: JPEG file [C:/Users/Usuario/Desktop/Unreal Engine + Unity/stone_structure_scnv2_mid/Stone_Structure_scnv2_Mid_2K_BaseColor.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'.
+[2025.07.06-18.38.02:108][599]LogInterchangeImport: JPEG file [C:/Users/Usuario/Desktop/Unreal Engine + Unity/stone_structure_scnv2_mid/Stone_Structure_scnv2_Mid_2K_Cavity.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'.
+[2025.07.06-18.38.02:187][600]LogStaticMesh: Display: Building static mesh Stone_Structure_scnv2_Mid (Required Memory Estimate: 15.923856 MB)...
+[2025.07.06-18.38.02:253][600]LogStaticMesh: Adjacency [0.01s], tris: 10413, UVs 1
+[2025.07.06-18.38.02:266][600]LogStaticMesh: Clustering [0.01s]. Ratio: 1.012195
+[2025.07.06-18.38.02:267][600]LogStaticMesh: Leaves [0.00s]
+[2025.07.06-18.38.02:294][601]LogTexture: Display: Building textures: /Game/Stone/Stone_Structure_scnv2_Mid_2K_AO.Stone_Structure_scnv2_Mid_2K_AO (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 280.999983 MB), EncodeSpeed: Fast
+[2025.07.06-18.38.02:327][601]LogTexture: Display: Building textures: /Game/Stone/Stone_Structure_scnv2_Mid_2K_Bump.Stone_Structure_scnv2_Mid_2K_Bump (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 280.999983 MB), EncodeSpeed: Fast
+[2025.07.06-18.38.02:592][602]LogTexture: Display: Building textures: /Game/Stone/Stone_Structure_scnv2_Mid_2K_Cavity.Stone_Structure_scnv2_Mid_2K_Cavity (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 280.999983 MB), EncodeSpeed: Fast
+[2025.07.06-18.38.02:655][603]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Usuario/Des..._structure_scnv2_mid/Stone_Structure_scnv2_Mid_2K_Bump.jpg]
+[2025.07.06-18.38.02:656][603]LogInterchangeEngine: [Pending] Importing -  (8)
+[2025.07.06-18.38.02:656][603]LogInterchangeEngine: [Pending] Importing -  (8)
+[2025.07.06-18.38.02:656][603]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Usuario/Desktop/Unreal Engine + Unity/stone_structure_scnv2_mid/Stone_Structure_scnv2_Mid_2K_Gloss.jpg]
+[2025.07.06-18.38.02:657][603]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Usuario/Des..._structure_scnv2_mid/Stone_Structure_scnv2_Mid_2K_AO.jpg]
+[2025.07.06-18.38.02:657][603]LogInterchangeEngine: [Pending] Importing -  (7)
+[2025.07.06-18.38.02:657][603]LogInterchangeEngine: [Pending] Importing -  (7)
+[2025.07.06-18.38.02:657][603]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Usuario/Desktop/Unreal Engine + Unity/stone_structure_scnv2_mid/Stone_Structure_scnv2_Mid_2K_Normal.jpg]
+[2025.07.06-18.38.02:710][606]LogStreaming: Display: FlushAsyncLoading(366): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.06-18.38.02:712][606]LogInterchangeImport: JPEG file [C:/Users/Usuario/Desktop/Unreal Engine + Unity/stone_structure_scnv2_mid/Stone_Structure_scnv2_Mid_2K_Gloss.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'.
+[2025.07.06-18.38.02:713][606]LogInterchangeImport: JPEG file [C:/Users/Usuario/Desktop/Unreal Engine + Unity/stone_structure_scnv2_mid/Stone_Structure_scnv2_Mid_2K_Normal.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'.
+[2025.07.06-18.38.02:760][607]LogTexture: Display: Building textures: /Game/Stone/Stone_Structure_scnv2_Mid_2K_BaseColor.Stone_Structure_scnv2_Mid_2K_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 280.999983 MB), EncodeSpeed: Fast
+[2025.07.06-18.38.02:818][608]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Usuario/Des..._structure_scnv2_mid/Stone_Structure_scnv2_Mid_2K_Cavity.jpg]
+[2025.07.06-18.38.02:818][608]LogInterchangeEngine: [Pending] Importing -  (6)
+[2025.07.06-18.38.02:818][608]LogInterchangeEngine: [Pending] Importing -  (6)
+[2025.07.06-18.38.02:818][608]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Usuario/Desktop/Unreal Engine + Unity/stone_structure_scnv2_mid/Stone_Structure_scnv2_Mid_2K_Roughness.jpg]
+[2025.07.06-18.38.02:819][608]LogTexture: Display: Building textures: /Game/Stone/Stone_Structure_scnv2_Mid_2K_Gloss.Stone_Structure_scnv2_Mid_2K_Gloss (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 280.999983 MB), EncodeSpeed: Fast
+[2025.07.06-18.38.02:848][608]LogStaticMesh: Reduce [0.58s]
+[2025.07.06-18.38.02:925][608]LogInterchangePipeline: Display: Auto-detected normal map
+[2025.07.06-18.38.03:003][610]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Usuario/Des..._structure_scnv2_mid/Stone_Structure_scnv2_Mid_2K_BaseColor.jpg]
+[2025.07.06-18.38.03:003][610]LogInterchangeEngine: [Pending] Importing -  (5)
+[2025.07.06-18.38.03:003][610]LogInterchangeEngine: [Pending] Importing -  (5)
+[2025.07.06-18.38.03:003][610]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Usuario/Desktop/Unreal Engine + Unity/stone_structure_scnv2_mid/Stone_Structure_scnv2_Mid_2K_Specular.jpg]
+[2025.07.06-18.38.03:027][611]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Usuario/Des..._structure_scnv2_mid/Stone_Structure_scnv2_Mid_2K_Gloss.jpg]
+[2025.07.06-18.38.03:027][611]LogInterchangeEngine: [Pending] Importing -  (4)
+[2025.07.06-18.38.03:027][611]LogStreaming: Display: FlushAsyncLoading(368): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.06-18.38.03:028][611]LogInterchangeImport: JPEG file [C:/Users/Usuario/Desktop/Unreal Engine + Unity/stone_structure_scnv2_mid/Stone_Structure_scnv2_Mid_2K_Roughness.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'.
+[2025.07.06-18.38.03:028][612]LogTexture: Display: Building textures: /Game/Stone/Stone_Structure_scnv2_Mid_2K_Normal.Stone_Structure_scnv2_Mid_2K_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 337.499988 MB), EncodeSpeed: Fast
+[2025.07.06-18.38.03:029][612]LogStaticMesh: Fallback [0.18s], num tris: 1913
+[2025.07.06-18.38.03:039][612]LogStaticMesh: ConstrainClusters:
+[2025.07.06-18.38.03:040][612]LogStaticMesh:   Input: 171 Clusters, 21496 Triangles and 14895 Vertices
+[2025.07.06-18.38.03:040][612]LogStaticMesh:   Output without splits: 171 Clusters, 21496 Triangles and 15266 Vertices
+[2025.07.06-18.38.03:040][612]LogStaticMesh:   Output with splits: 171 Clusters, 21496 Triangles and 15266 Vertices
+[2025.07.06-18.38.03:041][612]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 171, Slow Path Clusters: 0, 1 Material: 171, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.07.06-18.38.03:046][612]LogStaticMesh: WritePages:
+[2025.07.06-18.38.03:046][612]LogStaticMesh:   Root: GPU size: 32692 bytes. 1 Pages. 32692.000 bytes per page (99.768% utilization).
+[2025.07.06-18.38.03:046][612]LogStaticMesh:   Streaming: GPU size: 166712 bytes. 2 Pages (2 with relative encoding). 83356.000 bytes per page (63.596% utilization).
+[2025.07.06-18.38.03:046][612]LogStaticMesh:   Page data disk size: 176004 bytes. Fixup data size: 752 bytes.
+[2025.07.06-18.38.03:046][612]LogStaticMesh:   Total GPU size: 199404 bytes, Total disk size: 176756 bytes.
+[2025.07.06-18.38.03:046][612]LogStaticMesh: Encode [0.02s]
+[2025.07.06-18.38.03:046][612]LogStaticMesh: Nanite build [0.80s]
+
+[2025.07.06-18.38.03:061][612]LogStaticMesh: Built static mesh [0.87s] /Game/Stone/Stone_Structure_scnv2_Mid.Stone_Structure_scnv2_Mid
+[2025.07.06-18.38.03:123][613]LogStreaming: Display: FlushAsyncLoading(369): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.06-18.38.03:123][613]LogInterchangeImport: JPEG file [C:/Users/Usuario/Desktop/Unreal Engine + Unity/stone_structure_scnv2_mid/Stone_Structure_scnv2_Mid_2K_Specular.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'.
+[2025.07.06-18.38.03:153][614]LogTexture: Display: Building textures: /Game/Stone/Stone_Structure_scnv2_Mid_2K_Roughness.Stone_Structure_scnv2_Mid_2K_Roughness (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 280.999983 MB), EncodeSpeed: Fast
+[2025.07.06-18.38.03:241][615]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Usuario/Des..._structure_scnv2_mid/Stone_Structure_scnv2_Mid_2K_Normal.jpg]
+[2025.07.06-18.38.03:241][615]LogInterchangeEngine: [Pending] Importing -  (3)
+[2025.07.06-18.38.03:259][616]LogTexture: Display: Building textures: /Game/Stone/Stone_Structure_scnv2_Mid_2K_Specular.Stone_Structure_scnv2_Mid_2K_Specular (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 280.999983 MB), EncodeSpeed: Fast
+[2025.07.06-18.38.03:325][617]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Usuario/Des..._structure_scnv2_mid/Stone_Structure_scnv2_Mid_2K_Roughness.jpg]
+[2025.07.06-18.38.03:325][617]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.07.06-18.38.03:364][620]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Usuario/Des..._structure_scnv2_mid/Stone_Structure_scnv2_Mid_2K_Specular.jpg]
+[2025.07.06-18.38.03:364][620]LogInterchangeEngine: [Pending] Importing -  (1)
+[2025.07.06-18.38.03:947][653]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Usuario/Des..._structure_scnv2_mid/Stone_Structure_scnv2_Mid.fbx]
+[2025.07.06-18.38.03:948][653]Interchange: Warning: [C:/Users/Usuario/Desktop/Unreal Engine + Unity/stone_structure_scnv2_mid/Stone_Structure_scnv2_Mid.fbx : 'Stone_Structure_scnv2_Mid', StaticMesh] No smoothing group information was found for this mesh 'Aset_stone_castle_S_scnv2_LOD2' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2025.07.06-18.38.03:971][653]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.07.06-18.38.03:971][653]LogInterchangeEngine: [Success] Import Done
+[2025.07.06-18.38.05:116][707]LogMaterial: Display: Material /Game/Stone/MatID_1.MatID_1 needed to have new flag set bUsedWithNanite !
+[2025.07.06-18.40.28:650][369]LogShaderCompilers: Display: ================================================
+[2025.07.06-18.40.28:650][369]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.07.06-18.40.28:650][369]LogShaderCompilers: Display: Total job queries 167, among them cache hits 10 (5.99%), DDC hits 140 (83.83%), Duplicates 2 (1.20%)
+[2025.07.06-18.40.28:650][369]LogShaderCompilers: Display: Tracking 155 distinct input hashes that result in 142 distinct outputs (91.61%)
+[2025.07.06-18.40.28:650][369]LogShaderCompilers: Display: RAM used: 117.52 KiB of 819.20 MiB budget. Usage: 0.01%
+[2025.07.06-18.40.28:650][369]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.07.06-18.40.28:650][369]LogShaderCompilers: Display: Shaders Compiled: 15
+[2025.07.06-18.40.28:650][369]LogShaderCompilers: Display: Jobs assigned 15, completed 15 (100%)
+[2025.07.06-18.40.28:650][369]LogShaderCompilers: Display: Average time worker was idle: 1.57 s
+[2025.07.06-18.40.28:650][369]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.08 s
+[2025.07.06-18.40.28:650][369]LogShaderCompilers: Display: Job execution time: average 2.39 s, max 3.58 s
+[2025.07.06-18.40.28:650][369]LogShaderCompilers: Display: Job life time (pending + execution): average 2.45 s, max 3.65
+[2025.07.06-18.40.28:650][369]LogShaderCompilers: Display: Shader code size: average 10.815 KiB, min 4.133 KiB, max 18.84 KiB
+[2025.07.06-18.40.28:650][369]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 5.28 s
+[2025.07.06-18.40.28:650][369]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.07.06-18.40.28:650][369]LogShaderCompilers: Display: Jobs were issued in 10 batches (only local compilation was used), average 1.50 jobs/batch
+[2025.07.06-18.40.28:650][369]LogShaderCompilers: Display: Average processing rate: 2.84 jobs/sec
+[2025.07.06-18.40.28:650][369]LogShaderCompilers: Display: Total thread time: 16.758 s
+[2025.07.06-18.40.28:650][369]LogShaderCompilers: Display: Total thread preprocess time: 3.298 s
+[2025.07.06-18.40.28:650][369]LogShaderCompilers: Display: Percentage time preprocessing: 19.68%
+[2025.07.06-18.40.28:650][369]LogShaderCompilers: Display: Effective parallelization: 3.17 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.07.06-18.40.28:650][369]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.07.06-18.40.28:650][369]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    1 times, average 2.32 sec, max 2.32 sec, min 2.32 sec)
+[2025.07.06-18.40.28:650][369]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    1 times, average 2.30 sec, max 2.30 sec, min 2.30 sec)
+[2025.07.06-18.40.28:651][369]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    1 times, average 1.81 sec, max 1.81 sec, min 1.81 sec)
+[2025.07.06-18.40.28:651][369]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    2 times, average 1.45 sec, max 1.71 sec, min 1.20 sec)
+[2025.07.06-18.40.28:651][369]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    2 times, average 1.37 sec, max 1.74 sec, min 0.99 sec)
+[2025.07.06-18.40.28:651][369]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.07.06-18.40.28:651][369]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 17.35% of total time (compiled    2 times, average 1.45 sec, max 1.71 sec, min 1.20 sec)
+[2025.07.06-18.40.28:651][369]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 16.32% of total time (compiled    2 times, average 1.37 sec, max 1.74 sec, min 0.99 sec)
+[2025.07.06-18.40.28:651][369]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy - 13.84% of total time (compiled    1 times, average 2.32 sec, max 2.32 sec, min 2.32 sec)
+[2025.07.06-18.40.28:651][369]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight - 13.75% of total time (compiled    1 times, average 2.30 sec, max 2.30 sec, min 2.30 sec)
+[2025.07.06-18.40.28:651][369]LogShaderCompilers: Display:                                                 FLumenCardCS - 10.78% of total time (compiled    1 times, average 1.81 sec, max 1.81 sec, min 1.81 sec)
+[2025.07.06-18.40.28:651][369]LogShaderCompilers: Display: === Material stats ===
+[2025.07.06-18.40.28:651][369]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.07.06-18.40.28:651][369]LogShaderCompilers: Display: Materials Translated:    133
+[2025.07.06-18.40.28:651][369]LogShaderCompilers: Display: Material Total Translate Time: 0.12 s
+[2025.07.06-18.40.28:651][369]LogShaderCompilers: Display: Material Translation Only: 0.04 s (34%)
+[2025.07.06-18.40.28:651][369]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.07.06-18.40.28:651][369]LogShaderCompilers: Display: Material Cache Hits: 19 (14%)
+[2025.07.06-18.40.28:651][369]LogShaderCompilers: Display: ================================================
+[2025.07.06-18.41.06:326][557]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.07.06-18.41.08:587][557]LogSlate: Window 'Save Content' being destroyed
+[2025.07.06-18.41.08:598][557]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.06-18.41.08:632][557]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Stone/MatID_1] ([1] browsable assets)...
+[2025.07.06-18.41.08:758][557]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Stone/MatID_1.MatID_1]
+[2025.07.06-18.41.08:758][557]OBJ SavePackage: Finished generating thumbnails for package [/Game/Stone/MatID_1]
+[2025.07.06-18.41.08:758][557]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Stone/MatID_1" FILE="../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Content/Stone/MatID_1.uasset" SILENT=true
+[2025.07.06-18.41.08:761][557]LogSavePackage: Moving output files for package: /Game/Stone/MatID_1
+[2025.07.06-18.41.08:761][557]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Saved/MatID_18759204C4054FE1FC316D282809DBCBC.tmp' to '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Content/Stone/MatID_1.uasset'
+[2025.07.06-18.41.08:762][557]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Stone/Stone_Structure_scnv2_Mid] ([1] browsable assets)...
+[2025.07.06-18.41.08:875][557]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Stone/Stone_Structure_scnv2_Mid.Stone_Structure_scnv2_Mid]
+[2025.07.06-18.41.08:875][557]OBJ SavePackage: Finished generating thumbnails for package [/Game/Stone/Stone_Structure_scnv2_Mid]
+[2025.07.06-18.41.08:889][557]LogSavePackage: Moving output files for package: /Game/Stone/Stone_Structure_scnv2_Mid
+[2025.07.06-18.41.08:889][557]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Saved/Stone_Structure_scnv2_Mid22021A7845925A8BAB6C54BE8D532571.tmp' to '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Content/Stone/Stone_Structure_scnv2_Mid.uasset'
+[2025.07.06-18.41.08:890][557]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Stone/Stone_Structure_scnv2_Mid_2K_AO] ([1] browsable assets)...
+[2025.07.06-18.41.08:893][557]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Stone/Stone_Structure_scnv2_Mid_2K_AO.Stone_Structure_scnv2_Mid_2K_AO]
+[2025.07.06-18.41.08:893][557]OBJ SavePackage: Finished generating thumbnails for package [/Game/Stone/Stone_Structure_scnv2_Mid_2K_AO]
+[2025.07.06-18.41.08:895][557]LogSavePackage: Moving output files for package: /Game/Stone/Stone_Structure_scnv2_Mid_2K_AO
+[2025.07.06-18.41.08:895][557]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Saved/Stone_Structure_scnv2_Mid_2K_AO66FDB0884C9D2256F485B2AE3262DB71.tmp' to '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Content/Stone/Stone_Structure_scnv2_Mid_2K_AO.uasset'
+[2025.07.06-18.41.08:898][557]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Stone/Stone_Structure_scnv2_Mid_2K_BaseColor] ([1] browsable assets)...
+[2025.07.06-18.41.08:900][557]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Stone/Stone_Structure_scnv2_Mid_2K_BaseColor.Stone_Structure_scnv2_Mid_2K_BaseColor]
+[2025.07.06-18.41.08:900][557]OBJ SavePackage: Finished generating thumbnails for package [/Game/Stone/Stone_Structure_scnv2_Mid_2K_BaseColor]
+[2025.07.06-18.41.08:902][557]LogSavePackage: Moving output files for package: /Game/Stone/Stone_Structure_scnv2_Mid_2K_BaseColor
+[2025.07.06-18.41.08:903][557]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Saved/Stone_Structure_scnv2_Mid_2K_Bas5D40EF2B496E134CB75DD8A556632EBE.tmp' to '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Content/Stone/Stone_Structure_scnv2_Mid_2K_BaseColor.uasset'
+[2025.07.06-18.41.08:904][557]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Stone/Stone_Structure_scnv2_Mid_2K_Bump] ([1] browsable assets)...
+[2025.07.06-18.41.08:905][557]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Stone/Stone_Structure_scnv2_Mid_2K_Bump.Stone_Structure_scnv2_Mid_2K_Bump]
+[2025.07.06-18.41.08:905][557]OBJ SavePackage: Finished generating thumbnails for package [/Game/Stone/Stone_Structure_scnv2_Mid_2K_Bump]
+[2025.07.06-18.41.08:908][557]LogSavePackage: Moving output files for package: /Game/Stone/Stone_Structure_scnv2_Mid_2K_Bump
+[2025.07.06-18.41.08:908][557]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Saved/Stone_Structure_scnv2_Mid_2K_Bum24CEFA314E62B806668D9591C3A7C827.tmp' to '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Content/Stone/Stone_Structure_scnv2_Mid_2K_Bump.uasset'
+[2025.07.06-18.41.08:909][557]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Stone/Stone_Structure_scnv2_Mid_2K_Cavity] ([1] browsable assets)...
+[2025.07.06-18.41.08:911][557]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Stone/Stone_Structure_scnv2_Mid_2K_Cavity.Stone_Structure_scnv2_Mid_2K_Cavity]
+[2025.07.06-18.41.08:911][557]OBJ SavePackage: Finished generating thumbnails for package [/Game/Stone/Stone_Structure_scnv2_Mid_2K_Cavity]
+[2025.07.06-18.41.08:913][557]LogSavePackage: Moving output files for package: /Game/Stone/Stone_Structure_scnv2_Mid_2K_Cavity
+[2025.07.06-18.41.08:913][557]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Saved/Stone_Structure_scnv2_Mid_2K_Cav02147A994E95A6A9399160BE2353FB79.tmp' to '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Content/Stone/Stone_Structure_scnv2_Mid_2K_Cavity.uasset'
+[2025.07.06-18.41.08:914][557]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Stone/Stone_Structure_scnv2_Mid_2K_Gloss] ([1] browsable assets)...
+[2025.07.06-18.41.08:916][557]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Stone/Stone_Structure_scnv2_Mid_2K_Gloss.Stone_Structure_scnv2_Mid_2K_Gloss]
+[2025.07.06-18.41.08:916][557]OBJ SavePackage: Finished generating thumbnails for package [/Game/Stone/Stone_Structure_scnv2_Mid_2K_Gloss]
+[2025.07.06-18.41.08:918][557]LogSavePackage: Moving output files for package: /Game/Stone/Stone_Structure_scnv2_Mid_2K_Gloss
+[2025.07.06-18.41.08:918][557]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Saved/Stone_Structure_scnv2_Mid_2K_Glo171EF4944600E6F58CDD04A3949C08BE.tmp' to '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Content/Stone/Stone_Structure_scnv2_Mid_2K_Gloss.uasset'
+[2025.07.06-18.41.08:920][557]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Stone/Stone_Structure_scnv2_Mid_2K_Normal] ([1] browsable assets)...
+[2025.07.06-18.41.08:921][557]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Stone/Stone_Structure_scnv2_Mid_2K_Normal.Stone_Structure_scnv2_Mid_2K_Normal]
+[2025.07.06-18.41.08:921][557]OBJ SavePackage: Finished generating thumbnails for package [/Game/Stone/Stone_Structure_scnv2_Mid_2K_Normal]
+[2025.07.06-18.41.08:925][557]LogSavePackage: Moving output files for package: /Game/Stone/Stone_Structure_scnv2_Mid_2K_Normal
+[2025.07.06-18.41.08:925][557]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Saved/Stone_Structure_scnv2_Mid_2K_Nor900259ED43545F94C297C6A1BEF9F17E.tmp' to '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Content/Stone/Stone_Structure_scnv2_Mid_2K_Normal.uasset'
+[2025.07.06-18.41.08:927][557]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Stone/Stone_Structure_scnv2_Mid_2K_Roughness] ([1] browsable assets)...
+[2025.07.06-18.41.08:928][557]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Stone/Stone_Structure_scnv2_Mid_2K_Roughness.Stone_Structure_scnv2_Mid_2K_Roughness]
+[2025.07.06-18.41.08:928][557]OBJ SavePackage: Finished generating thumbnails for package [/Game/Stone/Stone_Structure_scnv2_Mid_2K_Roughness]
+[2025.07.06-18.41.08:930][557]LogSavePackage: Moving output files for package: /Game/Stone/Stone_Structure_scnv2_Mid_2K_Roughness
+[2025.07.06-18.41.08:931][557]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Saved/Stone_Structure_scnv2_Mid_2K_Rou98CD287349FEC75309E2ADB2425F5797.tmp' to '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Content/Stone/Stone_Structure_scnv2_Mid_2K_Roughness.uasset'
+[2025.07.06-18.41.08:932][557]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Stone/Stone_Structure_scnv2_Mid_2K_Specular] ([1] browsable assets)...
+[2025.07.06-18.41.08:934][557]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Stone/Stone_Structure_scnv2_Mid_2K_Specular.Stone_Structure_scnv2_Mid_2K_Specular]
+[2025.07.06-18.41.08:934][557]OBJ SavePackage: Finished generating thumbnails for package [/Game/Stone/Stone_Structure_scnv2_Mid_2K_Specular]
+[2025.07.06-18.41.08:936][557]LogSavePackage: Moving output files for package: /Game/Stone/Stone_Structure_scnv2_Mid_2K_Specular
+[2025.07.06-18.41.08:936][557]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Saved/Stone_Structure_scnv2_Mid_2K_Spe9B0C1BE4438CF42E9F773FA7EE01AD57.tmp' to '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Content/Stone/Stone_Structure_scnv2_Mid_2K_Specular.uasset'
+[2025.07.06-18.41.08:946][557]LogFileHelpers: InternalPromptForCheckoutAndSave took 348.954 ms
+[2025.07.06-18.41.08:982][557]LogContentValidation: Display: Starting to validate 10 assets
+[2025.07.06-18.41.08:982][557]LogContentValidation: Enabled validators:
+[2025.07.06-18.41.08:982][557]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.06-18.41.08:982][557]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.06-18.41.08:982][557]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.06-18.41.08:982][557]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.06-18.41.08:982][557]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.06-18.41.08:982][557]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.06-18.41.08:982][557]AssetCheck: /Game/Stone/MatID_1 Validating asset
+[2025.07.06-18.41.08:982][557]AssetCheck: /Game/Stone/Stone_Structure_scnv2_Mid Validating asset
+[2025.07.06-18.41.08:982][557]AssetCheck: /Game/Stone/Stone_Structure_scnv2_Mid_2K_AO Validating asset
+[2025.07.06-18.41.08:982][557]AssetCheck: /Game/Stone/Stone_Structure_scnv2_Mid_2K_BaseColor Validating asset
+[2025.07.06-18.41.08:983][557]AssetCheck: /Game/Stone/Stone_Structure_scnv2_Mid_2K_Bump Validating asset
+[2025.07.06-18.41.08:983][557]AssetCheck: /Game/Stone/Stone_Structure_scnv2_Mid_2K_Cavity Validating asset
+[2025.07.06-18.41.08:983][557]AssetCheck: /Game/Stone/Stone_Structure_scnv2_Mid_2K_Gloss Validating asset
+[2025.07.06-18.41.08:983][557]AssetCheck: /Game/Stone/Stone_Structure_scnv2_Mid_2K_Normal Validating asset
+[2025.07.06-18.41.08:983][557]AssetCheck: /Game/Stone/Stone_Structure_scnv2_Mid_2K_Roughness Validating asset
+[2025.07.06-18.41.08:983][557]AssetCheck: /Game/Stone/Stone_Structure_scnv2_Mid_2K_Specular Validating asset
+[2025.07.06-18.41.41:570][812]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Stone/Stone_Structure_scnv2_Mid.Stone_Structure_scnv2_Mid
+[2025.07.06-18.41.41:572][812]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Stone/Stone_Structure_scnv2_Mid.Stone_Structure_scnv2_Mid
+[2025.07.06-18.41.41:576][812]LogActorFactory: Actor Factory spawned StaticMesh /Game/Stone/Stone_Structure_scnv2_Mid.Stone_Structure_scnv2_Mid as actor: StaticMeshActor /Game/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.StaticMeshActor_0
+[2025.07.06-18.41.44:433][836]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.07.06-18.41.44:435][836]LogEditorActor: Deleted 0 Actors (0.072 secs)
+[2025.07.06-18.41.44:443][836]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Stone/Stone_Structure_scnv2_Mid.Stone_Structure_scnv2_Mid
+[2025.07.06-18.41.44:443][836]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Stone/Stone_Structure_scnv2_Mid.Stone_Structure_scnv2_Mid
+[2025.07.06-18.41.44:445][836]LogActorFactory: Actor Factory spawned StaticMesh /Game/Stone/Stone_Structure_scnv2_Mid.Stone_Structure_scnv2_Mid as actor: StaticMeshActor /Game/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.StaticMeshActor_3
+[2025.07.06-18.41.52:897][ 48]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Stone/MatID_1.MatID_1
+[2025.07.06-18.41.52:913][ 48]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/None.png' error.
+[2025.07.06-18.41.52:913][ 48]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/None.png
+[2025.07.06-18.41.52:913][ 48]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Bool.png' error.
+[2025.07.06-18.41.52:913][ 48]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Bool.png
+[2025.07.06-18.41.52:913][ 48]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float1.png' error.
+[2025.07.06-18.41.52:913][ 48]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float1.png
+[2025.07.06-18.41.52:913][ 48]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_RGB.png' error.
+[2025.07.06-18.41.52:913][ 48]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_RGB.png
+[2025.07.06-18.41.52:913][ 48]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float2.png' error.
+[2025.07.06-18.41.52:913][ 48]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float2.png
+[2025.07.06-18.41.52:913][ 48]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_RPY.png' error.
+[2025.07.06-18.41.52:913][ 48]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_RPY.png
+[2025.07.06-18.41.52:913][ 48]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_SinglePixel.png' error.
+[2025.07.06-18.41.52:913][ 48]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_SinglePixel.png
+[2025.07.06-18.41.52:913][ 48]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_LeftTopRight.png' error.
+[2025.07.06-18.41.52:913][ 48]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_LeftTopRight.png
+[2025.07.06-18.41.52:913][ 48]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_XYZ.png' error.
+[2025.07.06-18.41.52:913][ 48]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_XYZ.png
+[2025.07.06-18.41.52:913][ 48]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_LeftBottomRight.png' error.
+[2025.07.06-18.41.52:913][ 48]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_LeftBottomRight.png
+[2025.07.06-18.41.52:913][ 48]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_TopLeftBottom.png' error.
+[2025.07.06-18.41.52:915][ 48]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_TopLeftBottom.png
+[2025.07.06-18.41.52:915][ 48]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float4_RGBA.png' error.
+[2025.07.06-18.41.52:915][ 48]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float4_RGBA.png
+[2025.07.06-18.41.52:915][ 48]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_TopRightBottom.png' error.
+[2025.07.06-18.41.52:915][ 48]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_TopRightBottom.png
+[2025.07.06-18.41.52:915][ 48]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float_Any.png' error.
+[2025.07.06-18.41.52:915][ 48]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float_Any.png
+[2025.07.06-18.41.52:915][ 48]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_Top.png' error.
+[2025.07.06-18.41.52:915][ 48]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_Top.png
+[2025.07.06-18.41.52:915][ 48]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Texture.png' error.
+[2025.07.06-18.41.52:915][ 48]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Texture.png
+[2025.07.06-18.41.52:915][ 48]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_Bottom.png' error.
+[2025.07.06-18.41.52:915][ 48]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaterialTypeUnlit.png' error.
+[2025.07.06-18.41.52:915][ 48]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_Bottom.png
+[2025.07.06-18.41.52:915][ 48]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaterialTypeUnlit.png
+[2025.07.06-18.41.52:915][ 48]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_Left.png' error.
+[2025.07.06-18.41.52:915][ 48]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_Left.png
+[2025.07.06-18.41.52:915][ 48]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/BaseToggle_16x.png' error.
+[2025.07.06-18.41.52:915][ 48]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/BaseToggle_16x.png
+[2025.07.06-18.41.52:915][ 48]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_Right.png' error.
+[2025.07.06-18.41.52:915][ 48]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_Right.png
+[2025.07.06-18.41.52:915][ 48]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/WhiteBall.png' error.
+[2025.07.06-18.41.52:915][ 48]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/WhiteBall.png
+[2025.07.06-18.41.52:915][ 48]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/Remove_16px.png' error.
+[2025.07.06-18.41.52:915][ 48]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/Remove_16px.png
+[2025.07.06-18.41.52:915][ 48]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaterialTypeDefaultLit.png' error.
+[2025.07.06-18.41.52:915][ 48]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaterialTypeDefaultLit.png
+[2025.07.06-18.41.52:915][ 48]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaskToggle_16x.png' error.
+[2025.07.06-18.41.52:915][ 48]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaskToggle_16x.png
+[2025.07.06-18.41.52:915][ 48]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/LayerAdd.png' error.
+[2025.07.06-18.41.52:915][ 48]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/LayerAdd.png
+[2025.07.06-18.41.52:915][ 48]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/Duplicate_40x.png' error.
+[2025.07.06-18.41.52:915][ 48]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/Duplicate_40x.png
+[2025.07.06-18.41.52:915][ 48]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/LayerRemove.png' error.
+[2025.07.06-18.41.52:915][ 48]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/LayerRemove.png
+[2025.07.06-18.41.52:994][ 48]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2025.07.06-18.41.53:036][ 48]LogStreaming: Display: FlushAsyncLoading(370): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.06-18.41.53:675][ 48]MaterialEditorStats: Texture samplers: 0/16
+[2025.07.06-18.41.53:675][ 48]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.07.06-18.41.53:675][ 48]MaterialEditorStats: Shader Count: 0
+[2025.07.06-18.41.53:675][ 48]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.06-18.41.53:695][ 48]LogSlate: Took 0.007826 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.07.06-18.41.53:865][ 50]MaterialEditorStats: Base pass shader: 167 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.07.06-18.41.53:865][ 50]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.07.06-18.41.53:865][ 50]MaterialEditorStats: Texture samplers: 1/16
+[2025.07.06-18.41.53:865][ 50]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.07.06-18.41.53:865][ 50]MaterialEditorStats: Shader Count: 4
+[2025.07.06-18.41.53:865][ 50]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.06-18.41.56:728][122]MaterialEditorStats: Texture samplers: 0/16
+[2025.07.06-18.41.56:728][122]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.07.06-18.41.56:728][122]MaterialEditorStats: Shader Count: 0
+[2025.07.06-18.41.56:728][122]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.06-18.41.57:226][135]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.07.06-18.41.57:227][135]MaterialEditorStats: Texture samplers: 0/16
+[2025.07.06-18.41.57:227][135]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.07.06-18.41.57:227][135]MaterialEditorStats: Shader Count: 1
+[2025.07.06-18.41.57:227][135]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.06-18.41.57:834][150]MaterialEditorStats: Base pass shader: 166 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.07.06-18.41.57:834][150]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.07.06-18.41.57:834][150]MaterialEditorStats: Texture samplers: 1/16
+[2025.07.06-18.41.57:834][150]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.07.06-18.41.57:834][150]MaterialEditorStats: Shader Count: 4
+[2025.07.06-18.41.57:834][150]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.06-18.42.10:206][877]MaterialEditorStats: Texture samplers: 0/16
+[2025.07.06-18.42.10:206][877]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.07.06-18.42.10:206][877]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.06-18.42.10:206][877]MaterialEditorStats: Shader Count: 0
+[2025.07.06-18.42.10:206][877]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.06-18.42.10:858][892]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.07.06-18.42.10:858][892]MaterialEditorStats: Texture samplers: 0/16
+[2025.07.06-18.42.10:858][892]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.07.06-18.42.10:858][892]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.06-18.42.10:858][892]MaterialEditorStats: Shader Count: 3
+[2025.07.06-18.42.10:858][892]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.06-18.42.10:972][896]MaterialEditorStats: Base pass shader: 172 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2025.07.06-18.42.10:973][896]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.07.06-18.42.10:973][896]MaterialEditorStats: Texture samplers: 2/16
+[2025.07.06-18.42.10:973][896]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.07.06-18.42.10:973][896]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.06-18.42.10:973][896]MaterialEditorStats: Shader Count: 4
+[2025.07.06-18.42.10:973][896]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.06-18.42.18:375][315]MaterialEditorStats: Texture samplers: 0/16
+[2025.07.06-18.42.18:375][315]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.07.06-18.42.18:375][315]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.06-18.42.18:375][315]MaterialEditorStats: Shader Count: 0
+[2025.07.06-18.42.18:375][315]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.06-18.42.19:143][336]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.07.06-18.42.19:143][336]MaterialEditorStats: Texture samplers: 1/16
+[2025.07.06-18.42.19:143][336]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.07.06-18.42.19:143][336]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.06-18.42.19:143][336]MaterialEditorStats: Shader Count: 3
+[2025.07.06-18.42.19:143][336]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.06-18.42.19:390][339]MaterialEditorStats: Base pass shader: 177 instructions
+Stats: Resources Used: 6
+Resource Limit: 64
+Samplers Used: 3
+Sampler Limit: 32
+
+[2025.07.06-18.42.19:390][339]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.07.06-18.42.19:390][339]MaterialEditorStats: Texture samplers: 3/16
+[2025.07.06-18.42.19:390][339]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.07.06-18.42.19:390][339]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.06-18.42.19:390][339]MaterialEditorStats: Shader Count: 4
+[2025.07.06-18.42.19:390][339]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.06-18.42.31:603][694]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 674.040344
+[2025.07.06-18.42.31:950][702]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.06-18.42.31:951][702]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 674.360291, Update Interval: 307.216400
+[2025.07.06-18.42.37:242][  2]MaterialEditorStats: Texture samplers: 0/16
+[2025.07.06-18.42.37:242][  2]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.07.06-18.42.37:242][  2]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.06-18.42.37:242][  2]MaterialEditorStats: Shader Count: 0
+[2025.07.06-18.42.37:242][  2]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.06-18.42.40:379][266]MaterialEditorStats: Base pass shader: 180 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2025.07.06-18.42.40:379][266]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.07.06-18.42.40:379][266]MaterialEditorStats: Texture samplers: 4/16
+[2025.07.06-18.42.40:379][266]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.07.06-18.42.40:379][266]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.06-18.42.40:379][266]MaterialEditorStats: Shader Count: 4
+[2025.07.06-18.42.40:379][266]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.06-18.42.51:115][659]MaterialEditorStats: Texture samplers: 0/16
+[2025.07.06-18.42.51:115][659]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2025.07.06-18.42.51:115][659]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.06-18.42.51:115][659]MaterialEditorStats: Shader Count: 0
+[2025.07.06-18.42.51:115][659]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.06-18.42.51:800][677]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.07.06-18.42.51:800][677]MaterialEditorStats: Texture samplers: 2/16
+[2025.07.06-18.42.51:800][677]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2025.07.06-18.42.51:800][677]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.06-18.42.51:800][677]MaterialEditorStats: Shader Count: 3
+[2025.07.06-18.42.51:800][677]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.06-18.42.51:917][681]MaterialEditorStats: Base pass shader: 183 instructions
+Stats: Resources Used: 8
+Resource Limit: 64
+Samplers Used: 5
+Sampler Limit: 32
+
+[2025.07.06-18.42.51:917][681]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.07.06-18.42.51:917][681]MaterialEditorStats: Texture samplers: 5/16
+[2025.07.06-18.42.51:917][681]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2025.07.06-18.42.51:917][681]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.06-18.42.51:917][681]MaterialEditorStats: Shader Count: 4
+[2025.07.06-18.42.51:917][681]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.06-18.42.52:619][696]LogMaterialEditor: Applying material MatID_1
+[2025.07.06-18.42.52:916][696]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2025.07.06-18.42.56:055][696]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.07.06-18.42.56:142][696]MaterialEditorStats: Base pass shader: 183 instructions
+Stats: Resources Used: 8
+Resource Limit: 64
+Samplers Used: 5
+Sampler Limit: 32
+
+[2025.07.06-18.42.56:142][696]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.07.06-18.42.56:142][696]MaterialEditorStats: Nanite Compute Shader: 829 instructions
+Stats: Resources Used: 13
+Resource Limit: 64
+Samplers Used: 5
+Sampler Limit: 32
+
+[2025.07.06-18.42.56:142][696]MaterialEditorStats: Texture samplers: 5/16
+[2025.07.06-18.42.56:142][696]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2025.07.06-18.42.56:143][696]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.06-18.42.56:143][696]MaterialEditorStats: Shader Count: 15
+[2025.07.06-18.42.56:143][696]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.06-18.43.13:144][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2025.07.06-18.43.15:499][ 17]LogSlate: Window 'Save Content' being destroyed
+[2025.07.06-18.43.15:531][ 17]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.06-18.43.15:616][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2025.07.06-18.43.15:667][ 17]LogSavePackage: Moving output files for package: /Game/Maps/Minimal_Default_2
+[2025.07.06-18.43.15:667][ 17]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Saved/Minimal_Default_2BA97CA0D4BA9041741B689AF93EFAEF7.tmp' to '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Content/Maps/Minimal_Default_2.umap'
+[2025.07.06-18.43.15:686][ 17]LogFileHelpers: Saving map 'Minimal_Default_2' took 0.119
+[2025.07.06-18.43.15:687][ 17]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Stone/MatID_1] ([1] browsable assets)...
+[2025.07.06-18.43.15:775][ 17]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Stone/MatID_1.MatID_1]
+[2025.07.06-18.43.15:775][ 17]OBJ SavePackage: Finished generating thumbnails for package [/Game/Stone/MatID_1]
+[2025.07.06-18.43.15:775][ 17]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Stone/MatID_1" FILE="../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Content/Stone/MatID_1.uasset" SILENT=true
+[2025.07.06-18.43.15:779][ 17]LogSavePackage: Moving output files for package: /Game/Stone/MatID_1
+[2025.07.06-18.43.15:779][ 17]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Saved/MatID_196585629407F4BF72DFB70A8CD55A32D.tmp' to '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Content/Stone/MatID_1.uasset'
+[2025.07.06-18.43.15:787][ 17]LogFileHelpers: InternalPromptForCheckoutAndSave took 256.258 ms (total: 605.212 ms)
+[2025.07.06-18.43.15:822][ 17]LogContentValidation: Display: Starting to validate 2 assets
+[2025.07.06-18.43.15:822][ 17]LogContentValidation: Enabled validators:
+[2025.07.06-18.43.15:822][ 17]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.06-18.43.15:822][ 17]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.06-18.43.15:822][ 17]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.06-18.43.15:822][ 17]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.06-18.43.15:822][ 17]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.06-18.43.15:822][ 17]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.06-18.43.15:823][ 17]AssetCheck: /Game/Maps/Minimal_Default_2 Validating asset
+[2025.07.06-18.43.15:823][ 17]AssetCheck: /Game/Stone/MatID_1 Validating asset
+[2025.07.06-18.43.28:889][196]LogShaderCompilers: Display: ================================================
+[2025.07.06-18.43.28:889][196]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.07.06-18.43.28:889][196]LogShaderCompilers: Display: Total job queries 287, among them cache hits 87 (30.31%), DDC hits 150 (52.26%), Duplicates 2 (0.70%)
+[2025.07.06-18.43.28:889][196]LogShaderCompilers: Display: Tracking 198 distinct input hashes that result in 170 distinct outputs (85.86%)
+[2025.07.06-18.43.28:889][196]LogShaderCompilers: Display: RAM used: 127.50 KiB of 819.20 MiB budget. Usage: 0.02%
+[2025.07.06-18.43.28:889][196]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.07.06-18.43.28:889][196]LogShaderCompilers: Display: Shaders Compiled: 48
+[2025.07.06-18.43.28:889][196]LogShaderCompilers: Display: Jobs assigned 48, completed 48 (100%)
+[2025.07.06-18.43.28:889][196]LogShaderCompilers: Display: Average time worker was idle: 50.05 s
+[2025.07.06-18.43.28:889][196]LogShaderCompilers: Display: Time job spent in pending queue: average 0.09 s, longest 1.31 s
+[2025.07.06-18.43.28:889][196]LogShaderCompilers: Display: Job execution time: average 1.46 s, max 3.58 s
+[2025.07.06-18.43.28:890][196]LogShaderCompilers: Display: Job life time (pending + execution): average 1.55 s, max 3.65
+[2025.07.06-18.43.28:890][196]LogShaderCompilers: Display: Shader code size: average 9.629 KiB, min 4.121 KiB, max 20.035 KiB
+[2025.07.06-18.43.28:890][196]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 13.43 s
+[2025.07.06-18.43.28:890][196]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.07.06-18.43.28:890][196]LogShaderCompilers: Display: Jobs were issued in 43 batches (only local compilation was used), average 1.12 jobs/batch
+[2025.07.06-18.43.28:890][196]LogShaderCompilers: Display: Average processing rate: 3.57 jobs/sec
+[2025.07.06-18.43.28:890][196]LogShaderCompilers: Display: Total thread time: 42.08 s
+[2025.07.06-18.43.28:890][196]LogShaderCompilers: Display: Total thread preprocess time: 5.094 s
+[2025.07.06-18.43.28:890][196]LogShaderCompilers: Display: Percentage time preprocessing: 12.11%
+[2025.07.06-18.43.28:890][196]LogShaderCompilers: Display: Effective parallelization: 3.13 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.07.06-18.43.28:890][196]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.07.06-18.43.28:890][196]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    2 times, average 2.26 sec, max 2.32 sec, min 2.21 sec)
+[2025.07.06-18.43.28:890][196]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    2 times, average 2.15 sec, max 2.30 sec, min 1.99 sec)
+[2025.07.06-18.43.28:890][196]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    2 times, average 1.78 sec, max 1.81 sec, min 1.76 sec)
+[2025.07.06-18.43.28:890][196]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    2 times, average 1.58 sec, max 1.93 sec, min 1.23 sec)
+[2025.07.06-18.43.28:890][196]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    4 times, average 1.48 sec, max 1.71 sec, min 1.20 sec)
+[2025.07.06-18.43.28:890][196]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.07.06-18.43.28:890][196]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 14.07% of total time (compiled    4 times, average 1.48 sec, max 1.71 sec, min 1.20 sec)
+[2025.07.06-18.43.28:890][196]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 13.43% of total time (compiled    4 times, average 1.41 sec, max 1.74 sec, min 0.99 sec)
+[2025.07.06-18.43.28:890][196]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy - 10.76% of total time (compiled    2 times, average 2.26 sec, max 2.32 sec, min 2.21 sec)
+[2025.07.06-18.43.28:890][196]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight - 10.20% of total time (compiled    2 times, average 2.15 sec, max 2.30 sec, min 1.99 sec)
+[2025.07.06-18.43.28:890][196]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 9.48% of total time (compiled    7 times, average 0.57 sec, max 0.60 sec, min 0.52 sec)
+[2025.07.06-18.43.28:890][196]LogShaderCompilers: Display: === Material stats ===
+[2025.07.06-18.43.28:890][196]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.07.06-18.43.28:890][196]LogShaderCompilers: Display: Materials Translated:    168
+[2025.07.06-18.43.28:890][196]LogShaderCompilers: Display: Material Total Translate Time: 0.17 s
+[2025.07.06-18.43.28:890][196]LogShaderCompilers: Display: Material Translation Only: 0.05 s (29%)
+[2025.07.06-18.43.28:890][196]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.07.06-18.43.28:890][196]LogShaderCompilers: Display: Material Cache Hits: 19 (11%)
+[2025.07.06-18.43.28:890][196]LogShaderCompilers: Display: ================================================
+[2025.07.06-18.45.13:739][969]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.07.06-18.45.13:747][969]LogContentBrowser: Creating deferred item: NewFolder
+[2025.07.06-18.45.13:755][970]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.07.06-18.45.18:198][ 77]LogContentBrowser: Attempting asset rename: NewFolder -> Workbench
+[2025.07.06-18.45.18:199][ 77]LogContentBrowser: End creating deferred item NewFolder
+[2025.07.06-18.45.31:611][259]LogStreaming: Display: FlushAsyncLoading(374): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.06-18.45.31:641][259]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Usuario/Desktop/Unreal Engine + Unity/rusty_metal_workbench_ukkiejiaw_mid/Rusty_Metal_Workbench_ukkiejiaw_Mid.fbx]
+[2025.07.06-18.45.40:575][259]LogSlate: Window 'Import Content' being destroyed
+[2025.07.06-18.45.40:596][259]LogInterchangeEngine: [Pending] Importing
+[2025.07.06-18.45.40:598][259]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.07.06-18.45.40:598][259]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Usuario/Desktop/Unreal Engine + Unity/rusty_metal_workbench_ukkiejiaw_mid/Rusty_Metal_Workbench_ukkiejiaw_Mid_2K_AO.jpg]
+[2025.07.06-18.45.40:598][259]LogInterchangeEngine: [Pending] Importing -  (3)
+[2025.07.06-18.45.40:598][259]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Usuario/Desktop/Unreal Engine + Unity/rusty_metal_workbench_ukkiejiaw_mid/Rusty_Metal_Workbench_ukkiejiaw_Mid_2K_BaseColor.jpg]
+[2025.07.06-18.45.40:599][259]LogInterchangeEngine: [Pending] Importing -  (4)
+[2025.07.06-18.45.40:599][259]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Usuario/Desktop/Unreal Engine + Unity/rusty_metal_workbench_ukkiejiaw_mid/Rusty_Metal_Workbench_ukkiejiaw_Mid_2K_Bump.jpg]
+[2025.07.06-18.45.40:600][259]LogInterchangeEngine: [Pending] Importing -  (5)
+[2025.07.06-18.45.40:600][259]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Usuario/Desktop/Unreal Engine + Unity/rusty_metal_workbench_ukkiejiaw_mid/Rusty_Metal_Workbench_ukkiejiaw_Mid_2K_Cavity.jpg]
+[2025.07.06-18.45.40:601][259]LogInterchangeEngine: [Pending] Importing -  (6)
+[2025.07.06-18.45.40:602][259]LogInterchangeEngine: [Pending] Importing -  (7)
+[2025.07.06-18.45.40:603][259]LogInterchangeEngine: [Pending] Importing -  (8)
+[2025.07.06-18.45.40:604][259]LogInterchangeEngine: [Pending] Importing -  (9)
+[2025.07.06-18.45.40:604][259]LogInterchangeEngine: [Pending] Importing -  (10)
+[2025.07.06-18.45.40:615][259]LogFactory: FactoryCreateFile: DataTable with ReimportDataTableFactory (0 1 ../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/rusty_metal_workbench_ukkiejiaw_mid/ukkiejiaw.json)
+[2025.07.06-18.45.46:316][259]LogSlate: Window 'DataTable Options' being destroyed
+[2025.07.06-18.45.46:323][259]LogAssetTools: The import task was canceled.
+[2025.07.06-18.45.46:664][260]LogStreaming: Display: FlushAsyncLoading(384): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.06-18.45.46:693][261]LogStreaming: Display: FlushAsyncLoading(385): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.06-18.45.46:696][261]LogInterchangeImport: JPEG file [C:/Users/Usuario/Desktop/Unreal Engine + Unity/rusty_metal_workbench_ukkiejiaw_mid/Rusty_Metal_Workbench_ukkiejiaw_Mid_2K_BaseColor.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'.
+[2025.07.06-18.45.46:696][262]LogInterchangeImport: JPEG file [C:/Users/Usuario/Desktop/Unreal Engine + Unity/rusty_metal_workbench_ukkiejiaw_mid/Rusty_Metal_Workbench_ukkiejiaw_Mid_2K_AO.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'.
+[2025.07.06-18.45.46:696][262]LogInterchangeImport: JPEG file [C:/Users/Usuario/Desktop/Unreal Engine + Unity/rusty_metal_workbench_ukkiejiaw_mid/Rusty_Metal_Workbench_ukkiejiaw_Mid_2K_Bump.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'.
+[2025.07.06-18.45.46:696][262]LogInterchangeImport: JPEG file [C:/Users/Usuario/Desktop/Unreal Engine + Unity/rusty_metal_workbench_ukkiejiaw_mid/Rusty_Metal_Workbench_ukkiejiaw_Mid_2K_Cavity.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'.
+[2025.07.06-18.45.46:731][262]LogStaticMesh: Display: Building static mesh Rusty_Metal_Workbench_ukkiejiaw_Mid (Required Memory Estimate: 11.89335 MB)...
+[2025.07.06-18.45.46:775][263]LogStaticMesh: Adjacency [0.00s], tris: 7732, UVs 1
+[2025.07.06-18.45.46:779][263]LogTexture: Display: Building textures: /Game/Workbench/Rusty_Metal_Workbench_ukkiejiaw_Mid_2K_AO.Rusty_Metal_Workbench_ukkiejiaw_Mid_2K_AO (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 280.999983 MB), EncodeSpeed: Fast
+[2025.07.06-18.45.46:785][263]LogStaticMesh: Clustering [0.01s]. Ratio: 1.000000
+[2025.07.06-18.45.46:786][263]LogStaticMesh: Leaves [0.00s]
+[2025.07.06-18.45.46:932][266]LogTexture: Display: Building textures: /Game/Workbench/Rusty_Metal_Workbench_ukkiejiaw_Mid_2K_Cavity.Rusty_Metal_Workbench_ukkiejiaw_Mid_2K_Cavity (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 280.999983 MB), EncodeSpeed: Fast
+[2025.07.06-18.45.46:938][266]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Usuario/Des...kbench_ukkiejiaw_mid/Rusty_Metal_Workbench_ukkiejiaw_Mid_2K_AO.jpg]
+[2025.07.06-18.45.46:938][266]LogInterchangeEngine: [Pending] Importing -  (9)
+[2025.07.06-18.45.46:939][266]LogInterchangeEngine: [Pending] Importing -  (9)
+[2025.07.06-18.45.46:939][266]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Usuario/Desktop/Unreal Engine + Unity/rusty_metal_workbench_ukkiejiaw_mid/Rusty_Metal_Workbench_ukkiejiaw_Mid_2K_Diffuse.jpg]
+[2025.07.06-18.45.46:957][267]LogTexture: Display: Building textures: /Game/Workbench/Rusty_Metal_Workbench_ukkiejiaw_Mid_2K_BaseColor.Rusty_Metal_Workbench_ukkiejiaw_Mid_2K_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 280.999983 MB), EncodeSpeed: Fast
+[2025.07.06-18.45.46:965][267]LogTexture: Display: Building textures: /Game/Workbench/Rusty_Metal_Workbench_ukkiejiaw_Mid_2K_Bump.Rusty_Metal_Workbench_ukkiejiaw_Mid_2K_Bump (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 280.999983 MB), EncodeSpeed: Fast
+[2025.07.06-18.45.47:197][269]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Usuario/Des...kbench_ukkiejiaw_mid/Rusty_Metal_Workbench_ukkiejiaw_Mid_2K_Cavity.jpg]
+[2025.07.06-18.45.47:197][269]LogInterchangeEngine: [Pending] Importing -  (8)
+[2025.07.06-18.45.47:197][269]LogInterchangeEngine: [Pending] Importing -  (8)
+[2025.07.06-18.45.47:197][269]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Usuario/Desktop/Unreal Engine + Unity/rusty_metal_workbench_ukkiejiaw_mid/Rusty_Metal_Workbench_ukkiejiaw_Mid_2K_Metalness.jpg]
+[2025.07.06-18.45.47:197][269]LogStreaming: Display: FlushAsyncLoading(390): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.06-18.45.47:198][269]LogInterchangeImport: JPEG file [C:/Users/Usuario/Desktop/Unreal Engine + Unity/rusty_metal_workbench_ukkiejiaw_mid/Rusty_Metal_Workbench_ukkiejiaw_Mid_2K_Diffuse.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'.
+[2025.07.06-18.45.47:251][270]LogStaticMesh: Reduce [0.47s]
+[2025.07.06-18.45.47:268][270]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Usuario/Des...kbench_ukkiejiaw_mid/Rusty_Metal_Workbench_ukkiejiaw_Mid_2K_BaseColor.jpg]
+[2025.07.06-18.45.47:268][270]LogInterchangeEngine: [Pending] Importing -  (7)
+[2025.07.06-18.45.47:268][270]LogInterchangeEngine: [Pending] Importing -  (7)
+[2025.07.06-18.45.47:268][270]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Usuario/Desktop/Unreal Engine + Unity/rusty_metal_workbench_ukkiejiaw_mid/Rusty_Metal_Workbench_ukkiejiaw_Mid_2K_Normal.jpg]
+[2025.07.06-18.45.47:269][270]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Usuario/Des...kbench_ukkiejiaw_mid/Rusty_Metal_Workbench_ukkiejiaw_Mid_2K_Bump.jpg]
+[2025.07.06-18.45.47:269][270]LogInterchangeEngine: [Pending] Importing -  (6)
+[2025.07.06-18.45.47:269][270]LogInterchangeEngine: [Pending] Importing -  (6)
+[2025.07.06-18.45.47:269][270]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Usuario/Desktop/Unreal Engine + Unity/rusty_metal_workbench_ukkiejiaw_mid/Rusty_Metal_Workbench_ukkiejiaw_Mid_2K_Roughness.jpg]
+[2025.07.06-18.45.47:332][271]LogTexture: Display: Building textures: /Game/Workbench/Rusty_Metal_Workbench_ukkiejiaw_Mid_2K_Diffuse.Rusty_Metal_Workbench_ukkiejiaw_Mid_2K_Diffuse (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 280.999983 MB), EncodeSpeed: Fast
+[2025.07.06-18.45.47:429][272]LogStaticMesh: Fallback [0.18s], num tris: 1704
+[2025.07.06-18.45.47:448][272]LogStaticMesh: ConstrainClusters:
+[2025.07.06-18.45.47:448][272]LogStaticMesh:   Input: 124 Clusters, 15668 Triangles and 14563 Vertices
+[2025.07.06-18.45.47:448][272]LogStaticMesh:   Output without splits: 124 Clusters, 15668 Triangles and 14616 Vertices
+[2025.07.06-18.45.47:448][272]LogStaticMesh:   Output with splits: 124 Clusters, 15668 Triangles and 14616 Vertices
+[2025.07.06-18.45.47:449][272]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 124, Slow Path Clusters: 0, 1 Material: 124, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.07.06-18.45.47:455][272]LogStaticMesh: WritePages:
+[2025.07.06-18.45.47:455][272]LogStaticMesh:   Root: GPU size: 31476 bytes. 1 Pages. 31476.000 bytes per page (96.057% utilization).
+[2025.07.06-18.45.47:455][272]LogStaticMesh:   Streaming: GPU size: 148608 bytes. 2 Pages (2 with relative encoding). 74304.000 bytes per page (56.689% utilization).
+[2025.07.06-18.45.47:455][272]LogStaticMesh:   Page data disk size: 159348 bytes. Fixup data size: 568 bytes.
+[2025.07.06-18.45.47:455][272]LogStaticMesh:   Total GPU size: 180084 bytes, Total disk size: 159916 bytes.
+[2025.07.06-18.45.47:455][272]LogStaticMesh: Encode [0.03s]
+[2025.07.06-18.45.47:455][272]LogStaticMesh: Nanite build [0.68s]
+
+[2025.07.06-18.45.47:463][272]LogStaticMesh: Built static mesh [0.73s] /Game/Workbench/Rusty_Metal_Workbench_ukkiejiaw_Mid.Rusty_Metal_Workbench_ukkiejiaw_Mid
+[2025.07.06-18.45.47:914][273]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Usuario/Des...kbench_ukkiejiaw_mid/Rusty_Metal_Workbench_ukkiejiaw_Mid.fbx]
+[2025.07.06-18.45.47:914][273]LogInterchangeEngine: [Pending] Importing -  (5)
+[2025.07.06-18.45.47:914][273]LogInterchangeEngine: [Pending] Importing -  (5)
+[2025.07.06-18.45.47:914][273]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Usuario/Desktop/Unreal Engine + Unity/rusty_metal_workbench_ukkiejiaw_mid/Rusty_Metal_Workbench_ukkiejiaw_Mid_2K_Specular.jpg]
+[2025.07.06-18.45.47:915][273]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Usuario/Des...kbench_ukkiejiaw_mid/Rusty_Metal_Workbench_ukkiejiaw_Mid_2K_Diffuse.jpg]
+[2025.07.06-18.45.47:915][273]LogInterchangeEngine: [Pending] Importing -  (4)
+[2025.07.06-18.45.47:915][273]LogStreaming: Display: FlushAsyncLoading(391): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.06-18.45.47:916][273]LogInterchangeImport: JPEG file [C:/Users/Usuario/Desktop/Unreal Engine + Unity/rusty_metal_workbench_ukkiejiaw_mid/Rusty_Metal_Workbench_ukkiejiaw_Mid_2K_Metalness.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'.
+[2025.07.06-18.45.47:985][275]LogMaterial: Display: Material /Game/Workbench/MatID_1.MatID_1 needed to have new flag set bUsedWithNanite !
+[2025.07.06-18.45.48:032][275]LogTexture: Display: Building textures: /Game/Workbench/Rusty_Metal_Workbench_ukkiejiaw_Mid_2K_Metalness.Rusty_Metal_Workbench_ukkiejiaw_Mid_2K_Metalness (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 280.999983 MB), EncodeSpeed: Fast
+[2025.07.06-18.45.48:057][275]LogStreaming: Display: FlushAsyncLoading(392): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.06-18.45.48:059][275]LogInterchangeImport: JPEG file [C:/Users/Usuario/Desktop/Unreal Engine + Unity/rusty_metal_workbench_ukkiejiaw_mid/Rusty_Metal_Workbench_ukkiejiaw_Mid_2K_Normal.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'.
+[2025.07.06-18.45.48:059][275]LogInterchangeImport: JPEG file [C:/Users/Usuario/Desktop/Unreal Engine + Unity/rusty_metal_workbench_ukkiejiaw_mid/Rusty_Metal_Workbench_ukkiejiaw_Mid_2K_Roughness.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'.
+[2025.07.06-18.45.48:341][276]LogInterchangePipeline: Display: Auto-detected normal map
+[2025.07.06-18.45.48:391][277]LogTexture: Display: Building textures: /Game/Workbench/Rusty_Metal_Workbench_ukkiejiaw_Mid_2K_Normal.Rusty_Metal_Workbench_ukkiejiaw_Mid_2K_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 337.499988 MB), EncodeSpeed: Fast
+[2025.07.06-18.45.48:452][277]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Usuario/Des...kbench_ukkiejiaw_mid/Rusty_Metal_Workbench_ukkiejiaw_Mid_2K_Metalness.jpg]
+[2025.07.06-18.45.48:452][277]LogInterchangeEngine: [Pending] Importing -  (3)
+[2025.07.06-18.45.48:536][278]LogTexture: Display: Building textures: /Game/Workbench/Rusty_Metal_Workbench_ukkiejiaw_Mid_2K_Roughness.Rusty_Metal_Workbench_ukkiejiaw_Mid_2K_Roughness (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 280.999983 MB), EncodeSpeed: Fast
+[2025.07.06-18.45.48:614][278]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Usuario/Des...kbench_ukkiejiaw_mid/Rusty_Metal_Workbench_ukkiejiaw_Mid_2K_Normal.jpg]
+[2025.07.06-18.45.48:614][278]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.07.06-18.45.48:614][278]LogStreaming: Display: FlushAsyncLoading(394): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.06-18.45.48:615][278]LogInterchangeImport: JPEG file [C:/Users/Usuario/Desktop/Unreal Engine + Unity/rusty_metal_workbench_ukkiejiaw_mid/Rusty_Metal_Workbench_ukkiejiaw_Mid_2K_Specular.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'.
+[2025.07.06-18.45.48:712][280]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Usuario/Des...kbench_ukkiejiaw_mid/Rusty_Metal_Workbench_ukkiejiaw_Mid_2K_Roughness.jpg]
+[2025.07.06-18.45.48:712][280]LogInterchangeEngine: [Pending] Importing -  (1)
+[2025.07.06-18.45.48:724][282]LogTexture: Display: Building textures: /Game/Workbench/Rusty_Metal_Workbench_ukkiejiaw_Mid_2K_Specular.Rusty_Metal_Workbench_ukkiejiaw_Mid_2K_Specular (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 280.999983 MB), EncodeSpeed: Fast
+[2025.07.06-18.45.48:892][295]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Usuario/Des...kbench_ukkiejiaw_mid/Rusty_Metal_Workbench_ukkiejiaw_Mid_2K_Specular.jpg]
+[2025.07.06-18.45.48:892][295]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.07.06-18.45.48:892][295]LogInterchangeEngine: [Success] Import Done
+[2025.07.06-18.45.58:172][544]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Workbench/Rusty_Metal_Workbench_ukkiejiaw_Mid.Rusty_Metal_Workbench_ukkiejiaw_Mid
+[2025.07.06-18.45.58:172][544]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Workbench/Rusty_Metal_Workbench_ukkiejiaw_Mid.Rusty_Metal_Workbench_ukkiejiaw_Mid
+[2025.07.06-18.45.58:172][544]LogActorFactory: Actor Factory spawned StaticMesh /Game/Workbench/Rusty_Metal_Workbench_ukkiejiaw_Mid.Rusty_Metal_Workbench_ukkiejiaw_Mid as actor: StaticMeshActor /Game/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.StaticMeshActor_4
+[2025.07.06-18.46.01:048][581]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.07.06-18.46.01:049][581]LogEditorActor: Deleted 0 Actors (0.013 secs)
+[2025.07.06-18.46.01:056][581]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Workbench/Rusty_Metal_Workbench_ukkiejiaw_Mid.Rusty_Metal_Workbench_ukkiejiaw_Mid
+[2025.07.06-18.46.01:056][581]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Workbench/Rusty_Metal_Workbench_ukkiejiaw_Mid.Rusty_Metal_Workbench_ukkiejiaw_Mid
+[2025.07.06-18.46.01:057][581]LogActorFactory: Actor Factory spawned StaticMesh /Game/Workbench/Rusty_Metal_Workbench_ukkiejiaw_Mid.Rusty_Metal_Workbench_ukkiejiaw_Mid as actor: StaticMeshActor /Game/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.StaticMeshActor_5
+[2025.07.06-18.46.19:679][976]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Workbench/MatID_1.MatID_1
+[2025.07.06-18.46.19:682][976]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2025.07.06-18.46.20:074][976]MaterialEditorStats: Texture samplers: 0/16
+[2025.07.06-18.46.20:074][976]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.07.06-18.46.20:074][976]MaterialEditorStats: Shader Count: 0
+[2025.07.06-18.46.20:074][976]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.06-18.46.20:172][978]MaterialEditorStats: Base pass shader: 166 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.07.06-18.46.20:172][978]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.07.06-18.46.20:172][978]MaterialEditorStats: Texture samplers: 1/16
+[2025.07.06-18.46.20:172][978]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.07.06-18.46.20:172][978]MaterialEditorStats: Shader Count: 4
+[2025.07.06-18.46.20:172][978]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.06-18.46.23:405][  2]MaterialEditorStats: Texture samplers: 0/16
+[2025.07.06-18.46.23:405][  2]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.07.06-18.46.23:405][  2]MaterialEditorStats: Shader Count: 0
+[2025.07.06-18.46.23:405][  2]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.06-18.46.23:667][  6]MaterialEditorStats: Base pass shader: 166 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.07.06-18.46.23:667][  6]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.07.06-18.46.23:667][  6]MaterialEditorStats: Texture samplers: 1/16
+[2025.07.06-18.46.23:667][  6]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.07.06-18.46.23:667][  6]MaterialEditorStats: Shader Count: 4
+[2025.07.06-18.46.23:667][  6]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.06-18.47.08:057][458]MaterialEditorStats: Texture samplers: 0/16
+[2025.07.06-18.47.08:057][458]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.07.06-18.47.08:057][458]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.06-18.47.08:057][458]MaterialEditorStats: Shader Count: 0
+[2025.07.06-18.47.08:057][458]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.06-18.47.09:377][468]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.07.06-18.47.09:377][468]MaterialEditorStats: Texture samplers: 1/16
+[2025.07.06-18.47.09:377][468]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.07.06-18.47.09:377][468]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.06-18.47.09:377][468]MaterialEditorStats: Shader Count: 3
+[2025.07.06-18.47.09:377][468]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.06-18.47.11:061][568]MaterialEditorStats: Base pass shader: 174 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2025.07.06-18.47.11:062][568]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.07.06-18.47.11:062][568]MaterialEditorStats: Texture samplers: 2/16
+[2025.07.06-18.47.11:062][568]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.07.06-18.47.11:062][568]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.06-18.47.11:062][568]MaterialEditorStats: Shader Count: 4
+[2025.07.06-18.47.11:062][568]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.06-18.47.23:926][  4]LogHttp: Warning: 000008C4EEE50E00: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2025.07.06-18.47.23:926][  4]LogHttp: Warning: 000008C4EEE50E00: libcurl info message cache 0 (Found bundle for host: 0x8c466040fc0 [serially])
+[2025.07.06-18.47.23:926][  4]LogHttp: Warning: 000008C4EEE50E00: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2025.07.06-18.47.23:926][  4]LogHttp: Warning: 000008C4EEE50E00: libcurl info message cache 2 (We are completely uploaded and fine)
+[2025.07.06-18.47.23:926][  4]LogHttp: Warning: 000008C4EEE50E00: libcurl info message cache 3 (TLSv1.3 (IN), TLS alert, close notify (256):)
+[2025.07.06-18.47.23:926][  4]LogHttp: Warning: 000008C4EEE50E00: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2025.07.06-18.47.23:926][  4]LogHttp: Warning: 000008C4EEE50E00: libcurl info message cache 5 (state.rewindbeforesend = TRUE)
+[2025.07.06-18.47.23:926][  4]LogHttp: Warning: 000008C4EEE50E00: libcurl info message cache 6 (Closing connection)
+[2025.07.06-18.47.23:926][  4]LogHttp: Warning: 000008C4EEE50E00: libcurl info message cache 7 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.07.06-18.47.23:926][  4]LogHttp: Warning: 000008C4EEE50E00: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8C732D58-4AE2-719E-C1F9-93878786FFA3%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.3-39772772%2B%2B%2BUE5%2BRelease-5.5&UserID=9ffb585a415f8b5ea3099583a3a7266d%7C8558b0f0649c41fd8c81a81c61794009%7C7a8c91b2-78e4-4ba2-9615-51435d5b763c&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2025.07.06-18.47.23:926][  4]LogHttp: Warning: 000008C4EEE50E00: libcurl info message cache 9 (  Trying 107.21.53.76:443...)
+[2025.07.06-18.47.23:926][  4]LogHttp: Warning: 000008C4EEE50E00: libcurl info message cache 10 (Connected to datarouter.ol.epicgames.com (107.21.53.76) port 443)
+[2025.07.06-18.47.23:926][  4]LogHttp: Warning: 000008C4EEE50E00: libcurl info message cache 11 (ALPN: curl offers http/1.1)
+[2025.07.06-18.47.23:926][  4]LogHttp: Warning: 000008C4EEE50E00: libcurl info message cache 12 (SSL reusing session ID)
+[2025.07.06-18.47.23:926][  4]LogHttp: Warning: 000008C4EEE50E00: libcurl info message cache 13 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2025.07.06-18.47.23:926][  4]LogHttp: Warning: 000008C4EEE50E00: libcurl info message cache 14 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2025.07.06-18.47.23:926][  4]LogHttp: Warning: 000008C4EEE50E00: libcurl info message cache 15 (TLSv1.3 (IN), TLS handshake, Encrypted Extensions (8):)
+[2025.07.06-18.47.23:926][  4]LogHttp: Warning: 000008C4EEE50E00: libcurl info message cache 16 (TLSv1.3 (IN), TLS handshake, Certificate (11):)
+[2025.07.06-18.47.23:926][  4]LogHttp: Warning: 000008C4EEE50E00: libcurl info message cache 17 (TLSv1.3 (IN), TLS handshake, CERT verify (15):)
+[2025.07.06-18.47.23:926][  4]LogHttp: Warning: 000008C4EEE50E00: libcurl info message cache 18 (TLSv1.3 (IN), TLS handshake, Finished (20):)
+[2025.07.06-18.47.23:926][  5]LogHttp: Warning: 000008C4EEE50E00: libcurl info message cache 19 (TLSv1.3 (OUT), TLS change cipher, Change cipher spec (1):)
+[2025.07.06-18.47.23:927][  5]LogHttp: Warning: 000008C4EEE50E00: libcurl info message cache 20 (TLSv1.3 (OUT), TLS handshake, Finished (20):)
+[2025.07.06-18.47.23:927][  5]LogHttp: Warning: 000008C4EEE50E00: libcurl info message cache 21 (SSL connection using TLSv1.3 / TLS_AES_128_GCM_SHA256)
+[2025.07.06-18.47.23:927][  5]LogHttp: Warning: 000008C4EEE50E00: libcurl info message cache 22 (ALPN: server accepted http/1.1)
+[2025.07.06-18.47.23:927][  5]LogHttp: Warning: 000008C4EEE50E00: libcurl info message cache 23 (Server certificate:)
+[2025.07.06-18.47.23:927][  5]LogHttp: Warning: 000008C4EEE50E00: libcurl info message cache 24 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2025.07.06-18.47.23:927][  5]LogHttp: Warning: 000008C4EEE50E00: libcurl info message cache 25 ( start date: Feb  2 00:00:00 2025 GMT)
+[2025.07.06-18.47.23:927][  5]LogHttp: Warning: 000008C4EEE50E00: libcurl info message cache 26 ( expire date: Mar  3 23:59:59 2026 GMT)
+[2025.07.06-18.47.23:927][  5]LogHttp: Warning: 000008C4EEE50E00: libcurl info message cache 27 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2025.07.06-18.47.23:927][  5]LogHttp: Warning: 000008C4EEE50E00: libcurl info message cache 28 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M03)
+[2025.07.06-18.47.23:927][  5]LogHttp: Warning: 000008C4EEE50E00: libcurl info message cache 29 ( SSL certificate verify ok.)
+[2025.07.06-18.47.23:927][  5]LogHttp: Warning: 000008C4EEE50E00: libcurl info message cache 30 (using HTTP/1.1)
+[2025.07.06-18.47.23:927][  5]LogHttp: Warning: 000008C4EEE50E00: libcurl info message cache 31 (necessary data rewind wasn't possible)
+[2025.07.06-18.47.23:927][  5]LogHttp: Warning: 000008C4EEE50E00: libcurl info message cache 32 (Closing connection)
+[2025.07.06-18.47.23:927][  5]LogHttp: Warning: 000008C4EEE50E00: libcurl info message cache 33 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.07.06-18.47.31:933][319]MaterialEditorStats: Texture samplers: 0/16
+[2025.07.06-18.47.31:933][319]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.07.06-18.47.31:933][319]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.06-18.47.31:933][319]MaterialEditorStats: Shader Count: 0
+[2025.07.06-18.47.31:933][319]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.06-18.47.33:926][379]MaterialEditorStats: Base pass shader: 180 instructions
+Stats: Resources Used: 6
+Resource Limit: 64
+Samplers Used: 3
+Sampler Limit: 32
+
+[2025.07.06-18.47.33:926][379]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.07.06-18.47.33:926][379]MaterialEditorStats: Texture samplers: 3/16
+[2025.07.06-18.47.33:926][379]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.07.06-18.47.33:926][379]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.06-18.47.33:926][379]MaterialEditorStats: Shader Count: 4
+[2025.07.06-18.47.33:926][379]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.06-18.47.44:242][825]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 986.677979
+[2025.07.06-18.47.44:425][845]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.06-18.47.44:425][845]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 986.852112, Update Interval: 322.727753
+[2025.07.06-18.47.46:709][981]MaterialEditorStats: Texture samplers: 0/16
+[2025.07.06-18.47.46:709][981]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.07.06-18.47.46:709][981]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.06-18.47.46:709][981]MaterialEditorStats: Shader Count: 0
+[2025.07.06-18.47.46:709][981]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.06-18.47.47:514][988]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.07.06-18.47.47:514][988]MaterialEditorStats: Texture samplers: 2/16
+[2025.07.06-18.47.47:514][988]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.07.06-18.47.47:514][988]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.06-18.47.47:514][988]MaterialEditorStats: Shader Count: 3
+[2025.07.06-18.47.47:514][988]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.06-18.47.47:772][989]MaterialEditorStats: Base pass shader: 185 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2025.07.06-18.47.47:772][989]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.07.06-18.47.47:772][989]MaterialEditorStats: Texture samplers: 4/16
+[2025.07.06-18.47.47:772][989]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.07.06-18.47.47:772][989]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.06-18.47.47:772][989]MaterialEditorStats: Shader Count: 4
+[2025.07.06-18.47.47:772][989]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.06-18.47.48:076][992]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.07.06-18.47.50:851][992]LogSlate: Window 'Save Content' being destroyed
+[2025.07.06-18.47.50:863][992]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.06-18.47.50:938][992]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2025.07.06-18.47.50:949][992]LogSavePackage: Moving output files for package: /Game/Maps/Minimal_Default_2
+[2025.07.06-18.47.50:949][992]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Saved/Minimal_Default_27F8143A14A1E6B584C5EAD9FD853E130.tmp' to '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Content/Maps/Minimal_Default_2.umap'
+[2025.07.06-18.47.50:965][992]LogFileHelpers: Saving map 'Minimal_Default_2' took 0.071
+[2025.07.06-18.47.50:966][992]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Workbench/MatID_1] ([1] browsable assets)...
+[2025.07.06-18.47.51:005][992]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Workbench/MatID_1.MatID_1]
+[2025.07.06-18.47.51:005][992]OBJ SavePackage: Finished generating thumbnails for package [/Game/Workbench/MatID_1]
+[2025.07.06-18.47.51:005][992]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Workbench/MatID_1" FILE="../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Content/Workbench/MatID_1.uasset" SILENT=true
+[2025.07.06-18.47.51:007][992]LogSavePackage: Moving output files for package: /Game/Workbench/MatID_1
+[2025.07.06-18.47.51:007][992]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Saved/MatID_122D9797B4A427C1CD5C78F895BDDA5C2.tmp' to '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Content/Workbench/MatID_1.uasset'
+[2025.07.06-18.47.51:009][992]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Workbench/Rusty_Metal_Workbench_ukkiejiaw_Mid] ([1] browsable assets)...
+[2025.07.06-18.47.51:054][992]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Workbench/Rusty_Metal_Workbench_ukkiejiaw_Mid.Rusty_Metal_Workbench_ukkiejiaw_Mid]
+[2025.07.06-18.47.51:054][992]OBJ SavePackage: Finished generating thumbnails for package [/Game/Workbench/Rusty_Metal_Workbench_ukkiejiaw_Mid]
+[2025.07.06-18.47.51:063][992]LogSavePackage: Moving output files for package: /Game/Workbench/Rusty_Metal_Workbench_ukkiejiaw_Mid
+[2025.07.06-18.47.51:063][992]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Saved/Rusty_Metal_Workbench_ukkiejiaw_403BDC8C48CA3CAF438755B4CA11B26B.tmp' to '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Content/Workbench/Rusty_Metal_Workbench_ukkiejiaw_Mid.uasset'
+[2025.07.06-18.47.51:064][992]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Workbench/Rusty_Metal_Workbench_ukkiejiaw_Mid_2K_AO] ([1] browsable assets)...
+[2025.07.06-18.47.51:066][992]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Workbench/Rusty_Metal_Workbench_ukkiejiaw_Mid_2K_AO.Rusty_Metal_Workbench_ukkiejiaw_Mid_2K_AO]
+[2025.07.06-18.47.51:066][992]OBJ SavePackage: Finished generating thumbnails for package [/Game/Workbench/Rusty_Metal_Workbench_ukkiejiaw_Mid_2K_AO]
+[2025.07.06-18.47.51:069][992]LogSavePackage: Moving output files for package: /Game/Workbench/Rusty_Metal_Workbench_ukkiejiaw_Mid_2K_AO
+[2025.07.06-18.47.51:069][992]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Saved/Rusty_Metal_Workbench_ukkiejiaw_5CE78D8848E55196278FD79B93D8F542.tmp' to '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Content/Workbench/Rusty_Metal_Workbench_ukkiejiaw_Mid_2K_AO.uasset'
+[2025.07.06-18.47.51:070][992]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Workbench/Rusty_Metal_Workbench_ukkiejiaw_Mid_2K_BaseColor] ([1] browsable assets)...
+[2025.07.06-18.47.51:072][992]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Workbench/Rusty_Metal_Workbench_ukkiejiaw_Mid_2K_BaseColor.Rusty_Metal_Workbench_ukkiejiaw_Mid_2K_BaseColor]
+[2025.07.06-18.47.51:073][992]OBJ SavePackage: Finished generating thumbnails for package [/Game/Workbench/Rusty_Metal_Workbench_ukkiejiaw_Mid_2K_BaseColor]
+[2025.07.06-18.47.51:076][992]LogSavePackage: Moving output files for package: /Game/Workbench/Rusty_Metal_Workbench_ukkiejiaw_Mid_2K_BaseColor
+[2025.07.06-18.47.51:076][992]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Saved/Rusty_Metal_Workbench_ukkiejiaw_EF87683C477F411C6C08E3815535BD7D.tmp' to '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Content/Workbench/Rusty_Metal_Workbench_ukkiejiaw_Mid_2K_BaseColor.uasset'
+[2025.07.06-18.47.51:077][992]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Workbench/Rusty_Metal_Workbench_ukkiejiaw_Mid_2K_Bump] ([1] browsable assets)...
+[2025.07.06-18.47.51:079][992]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Workbench/Rusty_Metal_Workbench_ukkiejiaw_Mid_2K_Bump.Rusty_Metal_Workbench_ukkiejiaw_Mid_2K_Bump]
+[2025.07.06-18.47.51:079][992]OBJ SavePackage: Finished generating thumbnails for package [/Game/Workbench/Rusty_Metal_Workbench_ukkiejiaw_Mid_2K_Bump]
+[2025.07.06-18.47.51:081][992]LogSavePackage: Moving output files for package: /Game/Workbench/Rusty_Metal_Workbench_ukkiejiaw_Mid_2K_Bump
+[2025.07.06-18.47.51:081][992]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Saved/Rusty_Metal_Workbench_ukkiejiaw_E119670645D91BFAC01353AAE84C14E5.tmp' to '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Content/Workbench/Rusty_Metal_Workbench_ukkiejiaw_Mid_2K_Bump.uasset'
+[2025.07.06-18.47.51:082][992]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Workbench/Rusty_Metal_Workbench_ukkiejiaw_Mid_2K_Cavity] ([1] browsable assets)...
+[2025.07.06-18.47.51:085][992]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Workbench/Rusty_Metal_Workbench_ukkiejiaw_Mid_2K_Cavity.Rusty_Metal_Workbench_ukkiejiaw_Mid_2K_Cavity]
+[2025.07.06-18.47.51:085][992]OBJ SavePackage: Finished generating thumbnails for package [/Game/Workbench/Rusty_Metal_Workbench_ukkiejiaw_Mid_2K_Cavity]
+[2025.07.06-18.47.51:087][992]LogSavePackage: Moving output files for package: /Game/Workbench/Rusty_Metal_Workbench_ukkiejiaw_Mid_2K_Cavity
+[2025.07.06-18.47.51:087][992]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Saved/Rusty_Metal_Workbench_ukkiejiaw_F9A9C74249DEC04465202EBEFCEB6EE2.tmp' to '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Content/Workbench/Rusty_Metal_Workbench_ukkiejiaw_Mid_2K_Cavity.uasset'
+[2025.07.06-18.47.51:089][992]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Workbench/Rusty_Metal_Workbench_ukkiejiaw_Mid_2K_Diffuse] ([1] browsable assets)...
+[2025.07.06-18.47.51:091][992]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Workbench/Rusty_Metal_Workbench_ukkiejiaw_Mid_2K_Diffuse.Rusty_Metal_Workbench_ukkiejiaw_Mid_2K_Diffuse]
+[2025.07.06-18.47.51:091][992]OBJ SavePackage: Finished generating thumbnails for package [/Game/Workbench/Rusty_Metal_Workbench_ukkiejiaw_Mid_2K_Diffuse]
+[2025.07.06-18.47.51:095][992]LogSavePackage: Moving output files for package: /Game/Workbench/Rusty_Metal_Workbench_ukkiejiaw_Mid_2K_Diffuse
+[2025.07.06-18.47.51:095][992]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Saved/Rusty_Metal_Workbench_ukkiejiaw_8316231243587CA362FA95BEC47EC290.tmp' to '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Content/Workbench/Rusty_Metal_Workbench_ukkiejiaw_Mid_2K_Diffuse.uasset'
+[2025.07.06-18.47.51:097][992]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Workbench/Rusty_Metal_Workbench_ukkiejiaw_Mid_2K_Metalness] ([1] browsable assets)...
+[2025.07.06-18.47.51:098][992]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Workbench/Rusty_Metal_Workbench_ukkiejiaw_Mid_2K_Metalness.Rusty_Metal_Workbench_ukkiejiaw_Mid_2K_Metalness]
+[2025.07.06-18.47.51:099][992]OBJ SavePackage: Finished generating thumbnails for package [/Game/Workbench/Rusty_Metal_Workbench_ukkiejiaw_Mid_2K_Metalness]
+[2025.07.06-18.47.51:102][992]LogSavePackage: Moving output files for package: /Game/Workbench/Rusty_Metal_Workbench_ukkiejiaw_Mid_2K_Metalness
+[2025.07.06-18.47.51:102][992]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Saved/Rusty_Metal_Workbench_ukkiejiaw_1C5DD9E044142E6FF2B867B4AFA3D2AF.tmp' to '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Content/Workbench/Rusty_Metal_Workbench_ukkiejiaw_Mid_2K_Metalness.uasset'
+[2025.07.06-18.47.51:103][992]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Workbench/Rusty_Metal_Workbench_ukkiejiaw_Mid_2K_Normal] ([1] browsable assets)...
+[2025.07.06-18.47.51:105][992]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Workbench/Rusty_Metal_Workbench_ukkiejiaw_Mid_2K_Normal.Rusty_Metal_Workbench_ukkiejiaw_Mid_2K_Normal]
+[2025.07.06-18.47.51:105][992]OBJ SavePackage: Finished generating thumbnails for package [/Game/Workbench/Rusty_Metal_Workbench_ukkiejiaw_Mid_2K_Normal]
+[2025.07.06-18.47.51:109][992]LogSavePackage: Moving output files for package: /Game/Workbench/Rusty_Metal_Workbench_ukkiejiaw_Mid_2K_Normal
+[2025.07.06-18.47.51:109][992]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Saved/Rusty_Metal_Workbench_ukkiejiaw_AC85D3CD4397744D2EBFA7957FE5AD10.tmp' to '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Content/Workbench/Rusty_Metal_Workbench_ukkiejiaw_Mid_2K_Normal.uasset'
+[2025.07.06-18.47.51:110][992]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Workbench/Rusty_Metal_Workbench_ukkiejiaw_Mid_2K_Roughness] ([1] browsable assets)...
+[2025.07.06-18.47.51:112][992]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Workbench/Rusty_Metal_Workbench_ukkiejiaw_Mid_2K_Roughness.Rusty_Metal_Workbench_ukkiejiaw_Mid_2K_Roughness]
+[2025.07.06-18.47.51:113][992]OBJ SavePackage: Finished generating thumbnails for package [/Game/Workbench/Rusty_Metal_Workbench_ukkiejiaw_Mid_2K_Roughness]
+[2025.07.06-18.47.51:115][992]LogSavePackage: Moving output files for package: /Game/Workbench/Rusty_Metal_Workbench_ukkiejiaw_Mid_2K_Roughness
+[2025.07.06-18.47.51:115][992]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Saved/Rusty_Metal_Workbench_ukkiejiaw_770B36554355A6BDEC806B96BB35915A.tmp' to '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Content/Workbench/Rusty_Metal_Workbench_ukkiejiaw_Mid_2K_Roughness.uasset'
+[2025.07.06-18.47.51:117][992]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Workbench/Rusty_Metal_Workbench_ukkiejiaw_Mid_2K_Specular] ([1] browsable assets)...
+[2025.07.06-18.47.51:119][992]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Workbench/Rusty_Metal_Workbench_ukkiejiaw_Mid_2K_Specular.Rusty_Metal_Workbench_ukkiejiaw_Mid_2K_Specular]
+[2025.07.06-18.47.51:119][992]OBJ SavePackage: Finished generating thumbnails for package [/Game/Workbench/Rusty_Metal_Workbench_ukkiejiaw_Mid_2K_Specular]
+[2025.07.06-18.47.51:121][992]LogSavePackage: Moving output files for package: /Game/Workbench/Rusty_Metal_Workbench_ukkiejiaw_Mid_2K_Specular
+[2025.07.06-18.47.51:121][992]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Saved/Rusty_Metal_Workbench_ukkiejiaw_6393142C4245413F4E04768042E4B54C.tmp' to '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Content/Workbench/Rusty_Metal_Workbench_ukkiejiaw_Mid_2K_Specular.uasset'
+[2025.07.06-18.47.51:132][992]LogFileHelpers: InternalPromptForCheckoutAndSave took 269.023 ms (total: 874.236 ms)
+[2025.07.06-18.47.51:168][992]LogContentValidation: Display: Starting to validate 12 assets
+[2025.07.06-18.47.51:168][992]LogContentValidation: Enabled validators:
+[2025.07.06-18.47.51:168][992]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.06-18.47.51:168][992]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.06-18.47.51:168][992]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.06-18.47.51:168][992]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.06-18.47.51:168][992]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.06-18.47.51:168][992]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.06-18.47.51:168][992]AssetCheck: /Game/Maps/Minimal_Default_2 Validating asset
+[2025.07.06-18.47.51:168][992]AssetCheck: /Game/Workbench/MatID_1 Validating asset
+[2025.07.06-18.47.51:168][992]AssetCheck: /Game/Workbench/Rusty_Metal_Workbench_ukkiejiaw_Mid Validating asset
+[2025.07.06-18.47.51:168][992]AssetCheck: /Game/Workbench/Rusty_Metal_Workbench_ukkiejiaw_Mid_2K_AO Validating asset
+[2025.07.06-18.47.51:168][992]AssetCheck: /Game/Workbench/Rusty_Metal_Workbench_ukkiejiaw_Mid_2K_BaseColor Validating asset
+[2025.07.06-18.47.51:168][992]AssetCheck: /Game/Workbench/Rusty_Metal_Workbench_ukkiejiaw_Mid_2K_Bump Validating asset
+[2025.07.06-18.47.51:169][992]AssetCheck: /Game/Workbench/Rusty_Metal_Workbench_ukkiejiaw_Mid_2K_Cavity Validating asset
+[2025.07.06-18.47.51:169][992]AssetCheck: /Game/Workbench/Rusty_Metal_Workbench_ukkiejiaw_Mid_2K_Diffuse Validating asset
+[2025.07.06-18.47.51:169][992]AssetCheck: /Game/Workbench/Rusty_Metal_Workbench_ukkiejiaw_Mid_2K_Metalness Validating asset
+[2025.07.06-18.47.51:169][992]AssetCheck: /Game/Workbench/Rusty_Metal_Workbench_ukkiejiaw_Mid_2K_Normal Validating asset
+[2025.07.06-18.47.51:169][992]AssetCheck: /Game/Workbench/Rusty_Metal_Workbench_ukkiejiaw_Mid_2K_Roughness Validating asset
+[2025.07.06-18.47.51:169][992]AssetCheck: /Game/Workbench/Rusty_Metal_Workbench_ukkiejiaw_Mid_2K_Specular Validating asset
+[2025.07.06-18.49.29:013][417]LogShaderCompilers: Display: ================================================
+[2025.07.06-18.49.29:014][417]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.07.06-18.49.29:014][417]LogShaderCompilers: Display: Total job queries 414, among them cache hits 183 (44.20%), DDC hits 167 (40.34%), Duplicates 2 (0.48%)
+[2025.07.06-18.49.29:014][417]LogShaderCompilers: Display: Tracking 229 distinct input hashes that result in 189 distinct outputs (82.53%)
+[2025.07.06-18.49.29:014][417]LogShaderCompilers: Display: RAM used: 134.17 KiB of 819.20 MiB budget. Usage: 0.02%
+[2025.07.06-18.49.29:014][417]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.07.06-18.49.29:015][417]LogShaderCompilers: Display: Shaders Compiled: 62
+[2025.07.06-18.49.29:015][417]LogShaderCompilers: Display: Jobs assigned 62, completed 62 (100%)
+[2025.07.06-18.49.29:015][417]LogShaderCompilers: Display: Average time worker was idle: 59.56 s
+[2025.07.06-18.49.29:015][417]LogShaderCompilers: Display: Time job spent in pending queue: average 0.08 s, longest 1.31 s
+[2025.07.06-18.49.29:015][417]LogShaderCompilers: Display: Job execution time: average 1.32 s, max 3.58 s
+[2025.07.06-18.49.29:015][417]LogShaderCompilers: Display: Job life time (pending + execution): average 1.40 s, max 3.65
+[2025.07.06-18.49.29:015][417]LogShaderCompilers: Display: Shader code size: average 9.031 KiB, min 4.121 KiB, max 20.035 KiB
+[2025.07.06-18.49.29:015][417]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 17.44 s
+[2025.07.06-18.49.29:015][417]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.07.06-18.49.29:015][417]LogShaderCompilers: Display: Jobs were issued in 57 batches (only local compilation was used), average 1.09 jobs/batch
+[2025.07.06-18.49.29:015][417]LogShaderCompilers: Display: Average processing rate: 3.56 jobs/sec
+[2025.07.06-18.49.29:015][417]LogShaderCompilers: Display: Total thread time: 47.634 s
+[2025.07.06-18.49.29:015][417]LogShaderCompilers: Display: Total thread preprocess time: 7.258 s
+[2025.07.06-18.49.29:015][417]LogShaderCompilers: Display: Percentage time preprocessing: 15.24%
+[2025.07.06-18.49.29:015][417]LogShaderCompilers: Display: Effective parallelization: 2.73 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.07.06-18.49.29:016][417]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.07.06-18.49.29:016][417]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    2 times, average 2.26 sec, max 2.32 sec, min 2.21 sec)
+[2025.07.06-18.49.29:016][417]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    2 times, average 2.15 sec, max 2.30 sec, min 1.99 sec)
+[2025.07.06-18.49.29:016][417]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    2 times, average 1.78 sec, max 1.81 sec, min 1.76 sec)
+[2025.07.06-18.49.29:016][417]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    2 times, average 1.58 sec, max 1.93 sec, min 1.23 sec)
+[2025.07.06-18.49.29:016][417]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    4 times, average 1.48 sec, max 1.71 sec, min 1.20 sec)
+[2025.07.06-18.49.29:016][417]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.07.06-18.49.29:016][417]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 12.49% of total time (compiled   11 times, average 0.54 sec, max 0.60 sec, min 0.42 sec)
+[2025.07.06-18.49.29:016][417]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 12.43% of total time (compiled    4 times, average 1.48 sec, max 1.71 sec, min 1.20 sec)
+[2025.07.06-18.49.29:016][417]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 11.86% of total time (compiled    4 times, average 1.41 sec, max 1.74 sec, min 0.99 sec)
+[2025.07.06-18.49.29:016][417]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy - 9.50% of total time (compiled    2 times, average 2.26 sec, max 2.32 sec, min 2.21 sec)
+[2025.07.06-18.49.29:016][417]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight - 9.01% of total time (compiled    2 times, average 2.15 sec, max 2.30 sec, min 1.99 sec)
+[2025.07.06-18.49.29:016][417]LogShaderCompilers: Display: === Material stats ===
+[2025.07.06-18.49.29:016][417]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.07.06-18.49.29:016][417]LogShaderCompilers: Display: Materials Translated:    244
+[2025.07.06-18.49.29:016][417]LogShaderCompilers: Display: Material Total Translate Time: 0.19 s
+[2025.07.06-18.49.29:016][417]LogShaderCompilers: Display: Material Translation Only: 0.06 s (31%)
+[2025.07.06-18.49.29:017][417]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.07.06-18.49.29:017][417]LogShaderCompilers: Display: Material Cache Hits: 19 (8%)
+[2025.07.06-18.49.29:017][417]LogShaderCompilers: Display: ================================================
+[2025.07.06-18.52.27:230][ 80]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.07.06-18.53.19:454][445]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1321.890625
+[2025.07.06-18.53.19:643][466]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.06-18.53.19:643][466]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1322.070679, Update Interval: 353.204742
+[2025.07.06-18.53.27:257][ 13]MaterialEditorStats: Texture samplers: 0/16
+[2025.07.06-18.53.27:257][ 13]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2025.07.06-18.53.27:257][ 13]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.06-18.53.27:257][ 13]MaterialEditorStats: Shader Count: 0
+[2025.07.06-18.53.27:257][ 13]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.06-18.53.28:601][ 31]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.07.06-18.53.28:601][ 31]MaterialEditorStats: Texture samplers: 3/16
+[2025.07.06-18.53.28:601][ 31]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2025.07.06-18.53.28:601][ 31]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.06-18.53.28:601][ 31]MaterialEditorStats: Shader Count: 3
+[2025.07.06-18.53.28:601][ 31]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.06-18.53.28:802][ 34]MaterialEditorStats: Base pass shader: 189 instructions
+Stats: Resources Used: 8
+Resource Limit: 64
+Samplers Used: 5
+Sampler Limit: 32
+
+[2025.07.06-18.53.28:802][ 34]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.07.06-18.53.28:802][ 34]MaterialEditorStats: Texture samplers: 5/16
+[2025.07.06-18.53.28:802][ 34]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2025.07.06-18.53.28:802][ 34]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.06-18.53.28:802][ 34]MaterialEditorStats: Shader Count: 4
+[2025.07.06-18.53.28:802][ 34]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.06-18.54.20:411][358]MaterialEditorStats: Texture samplers: 0/16
+[2025.07.06-18.54.20:411][358]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2025.07.06-18.54.20:411][358]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.06-18.54.20:411][358]MaterialEditorStats: Shader Count: 0
+[2025.07.06-18.54.20:411][358]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.06-18.54.22:495][441]MaterialEditorStats: Base pass shader: 191 instructions
+Stats: Resources Used: 9
+Resource Limit: 64
+Samplers Used: 6
+Sampler Limit: 32
+
+[2025.07.06-18.54.22:495][441]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.07.06-18.54.22:495][441]MaterialEditorStats: Texture samplers: 6/16
+[2025.07.06-18.54.22:495][441]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2025.07.06-18.54.22:495][441]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.06-18.54.22:495][441]MaterialEditorStats: Shader Count: 4
+[2025.07.06-18.54.22:495][441]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.06-18.54.46:481][329]MaterialEditorStats: Texture samplers: 0/16
+[2025.07.06-18.54.46:481][329]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2025.07.06-18.54.46:481][329]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.06-18.54.46:481][329]MaterialEditorStats: Shader Count: 0
+[2025.07.06-18.54.46:481][329]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.06-18.54.47:679][339]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.07.06-18.54.47:679][339]MaterialEditorStats: Texture samplers: 4/16
+[2025.07.06-18.54.47:679][339]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2025.07.06-18.54.47:679][339]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.06-18.54.47:679][339]MaterialEditorStats: Shader Count: 3
+[2025.07.06-18.54.47:679][339]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.06-18.54.48:271][341]MaterialEditorStats: Base pass shader: 194 instructions
+Stats: Resources Used: 10
+Resource Limit: 64
+Samplers Used: 7
+Sampler Limit: 32
+
+[2025.07.06-18.54.48:271][341]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.07.06-18.54.48:271][341]MaterialEditorStats: Texture samplers: 7/16
+[2025.07.06-18.54.48:271][341]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2025.07.06-18.54.48:271][341]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.06-18.54.48:271][341]MaterialEditorStats: Shader Count: 4
+[2025.07.06-18.54.48:271][341]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.06-18.54.49:845][354]LogMaterialEditor: Applying material MatID_1
+[2025.07.06-18.54.49:982][354]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2025.07.06-18.54.53:422][354]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.07.06-18.54.53:572][354]MaterialEditorStats: Base pass shader: 194 instructions
+Stats: Resources Used: 10
+Resource Limit: 64
+Samplers Used: 7
+Sampler Limit: 32
+
+[2025.07.06-18.54.53:572][354]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.07.06-18.54.53:572][354]MaterialEditorStats: Nanite Compute Shader: 840 instructions
+Stats: Resources Used: 15
+Resource Limit: 64
+Samplers Used: 7
+Sampler Limit: 32
+
+[2025.07.06-18.54.53:572][354]MaterialEditorStats: Texture samplers: 7/16
+[2025.07.06-18.54.53:572][354]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2025.07.06-18.54.53:572][354]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.06-18.54.53:572][354]MaterialEditorStats: Shader Count: 15
+[2025.07.06-18.54.53:572][354]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.06-18.54.57:952][490]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.07.06-18.55.27:698][693]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.07.06-18.55.29:220][693]LogSlate: Window 'Save Content' being destroyed
+[2025.07.06-18.55.29:247][693]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.06-18.55.29:283][693]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Workbench/MatID_1] ([1] browsable assets)...
+[2025.07.06-18.55.29:338][693]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Workbench/MatID_1.MatID_1]
+[2025.07.06-18.55.29:338][693]OBJ SavePackage: Finished generating thumbnails for package [/Game/Workbench/MatID_1]
+[2025.07.06-18.55.29:338][693]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Workbench/MatID_1" FILE="../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Content/Workbench/MatID_1.uasset" SILENT=true
+[2025.07.06-18.55.29:341][693]LogSavePackage: Moving output files for package: /Game/Workbench/MatID_1
+[2025.07.06-18.55.29:342][693]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Saved/MatID_15076AF944F315254A474A3A6660F891A.tmp' to '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Content/Workbench/MatID_1.uasset'
+[2025.07.06-18.55.29:350][693]LogFileHelpers: InternalPromptForCheckoutAndSave took 103.608 ms (total: 977.844 ms)
+[2025.07.06-18.55.29:383][693]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.06-18.55.29:383][693]LogContentValidation: Enabled validators:
+[2025.07.06-18.55.29:383][693]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.06-18.55.29:383][693]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.06-18.55.29:383][693]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.06-18.55.29:383][693]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.06-18.55.29:383][693]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.06-18.55.29:383][693]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.06-18.55.29:383][693]AssetCheck: /Game/Workbench/MatID_1 Validating asset
+[2025.07.06-18.55.29:391][693]LogShaderCompilers: Display: ================================================
+[2025.07.06-18.55.29:391][693]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.07.06-18.55.29:391][693]LogShaderCompilers: Display: Total job queries 457, among them cache hits 203 (44.42%), DDC hits 167 (36.54%), Duplicates 2 (0.44%)
+[2025.07.06-18.55.29:391][693]LogShaderCompilers: Display: Tracking 252 distinct input hashes that result in 204 distinct outputs (80.95%)
+[2025.07.06-18.55.29:391][693]LogShaderCompilers: Display: RAM used: 143.88 KiB of 819.20 MiB budget. Usage: 0.02%
+[2025.07.06-18.55.29:391][693]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.07.06-18.55.29:391][693]LogShaderCompilers: Display: Shaders Compiled: 85
+[2025.07.06-18.55.29:391][693]LogShaderCompilers: Display: Jobs assigned 85, completed 85 (100%)
+[2025.07.06-18.55.29:391][693]LogShaderCompilers: Display: Average time worker was idle: 114.22 s
+[2025.07.06-18.55.29:391][693]LogShaderCompilers: Display: Time job spent in pending queue: average 0.09 s, longest 1.31 s
+[2025.07.06-18.55.29:391][693]LogShaderCompilers: Display: Job execution time: average 1.39 s, max 3.58 s
+[2025.07.06-18.55.29:391][693]LogShaderCompilers: Display: Job life time (pending + execution): average 1.48 s, max 3.65
+[2025.07.06-18.55.29:392][693]LogShaderCompilers: Display: Shader code size: average 9.452 KiB, min 4.121 KiB, max 20.609 KiB
+[2025.07.06-18.55.29:392][693]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 24.57 s
+[2025.07.06-18.55.29:392][693]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.07.06-18.55.29:392][693]LogShaderCompilers: Display: Jobs were issued in 80 batches (only local compilation was used), average 1.06 jobs/batch
+[2025.07.06-18.55.29:392][693]LogShaderCompilers: Display: Average processing rate: 3.46 jobs/sec
+[2025.07.06-18.55.29:392][693]LogShaderCompilers: Display: Total thread time: 71.608 s
+[2025.07.06-18.55.29:392][693]LogShaderCompilers: Display: Total thread preprocess time: 7.98 s
+[2025.07.06-18.55.29:392][693]LogShaderCompilers: Display: Percentage time preprocessing: 11.14%
+[2025.07.06-18.55.29:392][693]LogShaderCompilers: Display: Effective parallelization: 2.91 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.07.06-18.55.29:392][693]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.07.06-18.55.29:392][693]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    3 times, average 2.39 sec, max 2.64 sec, min 2.21 sec)
+[2025.07.06-18.55.29:392][693]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    3 times, average 2.24 sec, max 2.41 sec, min 1.99 sec)
+[2025.07.06-18.55.29:392][693]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    3 times, average 1.87 sec, max 2.03 sec, min 1.76 sec)
+[2025.07.06-18.55.29:392][693]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    3 times, average 1.82 sec, max 2.30 sec, min 1.23 sec)
+[2025.07.06-18.55.29:392][693]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    6 times, average 1.60 sec, max 2.04 sec, min 1.20 sec)
+[2025.07.06-18.55.29:392][693]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.07.06-18.55.29:392][693]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 13.38% of total time (compiled    6 times, average 1.60 sec, max 2.04 sec, min 1.20 sec)
+[2025.07.06-18.55.29:392][693]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 12.82% of total time (compiled    6 times, average 1.53 sec, max 2.01 sec, min 0.99 sec)
+[2025.07.06-18.55.29:392][693]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 10.79% of total time (compiled   14 times, average 0.55 sec, max 0.62 sec, min 0.42 sec)
+[2025.07.06-18.55.29:392][693]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy - 10.00% of total time (compiled    3 times, average 2.39 sec, max 2.64 sec, min 2.21 sec)
+[2025.07.06-18.55.29:392][693]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight - 9.36% of total time (compiled    3 times, average 2.24 sec, max 2.41 sec, min 1.99 sec)
+[2025.07.06-18.55.29:392][693]LogShaderCompilers: Display: === Material stats ===
+[2025.07.06-18.55.29:392][693]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.07.06-18.55.29:392][693]LogShaderCompilers: Display: Materials Translated:    252
+[2025.07.06-18.55.29:392][693]LogShaderCompilers: Display: Material Total Translate Time: 0.19 s
+[2025.07.06-18.55.29:392][693]LogShaderCompilers: Display: Material Translation Only: 0.06 s (31%)
+[2025.07.06-18.55.29:392][693]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.07.06-18.55.29:392][693]LogShaderCompilers: Display: Material Cache Hits: 19 (8%)
+[2025.07.06-18.55.29:392][693]LogShaderCompilers: Display: ================================================
+[2025.07.06-18.58.40:651][288]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.07.06-18.58.40:760][288]LogStall: Shutdown...
+[2025.07.06-18.58.40:761][288]LogStall: Shutdown complete.
+[2025.07.06-18.58.40:879][288]LogSlate: Window 'MatID_1' being destroyed
+[2025.07.06-18.58.40:962][288]LogSlate: Window 'Bridge' being destroyed
+[2025.07.06-18.58.40:964][288]LogSlate: Window 'Slash_Project - Unreal Editor' being destroyed
+[2025.07.06-18.58.41:053][289]Cmd: QUIT_EDITOR
+[2025.07.06-18.58.41:053][289]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.07.06-18.58.41:068][289]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.07.06-18.58.41:069][289]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.07.06-18.58.41:069][289]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.07.06-18.58.41:077][289]LogWorld: UWorld::CleanupWorld for Minimal_Default_2, bSessionEnded=true, bCleanupResources=true
+[2025.07.06-18.58.41:077][289]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.06-18.58.41:111][289]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.07.06-18.58.41:123][289]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.07.06-18.58.41:142][289]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.07.06-18.58.41:142][289]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.06-18.58.41:144][289]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.07.06-18.58.41:144][289]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.06-18.58.41:146][289]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.07.06-18.58.41:146][289]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.06-18.58.41:147][289]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.07.06-18.58.41:147][289]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.06-18.58.41:166][289]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.07.06-18.58.41:171][289]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2025.07.06-18.58.41:171][289]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2025.07.06-18.58.41:171][289]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2025.07.06-18.58.41:178][289]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.07.06-18.58.41:178][289]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.07.06-18.58.41:179][289]LogAudio: Display: Audio Device unregistered from world 'Minimal_Default_2'.
+[2025.07.06-18.58.41:179][289]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.07.06-18.58.41:186][289]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.07.06-18.58.41:189][289]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.07.06-18.58.41:197][289]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.07.06-18.58.41:197][289]LogAudio: Display: Audio Device Manager Shutdown
+[2025.07.06-18.58.41:202][289]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.07.06-18.58.41:202][289]LogExit: Preparing to exit.
+[2025.07.06-18.58.41:298][289]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.07.06-18.58.42:262][289]LogEditorDataStorage: Deinitializing
+[2025.07.06-18.58.42:456][289]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.07.06-18.58.42:534][289]LogExit: Editor shut down
+[2025.07.06-18.58.42:539][289]LogExit: Transaction tracking system shut down
+[2025.07.06-18.58.43:084][289]LogExit: Object subsystem successfully closed.
+[2025.07.06-18.58.43:171][289]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.07.06-18.58.43:738][289]LogMemoryProfiler: Shutdown
+[2025.07.06-18.58.43:741][289]LogNetworkingProfiler: Shutdown
+[2025.07.06-18.58.43:741][289]LoadingProfiler: Shutdown
+[2025.07.06-18.58.43:743][289]LogTimingProfiler: Shutdown
+[2025.07.06-18.58.43:786][289]LogWebBrowser: Deleting browser for Url=file:///C:/Program%20Files/Epic%20Games/UE_5.5/Engine/Plugins/Bridge/ThirdParty/megascans/index.html#/megascans/.
+[2025.07.06-18.58.44:269][289]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.07.06-18.58.44:272][289]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2025.07.06-18.58.44:272][289]LogNFORDenoise: NFORDenoise function shutting down
+[2025.07.06-18.58.44:303][289]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.07.06-18.58.44:303][289]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8C732D58-4AE2-719E-C1F9-93878786FFA3%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.3-39772772%2B%2B%2BUE5%2BRelease-5.5&UserID=9ffb585a415f8b5ea3099583a3a7266d%7C8558b0f0649c41fd8c81a81c61794009%7C7a8c91b2-78e4-4ba2-9615-51435d5b763c&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.07.06-18.58.44:898][289]LogEOSSDK: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.07.06-18.58.44:908][289]RenderDocPlugin: plugin has been unloaded.
+[2025.07.06-18.58.44:920][289]LogXGEController: Cleaning working directory: C:/Users/Usuario/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2025.07.06-18.58.44:934][289]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.07.06-18.58.44:934][289]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.07.06-18.58.44:935][289]LogPakFile: Destroying PakPlatformFile
+[2025.07.06-18.58.45:344][289]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.07.06-18.58.45:387][289]LogExit: Exiting.
+[2025.07.06-18.58.45:414][289]Log file closed, 07/06/25 20:58:45
