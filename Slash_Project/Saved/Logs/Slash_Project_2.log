@@ -1726,3 +1726,79 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.07.06-21.45.47:482][599]AssetCheck: /Game/Maps/SlashOpenWorld Validating asset
 [2025.07.06-21.45.47:554][600]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.07.06-21.45.47:554][600]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9457.322266, Update Interval: 332.890411
+[2025.07.06-21.46.19:534][734]LogStreaming: Display: FlushAsyncLoading(343): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.06-21.46.21:582][734]LogTexture: Display: Building textures: /Engine/Transient.Texture2D_6 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.515617 MB), EncodeSpeed: Fast
+[2025.07.06-21.48.36:284][ 63]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.Landscape_0.Heightmap_0 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2025.07.06-21.48.36:286][ 63]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.Landscape_0.Heightmap_1 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2025.07.06-21.48.36:286][ 63]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.Landscape_0.Heightmap_2 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2025.07.06-21.48.36:287][ 63]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.Landscape_0.Heightmap_3 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2025.07.06-21.48.36:289][ 63]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.Landscape_0.Heightmap_4 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2025.07.06-21.48.36:365][ 63]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_0 in PCD3D_SM6, Default, SM6, Editor (DDC key hash: 211a10d03151c1796b09ee8f40f1014f852bfb43), compiling. Is special engine material.
+[2025.07.06-21.48.37:722][ 63]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2025.07.06-21.48.37:927][ 63]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2025.07.06-21.48.37:953][ 63]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2025.07.06-21.48.37:973][ 63]LogDeviceProfileManager: Going up to parent DeviceProfile [AppleTV]
+[2025.07.06-21.48.37:973][ 63]LogDeviceProfileManager: Going up to parent DeviceProfile [IOS]
+[2025.07.06-21.48.37:973][ 63]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2025.07.06-21.48.37:993][ 63]LogDeviceProfileManager: Display: Deviceprofile None not found.
+[2025.07.06-21.48.38:323][ 63]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.Landscape_0.Heightmap_16 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2025.07.06-21.49.17:591][522]LogShaderCompilers: Display: ================================================
+[2025.07.06-21.49.17:591][522]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.07.06-21.49.17:591][522]LogShaderCompilers: Display: Total job queries 1,171, among them cache hits 184 (15.71%), DDC hits 590 (50.38%), Duplicates 67 (5.72%)
+[2025.07.06-21.49.17:591][522]LogShaderCompilers: Display: Tracking 920 distinct input hashes that result in 642 distinct outputs (69.78%)
+[2025.07.06-21.49.17:592][522]LogShaderCompilers: Display: RAM used: 404.26 KiB of 819.20 MiB budget. Usage: 0.05%
+[2025.07.06-21.49.17:592][522]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.07.06-21.49.17:592][522]LogShaderCompilers: Display: Shaders Compiled: 330
+[2025.07.06-21.49.17:592][522]LogShaderCompilers: Display: Jobs assigned 330, completed 330 (100%)
+[2025.07.06-21.49.17:592][522]LogShaderCompilers: Display: Average time worker was idle: 282.45 s
+[2025.07.06-21.49.17:592][522]LogShaderCompilers: Display: Time job spent in pending queue: average 15.28 s, longest 38.72 s
+[2025.07.06-21.49.17:592][522]LogShaderCompilers: Display: Job execution time: average 8.66 s, max 14.05 s
+[2025.07.06-21.49.17:592][522]LogShaderCompilers: Display: Job life time (pending + execution): average 23.94 s, max 39.94
+[2025.07.06-21.49.17:592][522]LogShaderCompilers: Display: Shader code size: average 9.628 KiB, min 2.105 KiB, max 19.43 KiB
+[2025.07.06-21.49.17:592][522]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 45.48 s
+[2025.07.06-21.49.17:593][522]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.07.06-21.49.17:593][522]LogShaderCompilers: Display: Jobs were issued in 69 batches (only local compilation was used), average 4.78 jobs/batch
+[2025.07.06-21.49.17:593][522]LogShaderCompilers: Display: Average processing rate: 7.26 jobs/sec
+[2025.07.06-21.49.17:593][522]LogShaderCompilers: Display: Total thread time: 343.731 s
+[2025.07.06-21.49.17:593][522]LogShaderCompilers: Display: Total thread preprocess time: 32.318 s
+[2025.07.06-21.49.17:593][522]LogShaderCompilers: Display: Percentage time preprocessing: 9.40%
+[2025.07.06-21.49.17:593][522]LogShaderCompilers: Display: Effective parallelization: 7.56 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.07.06-21.49.17:593][522]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.07.06-21.49.17:593][522]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled   24 times, average 2.39 sec, max 2.62 sec, min 2.13 sec)
+[2025.07.06-21.49.17:593][522]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled   28 times, average 2.05 sec, max 3.06 sec, min 1.36 sec)
+[2025.07.06-21.49.17:593][522]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    4 times, average 1.94 sec, max 2.29 sec, min 1.47 sec)
+[2025.07.06-21.49.17:593][522]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    4 times, average 1.81 sec, max 2.02 sec, min 1.52 sec)
+[2025.07.06-21.49.17:593][522]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled   24 times, average 1.76 sec, max 2.42 sec, min 1.12 sec)
+[2025.07.06-21.49.17:593][522]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.07.06-21.49.17:593][522]LogShaderCompilers: Display:                                             FDebugViewModePS - 16.73% of total time (compiled   28 times, average 2.05 sec, max 3.06 sec, min 1.36 sec)
+[2025.07.06-21.49.17:593][522]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS - 16.70% of total time (compiled   24 times, average 2.39 sec, max 2.62 sec, min 2.13 sec)
+[2025.07.06-21.49.17:593][522]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 12.31% of total time (compiled   24 times, average 1.76 sec, max 2.42 sec, min 1.12 sec)
+[2025.07.06-21.49.17:593][522]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 8.74% of total time (compiled   44 times, average 0.68 sec, max 0.91 sec, min 0.45 sec)
+[2025.07.06-21.49.17:593][522]LogShaderCompilers: Display:                        FRayTracingDynamicGeometryConverterCS - 8.42% of total time (compiled   42 times, average 0.69 sec, max 1.33 sec, min 0.36 sec)
+[2025.07.06-21.49.17:593][522]LogShaderCompilers: Display: === Material stats ===
+[2025.07.06-21.49.17:593][522]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.07.06-21.49.17:593][522]LogShaderCompilers: Display: Materials Translated:    164
+[2025.07.06-21.49.17:593][522]LogShaderCompilers: Display: Material Total Translate Time: 0.23 s
+[2025.07.06-21.49.17:593][522]LogShaderCompilers: Display: Material Translation Only: 0.12 s (54%)
+[2025.07.06-21.49.17:593][522]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.07.06-21.49.17:593][522]LogShaderCompilers: Display: Material Cache Hits: 28 (17%)
+[2025.07.06-21.49.17:593][522]LogShaderCompilers: Display: ================================================
+[2025.07.06-21.51.50:891][997]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.07.06-21.51.51:967][997]LogSlate: Window 'Save Content' being destroyed
+[2025.07.06-21.51.52:104][997]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.06-21.51.52:198][997]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.07.06-21.51.52:447][997]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.Landscape_0.Heightmap_22 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2025.07.06-21.51.52:470][997]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.Landscape_0.Heightmap_26 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2025.07.06-21.51.53:459][997]LogSavePackage: Moving output files for package: /Game/Maps/SlashOpenWorld
+[2025.07.06-21.51.53:459][997]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Saved/SlashOpenWorld65769FA644890CB977873183B032E55F.tmp' to '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Content/Maps/SlashOpenWorld.umap'
+[2025.07.06-21.51.53:492][997]LogFileHelpers: Saving map 'SlashOpenWorld' took 1.343
+[2025.07.06-21.51.53:505][997]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.40 sec (total: 2.34 sec)
+[2025.07.06-21.51.53:545][997]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.06-21.51.53:545][997]LogContentValidation: Enabled validators:
+[2025.07.06-21.51.53:545][997]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.06-21.51.53:545][997]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.06-21.51.53:545][997]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.06-21.51.53:545][997]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.06-21.51.53:545][997]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.06-21.51.53:545][997]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.06-21.51.53:545][997]AssetCheck: /Game/Maps/SlashOpenWorld Validating asset
