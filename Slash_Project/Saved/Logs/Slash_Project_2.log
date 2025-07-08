@@ -1097,3 +1097,453 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.07.08-18.23.12:952][  0]LogShaderCompilers: Display: Job FTSRRejectShadingCS(permutation 52, format PCD3D_SM6) compile time exceeded threshold (70.118s)
 [2025.07.08-18.23.15:692][  0]LogShaderCompilers: Display: Job FTSRRejectShadingCS(permutation 57, format PCD3D_SM6) compile time exceeded threshold (41.949s)
 [2025.07.08-18.23.43:217][  0]LogShaderCompilers: Display: Job FTSRRejectShadingCS(permutation 50, format PCD3D_SM6) compile time exceeded threshold (34.146s)
+[2025.07.08-18.24.42:704][  0]LogMaterial: Display: Missing cached shadermap for DefaultPostProcessMaterial in PCD3D_SM6, Default, SM6, Editor (DDC key hash: e92e8f8e665592599ae87806e379be6328876491), compiling. 
+[2025.07.08-18.24.42:808][  0]LogMeshReduction: Display: Using QuadricMeshReduction for automatic static mesh reduction
+[2025.07.08-18.24.42:808][  0]LogMeshReduction: Display: Using SkeletalMeshReduction for automatic skeletal mesh reduction
+[2025.07.08-18.24.42:808][  0]LogMeshReduction: Display: Using ProxyLODMeshReduction for automatic mesh merging
+[2025.07.08-18.24.42:808][  0]LogMeshReduction: Display: No distributed automatic mesh merging module available
+[2025.07.08-18.24.42:808][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2025.07.08-18.24.42:985][  0]LogTurnkeySupport: Turnkey Device: Win64@DESKTOP-68OM3DR: (Name=DESKTOP-68OM3DR, Type=Computer, Status=Valid, MinAllowed=10.0.19041.0, MaxAllowed=, Current=10.0.19045.0, Flags="Device_InstallSoftwareValid")
+[2025.07.08-18.24.43:424][  0]LogConfig: Branch 'PIEPreviewSettings' had been unloaded. Reloading on-demand took 2.73ms
+[2025.07.08-18.24.43:525][  0]LogConfig: Branch 'GameplayTagsList' had been unloaded. Reloading on-demand took 2.73ms
+[2025.07.08-18.24.43:584][  0]LogConfig: Branch 'TemplateDefs' had been unloaded. Reloading on-demand took 3.21ms
+[2025.07.08-18.24.43:591][  0]LogConfig: Branch 'TemplateCategories' had been unloaded. Reloading on-demand took 2.79ms
+[2025.07.08-18.24.44:473][  0]LogVirtualization: Display: VirtualizationSystem name found in ini file: None
+[2025.07.08-18.24.44:473][  0]LogVirtualization: Display: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2025.07.08-18.24.44:481][  0]LogLiveCoding: Display: Starting LiveCoding
+[2025.07.08-18.24.44:481][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2025.07.08-18.24.44:482][  0]LogLiveCoding: Display: First instance in process group "UE_Slash_Project_0xcdebf988", spawning console
+[2025.07.08-18.24.44:489][  0]LogLiveCoding: Display: Waiting for server
+[2025.07.08-18.24.44:519][  0]LogSlate: Border
+[2025.07.08-18.24.44:519][  0]LogSlate: BreadcrumbButton
+[2025.07.08-18.24.44:519][  0]LogSlate: Brushes.Title
+[2025.07.08-18.24.44:519][  0]LogSlate: Default
+[2025.07.08-18.24.44:519][  0]LogSlate: Icons.Save
+[2025.07.08-18.24.44:519][  0]LogSlate: Icons.Toolbar.Settings
+[2025.07.08-18.24.44:519][  0]LogSlate: ListView
+[2025.07.08-18.24.44:519][  0]LogSlate: SoftwareCursor_CardinalCross
+[2025.07.08-18.24.44:519][  0]LogSlate: SoftwareCursor_Grab
+[2025.07.08-18.24.44:519][  0]LogSlate: TableView.DarkRow
+[2025.07.08-18.24.44:519][  0]LogSlate: TableView.Row
+[2025.07.08-18.24.44:519][  0]LogSlate: TreeView
+[2025.07.08-18.24.44:893][  0]LogWorldPartition: Display: FWorldPartitionClassDescRegistry::Initialize started...
+[2025.07.08-18.24.44:895][  0]LogWorldPartition: Display: FWorldPartitionClassDescRegistry::Initialize took 2.163 ms
+[2025.07.08-18.24.44:939][  0]LogConfig: Branch 'Mass' had been unloaded. Reloading on-demand took 3.01ms
+[2025.07.08-18.24.44:993][  0]LogInit: XR: Instanced Stereo Rendering is Disabled
+[2025.07.08-18.24.44:993][  0]LogInit: XR: MultiViewport is Disabled
+[2025.07.08-18.24.44:993][  0]LogInit: XR: Mobile Multiview is Disabled
+[2025.07.08-18.24.45:266][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 79167F08E20042AB8000000000002200 | Instance: 23BD13CE4A26D947B91B92B537D6DF0B (DESKTOP-68OM3DR-10436).
+[2025.07.08-18.24.45:726][  0]LogConfig: Branch 'TranslationPickerSettings' had been unloaded. Reloading on-demand took 3.46ms
+[2025.07.08-18.24.46:224][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2025.07.08-18.24.46:471][  0]LogMetaSound: Display: MetaSound Page Target Initialized to 'Default'
+[2025.07.08-18.24.46:476][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2025.07.08-18.24.46:506][  0]LogMetaSound: MetaSound Engine Initialized
+[2025.07.08-18.24.47:438][  0]LogNNERuntimeORT: Available graphics and compute adapters:
+[2025.07.08-18.24.47:438][  0]LogNNERuntimeORT: 0: NVIDIA GeForce GTX 1650 Ti (Compute, Graphics)
+[2025.07.08-18.24.47:438][  0]LogNNERuntimeORT: 1: Microsoft Basic Render Driver (Compute, Graphics)
+[2025.07.08-18.24.47:438][  0]LogNNERuntimeORT: No NPU adapter found!
+[2025.07.08-18.24.47:453][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2025.07.08-18.24.47:464][  0]LogUdpMessaging: Display: Work queue size set to 1024.
+[2025.07.08-18.24.47:465][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2025.07.08-18.24.47:466][  0]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:57334'.
+[2025.07.08-18.24.47:470][  0]LogUdpMessaging: Display: Added local interface '172.22.134.67' to multicast group '230.0.0.1:6666'
+[2025.07.08-18.24.48:852][  0]LogConfig: Branch 'ObjectMixerSerializedData' had been unloaded. Reloading on-demand took 2.90ms
+[2025.07.08-18.24.48:874][  0]LogConfig: Branch 'Crypto' had been unloaded. Reloading on-demand took 2.71ms
+[2025.07.08-18.24.49:448][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2025.07.08-18.24.49:487][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2025.07.08-18.24.49:487][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2025.07.08-18.24.49:676][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/glf/resources/plugInfo.json'
+[2025.07.08-18.24.49:685][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdUI/resources/plugInfo.json'
+[2025.07.08-18.24.49:691][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/hd/resources/plugInfo.json'
+[2025.07.08-18.24.49:706][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdGeom/resources/plugInfo.json'
+[2025.07.08-18.24.49:708][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdMedia/resources/plugInfo.json'
+[2025.07.08-18.24.49:717][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdPhysics/resources/plugInfo.json'
+[2025.07.08-18.24.49:724][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usd/resources/plugInfo.json'
+[2025.07.08-18.24.49:732][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdVol/resources/plugInfo.json'
+[2025.07.08-18.24.49:738][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdRi/resources/plugInfo.json'
+[2025.07.08-18.24.49:745][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/hdGp/resources/plugInfo.json'
+[2025.07.08-18.24.49:753][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdImaging/resources/plugInfo.json'
+[2025.07.08-18.24.49:754][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdAbc/resources/plugInfo.json'
+[2025.07.08-18.24.49:762][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdRiPxrImaging/resources/plugInfo.json'
+[2025.07.08-18.24.49:764][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/hdStorm/resources/plugInfo.json'
+[2025.07.08-18.24.49:767][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdLux/resources/plugInfo.json'
+[2025.07.08-18.24.49:767][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/hgiGL/resources/plugInfo.json'
+[2025.07.08-18.24.49:769][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdMtlx/resources/plugInfo.json'
+[2025.07.08-18.24.49:775][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/hdx/resources/plugInfo.json'
+[2025.07.08-18.24.49:777][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdSkel/resources/plugInfo.json'
+[2025.07.08-18.24.49:778][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/hdSt/resources/plugInfo.json'
+[2025.07.08-18.24.49:780][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdProcImaging/resources/plugInfo.json'
+[2025.07.08-18.24.49:786][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdHydra/resources/plugInfo.json'
+[2025.07.08-18.24.49:788][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/hio/resources/plugInfo.json'
+[2025.07.08-18.24.49:789][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/ndr/resources/plugInfo.json'
+[2025.07.08-18.24.49:796][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdProc/resources/plugInfo.json'
+[2025.07.08-18.24.49:802][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdVolImaging/resources/plugInfo.json'
+[2025.07.08-18.24.49:810][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/sdf/resources/plugInfo.json'
+[2025.07.08-18.24.49:815][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdImagingGL/resources/plugInfo.json'
+[2025.07.08-18.24.49:822][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdShaders/resources/plugInfo.json'
+[2025.07.08-18.24.49:828][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/ar/resources/plugInfo.json'
+[2025.07.08-18.24.49:833][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/sdrGlslfx/resources/plugInfo.json'
+[2025.07.08-18.24.49:843][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdRender/resources/plugInfo.json'
+[2025.07.08-18.24.49:849][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdSkelImaging/resources/plugInfo.json'
+[2025.07.08-18.24.49:851][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdShade/resources/plugInfo.json'
+[2025.07.08-18.24.49:857][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usd/resources/codegenTemplates/plugInfo.json'
+[2025.07.08-18.24.50:441][  0]LogConfig: Applying CVar settings from Section [/Script/NNEDenoiser.NNEDenoiserSettings] File [Engine]
+[2025.07.08-18.24.51:284][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Plugins/Interchange/Editor/Content/Old/Tiles/Outer/alertSolid.png' error.
+[2025.07.08-18.24.51:284][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Plugins/Interchange/Editor/Content/Old/Tiles/Outer/alertSolid.png
+[2025.07.08-18.24.51:336][  0]LogCollectionManager: Loaded 0 collections in 0.003686 seconds
+[2025.07.08-18.24.51:339][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Saved/Collections/' took 0.00s
+[2025.07.08-18.24.51:342][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Content/Developers/Usuario/Collections/' took 0.00s
+[2025.07.08-18.24.51:344][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Content/Collections/' took 0.00s
+[2025.07.08-18.24.51:674][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Plugins/Developer/PlasticSourceControl/Resources/Icon128.png' error.
+[2025.07.08-18.24.51:674][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Plugins/Developer/PlasticSourceControl/Resources/Icon128.png
+[2025.07.08-18.24.51:676][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Platforms/VisionOS/Content/Editor/Slate/Launcher/Platform_VisionOS_24x.png' error.
+[2025.07.08-18.24.51:676][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Platforms/VisionOS/Content/Editor/Slate/Launcher/Platform_VisionOS_24x.png
+[2025.07.08-18.24.51:676][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Platforms/VisionOS/Content/Editor/Slate/Launcher/Platform_VisionOS_128x.png' error.
+[2025.07.08-18.24.51:676][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Platforms/VisionOS/Content/Editor/Slate/Launcher/Platform_VisionOS_128x.png
+[2025.07.08-18.24.51:717][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Plugins/Interchange/Editor/Content/Old/Tiles/Outer/alertSolid.png' error.
+[2025.07.08-18.24.51:717][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Plugins/Interchange/Editor/Content/Old/Tiles/Outer/alertSolid.png
+[2025.07.08-18.24.51:748][  0]LogEOSSDK: LogEOS: [Boot] EOSSDK Version 1.16.4-36651368 booting at 2025-07-08T18:24:51.748Z using C
+[2025.07.08-18.24.51:748][  0]LogEOSSDK: LogEOS: [Boot] EOSSDK Platform Properties [OS=Windows/10.0.19041.5915.64bit, ClientId=xyza7891REBVsEqSJRRNXmlS7EQHM459, ProductId=86f32f1151354e7cb39c12f8ab2c22a3, SandboxId=a01927f7421a4d4995673fe30ef46945, DeploymentId=a652a72ea1664dcab3a467891eea5f30, ProductName=Slash_Project, ProductVersion=++UE5+Release-5.5-CL-39772772, IsServer=false, Flags=DisableOverlay]
+[2025.07.08-18.24.51:749][  0]LogEOSSDK: LogEOSAnalytics: Start Session (User: ...)
+[2025.07.08-18.24.51:749][  0]LogEOSSDK: LogEOSOverlay: Overlay will not load, because it was explicitly disabled when creating the platform
+[2025.07.08-18.24.51:757][  0]LogEOSSDK: LogEOSAntiCheat: [AntiCheatClient] Anti-cheat client not available. Verify that the game was started using the anti-cheat bootstrapper if you intend to use it.
+[2025.07.08-18.24.51:757][  0]LogEOSSDK: LogEOS: SetApplicationStatus - OldStatus: EOS_AS_Foreground, NewStatus: EOS_AS_Foreground, Current Time: 0001.01.01-00.00.00
+[2025.07.08-18.24.51:757][  0]LogEOSSDK: LogEOS: SetNetworkStatus - OldStatus: EOS_NS_Online, NewStatus: EOS_NS_Online
+[2025.07.08-18.24.51:757][  0]LogEOSSDK: LogEOS: Updating Platform SDK Config, Time: 0.000083
+[2025.07.08-18.24.51:757][  0]LogFab: Display: Logging in using persist
+[2025.07.08-18.24.51:758][  0]LogEOSSDK: Warning: LogEOSAuth: No existing persistent auth credentials were found for automatic login.
+[2025.07.08-18.24.51:831][  0]LogUObjectArray: 43602 objects as part of root set at end of initial load.
+[2025.07.08-18.24.51:831][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2025.07.08-18.24.51:844][  0]LogStreaming: Display: AsyncLoading2 - NotifyRegistrationComplete: Registered 36293 public script object entries (984.18 KB)
+[2025.07.08-18.24.51:844][  0]LogStreaming: Display: AsyncLoading2 - Thread Started: false, IsInitialLoad: false
+[2025.07.08-18.24.51:988][  0]LogClass: Display: AttemptToFindUninitializedScriptStructMembers took more than 1ms to process ScriptStruct /Script/Serialization.StructSerializerBuiltinTestStruct. Time(ms): 1.1
+[2025.07.08-18.24.51:990][  0]LogClass: Display: AttemptToFindUninitializedScriptStructMembers took more than 1ms to process ScriptStruct /Script/Serialization.StructSerializerLWCTypesTest. Time(ms): 2.2
+[2025.07.08-18.24.51:991][  0]LogClass: Display: AttemptToFindUninitializedScriptStructMembers took more than 1ms to process ScriptStruct /Script/Serialization.StructSerializerNonLWCTypesTest. Time(ms): 1.1
+[2025.07.08-18.24.52:001][  0]LogClass: Display: AttemptToFindUninitializedScriptStructMembers took more than 1ms to process ScriptStruct /Script/GeometryCollectionNodes.GridScatterPointsDataflowNode. Time(ms): 1.1
+[2025.07.08-18.24.52:002][  0]LogClass: Display: AttemptToFindUninitializedScriptStructMembers took more than 1ms to process ScriptStruct /Script/GeometryCollectionNodes.AppendCollectionAssetsDataflowNode. Time(ms): 1.1
+[2025.07.08-18.24.52:054][  0]LogEngine: Initializing Engine...
+[2025.07.08-18.24.52:060][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2025.07.08-18.24.52:061][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2025.07.08-18.24.52:469][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.11.dll
+[2025.07.08-18.24.52:565][  0]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled
+[2025.07.08-18.24.52:584][  0]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Temp/Untitled_0.Untitled'.
+[2025.07.08-18.24.52:589][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2025.07.08-18.24.52:589][  0]LogInit: Texture streaming: Enabled
+[2025.07.08-18.24.52:610][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data. AppVersion = 5.5.3-39772772+++UE5+Release-5.5
+[2025.07.08-18.24.52:619][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2025.07.08-18.24.52:632][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2025.07.08-18.24.52:633][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2025.07.08-18.24.52:633][  0]LogAudio: Display: Audio Device Manager Initialized
+[2025.07.08-18.24.52:633][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2025.07.08-18.24.52:634][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.07.08-18.24.52:634][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.07.08-18.24.52:634][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.07.08-18.24.52:634][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.07.08-18.24.52:634][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.07.08-18.24.52:634][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.07.08-18.24.52:634][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.07.08-18.24.52:634][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.07.08-18.24.52:634][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.07.08-18.24.52:634][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.07.08-18.24.52:634][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.07.08-18.24.52:648][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.07.08-18.24.52:684][  0]LogAudioMixer: Display: Using Audio Hardware Device Auriculares (Vieta Pro Calm 2 Stereo)
+[2025.07.08-18.24.52:684][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.07.08-18.24.52:693][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.07.08-18.24.52:693][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.07.08-18.24.52:693][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2025.07.08-18.24.52:693][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.07.08-18.24.52:696][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.07.08-18.24.52:696][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2025.07.08-18.24.52:696][  0]LogInit: FAudioDevice initialized with ID 1.
+[2025.07.08-18.24.52:696][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2025.07.08-18.24.52:696][  0]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 1
+[2025.07.08-18.24.52:729][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2025.07.08-18.24.52:733][  0]LogInit: Undo buffer set to 256 MB
+[2025.07.08-18.24.52:733][  0]LogInit: Transaction tracking system initialized
+[2025.07.08-18.24.52:763][  0]LogSourceControl: Display: Uncontrolled Changelist persistency file loaded ../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Saved/SourceControl/UncontrolledChangelists.json
+[2025.07.08-18.24.53:009][  0]LogConfig: Branch 'LocalizationServiceSettings' had been unloaded. Reloading on-demand took 3.03ms
+[2025.07.08-18.24.53:015][  0]LocalizationService: Localization service is disabled
+[2025.07.08-18.24.53:066][  0]LogTimingProfiler: Initialize
+[2025.07.08-18.24.53:066][  0]LogTimingProfiler: OnSessionChanged
+[2025.07.08-18.24.53:066][  0]LoadingProfiler: Initialize
+[2025.07.08-18.24.53:066][  0]LoadingProfiler: OnSessionChanged
+[2025.07.08-18.24.53:066][  0]LogNetworkingProfiler: Initialize
+[2025.07.08-18.24.53:066][  0]LogNetworkingProfiler: OnSessionChanged
+[2025.07.08-18.24.53:066][  0]LogMemoryProfiler: Initialize
+[2025.07.08-18.24.53:066][  0]LogMemoryProfiler: OnSessionChanged
+[2025.07.08-18.24.53:734][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Content/' took 0.02s
+[2025.07.08-18.24.53:750][  0]LogNNEDenoiser: Ray Tracing is not enabled, therefore NNEDenoiser is not registered!
+[2025.07.08-18.24.53:835][  0]LogPython: Using Python 3.11.8
+[2025.07.08-18.24.55:109][  0]LogPython: Display: No enabled plugins with python dependencies found, skipping
+[2025.07.08-18.24.55:285][  0]LogStreaming: Warning: Failed to read file 'Common/Selector.png' error.
+[2025.07.08-18.24.55:285][  0]LogSlate: Could not find file for Slate resource: Common/Selector.png
+[2025.07.08-18.24.55:421][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2025.07.08-18.24.55:670][  0]LogEditorDataStorage: Initializing
+[2025.07.08-18.24.55:673][  0]LogEditorDataStorage: Initialized
+[2025.07.08-18.24.55:713][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2025.07.08-18.24.55:716][  0]LogUnrealEdMisc: Loading editor; pre map load, took 542.089
+[2025.07.08-18.24.55:717][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Content/Maps/SlashOpenWorld.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.07.08-18.24.55:718][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2025.07.08-18.24.55:719][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.08-18.24.55:730][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.07.08-18.24.55:731][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2025.07.08-18.24.55:759][  0]LogAssetRegistry: Display: Triggering cache save on discovery complete
+[2025.07.08-18.24.56:543][  0]LogAssetRegistry: Display: Asset registry cache written as 35.8 MiB to ../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Intermediate/CachedAssetRegistry_*.bin
+[2025.07.08-18.24.57:765][  0]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.Landscape_0.Heightmap_6 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2025.07.08-18.24.57:783][  0]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.Landscape_0.Heightmap_10 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2025.07.08-18.24.57:879][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'SlashOpenWorld'.
+[2025.07.08-18.24.57:879][  0]LogChaosDD: Creating Chaos Debug Draw Scene for world SlashOpenWorld
+[2025.07.08-18.24.57:881][  0]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/Maps/SlashOpenWorld.SlashOpenWorld'.
+[2025.07.08-18.24.58:750][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.07.08-18.24.58:775][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.07.08-18.24.58:776][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.07.08-18.24.58:776][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.059ms to complete.
+[2025.07.08-18.24.58:803][  0]LogUnrealEdMisc: Total Editor Startup Time, took 545.176
+[2025.07.08-18.24.58:805][  0]LogShaderCompilers: Display: ================================================
+[2025.07.08-18.24.58:805][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.07.08-18.24.58:805][  0]LogShaderCompilers: Display: Total job queries 10,393, among them cache hits 44 (0.42%), DDC hits 571 (5.49%), Duplicates 2,454 (23.61%)
+[2025.07.08-18.24.58:805][  0]LogShaderCompilers: Display: Tracking 7,895 distinct input hashes that result in 7,512 distinct outputs (95.15%)
+[2025.07.08-18.24.58:805][  0]LogShaderCompilers: Display: RAM used: 5.51 MiB of 819.20 MiB budget. Usage: 0.67%
+[2025.07.08-18.24.58:805][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.07.08-18.24.58:805][  0]LogShaderCompilers: Display: Shaders Compiled: 7,324
+[2025.07.08-18.24.58:805][  0]LogShaderCompilers: Display: Jobs assigned 7,324, completed 7,324 (100%)
+[2025.07.08-18.24.58:805][  0]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2025.07.08-18.24.58:805][  0]LogShaderCompilers: Display: Time job spent in pending queue: average 226.68 s, longest 507.34 s
+[2025.07.08-18.24.58:805][  0]LogShaderCompilers: Display: Job execution time: average 6.23 s, max 72.63 s
+[2025.07.08-18.24.58:805][  0]LogShaderCompilers: Display: Job life time (pending + execution): average 232.92 s, max 508.53
+[2025.07.08-18.24.58:805][  0]LogShaderCompilers: Display: Shader code size: average 14.29 KiB, min 1.16 KiB, max 330.166 KiB
+[2025.07.08-18.24.58:805][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 510.45 s
+[2025.07.08-18.24.58:805][  0]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.28%
+[2025.07.08-18.24.58:805][  0]LogShaderCompilers: Display: Jobs were issued in 752 batches (only local compilation was used), average 9.74 jobs/batch
+[2025.07.08-18.24.58:805][  0]LogShaderCompilers: Display: Average processing rate: 14.35 jobs/sec
+[2025.07.08-18.24.58:805][  0]LogShaderCompilers: Display: Total thread time: 4,510.343 s
+[2025.07.08-18.24.58:805][  0]LogShaderCompilers: Display: Total thread preprocess time: 121.904 s
+[2025.07.08-18.24.58:805][  0]LogShaderCompilers: Display: Percentage time preprocessing: 2.70%
+[2025.07.08-18.24.58:805][  0]LogShaderCompilers: Display: Effective parallelization: 8.84 (times faster than compiling all shaders on one thread). Compare with number of workers: 9
+[2025.07.08-18.24.58:805][  0]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.07.08-18.24.58:805][  0]LogShaderCompilers: Display:                                          FTSRRejectShadingCS (compiled   27 times, average 22.97 sec, max 70.84 sec, min 1.59 sec)
+[2025.07.08-18.24.58:805][  0]LogShaderCompilers: Display:                                               FPathTracingRG (compiled    1 times, average 16.03 sec, max 16.03 sec, min 16.03 sec)
+[2025.07.08-18.24.58:805][  0]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 10.95 sec, max 12.95 sec, min 6.23 sec)
+[2025.07.08-18.24.58:805][  0]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled   32 times, average 4.35 sec, max 8.35 sec, min 1.57 sec)
+[2025.07.08-18.24.58:805][  0]LogShaderCompilers: Display:                                    FSSDSpatialAccumulationCS (compiled   33 times, average 3.84 sec, max 8.41 sec, min 1.84 sec)
+[2025.07.08-18.24.58:805][  0]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.07.08-18.24.58:805][  0]LogShaderCompilers: Display:                                             FDeferredLightPS - 17.30% of total time (compiled  454 times, average 1.72 sec, max 4.33 sec, min 1.17 sec)
+[2025.07.08-18.24.58:805][  0]LogShaderCompilers: Display:                                          FTSRRejectShadingCS - 13.75% of total time (compiled   27 times, average 22.97 sec, max 70.84 sec, min 1.59 sec)
+[2025.07.08-18.24.58:805][  0]LogShaderCompilers: Display:                              FVolumetricFogLightScatteringCS - 9.21% of total time (compiled  480 times, average 0.87 sec, max 7.26 sec, min 0.35 sec)
+[2025.07.08-18.24.58:805][  0]LogShaderCompilers: Display:                                      FGenerateLightSamplesCS - 5.11% of total time (compiled   72 times, average 3.20 sec, max 4.46 sec, min 2.17 sec)
+[2025.07.08-18.24.58:805][  0]LogShaderCompilers: Display:                                                FOcclusionRGS - 4.49% of total time (compiled  192 times, average 1.06 sec, max 1.65 sec, min 0.59 sec)
+[2025.07.08-18.24.58:805][  0]LogShaderCompilers: Display: === Material stats ===
+[2025.07.08-18.24.58:805][  0]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.07.08-18.24.58:805][  0]LogShaderCompilers: Display: Materials Translated:    149
+[2025.07.08-18.24.58:805][  0]LogShaderCompilers: Display: Material Total Translate Time: 0.14 s
+[2025.07.08-18.24.58:805][  0]LogShaderCompilers: Display: Material Translation Only: 0.06 s (41%)
+[2025.07.08-18.24.58:805][  0]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.07.08-18.24.58:805][  0]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2025.07.08-18.24.58:805][  0]LogShaderCompilers: Display: ================================================
+[2025.07.08-18.24.58:931][  0]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2025.07.08-18.24.59:040][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.08-18.24.59:108][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.08-18.24.59:179][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.08-18.24.59:243][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.07.08-18.24.59:381][  0]LogPakFile: Initializing PakPlatformFile
+[2025.07.08-18.24.59:390][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2025.07.08-18.24.59:391][  0]LogPakFile: Initializing PakPlatformFile
+[2025.07.08-18.24.59:404][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2025.07.08-18.24.59:405][  0]LogPakFile: Initializing PakPlatformFile
+[2025.07.08-18.24.59:419][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2025.07.08-18.24.59:419][  0]LogPakFile: Initializing PakPlatformFile
+[2025.07.08-18.24.59:430][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2025.07.08-18.24.59:432][  0]LogPakFile: Initializing PakPlatformFile
+[2025.07.08-18.24.59:441][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2025.07.08-18.24.59:442][  0]LogPakFile: Initializing PakPlatformFile
+[2025.07.08-18.24.59:451][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2025.07.08-18.24.59:452][  0]LogPakFile: Initializing PakPlatformFile
+[2025.07.08-18.24.59:461][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2025.07.08-18.24.59:462][  0]LogPakFile: Initializing PakPlatformFile
+[2025.07.08-18.24.59:471][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2025.07.08-18.24.59:472][  0]LogPakFile: Initializing PakPlatformFile
+[2025.07.08-18.24.59:482][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2025.07.08-18.24.59:483][  0]LogPakFile: Initializing PakPlatformFile
+[2025.07.08-18.24.59:492][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2025.07.08-18.25.00:716][  0]LogSlate: External Image Picker: DecompressImage failed
+[2025.07.08-18.25.00:904][  0]LogStall: Startup...
+[2025.07.08-18.25.00:906][  0]LogStall: Startup complete.
+[2025.07.08-18.25.00:915][  0]LogLoad: (Engine Initialization) Total time: 547.29 seconds
+[2025.07.08-18.25.01:121][  0]LogShaderCompilers: Display: ================================================
+[2025.07.08-18.25.01:121][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.07.08-18.25.01:121][  0]LogShaderCompilers: Display: Total job queries 10,393, among them cache hits 44 (0.42%), DDC hits 571 (5.49%), Duplicates 2,454 (23.61%)
+[2025.07.08-18.25.01:121][  0]LogShaderCompilers: Display: Tracking 7,895 distinct input hashes that result in 7,512 distinct outputs (95.15%)
+[2025.07.08-18.25.01:121][  0]LogShaderCompilers: Display: RAM used: 5.51 MiB of 819.20 MiB budget. Usage: 0.67%
+[2025.07.08-18.25.01:121][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.07.08-18.25.01:121][  0]LogShaderCompilers: Display: Shaders Compiled: 7,324
+[2025.07.08-18.25.01:121][  0]LogShaderCompilers: Display: Jobs assigned 7,324, completed 7,324 (100%)
+[2025.07.08-18.25.01:121][  0]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2025.07.08-18.25.01:121][  0]LogShaderCompilers: Display: Time job spent in pending queue: average 226.68 s, longest 507.34 s
+[2025.07.08-18.25.01:121][  0]LogShaderCompilers: Display: Job execution time: average 6.23 s, max 72.63 s
+[2025.07.08-18.25.01:121][  0]LogShaderCompilers: Display: Job life time (pending + execution): average 232.92 s, max 508.53
+[2025.07.08-18.25.01:121][  0]LogShaderCompilers: Display: Shader code size: average 14.29 KiB, min 1.16 KiB, max 330.166 KiB
+[2025.07.08-18.25.01:121][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 510.45 s
+[2025.07.08-18.25.01:121][  0]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.28%
+[2025.07.08-18.25.01:121][  0]LogShaderCompilers: Display: Jobs were issued in 752 batches (only local compilation was used), average 9.74 jobs/batch
+[2025.07.08-18.25.01:121][  0]LogShaderCompilers: Display: Average processing rate: 14.35 jobs/sec
+[2025.07.08-18.25.01:121][  0]LogShaderCompilers: Display: Total thread time: 4,510.343 s
+[2025.07.08-18.25.01:121][  0]LogShaderCompilers: Display: Total thread preprocess time: 121.904 s
+[2025.07.08-18.25.01:121][  0]LogShaderCompilers: Display: Percentage time preprocessing: 2.70%
+[2025.07.08-18.25.01:121][  0]LogShaderCompilers: Display: Effective parallelization: 8.84 (times faster than compiling all shaders on one thread). Compare with number of workers: 9
+[2025.07.08-18.25.01:121][  0]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.07.08-18.25.01:121][  0]LogShaderCompilers: Display:                                          FTSRRejectShadingCS (compiled   27 times, average 22.97 sec, max 70.84 sec, min 1.59 sec)
+[2025.07.08-18.25.01:121][  0]LogShaderCompilers: Display:                                               FPathTracingRG (compiled    1 times, average 16.03 sec, max 16.03 sec, min 16.03 sec)
+[2025.07.08-18.25.01:121][  0]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 10.95 sec, max 12.95 sec, min 6.23 sec)
+[2025.07.08-18.25.01:121][  0]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled   32 times, average 4.35 sec, max 8.35 sec, min 1.57 sec)
+[2025.07.08-18.25.01:121][  0]LogShaderCompilers: Display:                                    FSSDSpatialAccumulationCS (compiled   33 times, average 3.84 sec, max 8.41 sec, min 1.84 sec)
+[2025.07.08-18.25.01:122][  0]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.07.08-18.25.01:122][  0]LogShaderCompilers: Display:                                             FDeferredLightPS - 17.30% of total time (compiled  454 times, average 1.72 sec, max 4.33 sec, min 1.17 sec)
+[2025.07.08-18.25.01:122][  0]LogShaderCompilers: Display:                                          FTSRRejectShadingCS - 13.75% of total time (compiled   27 times, average 22.97 sec, max 70.84 sec, min 1.59 sec)
+[2025.07.08-18.25.01:122][  0]LogShaderCompilers: Display:                              FVolumetricFogLightScatteringCS - 9.21% of total time (compiled  480 times, average 0.87 sec, max 7.26 sec, min 0.35 sec)
+[2025.07.08-18.25.01:122][  0]LogShaderCompilers: Display:                                      FGenerateLightSamplesCS - 5.11% of total time (compiled   72 times, average 3.20 sec, max 4.46 sec, min 2.17 sec)
+[2025.07.08-18.25.01:122][  0]LogShaderCompilers: Display:                                                FOcclusionRGS - 4.49% of total time (compiled  192 times, average 1.06 sec, max 1.65 sec, min 0.59 sec)
+[2025.07.08-18.25.01:122][  0]LogShaderCompilers: Display: === Material stats ===
+[2025.07.08-18.25.01:122][  0]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.07.08-18.25.01:122][  0]LogShaderCompilers: Display: Materials Translated:    149
+[2025.07.08-18.25.01:122][  0]LogShaderCompilers: Display: Material Total Translate Time: 0.14 s
+[2025.07.08-18.25.01:122][  0]LogShaderCompilers: Display: Material Translation Only: 0.06 s (41%)
+[2025.07.08-18.25.01:122][  0]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.07.08-18.25.01:122][  0]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2025.07.08-18.25.01:122][  0]LogShaderCompilers: Display: ================================================
+[2025.07.08-18.25.01:127][  0]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_0
+[2025.07.08-18.25.01:127][  0]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_0'.
+[2025.07.08-18.25.01:246][  0]LogSlate: Took 0.008969 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.07.08-18.25.01:445][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2025.07.08-18.25.01:445][  0]LogCsvProfiler: Display: Metadata set : streamingpoolsizemb="1000"
+[2025.07.08-18.25.01:479][  0]LogSlate: Took 0.000157 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.07.08-18.25.01:490][  0]LogSlate: Took 0.008923 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2025.07.08-18.25.01:500][  0]LogSlate: Took 0.008972 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2025.07.08-18.25.01:568][  0]LogStreaming: Display: FlushAsyncLoading(337): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.08-18.25.01:701][  0]LogSlate: Took 0.012762 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2025.07.08-18.25.01:831][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.08-18.25.01:834][  0]LogFab: Error: Login failed - error code: EOS_InvalidAuth
+[2025.07.08-18.25.01:834][  0]LogFab: Display: Logging in using exchange code
+[2025.07.08-18.25.01:834][  0]LogFab: Display: Reading exchange code from commandline
+[2025.07.08-18.25.01:834][  0]LogEOSSDK: Error: LogEOSAuth: Invalid parameter EOS_Auth_Credentials.Token reason: must not be null or empty
+[2025.07.08-18.25.01:835][  0]LogPython: Display: Running start-up script C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/ControlRig/Content/Python/init_unreal.py... started...
+[2025.07.08-18.25.02:260][  0]LogPython: registering <class 'ControlRigWorkflows.workflow_deformation_rig_preset.provider'>
+
+[2025.07.08-18.25.02:271][  0]LogPython: Display: Running start-up script C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/ControlRig/Content/Python/init_unreal.py... took 435.908 ms
+[2025.07.08-18.25.02:551][  1]LogAssetRegistry: AssetRegistryGather time 2.7039s: AssetDataDiscovery 2.5112s, AssetDataGather 0.0635s, StoreResults 0.1292s. Wall time 531.0850s.
+	NumCachedDirectories 0. NumUncachedDirectories 1557. NumCachedFiles 7851. NumUncachedFiles 22.
+	BackgroundTickInterruptions 0.
+[2025.07.08-18.25.02:585][  1]LogSourceControl: Uncontrolled asset enumeration started...
+[2025.07.08-18.25.02:585][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000000 seconds (updated 0 objects)
+[2025.07.08-18.25.02:699][  1]LogFab: Error: Login failed - error code: EOS_InvalidParameters
+[2025.07.08-18.25.03:379][  2]LogSlate: External Image Picker: DecompressImage failed
+[2025.07.08-18.25.03:408][  2]LogSourceControl: Uncontrolled asset enumeration finished in 0.822974 seconds (Found 0 uncontrolled assets)
+[2025.07.08-18.25.03:778][  3]LogEOSSDK: LogEOS: SDK Config Platform Update Request Successful, Time: 11.940769
+[2025.07.08-18.25.03:780][  3]LogEOSSDK: LogEOSAnalytics: EOS SDK Analytics disabled for route [1].
+[2025.07.08-18.25.03:781][  3]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12.021508
+[2025.07.08-18.25.04:388][ 14]LogEOSSDK: LogEOSAnalytics: Start Session (User: ...)
+[2025.07.08-18.25.04:885][ 33]LogEOSSDK: LogEOS: SDK Config Product Update Request Successful, Time: 13.104980
+[2025.07.08-18.25.04:889][ 33]LogEOSSDK: LogEOS: SDK Config Data - Watermark: -987497851
+[2025.07.08-18.25.04:889][ 33]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13.104980, Update Interval: 326.688446
+[2025.07.08-18.25.18:303][140]LogSlate: Window 'Project Settings' being destroyed
+[2025.07.08-18.25.18:308][140]LogSlate: Window 'Project Settings' being destroyed
+[2025.07.08-18.25.24:225][321]LogRenderer: Warning: [VSM] Non-Nanite Marking Job Queue overflow. Performance may be affected. This occurs when many non-nanite meshes cover a large area of the shadow map.
+[2025.07.08-18.30.32:194][838]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 340.436584
+[2025.07.08-18.30.33:196][841]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.08-18.30.33:196][841]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 341.103546, Update Interval: 350.926849
+[2025.07.08-18.32.01:049][913]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PostProcessVolume
+[2025.07.08-18.32.01:049][913]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PostProcessVolume
+[2025.07.08-18.32.01:050][913]LogActorFactory: Actor Factory spawned Class /Script/Engine.PostProcessVolume as actor: PostProcessVolume /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.PostProcessVolume_0
+[2025.07.08-18.32.01:061][913]LogActorFactory: Actor Factory spawned Class /Script/Engine.PostProcessVolume as actor: PostProcessVolume /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.PostProcessVolume_0
+[2025.07.08-18.32.01:936][953]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.07.08-18.32.01:939][953]LogEditorActor: Deleted 0 Actors (0.107 secs)
+[2025.07.08-18.32.01:945][953]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PostProcessVolume
+[2025.07.08-18.32.01:945][953]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PostProcessVolume
+[2025.07.08-18.32.01:947][953]LogActorFactory: Actor Factory spawned Class /Script/Engine.PostProcessVolume as actor: PostProcessVolume /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.PostProcessVolume_1
+[2025.07.08-18.32.01:948][953]LogActorFactory: Actor Factory spawned Class /Script/Engine.PostProcessVolume as actor: PostProcessVolume /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.PostProcessVolume_1
+[2025.07.08-18.32.02:055][953]LogStreaming: Display: FlushAsyncLoading(338): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.08-18.32.28:351][116]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.07.08-18.32.28:351][116]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.07.08-18.33.09:974][168]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.07.08-18.33.11:063][168]LogSlate: Window 'Save Content' being destroyed
+[2025.07.08-18.33.11:163][168]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.08-18.33.11:413][168]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.07.08-18.33.13:554][168]LogSavePackage: Moving output files for package: /Game/Maps/SlashOpenWorld
+[2025.07.08-18.33.13:555][168]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Saved/SlashOpenWorldF88FDDA24353CEABAB360B8D3E3B379A.tmp' to '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Content/Maps/SlashOpenWorld.umap'
+[2025.07.08-18.33.13:595][168]LogFileHelpers: Saving map 'SlashOpenWorld' took 2.236
+[2025.07.08-18.33.13:601][168]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.43 sec
+[2025.07.08-18.33.13:642][168]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.08-18.33.13:642][168]LogContentValidation: Enabled validators:
+[2025.07.08-18.33.13:642][168]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.08-18.33.13:642][168]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.08-18.33.13:642][168]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.08-18.33.13:642][168]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.08-18.33.13:642][168]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.08-18.33.13:642][168]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.08-18.33.13:643][168]AssetCheck: /Game/Maps/SlashOpenWorld Validating asset
+[2025.07.08-18.36.26:320][111]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 694.563293
+[2025.07.08-18.36.27:321][114]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.08-18.36.27:321][114]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 695.229675, Update Interval: 334.410217
+[2025.07.08-18.38.11:895][210]LogTemp: Warning: UI Min (1.0) >= UI Max (.01) for Ranged Numeric property /Script/Engine.PostProcessSettings:LumenDiffuseColorBoost
+[2025.07.08-18.40.01:346][274]LogShaderCompilers: Display: ================================================
+[2025.07.08-18.40.01:346][274]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.07.08-18.40.01:346][274]LogShaderCompilers: Display: Total job queries 10,592, among them cache hits 84 (0.79%), DDC hits 724 (6.84%), Duplicates 2,458 (23.21%)
+[2025.07.08-18.40.01:346][274]LogShaderCompilers: Display: Tracking 8,050 distinct input hashes that result in 7,645 distinct outputs (94.97%)
+[2025.07.08-18.40.01:346][274]LogShaderCompilers: Display: RAM used: 5.56 MiB of 819.20 MiB budget. Usage: 0.68%
+[2025.07.08-18.40.01:346][274]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.07.08-18.40.01:346][274]LogShaderCompilers: Display: Shaders Compiled: 7,326
+[2025.07.08-18.40.01:346][274]LogShaderCompilers: Display: Jobs assigned 7,326, completed 7,326 (100%)
+[2025.07.08-18.40.01:346][274]LogShaderCompilers: Display: Average time worker was idle: 2.24 s
+[2025.07.08-18.40.01:346][274]LogShaderCompilers: Display: Time job spent in pending queue: average 226.62 s, longest 507.34 s
+[2025.07.08-18.40.01:347][274]LogShaderCompilers: Display: Job execution time: average 6.23 s, max 72.63 s
+[2025.07.08-18.40.01:347][274]LogShaderCompilers: Display: Job life time (pending + execution): average 232.85 s, max 508.53
+[2025.07.08-18.40.01:347][274]LogShaderCompilers: Display: Shader code size: average 14.287 KiB, min 1.16 KiB, max 330.166 KiB
+[2025.07.08-18.40.01:347][274]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 511.34 s
+[2025.07.08-18.40.01:347][274]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.28%
+[2025.07.08-18.40.01:347][274]LogShaderCompilers: Display: Jobs were issued in 754 batches (only local compilation was used), average 9.72 jobs/batch
+[2025.07.08-18.40.01:347][274]LogShaderCompilers: Display: Average processing rate: 14.33 jobs/sec
+[2025.07.08-18.40.01:347][274]LogShaderCompilers: Display: Total thread time: 4,510.784 s
+[2025.07.08-18.40.01:347][274]LogShaderCompilers: Display: Total thread preprocess time: 125.749 s
+[2025.07.08-18.40.01:347][274]LogShaderCompilers: Display: Percentage time preprocessing: 2.79%
+[2025.07.08-18.40.01:347][274]LogShaderCompilers: Display: Effective parallelization: 8.82 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.07.08-18.40.01:347][274]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.07.08-18.40.01:347][274]LogShaderCompilers: Display:                                          FTSRRejectShadingCS (compiled   27 times, average 22.97 sec, max 70.84 sec, min 1.59 sec)
+[2025.07.08-18.40.01:347][274]LogShaderCompilers: Display:                                               FPathTracingRG (compiled    1 times, average 16.03 sec, max 16.03 sec, min 16.03 sec)
+[2025.07.08-18.40.01:347][274]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 10.95 sec, max 12.95 sec, min 6.23 sec)
+[2025.07.08-18.40.01:347][274]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled   32 times, average 4.35 sec, max 8.35 sec, min 1.57 sec)
+[2025.07.08-18.40.01:347][274]LogShaderCompilers: Display:                                    FSSDSpatialAccumulationCS (compiled   33 times, average 3.84 sec, max 8.41 sec, min 1.84 sec)
+[2025.07.08-18.40.01:347][274]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.07.08-18.40.01:347][274]LogShaderCompilers: Display:                                             FDeferredLightPS - 17.30% of total time (compiled  454 times, average 1.72 sec, max 4.33 sec, min 1.17 sec)
+[2025.07.08-18.40.01:347][274]LogShaderCompilers: Display:                                          FTSRRejectShadingCS - 13.75% of total time (compiled   27 times, average 22.97 sec, max 70.84 sec, min 1.59 sec)
+[2025.07.08-18.40.01:347][274]LogShaderCompilers: Display:                              FVolumetricFogLightScatteringCS - 9.21% of total time (compiled  480 times, average 0.87 sec, max 7.26 sec, min 0.35 sec)
+[2025.07.08-18.40.01:347][274]LogShaderCompilers: Display:                                      FGenerateLightSamplesCS - 5.11% of total time (compiled   72 times, average 3.20 sec, max 4.46 sec, min 2.17 sec)
+[2025.07.08-18.40.01:347][274]LogShaderCompilers: Display:                                                FOcclusionRGS - 4.49% of total time (compiled  192 times, average 1.06 sec, max 1.65 sec, min 0.59 sec)
+[2025.07.08-18.40.01:347][274]LogShaderCompilers: Display: === Material stats ===
+[2025.07.08-18.40.01:347][274]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.07.08-18.40.01:347][274]LogShaderCompilers: Display: Materials Translated:    151
+[2025.07.08-18.40.01:347][274]LogShaderCompilers: Display: Material Total Translate Time: 0.14 s
+[2025.07.08-18.40.01:347][274]LogShaderCompilers: Display: Material Translation Only: 0.06 s (40%)
+[2025.07.08-18.40.01:347][274]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.07.08-18.40.01:347][274]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2025.07.08-18.40.01:347][274]LogShaderCompilers: Display: ================================================
+[2025.07.08-18.42.08:270][277]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1036.513428
+[2025.07.08-18.42.08:433][286]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.08-18.42.08:433][286]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1036.657593, Update Interval: 305.290070
+[2025.07.08-18.42.36:655][400]LogTemp: Warning: UI Min (1.0) >= UI Max (.01) for Ranged Numeric property /Script/Engine.PostProcessSettings:LumenDiffuseColorBoost
+[2025.07.08-18.42.58:008][262]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.07.08-18.42.58:926][262]LogSlate: Window 'Save Content' being destroyed
+[2025.07.08-18.42.59:021][262]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.08-18.42.59:105][262]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.07.08-18.43.01:156][262]LogSavePackage: Moving output files for package: /Game/Maps/SlashOpenWorld
+[2025.07.08-18.43.01:157][262]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Saved/SlashOpenWorld0DCEA0C240BEE6E842DCC1A1DEF99CB2.tmp' to '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Content/Maps/SlashOpenWorld.umap'
+[2025.07.08-18.43.01:191][262]LogFileHelpers: Saving map 'SlashOpenWorld' took 2.136
+[2025.07.08-18.43.01:199][262]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.17 sec (total: 4.61 sec)
+[2025.07.08-18.43.01:244][262]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.08-18.43.01:244][262]LogContentValidation: Enabled validators:
+[2025.07.08-18.43.01:244][262]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.08-18.43.01:244][262]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.08-18.43.01:244][262]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.08-18.43.01:244][262]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.08-18.43.01:244][262]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.08-18.43.01:244][262]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.08-18.43.01:244][262]AssetCheck: /Game/Maps/SlashOpenWorld Validating asset
