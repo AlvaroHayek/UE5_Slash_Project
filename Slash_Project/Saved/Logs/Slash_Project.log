@@ -1800,3 +1800,659 @@ Sampler Limit: 32
 [2025.07.08-17.08.31:329][ 41]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.07.08-17.08.31:329][ 41]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.07.08-17.08.31:333][ 41]AssetCheck: /Game/Maps/SlashOpenWorld Validating asset
+[2025.07.08-17.09.02:156][220]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2025.07.08-17.09.23:041][502]LogStreaming: Display: FlushAsyncLoading(344): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.08-17.09.29:117][506]LogRHI: Error: GpuProfiler's scratch buffer is out of space for this frame (current size : 32 kB). Dropping this frame. The size can be increased dynamically with the console variable r.GpuProfilerMaxEventBufferSizeKB
+[2025.07.08-17.09.55:109][844]Cmd: TRANSACTION UNDO
+[2025.07.08-17.09.55:109][844]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2025.07.08-17.10.09:825][898]Cmd: TRANSACTION UNDO
+[2025.07.08-17.10.09:825][898]LogEditorTransaction: Undo Clicking on Elements
+[2025.07.08-17.10.12:349][909]Cmd: TRANSACTION UNDO
+[2025.07.08-17.10.12:349][909]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2025.07.08-17.10.12:352][909]LogRHI: Error: GpuProfiler's scratch buffer is out of space for this frame (current size : 32 kB). Dropping this frame. The size can be increased dynamically with the console variable r.GpuProfilerMaxEventBufferSizeKB
+[2025.07.08-17.10.14:859][913]LogRHI: Error: GpuProfiler's scratch buffer is out of space for this frame (current size : 32 kB). Dropping this frame. The size can be increased dynamically with the console variable r.GpuProfilerMaxEventBufferSizeKB
+[2025.07.08-17.11.48:044][549]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.07.08-17.11.49:437][549]LogSlate: Window 'Save Content' being destroyed
+[2025.07.08-17.11.49:555][549]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.08-17.11.49:629][549]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.07.08-17.11.49:833][549]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.Landscape_0.Heightmap_22 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2025.07.08-17.11.49:847][549]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.Landscape_0.Heightmap_26 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2025.07.08-17.11.51:424][549]LogSavePackage: Moving output files for package: /Game/Maps/SlashOpenWorld
+[2025.07.08-17.11.51:425][549]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Saved/SlashOpenWorld65CA6D444E145B11511E8A8550D3EF05.tmp' to '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Content/Maps/SlashOpenWorld.umap'
+[2025.07.08-17.11.51:473][549]LogFileHelpers: Saving map 'SlashOpenWorld' took 1.893
+[2025.07.08-17.11.51:492][549]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.93 sec (total: 5.24 sec)
+[2025.07.08-17.11.51:526][549]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.08-17.11.51:526][549]LogContentValidation: Enabled validators:
+[2025.07.08-17.11.51:526][549]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.08-17.11.51:527][549]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.08-17.11.51:527][549]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.08-17.11.51:527][549]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.08-17.11.51:527][549]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.08-17.11.51:527][549]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.08-17.11.51:527][549]AssetCheck: /Game/Maps/SlashOpenWorld Validating asset
+[2025.07.08-17.13.34:708][753]LogSlate: Window 'Save Asset As' being destroyed
+[2025.07.08-17.13.37:114][772]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1033.408203
+[2025.07.08-17.13.37:475][777]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.08-17.13.37:476][778]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1033.686279, Update Interval: 319.717407
+[2025.07.08-17.15.39:235][282]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.07.08-17.15.40:212][282]LogSlate: Window 'Save Content' being destroyed
+[2025.07.08-17.15.40:331][282]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.08-17.15.40:450][282]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2025.07.08-17.15.40:673][282]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.Landscape_0.Heightmap_22 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 9.999992 MB), EncodeSpeed: Fast
+[2025.07.08-17.15.42:236][282]LogSavePackage: Moving output files for package: /Game/Maps/SlashOpenWorld
+[2025.07.08-17.15.42:237][282]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Saved/SlashOpenWorldE8329B3247D240E4100F3696FDB45A31.tmp' to '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Content/Maps/SlashOpenWorld.umap'
+[2025.07.08-17.15.42:303][282]LogFileHelpers: Saving map 'SlashOpenWorld' took 1.941
+[2025.07.08-17.15.42:314][282]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.98 sec (total: 7.23 sec)
+[2025.07.08-17.15.42:349][282]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.08-17.15.42:349][282]LogContentValidation: Enabled validators:
+[2025.07.08-17.15.42:349][282]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.08-17.15.42:349][282]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.08-17.15.42:350][282]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.08-17.15.42:350][282]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.08-17.15.42:350][282]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.08-17.15.42:350][282]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.08-17.15.42:350][282]AssetCheck: /Game/Maps/SlashOpenWorld Validating asset
+[2025.07.08-17.16.25:852][567]LogStreaming: Display: FlushAsyncLoading(362): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.08-17.16.32:452][567]LogInterchangeEngine: [Pending] Importing
+[2025.07.08-17.16.32:452][567]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Usuario/Desktop/Unreal Engine + Unity/Resources for projects/wheat_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_1K_AO.jpg]
+[2025.07.08-17.16.32:454][567]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.07.08-17.16.32:454][567]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Usuario/Desktop/Unreal Engine + Unity/Resources for projects/wheat_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_1K_BaseColor.jpg]
+[2025.07.08-17.16.32:455][567]LogInterchangeEngine: [Pending] Importing -  (3)
+[2025.07.08-17.16.32:455][567]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Usuario/Desktop/Unreal Engine + Unity/Resources for projects/wheat_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_1K_Billboard_BaseColor.jpg]
+[2025.07.08-17.16.32:457][567]LogInterchangeEngine: [Pending] Importing -  (4)
+[2025.07.08-17.16.32:457][567]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Usuario/Desktop/Unreal Engine + Unity/Resources for projects/wheat_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_1K_Billboard_Normal.jpg]
+[2025.07.08-17.16.32:457][567]LogInterchangeEngine: [Pending] Importing -  (5)
+[2025.07.08-17.16.32:457][567]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Usuario/Desktop/Unreal Engine + Unity/Resources for projects/wheat_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_1K_Billboard_Opacity.jpg]
+[2025.07.08-17.16.32:458][567]LogInterchangeEngine: [Pending] Importing -  (6)
+[2025.07.08-17.16.32:459][567]LogInterchangeEngine: [Pending] Importing -  (7)
+[2025.07.08-17.16.32:460][567]LogInterchangeEngine: [Pending] Importing -  (8)
+[2025.07.08-17.16.32:461][567]LogInterchangeEngine: [Pending] Importing -  (9)
+[2025.07.08-17.16.32:462][567]LogInterchangeEngine: [Pending] Importing -  (10)
+[2025.07.08-17.16.32:463][567]LogInterchangeEngine: [Pending] Importing -  (11)
+[2025.07.08-17.16.32:464][567]LogInterchangeEngine: [Pending] Importing -  (12)
+[2025.07.08-17.16.32:465][567]LogInterchangeEngine: [Pending] Importing -  (13)
+[2025.07.08-17.16.32:466][567]LogInterchangeEngine: [Pending] Importing -  (14)
+[2025.07.08-17.16.32:467][567]LogInterchangeEngine: [Pending] Importing -  (15)
+[2025.07.08-17.16.32:589][567]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Usuario/Desktop/Unreal Engine + Unity/Resources for projects/wheat_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarA_LOD0.fbx]
+[2025.07.08-17.16.59:301][567]LogSlate: Window 'Import Content' being destroyed
+[2025.07.08-17.16.59:359][567]LogInterchangeEngine: [Pending] Importing -  (16)
+[2025.07.08-17.16.59:361][567]LogInterchangeEngine: [Pending] Importing -  (17)
+[2025.07.08-17.16.59:363][567]LogInterchangeEngine: [Pending] Importing -  (18)
+[2025.07.08-17.16.59:365][567]LogInterchangeEngine: [Pending] Importing -  (19)
+[2025.07.08-17.16.59:367][567]LogInterchangeEngine: [Pending] Importing -  (20)
+[2025.07.08-17.16.59:369][567]LogInterchangeEngine: [Pending] Importing -  (21)
+[2025.07.08-17.16.59:371][567]LogInterchangeEngine: [Pending] Importing -  (22)
+[2025.07.08-17.16.59:373][567]LogInterchangeEngine: [Pending] Importing -  (23)
+[2025.07.08-17.16.59:375][567]LogInterchangeEngine: [Pending] Importing -  (24)
+[2025.07.08-17.16.59:376][567]LogInterchangeEngine: [Pending] Importing -  (25)
+[2025.07.08-17.16.59:379][567]LogInterchangeEngine: [Pending] Importing -  (26)
+[2025.07.08-17.16.59:381][567]LogInterchangeEngine: [Pending] Importing -  (27)
+[2025.07.08-17.16.59:382][567]LogInterchangeEngine: [Pending] Importing -  (28)
+[2025.07.08-17.16.59:384][567]LogInterchangeEngine: [Pending] Importing -  (29)
+[2025.07.08-17.16.59:386][567]LogInterchangeEngine: [Pending] Importing -  (30)
+[2025.07.08-17.16.59:388][567]LogInterchangeEngine: [Pending] Importing -  (31)
+[2025.07.08-17.16.59:389][567]LogInterchangeEngine: [Pending] Importing -  (32)
+[2025.07.08-17.16.59:391][567]LogInterchangeEngine: [Pending] Importing -  (33)
+[2025.07.08-17.16.59:703][569]LogStreaming: Display: FlushAsyncLoading(404): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.08-17.16.59:708][569]LogInterchangeImport: JPEG file [C:/Users/Usuario/Desktop/Unreal Engine + Unity/Resources for projects/wheat_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_1K_Billboard_Opacity.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'.
+[2025.07.08-17.16.59:708][570]LogInterchangeImport: JPEG file [C:/Users/Usuario/Desktop/Unreal Engine + Unity/Resources for projects/wheat_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_1K_BaseColor.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'.
+[2025.07.08-17.16.59:708][570]LogInterchangeImport: JPEG file [C:/Users/Usuario/Desktop/Unreal Engine + Unity/Resources for projects/wheat_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_1K_Billboard_BaseColor.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'.
+[2025.07.08-17.16.59:708][570]LogInterchangeImport: JPEG file [C:/Users/Usuario/Desktop/Unreal Engine + Unity/Resources for projects/wheat_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_1K_AO.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'.
+[2025.07.08-17.16.59:708][570]LogInterchangeImport: JPEG file [C:/Users/Usuario/Desktop/Unreal Engine + Unity/Resources for projects/wheat_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_1K_Billboard_Normal.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'.
+[2025.07.08-17.16.59:758][571]LogRHI: Error: GpuProfiler's scratch buffer is out of space for this frame (current size : 32 kB). Dropping this frame. The size can be increased dynamically with the console variable r.GpuProfilerMaxEventBufferSizeKB
+[2025.07.08-17.16.59:778][571]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Usuario/Des...t_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_1K_Billboard_Opacity.jpg]
+[2025.07.08-17.16.59:780][571]LogInterchangeEngine: [Pending] Importing -  (32)
+[2025.07.08-17.16.59:780][571]LogInterchangeEngine: [Pending] Importing -  (32)
+[2025.07.08-17.16.59:780][571]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Usuario/Desktop/Unreal Engine + Unity/Resources for projects/wheat_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_1K_Billboard_Translucency.jpg]
+[2025.07.08-17.16.59:781][571]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Usuario/Des...t_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_1K_Billboard_BaseColor.jpg]
+[2025.07.08-17.16.59:781][571]LogInterchangeEngine: [Pending] Importing -  (31)
+[2025.07.08-17.16.59:781][571]LogInterchangeEngine: [Pending] Importing -  (31)
+[2025.07.08-17.16.59:781][571]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Usuario/Desktop/Unreal Engine + Unity/Resources for projects/wheat_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_1K_Bump.jpg]
+[2025.07.08-17.16.59:781][571]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Usuario/Des...t_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_1K_BaseColor.jpg]
+[2025.07.08-17.16.59:781][571]LogInterchangeEngine: [Pending] Importing -  (30)
+[2025.07.08-17.16.59:781][571]LogInterchangeEngine: [Pending] Importing -  (30)
+[2025.07.08-17.16.59:781][571]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Usuario/Desktop/Unreal Engine + Unity/Resources for projects/wheat_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_1K_Cavity.jpg]
+[2025.07.08-17.16.59:782][571]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Usuario/Des...t_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_1K_AO.jpg]
+[2025.07.08-17.16.59:782][571]LogInterchangeEngine: [Pending] Importing -  (29)
+[2025.07.08-17.16.59:782][571]LogInterchangeEngine: [Pending] Importing -  (29)
+[2025.07.08-17.16.59:782][571]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Usuario/Desktop/Unreal Engine + Unity/Resources for projects/wheat_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_1K_Displacement.jpg]
+[2025.07.08-17.16.59:782][571]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Usuario/Des...t_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_1K_Billboard_Normal.jpg]
+[2025.07.08-17.16.59:782][571]LogInterchangeEngine: [Pending] Importing -  (28)
+[2025.07.08-17.16.59:782][571]LogInterchangeEngine: [Pending] Importing -  (28)
+[2025.07.08-17.16.59:782][571]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Usuario/Desktop/Unreal Engine + Unity/Resources for projects/wheat_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_1K_Gloss.jpg]
+[2025.07.08-17.16.59:856][574]LogStreaming: Display: FlushAsyncLoading(409): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.08-17.16.59:859][574]LogInterchangeImport: JPEG file [C:/Users/Usuario/Desktop/Unreal Engine + Unity/Resources for projects/wheat_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_1K_Cavity.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'.
+[2025.07.08-17.16.59:859][575]LogInterchangeImport: JPEG file [C:/Users/Usuario/Desktop/Unreal Engine + Unity/Resources for projects/wheat_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_1K_Bump.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'.
+[2025.07.08-17.16.59:859][575]LogInterchangeImport: JPEG file [C:/Users/Usuario/Desktop/Unreal Engine + Unity/Resources for projects/wheat_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_1K_Billboard_Translucency.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'.
+[2025.07.08-17.16.59:859][575]LogInterchangeImport: JPEG file [C:/Users/Usuario/Desktop/Unreal Engine + Unity/Resources for projects/wheat_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_1K_Displacement.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'.
+[2025.07.08-17.16.59:859][575]LogInterchangeImport: JPEG file [C:/Users/Usuario/Desktop/Unreal Engine + Unity/Resources for projects/wheat_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_1K_Gloss.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'.
+[2025.07.08-17.16.59:932][576]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Usuario/Des...t_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_1K_Bump.jpg]
+[2025.07.08-17.16.59:932][576]LogInterchangeEngine: [Pending] Importing -  (27)
+[2025.07.08-17.16.59:932][576]LogInterchangeEngine: [Pending] Importing -  (27)
+[2025.07.08-17.16.59:932][576]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Usuario/Desktop/Unreal Engine + Unity/Resources for projects/wheat_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_1K_Normal.jpg]
+[2025.07.08-17.16.59:932][576]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Usuario/Des...t_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_1K_Billboard_Translucency.jpg]
+[2025.07.08-17.16.59:932][576]LogInterchangeEngine: [Pending] Importing -  (26)
+[2025.07.08-17.16.59:932][576]LogInterchangeEngine: [Pending] Importing -  (26)
+[2025.07.08-17.16.59:933][576]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Usuario/Desktop/Unreal Engine + Unity/Resources for projects/wheat_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_1K_Opacity.jpg]
+[2025.07.08-17.16.59:933][576]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Usuario/Des...t_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_1K_Cavity.jpg]
+[2025.07.08-17.16.59:933][576]LogInterchangeEngine: [Pending] Importing -  (25)
+[2025.07.08-17.16.59:933][576]LogInterchangeEngine: [Pending] Importing -  (25)
+[2025.07.08-17.16.59:933][576]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Usuario/Desktop/Unreal Engine + Unity/Resources for projects/wheat_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_1K_Roughness.jpg]
+[2025.07.08-17.16.59:933][576]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Usuario/Des...t_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_1K_Displacement.jpg]
+[2025.07.08-17.16.59:933][576]LogInterchangeEngine: [Pending] Importing -  (24)
+[2025.07.08-17.16.59:933][576]LogInterchangeEngine: [Pending] Importing -  (24)
+[2025.07.08-17.16.59:933][576]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Usuario/Desktop/Unreal Engine + Unity/Resources for projects/wheat_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_1K_Specular.jpg]
+[2025.07.08-17.16.59:934][576]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Usuario/Des...t_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_1K_Gloss.jpg]
+[2025.07.08-17.16.59:934][576]LogInterchangeEngine: [Pending] Importing -  (23)
+[2025.07.08-17.16.59:934][576]LogInterchangeEngine: [Pending] Importing -  (23)
+[2025.07.08-17.16.59:934][576]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Usuario/Desktop/Unreal Engine + Unity/Resources for projects/wheat_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_1K_Translucency.jpg]
+[2025.07.08-17.17.00:005][579]LogStreaming: Display: FlushAsyncLoading(414): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.08-17.17.00:008][579]LogInterchangeImport: JPEG file [C:/Users/Usuario/Desktop/Unreal Engine + Unity/Resources for projects/wheat_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_1K_Opacity.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'.
+[2025.07.08-17.17.00:008][579]LogInterchangeImport: JPEG file [C:/Users/Usuario/Desktop/Unreal Engine + Unity/Resources for projects/wheat_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_1K_Specular.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'.
+[2025.07.08-17.17.00:008][580]LogInterchangeImport: JPEG file [C:/Users/Usuario/Desktop/Unreal Engine + Unity/Resources for projects/wheat_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_1K_Roughness.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'.
+[2025.07.08-17.17.00:008][580]LogInterchangeImport: JPEG file [C:/Users/Usuario/Desktop/Unreal Engine + Unity/Resources for projects/wheat_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_1K_Translucency.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'.
+[2025.07.08-17.17.00:008][580]LogInterchangeImport: JPEG file [C:/Users/Usuario/Desktop/Unreal Engine + Unity/Resources for projects/wheat_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_1K_Normal.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'.
+[2025.07.08-17.17.00:234][580]LogInterchangePipeline: Display: Auto-detected normal map
+[2025.07.08-17.17.00:280][581]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Usuario/Des...t_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_1K_Opacity.jpg]
+[2025.07.08-17.17.00:280][581]LogInterchangeEngine: [Pending] Importing -  (22)
+[2025.07.08-17.17.00:280][581]LogInterchangeEngine: [Pending] Importing -  (22)
+[2025.07.08-17.17.00:281][581]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Usuario/Des...t_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_1K_Normal.jpg]
+[2025.07.08-17.17.00:281][581]LogInterchangeEngine: [Pending] Importing -  (21)
+[2025.07.08-17.17.00:352][582]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Usuario/Des...t_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_1K_Roughness.jpg]
+[2025.07.08-17.17.00:352][582]LogInterchangeEngine: [Pending] Importing -  (20)
+[2025.07.08-17.17.00:353][582]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Usuario/Des...t_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_1K_Specular.jpg]
+[2025.07.08-17.17.00:353][582]LogInterchangeEngine: [Pending] Importing -  (19)
+[2025.07.08-17.17.00:353][582]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Usuario/Des...t_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_1K_Translucency.jpg]
+[2025.07.08-17.17.00:353][582]LogInterchangeEngine: [Pending] Importing -  (18)
+[2025.07.08-17.17.00:387][583]LogStreaming: Display: FlushAsyncLoading(419): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.08-17.17.00:445][584]LogStreaming: Display: FlushAsyncLoading(420): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.08-17.17.00:519][586]LogStaticMesh: Display: Building static mesh Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarA_LOD0 (Required Memory Estimate: 3.826149 MB)...
+[2025.07.08-17.17.00:547][586]LogStaticMesh: Adjacency [0.00s], tris: 2396, UVs 1, Color
+[2025.07.08-17.17.00:560][586]LogStaticMesh: Clustering [0.01s]. Ratio: 1.052632
+[2025.07.08-17.17.00:563][586]LogStaticMesh: Leaves [0.00s]
+[2025.07.08-17.17.00:656][589]LogStaticMesh: Reduce [0.09s]
+[2025.07.08-17.17.00:670][590]LogStaticMesh: Fallback [0.01s], num tris: 619
+[2025.07.08-17.17.00:672][590]LogStaticMesh: ConstrainClusters:
+[2025.07.08-17.17.00:672][590]LogStaticMesh:   Input: 41 Clusters, 5021 Triangles and 7021 Vertices
+[2025.07.08-17.17.00:673][590]LogStaticMesh:   Output without splits: 41 Clusters, 5021 Triangles and 7021 Vertices
+[2025.07.08-17.17.00:673][590]LogStaticMesh:   Output with splits: 43 Clusters, 5021 Triangles and 7025 Vertices
+[2025.07.08-17.17.00:673][590]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 43, Slow Path Clusters: 0, 1 Material: 43, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.07.08-17.17.00:674][590]LogStaticMesh: WritePages:
+[2025.07.08-17.17.00:674][590]LogStaticMesh:   Root: GPU size: 29900 bytes. 1 Pages. 29900.000 bytes per page (91.248% utilization).
+[2025.07.08-17.17.00:674][590]LogStaticMesh:   Streaming: GPU size: 80356 bytes. 1 Pages (1 with relative encoding). 80356.000 bytes per page (61.307% utilization).
+[2025.07.08-17.17.00:674][590]LogStaticMesh:   Page data disk size: 80804 bytes. Fixup data size: 224 bytes.
+[2025.07.08-17.17.00:674][590]LogStaticMesh:   Total GPU size: 110256 bytes, Total disk size: 81028 bytes.
+[2025.07.08-17.17.00:674][590]LogStaticMesh: Encode [0.00s]
+[2025.07.08-17.17.00:674][590]LogStaticMesh: Nanite build [0.14s]
+
+[2025.07.08-17.17.00:682][590]LogStaticMesh: Built static mesh [0.16s] /Game/Foliage/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarA_LOD0.Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarA_LOD0
+[2025.07.08-17.17.00:836][593]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Usuario/Des...t_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarA_LOD0.fbx]
+[2025.07.08-17.17.00:837][593]LogInterchangeEngine: [Pending] Importing -  (17)
+[2025.07.08-17.17.00:837][593]LogInterchangeEngine: [Pending] Importing -  (17)
+[2025.07.08-17.17.00:837][593]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Usuario/Desktop/Unreal Engine + Unity/Resources for projects/wheat_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarA_LOD1.fbx]
+[2025.07.08-17.17.00:937][598]LogStreaming: Display: FlushAsyncLoading(421): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.08-17.17.00:965][600]LogStaticMesh: Display: Building static mesh Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarA_LOD1 (Required Memory Estimate: 1.818553 MB)...
+[2025.07.08-17.17.00:972][600]LogStaticMesh: Adjacency [0.00s], tris: 1126, UVs 1, Color
+[2025.07.08-17.17.00:979][600]LogStaticMesh: Clustering [0.01s]. Ratio: 1.000000
+[2025.07.08-17.17.00:980][600]LogStaticMesh: Leaves [0.00s]
+[2025.07.08-17.17.01:012][603]LogStaticMesh: Reduce [0.03s]
+[2025.07.08-17.17.01:025][604]LogStaticMesh: Fallback [0.01s], num tris: 476
+[2025.07.08-17.17.01:027][604]LogStaticMesh: ConstrainClusters:
+[2025.07.08-17.17.01:027][604]LogStaticMesh:   Input: 20 Clusters, 2511 Triangles and 3666 Vertices
+[2025.07.08-17.17.01:027][604]LogStaticMesh:   Output without splits: 20 Clusters, 2511 Triangles and 3666 Vertices
+[2025.07.08-17.17.01:027][604]LogStaticMesh:   Output with splits: 21 Clusters, 2511 Triangles and 3666 Vertices
+[2025.07.08-17.17.01:027][604]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 21, Slow Path Clusters: 0, 1 Material: 21, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.07.08-17.17.01:028][604]LogStaticMesh: WritePages:
+[2025.07.08-17.17.01:029][604]LogStaticMesh:   Root: GPU size: 31944 bytes. 1 Pages. 31944.000 bytes per page (97.485% utilization).
+[2025.07.08-17.17.01:029][604]LogStaticMesh:   Streaming: GPU size: 25524 bytes. 1 Pages (1 with relative encoding). 25524.000 bytes per page (19.473% utilization).
+[2025.07.08-17.17.01:029][604]LogStaticMesh:   Page data disk size: 39560 bytes. Fixup data size: 224 bytes.
+[2025.07.08-17.17.01:029][604]LogStaticMesh:   Total GPU size: 57468 bytes, Total disk size: 39784 bytes.
+[2025.07.08-17.17.01:029][604]LogStaticMesh: Encode [0.00s]
+[2025.07.08-17.17.01:029][604]LogStaticMesh: Nanite build [0.06s]
+
+[2025.07.08-17.17.01:032][604]LogStaticMesh: Built static mesh [0.07s] /Game/Foliage/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarA_LOD1.Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarA_LOD1
+[2025.07.08-17.17.01:087][605]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Usuario/Des...t_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarA_LOD1.fbx]
+[2025.07.08-17.17.01:087][605]LogInterchangeEngine: [Pending] Importing -  (16)
+[2025.07.08-17.17.01:087][605]LogInterchangeEngine: [Pending] Importing -  (16)
+[2025.07.08-17.17.01:087][605]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Usuario/Desktop/Unreal Engine + Unity/Resources for projects/wheat_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarA_LOD2.fbx]
+[2025.07.08-17.17.01:104][607]LogMaterial: Display: Material /Game/Foliage/Atlas.Atlas needed to have new flag set bUsedWithNanite !
+[2025.07.08-17.17.01:452][608]LogStreaming: Display: FlushAsyncLoading(422): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.08-17.17.01:492][609]LogStreaming: Display: FlushAsyncLoading(423): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.08-17.17.01:774][611]LogStaticMesh: Display: Building static mesh Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarA_LOD2 (Required Memory Estimate: 0.021095 MB)...
+[2025.07.08-17.17.01:774][611]LogStaticMesh: Adjacency [0.00s], tris: 8, UVs 1, Color
+[2025.07.08-17.17.01:774][611]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2025.07.08-17.17.01:774][611]LogStaticMesh: Leaves [0.00s]
+[2025.07.08-17.17.01:774][611]LogStaticMesh: Reduce [0.00s]
+[2025.07.08-17.17.01:774][611]LogStaticMesh: Fallback [0.00s], num tris: 8
+[2025.07.08-17.17.01:774][611]LogStaticMesh: ConstrainClusters:
+[2025.07.08-17.17.01:774][611]LogStaticMesh:   Input: 1 Clusters, 8 Triangles and 10 Vertices
+[2025.07.08-17.17.01:774][611]LogStaticMesh:   Output without splits: 1 Clusters, 8 Triangles and 10 Vertices
+[2025.07.08-17.17.01:774][611]LogStaticMesh:   Output with splits: 1 Clusters, 8 Triangles and 10 Vertices
+[2025.07.08-17.17.01:775][611]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.07.08-17.17.01:775][611]LogStaticMesh: WritePages:
+[2025.07.08-17.17.01:775][611]LogStaticMesh:   Root: GPU size: 284 bytes. 1 Pages. 284.000 bytes per page (0.867% utilization).
+[2025.07.08-17.17.01:775][611]LogStaticMesh:   Streaming: 0 bytes.
+[2025.07.08-17.17.01:775][611]LogStaticMesh:   Page data disk size: 464 bytes. Fixup data size: 24 bytes.
+[2025.07.08-17.17.01:775][611]LogStaticMesh:   Total GPU size: 284 bytes, Total disk size: 488 bytes.
+[2025.07.08-17.17.01:775][611]LogStaticMesh: Encode [0.00s]
+[2025.07.08-17.17.01:775][611]LogStaticMesh: Nanite build [0.00s]
+
+[2025.07.08-17.17.01:775][611]LogStaticMesh: Built static mesh [0.00s] /Game/Foliage/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarA_LOD2.Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarA_LOD2
+[2025.07.08-17.17.01:868][611]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Usuario/Des...t_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarA_LOD2.fbx]
+[2025.07.08-17.17.01:869][611]LogInterchangeEngine: [Pending] Importing -  (15)
+[2025.07.08-17.17.01:869][611]LogInterchangeEngine: [Pending] Importing -  (15)
+[2025.07.08-17.17.01:869][611]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Usuario/Desktop/Unreal Engine + Unity/Resources for projects/wheat_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarB_LOD0.fbx]
+[2025.07.08-17.17.02:208][613]LogMaterial: Display: Material /Game/Foliage/Billboard.Billboard needed to have new flag set bUsedWithNanite !
+[2025.07.08-17.17.02:798][615]LogStreaming: Display: FlushAsyncLoading(424): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.08-17.17.03:507][617]LogStaticMesh: Display: Building static mesh Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarB_LOD0 (Required Memory Estimate: 1.953937 MB)...
+[2025.07.08-17.17.03:514][617]LogStaticMesh: Adjacency [0.00s], tris: 1218, UVs 1, Color
+[2025.07.08-17.17.03:520][617]LogStaticMesh: Clustering [0.01s]. Ratio: 1.000000
+[2025.07.08-17.17.03:520][617]LogStaticMesh: Leaves [0.00s]
+[2025.07.08-17.17.03:558][618]LogStaticMesh: Reduce [0.04s]
+[2025.07.08-17.17.03:574][618]LogStaticMesh: Fallback [0.02s], num tris: 614
+[2025.07.08-17.17.03:576][618]LogStaticMesh: ConstrainClusters:
+[2025.07.08-17.17.03:576][619]LogStaticMesh:   Input: 21 Clusters, 2604 Triangles and 3534 Vertices
+[2025.07.08-17.17.03:576][619]LogStaticMesh:   Output without splits: 21 Clusters, 2604 Triangles and 3534 Vertices
+[2025.07.08-17.17.03:576][619]LogStaticMesh:   Output with splits: 22 Clusters, 2604 Triangles and 3534 Vertices
+[2025.07.08-17.17.03:577][619]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 22, Slow Path Clusters: 0, 1 Material: 22, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.07.08-17.17.03:578][619]LogStaticMesh: WritePages:
+[2025.07.08-17.17.03:578][619]LogStaticMesh:   Root: GPU size: 30368 bytes. 1 Pages. 30368.000 bytes per page (92.676% utilization).
+[2025.07.08-17.17.03:578][619]LogStaticMesh:   Streaming: GPU size: 25616 bytes. 1 Pages (1 with relative encoding). 25616.000 bytes per page (19.543% utilization).
+[2025.07.08-17.17.03:578][619]LogStaticMesh:   Page data disk size: 40556 bytes. Fixup data size: 224 bytes.
+[2025.07.08-17.17.03:578][619]LogStaticMesh:   Total GPU size: 55984 bytes, Total disk size: 40780 bytes.
+[2025.07.08-17.17.03:578][619]LogStaticMesh: Encode [0.00s]
+[2025.07.08-17.17.03:578][619]LogStaticMesh: Nanite build [0.06s]
+
+[2025.07.08-17.17.03:582][619]LogStaticMesh: Built static mesh [0.08s] /Game/Foliage/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarB_LOD0.Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarB_LOD0
+[2025.07.08-17.17.04:082][619]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Usuario/Des...t_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarB_LOD0.fbx]
+[2025.07.08-17.17.04:082][619]LogInterchangeEngine: [Pending] Importing -  (14)
+[2025.07.08-17.17.04:082][619]LogInterchangeEngine: [Pending] Importing -  (14)
+[2025.07.08-17.17.04:082][619]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Usuario/Desktop/Unreal Engine + Unity/Resources for projects/wheat_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarB_LOD1.fbx]
+[2025.07.08-17.17.05:260][623]LogStreaming: Display: FlushAsyncLoading(425): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.08-17.17.05:668][625]LogStaticMesh: Display: Building static mesh Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarB_LOD1 (Required Memory Estimate: 0.954328 MB)...
+[2025.07.08-17.17.05:671][625]LogStaticMesh: Adjacency [0.00s], tris: 586, UVs 1, Color
+[2025.07.08-17.17.05:673][625]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2025.07.08-17.17.05:673][625]LogStaticMesh: Leaves [0.00s]
+[2025.07.08-17.17.05:685][625]LogStaticMesh: Reduce [0.01s]
+[2025.07.08-17.17.05:690][625]LogStaticMesh: Fallback [0.01s], num tris: 329
+[2025.07.08-17.17.05:691][625]LogStaticMesh: ConstrainClusters:
+[2025.07.08-17.17.05:691][625]LogStaticMesh:   Input: 11 Clusters, 1342 Triangles and 1890 Vertices
+[2025.07.08-17.17.05:691][625]LogStaticMesh:   Output without splits: 11 Clusters, 1342 Triangles and 1890 Vertices
+[2025.07.08-17.17.05:691][625]LogStaticMesh:   Output with splits: 11 Clusters, 1342 Triangles and 1890 Vertices
+[2025.07.08-17.17.05:691][625]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 11, Slow Path Clusters: 0, 1 Material: 11, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.07.08-17.17.05:692][625]LogStaticMesh: WritePages:
+[2025.07.08-17.17.05:692][625]LogStaticMesh:   Root: GPU size: 29844 bytes. 1 Pages. 29844.000 bytes per page (91.077% utilization).
+[2025.07.08-17.17.05:692][625]LogStaticMesh:   Streaming: 0 bytes.
+[2025.07.08-17.17.05:692][625]LogStaticMesh:   Page data disk size: 20584 bytes. Fixup data size: 72 bytes.
+[2025.07.08-17.17.05:692][625]LogStaticMesh:   Total GPU size: 29844 bytes, Total disk size: 20656 bytes.
+[2025.07.08-17.17.05:692][625]LogStaticMesh: Encode [0.00s]
+[2025.07.08-17.17.05:692][625]LogStaticMesh: Nanite build [0.02s]
+
+[2025.07.08-17.17.05:741][625]LogStaticMesh: Built static mesh [0.07s] /Game/Foliage/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarB_LOD1.Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarB_LOD1
+[2025.07.08-17.17.05:908][625]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Usuario/Des...t_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarB_LOD1.fbx]
+[2025.07.08-17.17.05:908][625]LogInterchangeEngine: [Pending] Importing -  (13)
+[2025.07.08-17.17.05:908][625]LogInterchangeEngine: [Pending] Importing -  (13)
+[2025.07.08-17.17.05:908][625]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Usuario/Desktop/Unreal Engine + Unity/Resources for projects/wheat_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarB_LOD2.fbx]
+[2025.07.08-17.17.06:389][629]LogStreaming: Display: FlushAsyncLoading(426): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.08-17.17.06:425][631]LogStaticMesh: Display: Building static mesh Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarB_LOD2 (Required Memory Estimate: 0.01948 MB)...
+[2025.07.08-17.17.06:425][631]LogStaticMesh: Adjacency [0.00s], tris: 7, UVs 1, Color
+[2025.07.08-17.17.06:425][631]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2025.07.08-17.17.06:425][631]LogStaticMesh: Leaves [0.00s]
+[2025.07.08-17.17.06:425][631]LogStaticMesh: Reduce [0.00s]
+[2025.07.08-17.17.06:425][631]LogStaticMesh: Fallback [0.00s], num tris: 7
+[2025.07.08-17.17.06:425][631]LogStaticMesh: ConstrainClusters:
+[2025.07.08-17.17.06:425][631]LogStaticMesh:   Input: 1 Clusters, 7 Triangles and 9 Vertices
+[2025.07.08-17.17.06:425][631]LogStaticMesh:   Output without splits: 1 Clusters, 7 Triangles and 9 Vertices
+[2025.07.08-17.17.06:426][631]LogStaticMesh:   Output with splits: 1 Clusters, 7 Triangles and 9 Vertices
+[2025.07.08-17.17.06:426][631]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.07.08-17.17.06:426][631]LogStaticMesh: WritePages:
+[2025.07.08-17.17.06:426][631]LogStaticMesh:   Root: GPU size: 272 bytes. 1 Pages. 272.000 bytes per page (0.830% utilization).
+[2025.07.08-17.17.06:426][631]LogStaticMesh:   Streaming: 0 bytes.
+[2025.07.08-17.17.06:426][631]LogStaticMesh:   Page data disk size: 444 bytes. Fixup data size: 24 bytes.
+[2025.07.08-17.17.06:426][631]LogStaticMesh:   Total GPU size: 272 bytes, Total disk size: 468 bytes.
+[2025.07.08-17.17.06:426][631]LogStaticMesh: Encode [0.00s]
+[2025.07.08-17.17.06:426][631]LogStaticMesh: Nanite build [0.00s]
+
+[2025.07.08-17.17.06:426][631]LogStaticMesh: Built static mesh [0.00s] /Game/Foliage/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarB_LOD2.Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarB_LOD2
+[2025.07.08-17.17.06:727][633]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Foliage/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarA_LOD1.Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarA_LOD1
+[2025.07.08-17.17.06:767][633]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2025.07.08-17.17.08:294][633]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Usuario/Des...t_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarB_LOD2.fbx]
+[2025.07.08-17.17.08:294][633]LogInterchangeEngine: [Pending] Importing -  (12)
+[2025.07.08-17.17.08:294][633]LogInterchangeEngine: [Pending] Importing -  (12)
+[2025.07.08-17.17.08:294][633]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Usuario/Desktop/Unreal Engine + Unity/Resources for projects/wheat_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarC_LOD0.fbx]
+[2025.07.08-17.17.09:133][637]LogStreaming: Display: FlushAsyncLoading(427): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.08-17.17.09:730][639]LogStaticMesh: Display: Building static mesh Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarC_LOD0 (Required Memory Estimate: 2.355721 MB)...
+[2025.07.08-17.17.09:740][639]LogStaticMesh: Adjacency [0.00s], tris: 1474, UVs 1, Color
+[2025.07.08-17.17.09:745][639]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2025.07.08-17.17.09:745][639]LogStaticMesh: Leaves [0.00s]
+[2025.07.08-17.17.09:780][640]LogStaticMesh: Reduce [0.03s]
+[2025.07.08-17.17.09:801][640]LogStaticMesh: Fallback [0.02s], num tris: 567
+[2025.07.08-17.17.09:802][640]LogStaticMesh: ConstrainClusters:
+[2025.07.08-17.17.09:802][640]LogStaticMesh:   Input: 24 Clusters, 2986 Triangles and 3959 Vertices
+[2025.07.08-17.17.09:802][640]LogStaticMesh:   Output without splits: 24 Clusters, 2986 Triangles and 3959 Vertices
+[2025.07.08-17.17.09:802][640]LogStaticMesh:   Output with splits: 25 Clusters, 2986 Triangles and 3962 Vertices
+[2025.07.08-17.17.09:802][640]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 25, Slow Path Clusters: 0, 1 Material: 25, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.07.08-17.17.09:803][640]LogStaticMesh: WritePages:
+[2025.07.08-17.17.09:803][640]LogStaticMesh:   Root: GPU size: 32404 bytes. 1 Pages. 32404.000 bytes per page (98.889% utilization).
+[2025.07.08-17.17.09:803][640]LogStaticMesh:   Streaming: GPU size: 30184 bytes. 1 Pages (1 with relative encoding). 30184.000 bytes per page (23.029% utilization).
+[2025.07.08-17.17.09:803][640]LogStaticMesh:   Page data disk size: 48208 bytes. Fixup data size: 232 bytes.
+[2025.07.08-17.17.09:803][640]LogStaticMesh:   Total GPU size: 62588 bytes, Total disk size: 48440 bytes.
+[2025.07.08-17.17.09:803][640]LogStaticMesh: Encode [0.00s]
+[2025.07.08-17.17.09:803][640]LogStaticMesh: Nanite build [0.06s]
+
+[2025.07.08-17.17.09:806][640]LogStaticMesh: Built static mesh [0.08s] /Game/Foliage/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarC_LOD0.Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarC_LOD0
+[2025.07.08-17.17.10:522][641]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Usuario/Des...t_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarC_LOD0.fbx]
+[2025.07.08-17.17.10:522][641]LogInterchangeEngine: [Pending] Importing -  (11)
+[2025.07.08-17.17.10:522][641]LogInterchangeEngine: [Pending] Importing -  (11)
+[2025.07.08-17.17.10:522][641]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Usuario/Desktop/Unreal Engine + Unity/Resources for projects/wheat_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarC_LOD1.fbx]
+[2025.07.08-17.17.11:410][645]LogStreaming: Display: FlushAsyncLoading(428): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.08-17.17.11:697][647]LogStaticMesh: Display: Building static mesh Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarC_LOD1 (Required Memory Estimate: 1.127482 MB)...
+[2025.07.08-17.17.11:702][647]LogStaticMesh: Adjacency [0.00s], tris: 696, UVs 1, Color
+[2025.07.08-17.17.11:705][647]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2025.07.08-17.17.11:705][647]LogStaticMesh: Leaves [0.00s]
+[2025.07.08-17.17.11:718][647]LogStaticMesh: Reduce [0.01s]
+[2025.07.08-17.17.11:725][647]LogStaticMesh: Fallback [0.01s], num tris: 297
+[2025.07.08-17.17.11:726][647]LogStaticMesh: ConstrainClusters:
+[2025.07.08-17.17.11:726][647]LogStaticMesh:   Input: 12 Clusters, 1452 Triangles and 2057 Vertices
+[2025.07.08-17.17.11:726][647]LogStaticMesh:   Output without splits: 12 Clusters, 1452 Triangles and 2057 Vertices
+[2025.07.08-17.17.11:726][647]LogStaticMesh:   Output with splits: 12 Clusters, 1452 Triangles and 2057 Vertices
+[2025.07.08-17.17.11:726][647]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 12, Slow Path Clusters: 0, 1 Material: 12, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.07.08-17.17.11:726][647]LogStaticMesh: WritePages:
+[2025.07.08-17.17.11:726][647]LogStaticMesh:   Root: GPU size: 32304 bytes. 1 Pages. 32304.000 bytes per page (98.584% utilization).
+[2025.07.08-17.17.11:726][647]LogStaticMesh:   Streaming: 0 bytes.
+[2025.07.08-17.17.11:726][647]LogStaticMesh:   Page data disk size: 23352 bytes. Fixup data size: 72 bytes.
+[2025.07.08-17.17.11:726][647]LogStaticMesh:   Total GPU size: 32304 bytes, Total disk size: 23424 bytes.
+[2025.07.08-17.17.11:726][647]LogStaticMesh: Encode [0.00s]
+[2025.07.08-17.17.11:726][647]LogStaticMesh: Nanite build [0.02s]
+
+[2025.07.08-17.17.11:728][647]LogStaticMesh: Built static mesh [0.03s] /Game/Foliage/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarC_LOD1.Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarC_LOD1
+[2025.07.08-17.17.11:846][647]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Usuario/Des...t_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarC_LOD1.fbx]
+[2025.07.08-17.17.11:846][647]LogInterchangeEngine: [Pending] Importing -  (10)
+[2025.07.08-17.17.11:846][647]LogInterchangeEngine: [Pending] Importing -  (10)
+[2025.07.08-17.17.11:846][647]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Usuario/Desktop/Unreal Engine + Unity/Resources for projects/wheat_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarC_LOD2.fbx]
+[2025.07.08-17.17.12:122][651]LogStreaming: Display: FlushAsyncLoading(429): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.08-17.17.12:147][653]LogStaticMesh: Display: Building static mesh Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarC_LOD2 (Required Memory Estimate: 0.017864 MB)...
+[2025.07.08-17.17.12:148][653]LogStaticMesh: Adjacency [0.00s], tris: 6, UVs 1, Color
+[2025.07.08-17.17.12:148][653]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2025.07.08-17.17.12:148][653]LogStaticMesh: Leaves [0.00s]
+[2025.07.08-17.17.12:148][653]LogStaticMesh: Reduce [0.00s]
+[2025.07.08-17.17.12:148][653]LogStaticMesh: Fallback [0.00s], num tris: 6
+[2025.07.08-17.17.12:148][653]LogStaticMesh: ConstrainClusters:
+[2025.07.08-17.17.12:148][653]LogStaticMesh:   Input: 1 Clusters, 6 Triangles and 8 Vertices
+[2025.07.08-17.17.12:148][653]LogStaticMesh:   Output without splits: 1 Clusters, 6 Triangles and 8 Vertices
+[2025.07.08-17.17.12:148][653]LogStaticMesh:   Output with splits: 1 Clusters, 6 Triangles and 8 Vertices
+[2025.07.08-17.17.12:148][653]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.07.08-17.17.12:148][653]LogStaticMesh: WritePages:
+[2025.07.08-17.17.12:148][653]LogStaticMesh:   Root: GPU size: 256 bytes. 1 Pages. 256.000 bytes per page (0.781% utilization).
+[2025.07.08-17.17.12:148][653]LogStaticMesh:   Streaming: 0 bytes.
+[2025.07.08-17.17.12:148][653]LogStaticMesh:   Page data disk size: 432 bytes. Fixup data size: 24 bytes.
+[2025.07.08-17.17.12:148][653]LogStaticMesh:   Total GPU size: 256 bytes, Total disk size: 456 bytes.
+[2025.07.08-17.17.12:148][653]LogStaticMesh: Encode [0.00s]
+[2025.07.08-17.17.12:148][653]LogStaticMesh: Nanite build [0.00s]
+
+[2025.07.08-17.17.12:148][653]LogStaticMesh: Built static mesh [0.00s] /Game/Foliage/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarC_LOD2.Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarC_LOD2
+[2025.07.08-17.17.12:382][654]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Usuario/Des...t_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarC_LOD2.fbx]
+[2025.07.08-17.17.12:382][654]LogInterchangeEngine: [Pending] Importing -  (9)
+[2025.07.08-17.17.12:382][654]LogInterchangeEngine: [Pending] Importing -  (9)
+[2025.07.08-17.17.12:382][654]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Usuario/Desktop/Unreal Engine + Unity/Resources for projects/wheat_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarD_LOD0.fbx]
+[2025.07.08-17.17.12:871][658]LogStreaming: Display: FlushAsyncLoading(430): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.08-17.17.12:904][660]LogStaticMesh: Display: Building static mesh Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarD_LOD0 (Required Memory Estimate: 0.991471 MB)...
+[2025.07.08-17.17.12:908][660]LogStaticMesh: Adjacency [0.00s], tris: 612, UVs 1, Color
+[2025.07.08-17.17.12:910][660]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2025.07.08-17.17.12:910][660]LogStaticMesh: Leaves [0.00s]
+[2025.07.08-17.17.12:929][660]LogStaticMesh: Reduce [0.02s]
+[2025.07.08-17.17.12:938][661]LogStaticMesh: Fallback [0.01s], num tris: 412
+[2025.07.08-17.17.12:940][661]LogStaticMesh: ConstrainClusters:
+[2025.07.08-17.17.12:940][661]LogStaticMesh:   Input: 11 Clusters, 1368 Triangles and 1776 Vertices
+[2025.07.08-17.17.12:940][661]LogStaticMesh:   Output without splits: 11 Clusters, 1368 Triangles and 1776 Vertices
+[2025.07.08-17.17.12:940][661]LogStaticMesh:   Output with splits: 11 Clusters, 1368 Triangles and 1776 Vertices
+[2025.07.08-17.17.12:940][661]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 11, Slow Path Clusters: 0, 1 Material: 11, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.07.08-17.17.12:940][661]LogStaticMesh: WritePages:
+[2025.07.08-17.17.12:940][661]LogStaticMesh:   Root: GPU size: 27920 bytes. 1 Pages. 27920.000 bytes per page (85.205% utilization).
+[2025.07.08-17.17.12:940][661]LogStaticMesh:   Streaming: 0 bytes.
+[2025.07.08-17.17.12:940][661]LogStaticMesh:   Page data disk size: 20020 bytes. Fixup data size: 72 bytes.
+[2025.07.08-17.17.12:940][661]LogStaticMesh:   Total GPU size: 27920 bytes, Total disk size: 20092 bytes.
+[2025.07.08-17.17.12:940][661]LogStaticMesh: Encode [0.00s]
+[2025.07.08-17.17.12:940][661]LogStaticMesh: Nanite build [0.03s]
+
+[2025.07.08-17.17.12:943][661]LogStaticMesh: Built static mesh [0.04s] /Game/Foliage/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarD_LOD0.Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarD_LOD0
+[2025.07.08-17.17.13:023][663]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Usuario/Des...t_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarD_LOD0.fbx]
+[2025.07.08-17.17.13:023][663]LogInterchangeEngine: [Pending] Importing -  (8)
+[2025.07.08-17.17.13:023][663]LogInterchangeEngine: [Pending] Importing -  (8)
+[2025.07.08-17.17.13:023][664]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Usuario/Desktop/Unreal Engine + Unity/Resources for projects/wheat_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarD_LOD1.fbx]
+[2025.07.08-17.17.13:353][667]LogStreaming: Display: FlushAsyncLoading(431): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.08-17.17.13:407][669]LogStaticMesh: Display: Building static mesh Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarD_LOD1 (Required Memory Estimate: 0.56265 MB)...
+[2025.07.08-17.17.13:409][669]LogStaticMesh: Adjacency [0.00s], tris: 342, UVs 1, Color
+[2025.07.08-17.17.13:410][669]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2025.07.08-17.17.13:410][669]LogStaticMesh: Leaves [0.00s]
+[2025.07.08-17.17.13:418][669]LogStaticMesh: Reduce [0.01s]
+[2025.07.08-17.17.13:420][669]LogStaticMesh: Fallback [0.00s], num tris: 256
+[2025.07.08-17.17.13:421][669]LogStaticMesh: ConstrainClusters:
+[2025.07.08-17.17.13:421][669]LogStaticMesh:   Input: 6 Clusters, 720 Triangles and 1008 Vertices
+[2025.07.08-17.17.13:421][669]LogStaticMesh:   Output without splits: 6 Clusters, 720 Triangles and 1008 Vertices
+[2025.07.08-17.17.13:421][669]LogStaticMesh:   Output with splits: 6 Clusters, 720 Triangles and 1008 Vertices
+[2025.07.08-17.17.13:421][669]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 6, Slow Path Clusters: 0, 1 Material: 6, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.07.08-17.17.13:421][669]LogStaticMesh: WritePages:
+[2025.07.08-17.17.13:421][669]LogStaticMesh:   Root: GPU size: 15856 bytes. 1 Pages. 15856.000 bytes per page (48.389% utilization).
+[2025.07.08-17.17.13:421][669]LogStaticMesh:   Streaming: 0 bytes.
+[2025.07.08-17.17.13:421][669]LogStaticMesh:   Page data disk size: 11364 bytes. Fixup data size: 56 bytes.
+[2025.07.08-17.17.13:421][669]LogStaticMesh:   Total GPU size: 15856 bytes, Total disk size: 11420 bytes.
+[2025.07.08-17.17.13:421][669]LogStaticMesh: Encode [0.00s]
+[2025.07.08-17.17.13:421][669]LogStaticMesh: Nanite build [0.01s]
+
+[2025.07.08-17.17.13:423][669]LogStaticMesh: Built static mesh [0.02s] /Game/Foliage/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarD_LOD1.Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarD_LOD1
+[2025.07.08-17.17.13:604][671]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Usuario/Des...t_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarD_LOD1.fbx]
+[2025.07.08-17.17.13:604][671]LogInterchangeEngine: [Pending] Importing -  (7)
+[2025.07.08-17.17.13:604][671]LogInterchangeEngine: [Pending] Importing -  (7)
+[2025.07.08-17.17.13:604][671]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Usuario/Desktop/Unreal Engine + Unity/Resources for projects/wheat_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarD_LOD2.fbx]
+[2025.07.08-17.17.13:818][675]LogStreaming: Display: FlushAsyncLoading(432): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.08-17.17.14:145][677]LogStaticMesh: Display: Building static mesh Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarD_LOD2 (Required Memory Estimate: 0.017864 MB)...
+[2025.07.08-17.17.14:145][677]LogStaticMesh: Adjacency [0.00s], tris: 6, UVs 1, Color
+[2025.07.08-17.17.14:145][677]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2025.07.08-17.17.14:145][677]LogStaticMesh: Leaves [0.00s]
+[2025.07.08-17.17.14:145][677]LogStaticMesh: Reduce [0.00s]
+[2025.07.08-17.17.14:145][677]LogStaticMesh: Fallback [0.00s], num tris: 6
+[2025.07.08-17.17.14:145][677]LogStaticMesh: ConstrainClusters:
+[2025.07.08-17.17.14:145][677]LogStaticMesh:   Input: 1 Clusters, 6 Triangles and 8 Vertices
+[2025.07.08-17.17.14:145][677]LogStaticMesh:   Output without splits: 1 Clusters, 6 Triangles and 8 Vertices
+[2025.07.08-17.17.14:145][677]LogStaticMesh:   Output with splits: 1 Clusters, 6 Triangles and 8 Vertices
+[2025.07.08-17.17.14:145][677]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.07.08-17.17.14:146][677]LogStaticMesh: WritePages:
+[2025.07.08-17.17.14:146][677]LogStaticMesh:   Root: GPU size: 256 bytes. 1 Pages. 256.000 bytes per page (0.781% utilization).
+[2025.07.08-17.17.14:146][677]LogStaticMesh:   Streaming: 0 bytes.
+[2025.07.08-17.17.14:146][677]LogStaticMesh:   Page data disk size: 432 bytes. Fixup data size: 24 bytes.
+[2025.07.08-17.17.14:146][677]LogStaticMesh:   Total GPU size: 256 bytes, Total disk size: 456 bytes.
+[2025.07.08-17.17.14:146][677]LogStaticMesh: Encode [0.00s]
+[2025.07.08-17.17.14:146][677]LogStaticMesh: Nanite build [0.00s]
+
+[2025.07.08-17.17.14:146][677]LogStaticMesh: Built static mesh [0.00s] /Game/Foliage/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarD_LOD2.Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarD_LOD2
+[2025.07.08-17.17.14:542][678]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Usuario/Des...t_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarD_LOD2.fbx]
+[2025.07.08-17.17.14:542][678]LogInterchangeEngine: [Pending] Importing -  (6)
+[2025.07.08-17.17.14:542][678]LogInterchangeEngine: [Pending] Importing -  (6)
+[2025.07.08-17.17.14:542][678]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Usuario/Desktop/Unreal Engine + Unity/Resources for projects/wheat_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarE_LOD0.fbx]
+[2025.07.08-17.17.15:298][682]LogStreaming: Display: FlushAsyncLoading(433): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.08-17.17.15:598][684]LogStaticMesh: Display: Building static mesh Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarE_LOD0 (Required Memory Estimate: 0.281288 MB)...
+[2025.07.08-17.17.15:600][684]LogStaticMesh: Adjacency [0.00s], tris: 168, UVs 1, Color
+[2025.07.08-17.17.15:600][684]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2025.07.08-17.17.15:600][684]LogStaticMesh: Leaves [0.00s]
+[2025.07.08-17.17.15:602][684]LogStaticMesh: Reduce [0.00s]
+[2025.07.08-17.17.15:602][684]LogStaticMesh: Fallback [0.00s], num tris: 168
+[2025.07.08-17.17.15:602][684]LogStaticMesh: ConstrainClusters:
+[2025.07.08-17.17.15:602][684]LogStaticMesh:   Input: 3 Clusters, 294 Triangles and 364 Vertices
+[2025.07.08-17.17.15:602][684]LogStaticMesh:   Output without splits: 3 Clusters, 294 Triangles and 364 Vertices
+[2025.07.08-17.17.15:602][684]LogStaticMesh:   Output with splits: 3 Clusters, 294 Triangles and 364 Vertices
+[2025.07.08-17.17.15:602][684]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 3, Slow Path Clusters: 0, 1 Material: 3, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.07.08-17.17.15:602][684]LogStaticMesh: WritePages:
+[2025.07.08-17.17.15:602][684]LogStaticMesh:   Root: GPU size: 5884 bytes. 1 Pages. 5884.000 bytes per page (17.957% utilization).
+[2025.07.08-17.17.15:602][684]LogStaticMesh:   Streaming: 0 bytes.
+[2025.07.08-17.17.15:602][684]LogStaticMesh:   Page data disk size: 4620 bytes. Fixup data size: 40 bytes.
+[2025.07.08-17.17.15:602][684]LogStaticMesh:   Total GPU size: 5884 bytes, Total disk size: 4660 bytes.
+[2025.07.08-17.17.15:602][684]LogStaticMesh: Encode [0.00s]
+[2025.07.08-17.17.15:602][684]LogStaticMesh: Nanite build [0.00s]
+
+[2025.07.08-17.17.15:603][684]LogStaticMesh: Built static mesh [0.01s] /Game/Foliage/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarE_LOD0.Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarE_LOD0
+[2025.07.08-17.17.16:192][685]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Usuario/Des...t_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarE_LOD0.fbx]
+[2025.07.08-17.17.16:192][685]LogInterchangeEngine: [Pending] Importing -  (5)
+[2025.07.08-17.17.16:192][685]LogInterchangeEngine: [Pending] Importing -  (5)
+[2025.07.08-17.17.16:192][685]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Usuario/Desktop/Unreal Engine + Unity/Resources for projects/wheat_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarE_LOD1.fbx]
+[2025.07.08-17.17.16:529][690]LogStreaming: Display: FlushAsyncLoading(434): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.08-17.17.16:614][692]LogStaticMesh: Display: Building static mesh Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarE_LOD1 (Required Memory Estimate: 0.152907 MB)...
+[2025.07.08-17.17.16:615][692]LogStaticMesh: Adjacency [0.00s], tris: 88, UVs 1, Color
+[2025.07.08-17.17.16:615][692]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2025.07.08-17.17.16:615][692]LogStaticMesh: Leaves [0.00s]
+[2025.07.08-17.17.16:615][692]LogStaticMesh: Reduce [0.00s]
+[2025.07.08-17.17.16:615][692]LogStaticMesh: Fallback [0.00s], num tris: 88
+[2025.07.08-17.17.16:615][692]LogStaticMesh: ConstrainClusters:
+[2025.07.08-17.17.16:615][692]LogStaticMesh:   Input: 1 Clusters, 88 Triangles and 116 Vertices
+[2025.07.08-17.17.16:615][692]LogStaticMesh:   Output without splits: 1 Clusters, 88 Triangles and 116 Vertices
+[2025.07.08-17.17.16:615][692]LogStaticMesh:   Output with splits: 1 Clusters, 88 Triangles and 116 Vertices
+[2025.07.08-17.17.16:615][692]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.07.08-17.17.16:615][692]LogStaticMesh: WritePages:
+[2025.07.08-17.17.16:615][692]LogStaticMesh:   Root: GPU size: 1904 bytes. 1 Pages. 1904.000 bytes per page (5.811% utilization).
+[2025.07.08-17.17.16:615][692]LogStaticMesh:   Streaming: 0 bytes.
+[2025.07.08-17.17.16:615][692]LogStaticMesh:   Page data disk size: 2160 bytes. Fixup data size: 24 bytes.
+[2025.07.08-17.17.16:615][692]LogStaticMesh:   Total GPU size: 1904 bytes, Total disk size: 2184 bytes.
+[2025.07.08-17.17.16:615][692]LogStaticMesh: Encode [0.00s]
+[2025.07.08-17.17.16:615][692]LogStaticMesh: Nanite build [0.00s]
+
+[2025.07.08-17.17.16:616][692]LogStaticMesh: Built static mesh [0.00s] /Game/Foliage/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarE_LOD1.Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarE_LOD1
+[2025.07.08-17.17.16:752][693]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Usuario/Des...t_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarE_LOD1.fbx]
+[2025.07.08-17.17.16:752][693]LogInterchangeEngine: [Pending] Importing -  (4)
+[2025.07.08-17.17.16:752][693]LogInterchangeEngine: [Pending] Importing -  (4)
+[2025.07.08-17.17.16:752][693]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Usuario/Desktop/Unreal Engine + Unity/Resources for projects/wheat_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarE_LOD2.fbx]
+[2025.07.08-17.17.17:074][697]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.07.08-17.17.17:075][697]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.08-17.17.17:295][697]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.07.08-17.17.17:310][697]LogStreaming: Display: FlushAsyncLoading(435): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.08-17.17.17:350][699]LogStaticMesh: Display: Building static mesh Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarE_LOD2 (Required Memory Estimate: 0.017864 MB)...
+[2025.07.08-17.17.17:350][699]LogStaticMesh: Adjacency [0.00s], tris: 6, UVs 1, Color
+[2025.07.08-17.17.17:351][699]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2025.07.08-17.17.17:351][699]LogStaticMesh: Leaves [0.00s]
+[2025.07.08-17.17.17:351][699]LogStaticMesh: Reduce [0.00s]
+[2025.07.08-17.17.17:351][699]LogStaticMesh: Fallback [0.00s], num tris: 6
+[2025.07.08-17.17.17:351][699]LogStaticMesh: ConstrainClusters:
+[2025.07.08-17.17.17:351][699]LogStaticMesh:   Input: 1 Clusters, 6 Triangles and 8 Vertices
+[2025.07.08-17.17.17:351][699]LogStaticMesh:   Output without splits: 1 Clusters, 6 Triangles and 8 Vertices
+[2025.07.08-17.17.17:351][699]LogStaticMesh:   Output with splits: 1 Clusters, 6 Triangles and 8 Vertices
+[2025.07.08-17.17.17:351][699]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.07.08-17.17.17:351][699]LogStaticMesh: WritePages:
+[2025.07.08-17.17.17:351][699]LogStaticMesh:   Root: GPU size: 252 bytes. 1 Pages. 252.000 bytes per page (0.769% utilization).
+[2025.07.08-17.17.17:351][699]LogStaticMesh:   Streaming: 0 bytes.
+[2025.07.08-17.17.17:351][699]LogStaticMesh:   Page data disk size: 432 bytes. Fixup data size: 24 bytes.
+[2025.07.08-17.17.17:351][699]LogStaticMesh:   Total GPU size: 252 bytes, Total disk size: 456 bytes.
+[2025.07.08-17.17.17:351][699]LogStaticMesh: Encode [0.00s]
+[2025.07.08-17.17.17:351][699]LogStaticMesh: Nanite build [0.00s]
+
+[2025.07.08-17.17.17:352][699]LogStaticMesh: Built static mesh [0.00s] /Game/Foliage/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarE_LOD2.Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarE_LOD2
+[2025.07.08-17.17.17:453][699]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Usuario/Des...t_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarE_LOD2.fbx]
+[2025.07.08-17.17.17:453][699]LogInterchangeEngine: [Pending] Importing -  (3)
+[2025.07.08-17.17.17:453][699]LogInterchangeEngine: [Pending] Importing -  (3)
+[2025.07.08-17.17.17:453][699]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Usuario/Desktop/Unreal Engine + Unity/Resources for projects/wheat_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarF_LOD0.fbx]
+[2025.07.08-17.17.17:634][703]LogStreaming: Display: FlushAsyncLoading(436): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.08-17.17.17:689][705]LogStaticMesh: Display: Building static mesh Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarF_LOD0 (Required Memory Estimate: 0.428288 MB)...
+[2025.07.08-17.17.17:690][705]LogStaticMesh: Adjacency [0.00s], tris: 246, UVs 1, Color
+[2025.07.08-17.17.17:691][705]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2025.07.08-17.17.17:691][705]LogStaticMesh: Leaves [0.00s]
+[2025.07.08-17.17.17:693][705]LogStaticMesh: Reduce [0.00s]
+[2025.07.08-17.17.17:693][705]LogStaticMesh: Fallback [0.00s], num tris: 246
+[2025.07.08-17.17.17:694][705]LogStaticMesh: ConstrainClusters:
+[2025.07.08-17.17.17:694][705]LogStaticMesh:   Input: 3 Clusters, 372 Triangles and 664 Vertices
+[2025.07.08-17.17.17:694][705]LogStaticMesh:   Output without splits: 3 Clusters, 372 Triangles and 664 Vertices
+[2025.07.08-17.17.17:694][705]LogStaticMesh:   Output with splits: 4 Clusters, 372 Triangles and 664 Vertices
+[2025.07.08-17.17.17:694][705]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 4, Slow Path Clusters: 0, 1 Material: 4, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.07.08-17.17.17:695][705]LogStaticMesh: WritePages:
+[2025.07.08-17.17.17:695][705]LogStaticMesh:   Root: GPU size: 7088 bytes. 1 Pages. 7088.000 bytes per page (21.631% utilization).
+[2025.07.08-17.17.17:695][705]LogStaticMesh:   Streaming: 0 bytes.
+[2025.07.08-17.17.17:695][705]LogStaticMesh:   Page data disk size: 9132 bytes. Fixup data size: 40 bytes.
+[2025.07.08-17.17.17:695][705]LogStaticMesh:   Total GPU size: 7088 bytes, Total disk size: 9172 bytes.
+[2025.07.08-17.17.17:695][705]LogStaticMesh: Encode [0.00s]
+[2025.07.08-17.17.17:695][705]LogStaticMesh: Nanite build [0.00s]
+
+[2025.07.08-17.17.17:696][705]LogStaticMesh: Built static mesh [0.01s] /Game/Foliage/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarF_LOD0.Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarF_LOD0
+[2025.07.08-17.17.17:874][707]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Usuario/Des...t_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarF_LOD0.fbx]
+[2025.07.08-17.17.17:874][707]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.07.08-17.17.17:874][707]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.07.08-17.17.17:874][707]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Usuario/Desktop/Unreal Engine + Unity/Resources for projects/wheat_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarF_LOD1.fbx]
+[2025.07.08-17.17.18:064][711]LogStreaming: Display: FlushAsyncLoading(437): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.08-17.17.18:309][713]LogStaticMesh: Display: Building static mesh Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarF_LOD1 (Required Memory Estimate: 0.255313 MB)...
+[2025.07.08-17.17.18:310][713]LogStaticMesh: Adjacency [0.00s], tris: 141, UVs 1, Color
+[2025.07.08-17.17.18:310][713]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2025.07.08-17.17.18:310][713]LogStaticMesh: Leaves [0.00s]
+[2025.07.08-17.17.18:311][713]LogStaticMesh: Reduce [0.00s]
+[2025.07.08-17.17.18:311][713]LogStaticMesh: Fallback [0.00s], num tris: 141
+[2025.07.08-17.17.18:312][713]LogStaticMesh: ConstrainClusters:
+[2025.07.08-17.17.18:312][713]LogStaticMesh:   Input: 3 Clusters, 267 Triangles and 504 Vertices
+[2025.07.08-17.17.18:312][713]LogStaticMesh:   Output without splits: 3 Clusters, 267 Triangles and 504 Vertices
+[2025.07.08-17.17.18:312][713]LogStaticMesh:   Output with splits: 3 Clusters, 267 Triangles and 504 Vertices
+[2025.07.08-17.17.18:312][713]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 3, Slow Path Clusters: 0, 1 Material: 3, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.07.08-17.17.18:312][713]LogStaticMesh: WritePages:
+[2025.07.08-17.17.18:312][713]LogStaticMesh:   Root: GPU size: 5400 bytes. 1 Pages. 5400.000 bytes per page (16.479% utilization).
+[2025.07.08-17.17.18:312][713]LogStaticMesh:   Streaming: 0 bytes.
+[2025.07.08-17.17.18:312][713]LogStaticMesh:   Page data disk size: 5648 bytes. Fixup data size: 40 bytes.
+[2025.07.08-17.17.18:312][713]LogStaticMesh:   Total GPU size: 5400 bytes, Total disk size: 5688 bytes.
+[2025.07.08-17.17.18:312][713]LogStaticMesh: Encode [0.00s]
+[2025.07.08-17.17.18:312][713]LogStaticMesh: Nanite build [0.00s]
+
+[2025.07.08-17.17.18:313][713]LogStaticMesh: Built static mesh [0.00s] /Game/Foliage/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarF_LOD1.Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarF_LOD1
+[2025.07.08-17.17.18:470][715]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Usuario/Des...t_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarF_LOD1.fbx]
+[2025.07.08-17.17.18:470][715]LogInterchangeEngine: [Pending] Importing -  (1)
+[2025.07.08-17.17.18:470][715]LogInterchangeEngine: [Pending] Importing -  (1)
+[2025.07.08-17.17.18:470][715]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Usuario/Desktop/Unreal Engine + Unity/Resources for projects/wheat_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarF_LOD2.fbx]
+[2025.07.08-17.17.18:705][719]LogStreaming: Display: FlushAsyncLoading(438): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.08-17.17.18:744][721]LogStaticMesh: Display: Building static mesh Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarF_LOD2 (Required Memory Estimate: 0.017864 MB)...
+[2025.07.08-17.17.18:745][721]LogStaticMesh: Adjacency [0.00s], tris: 6, UVs 1, Color
+[2025.07.08-17.17.18:745][721]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2025.07.08-17.17.18:745][721]LogStaticMesh: Leaves [0.00s]
+[2025.07.08-17.17.18:745][721]LogStaticMesh: Reduce [0.00s]
+[2025.07.08-17.17.18:745][721]LogStaticMesh: Fallback [0.00s], num tris: 6
+[2025.07.08-17.17.18:745][721]LogStaticMesh: ConstrainClusters:
+[2025.07.08-17.17.18:745][721]LogStaticMesh:   Input: 1 Clusters, 6 Triangles and 8 Vertices
+[2025.07.08-17.17.18:745][721]LogStaticMesh:   Output without splits: 1 Clusters, 6 Triangles and 8 Vertices
+[2025.07.08-17.17.18:745][721]LogStaticMesh:   Output with splits: 1 Clusters, 6 Triangles and 8 Vertices
+[2025.07.08-17.17.18:745][721]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.07.08-17.17.18:745][721]LogStaticMesh: WritePages:
+[2025.07.08-17.17.18:745][721]LogStaticMesh:   Root: GPU size: 232 bytes. 1 Pages. 232.000 bytes per page (0.708% utilization).
+[2025.07.08-17.17.18:745][721]LogStaticMesh:   Streaming: 0 bytes.
+[2025.07.08-17.17.18:745][721]LogStaticMesh:   Page data disk size: 400 bytes. Fixup data size: 24 bytes.
+[2025.07.08-17.17.18:745][721]LogStaticMesh:   Total GPU size: 232 bytes, Total disk size: 424 bytes.
+[2025.07.08-17.17.18:745][721]LogStaticMesh: Encode [0.00s]
+[2025.07.08-17.17.18:745][721]LogStaticMesh: Nanite build [0.00s]
+
+[2025.07.08-17.17.18:745][721]LogStaticMesh: Built static mesh [0.00s] /Game/Foliage/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarF_LOD2.Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarF_LOD2
+[2025.07.08-17.17.19:074][722]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Usuario/Des...t_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarF_LOD2.fbx]
+[2025.07.08-17.17.19:075][722]Interchange: Warning: [C:/Users/Usuario/Desktop/Unreal Engine + Unity/Resources for projects/wheat_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarA_LOD0.fbx : 'Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarA_LOD0', StaticMesh] No smoothing group information was found for this mesh '_8486_VarA_LOD1' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2025.07.08-17.17.19:075][722]Interchange: Warning: [C:/Users/Usuario/Desktop/Unreal Engine + Unity/Resources for projects/wheat_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarA_LOD1.fbx : 'Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarA_LOD1', StaticMesh] No smoothing group information was found for this mesh '_abc8_VarA_LOD2' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2025.07.08-17.17.19:075][722]Interchange: Warning: [C:/Users/Usuario/Desktop/Unreal Engine + Unity/Resources for projects/wheat_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarA_LOD2.fbx : 'Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarA_LOD2', StaticMesh] No smoothing group information was found for this mesh '_1440_VarA_LOD3' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2025.07.08-17.17.19:075][722]Interchange: Warning: [C:/Users/Usuario/Desktop/Unreal Engine + Unity/Resources for projects/wheat_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarB_LOD0.fbx : 'Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarB_LOD0', StaticMesh] No smoothing group information was found for this mesh '_f3ad_VarB_LOD1' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2025.07.08-17.17.19:075][722]Interchange: Warning: [C:/Users/Usuario/Desktop/Unreal Engine + Unity/Resources for projects/wheat_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarB_LOD1.fbx : 'Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarB_LOD1', StaticMesh] No smoothing group information was found for this mesh '_dddd_VarB_LOD2' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2025.07.08-17.17.19:075][722]Interchange: Warning: [C:/Users/Usuario/Desktop/Unreal Engine + Unity/Resources for projects/wheat_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarB_LOD2.fbx : 'Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarB_LOD2', StaticMesh] No smoothing group information was found for this mesh '_0148_VarB_LOD3' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2025.07.08-17.17.19:075][722]Interchange: Warning: [C:/Users/Usuario/Desktop/Unreal Engine + Unity/Resources for projects/wheat_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarC_LOD0.fbx : 'Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarC_LOD0', StaticMesh] No smoothing group information was found for this mesh '_c203_VarC_LOD1' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2025.07.08-17.17.19:075][722]Interchange: Warning: [C:/Users/Usuario/Desktop/Unreal Engine + Unity/Resources for projects/wheat_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarC_LOD1.fbx : 'Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarC_LOD1', StaticMesh] No smoothing group information was found for this mesh '_e7f6_VarC_LOD2' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2025.07.08-17.17.19:075][722]Interchange: Warning: [C:/Users/Usuario/Desktop/Unreal Engine + Unity/Resources for projects/wheat_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarC_LOD2.fbx : 'Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarC_LOD2', StaticMesh] No smoothing group information was found for this mesh '_da86_VarC_LOD3' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2025.07.08-17.17.19:075][722]Interchange: Warning: [C:/Users/Usuario/Desktop/Unreal Engine + Unity/Resources for projects/wheat_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarD_LOD0.fbx : 'Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarD_LOD0', StaticMesh] No smoothing group information was found for this mesh '_a00d_VarD_LOD1' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2025.07.08-17.17.19:075][722]Interchange: Warning: [C:/Users/Usuario/Desktop/Unreal Engine + Unity/Resources for projects/wheat_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarD_LOD1.fbx : 'Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarD_LOD1', StaticMesh] No smoothing group information was found for this mesh '_ec20_VarD_LOD2' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2025.07.08-17.17.19:075][722]Interchange: Warning: [C:/Users/Usuario/Desktop/Unreal Engine + Unity/Resources for projects/wheat_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarD_LOD2.fbx : 'Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarD_LOD2', StaticMesh] No smoothing group information was found for this mesh '_9b00_VarD_LOD3' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2025.07.08-17.17.19:075][722]Interchange: Warning: [C:/Users/Usuario/Desktop/Unreal Engine + Unity/Resources for projects/wheat_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarE_LOD0.fbx : 'Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarE_LOD0', StaticMesh] No smoothing group information was found for this mesh '_a20d_VarE_LOD1' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2025.07.08-17.17.19:075][722]Interchange: Warning: [C:/Users/Usuario/Desktop/Unreal Engine + Unity/Resources for projects/wheat_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarE_LOD1.fbx : 'Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarE_LOD1', StaticMesh] No smoothing group information was found for this mesh '_850e_VarE_LOD2' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2025.07.08-17.17.19:075][722]Interchange: Warning: [C:/Users/Usuario/Desktop/Unreal Engine + Unity/Resources for projects/wheat_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarE_LOD2.fbx : 'Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarE_LOD2', StaticMesh] No smoothing group information was found for this mesh '_bf29_VarE_LOD3' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2025.07.08-17.17.19:075][722]Interchange: Warning: [C:/Users/Usuario/Desktop/Unreal Engine + Unity/Resources for projects/wheat_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarF_LOD0.fbx : 'Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarF_LOD0', StaticMesh] No smoothing group information was found for this mesh '_f08b_VarF_LOD1' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2025.07.08-17.17.19:075][722]Interchange: Warning: [C:/Users/Usuario/Desktop/Unreal Engine + Unity/Resources for projects/wheat_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarF_LOD1.fbx : 'Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarF_LOD1', StaticMesh] No smoothing group information was found for this mesh '_268b_VarF_LOD2' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2025.07.08-17.17.19:076][722]Interchange: Warning: [C:/Users/Usuario/Desktop/Unreal Engine + Unity/Resources for projects/wheat_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarF_LOD2.fbx : 'Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarF_LOD2', StaticMesh] No smoothing group information was found for this mesh '_f8b4_VarF_LOD3' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2025.07.08-17.17.19:469][722]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.07.08-17.17.19:470][722]LogInterchangeEngine: [Success] Import Done
+[2025.07.08-17.17.30:820][ 16]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Foliage/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarC_LOD0.Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarC_LOD0
+[2025.07.08-17.17.30:845][ 16]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2025.07.08-17.17.34:387][ 52]LogSlate: Window 'Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarC_LOD0' being destroyed
+[2025.07.08-17.17.34:394][ 52]LogSlate: Window 'Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarC_LOD0' being destroyed
+[2025.07.08-17.17.34:473][ 52]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.07.08-17.17.34:473][ 52]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.08-17.17.34:769][ 52]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.07.08-17.17.34:769][ 52]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.08-17.17.34:843][ 52]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.07.08-17.17.34:843][ 52]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.08-17.17.34:894][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.07.08-17.17.42:036][222]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.07.08-17.17.43:675][222]LogSlate: Window 'Delete Assets' being destroyed
+[2025.07.08-17.17.43:767][222]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.07.08-17.17.43:779][222]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.07.08-17.17.43:792][222]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
