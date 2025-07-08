@@ -2456,3 +2456,1412 @@ Sampler Limit: 32
 [2025.07.08-17.17.43:767][222]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
 [2025.07.08-17.17.43:779][222]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
 [2025.07.08-17.17.43:792][222]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.07.08-17.19.10:082][919]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1366.377686
+[2025.07.08-17.19.11:081][922]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.08-17.19.11:081][922]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1367.042480, Update Interval: 313.149200
+[2025.07.08-17.21.16:794][322]LogSlate: Window 'Plugins' being destroyed
+[2025.07.08-17.21.16:838][322]LogSlate: Window 'Plugins' being destroyed
+[2025.07.08-17.21.35:128][232]LogSlate: Took 0.006287 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.07.08-17.21.46:020][652]LogWebBrowser: Loaded CEF3 version 90.6.7.2358 from C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/CEF3/Win64
+[2025.07.08-17.21.46:051][652]LogCEFBrowser: CEF GPU acceleration enabled
+[2025.07.08-17.21.54:667][862]LogWindows: LaunchURL https://www.fab.com/sellers/Quixel
+[2025.07.08-17.23.32:314][218]LogSlate: Window 'Bridge' being destroyed
+[2025.07.08-17.23.32:342][218]LogSlate: Window 'Bridge' being destroyed
+[2025.07.08-17.23.32:342][218]LogWebBrowser: Closing browser during destruction, this may cause a later crash.
+[2025.07.08-17.23.32:342][218]LogWebBrowser: Deleting browser for Url=file:///C:/Program%20Files/Epic%20Games/UE_5.5/Engine/Plugins/Bridge/ThirdParty/megascans/index.html#/.
+[2025.07.08-17.23.33:792][257]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.07.08-17.23.33:792][257]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.07.08-17.23.50:738][412]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Foliage/WheatGrass/Atlas.Atlas
+[2025.07.08-17.23.50:748][412]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2025.07.08-17.23.51:568][412]MaterialEditorStats: Texture samplers: 0/16
+[2025.07.08-17.23.51:568][412]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.07.08-17.23.51:568][412]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.08-17.23.51:568][412]MaterialEditorStats: Shader Count: 0
+[2025.07.08-17.23.51:568][412]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.08-17.23.51:698][414]MaterialEditorStats: Base pass shader: 179 instructions
+Stats: Resources Used: 6
+Resource Limit: 64
+Samplers Used: 3
+Sampler Limit: 32
+
+[2025.07.08-17.23.51:698][414]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.07.08-17.23.51:698][414]MaterialEditorStats: Texture samplers: 3/16
+[2025.07.08-17.23.51:698][414]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.07.08-17.23.51:698][414]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.08-17.23.51:698][414]MaterialEditorStats: Shader Count: 4
+[2025.07.08-17.23.51:698][414]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.08-17.24.45:813][520]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1702.108521
+[2025.07.08-17.24.46:813][523]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.08-17.24.46:813][523]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1702.775879, Update Interval: 336.735748
+[2025.07.08-17.26.28:221][ 99]LogSlate: Window 'Atlas' being destroyed
+[2025.07.08-17.26.28:243][ 99]LogSlate: Window 'Atlas' being destroyed
+[2025.07.08-17.28.11:750][779]LogWindows: LaunchURL https://www.fab.com/migrated-listing/uddmcgbia?source=quixel
+[2025.07.08-17.29.43:842][ 86]LogSlate: Window 'Bridge' being destroyed
+[2025.07.08-17.29.43:896][ 86]LogSlate: Window 'Bridge' being destroyed
+[2025.07.08-17.29.43:896][ 86]LogWebBrowser: Closing browser during destruction, this may cause a later crash.
+[2025.07.08-17.29.43:896][ 86]LogWebBrowser: Deleting browser for Url=file:///C:/Program%20Files/Epic%20Games/UE_5.5/Engine/Plugins/Bridge/ThirdParty/megascans/index.html#/megascans/collections?category=vegetation&category=grass.
+[2025.07.08-17.30.08:461][518]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Foliage/WheatGrass/Atlas.Atlas
+[2025.07.08-17.30.08:466][518]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_10
+[2025.07.08-17.30.09:349][518]MaterialEditorStats: Texture samplers: 0/16
+[2025.07.08-17.30.09:349][518]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.07.08-17.30.09:349][518]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.08-17.30.09:349][518]MaterialEditorStats: Shader Count: 0
+[2025.07.08-17.30.09:349][518]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.08-17.30.09:458][520]MaterialEditorStats: Base pass shader: 179 instructions
+Stats: Resources Used: 6
+Resource Limit: 64
+Samplers Used: 3
+Sampler Limit: 32
+
+[2025.07.08-17.30.09:458][520]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.07.08-17.30.09:458][520]MaterialEditorStats: Texture samplers: 3/16
+[2025.07.08-17.30.09:458][520]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.07.08-17.30.09:458][520]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.08-17.30.09:458][520]MaterialEditorStats: Shader Count: 4
+[2025.07.08-17.30.09:458][520]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.08-17.30.48:032][284]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_1: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Material using the DeferredDecal domain can only use the BlendModes Translucent, AlphaComposite or Modulate
+
+[2025.07.08-17.30.48:047][284]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_1: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Material using the DeferredDecal domain can only use the BlendModes Translucent, AlphaComposite or Modulate
+
+[2025.07.08-17.30.48:054][284]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_1: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Material using the DeferredDecal domain can only use the BlendModes Translucent, AlphaComposite or Modulate
+
+[2025.07.08-17.30.48:065][284]MaterialEditorStats: Error: [SM6] Material using the DeferredDecal domain can only use the BlendModes Translucent, AlphaComposite or Modulate
+[2025.07.08-17.30.58:821][631]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_1: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Volume materials must use an Additive blend mode.
+
+[2025.07.08-17.30.58:835][631]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_1: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Volume materials must use an Additive blend mode.
+
+[2025.07.08-17.30.58:840][631]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_1: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Volume materials must use an Additive blend mode.
+
+[2025.07.08-17.30.58:851][631]MaterialEditorStats: Error: [SM6] Volume materials must use an Additive blend mode.
+[2025.07.08-17.31.04:814][805]MaterialEditorStats: Texture samplers: 0/16
+[2025.07.08-17.31.04:814][805]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.07.08-17.31.04:814][805]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.08-17.31.04:814][805]MaterialEditorStats: Shader Count: 0
+[2025.07.08-17.31.04:814][805]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.08-17.31.05:021][807]MaterialEditorStats: Base pass shader: 179 instructions
+Stats: Resources Used: 6
+Resource Limit: 64
+Samplers Used: 3
+Sampler Limit: 32
+
+[2025.07.08-17.31.05:021][807]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.07.08-17.31.05:021][807]MaterialEditorStats: Texture samplers: 3/16
+[2025.07.08-17.31.05:021][807]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.07.08-17.31.05:021][807]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.08-17.31.05:021][807]MaterialEditorStats: Shader Count: 4
+[2025.07.08-17.31.05:021][807]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.08-17.31.23:092][ 69]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2099.393555
+[2025.07.08-17.31.24:093][ 72]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.08-17.31.24:093][ 72]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2100.060547, Update Interval: 315.807983
+[2025.07.08-17.33.11:474][887]MaterialEditorStats: Texture samplers: 0/16
+[2025.07.08-17.33.11:474][887]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.07.08-17.33.11:474][887]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.08-17.33.11:474][887]MaterialEditorStats: Shader Count: 0
+[2025.07.08-17.33.11:474][887]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.08-17.33.11:615][889]MaterialEditorStats: Base pass shader: 179 instructions
+Stats: Resources Used: 6
+Resource Limit: 64
+Samplers Used: 3
+Sampler Limit: 32
+
+[2025.07.08-17.33.11:615][889]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.07.08-17.33.11:615][889]MaterialEditorStats: Texture samplers: 3/16
+[2025.07.08-17.33.11:615][889]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.07.08-17.33.11:615][889]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.08-17.33.11:615][889]MaterialEditorStats: Shader Count: 4
+[2025.07.08-17.33.11:615][889]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.08-17.33.52:078][322]MaterialEditorStats: Texture samplers: 0/16
+[2025.07.08-17.33.52:078][322]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.07.08-17.33.52:078][322]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.08-17.33.52:078][322]MaterialEditorStats: Shader Count: 0
+[2025.07.08-17.33.52:078][322]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.08-17.33.52:291][324]MaterialEditorStats: Base pass shader: 179 instructions
+Stats: Resources Used: 6
+Resource Limit: 64
+Samplers Used: 3
+Sampler Limit: 32
+
+[2025.07.08-17.33.52:291][324]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.07.08-17.33.52:291][324]MaterialEditorStats: Texture samplers: 3/16
+[2025.07.08-17.33.52:291][324]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.07.08-17.33.52:292][324]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.08-17.33.52:292][324]MaterialEditorStats: Shader Count: 4
+[2025.07.08-17.33.52:292][324]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.08-17.33.53:739][338]LogMaterialEditor: Applying material Atlas
+[2025.07.08-17.33.55:483][338]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.07.08-17.33.55:674][338]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2025.07.08-17.33.55:705][338]MaterialEditorStats: Base pass shader: 179 instructions
+Stats: Resources Used: 6
+Resource Limit: 64
+Samplers Used: 3
+Sampler Limit: 32
+
+[2025.07.08-17.33.55:705][338]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.07.08-17.33.55:705][338]MaterialEditorStats: Nanite Compute Shader: 825 instructions
+Stats: Resources Used: 11
+Resource Limit: 64
+Samplers Used: 3
+Sampler Limit: 32
+
+[2025.07.08-17.33.55:705][338]MaterialEditorStats: Texture samplers: 3/16
+[2025.07.08-17.33.55:705][338]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.07.08-17.33.55:705][338]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.08-17.33.55:705][338]MaterialEditorStats: Shader Count: 25
+[2025.07.08-17.33.55:705][338]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.08-17.34.06:578][781]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2025.07.08-17.34.06:608][781]LogContentBrowser: Creating deferred item: NewMaterial
+[2025.07.08-17.34.06:715][782]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2025.07.08-17.34.08:680][813]LogContentBrowser: Attempting asset rename: NewMaterial -> NewMaterial
+[2025.07.08-17.34.08:780][813]LogContentBrowser: End creating deferred item NewMaterial
+[2025.07.08-17.34.09:584][860]Cmd: TRANSACTION UNDO
+[2025.07.08-17.34.09:584][860]LogEditorTransaction: Undo Edit Max World Position Offset Displacement
+[2025.07.08-17.34.09:848][860]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2025.07.08-17.34.10:024][860]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.07.08-17.34.14:204][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.07.08-17.34.15:366][ 43]LogSlate: Window 'Delete Assets' being destroyed
+[2025.07.08-17.34.15:384][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2025.07.08-17.34.15:395][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.07.08-17.34.15:404][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.07.08-17.34.29:781][127]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.07.08-17.37.29:171][708]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2465.469971
+[2025.07.08-17.37.30:171][711]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.08-17.37.30:171][711]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2466.137451, Update Interval: 341.694397
+[2025.07.08-17.38.12:544][487]MaterialEditorStats: Texture samplers: 0/16
+[2025.07.08-17.38.12:544][487]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.07.08-17.38.12:544][487]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.08-17.38.12:544][487]MaterialEditorStats: Shader Count: 0
+[2025.07.08-17.38.12:544][487]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.08-17.38.13:623][490]MaterialEditorStats: Base pass shader: 179 instructions
+Stats: Resources Used: 6
+Resource Limit: 64
+Samplers Used: 3
+Sampler Limit: 32
+
+[2025.07.08-17.38.13:623][490]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.07.08-17.38.13:623][490]MaterialEditorStats: Texture samplers: 3/16
+[2025.07.08-17.38.13:623][490]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.07.08-17.38.13:623][490]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.08-17.38.13:623][490]MaterialEditorStats: Shader Count: 4
+[2025.07.08-17.38.13:623][490]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.08-17.38.16:677][520]MaterialEditorStats: Texture samplers: 0/16
+[2025.07.08-17.38.16:677][520]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.07.08-17.38.16:677][520]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.08-17.38.16:677][520]MaterialEditorStats: Shader Count: 0
+[2025.07.08-17.38.16:678][520]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.08-17.38.16:840][522]MaterialEditorStats: Base pass shader: 179 instructions
+Stats: Resources Used: 6
+Resource Limit: 64
+Samplers Used: 3
+Sampler Limit: 32
+
+[2025.07.08-17.38.16:840][522]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.07.08-17.38.16:840][522]MaterialEditorStats: Texture samplers: 3/16
+[2025.07.08-17.38.16:840][522]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.07.08-17.38.16:840][522]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.08-17.38.16:840][522]MaterialEditorStats: Shader Count: 4
+[2025.07.08-17.38.16:840][522]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.08-17.39.03:718][ 33]MaterialEditorStats: Texture samplers: 0/16
+[2025.07.08-17.39.03:718][ 33]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.07.08-17.39.03:719][ 33]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.08-17.39.03:719][ 33]MaterialEditorStats: Shader Count: 0
+[2025.07.08-17.39.03:719][ 33]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.08-17.39.03:795][ 35]MaterialEditorStats: Base pass shader: 179 instructions
+Stats: Resources Used: 6
+Resource Limit: 64
+Samplers Used: 3
+Sampler Limit: 32
+
+[2025.07.08-17.39.03:796][ 35]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.07.08-17.39.03:796][ 35]MaterialEditorStats: Texture samplers: 3/16
+[2025.07.08-17.39.03:796][ 35]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.07.08-17.39.03:796][ 35]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.08-17.39.03:796][ 35]MaterialEditorStats: Shader Count: 4
+[2025.07.08-17.39.03:796][ 35]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.08-17.39.07:656][ 46]MaterialEditorStats: Texture samplers: 0/16
+[2025.07.08-17.39.07:656][ 46]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.07.08-17.39.07:656][ 46]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.08-17.39.07:656][ 46]MaterialEditorStats: Shader Count: 0
+[2025.07.08-17.39.07:656][ 46]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.08-17.39.07:811][ 47]MaterialEditorStats: Base pass shader: 179 instructions
+Stats: Resources Used: 6
+Resource Limit: 64
+Samplers Used: 3
+Sampler Limit: 32
+
+[2025.07.08-17.39.07:811][ 47]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.07.08-17.39.07:811][ 47]MaterialEditorStats: Texture samplers: 3/16
+[2025.07.08-17.39.07:811][ 47]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.07.08-17.39.07:811][ 47]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.08-17.39.07:811][ 47]MaterialEditorStats: Shader Count: 4
+[2025.07.08-17.39.07:811][ 47]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.08-17.39.10:509][ 81]MaterialEditorStats: Texture samplers: 0/16
+[2025.07.08-17.39.10:509][ 81]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.07.08-17.39.10:509][ 81]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.08-17.39.10:509][ 81]MaterialEditorStats: Shader Count: 0
+[2025.07.08-17.39.10:510][ 81]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.08-17.39.10:687][ 83]MaterialEditorStats: Base pass shader: 179 instructions
+Stats: Resources Used: 6
+Resource Limit: 64
+Samplers Used: 3
+Sampler Limit: 32
+
+[2025.07.08-17.39.10:687][ 83]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.07.08-17.39.10:687][ 83]MaterialEditorStats: Texture samplers: 3/16
+[2025.07.08-17.39.10:687][ 83]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.07.08-17.39.10:687][ 83]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.08-17.39.10:687][ 83]MaterialEditorStats: Shader Count: 4
+[2025.07.08-17.39.10:687][ 83]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.08-17.39.57:388][282]MaterialEditorStats: Texture samplers: 0/16
+[2025.07.08-17.39.57:388][282]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.07.08-17.39.57:388][282]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.08-17.39.57:388][282]MaterialEditorStats: Shader Count: 0
+[2025.07.08-17.39.57:388][282]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.08-17.39.57:531][283]MaterialEditorStats: Base pass shader: 179 instructions
+Stats: Resources Used: 6
+Resource Limit: 64
+Samplers Used: 3
+Sampler Limit: 32
+
+[2025.07.08-17.39.57:531][283]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.07.08-17.39.57:531][283]MaterialEditorStats: Texture samplers: 3/16
+[2025.07.08-17.39.57:531][283]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.07.08-17.39.57:531][283]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.08-17.39.57:531][283]MaterialEditorStats: Shader Count: 4
+[2025.07.08-17.39.57:531][283]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.08-17.40.14:217][639]MaterialEditorStats: Texture samplers: 0/16
+[2025.07.08-17.40.14:217][639]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.07.08-17.40.14:217][639]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.08-17.40.14:217][639]MaterialEditorStats: Shader Count: 0
+[2025.07.08-17.40.14:217][639]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.08-17.40.14:304][640]MaterialEditorStats: Base pass shader: 179 instructions
+Stats: Resources Used: 6
+Resource Limit: 64
+Samplers Used: 3
+Sampler Limit: 32
+
+[2025.07.08-17.40.14:304][640]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.07.08-17.40.14:304][640]MaterialEditorStats: Texture samplers: 3/16
+[2025.07.08-17.40.14:304][640]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.07.08-17.40.14:304][640]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.08-17.40.14:304][640]MaterialEditorStats: Shader Count: 4
+[2025.07.08-17.40.14:304][640]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.08-17.40.25:922][ 35]LogStreaming: Display: FlushAsyncLoading(439): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.08-17.40.25:952][ 35]MaterialEditorStats: Texture samplers: 0/16
+[2025.07.08-17.40.25:952][ 35]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.07.08-17.40.25:952][ 35]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.08-17.40.25:952][ 35]MaterialEditorStats: Shader Count: 0
+[2025.07.08-17.40.25:953][ 35]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.08-17.40.26:167][ 37]MaterialEditorStats: Base pass shader: 179 instructions
+Stats: Resources Used: 6
+Resource Limit: 64
+Samplers Used: 3
+Sampler Limit: 32
+
+[2025.07.08-17.40.26:167][ 37]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.07.08-17.40.26:167][ 37]MaterialEditorStats: Texture samplers: 3/16
+[2025.07.08-17.40.26:167][ 37]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.07.08-17.40.26:167][ 37]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.08-17.40.26:167][ 37]MaterialEditorStats: Shader Count: 4
+[2025.07.08-17.40.26:167][ 37]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.08-17.40.31:491][140]MaterialEditorStats: Texture samplers: 0/16
+[2025.07.08-17.40.31:491][140]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.07.08-17.40.31:491][140]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.08-17.40.31:491][140]MaterialEditorStats: Shader Count: 0
+[2025.07.08-17.40.31:491][140]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.08-17.40.31:701][143]MaterialEditorStats: Texture samplers: 2/16
+[2025.07.08-17.40.31:701][143]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.07.08-17.40.31:701][143]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.08-17.40.31:701][143]MaterialEditorStats: Shader Count: 1
+[2025.07.08-17.40.31:701][143]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.08-17.40.31:763][144]MaterialEditorStats: Base pass shader: 179 instructions
+Stats: Resources Used: 6
+Resource Limit: 64
+Samplers Used: 3
+Sampler Limit: 32
+
+[2025.07.08-17.40.31:763][144]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.07.08-17.40.31:763][144]MaterialEditorStats: Texture samplers: 3/16
+[2025.07.08-17.40.31:763][144]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.07.08-17.40.31:763][144]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.08-17.40.31:763][144]MaterialEditorStats: Shader Count: 4
+[2025.07.08-17.40.31:763][144]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.08-17.40.36:215][247]MaterialEditorStats: Texture samplers: 0/16
+[2025.07.08-17.40.36:215][247]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.07.08-17.40.36:215][247]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.08-17.40.36:215][247]MaterialEditorStats: Shader Count: 0
+[2025.07.08-17.40.36:215][247]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.08-17.40.40:097][309]MaterialEditorStats: Base pass vertex shader: 158 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.07.08-17.40.40:097][309]MaterialEditorStats: Texture samplers: 2/16
+[2025.07.08-17.40.40:097][309]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.07.08-17.40.40:097][309]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.08-17.40.40:097][309]MaterialEditorStats: Shader Count: 7
+[2025.07.08-17.40.40:097][309]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.08-17.40.40:321][311]MaterialEditorStats: Base pass shader: 179 instructions
+Stats: Resources Used: 6
+Resource Limit: 64
+Samplers Used: 3
+Sampler Limit: 32
+
+[2025.07.08-17.40.40:321][311]MaterialEditorStats: Base pass vertex shader: 158 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.07.08-17.40.40:321][311]MaterialEditorStats: Texture samplers: 3/16
+[2025.07.08-17.40.40:321][311]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.07.08-17.40.40:321][311]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.08-17.40.40:321][311]MaterialEditorStats: Shader Count: 9
+[2025.07.08-17.40.40:321][311]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.08-17.40.43:941][344]LogMaterialEditor: Applying material Atlas
+[2025.07.08-17.40.44:486][344]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2025.07.08-17.40.51:607][344]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.07.08-17.40.51:706][344]MaterialEditorStats: Base pass shader: 179 instructions
+Stats: Resources Used: 6
+Resource Limit: 64
+Samplers Used: 3
+Sampler Limit: 32
+
+[2025.07.08-17.40.51:706][344]MaterialEditorStats: Base pass vertex shader: 158 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.07.08-17.40.51:706][344]MaterialEditorStats: Nanite Compute Shader: 1115 instructions
+Stats: Resources Used: 12
+Resource Limit: 64
+Samplers Used: 3
+Sampler Limit: 32
+
+[2025.07.08-17.40.51:706][344]MaterialEditorStats: Texture samplers: 3/16
+[2025.07.08-17.40.51:706][344]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.07.08-17.40.51:706][344]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.08-17.40.51:706][344]MaterialEditorStats: Shader Count: 62
+[2025.07.08-17.40.51:706][344]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.08-17.40.51:972][347]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.07.08-17.40.51:973][347]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.07.08-17.40.51:973][347]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.07.08-17.40.52:034][347]LogPSOHitching: Encountered 50 PSO creation hitches so far (25 graphics, 25 compute). 0 of them were precached.
+[2025.07.08-17.41.29:647][748]MaterialEditorStats: Texture samplers: 0/16
+[2025.07.08-17.41.29:647][748]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.07.08-17.41.29:647][748]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.08-17.41.29:647][748]MaterialEditorStats: Shader Count: 0
+[2025.07.08-17.41.29:647][748]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.08-17.41.31:848][769]MaterialEditorStats: Base pass vertex shader: 158 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.07.08-17.41.31:849][769]MaterialEditorStats: Texture samplers: 2/16
+[2025.07.08-17.41.31:849][769]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.07.08-17.41.31:849][769]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.08-17.41.31:849][769]MaterialEditorStats: Shader Count: 8
+[2025.07.08-17.41.31:849][769]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.08-17.41.32:382][773]MaterialEditorStats: Base pass shader: 179 instructions
+Stats: Resources Used: 6
+Resource Limit: 64
+Samplers Used: 3
+Sampler Limit: 32
+
+[2025.07.08-17.41.32:382][773]MaterialEditorStats: Base pass vertex shader: 158 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.07.08-17.41.32:382][773]MaterialEditorStats: Texture samplers: 3/16
+[2025.07.08-17.41.32:382][773]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.07.08-17.41.32:382][773]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.08-17.41.32:382][773]MaterialEditorStats: Shader Count: 9
+[2025.07.08-17.41.32:382][773]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.08-17.41.35:614][785]MaterialEditorStats: Texture samplers: 0/16
+[2025.07.08-17.41.35:614][785]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.07.08-17.41.35:614][785]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.08-17.41.35:614][785]MaterialEditorStats: Shader Count: 0
+[2025.07.08-17.41.35:614][785]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.08-17.41.37:786][789]LogShaderCompilers: Display: ================================================
+[2025.07.08-17.41.37:786][789]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.07.08-17.41.37:786][789]LogShaderCompilers: Display: Total job queries 981, among them cache hits 297 (30.28%), DDC hits 536 (54.64%), Duplicates 68 (6.93%)
+[2025.07.08-17.41.37:786][789]LogShaderCompilers: Display: Tracking 616 distinct input hashes that result in 392 distinct outputs (63.64%)
+[2025.07.08-17.41.37:786][789]LogShaderCompilers: Display: RAM used: 270.61 KiB of 819.20 MiB budget. Usage: 0.03%
+[2025.07.08-17.41.37:786][789]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.07.08-17.41.37:786][789]LogShaderCompilers: Display: Shaders Compiled: 80
+[2025.07.08-17.41.37:786][789]LogShaderCompilers: Display: Jobs assigned 80, completed 80 (100%)
+[2025.07.08-17.41.37:786][789]LogShaderCompilers: Display: Average time worker was idle: 6.07 s
+[2025.07.08-17.41.37:786][789]LogShaderCompilers: Display: Time job spent in pending queue: average 1.76 s, longest 5.91 s
+[2025.07.08-17.41.37:786][789]LogShaderCompilers: Display: Job execution time: average 1.45 s, max 4.16 s
+[2025.07.08-17.41.37:786][789]LogShaderCompilers: Display: Job life time (pending + execution): average 3.22 s, max 6.74
+[2025.07.08-17.41.37:786][789]LogShaderCompilers: Display: Shader code size: average 8.544 KiB, min 1.395 KiB, max 25.125 KiB
+[2025.07.08-17.41.37:786][789]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 15.24 s
+[2025.07.08-17.41.37:786][789]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2025.07.08-17.41.37:786][789]LogShaderCompilers: Display: Jobs were issued in 80 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.07.08-17.41.37:786][789]LogShaderCompilers: Display: Average processing rate: 5.25 jobs/sec
+[2025.07.08-17.41.37:786][789]LogShaderCompilers: Display: Total thread time: 75.958 s
+[2025.07.08-17.41.37:786][789]LogShaderCompilers: Display: Total thread preprocess time: 18.955 s
+[2025.07.08-17.41.37:786][789]LogShaderCompilers: Display: Percentage time preprocessing: 24.95%
+[2025.07.08-17.41.37:786][789]LogShaderCompilers: Display: Effective parallelization: 4.99 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.07.08-17.41.37:787][789]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.07.08-17.41.37:787][789]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    1 times, average 3.54 sec, max 3.54 sec, min 3.54 sec)
+[2025.07.08-17.41.37:787][789]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    1 times, average 3.47 sec, max 3.47 sec, min 3.47 sec)
+[2025.07.08-17.41.37:787][789]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    1 times, average 2.62 sec, max 2.62 sec, min 2.62 sec)
+[2025.07.08-17.41.37:787][789]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    2 times, average 2.18 sec, max 2.18 sec, min 2.18 sec)
+[2025.07.08-17.41.37:787][789]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    3 times, average 1.90 sec, max 2.44 sec, min 1.62 sec)
+[2025.07.08-17.41.37:787][789]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.07.08-17.41.37:787][789]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS - 9.56% of total time (compiled    5 times, average 1.45 sec, max 1.48 sec, min 1.43 sec)
+[2025.07.08-17.41.37:787][789]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 7.50% of total time (compiled    3 times, average 1.90 sec, max 2.44 sec, min 1.62 sec)
+[2025.07.08-17.41.37:787][789]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 7.24% of total time (compiled    3 times, average 1.83 sec, max 2.34 sec, min 1.53 sec)
+[2025.07.08-17.41.37:787][789]LogShaderCompilers: Display:                                             FDebugViewModePS - 5.73% of total time (compiled    2 times, average 2.18 sec, max 2.18 sec, min 2.18 sec)
+[2025.07.08-17.41.37:787][789]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 5.03% of total time (compiled    4 times, average 0.95 sec, max 1.14 sec, min 0.73 sec)
+[2025.07.08-17.41.37:787][789]LogShaderCompilers: Display: === Material stats ===
+[2025.07.08-17.41.37:787][789]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.07.08-17.41.37:787][789]LogShaderCompilers: Display: Materials Translated:    257
+[2025.07.08-17.41.37:787][789]LogShaderCompilers: Display: Material Total Translate Time: 0.27 s
+[2025.07.08-17.41.37:787][789]LogShaderCompilers: Display: Material Translation Only: 0.14 s (51%)
+[2025.07.08-17.41.37:787][789]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2025.07.08-17.41.37:787][789]LogShaderCompilers: Display: Material Cache Hits: 48 (19%)
+[2025.07.08-17.41.37:787][789]LogShaderCompilers: Display: ================================================
+[2025.07.08-17.41.38:023][790]MaterialEditorStats: Base pass shader: 179 instructions
+Stats: Resources Used: 6
+Resource Limit: 64
+Samplers Used: 3
+Sampler Limit: 32
+
+[2025.07.08-17.41.38:023][790]MaterialEditorStats: Base pass vertex shader: 159 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.07.08-17.41.38:023][790]MaterialEditorStats: Texture samplers: 3/16
+[2025.07.08-17.41.38:023][790]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.07.08-17.41.38:023][790]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.08-17.41.38:023][790]MaterialEditorStats: Shader Count: 11
+[2025.07.08-17.41.38:023][790]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.08-17.41.38:950][794]LogMaterialEditor: Applying material Atlas
+[2025.07.08-17.41.39:602][794]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2025.07.08-17.41.54:590][794]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.07.08-17.41.54:703][794]MaterialEditorStats: Base pass shader: 179 instructions
+Stats: Resources Used: 6
+Resource Limit: 64
+Samplers Used: 3
+Sampler Limit: 32
+
+[2025.07.08-17.41.54:703][794]MaterialEditorStats: Base pass vertex shader: 159 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.07.08-17.41.54:703][794]MaterialEditorStats: Nanite Compute Shader: 1117 instructions
+Stats: Resources Used: 12
+Resource Limit: 64
+Samplers Used: 3
+Sampler Limit: 32
+
+[2025.07.08-17.41.54:703][794]MaterialEditorStats: Texture samplers: 3/16
+[2025.07.08-17.41.54:703][794]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.07.08-17.41.54:703][794]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.08-17.41.54:703][794]MaterialEditorStats: Shader Count: 62
+[2025.07.08-17.41.54:703][794]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.08-17.42.11:314][  7]MaterialEditorStats: Texture samplers: 0/16
+[2025.07.08-17.42.11:314][  7]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.07.08-17.42.11:314][  7]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.08-17.42.11:314][  7]MaterialEditorStats: Shader Count: 0
+[2025.07.08-17.42.11:314][  7]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.08-17.42.11:970][ 10]MaterialEditorStats: Base pass shader: 179 instructions
+Stats: Resources Used: 6
+Resource Limit: 64
+Samplers Used: 3
+Sampler Limit: 32
+
+[2025.07.08-17.42.11:970][ 10]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.07.08-17.42.11:970][ 10]MaterialEditorStats: Texture samplers: 3/16
+[2025.07.08-17.42.11:970][ 10]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.07.08-17.42.11:970][ 10]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.08-17.42.11:970][ 10]MaterialEditorStats: Shader Count: 4
+[2025.07.08-17.42.11:970][ 10]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.08-17.42.13:659][ 18]LogMaterialEditor: Applying material Atlas
+[2025.07.08-17.42.14:574][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2025.07.08-17.42.18:016][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.07.08-17.42.18:328][ 18]MaterialEditorStats: Base pass shader: 179 instructions
+Stats: Resources Used: 6
+Resource Limit: 64
+Samplers Used: 3
+Sampler Limit: 32
+
+[2025.07.08-17.42.18:328][ 18]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.07.08-17.42.18:328][ 18]MaterialEditorStats: Nanite Compute Shader: 825 instructions
+Stats: Resources Used: 11
+Resource Limit: 64
+Samplers Used: 3
+Sampler Limit: 32
+
+[2025.07.08-17.42.18:328][ 18]MaterialEditorStats: Texture samplers: 3/16
+[2025.07.08-17.42.18:328][ 18]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.07.08-17.42.18:328][ 18]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.07.08-17.42.18:328][ 18]MaterialEditorStats: Shader Count: 25
+[2025.07.08-17.42.18:328][ 18]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.08-17.43.59:049][321]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2855.342529
+[2025.07.08-17.44.00:046][324]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.08-17.44.00:046][324]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2856.008301, Update Interval: 340.055542
+[2025.07.08-17.44.38:040][438]LogShaderCompilers: Display: ================================================
+[2025.07.08-17.44.38:040][438]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.07.08-17.44.38:040][438]LogShaderCompilers: Display: Total job queries 1,084, among them cache hits 345 (31.83%), DDC hits 536 (49.45%), Duplicates 68 (6.27%)
+[2025.07.08-17.44.38:040][438]LogShaderCompilers: Display: Tracking 671 distinct input hashes that result in 421 distinct outputs (62.74%)
+[2025.07.08-17.44.38:040][438]LogShaderCompilers: Display: RAM used: 291.43 KiB of 819.20 MiB budget. Usage: 0.03%
+[2025.07.08-17.44.38:040][438]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.07.08-17.44.38:040][438]LogShaderCompilers: Display: Shaders Compiled: 135
+[2025.07.08-17.44.38:040][438]LogShaderCompilers: Display: Jobs assigned 135, completed 135 (100%)
+[2025.07.08-17.44.38:040][438]LogShaderCompilers: Display: Average time worker was idle: 4.53 s
+[2025.07.08-17.44.38:040][438]LogShaderCompilers: Display: Time job spent in pending queue: average 3.15 s, longest 11.74 s
+[2025.07.08-17.44.38:040][438]LogShaderCompilers: Display: Job execution time: average 1.83 s, max 8.19 s
+[2025.07.08-17.44.38:040][438]LogShaderCompilers: Display: Job life time (pending + execution): average 4.98 s, max 12.89
+[2025.07.08-17.44.38:040][438]LogShaderCompilers: Display: Shader code size: average 9.328 KiB, min 1.395 KiB, max 25.164 KiB
+[2025.07.08-17.44.38:040][438]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 33.45 s
+[2025.07.08-17.44.38:040][438]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2025.07.08-17.44.38:040][438]LogShaderCompilers: Display: Jobs were issued in 135 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.07.08-17.44.38:040][438]LogShaderCompilers: Display: Average processing rate: 4.04 jobs/sec
+[2025.07.08-17.44.38:040][438]LogShaderCompilers: Display: Total thread time: 197.56 s
+[2025.07.08-17.44.38:040][438]LogShaderCompilers: Display: Total thread preprocess time: 21.434 s
+[2025.07.08-17.44.38:040][438]LogShaderCompilers: Display: Percentage time preprocessing: 10.85%
+[2025.07.08-17.44.38:040][438]LogShaderCompilers: Display: Effective parallelization: 5.91 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.07.08-17.44.38:040][438]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.07.08-17.44.38:041][438]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    3 times, average 4.67 sec, max 8.11 sec, min 2.42 sec)
+[2025.07.08-17.44.38:041][438]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    4 times, average 3.72 sec, max 6.68 sec, min 2.18 sec)
+[2025.07.08-17.44.38:041][438]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    7 times, average 3.28 sec, max 7.12 sec, min 1.62 sec)
+[2025.07.08-17.44.38:042][438]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    3 times, average 2.83 sec, max 3.54 sec, min 2.38 sec)
+[2025.07.08-17.44.38:042][438]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    7 times, average 2.71 sec, max 6.39 sec, min 1.53 sec)
+[2025.07.08-17.44.38:042][438]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.07.08-17.44.38:042][438]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 11.62% of total time (compiled    7 times, average 3.28 sec, max 7.12 sec, min 1.62 sec)
+[2025.07.08-17.44.38:042][438]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 9.60% of total time (compiled    7 times, average 2.71 sec, max 6.39 sec, min 1.53 sec)
+[2025.07.08-17.44.38:042][438]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS - 9.06% of total time (compiled   10 times, average 1.79 sec, max 2.30 sec, min 1.43 sec)
+[2025.07.08-17.44.38:042][438]LogShaderCompilers: Display:                                             FDebugViewModePS - 7.53% of total time (compiled    4 times, average 3.72 sec, max 6.68 sec, min 2.18 sec)
+[2025.07.08-17.44.38:092][439]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy - 7.09% of total time (compiled    3 times, average 4.67 sec, max 8.11 sec, min 2.42 sec)
+[2025.07.08-17.44.38:092][439]LogShaderCompilers: Display: === Material stats ===
+[2025.07.08-17.44.38:092][439]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.07.08-17.44.38:092][439]LogShaderCompilers: Display: Materials Translated:    262
+[2025.07.08-17.44.38:092][439]LogShaderCompilers: Display: Material Total Translate Time: 0.27 s
+[2025.07.08-17.44.38:093][439]LogShaderCompilers: Display: Material Translation Only: 0.14 s (51%)
+[2025.07.08-17.44.38:093][439]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2025.07.08-17.44.38:093][439]LogShaderCompilers: Display: Material Cache Hits: 48 (18%)
+[2025.07.08-17.44.38:093][439]LogShaderCompilers: Display: ================================================
+[2025.07.08-17.48.52:860][ 26]LogWindows: LaunchURL https://help.quixel.com/hc/en-us/sections/360005846137-Quixel-Bridge-for-Unreal-Engine-5
+[2025.07.08-17.49.20:858][136]LogSlate: Window 'Plugins' being destroyed
+[2025.07.08-17.49.20:867][136]LogSlate: Window 'Plugins' being destroyed
+[2025.07.08-17.49.34:904][214]LogFactory: FactoryCreateFile: DataTable with ReimportDataTableFactory (0 1 ../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/Resources for projects/wheat_grass_tdcrdbur_low/tdcrdbur.json)
+[2025.07.08-17.49.44:201][214]LogStreaming: Display: FlushAsyncLoading(440): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.08-17.49.47:286][214]LogSlate: Window 'DataTable Options' being destroyed
+[2025.07.08-17.49.47:342][214]LogCSVImportFactory: Imported DataTable 'tdcrdbur' - 1 Problems
+[2025.07.08-17.49.47:342][214]LogCSVImportFactory: 0:Failed to parse the JSON data. Error: 
+[2025.07.08-17.49.48:988][214]LogSlate: Window 'Message' being destroyed
+[2025.07.08-17.49.48:994][214]Message dialog closed, result: Ok, title: Message, text: Failed to parse the JSON data. Error: 
+
+[2025.07.08-17.49.49:067][214]LogInterchangeEngine: [Pending] Importing
+[2025.07.08-17.49.49:068][214]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Usuario/Desktop/Unreal Engine + Unity/Resources for projects/wheat_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_1K_AO.jpg]
+[2025.07.08-17.49.49:069][214]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.07.08-17.49.49:069][214]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Usuario/Desktop/Unreal Engine + Unity/Resources for projects/wheat_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_1K_BaseColor.jpg]
+[2025.07.08-17.49.49:070][214]LogInterchangeEngine: [Pending] Importing -  (3)
+[2025.07.08-17.49.49:070][214]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Usuario/Desktop/Unreal Engine + Unity/Resources for projects/wheat_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_1K_Billboard_BaseColor.jpg]
+[2025.07.08-17.49.49:071][214]LogInterchangeEngine: [Pending] Importing -  (4)
+[2025.07.08-17.49.49:071][214]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Usuario/Desktop/Unreal Engine + Unity/Resources for projects/wheat_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_1K_Billboard_Normal.jpg]
+[2025.07.08-17.49.49:072][214]LogInterchangeEngine: [Pending] Importing -  (5)
+[2025.07.08-17.49.49:072][214]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Usuario/Desktop/Unreal Engine + Unity/Resources for projects/wheat_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_1K_Billboard_Opacity.jpg]
+[2025.07.08-17.49.49:073][214]LogInterchangeEngine: [Pending] Importing -  (6)
+[2025.07.08-17.49.49:074][214]LogInterchangeEngine: [Pending] Importing -  (7)
+[2025.07.08-17.49.49:075][214]LogInterchangeEngine: [Pending] Importing -  (8)
+[2025.07.08-17.49.49:076][214]LogInterchangeEngine: [Pending] Importing -  (9)
+[2025.07.08-17.49.49:077][214]LogInterchangeEngine: [Pending] Importing -  (10)
+[2025.07.08-17.49.49:078][214]LogInterchangeEngine: [Pending] Importing -  (11)
+[2025.07.08-17.49.49:079][214]LogInterchangeEngine: [Pending] Importing -  (12)
+[2025.07.08-17.49.49:080][214]LogInterchangeEngine: [Pending] Importing -  (13)
+[2025.07.08-17.49.49:081][214]LogInterchangeEngine: [Pending] Importing -  (14)
+[2025.07.08-17.49.49:081][214]LogInterchangeEngine: [Pending] Importing -  (15)
+[2025.07.08-17.49.49:160][214]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Usuario/Desktop/Unreal Engine + Unity/Resources for projects/wheat_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarA_LOD0.fbx]
+[2025.07.08-17.51.20:078][214]LogSlate: Window 'Import Content' being destroyed
+[2025.07.08-17.51.20:090][214]LogInterchangeEngine: [Pending] Importing -  (16)
+[2025.07.08-17.51.20:137][214]LogInterchangeEngine: [Pending] Importing -  (17)
+[2025.07.08-17.51.20:139][214]LogInterchangeEngine: [Pending] Importing -  (18)
+[2025.07.08-17.51.20:141][214]LogInterchangeEngine: [Pending] Importing -  (19)
+[2025.07.08-17.51.20:143][214]LogInterchangeEngine: [Pending] Importing -  (20)
+[2025.07.08-17.51.20:144][214]LogInterchangeEngine: [Pending] Importing -  (21)
+[2025.07.08-17.51.20:146][214]LogInterchangeEngine: [Pending] Importing -  (22)
+[2025.07.08-17.51.20:148][214]LogInterchangeEngine: [Pending] Importing -  (23)
+[2025.07.08-17.51.20:150][214]LogInterchangeEngine: [Pending] Importing -  (24)
+[2025.07.08-17.51.20:152][214]LogInterchangeEngine: [Pending] Importing -  (25)
+[2025.07.08-17.51.20:154][214]LogInterchangeEngine: [Pending] Importing -  (26)
+[2025.07.08-17.51.20:155][214]LogInterchangeEngine: [Pending] Importing -  (27)
+[2025.07.08-17.51.20:157][214]LogInterchangeEngine: [Pending] Importing -  (28)
+[2025.07.08-17.51.20:159][214]LogInterchangeEngine: [Pending] Importing -  (29)
+[2025.07.08-17.51.20:161][214]LogInterchangeEngine: [Pending] Importing -  (30)
+[2025.07.08-17.51.20:162][214]LogInterchangeEngine: [Pending] Importing -  (31)
+[2025.07.08-17.51.20:164][214]LogInterchangeEngine: [Pending] Importing -  (32)
+[2025.07.08-17.51.20:166][214]LogInterchangeEngine: [Pending] Importing -  (33)
+[2025.07.08-17.51.21:167][216]LogStreaming: Display: FlushAsyncLoading(475): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.08-17.51.21:170][216]LogInterchangeImport: JPEG file [C:/Users/Usuario/Desktop/Unreal Engine + Unity/Resources for projects/wheat_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_1K_BaseColor.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'.
+[2025.07.08-17.51.21:170][216]LogInterchangeImport: JPEG file [C:/Users/Usuario/Desktop/Unreal Engine + Unity/Resources for projects/wheat_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_1K_AO.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'.
+[2025.07.08-17.51.21:170][216]LogInterchangeImport: JPEG file [C:/Users/Usuario/Desktop/Unreal Engine + Unity/Resources for projects/wheat_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_1K_Billboard_BaseColor.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'.
+[2025.07.08-17.51.21:170][217]LogInterchangeImport: JPEG file [C:/Users/Usuario/Desktop/Unreal Engine + Unity/Resources for projects/wheat_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_1K_Billboard_Opacity.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'.
+[2025.07.08-17.51.21:199][218]LogInterchangeImport: JPEG file [C:/Users/Usuario/Desktop/Unreal Engine + Unity/Resources for projects/wheat_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_1K_Billboard_Normal.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'.
+[2025.07.08-17.51.21:216][218]LogRHI: Error: GpuProfiler's scratch buffer is out of space for this frame (current size : 32 kB). Dropping this frame. The size can be increased dynamically with the console variable r.GpuProfilerMaxEventBufferSizeKB
+[2025.07.08-17.51.21:343][219]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Usuario/Des...t_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_1K_BaseColor.jpg]
+[2025.07.08-17.51.21:343][219]LogInterchangeEngine: [Pending] Importing -  (32)
+[2025.07.08-17.51.21:343][219]LogInterchangeEngine: [Pending] Importing -  (32)
+[2025.07.08-17.51.21:343][219]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Usuario/Desktop/Unreal Engine + Unity/Resources for projects/wheat_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_1K_Billboard_Translucency.jpg]
+[2025.07.08-17.51.21:344][219]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Usuario/Des...t_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_1K_AO.jpg]
+[2025.07.08-17.51.21:344][219]LogInterchangeEngine: [Pending] Importing -  (31)
+[2025.07.08-17.51.21:344][219]LogInterchangeEngine: [Pending] Importing -  (31)
+[2025.07.08-17.51.21:344][219]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Usuario/Desktop/Unreal Engine + Unity/Resources for projects/wheat_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_1K_Bump.jpg]
+[2025.07.08-17.51.21:344][219]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Usuario/Des...t_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_1K_Billboard_Normal.jpg]
+[2025.07.08-17.51.21:344][219]LogInterchangeEngine: [Pending] Importing -  (30)
+[2025.07.08-17.51.21:344][219]LogInterchangeEngine: [Pending] Importing -  (30)
+[2025.07.08-17.51.21:344][219]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Usuario/Desktop/Unreal Engine + Unity/Resources for projects/wheat_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_1K_Cavity.jpg]
+[2025.07.08-17.51.21:344][219]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Usuario/Des...t_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_1K_Billboard_BaseColor.jpg]
+[2025.07.08-17.51.21:344][219]LogInterchangeEngine: [Pending] Importing -  (29)
+[2025.07.08-17.51.21:344][219]LogInterchangeEngine: [Pending] Importing -  (29)
+[2025.07.08-17.51.21:344][219]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Usuario/Desktop/Unreal Engine + Unity/Resources for projects/wheat_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_1K_Displacement.jpg]
+[2025.07.08-17.51.21:345][219]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Usuario/Des...t_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_1K_Billboard_Opacity.jpg]
+[2025.07.08-17.51.21:345][219]LogInterchangeEngine: [Pending] Importing -  (28)
+[2025.07.08-17.51.21:345][219]LogInterchangeEngine: [Pending] Importing -  (28)
+[2025.07.08-17.51.21:345][219]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Usuario/Desktop/Unreal Engine + Unity/Resources for projects/wheat_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_1K_Gloss.jpg]
+[2025.07.08-17.51.21:776][222]LogStreaming: Display: FlushAsyncLoading(480): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.08-17.51.21:779][222]LogInterchangeImport: JPEG file [C:/Users/Usuario/Desktop/Unreal Engine + Unity/Resources for projects/wheat_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_1K_Displacement.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'.
+[2025.07.08-17.51.21:779][222]LogInterchangeImport: JPEG file [C:/Users/Usuario/Desktop/Unreal Engine + Unity/Resources for projects/wheat_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_1K_Bump.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'.
+[2025.07.08-17.51.21:779][222]LogInterchangeImport: JPEG file [C:/Users/Usuario/Desktop/Unreal Engine + Unity/Resources for projects/wheat_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_1K_Cavity.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'.
+[2025.07.08-17.51.21:779][223]LogInterchangeImport: JPEG file [C:/Users/Usuario/Desktop/Unreal Engine + Unity/Resources for projects/wheat_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_1K_Billboard_Translucency.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'.
+[2025.07.08-17.51.21:779][223]LogInterchangeImport: JPEG file [C:/Users/Usuario/Desktop/Unreal Engine + Unity/Resources for projects/wheat_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_1K_Gloss.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'.
+[2025.07.08-17.51.22:006][224]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Usuario/Des...t_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_1K_Billboard_Translucency.jpg]
+[2025.07.08-17.51.22:007][224]LogInterchangeEngine: [Pending] Importing -  (27)
+[2025.07.08-17.51.22:007][224]LogInterchangeEngine: [Pending] Importing -  (27)
+[2025.07.08-17.51.22:007][224]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Usuario/Desktop/Unreal Engine + Unity/Resources for projects/wheat_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_1K_Normal.jpg]
+[2025.07.08-17.51.22:007][224]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Usuario/Des...t_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_1K_Bump.jpg]
+[2025.07.08-17.51.22:007][224]LogInterchangeEngine: [Pending] Importing -  (26)
+[2025.07.08-17.51.22:007][224]LogInterchangeEngine: [Pending] Importing -  (26)
+[2025.07.08-17.51.22:007][224]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Usuario/Desktop/Unreal Engine + Unity/Resources for projects/wheat_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_1K_Opacity.jpg]
+[2025.07.08-17.51.22:007][224]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Usuario/Des...t_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_1K_Cavity.jpg]
+[2025.07.08-17.51.22:007][224]LogInterchangeEngine: [Pending] Importing -  (25)
+[2025.07.08-17.51.22:007][224]LogInterchangeEngine: [Pending] Importing -  (25)
+[2025.07.08-17.51.22:007][224]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Usuario/Desktop/Unreal Engine + Unity/Resources for projects/wheat_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_1K_Roughness.jpg]
+[2025.07.08-17.51.22:008][224]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Usuario/Des...t_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_1K_Displacement.jpg]
+[2025.07.08-17.51.22:008][224]LogInterchangeEngine: [Pending] Importing -  (24)
+[2025.07.08-17.51.22:008][224]LogInterchangeEngine: [Pending] Importing -  (24)
+[2025.07.08-17.51.22:008][224]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Usuario/Desktop/Unreal Engine + Unity/Resources for projects/wheat_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_1K_Specular.jpg]
+[2025.07.08-17.51.22:008][224]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Usuario/Des...t_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_1K_Gloss.jpg]
+[2025.07.08-17.51.22:008][224]LogInterchangeEngine: [Pending] Importing -  (23)
+[2025.07.08-17.51.22:008][224]LogInterchangeEngine: [Pending] Importing -  (23)
+[2025.07.08-17.51.22:008][224]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Usuario/Desktop/Unreal Engine + Unity/Resources for projects/wheat_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_1K_Translucency.jpg]
+[2025.07.08-17.51.22:324][227]LogStreaming: Display: FlushAsyncLoading(485): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.08-17.51.22:327][227]LogInterchangeImport: JPEG file [C:/Users/Usuario/Desktop/Unreal Engine + Unity/Resources for projects/wheat_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_1K_Opacity.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'.
+[2025.07.08-17.51.22:327][227]LogInterchangeImport: JPEG file [C:/Users/Usuario/Desktop/Unreal Engine + Unity/Resources for projects/wheat_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_1K_Roughness.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'.
+[2025.07.08-17.51.22:327][227]LogInterchangeImport: JPEG file [C:/Users/Usuario/Desktop/Unreal Engine + Unity/Resources for projects/wheat_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_1K_Normal.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'.
+[2025.07.08-17.51.22:327][228]LogInterchangeImport: JPEG file [C:/Users/Usuario/Desktop/Unreal Engine + Unity/Resources for projects/wheat_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_1K_Specular.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'.
+[2025.07.08-17.51.22:327][228]LogInterchangeImport: JPEG file [C:/Users/Usuario/Desktop/Unreal Engine + Unity/Resources for projects/wheat_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_1K_Translucency.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'.
+[2025.07.08-17.51.22:605][228]LogInterchangePipeline: Display: Auto-detected normal map
+[2025.07.08-17.51.22:657][229]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Usuario/Des...t_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_1K_Normal.jpg]
+[2025.07.08-17.51.22:657][229]LogInterchangeEngine: [Pending] Importing -  (22)
+[2025.07.08-17.51.22:657][229]LogInterchangeEngine: [Pending] Importing -  (22)
+[2025.07.08-17.51.22:736][230]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Usuario/Des...t_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_1K_Opacity.jpg]
+[2025.07.08-17.51.22:737][230]LogInterchangeEngine: [Pending] Importing -  (21)
+[2025.07.08-17.51.22:737][230]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Usuario/Des...t_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_1K_Specular.jpg]
+[2025.07.08-17.51.22:737][230]LogInterchangeEngine: [Pending] Importing -  (20)
+[2025.07.08-17.51.22:737][230]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Usuario/Des...t_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_1K_Roughness.jpg]
+[2025.07.08-17.51.22:737][230]LogInterchangeEngine: [Pending] Importing -  (19)
+[2025.07.08-17.51.22:738][230]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Usuario/Des...t_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_1K_Translucency.jpg]
+[2025.07.08-17.51.22:738][230]LogInterchangeEngine: [Pending] Importing -  (18)
+[2025.07.08-17.51.22:781][231]LogStreaming: Display: FlushAsyncLoading(490): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.08-17.51.22:847][232]LogStreaming: Display: FlushAsyncLoading(491): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.08-17.51.22:895][234]LogStaticMesh: Display: Building static mesh Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarA_LOD0 (Required Memory Estimate: 3.826149 MB)...
+[2025.07.08-17.51.22:913][234]LogStaticMesh: Built static mesh [0.02s] /Game/Foliage/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarA_LOD0.Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarA_LOD0
+[2025.07.08-17.51.23:064][235]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Usuario/Des...t_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarA_LOD0.fbx]
+[2025.07.08-17.51.23:064][235]LogInterchangeEngine: [Pending] Importing -  (17)
+[2025.07.08-17.51.23:064][235]LogInterchangeEngine: [Pending] Importing -  (17)
+[2025.07.08-17.51.23:064][235]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Usuario/Desktop/Unreal Engine + Unity/Resources for projects/wheat_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarA_LOD1.fbx]
+[2025.07.08-17.51.29:402][239]LogSlate: Window 'Message' being destroyed
+[2025.07.08-17.51.29:411][239]Message dialog closed, result: YesAll, title: Message, text: Are you sure you want to override asset 'MaterialInstanceConstant /Game/Foliage/Atlas.Atlas'?
+[2025.07.08-17.51.29:771][240]LogStreaming: Display: FlushAsyncLoading(492): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.08-17.51.29:817][241]LogStaticMesh: Display: Building static mesh Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarA_LOD1 (Required Memory Estimate: 1.818553 MB)...
+[2025.07.08-17.51.29:829][242]LogStaticMesh: Built static mesh [0.01s] /Game/Foliage/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarA_LOD1.Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarA_LOD1
+[2025.07.08-17.51.30:576][243]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Usuario/Des...t_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarA_LOD1.fbx]
+[2025.07.08-17.51.30:576][243]LogInterchangeEngine: [Pending] Importing -  (16)
+[2025.07.08-17.51.30:576][243]LogInterchangeEngine: [Pending] Importing -  (16)
+[2025.07.08-17.51.30:576][243]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Usuario/Desktop/Unreal Engine + Unity/Resources for projects/wheat_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarA_LOD2.fbx]
+[2025.07.08-17.51.30:952][246]LogStreaming: Display: FlushAsyncLoading(493): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.08-17.51.30:982][247]LogStreaming: Display: FlushAsyncLoading(494): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.08-17.51.31:067][249]LogStaticMesh: Display: Building static mesh Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarA_LOD2 (Required Memory Estimate: 0.021095 MB)...
+[2025.07.08-17.51.31:067][249]LogStaticMesh: Built static mesh [0.00s] /Game/Foliage/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarA_LOD2.Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarA_LOD2
+[2025.07.08-17.51.31:365][250]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Usuario/Des...t_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarA_LOD2.fbx]
+[2025.07.08-17.51.31:365][250]LogInterchangeEngine: [Pending] Importing -  (15)
+[2025.07.08-17.51.31:365][250]LogInterchangeEngine: [Pending] Importing -  (15)
+[2025.07.08-17.51.31:365][250]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Usuario/Desktop/Unreal Engine + Unity/Resources for projects/wheat_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarB_LOD0.fbx]
+[2025.07.08-17.51.31:799][254]LogStreaming: Display: FlushAsyncLoading(495): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.08-17.51.31:916][255]LogStaticMesh: Display: Building static mesh Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarB_LOD0 (Required Memory Estimate: 1.953937 MB)...
+[2025.07.08-17.51.31:929][256]LogStaticMesh: Built static mesh [0.01s] /Game/Foliage/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarB_LOD0.Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarB_LOD0
+[2025.07.08-17.51.32:026][256]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Usuario/Des...t_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarB_LOD0.fbx]
+[2025.07.08-17.51.32:026][256]LogInterchangeEngine: [Pending] Importing -  (14)
+[2025.07.08-17.51.32:026][256]LogInterchangeEngine: [Pending] Importing -  (14)
+[2025.07.08-17.51.32:026][256]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Usuario/Desktop/Unreal Engine + Unity/Resources for projects/wheat_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarB_LOD1.fbx]
+[2025.07.08-17.51.32:571][260]LogStreaming: Display: FlushAsyncLoading(496): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.08-17.51.32:611][262]LogStaticMesh: Display: Building static mesh Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarB_LOD1 (Required Memory Estimate: 0.954328 MB)...
+[2025.07.08-17.51.32:615][262]LogStaticMesh: Built static mesh [0.01s] /Game/Foliage/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarB_LOD1.Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarB_LOD1
+[2025.07.08-17.51.32:786][262]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Usuario/Des...t_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarB_LOD1.fbx]
+[2025.07.08-17.51.32:786][262]LogInterchangeEngine: [Pending] Importing -  (13)
+[2025.07.08-17.51.32:786][262]LogInterchangeEngine: [Pending] Importing -  (13)
+[2025.07.08-17.51.32:786][262]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Usuario/Desktop/Unreal Engine + Unity/Resources for projects/wheat_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarB_LOD2.fbx]
+[2025.07.08-17.51.33:311][266]LogStreaming: Display: FlushAsyncLoading(497): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.08-17.51.33:350][268]LogStaticMesh: Display: Building static mesh Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarB_LOD2 (Required Memory Estimate: 0.01948 MB)...
+[2025.07.08-17.51.33:351][268]LogStaticMesh: Built static mesh [0.00s] /Game/Foliage/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarB_LOD2.Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarB_LOD2
+[2025.07.08-17.51.33:439][268]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Usuario/Des...t_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarB_LOD2.fbx]
+[2025.07.08-17.51.33:439][268]LogInterchangeEngine: [Pending] Importing -  (12)
+[2025.07.08-17.51.33:439][268]LogInterchangeEngine: [Pending] Importing -  (12)
+[2025.07.08-17.51.33:439][268]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Usuario/Desktop/Unreal Engine + Unity/Resources for projects/wheat_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarC_LOD0.fbx]
+[2025.07.08-17.51.33:959][272]LogStreaming: Display: FlushAsyncLoading(498): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.08-17.51.34:049][274]LogStaticMesh: Display: Building static mesh Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarC_LOD0 (Required Memory Estimate: 2.355721 MB)...
+[2025.07.08-17.51.34:059][274]LogStaticMesh: Built static mesh [0.01s] /Game/Foliage/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarC_LOD0.Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarC_LOD0
+[2025.07.08-17.51.34:284][276]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Usuario/Des...t_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarC_LOD0.fbx]
+[2025.07.08-17.51.34:284][276]LogInterchangeEngine: [Pending] Importing -  (11)
+[2025.07.08-17.51.34:284][276]LogInterchangeEngine: [Pending] Importing -  (11)
+[2025.07.08-17.51.34:285][276]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Usuario/Desktop/Unreal Engine + Unity/Resources for projects/wheat_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarC_LOD1.fbx]
+[2025.07.08-17.51.34:969][280]LogStreaming: Display: FlushAsyncLoading(499): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.08-17.51.35:051][282]LogStaticMesh: Display: Building static mesh Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarC_LOD1 (Required Memory Estimate: 1.127482 MB)...
+[2025.07.08-17.51.35:057][282]LogStaticMesh: Built static mesh [0.01s] /Game/Foliage/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarC_LOD1.Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarC_LOD1
+[2025.07.08-17.51.35:696][283]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Usuario/Des...t_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarC_LOD1.fbx]
+[2025.07.08-17.51.35:696][283]LogInterchangeEngine: [Pending] Importing -  (10)
+[2025.07.08-17.51.35:696][283]LogInterchangeEngine: [Pending] Importing -  (10)
+[2025.07.08-17.51.35:696][283]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Usuario/Desktop/Unreal Engine + Unity/Resources for projects/wheat_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarC_LOD2.fbx]
+[2025.07.08-17.51.36:284][287]LogStreaming: Display: FlushAsyncLoading(500): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.08-17.51.36:376][288]LogStaticMesh: Display: Building static mesh Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarC_LOD2 (Required Memory Estimate: 0.017864 MB)...
+[2025.07.08-17.51.36:376][289]LogStaticMesh: Built static mesh [0.00s] /Game/Foliage/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarC_LOD2.Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarC_LOD2
+[2025.07.08-17.51.36:568][290]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Usuario/Des...t_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarC_LOD2.fbx]
+[2025.07.08-17.51.36:568][290]LogInterchangeEngine: [Pending] Importing -  (9)
+[2025.07.08-17.51.36:568][290]LogInterchangeEngine: [Pending] Importing -  (9)
+[2025.07.08-17.51.36:569][290]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Usuario/Desktop/Unreal Engine + Unity/Resources for projects/wheat_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarD_LOD0.fbx]
+[2025.07.08-17.51.37:374][294]LogStreaming: Display: FlushAsyncLoading(501): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.08-17.51.37:475][295]LogStaticMesh: Display: Building static mesh Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarD_LOD0 (Required Memory Estimate: 0.991471 MB)...
+[2025.07.08-17.51.37:479][296]LogStaticMesh: Built static mesh [0.00s] /Game/Foliage/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarD_LOD0.Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarD_LOD0
+[2025.07.08-17.51.37:751][297]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Usuario/Des...t_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarD_LOD0.fbx]
+[2025.07.08-17.51.37:751][297]LogInterchangeEngine: [Pending] Importing -  (8)
+[2025.07.08-17.51.37:751][297]LogInterchangeEngine: [Pending] Importing -  (8)
+[2025.07.08-17.51.37:751][297]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Usuario/Desktop/Unreal Engine + Unity/Resources for projects/wheat_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarD_LOD1.fbx]
+[2025.07.08-17.51.38:548][301]LogStreaming: Display: FlushAsyncLoading(502): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.08-17.51.38:636][302]LogStaticMesh: Display: Building static mesh Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarD_LOD1 (Required Memory Estimate: 0.56265 MB)...
+[2025.07.08-17.51.38:638][303]LogStaticMesh: Built static mesh [0.00s] /Game/Foliage/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarD_LOD1.Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarD_LOD1
+[2025.07.08-17.51.38:821][304]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Usuario/Des...t_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarD_LOD1.fbx]
+[2025.07.08-17.51.38:821][304]LogInterchangeEngine: [Pending] Importing -  (7)
+[2025.07.08-17.51.38:821][304]LogInterchangeEngine: [Pending] Importing -  (7)
+[2025.07.08-17.51.38:821][304]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Usuario/Desktop/Unreal Engine + Unity/Resources for projects/wheat_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarD_LOD2.fbx]
+[2025.07.08-17.51.39:534][308]LogStreaming: Display: FlushAsyncLoading(503): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.08-17.51.39:642][310]LogStaticMesh: Display: Building static mesh Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarD_LOD2 (Required Memory Estimate: 0.017864 MB)...
+[2025.07.08-17.51.39:643][310]LogStaticMesh: Built static mesh [0.00s] /Game/Foliage/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarD_LOD2.Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarD_LOD2
+[2025.07.08-17.51.39:923][311]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Usuario/Des...t_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarD_LOD2.fbx]
+[2025.07.08-17.51.39:923][311]LogInterchangeEngine: [Pending] Importing -  (6)
+[2025.07.08-17.51.39:923][311]LogInterchangeEngine: [Pending] Importing -  (6)
+[2025.07.08-17.51.39:923][311]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Usuario/Desktop/Unreal Engine + Unity/Resources for projects/wheat_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarE_LOD0.fbx]
+[2025.07.08-17.51.41:020][315]LogStreaming: Display: FlushAsyncLoading(504): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.08-17.51.41:053][317]LogStaticMesh: Display: Building static mesh Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarE_LOD0 (Required Memory Estimate: 0.281288 MB)...
+[2025.07.08-17.51.41:055][317]LogStaticMesh: Built static mesh [0.00s] /Game/Foliage/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarE_LOD0.Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarE_LOD0
+[2025.07.08-17.51.41:691][319]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Foliage/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarC_LOD1.Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarC_LOD1
+[2025.07.08-17.51.41:724][319]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_11
+[2025.07.08-17.51.42:927][319]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Usuario/Des...t_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarE_LOD0.fbx]
+[2025.07.08-17.51.42:927][319]LogInterchangeEngine: [Pending] Importing -  (5)
+[2025.07.08-17.51.42:927][319]LogInterchangeEngine: [Pending] Importing -  (5)
+[2025.07.08-17.51.42:927][319]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Usuario/Desktop/Unreal Engine + Unity/Resources for projects/wheat_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarE_LOD1.fbx]
+[2025.07.08-17.51.43:523][323]LogStreaming: Display: FlushAsyncLoading(505): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.08-17.51.43:661][324]LogStaticMesh: Display: Building static mesh Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarE_LOD1 (Required Memory Estimate: 0.152907 MB)...
+[2025.07.08-17.51.43:664][325]LogStaticMesh: Built static mesh [0.00s] /Game/Foliage/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarE_LOD1.Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarE_LOD1
+[2025.07.08-17.51.43:903][326]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Usuario/Des...t_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarE_LOD1.fbx]
+[2025.07.08-17.51.43:903][326]LogInterchangeEngine: [Pending] Importing -  (4)
+[2025.07.08-17.51.43:904][326]LogInterchangeEngine: [Pending] Importing -  (4)
+[2025.07.08-17.51.43:904][326]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Usuario/Desktop/Unreal Engine + Unity/Resources for projects/wheat_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarE_LOD2.fbx]
+[2025.07.08-17.51.44:585][330]LogStreaming: Display: FlushAsyncLoading(506): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.08-17.51.44:630][331]LogStaticMesh: Display: Building static mesh Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarE_LOD2 (Required Memory Estimate: 0.017864 MB)...
+[2025.07.08-17.51.44:631][332]LogStaticMesh: Built static mesh [0.00s] /Game/Foliage/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarE_LOD2.Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarE_LOD2
+[2025.07.08-17.51.44:848][333]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Usuario/Des...t_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarE_LOD2.fbx]
+[2025.07.08-17.51.44:848][333]LogInterchangeEngine: [Pending] Importing -  (3)
+[2025.07.08-17.51.44:848][333]LogInterchangeEngine: [Pending] Importing -  (3)
+[2025.07.08-17.51.44:848][333]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Usuario/Desktop/Unreal Engine + Unity/Resources for projects/wheat_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarF_LOD0.fbx]
+[2025.07.08-17.51.45:346][337]LogStreaming: Display: FlushAsyncLoading(507): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.08-17.51.45:482][339]LogStaticMesh: Display: Building static mesh Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarF_LOD0 (Required Memory Estimate: 0.428288 MB)...
+[2025.07.08-17.51.45:486][339]LogStaticMesh: Built static mesh [0.01s] /Game/Foliage/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarF_LOD0.Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarF_LOD0
+[2025.07.08-17.51.45:762][340]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Usuario/Des...t_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarF_LOD0.fbx]
+[2025.07.08-17.51.45:762][340]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.07.08-17.51.45:762][340]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.07.08-17.51.45:762][340]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Usuario/Desktop/Unreal Engine + Unity/Resources for projects/wheat_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarF_LOD1.fbx]
+[2025.07.08-17.51.46:367][345]LogStreaming: Display: FlushAsyncLoading(508): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.08-17.51.46:396][347]LogStaticMesh: Display: Building static mesh Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarF_LOD1 (Required Memory Estimate: 0.255313 MB)...
+[2025.07.08-17.51.46:399][347]LogStaticMesh: Built static mesh [0.00s] /Game/Foliage/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarF_LOD1.Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarF_LOD1
+[2025.07.08-17.51.46:489][348]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2025.07.08-17.51.46:489][348]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.08-17.51.46:712][348]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.07.08-17.51.46:739][348]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Usuario/Des...t_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarF_LOD1.fbx]
+[2025.07.08-17.51.46:739][348]LogInterchangeEngine: [Pending] Importing -  (1)
+[2025.07.08-17.51.46:739][348]LogInterchangeEngine: [Pending] Importing -  (1)
+[2025.07.08-17.51.46:739][348]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Usuario/Desktop/Unreal Engine + Unity/Resources for projects/wheat_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarF_LOD2.fbx]
+[2025.07.08-17.51.47:093][352]LogStreaming: Display: FlushAsyncLoading(509): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.08-17.51.47:215][353]LogStaticMesh: Display: Building static mesh Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarF_LOD2 (Required Memory Estimate: 0.017864 MB)...
+[2025.07.08-17.51.47:216][354]LogStaticMesh: Built static mesh [0.00s] /Game/Foliage/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarF_LOD2.Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarF_LOD2
+[2025.07.08-17.51.47:531][355]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Usuario/Des...t_grass_tdcrdbur_low/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarF_LOD2.fbx]
+[2025.07.08-17.51.47:531][355]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.07.08-17.51.47:531][355]LogInterchangeEngine: [Success] Import Done
+[2025.07.08-17.51.48:356][363]LogSlate: Window 'Atlas' being destroyed
+[2025.07.08-17.51.48:643][363]LogSlate: Window 'Atlas' being destroyed
+[2025.07.08-17.51.52:310][397]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Foliage/Atlas.Atlas
+[2025.07.08-17.51.52:382][397]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_12
+[2025.07.08-17.52.10:222][635]LogSlate: Window 'Atlas' being destroyed
+[2025.07.08-17.52.10:413][635]LogSlate: Window 'Atlas' being destroyed
+[2025.07.08-17.52.10:444][635]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.07.08-17.52.10:593][635]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2025.07.08-17.52.18:245][701]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3354.539795
+[2025.07.08-17.52.18:810][704]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.08-17.52.18:810][704]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3355.011963, Update Interval: 350.703461
+[2025.07.08-17.52.25:999][986]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.07.08-17.52.27:637][986]LogSlate: Window 'Delete Assets' being destroyed
+[2025.07.08-17.52.27:780][986]LogUObjectGlobals: Force Deleting 36 Package(s):
+	Asset Name: /Game/Foliage/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarF_LOD2.Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarF_LOD2
+	Asset Type: StaticMesh
+	Asset Name: /Game/Foliage/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarF_LOD1.Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarF_LOD1
+	Asset Type: StaticMesh
+	Asset Name: /Game/Foliage/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarF_LOD0.Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarF_LOD0
+	Asset Type: StaticMesh
+	Asset Name: /Game/Foliage/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarE_LOD2.Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarE_LOD2
+	Asset Type: StaticMesh
+	Asset Name: /Game/Foliage/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarE_LOD1.Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarE_LOD1
+	Asset Type: StaticMesh
+	Asset Name: /Game/Foliage/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarE_LOD0.Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarE_LOD0
+	Asset Type: StaticMesh
+	Asset Name: /Game/Foliage/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarD_LOD2.Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarD_LOD2
+	Asset Type: StaticMesh
+	Asset Name: /Game/Foliage/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarD_LOD1.Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarD_LOD1
+	Asset Type: StaticMesh
+	Asset Name: /Game/Foliage/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarD_LOD0.Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarD_LOD0
+	Asset Type: StaticMesh
+	Asset Name: /Game/Foliage/Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarC_LOD2.Wheat_Grass_tdcrdbur_Low_tdcrdbur_VarC_LOD2
+	Asset Type: StaticMesh
+[2025.07.08-17.52.29:109][986]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.07.08-17.52.29:122][986]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.07.08-17.52.29:133][986]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.07.08-17.52.36:328][ 99]LogFab: Display: {
+	"interactionType": "Open Tab",
+	"eventCategory": "Plugin",
+	"eventAction": "Click"
+}
+[2025.07.08-17.52.39:212][181]LogEOSSDK: Error: LogEOS: EOS_Auth_CopyUserAuthToken - One or more parameters are null
+[2025.07.08-17.52.39:212][181]LogFab: Error: User auth token is invalid - unable to get auth token
+[2025.07.08-17.53.07:138][ 10]LogFab: Display: Asset Type = gltf
+[2025.07.08-17.53.07:138][ 10]LogFab: Display: Is Quixel = 1
+[2025.07.08-17.53.09:794][ 84]LogStreaming: Display: FlushAsyncLoading(510): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.08-17.53.10:511][ 84]LogInterchangeEngine: Display: Interchange import: Using stack [OverridePipeline] to import.
+[2025.07.08-17.53.10:511][ 84]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Usuario/AppData/Local/Temp/FabLibrary/9070350f-dea8-40ec-ba57-0777a2c1fb24/wheat_grass_tdcrdbur_ue_low_extracted/tdcrdbur_tier_3.gltf]
+[2025.07.08-17.53.10:568][ 86]LogStreaming: Display: FlushAsyncLoading(545): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.08-17.53.10:585][ 87]LogStreaming: Display: FlushAsyncLoading(550): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.08-17.53.10:592][ 87]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2025.07.08-17.53.10:605][ 87]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2025.07.08-17.53.10:853][ 87]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.10.dll
+[2025.07.08-17.53.10:881][ 87]LogTexture: Display: Building textures: /Fab/Textures/Standard/T_DefaultColor.T_DefaultColor (TFO_AutoDXT, 32x32 x1x1x1) (Required Memory Estimate: 1.16142 MB), EncodeSpeed: Fast
+[2025.07.08-17.53.10:881][ 87]LogTexture: Display: Building textures: /Fab/Textures/Standard/T_DefaultMasks.T_DefaultMasks (TFO_AutoDXT, 32x32 x1x1x1) (Required Memory Estimate: 1.16142 MB), EncodeSpeed: Fast
+[2025.07.08-17.53.10:882][ 87]LogTexture: Display: Building textures: /Fab/Textures/Standard/T_DefaultNormal.T_DefaultNormal (TFO_BC5, 32x32 x1x1x1) (Required Memory Estimate: 1.288993 MB), EncodeSpeed: Fast
+[2025.07.08-17.53.10:901][ 88]LogStreaming: Display: FlushAsyncLoading(552): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.08-17.53.10:929][ 88]LogTexture: Display: Building textures: /Fab/Textures/Standard/T_Default_WindNoise.T_Default_WindNoise (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 337.000 MB), EncodeSpeed: Fast
+[2025.07.08-17.53.10:975][ 90]SourceControl: Error: warning: could not open directory 'Slash_Project/Content/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/': No such file or directory
+[2025.07.08-17.53.10:989][ 90]LogStreaming: Display: FlushAsyncLoading(554): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.08-17.53.11:027][ 91]LogStreaming: Display: FlushAsyncLoading(559): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.08-17.53.11:034][ 92]SourceControl: Error: warning: could not open directory 'Slash_Project/Content/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/': No such file or directory
+[2025.07.08-17.53.11:045][ 92]LogStreaming: Display: FlushAsyncLoading(563): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.08-17.53.11:065][ 93]LogStreaming: Display: FlushAsyncLoading(564): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.08-17.53.11:071][ 94]SourceControl: Error: warning: could not open directory 'Slash_Project/Content/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/': No such file or directory
+[2025.07.08-17.53.11:132][ 94]LogTexture: Display: Building textures: /Game/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/T_tdcrdbur_1K_Billboard_N-T.T_tdcrdbur_1K_Billboard_N-T (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 102.583323 MB), EncodeSpeed: Fast
+[2025.07.08-17.53.11:132][ 94]LogTexture: Display: Building textures: /Game/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/T_tdcrdbur_1K_N.T_tdcrdbur_1K_N (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 169.499988 MB), EncodeSpeed: Fast
+[2025.07.08-17.53.11:132][ 94]LogTexture: Display: Building textures: /Game/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/T_tdcrdbur_1K_ORT.T_tdcrdbur_1K_ORT (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 115.583323 MB), EncodeSpeed: Fast
+[2025.07.08-17.53.11:132][ 94]LogTexture: Display: Building textures: /Game/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/T_tdcrdbur_1K_B.T_tdcrdbur_1K_B (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 115.583323 MB), EncodeSpeed: Fast
+[2025.07.08-17.53.11:132][ 94]LogTexture: Display: Building textures: /Game/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/T_tdcrdbur_1K_Billboard_B-O.T_tdcrdbur_1K_Billboard_B-O (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 102.583323 MB), EncodeSpeed: Fast
+[2025.07.08-17.53.11:285][ 94]LogStaticMesh: Display: Building static mesh SM_tdcrdbur_VarE (Required Memory Estimate: 0.261595 MB)...
+[2025.07.08-17.53.11:285][ 94]LogStaticMesh: Display: Building static mesh SM_tdcrdbur_VarF (Required Memory Estimate: 0.389929 MB)...
+[2025.07.08-17.53.11:285][ 94]LogStaticMesh: Display: Building static mesh SM_tdcrdbur_VarA (Required Memory Estimate: 3.61294 MB)...
+[2025.07.08-17.53.11:286][ 94]LogStaticMesh: Display: Building static mesh SM_tdcrdbur_VarC (Required Memory Estimate: 2.225211 MB)...
+[2025.07.08-17.53.11:288][ 95]LogStaticMesh: Display: Building static mesh SM_tdcrdbur_VarD (Required Memory Estimate: 0.930362 MB)...
+[2025.07.08-17.53.11:288][ 95]LogStaticMesh: Built static mesh [0.00s] /Game/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/SM_tdcrdbur_VarE.SM_tdcrdbur_VarE
+[2025.07.08-17.53.11:289][ 95]LogStaticMesh: Display: Building static mesh SM_tdcrdbur_VarB (Required Memory Estimate: 1.84097 MB)...
+[2025.07.08-17.53.11:290][ 95]LogStaticMesh: Built static mesh [0.01s] /Game/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/SM_tdcrdbur_VarF.SM_tdcrdbur_VarF
+[2025.07.08-17.53.11:292][ 95]SourceControl: Error: warning: could not open directory 'Slash_Project/Content/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/': No such file or directory
+[2025.07.08-17.53.11:305][ 95]LogStaticMesh: Built static mesh [0.02s] /Game/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/SM_tdcrdbur_VarD.SM_tdcrdbur_VarD
+[2025.07.08-17.53.11:308][ 95]LogStaticMesh: Built static mesh [0.02s] /Game/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/SM_tdcrdbur_VarB.SM_tdcrdbur_VarB
+[2025.07.08-17.53.11:316][ 96]LogStaticMesh: Built static mesh [0.03s] /Game/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/SM_tdcrdbur_VarC.SM_tdcrdbur_VarC
+[2025.07.08-17.53.11:320][ 96]LogStaticMesh: Built static mesh [0.04s] /Game/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/SM_tdcrdbur_VarA.SM_tdcrdbur_VarA
+[2025.07.08-17.53.11:435][ 98]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Usuario/App...bur_ue_low_extracted/tdcrdbur_tier_3.gltf]
+[2025.07.08-17.53.11:537][ 98]LogStreaming: Display: FlushAsyncLoading(566): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.08-17.53.11:691][ 98]LogStaticMesh: Display: Building static mesh Icon_Arrow_Test (Required Memory Estimate: 0.902744 MB)...
+[2025.07.08-17.53.11:691][ 98]LogStaticMesh: Display: Building static mesh Icon_Sock (Required Memory Estimate: 1.472584 MB)...
+[2025.07.08-17.53.11:691][ 98]LogStaticMesh: Display: Building static mesh Icon_Base (Required Memory Estimate: 7.768469 MB)...
+[2025.07.08-17.53.11:703][ 98]LogStaticMesh: Built static mesh [0.01s] /Fab/Actors/GlobalFoliageActor/Geometry/Icon_Arrow_Test.Icon_Arrow_Test
+[2025.07.08-17.53.11:709][ 98]LogStaticMesh: Built static mesh [0.02s] /Fab/Actors/GlobalFoliageActor/Geometry/Icon_Sock.Icon_Sock
+[2025.07.08-17.53.11:749][ 99]LogStaticMesh: Built static mesh [0.06s] /Fab/Actors/GlobalFoliageActor/Geometry/Icon_Base.Icon_Base
+[2025.07.08-17.53.11:921][ 99]SourceControl: Error: warning: could not open directory 'Slash_Project/Content/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/': No such file or directory
+[2025.07.08-17.53.11:921][ 99]SourceControl: Error: warning: could not open directory 'Slash_Project/Content/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/': No such file or directory
+[2025.07.08-17.53.12:257][100]SourceControl: Error: warning: could not open directory 'Slash_Project/Content/Fab/Megascans/': No such file or directory
+[2025.07.08-17.53.12:958][114]SourceControl: Error: warning: could not open directory 'Slash_Project/Content/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/': No such file or directory
+[2025.07.08-17.53.12:958][114]SourceControl: Error: warning: could not open directory 'Slash_Project/Content/Fab/Megascans/': No such file or directory
+[2025.07.08-17.53.12:958][114]SourceControl: Error: warning: could not open directory 'Slash_Project/Content/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/': No such file or directory
+[2025.07.08-17.53.13:297][120]SourceControl: Error: warning: could not open directory 'Slash_Project/Content/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/': No such file or directory
+[2025.07.08-17.53.26:310][241]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/SM_tdcrdbur_VarA.SM_tdcrdbur_VarA
+[2025.07.08-17.53.26:533][241]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_13
+[2025.07.08-17.53.50:754][419]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_14
+[2025.07.08-17.53.52:525][434]SourceControl: Error: warning: could not open directory 'Slash_Project/Content/Fab/Megascans/': No such file or directory
+[2025.07.08-17.53.56:743][462]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Fab/Megascans/Plants/BP_GlobalFoliageActor.BP_GlobalFoliageActor
+[2025.07.08-17.53.56:745][462]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_15
+[2025.07.08-17.53.57:314][462]LogStreaming: Display: FlushAsyncLoading(567): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.08-17.54.08:000][514]LogSlate: Took 0.016257 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.07.08-17.54.18:692][625]SourceControl: Error: warning: could not open directory 'Slash_Project/Content/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/': No such file or directory
+[2025.07.08-17.54.20:183][639]LogShaderCompilers: Display: ================================================
+[2025.07.08-17.54.20:183][639]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.07.08-17.54.20:183][639]LogShaderCompilers: Display: Total job queries 1,136, among them cache hits 348 (30.63%), DDC hits 555 (48.86%), Duplicates 68 (5.99%)
+[2025.07.08-17.54.20:183][639]LogShaderCompilers: Display: Tracking 720 distinct input hashes that result in 463 distinct outputs (64.31%)
+[2025.07.08-17.54.20:183][639]LogShaderCompilers: Display: RAM used: 307.51 KiB of 819.20 MiB budget. Usage: 0.04%
+[2025.07.08-17.54.20:183][639]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.07.08-17.54.20:184][639]LogShaderCompilers: Display: Shaders Compiled: 165
+[2025.07.08-17.54.20:184][639]LogShaderCompilers: Display: Jobs assigned 165, completed 165 (100%)
+[2025.07.08-17.54.20:184][639]LogShaderCompilers: Display: Average time worker was idle: 44.08 s
+[2025.07.08-17.54.20:184][639]LogShaderCompilers: Display: Time job spent in pending queue: average 2.60 s, longest 11.74 s
+[2025.07.08-17.54.20:184][639]LogShaderCompilers: Display: Job execution time: average 1.77 s, max 8.19 s
+[2025.07.08-17.54.20:184][639]LogShaderCompilers: Display: Job life time (pending + execution): average 4.37 s, max 12.89
+[2025.07.08-17.54.20:184][639]LogShaderCompilers: Display: Shader code size: average 8.987 KiB, min 1.395 KiB, max 25.164 KiB
+[2025.07.08-17.54.20:184][639]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 40.44 s
+[2025.07.08-17.54.20:184][639]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2025.07.08-17.54.20:184][639]LogShaderCompilers: Display: Jobs were issued in 165 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.07.08-17.54.20:184][639]LogShaderCompilers: Display: Average processing rate: 4.08 jobs/sec
+[2025.07.08-17.54.20:184][639]LogShaderCompilers: Display: Total thread time: 221.54 s
+[2025.07.08-17.54.20:184][639]LogShaderCompilers: Display: Total thread preprocess time: 22.385 s
+[2025.07.08-17.54.20:184][639]LogShaderCompilers: Display: Percentage time preprocessing: 10.10%
+[2025.07.08-17.54.20:184][639]LogShaderCompilers: Display: Effective parallelization: 5.48 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.07.08-17.54.20:184][639]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.07.08-17.54.20:184][639]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    3 times, average 4.67 sec, max 8.11 sec, min 2.42 sec)
+[2025.07.08-17.54.20:184][639]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    4 times, average 3.72 sec, max 6.68 sec, min 2.18 sec)
+[2025.07.08-17.54.20:184][639]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    7 times, average 3.28 sec, max 7.12 sec, min 1.62 sec)
+[2025.07.08-17.54.20:184][639]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    3 times, average 2.83 sec, max 3.54 sec, min 2.38 sec)
+[2025.07.08-17.54.20:184][639]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    7 times, average 2.71 sec, max 6.39 sec, min 1.53 sec)
+[2025.07.08-17.54.20:184][639]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.07.08-17.54.20:184][639]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 10.37% of total time (compiled    7 times, average 3.28 sec, max 7.12 sec, min 1.62 sec)
+[2025.07.08-17.54.20:184][639]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 8.56% of total time (compiled    7 times, average 2.71 sec, max 6.39 sec, min 1.53 sec)
+[2025.07.08-17.54.20:184][639]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS - 8.08% of total time (compiled   10 times, average 1.79 sec, max 2.30 sec, min 1.43 sec)
+[2025.07.08-17.54.20:184][639]LogShaderCompilers: Display:                                             FDebugViewModePS - 6.71% of total time (compiled    4 times, average 3.72 sec, max 6.68 sec, min 2.18 sec)
+[2025.07.08-17.54.20:184][639]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy - 6.32% of total time (compiled    3 times, average 4.67 sec, max 8.11 sec, min 2.42 sec)
+[2025.07.08-17.54.20:184][639]LogShaderCompilers: Display: === Material stats ===
+[2025.07.08-17.54.20:184][639]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.07.08-17.54.20:184][639]LogShaderCompilers: Display: Materials Translated:    300
+[2025.07.08-17.54.20:184][639]LogShaderCompilers: Display: Material Total Translate Time: 0.44 s
+[2025.07.08-17.54.20:184][639]LogShaderCompilers: Display: Material Translation Only: 0.28 s (64%)
+[2025.07.08-17.54.20:184][639]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.07.08-17.54.20:184][639]LogShaderCompilers: Display: Material Cache Hits: 48 (16%)
+[2025.07.08-17.54.20:184][639]LogShaderCompilers: Display: ================================================
+[2025.07.08-17.54.21:000][646]SourceControl: Error: warning: could not open directory 'Slash_Project/Content/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/': No such file or directory
+[2025.07.08-17.54.23:523][666]LogAssetEditorSubsystem: Opening Asset editor for FoliageType_InstancedStaticMesh /Game/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/FoliageTypes/FT_tdcrdbur_VarC.FT_tdcrdbur_VarC
+[2025.07.08-17.54.48:367][882]SourceControl: Error: warning: could not open directory 'Slash_Project/Content/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/': No such file or directory
+[2025.07.08-17.54.53:289][917]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/MI_tdcrdbur_Billboard.MI_tdcrdbur_Billboard
+[2025.07.08-17.54.53:293][917]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_16
+[2025.07.08-17.55.52:576][506]LogSlate: Window 'Content Browser' being destroyed
+[2025.07.08-17.55.52:702][506]LogSlate: Window 'Content Browser' being destroyed
+[2025.07.08-17.55.54:549][531]LogSlate: Window 'Fab' being destroyed
+[2025.07.08-17.55.54:681][531]LogSlate: Window 'Fab' being destroyed
+[2025.07.08-17.55.54:681][531]LogWebBrowser: Closing browser during destruction, this may cause a later crash.
+[2025.07.08-17.55.54:681][531]LogWebBrowser: Deleting browser for Url=https://www.fab.com/plugins/ue5/listings/9070350f-dea8-40ec-ba57-0777a2c1fb24.
+[2025.07.08-17.56.00:247][587]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.07.08-17.56.00:247][587]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.07.08-17.56.02:555][605]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2025.07.08-17.56.03:553][605]LogSlate: Window 'Save Content' being destroyed
+[2025.07.08-17.56.03:807][605]SourceControl: Error: warning: could not open directory 'Slash_Project/Content/Fab/Megascans/': No such file or directory
+[2025.07.08-17.56.03:807][605]SourceControl: Error: warning: could not open directory 'Slash_Project/Content/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/': No such file or directory
+[2025.07.08-17.56.03:807][605]SourceControl: Error: warning: could not open directory 'Slash_Project/Content/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/': No such file or directory
+[2025.07.08-17.56.03:824][605]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.08-17.56.03:860][605]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Foliage/WheatGrass/Atlas] ([1] browsable assets)...
+[2025.07.08-17.56.03:988][605]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Foliage/WheatGrass/Atlas.Atlas]
+[2025.07.08-17.56.03:988][605]OBJ SavePackage: Finished generating thumbnails for package [/Game/Foliage/WheatGrass/Atlas]
+[2025.07.08-17.56.03:996][605]LogSavePackage: Moving output files for package: /Game/Foliage/WheatGrass/Atlas
+[2025.07.08-17.56.03:997][605]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Saved/Atlas17421D4C4ABD54F70C054891E65D27CF.tmp' to '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Content/Foliage/WheatGrass/Atlas.uasset'
+[2025.07.08-17.56.03:999][605]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Fab/Megascans/Plants/BP_GlobalFoliageActor] ([2] browsable assets)...
+[2025.07.08-17.56.04:011][605]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Fab/Megascans/Plants/BP_GlobalFoliageActor.BP_GlobalFoliageActor]
+[2025.07.08-17.56.04:011][605]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Megascans/Plants/BP_GlobalFoliageActor]
+[2025.07.08-17.56.04:027][605]LogSavePackage: Moving output files for package: /Game/Fab/Megascans/Plants/BP_GlobalFoliageActor
+[2025.07.08-17.56.04:027][605]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Saved/BP_GlobalFoliageActorBF7C63F84AC7F4164D79B381F10B8892.tmp' to '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Content/Fab/Megascans/Plants/BP_GlobalFoliageActor.uasset'
+[2025.07.08-17.56.04:034][605]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/FoliageTypes/FT_tdcrdbur_VarA] ([1] browsable assets)...
+[2025.07.08-17.56.04:044][605]OBJ SavePackage:     Rendered thumbnail for [FoliageType_InstancedStaticMesh /Game/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/FoliageTypes/FT_tdcrdbur_VarA.FT_tdcrdbur_VarA]
+[2025.07.08-17.56.04:044][605]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/FoliageTypes/FT_tdcrdbur_VarA]
+[2025.07.08-17.56.04:046][605]LogSavePackage: Moving output files for package: /Game/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/FoliageTypes/FT_tdcrdbur_VarA
+[2025.07.08-17.56.04:046][605]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Saved/FT_tdcrdbur_VarA3EBB985240063593A4C916ACF181165F.tmp' to '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Content/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/FoliageTypes/FT_tdcrdbur_VarA.uasset'
+[2025.07.08-17.56.04:048][605]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/FoliageTypes/FT_tdcrdbur_VarB] ([1] browsable assets)...
+[2025.07.08-17.56.04:066][605]OBJ SavePackage:     Rendered thumbnail for [FoliageType_InstancedStaticMesh /Game/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/FoliageTypes/FT_tdcrdbur_VarB.FT_tdcrdbur_VarB]
+[2025.07.08-17.56.04:066][605]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/FoliageTypes/FT_tdcrdbur_VarB]
+[2025.07.08-17.56.04:069][605]LogSavePackage: Moving output files for package: /Game/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/FoliageTypes/FT_tdcrdbur_VarB
+[2025.07.08-17.56.04:069][605]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Saved/FT_tdcrdbur_VarB6671B3B0474B1D5D9EE198999693126C.tmp' to '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Content/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/FoliageTypes/FT_tdcrdbur_VarB.uasset'
+[2025.07.08-17.56.04:071][605]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/FoliageTypes/FT_tdcrdbur_VarC] ([1] browsable assets)...
+[2025.07.08-17.56.04:080][605]OBJ SavePackage:     Rendered thumbnail for [FoliageType_InstancedStaticMesh /Game/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/FoliageTypes/FT_tdcrdbur_VarC.FT_tdcrdbur_VarC]
+[2025.07.08-17.56.04:080][605]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/FoliageTypes/FT_tdcrdbur_VarC]
+[2025.07.08-17.56.04:082][605]LogSavePackage: Moving output files for package: /Game/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/FoliageTypes/FT_tdcrdbur_VarC
+[2025.07.08-17.56.04:082][605]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Saved/FT_tdcrdbur_VarC9E9CF8514179882EFCF2949B6E892398.tmp' to '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Content/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/FoliageTypes/FT_tdcrdbur_VarC.uasset'
+[2025.07.08-17.56.04:084][605]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/FoliageTypes/FT_tdcrdbur_VarD] ([1] browsable assets)...
+[2025.07.08-17.56.04:094][605]OBJ SavePackage:     Rendered thumbnail for [FoliageType_InstancedStaticMesh /Game/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/FoliageTypes/FT_tdcrdbur_VarD.FT_tdcrdbur_VarD]
+[2025.07.08-17.56.04:094][605]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/FoliageTypes/FT_tdcrdbur_VarD]
+[2025.07.08-17.56.04:095][605]LogSavePackage: Moving output files for package: /Game/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/FoliageTypes/FT_tdcrdbur_VarD
+[2025.07.08-17.56.04:095][605]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Saved/FT_tdcrdbur_VarD0A20D8A84A59167745AB5EBDF2786A31.tmp' to '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Content/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/FoliageTypes/FT_tdcrdbur_VarD.uasset'
+[2025.07.08-17.56.04:097][605]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/FoliageTypes/FT_tdcrdbur_VarE] ([1] browsable assets)...
+[2025.07.08-17.56.04:106][605]OBJ SavePackage:     Rendered thumbnail for [FoliageType_InstancedStaticMesh /Game/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/FoliageTypes/FT_tdcrdbur_VarE.FT_tdcrdbur_VarE]
+[2025.07.08-17.56.04:106][605]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/FoliageTypes/FT_tdcrdbur_VarE]
+[2025.07.08-17.56.04:108][605]LogSavePackage: Moving output files for package: /Game/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/FoliageTypes/FT_tdcrdbur_VarE
+[2025.07.08-17.56.04:108][605]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Saved/FT_tdcrdbur_VarE59AB95914BC8828F02FDBBA09BD850E0.tmp' to '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Content/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/FoliageTypes/FT_tdcrdbur_VarE.uasset'
+[2025.07.08-17.56.04:109][605]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/FoliageTypes/FT_tdcrdbur_VarF] ([1] browsable assets)...
+[2025.07.08-17.56.04:120][605]OBJ SavePackage:     Rendered thumbnail for [FoliageType_InstancedStaticMesh /Game/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/FoliageTypes/FT_tdcrdbur_VarF.FT_tdcrdbur_VarF]
+[2025.07.08-17.56.04:120][605]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/FoliageTypes/FT_tdcrdbur_VarF]
+[2025.07.08-17.56.04:122][605]LogSavePackage: Moving output files for package: /Game/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/FoliageTypes/FT_tdcrdbur_VarF
+[2025.07.08-17.56.04:122][605]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Saved/FT_tdcrdbur_VarF07BB05DE4DBD903E38890AAC752FC85D.tmp' to '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Content/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/FoliageTypes/FT_tdcrdbur_VarF.uasset'
+[2025.07.08-17.56.04:123][605]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/MI_tdcrdbur] ([1] browsable assets)...
+[2025.07.08-17.56.04:138][605]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/MI_tdcrdbur.MI_tdcrdbur]
+[2025.07.08-17.56.04:138][605]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/MI_tdcrdbur]
+[2025.07.08-17.56.04:141][605]LogSavePackage: Moving output files for package: /Game/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/MI_tdcrdbur
+[2025.07.08-17.56.04:141][605]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Saved/MI_tdcrdburC202D6274AE96BCCD1149B9695C4432F.tmp' to '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Content/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/MI_tdcrdbur.uasset'
+[2025.07.08-17.56.04:148][605]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/MI_tdcrdbur_Billboard] ([1] browsable assets)...
+[2025.07.08-17.56.04:158][605]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/MI_tdcrdbur_Billboard.MI_tdcrdbur_Billboard]
+[2025.07.08-17.56.04:158][605]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/MI_tdcrdbur_Billboard]
+[2025.07.08-17.56.04:181][605]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.07.08-17.56.07:118][605]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.07.08-17.56.07:125][605]LogSavePackage: Moving output files for package: /Game/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/MI_tdcrdbur_Billboard
+[2025.07.08-17.56.07:125][605]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Saved/MI_tdcrdbur_BillboardF0E291544638EF70101D46BA836C8331.tmp' to '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Content/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/MI_tdcrdbur_Billboard.uasset'
+[2025.07.08-17.56.07:127][605]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/SM_tdcrdbur_VarA] ([1] browsable assets)...
+[2025.07.08-17.56.07:139][605]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/SM_tdcrdbur_VarA.SM_tdcrdbur_VarA]
+[2025.07.08-17.56.07:139][605]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/SM_tdcrdbur_VarA]
+[2025.07.08-17.56.07:147][605]LogSavePackage: Moving output files for package: /Game/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/SM_tdcrdbur_VarA
+[2025.07.08-17.56.07:147][605]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Saved/SM_tdcrdbur_VarAC0B70B7D42404268D7765B978F5CB72D.tmp' to '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Content/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/SM_tdcrdbur_VarA.uasset'
+[2025.07.08-17.56.07:152][605]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/SM_tdcrdbur_VarB] ([1] browsable assets)...
+[2025.07.08-17.56.07:163][605]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/SM_tdcrdbur_VarB.SM_tdcrdbur_VarB]
+[2025.07.08-17.56.07:163][605]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/SM_tdcrdbur_VarB]
+[2025.07.08-17.56.07:170][605]LogSavePackage: Moving output files for package: /Game/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/SM_tdcrdbur_VarB
+[2025.07.08-17.56.07:170][605]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Saved/SM_tdcrdbur_VarB30B77EE14C2E7E1D1A2EAC9B8230A264.tmp' to '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Content/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/SM_tdcrdbur_VarB.uasset'
+[2025.07.08-17.56.07:171][605]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/SM_tdcrdbur_VarC] ([1] browsable assets)...
+[2025.07.08-17.56.07:182][605]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/SM_tdcrdbur_VarC.SM_tdcrdbur_VarC]
+[2025.07.08-17.56.07:182][605]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/SM_tdcrdbur_VarC]
+[2025.07.08-17.56.07:188][605]LogSavePackage: Moving output files for package: /Game/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/SM_tdcrdbur_VarC
+[2025.07.08-17.56.07:188][605]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Saved/SM_tdcrdbur_VarCE9496A1540E1F9D565CA2CB9C909F6CB.tmp' to '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Content/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/SM_tdcrdbur_VarC.uasset'
+[2025.07.08-17.56.07:190][605]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/SM_tdcrdbur_VarD] ([1] browsable assets)...
+[2025.07.08-17.56.07:201][605]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/SM_tdcrdbur_VarD.SM_tdcrdbur_VarD]
+[2025.07.08-17.56.07:201][605]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/SM_tdcrdbur_VarD]
+[2025.07.08-17.56.07:206][605]LogSavePackage: Moving output files for package: /Game/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/SM_tdcrdbur_VarD
+[2025.07.08-17.56.07:206][605]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Saved/SM_tdcrdbur_VarD6612DA0C416010D968B2FABCA78DDC7C.tmp' to '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Content/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/SM_tdcrdbur_VarD.uasset'
+[2025.07.08-17.56.07:208][605]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/SM_tdcrdbur_VarE] ([1] browsable assets)...
+[2025.07.08-17.56.07:232][605]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/SM_tdcrdbur_VarE.SM_tdcrdbur_VarE]
+[2025.07.08-17.56.07:232][605]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/SM_tdcrdbur_VarE]
+[2025.07.08-17.56.07:236][605]LogSavePackage: Moving output files for package: /Game/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/SM_tdcrdbur_VarE
+[2025.07.08-17.56.07:236][605]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Saved/SM_tdcrdbur_VarECE22444849CC09CF8BDE178E717143A6.tmp' to '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Content/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/SM_tdcrdbur_VarE.uasset'
+[2025.07.08-17.56.07:238][605]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/SM_tdcrdbur_VarF] ([1] browsable assets)...
+[2025.07.08-17.56.07:250][605]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/SM_tdcrdbur_VarF.SM_tdcrdbur_VarF]
+[2025.07.08-17.56.07:250][605]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/SM_tdcrdbur_VarF]
+[2025.07.08-17.56.07:254][605]LogSavePackage: Moving output files for package: /Game/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/SM_tdcrdbur_VarF
+[2025.07.08-17.56.07:254][605]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Saved/SM_tdcrdbur_VarF513BABDF4A5C0EF3EDD39E91571CAFDC.tmp' to '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Content/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/SM_tdcrdbur_VarF.uasset'
+[2025.07.08-17.56.07:256][605]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/T_tdcrdbur_1K_B] ([1] browsable assets)...
+[2025.07.08-17.56.07:257][605]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/T_tdcrdbur_1K_B.T_tdcrdbur_1K_B]
+[2025.07.08-17.56.07:257][605]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/T_tdcrdbur_1K_B]
+[2025.07.08-17.56.07:281][605]LogSavePackage: Moving output files for package: /Game/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/T_tdcrdbur_1K_B
+[2025.07.08-17.56.07:281][605]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Saved/T_tdcrdbur_1K_B7F47BC824C2E772B25ED54807EFBA259.tmp' to '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Content/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/T_tdcrdbur_1K_B.uasset'
+[2025.07.08-17.56.07:287][605]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/T_tdcrdbur_1K_Billboard_B-O] ([1] browsable assets)...
+[2025.07.08-17.56.07:289][605]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/T_tdcrdbur_1K_Billboard_B-O.T_tdcrdbur_1K_Billboard_B-O]
+[2025.07.08-17.56.07:289][605]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/T_tdcrdbur_1K_Billboard_B-O]
+[2025.07.08-17.56.07:310][605]LogSavePackage: Moving output files for package: /Game/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/T_tdcrdbur_1K_Billboard_B-O
+[2025.07.08-17.56.07:310][605]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Saved/T_tdcrdbur_1K_Billboard_B-O363D74424D5E6C87DE7E2595D077B590.tmp' to '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Content/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/T_tdcrdbur_1K_Billboard_B-O.uasset'
+[2025.07.08-17.56.07:312][605]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/T_tdcrdbur_1K_Billboard_N-T] ([1] browsable assets)...
+[2025.07.08-17.56.07:316][605]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/T_tdcrdbur_1K_Billboard_N-T.T_tdcrdbur_1K_Billboard_N-T]
+[2025.07.08-17.56.07:316][605]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/T_tdcrdbur_1K_Billboard_N-T]
+[2025.07.08-17.56.07:340][605]LogSavePackage: Moving output files for package: /Game/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/T_tdcrdbur_1K_Billboard_N-T
+[2025.07.08-17.56.07:340][605]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Saved/T_tdcrdbur_1K_Billboard_N-T6B75F156408CE5F7490C2AA491CC95D4.tmp' to '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Content/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/T_tdcrdbur_1K_Billboard_N-T.uasset'
+[2025.07.08-17.56.07:342][605]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/T_tdcrdbur_1K_N] ([1] browsable assets)...
+[2025.07.08-17.56.07:344][605]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/T_tdcrdbur_1K_N.T_tdcrdbur_1K_N]
+[2025.07.08-17.56.07:344][605]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/T_tdcrdbur_1K_N]
+[2025.07.08-17.56.07:367][605]LogSavePackage: Moving output files for package: /Game/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/T_tdcrdbur_1K_N
+[2025.07.08-17.56.07:367][605]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Saved/T_tdcrdbur_1K_NF45F23524E029354398B2E988BA2CB77.tmp' to '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Content/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/T_tdcrdbur_1K_N.uasset'
+[2025.07.08-17.56.07:369][605]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/T_tdcrdbur_1K_ORT] ([1] browsable assets)...
+[2025.07.08-17.56.07:371][605]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/T_tdcrdbur_1K_ORT.T_tdcrdbur_1K_ORT]
+[2025.07.08-17.56.07:371][605]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/T_tdcrdbur_1K_ORT]
+[2025.07.08-17.56.07:389][605]LogSavePackage: Moving output files for package: /Game/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/T_tdcrdbur_1K_ORT
+[2025.07.08-17.56.07:389][605]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Saved/T_tdcrdbur_1K_ORTD4A43463414B88397EF3C7BDC9D5469E.tmp' to '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Content/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/T_tdcrdbur_1K_ORT.uasset'
+[2025.07.08-17.56.08:094][605]LogFileHelpers: InternalPromptForCheckoutAndSave took 4.27 sec (total: 11.5 sec)
+[2025.07.08-17.56.08:130][605]LogContentValidation: Display: Starting to validate 21 assets
+[2025.07.08-17.56.08:130][605]LogContentValidation: Enabled validators:
+[2025.07.08-17.56.08:130][605]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.08-17.56.08:130][605]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.08-17.56.08:130][605]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.08-17.56.08:130][605]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.08-17.56.08:130][605]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.08-17.56.08:130][605]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.08-17.56.08:131][605]AssetCheck: /Game/Foliage/WheatGrass/Atlas Validating asset
+[2025.07.08-17.56.08:131][605]AssetCheck: /Game/Fab/Megascans/Plants/BP_GlobalFoliageActor Validating asset
+[2025.07.08-17.56.08:131][605]AssetCheck: /Game/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/FoliageTypes/FT_tdcrdbur_VarA Validating asset
+[2025.07.08-17.56.08:131][605]AssetCheck: /Game/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/FoliageTypes/FT_tdcrdbur_VarB Validating asset
+[2025.07.08-17.56.08:131][605]AssetCheck: /Game/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/FoliageTypes/FT_tdcrdbur_VarC Validating asset
+[2025.07.08-17.56.08:131][605]AssetCheck: /Game/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/FoliageTypes/FT_tdcrdbur_VarD Validating asset
+[2025.07.08-17.56.08:131][605]AssetCheck: /Game/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/FoliageTypes/FT_tdcrdbur_VarE Validating asset
+[2025.07.08-17.56.08:131][605]AssetCheck: /Game/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/FoliageTypes/FT_tdcrdbur_VarF Validating asset
+[2025.07.08-17.56.08:132][605]AssetCheck: /Game/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/MI_tdcrdbur Validating asset
+[2025.07.08-17.56.08:132][605]AssetCheck: /Game/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/MI_tdcrdbur_Billboard Validating asset
+[2025.07.08-17.56.08:132][605]AssetCheck: /Game/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/SM_tdcrdbur_VarA Validating asset
+[2025.07.08-17.56.08:132][605]AssetCheck: /Game/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/SM_tdcrdbur_VarB Validating asset
+[2025.07.08-17.56.08:132][605]AssetCheck: /Game/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/SM_tdcrdbur_VarC Validating asset
+[2025.07.08-17.56.08:132][605]AssetCheck: /Game/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/SM_tdcrdbur_VarD Validating asset
+[2025.07.08-17.56.08:132][605]AssetCheck: /Game/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/SM_tdcrdbur_VarE Validating asset
+[2025.07.08-17.56.08:132][605]AssetCheck: /Game/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/SM_tdcrdbur_VarF Validating asset
+[2025.07.08-17.56.08:132][605]AssetCheck: /Game/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/T_tdcrdbur_1K_B Validating asset
+[2025.07.08-17.56.08:132][605]AssetCheck: /Game/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/T_tdcrdbur_1K_Billboard_B-O Validating asset
+[2025.07.08-17.56.08:132][605]AssetCheck: /Game/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/T_tdcrdbur_1K_Billboard_N-T Validating asset
+[2025.07.08-17.56.08:132][605]AssetCheck: /Game/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/T_tdcrdbur_1K_N Validating asset
+[2025.07.08-17.56.08:132][605]AssetCheck: /Game/Fab/Megascans/Plants/Wheat_Grass_tdcrdbur/Low/T_tdcrdbur_1K_ORT Validating asset
+[2025.07.08-17.57.20:514][823]LogShaderCompilers: Display: ================================================
+[2025.07.08-17.57.20:514][823]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.07.08-17.57.20:514][823]LogShaderCompilers: Display: Total job queries 1,176, among them cache hits 367 (31.21%), DDC hits 555 (47.19%), Duplicates 68 (5.78%)
+[2025.07.08-17.57.20:514][823]LogShaderCompilers: Display: Tracking 741 distinct input hashes that result in 484 distinct outputs (65.32%)
+[2025.07.08-17.57.20:514][823]LogShaderCompilers: Display: RAM used: 315.71 KiB of 819.20 MiB budget. Usage: 0.04%
+[2025.07.08-17.57.20:514][823]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.07.08-17.57.20:514][823]LogShaderCompilers: Display: Shaders Compiled: 186
+[2025.07.08-17.57.20:514][823]LogShaderCompilers: Display: Jobs assigned 186, completed 186 (100%)
+[2025.07.08-17.57.20:514][823]LogShaderCompilers: Display: Average time worker was idle: 45.45 s
+[2025.07.08-17.57.20:514][823]LogShaderCompilers: Display: Time job spent in pending queue: average 2.35 s, longest 11.74 s
+[2025.07.08-17.57.20:514][823]LogShaderCompilers: Display: Job execution time: average 1.75 s, max 8.19 s
+[2025.07.08-17.57.20:514][823]LogShaderCompilers: Display: Job life time (pending + execution): average 4.10 s, max 12.89
+[2025.07.08-17.57.20:514][823]LogShaderCompilers: Display: Shader code size: average 8.961 KiB, min 1.395 KiB, max 25.164 KiB
+[2025.07.08-17.57.20:514][823]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 45.46 s
+[2025.07.08-17.57.20:514][823]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2025.07.08-17.57.20:514][823]LogShaderCompilers: Display: Jobs were issued in 186 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.07.08-17.57.20:514][823]LogShaderCompilers: Display: Average processing rate: 4.09 jobs/sec
+[2025.07.08-17.57.20:514][823]LogShaderCompilers: Display: Total thread time: 238.869 s
+[2025.07.08-17.57.20:514][823]LogShaderCompilers: Display: Total thread preprocess time: 23.088 s
+[2025.07.08-17.57.20:514][823]LogShaderCompilers: Display: Percentage time preprocessing: 9.67%
+[2025.07.08-17.57.20:514][823]LogShaderCompilers: Display: Effective parallelization: 5.25 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.07.08-17.57.20:514][823]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.07.08-17.57.20:514][823]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    3 times, average 4.67 sec, max 8.11 sec, min 2.42 sec)
+[2025.07.08-17.57.20:514][823]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    5 times, average 3.31 sec, max 6.68 sec, min 1.68 sec)
+[2025.07.08-17.57.20:514][823]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    7 times, average 3.28 sec, max 7.12 sec, min 1.62 sec)
+[2025.07.08-17.57.20:514][823]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    3 times, average 2.83 sec, max 3.54 sec, min 2.38 sec)
+[2025.07.08-17.57.20:514][823]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    7 times, average 2.71 sec, max 6.39 sec, min 1.53 sec)
+[2025.07.08-17.57.20:514][823]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.07.08-17.57.20:514][823]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 9.61% of total time (compiled    7 times, average 3.28 sec, max 7.12 sec, min 1.62 sec)
+[2025.07.08-17.57.20:514][823]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 7.94% of total time (compiled    7 times, average 2.71 sec, max 6.39 sec, min 1.53 sec)
+[2025.07.08-17.57.20:515][823]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS - 7.49% of total time (compiled   10 times, average 1.79 sec, max 2.30 sec, min 1.43 sec)
+[2025.07.08-17.57.20:515][823]LogShaderCompilers: Display:                                             FDebugViewModePS - 6.93% of total time (compiled    5 times, average 3.31 sec, max 6.68 sec, min 1.68 sec)
+[2025.07.08-17.57.20:515][823]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy - 5.86% of total time (compiled    3 times, average 4.67 sec, max 8.11 sec, min 2.42 sec)
+[2025.07.08-17.57.20:515][823]LogShaderCompilers: Display: === Material stats ===
+[2025.07.08-17.57.20:515][823]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.07.08-17.57.20:515][823]LogShaderCompilers: Display: Materials Translated:    301
+[2025.07.08-17.57.20:515][823]LogShaderCompilers: Display: Material Total Translate Time: 0.44 s
+[2025.07.08-17.57.20:515][823]LogShaderCompilers: Display: Material Translation Only: 0.28 s (64%)
+[2025.07.08-17.57.20:515][823]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.07.08-17.57.20:515][823]LogShaderCompilers: Display: Material Cache Hits: 48 (16%)
+[2025.07.08-17.57.20:515][823]LogShaderCompilers: Display: ================================================
+[2025.07.08-17.57.52:223][919]LogDerivedDataCache: C:/Users/Usuario/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.080 and deleted 0 files with total size 0 MiB and 128 empty folders. Scanned 0 files in 134 folders with total size 0 MiB.
+[2025.07.08-17.59.07:387][159]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3763.679932
+[2025.07.08-17.59.08:387][162]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.08-17.59.08:387][162]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3764.347656, Update Interval: 346.268494
+[2025.07.08-18.05.30:470][308]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4146.768066
+[2025.07.08-18.05.31:470][311]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.08-18.05.31:470][311]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4147.434082, Update Interval: 344.516113
+[2025.07.08-18.10.32:919][372]LogSlate: External Image Picker: DecompressImage failed
+[2025.07.08-18.12.10:892][239]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4547.199707
+[2025.07.08-18.12.11:593][243]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.08-18.12.11:593][243]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4547.774414, Update Interval: 317.146515
+[2025.07.08-18.12.19:563][305]LogSlate: Window 'Project Settings' being destroyed
+[2025.07.08-18.12.20:006][305]LogSlate: Window 'Project Settings' being destroyed
+[2025.07.08-18.13.16:102][576]LogSlate: Window 'Bridge' being destroyed
+[2025.07.08-18.13.16:105][576]LogSlate: Window 'Bridge' being destroyed
+[2025.07.08-18.13.16:106][576]LogWebBrowser: Closing browser during destruction, this may cause a later crash.
+[2025.07.08-18.13.16:106][576]LogWebBrowser: Deleting browser for Url=file:///C:/Program%20Files/Epic%20Games/UE_5.5/Engine/Plugins/Bridge/ThirdParty/megascans/index.html#/megascans/collections?category=environment&category=industrial&category=roadside-construction.
+[2025.07.08-18.13.17:653][581]LogSlate: Window 'MI_tdcrdbur_Billboard' being destroyed
+[2025.07.08-18.13.17:657][581]LogSlate: Window 'MI_tdcrdbur_Billboard' being destroyed
+[2025.07.08-18.13.17:728][581]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2025.07.08-18.13.17:728][581]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.08-18.13.17:762][581]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2025.07.08-18.13.17:762][581]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.08-18.13.17:926][581]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2025.07.08-18.13.22:209][746]LogSlate: External Image Picker: DecompressImage failed
+[2025.07.08-18.15.52:554][353]Cmd: CLOSE_SLATE_MAINFRAME
+[2025.07.08-18.15.52:582][353]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2025.07.08-18.15.52:692][353]LogStall: Shutdown...
+[2025.07.08-18.15.52:693][353]LogStall: Shutdown complete.
+[2025.07.08-18.15.52:796][353]LogSlate: Window 'Project Settings' being destroyed
+[2025.07.08-18.15.52:869][353]LogSlate: Window 'Slash_Project - Unreal Editor' being destroyed
+[2025.07.08-18.15.53:257][354]Cmd: QUIT_EDITOR
+[2025.07.08-18.15.53:257][355]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.07.08-18.15.53:284][355]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.07.08-18.15.53:285][355]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.07.08-18.15.53:285][355]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.07.08-18.15.53:660][355]LogWorld: UWorld::CleanupWorld for SlashOpenWorld, bSessionEnded=true, bCleanupResources=true
+[2025.07.08-18.15.53:661][355]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.08-18.15.53:707][355]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.07.08-18.15.53:714][355]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.07.08-18.15.53:730][355]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2025.07.08-18.15.53:730][355]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.08-18.15.53:734][355]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2025.07.08-18.15.53:734][355]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.08-18.15.53:738][355]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2025.07.08-18.15.53:738][355]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.08-18.15.53:744][355]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.07.08-18.15.53:744][355]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.08-18.15.53:750][355]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.07.08-18.15.53:750][355]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.08-18.15.53:757][355]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.07.08-18.15.53:757][355]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.08-18.15.53:763][355]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.07.08-18.15.53:763][355]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.08-18.15.53:768][355]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.07.08-18.15.53:768][355]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.08-18.15.53:777][355]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2025.07.08-18.15.53:777][355]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.08-18.15.53:781][355]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2025.07.08-18.15.53:781][355]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.08-18.15.53:804][355]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.07.08-18.15.53:817][355]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2025.07.08-18.15.53:818][355]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2025.07.08-18.15.53:818][355]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2025.07.08-18.15.53:824][355]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.07.08-18.15.53:824][355]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.07.08-18.15.53:825][355]LogAudio: Display: Audio Device unregistered from world 'SlashOpenWorld'.
+[2025.07.08-18.15.53:825][355]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.07.08-18.15.53:831][355]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.07.08-18.15.53:842][355]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.07.08-18.15.53:876][355]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.07.08-18.15.53:876][355]LogAudio: Display: Audio Device Manager Shutdown
+[2025.07.08-18.15.53:883][355]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.07.08-18.15.53:883][355]LogExit: Preparing to exit.
+[2025.07.08-18.15.53:968][355]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2025.07.08-18.15.53:987][355]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.07.08-18.15.53:988][355]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.07.08-18.15.54:006][355]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.07.08-18.15.54:008][355]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.07.08-18.15.54:009][355]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.07.08-18.15.54:009][355]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.07.08-18.15.54:009][355]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.07.08-18.15.54:009][355]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.07.08-18.15.54:009][355]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.07.08-18.15.54:009][355]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.07.08-18.15.54:010][355]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.07.08-18.15.54:010][355]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.07.08-18.15.54:011][355]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.07.08-18.15.54:011][355]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.07.08-18.15.54:011][355]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.07.08-18.15.54:011][355]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.07.08-18.15.54:012][355]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.07.08-18.15.54:012][355]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.07.08-18.15.54:013][355]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.07.08-18.15.54:014][355]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.07.08-18.15.54:014][355]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.07.08-18.15.55:374][355]LogEditorDataStorage: Deinitializing
+[2025.07.08-18.15.55:723][355]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.07.08-18.15.55:988][355]LogExit: Editor shut down
+[2025.07.08-18.15.56:026][355]LogExit: Transaction tracking system shut down
+[2025.07.08-18.15.57:116][355]LogExit: Object subsystem successfully closed.
+[2025.07.08-18.15.57:157][355]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.07.08-18.15.57:997][355]LogMemoryProfiler: Shutdown
+[2025.07.08-18.15.57:999][355]LogNetworkingProfiler: Shutdown
+[2025.07.08-18.15.57:999][355]LoadingProfiler: Shutdown
+[2025.07.08-18.15.58:000][355]LogTimingProfiler: Shutdown
+[2025.07.08-18.15.59:427][355]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.07.08-18.15.59:428][355]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2025.07.08-18.15.59:429][355]LogNFORDenoise: NFORDenoise function shutting down
+[2025.07.08-18.15.59:475][355]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.07.08-18.15.59:475][355]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B29030BB9-4836-ECEC-1922-CDA96C31E95C%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.3-39772772%2B%2B%2BUE5%2BRelease-5.5&UserID=9ffb585a415f8b5ea3099583a3a7266d%7C8558b0f0649c41fd8c81a81c61794009%7C7a8c91b2-78e4-4ba2-9615-51435d5b763c&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.07.08-18.16.00:041][355]LogEOSSDK: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.07.08-18.16.00:054][355]RenderDocPlugin: plugin has been unloaded.
+[2025.07.08-18.16.00:060][355]LogXGEController: Cleaning working directory: C:/Users/Usuario/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2025.07.08-18.16.00:076][355]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.07.08-18.16.00:076][355]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.07.08-18.16.00:076][355]LogPakFile: Destroying PakPlatformFile
+[2025.07.08-18.16.05:458][355]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.07.08-18.16.05:537][355]LogExit: Exiting.
+[2025.07.08-18.16.05:590][355]Log file closed, 07/08/25 20:16:05
