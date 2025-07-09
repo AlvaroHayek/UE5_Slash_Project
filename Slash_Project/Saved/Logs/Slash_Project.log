@@ -1367,3 +1367,1247 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.07.09-16.17.18:933][726]LogDerivedDataCache: C:/Users/Usuario/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.001 and deleted 0 files with total size 0 MiB and 1 empty folders. Scanned 0 files in 2 folders with total size 0 MiB.
 [2025.07.09-16.17.21:315][819]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
 [2025.07.09-16.17.21:315][819]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.07.09-16.21.15:036][425]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 328.034027
+[2025.07.09-16.21.16:036][428]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.09-16.21.16:036][428]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 328.701324, Update Interval: 331.469452
+[2025.07.09-16.21.27:399][462]LogSlate: Took 0.009775 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2025.07.09-16.21.27:466][462]LogSlate: Took 0.009184 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.07.09-16.21.41:386][ 70]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_0
+[2025.07.09-16.21.41:387][ 70]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_0'.
+[2025.07.09-16.21.43:492][148]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/Landscape_Materials/M_Landscape.M_Landscape
+[2025.07.09-16.21.43:514][148]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Bool.png' error.
+[2025.07.09-16.21.43:514][148]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Bool.png
+[2025.07.09-16.21.43:514][148]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/None.png' error.
+[2025.07.09-16.21.43:514][148]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/None.png
+[2025.07.09-16.21.43:514][148]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float1.png' error.
+[2025.07.09-16.21.43:514][148]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float1.png
+[2025.07.09-16.21.43:514][148]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float2.png' error.
+[2025.07.09-16.21.43:514][148]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float2.png
+[2025.07.09-16.21.43:514][148]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_RGB.png' error.
+[2025.07.09-16.21.43:514][148]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_RGB.png
+[2025.07.09-16.21.43:514][148]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_RPY.png' error.
+[2025.07.09-16.21.43:514][148]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_RPY.png
+[2025.07.09-16.21.43:514][148]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_XYZ.png' error.
+[2025.07.09-16.21.43:514][148]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_XYZ.png
+[2025.07.09-16.21.43:515][148]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float_Any.png' error.
+[2025.07.09-16.21.43:515][148]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float_Any.png
+[2025.07.09-16.21.43:515][148]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_SinglePixel.png' error.
+[2025.07.09-16.21.43:515][148]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_SinglePixel.png
+[2025.07.09-16.21.43:515][148]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaterialTypeUnlit.png' error.
+[2025.07.09-16.21.43:515][148]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaterialTypeUnlit.png
+[2025.07.09-16.21.43:515][148]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_LeftTopRight.png' error.
+[2025.07.09-16.21.43:515][148]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_LeftTopRight.png
+[2025.07.09-16.21.43:515][148]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_TopLeftBottom.png' error.
+[2025.07.09-16.21.43:515][148]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_TopLeftBottom.png
+[2025.07.09-16.21.43:515][148]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Texture.png' error.
+[2025.07.09-16.21.43:515][148]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Texture.png
+[2025.07.09-16.21.43:515][148]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_LeftBottomRight.png' error.
+[2025.07.09-16.21.43:515][148]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_LeftBottomRight.png
+[2025.07.09-16.21.43:515][148]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float4_RGBA.png' error.
+[2025.07.09-16.21.43:515][148]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float4_RGBA.png
+[2025.07.09-16.21.43:515][148]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_Top.png' error.
+[2025.07.09-16.21.43:515][148]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_Top.png
+[2025.07.09-16.21.43:515][148]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_TopRightBottom.png' error.
+[2025.07.09-16.21.43:515][148]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaterialTypeDefaultLit.png' error.
+[2025.07.09-16.21.43:515][148]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaterialTypeDefaultLit.png
+[2025.07.09-16.21.43:515][148]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_TopRightBottom.png
+[2025.07.09-16.21.43:515][148]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/Remove_16px.png' error.
+[2025.07.09-16.21.43:515][148]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/Remove_16px.png
+[2025.07.09-16.21.43:515][148]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/WhiteBall.png' error.
+[2025.07.09-16.21.43:515][148]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/WhiteBall.png
+[2025.07.09-16.21.43:515][148]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_Left.png' error.
+[2025.07.09-16.21.43:515][148]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_Left.png
+[2025.07.09-16.21.43:515][148]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/BaseToggle_16x.png' error.
+[2025.07.09-16.21.43:515][148]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/BaseToggle_16x.png
+[2025.07.09-16.21.43:515][148]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_Bottom.png' error.
+[2025.07.09-16.21.43:515][148]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_Bottom.png
+[2025.07.09-16.21.43:515][148]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_Right.png' error.
+[2025.07.09-16.21.43:515][148]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_Right.png
+[2025.07.09-16.21.43:515][148]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaskToggle_16x.png' error.
+[2025.07.09-16.21.43:515][148]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaskToggle_16x.png
+[2025.07.09-16.21.43:515][148]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/LayerRemove.png' error.
+[2025.07.09-16.21.43:515][148]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/LayerRemove.png
+[2025.07.09-16.21.43:515][148]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/Duplicate_40x.png' error.
+[2025.07.09-16.21.43:516][148]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/Duplicate_40x.png
+[2025.07.09-16.21.43:516][148]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/LayerAdd.png' error.
+[2025.07.09-16.21.43:516][148]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/LayerAdd.png
+[2025.07.09-16.21.43:581][148]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
+[2025.07.09-16.21.43:581][148]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_1'.
+[2025.07.09-16.21.43:643][148]LogStreaming: Display: FlushAsyncLoading(338): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.09-16.21.44:371][148]MaterialEditorStats: Texture samplers: 0/16
+[2025.07.09-16.21.44:371][148]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.07.09-16.21.44:371][148]MaterialEditorStats: Shader Count: 0
+[2025.07.09-16.21.44:371][148]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.09-16.21.44:397][148]LogSlate: Took 0.008338 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.07.09-16.21.44:767][150]MaterialEditorStats: Base pass shader: 154 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.07.09-16.21.44:767][150]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.07.09-16.21.44:767][150]MaterialEditorStats: Texture samplers: 1/16
+[2025.07.09-16.21.44:767][150]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.07.09-16.21.44:767][150]MaterialEditorStats: Shader Count: 4
+[2025.07.09-16.21.44:767][150]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.09-16.22.19:969][481]MaterialEditorStats: Texture samplers: 0/16
+[2025.07.09-16.22.19:969][481]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.07.09-16.22.19:969][481]MaterialEditorStats: Shader Count: 0
+[2025.07.09-16.22.19:969][481]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.09-16.22.20:055][482]MaterialEditorStats: Base pass shader: 154 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.07.09-16.22.20:055][482]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.07.09-16.22.20:055][482]MaterialEditorStats: Texture samplers: 1/16
+[2025.07.09-16.22.20:055][482]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.07.09-16.22.20:055][482]MaterialEditorStats: Shader Count: 4
+[2025.07.09-16.22.20:055][482]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.09-16.22.20:430][496]MaterialEditorStats: Texture samplers: 0/16
+[2025.07.09-16.22.20:430][496]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.07.09-16.22.20:430][496]MaterialEditorStats: Shader Count: 0
+[2025.07.09-16.22.20:430][496]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.09-16.22.20:522][497]MaterialEditorStats: Base pass shader: 154 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.07.09-16.22.20:522][497]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.07.09-16.22.20:522][497]MaterialEditorStats: Texture samplers: 1/16
+[2025.07.09-16.22.20:522][497]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.07.09-16.22.20:522][497]MaterialEditorStats: Shader Count: 4
+[2025.07.09-16.22.20:522][497]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.09-16.22.20:855][512]MaterialEditorStats: Texture samplers: 0/16
+[2025.07.09-16.22.20:855][512]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.07.09-16.22.20:855][512]MaterialEditorStats: Shader Count: 0
+[2025.07.09-16.22.20:855][512]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.09-16.22.20:947][513]MaterialEditorStats: Base pass shader: 154 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.07.09-16.22.20:947][513]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.07.09-16.22.20:947][513]MaterialEditorStats: Texture samplers: 1/16
+[2025.07.09-16.22.20:947][513]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.07.09-16.22.20:947][513]MaterialEditorStats: Shader Count: 4
+[2025.07.09-16.22.20:947][513]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.09-16.22.36:430][162]MaterialEditorStats: Texture samplers: 0/16
+[2025.07.09-16.22.36:430][162]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.07.09-16.22.36:430][162]MaterialEditorStats: Shader Count: 0
+[2025.07.09-16.22.36:430][162]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.09-16.22.36:550][164]MaterialEditorStats: Base pass shader: 154 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.07.09-16.22.36:550][164]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.07.09-16.22.36:550][164]MaterialEditorStats: Texture samplers: 1/16
+[2025.07.09-16.22.36:550][164]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.07.09-16.22.36:550][164]MaterialEditorStats: Shader Count: 4
+[2025.07.09-16.22.36:550][164]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.09-16.22.44:081][476]MaterialEditorStats: Texture samplers: 0/16
+[2025.07.09-16.22.44:081][476]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.07.09-16.22.44:081][476]MaterialEditorStats: Shader Count: 0
+[2025.07.09-16.22.44:081][476]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.09-16.22.44:101][477]MaterialEditorStats: Base pass shader: 154 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.07.09-16.22.44:101][477]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.07.09-16.22.44:101][477]MaterialEditorStats: Texture samplers: 1/16
+[2025.07.09-16.22.44:101][477]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.07.09-16.22.44:101][477]MaterialEditorStats: Shader Count: 4
+[2025.07.09-16.22.44:101][477]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.09-16.22.50:587][747]MaterialEditorStats: Texture samplers: 0/16
+[2025.07.09-16.22.50:587][747]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.07.09-16.22.50:587][747]MaterialEditorStats: Shader Count: 0
+[2025.07.09-16.22.50:587][747]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.09-16.22.50:608][748]MaterialEditorStats: Base pass shader: 154 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.07.09-16.22.50:608][748]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.07.09-16.22.50:608][748]MaterialEditorStats: Texture samplers: 1/16
+[2025.07.09-16.22.50:608][748]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.07.09-16.22.50:608][748]MaterialEditorStats: Shader Count: 4
+[2025.07.09-16.22.50:608][748]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.09-16.22.59:375][119]MaterialEditorStats: Texture samplers: 0/16
+[2025.07.09-16.22.59:375][119]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.07.09-16.22.59:375][119]MaterialEditorStats: Shader Count: 0
+[2025.07.09-16.22.59:375][119]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.09-16.22.59:511][120]MaterialEditorStats: Base pass shader: 154 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.07.09-16.22.59:511][120]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.07.09-16.22.59:511][120]MaterialEditorStats: Texture samplers: 1/16
+[2025.07.09-16.22.59:511][120]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.07.09-16.22.59:511][120]MaterialEditorStats: Shader Count: 4
+[2025.07.09-16.22.59:511][120]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.09-16.23.34:971][975]MaterialEditorStats: Texture samplers: 0/16
+[2025.07.09-16.23.34:971][975]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.07.09-16.23.34:971][975]MaterialEditorStats: Shader Count: 0
+[2025.07.09-16.23.34:971][975]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.09-16.23.35:130][977]MaterialEditorStats: Base pass shader: 154 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.07.09-16.23.35:130][977]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.07.09-16.23.35:130][977]MaterialEditorStats: Texture samplers: 1/16
+[2025.07.09-16.23.35:130][977]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.07.09-16.23.35:130][977]MaterialEditorStats: Shader Count: 4
+[2025.07.09-16.23.35:130][977]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.09-16.23.41:384][356]MaterialEditorStats: Texture samplers: 0/16
+[2025.07.09-16.23.41:384][356]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.07.09-16.23.41:384][356]MaterialEditorStats: Shader Count: 0
+[2025.07.09-16.23.41:384][356]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.09-16.23.41:518][358]MaterialEditorStats: Base pass shader: 155 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.07.09-16.23.41:518][358]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.07.09-16.23.41:518][358]MaterialEditorStats: Texture samplers: 1/16
+[2025.07.09-16.23.41:518][358]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.07.09-16.23.41:518][358]MaterialEditorStats: Shader Count: 4
+[2025.07.09-16.23.41:518][358]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.09-16.23.44:310][552]MaterialEditorStats: Texture samplers: 0/16
+[2025.07.09-16.23.44:310][552]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.07.09-16.23.44:310][552]MaterialEditorStats: Shader Count: 0
+[2025.07.09-16.23.44:310][552]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.09-16.23.44:402][555]MaterialEditorStats: Base pass shader: 154 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.07.09-16.23.44:403][555]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.07.09-16.23.44:403][555]MaterialEditorStats: Texture samplers: 1/16
+[2025.07.09-16.23.44:403][555]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.07.09-16.23.44:403][555]MaterialEditorStats: Shader Count: 4
+[2025.07.09-16.23.44:403][555]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.09-16.23.48:438][826]MaterialEditorStats: Texture samplers: 0/16
+[2025.07.09-16.23.48:438][826]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.07.09-16.23.48:438][826]MaterialEditorStats: Shader Count: 0
+[2025.07.09-16.23.48:438][826]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.09-16.23.48:524][829]MaterialEditorStats: Base pass shader: 154 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.07.09-16.23.48:524][829]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.07.09-16.23.48:524][829]MaterialEditorStats: Texture samplers: 1/16
+[2025.07.09-16.23.48:524][829]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.07.09-16.23.48:524][829]MaterialEditorStats: Shader Count: 4
+[2025.07.09-16.23.48:524][829]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.09-16.23.50:719][966]MaterialEditorStats: Texture samplers: 0/16
+[2025.07.09-16.23.50:719][966]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.07.09-16.23.50:719][966]MaterialEditorStats: Shader Count: 0
+[2025.07.09-16.23.50:719][966]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.09-16.23.50:806][969]MaterialEditorStats: Base pass shader: 154 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.07.09-16.23.50:806][969]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.07.09-16.23.50:806][969]MaterialEditorStats: Texture samplers: 1/16
+[2025.07.09-16.23.50:806][969]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.07.09-16.23.50:806][969]MaterialEditorStats: Shader Count: 4
+[2025.07.09-16.23.50:806][969]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.09-16.23.53:797][171]MaterialEditorStats: Texture samplers: 0/16
+[2025.07.09-16.23.53:797][171]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.07.09-16.23.53:797][171]MaterialEditorStats: Shader Count: 0
+[2025.07.09-16.23.53:797][171]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.09-16.23.53:897][174]MaterialEditorStats: Base pass shader: 154 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.07.09-16.23.53:897][174]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.07.09-16.23.53:897][174]MaterialEditorStats: Texture samplers: 1/16
+[2025.07.09-16.23.53:897][174]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.07.09-16.23.53:897][174]MaterialEditorStats: Shader Count: 4
+[2025.07.09-16.23.53:897][174]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.09-16.23.57:520][439]MaterialEditorStats: Texture samplers: 0/16
+[2025.07.09-16.23.57:520][439]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.07.09-16.23.57:520][439]MaterialEditorStats: Shader Count: 0
+[2025.07.09-16.23.57:520][439]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.09-16.23.57:615][442]MaterialEditorStats: Base pass shader: 154 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.07.09-16.23.57:615][442]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.07.09-16.23.57:615][442]MaterialEditorStats: Texture samplers: 1/16
+[2025.07.09-16.23.57:615][442]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.07.09-16.23.57:615][442]MaterialEditorStats: Shader Count: 4
+[2025.07.09-16.23.57:615][442]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.09-16.24.01:761][741]MaterialEditorStats: Texture samplers: 0/16
+[2025.07.09-16.24.01:761][741]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.07.09-16.24.01:761][741]MaterialEditorStats: Shader Count: 0
+[2025.07.09-16.24.01:761][741]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.09-16.24.01:850][744]MaterialEditorStats: Base pass shader: 154 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.07.09-16.24.01:850][744]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.07.09-16.24.01:850][744]MaterialEditorStats: Texture samplers: 1/16
+[2025.07.09-16.24.01:850][744]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.07.09-16.24.01:850][744]MaterialEditorStats: Shader Count: 4
+[2025.07.09-16.24.01:850][744]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.09-16.24.05:838][ 15]MaterialEditorStats: Texture samplers: 0/16
+[2025.07.09-16.24.05:839][ 15]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.07.09-16.24.05:839][ 15]MaterialEditorStats: Shader Count: 0
+[2025.07.09-16.24.05:839][ 15]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.09-16.24.05:941][ 18]MaterialEditorStats: Base pass shader: 154 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.07.09-16.24.05:941][ 18]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.07.09-16.24.05:941][ 18]MaterialEditorStats: Texture samplers: 1/16
+[2025.07.09-16.24.05:941][ 18]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.07.09-16.24.05:941][ 18]MaterialEditorStats: Shader Count: 4
+[2025.07.09-16.24.05:941][ 18]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.09-16.24.53:595][153]LogMaterialEditor: Applying material M_Landscape
+[2025.07.09-16.24.55:473][153]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.07.09-16.24.55:656][153]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.07.09-16.25.46:776][573]LogSlate: Took 0.001342 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.07.09-16.25.51:492][950]LogWebBrowser: Loaded CEF3 version 90.6.7.2358 from C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/CEF3/Win64
+[2025.07.09-16.25.51:533][950]LogCEFBrowser: CEF GPU acceleration enabled
+[2025.07.09-16.26.00:016][169]LogWindows: LaunchURL https://www.fab.com/sellers/Quixel
+[2025.07.09-16.26.50:696][335]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 663.693054
+[2025.07.09-16.26.51:696][338]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.09-16.26.51:696][338]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 664.359497, Update Interval: 351.307709
+[2025.07.09-16.26.57:369][413]LogSlate: Window 'Bridge' being destroyed
+[2025.07.09-16.26.57:375][413]LogSlate: Window 'Bridge' being destroyed
+[2025.07.09-16.26.57:376][413]LogWebBrowser: Closing browser during destruction, this may cause a later crash.
+[2025.07.09-16.26.57:376][413]LogWebBrowser: Deleting browser for Url=file:///C:/Program%20Files/Epic%20Games/UE_5.5/Engine/Plugins/Bridge/ThirdParty/megascans/index.html#/.
+[2025.07.09-16.27.05:486][613]LogFab: Display: {
+	"interactionType": "Open Tab",
+	"eventCategory": "Plugin",
+	"eventAction": "Click"
+}
+[2025.07.09-16.27.07:682][703]LogEOSSDK: Error: LogEOS: EOS_Auth_CopyUserAuthToken - One or more parameters are null
+[2025.07.09-16.27.07:682][703]LogFab: Error: User auth token is invalid - unable to get auth token
+[2025.07.09-16.27.44:466][195]LogFab: Display: Asset Type = gltf
+[2025.07.09-16.27.44:466][195]LogFab: Display: Is Quixel = 1
+[2025.07.09-16.27.46:231][260]LogStreaming: Display: FlushAsyncLoading(342): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.09-16.27.46:882][260]LogInterchangeEngine: Display: Interchange import: Using stack [OverridePipeline] to import.
+[2025.07.09-16.27.46:884][260]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Usuario/AppData/Local/Temp/FabLibrary/176c6df3-f06b-47c8-b216-0416be280a0a/forest_floor_compost_teiowah_1k_ue_low_extracted/teiowah_tier_3.gltf]
+[2025.07.09-16.27.46:947][262]LogStreaming: Display: FlushAsyncLoading(378): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.09-16.27.46:981][265]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2025.07.09-16.27.46:998][266]LogStreaming: Display: FlushAsyncLoading(381): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.09-16.27.47:066][266]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.10.dll
+[2025.07.09-16.27.47:077][266]LogTexture: Display: Building textures: /Fab/Textures/Standard/T_DefaultDisplacement.T_DefaultDisplacement (G8, 32x32 x1x1x1) (Required Memory Estimate: 1.031243 MB), EncodeSpeed: Fast
+[2025.07.09-16.27.47:142][268]LogTexture: Display: Building textures: /Game/Fab/Megascans/Decals/Forest_Floor_Compost_teiowah/Low/T_teiowah_1K_N.T_teiowah_1K_N (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 169.499988 MB), EncodeSpeed: Fast
+[2025.07.09-16.27.47:142][268]LogTexture: Display: Building textures: /Game/Fab/Megascans/Decals/Forest_Floor_Compost_teiowah/Low/T_teiowah_1K_B-O.T_teiowah_1K_B-O (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 102.583323 MB), EncodeSpeed: Fast
+[2025.07.09-16.27.47:142][268]LogTexture: Display: Building textures: /Game/Fab/Megascans/Decals/Forest_Floor_Compost_teiowah/Low/T_teiowah_1K_ORM.T_teiowah_1K_ORM (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 115.583323 MB), EncodeSpeed: Fast
+[2025.07.09-16.27.47:220][273]SourceControl: Error: warning: could not open directory 'Slash_Project/Content/Fab/Megascans/Decals/Forest_Floor_Compost_teiowah/': No such file or directory
+[2025.07.09-16.27.47:262][275]SourceControl: Error: warning: could not open directory 'Slash_Project/Content/Fab/Megascans/Decals/Forest_Floor_Compost_teiowah/': No such file or directory
+[2025.07.09-16.27.47:305][276]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Usuario/App..._1k_ue_low_extracted/teiowah_tier_3.gltf]
+[2025.07.09-16.27.48:215][298]SourceControl: Error: warning: could not open directory 'Slash_Project/Content/Fab/Megascans/Decals/Forest_Floor_Compost_teiowah/': No such file or directory
+[2025.07.09-16.27.48:640][316]SourceControl: Error: warning: could not open directory 'Slash_Project/Content/Fab/Megascans/Decals/Forest_Floor_Compost_teiowah/': No such file or directory
+[2025.07.09-16.27.59:088][764]LogShaderCompilers: Display: ================================================
+[2025.07.09-16.27.59:088][764]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.07.09-16.27.59:088][764]LogShaderCompilers: Display: Total job queries 380, among them cache hits 213 (56.05%), DDC hits 158 (41.58%), Duplicates 7 (1.84%)
+[2025.07.09-16.27.59:088][764]LogShaderCompilers: Display: Tracking 160 distinct input hashes that result in 138 distinct outputs (86.25%)
+[2025.07.09-16.27.59:088][764]LogShaderCompilers: Display: RAM used: 115.50 KiB of 819.20 MiB budget. Usage: 0.01%
+[2025.07.09-16.27.59:088][764]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.07.09-16.27.59:088][764]LogShaderCompilers: Display: Shaders Compiled: 2
+[2025.07.09-16.27.59:088][764]LogShaderCompilers: Display: Jobs assigned 2, completed 2 (100%)
+[2025.07.09-16.27.59:088][764]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.05 s
+[2025.07.09-16.27.59:088][764]LogShaderCompilers: Display: Job execution time: average 1.34 s, max 1.44 s
+[2025.07.09-16.27.59:088][764]LogShaderCompilers: Display: Job life time (pending + execution): average 1.38 s, max 1.48
+[2025.07.09-16.27.59:088][764]LogShaderCompilers: Display: Shader code size: average 6.445 KiB, min 5.484 KiB, max 7.406 KiB
+[2025.07.09-16.27.59:088][764]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.48 s
+[2025.07.09-16.27.59:088][764]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.05%
+[2025.07.09-16.27.59:088][764]LogShaderCompilers: Display: Jobs were issued in 2 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.07.09-16.27.59:088][764]LogShaderCompilers: Display: Average processing rate: 1.35 jobs/sec
+[2025.07.09-16.27.59:088][764]LogShaderCompilers: Display: Total thread time: 1.005 s
+[2025.07.09-16.27.59:088][764]LogShaderCompilers: Display: Total thread preprocess time: 7.665 s
+[2025.07.09-16.27.59:088][764]LogShaderCompilers: Display: Percentage time preprocessing: 762.73%
+[2025.07.09-16.27.59:088][764]LogShaderCompilers: Display: Effective parallelization: 0.68 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.07.09-16.27.59:088][764]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.07.09-16.27.59:088][764]LogShaderCompilers: Display:                                                FMeshDecalsPS (compiled    1 times, average 0.57 sec, max 0.57 sec, min 0.57 sec)
+[2025.07.09-16.27.59:088][764]LogShaderCompilers: Display:                                                FMeshDecalsVS (compiled    1 times, average 0.43 sec, max 0.43 sec, min 0.43 sec)
+[2025.07.09-16.27.59:088][764]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.07.09-16.27.59:088][764]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.07.09-16.27.59:088][764]LogShaderCompilers: Display:                        FRayTracingDynamicGeometryConverterCS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.07.09-16.27.59:088][764]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.07.09-16.27.59:088][764]LogShaderCompilers: Display:                                                FMeshDecalsPS - 56.75% of total time (compiled    1 times, average 0.57 sec, max 0.57 sec, min 0.57 sec)
+[2025.07.09-16.27.59:088][764]LogShaderCompilers: Display:                                                FMeshDecalsVS - 43.25% of total time (compiled    1 times, average 0.43 sec, max 0.43 sec, min 0.43 sec)
+[2025.07.09-16.27.59:088][764]LogShaderCompilers: Display:                                                 FLumenCardVS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.07.09-16.27.59:088][764]LogShaderCompilers: Display:                        FRayTracingDynamicGeometryConverterCS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.07.09-16.27.59:088][764]LogShaderCompilers: Display:                    TVoxelizeVolumeVS<VMode_Primitive_Sphere> - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.07.09-16.27.59:088][764]LogShaderCompilers: Display: === Material stats ===
+[2025.07.09-16.27.59:088][764]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.07.09-16.27.59:088][764]LogShaderCompilers: Display: Materials Translated:    238
+[2025.07.09-16.27.59:088][764]LogShaderCompilers: Display: Material Total Translate Time: 0.35 s
+[2025.07.09-16.27.59:088][764]LogShaderCompilers: Display: Material Translation Only: 0.24 s (67%)
+[2025.07.09-16.27.59:088][764]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.07.09-16.27.59:088][764]LogShaderCompilers: Display: Material Cache Hits: 14 (6%)
+[2025.07.09-16.27.59:088][764]LogShaderCompilers: Display: ================================================
+[2025.07.09-16.28.05:182][ 28]LogFab: Display: Asset Type = gltf
+[2025.07.09-16.28.05:182][ 28]LogFab: Display: Is Quixel = 1
+[2025.07.09-16.28.11:518][283]LogStreaming: Display: FlushAsyncLoading(383): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.09-16.28.11:520][283]LogInterchangeEngine: Display: Interchange import: Using stack [OverridePipeline] to import.
+[2025.07.09-16.28.11:520][283]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Usuario/AppData/Local/Temp/FabLibrary/6614ed94-d322-48eb-aa7c-658c2d7db47e/forest_path_ugsnfawlw_1k_ue_low_extracted/ugsnfawlw_tier_3.gltf]
+[2025.07.09-16.28.11:581][285]LogStreaming: Display: FlushAsyncLoading(384): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.09-16.28.11:614][286]LogStreaming: Display: FlushAsyncLoading(387): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.09-16.28.11:689][288]LogTexture: Display: Building textures: /Game/Fab/Megascans/Surfaces/Forest_Path_ugsnfawlw/Low/T_ugsnfawlw_1K_N.T_ugsnfawlw_1K_N (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 169.499988 MB), EncodeSpeed: Fast
+[2025.07.09-16.28.11:690][288]LogTexture: Display: Building textures: /Game/Fab/Megascans/Surfaces/Forest_Path_ugsnfawlw/Low/T_ugsnfawlw_1K_B.T_ugsnfawlw_1K_B (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 115.583323 MB), EncodeSpeed: Fast
+[2025.07.09-16.28.11:690][288]LogTexture: Display: Building textures: /Game/Fab/Megascans/Surfaces/Forest_Path_ugsnfawlw/Low/T_ugsnfawlw_1K_ORM.T_ugsnfawlw_1K_ORM (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 115.583323 MB), EncodeSpeed: Fast
+[2025.07.09-16.28.11:737][289]SourceControl: Error: warning: could not open directory 'Slash_Project/Content/Fab/Megascans/Surfaces/Forest_Path_ugsnfawlw/': No such file or directory
+[2025.07.09-16.28.11:783][290]SourceControl: Error: warning: could not open directory 'Slash_Project/Content/Fab/Megascans/Surfaces/Forest_Path_ugsnfawlw/': No such file or directory
+[2025.07.09-16.28.11:854][291]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Usuario/App..._1k_ue_low_extracted/ugsnfawlw_tier_3.gltf]
+[2025.07.09-16.28.12:795][328]SourceControl: Error: warning: could not open directory 'Slash_Project/Content/Fab/Megascans/Surfaces/Forest_Path_ugsnfawlw/': No such file or directory
+[2025.07.09-16.28.12:958][335]SourceControl: Error: warning: could not open directory 'Slash_Project/Content/Fab/Megascans/Surfaces/Forest_Path_ugsnfawlw/': No such file or directory
+[2025.07.09-16.28.19:403][610]LogFab: Display: Asset Type = gltf
+[2025.07.09-16.28.19:403][610]LogFab: Display: Is Quixel = 1
+[2025.07.09-16.28.23:454][787]LogStreaming: Display: FlushAsyncLoading(389): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.09-16.28.23:455][787]LogInterchangeEngine: Display: Interchange import: Using stack [OverridePipeline] to import.
+[2025.07.09-16.28.23:456][787]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Usuario/AppData/Local/Temp/FabLibrary/31b154e8-dea5-49c8-9b29-6362fe1a4a8d/mossy_forest_floor_vfylbge_1k_ue_low_extracted/vfylbge_tier_3.gltf]
+[2025.07.09-16.28.23:510][789]LogStreaming: Display: FlushAsyncLoading(390): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.09-16.28.23:545][790]LogStreaming: Display: FlushAsyncLoading(394): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.09-16.28.23:627][792]LogTexture: Display: Building textures: /Game/Fab/Megascans/Surfaces/Mossy_Forest_Floor_vfylbge/Low/T_vfylbge_1K_T.T_vfylbge_1K_T (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 115.583323 MB), EncodeSpeed: Fast
+[2025.07.09-16.28.23:627][792]LogTexture: Display: Building textures: /Game/Fab/Megascans/Surfaces/Mossy_Forest_Floor_vfylbge/Low/T_vfylbge_1K_B.T_vfylbge_1K_B (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 115.583323 MB), EncodeSpeed: Fast
+[2025.07.09-16.28.23:627][792]LogTexture: Display: Building textures: /Game/Fab/Megascans/Surfaces/Mossy_Forest_Floor_vfylbge/Low/T_vfylbge_1K_N.T_vfylbge_1K_N (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 169.499988 MB), EncodeSpeed: Fast
+[2025.07.09-16.28.23:627][792]LogTexture: Display: Building textures: /Game/Fab/Megascans/Surfaces/Mossy_Forest_Floor_vfylbge/Low/T_vfylbge_1K_ORM.T_vfylbge_1K_ORM (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 115.583323 MB), EncodeSpeed: Fast
+[2025.07.09-16.28.23:633][792]SourceControl: Error: warning: could not open directory 'Slash_Project/Content/Fab/Megascans/Surfaces/Mossy_Forest_Floor_vfylbge/': No such file or directory
+[2025.07.09-16.28.23:716][794]SourceControl: Error: warning: could not open directory 'Slash_Project/Content/Fab/Megascans/Surfaces/Mossy_Forest_Floor_vfylbge/': No such file or directory
+[2025.07.09-16.28.23:887][796]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Usuario/App..._1k_ue_low_extracted/vfylbge_tier_3.gltf]
+[2025.07.09-16.28.24:720][831]SourceControl: Error: warning: could not open directory 'Slash_Project/Content/Fab/Megascans/Surfaces/Mossy_Forest_Floor_vfylbge/': No such file or directory
+[2025.07.09-16.28.25:003][839]SourceControl: Error: warning: could not open directory 'Slash_Project/Content/Fab/Megascans/Surfaces/Mossy_Forest_Floor_vfylbge/': No such file or directory
+[2025.07.09-16.28.36:879][421]SourceControl: Error: warning: could not open directory 'Slash_Project/Content/Fab/Megascans/Surfaces/Mossy_Forest_Floor_vfylbge/': No such file or directory
+[2025.07.09-16.28.39:449][525]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Fab/Megascans/Surfaces/Mossy_Forest_Floor_vfylbge/Low/MI_vfylbge.MI_vfylbge
+[2025.07.09-16.28.39:459][525]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2025.07.09-16.28.39:459][525]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_2'.
+[2025.07.09-16.28.46:689][798]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.07.09-16.28.48:816][798]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.07.09-16.29.12:723][858]SourceControl: Error: warning: could not open directory 'Slash_Project/Content/Fab/Megascans/Surfaces/Forest_Path_ugsnfawlw/': No such file or directory
+[2025.07.09-16.29.24:463][360]LogFab: Display: Asset Type = gltf
+[2025.07.09-16.29.24:463][360]LogFab: Display: Is Quixel = 1
+[2025.07.09-16.29.24:763][367]LogStreaming: Display: FlushAsyncLoading(396): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.09-16.29.24:765][367]LogInterchangeEngine: Display: Interchange import: Using stack [OverridePipeline] to import.
+[2025.07.09-16.29.24:765][367]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Usuario/AppData/Local/Temp/FabLibrary/31b154e8-dea5-49c8-9b29-6362fe1a4a8d/mossy_forest_floor_vfylbge_1k_ue_low_extracted/vfylbge_tier_3.gltf]
+[2025.07.09-16.29.25:019][371]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Usuario/App..._1k_ue_low_extracted/vfylbge_tier_3.gltf]
+[2025.07.09-16.29.36:189][837]SourceControl: Error: warning: could not open directory 'Slash_Project/Content/Fab/Megascans/Decals/Forest_Floor_Compost_teiowah/': No such file or directory
+[2025.07.09-16.29.37:042][870]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Fab/Megascans/Decals/Forest_Floor_Compost_teiowah/Low/MI_teiowah.MI_teiowah
+[2025.07.09-16.29.37:045][870]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2025.07.09-16.29.37:045][870]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_3'.
+[2025.07.09-16.29.42:109][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2025.07.09-16.29.42:158][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2025.07.09-16.30.23:745][195]MaterialEditorStats: Texture samplers: 0/16
+[2025.07.09-16.30.23:745][195]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.07.09-16.30.23:745][195]MaterialEditorStats: Shader Count: 0
+[2025.07.09-16.30.23:745][195]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.09-16.30.23:842][198]MaterialEditorStats: Base pass shader: 154 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.07.09-16.30.23:842][198]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.07.09-16.30.23:842][198]MaterialEditorStats: Texture samplers: 1/16
+[2025.07.09-16.30.23:842][198]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.07.09-16.30.23:842][198]MaterialEditorStats: Shader Count: 4
+[2025.07.09-16.30.23:842][198]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.09-16.30.28:359][496]MaterialEditorStats: Texture samplers: 0/16
+[2025.07.09-16.30.28:359][496]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.07.09-16.30.28:359][496]MaterialEditorStats: Shader Count: 0
+[2025.07.09-16.30.28:359][496]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.09-16.30.28:434][498]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.07.09-16.30.28:434][498]MaterialEditorStats: Texture samplers: 0/16
+[2025.07.09-16.30.28:434][498]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.07.09-16.30.28:434][498]MaterialEditorStats: Shader Count: 3
+[2025.07.09-16.30.28:434][498]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.09-16.30.28:457][499]MaterialEditorStats: Base pass shader: 154 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.07.09-16.30.28:457][499]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.07.09-16.30.28:457][499]MaterialEditorStats: Texture samplers: 1/16
+[2025.07.09-16.30.28:457][499]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.07.09-16.30.28:457][499]MaterialEditorStats: Shader Count: 4
+[2025.07.09-16.30.28:457][499]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.09-16.30.44:158][159]SourceControl: Error: warning: could not open directory 'Slash_Project/Content/Fab/Megascans/Surfaces/Forest_Path_ugsnfawlw/': No such file or directory
+[2025.07.09-16.30.59:095][863]LogShaderCompilers: Display: ================================================
+[2025.07.09-16.30.59:095][863]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.07.09-16.30.59:095][863]LogShaderCompilers: Display: Total job queries 538, among them cache hits 357 (66.36%), DDC hits 158 (29.37%), Duplicates 7 (1.30%)
+[2025.07.09-16.30.59:095][863]LogShaderCompilers: Display: Tracking 174 distinct input hashes that result in 147 distinct outputs (84.48%)
+[2025.07.09-16.30.59:095][863]LogShaderCompilers: Display: RAM used: 119.00 KiB of 819.20 MiB budget. Usage: 0.01%
+[2025.07.09-16.30.59:095][863]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.07.09-16.30.59:095][863]LogShaderCompilers: Display: Shaders Compiled: 16
+[2025.07.09-16.30.59:095][863]LogShaderCompilers: Display: Jobs assigned 16, completed 16 (100%)
+[2025.07.09-16.30.59:095][863]LogShaderCompilers: Display: Average time worker was idle: 17.79 s
+[2025.07.09-16.30.59:095][863]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.08 s
+[2025.07.09-16.30.59:095][863]LogShaderCompilers: Display: Job execution time: average 1.14 s, max 1.94 s
+[2025.07.09-16.30.59:095][863]LogShaderCompilers: Display: Job life time (pending + execution): average 1.19 s, max 1.98
+[2025.07.09-16.30.59:095][863]LogShaderCompilers: Display: Shader code size: average 8.643 KiB, min 5.484 KiB, max 15.227 KiB
+[2025.07.09-16.30.59:095][863]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 5.64 s
+[2025.07.09-16.30.59:095][863]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.05%
+[2025.07.09-16.30.59:095][863]LogShaderCompilers: Display: Jobs were issued in 16 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.07.09-16.30.59:095][863]LogShaderCompilers: Display: Average processing rate: 2.83 jobs/sec
+[2025.07.09-16.30.59:095][863]LogShaderCompilers: Display: Total thread time: 9.721 s
+[2025.07.09-16.30.59:095][863]LogShaderCompilers: Display: Total thread preprocess time: 10.257 s
+[2025.07.09-16.30.59:095][863]LogShaderCompilers: Display: Percentage time preprocessing: 105.51%
+[2025.07.09-16.30.59:095][863]LogShaderCompilers: Display: Effective parallelization: 1.72 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.07.09-16.30.59:095][863]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.07.09-16.30.59:095][863]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    1 times, average 1.35 sec, max 1.35 sec, min 1.35 sec)
+[2025.07.09-16.30.59:095][863]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    1 times, average 0.96 sec, max 0.96 sec, min 0.96 sec)
+[2025.07.09-16.30.59:095][863]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    1 times, average 0.93 sec, max 0.93 sec, min 0.93 sec)
+[2025.07.09-16.30.59:095][863]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 0.67 sec, max 0.70 sec, min 0.64 sec)
+[2025.07.09-16.30.59:095][863]LogShaderCompilers: Display:                                                FMeshDecalsPS (compiled    1 times, average 0.57 sec, max 0.57 sec, min 0.57 sec)
+[2025.07.09-16.30.59:095][863]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.07.09-16.30.59:095][863]LogShaderCompilers: Display:                                             FDebugViewModePS - 13.90% of total time (compiled    1 times, average 1.35 sec, max 1.35 sec, min 1.35 sec)
+[2025.07.09-16.30.59:095][863]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 13.72% of total time (compiled    2 times, average 0.67 sec, max 0.70 sec, min 0.64 sec)
+[2025.07.09-16.30.59:095][863]LogShaderCompilers: Display:                                                 FLumenCardPS - 10.24% of total time (compiled    2 times, average 0.50 sec, max 0.53 sec, min 0.47 sec)
+[2025.07.09-16.30.59:095][863]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 9.87% of total time (compiled    1 times, average 0.96 sec, max 0.96 sec, min 0.96 sec)
+[2025.07.09-16.30.59:096][863]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 9.57% of total time (compiled    1 times, average 0.93 sec, max 0.93 sec, min 0.93 sec)
+[2025.07.09-16.30.59:096][863]LogShaderCompilers: Display: === Material stats ===
+[2025.07.09-16.30.59:096][863]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.07.09-16.30.59:096][863]LogShaderCompilers: Display: Materials Translated:    310
+[2025.07.09-16.30.59:096][863]LogShaderCompilers: Display: Material Total Translate Time: 0.37 s
+[2025.07.09-16.30.59:096][863]LogShaderCompilers: Display: Material Translation Only: 0.24 s (66%)
+[2025.07.09-16.30.59:096][863]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.07.09-16.30.59:096][863]LogShaderCompilers: Display: Material Cache Hits: 14 (5%)
+[2025.07.09-16.30.59:096][863]LogShaderCompilers: Display: ================================================
+[2025.07.09-16.31.09:979][430]SourceControl: Error: warning: could not open directory 'Slash_Project/Content/Fab/Megascans/Surfaces/Mossy_Forest_Floor_vfylbge/': No such file or directory
+[2025.07.09-16.31.26:055][403]MaterialEditorStats: Texture samplers: 0/16
+[2025.07.09-16.31.26:055][403]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.07.09-16.31.26:055][403]MaterialEditorStats: Shader Count: 0
+[2025.07.09-16.31.26:055][403]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.09-16.31.26:144][406]MaterialEditorStats: Base pass shader: 154 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.07.09-16.31.26:144][406]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.07.09-16.31.26:144][406]MaterialEditorStats: Texture samplers: 1/16
+[2025.07.09-16.31.26:144][406]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.07.09-16.31.26:144][406]MaterialEditorStats: Shader Count: 4
+[2025.07.09-16.31.26:144][406]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.09-16.31.30:437][686]MaterialEditorStats: Texture samplers: 0/16
+[2025.07.09-16.31.30:437][686]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.07.09-16.31.30:437][686]MaterialEditorStats: Shader Count: 0
+[2025.07.09-16.31.30:437][686]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.09-16.31.30:782][689]MaterialEditorStats: Base pass shader: 154 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.07.09-16.31.30:782][689]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.07.09-16.31.30:782][689]MaterialEditorStats: Texture samplers: 1/16
+[2025.07.09-16.31.30:782][689]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.07.09-16.31.30:782][689]MaterialEditorStats: Shader Count: 4
+[2025.07.09-16.31.30:782][689]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.09-16.31.35:530][ 12]MaterialEditorStats: Texture samplers: 0/16
+[2025.07.09-16.31.35:530][ 12]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.07.09-16.31.35:530][ 12]MaterialEditorStats: Shader Count: 0
+[2025.07.09-16.31.35:531][ 12]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.09-16.31.35:854][ 15]MaterialEditorStats: Base pass shader: 154 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.07.09-16.31.35:855][ 15]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.07.09-16.31.35:855][ 15]MaterialEditorStats: Texture samplers: 1/16
+[2025.07.09-16.31.35:855][ 15]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.07.09-16.31.35:855][ 15]MaterialEditorStats: Shader Count: 4
+[2025.07.09-16.31.35:855][ 15]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.09-16.31.40:915][384]MaterialEditorStats: Texture samplers: 0/16
+[2025.07.09-16.31.40:915][384]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.07.09-16.31.40:915][384]MaterialEditorStats: Shader Count: 0
+[2025.07.09-16.31.40:915][384]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.09-16.31.41:244][387]MaterialEditorStats: Base pass shader: 154 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.07.09-16.31.41:244][387]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.07.09-16.31.41:245][387]MaterialEditorStats: Texture samplers: 1/16
+[2025.07.09-16.31.41:245][387]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.07.09-16.31.41:245][387]MaterialEditorStats: Shader Count: 4
+[2025.07.09-16.31.41:245][387]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.07.09-16.31.42:893][455]LogMaterialEditor: Applying material M_Landscape
+[2025.07.09-16.31.43:459][455]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.07.09-16.31.43:638][455]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2025.07.09-16.31.53:405][974]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.07.09-16.31.54:997][974]LogSlate: Window 'Save Content' being destroyed
+[2025.07.09-16.31.55:288][974]SourceControl: Error: warning: could not open directory 'Slash_Project/Content/Fab/Megascans/Decals/Forest_Floor_Compost_teiowah/': No such file or directory
+[2025.07.09-16.31.55:288][974]SourceControl: Error: warning: could not open directory 'Slash_Project/Content/Fab/Megascans/Surfaces/Forest_Path_ugsnfawlw/': No such file or directory
+[2025.07.09-16.31.55:288][974]SourceControl: Error: warning: could not open directory 'Slash_Project/Content/Fab/Megascans/Surfaces/Mossy_Forest_Floor_vfylbge/': No such file or directory
+[2025.07.09-16.31.55:302][974]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.09-16.31.55:349][974]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/Landscape_Materials/M_Landscape] ([1] browsable assets)...
+[2025.07.09-16.31.55:454][974]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/Landscape_Materials/M_Landscape.M_Landscape]
+[2025.07.09-16.31.55:454][974]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/Landscape_Materials/M_Landscape]
+[2025.07.09-16.31.55:526][974]LogSavePackage: Moving output files for package: /Game/Materials/Landscape_Materials/M_Landscape
+[2025.07.09-16.31.55:527][974]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Saved/M_LandscapeE29D9D6B4EB48B300B5DAB9C3C49FC75.tmp' to '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Content/Materials/Landscape_Materials/M_Landscape.uasset'
+[2025.07.09-16.31.55:556][974]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Megascans/Decals/Forest_Floor_Compost_teiowah/Low/MI_teiowah] ([1] browsable assets)...
+[2025.07.09-16.31.55:598][974]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Fab/Megascans/Decals/Forest_Floor_Compost_teiowah/Low/MI_teiowah.MI_teiowah]
+[2025.07.09-16.31.55:598][974]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Megascans/Decals/Forest_Floor_Compost_teiowah/Low/MI_teiowah]
+[2025.07.09-16.31.55:600][974]LogSavePackage: Moving output files for package: /Game/Fab/Megascans/Decals/Forest_Floor_Compost_teiowah/Low/MI_teiowah
+[2025.07.09-16.31.55:600][974]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Saved/MI_teiowahBEA119384A65A52EE2C0D789A7836FDB.tmp' to '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Content/Fab/Megascans/Decals/Forest_Floor_Compost_teiowah/Low/MI_teiowah.uasset'
+[2025.07.09-16.31.55:603][974]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Megascans/Surfaces/Forest_Path_ugsnfawlw/Low/MI_ugsnfawlw] ([1] browsable assets)...
+[2025.07.09-16.31.55:614][974]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Fab/Megascans/Surfaces/Forest_Path_ugsnfawlw/Low/MI_ugsnfawlw.MI_ugsnfawlw]
+[2025.07.09-16.31.55:614][974]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Megascans/Surfaces/Forest_Path_ugsnfawlw/Low/MI_ugsnfawlw]
+[2025.07.09-16.31.55:616][974]LogSavePackage: Moving output files for package: /Game/Fab/Megascans/Surfaces/Forest_Path_ugsnfawlw/Low/MI_ugsnfawlw
+[2025.07.09-16.31.55:616][974]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Saved/MI_ugsnfawlw2AB989384DC8E5E1AD9E9CA3E8B176C3.tmp' to '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Content/Fab/Megascans/Surfaces/Forest_Path_ugsnfawlw/Low/MI_ugsnfawlw.uasset'
+[2025.07.09-16.31.55:618][974]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Megascans/Surfaces/Mossy_Forest_Floor_vfylbge/Low/MI_vfylbge] ([1] browsable assets)...
+[2025.07.09-16.31.55:629][974]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Fab/Megascans/Surfaces/Mossy_Forest_Floor_vfylbge/Low/MI_vfylbge.MI_vfylbge]
+[2025.07.09-16.31.55:629][974]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Megascans/Surfaces/Mossy_Forest_Floor_vfylbge/Low/MI_vfylbge]
+[2025.07.09-16.31.55:631][974]LogSavePackage: Moving output files for package: /Game/Fab/Megascans/Surfaces/Mossy_Forest_Floor_vfylbge/Low/MI_vfylbge
+[2025.07.09-16.31.55:631][974]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Saved/MI_vfylbgeBC43E8CD40C91143431CCBA1B23CFC03.tmp' to '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Content/Fab/Megascans/Surfaces/Mossy_Forest_Floor_vfylbge/Low/MI_vfylbge.uasset'
+[2025.07.09-16.31.55:634][974]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Megascans/Decals/Forest_Floor_Compost_teiowah/Low/T_teiowah_1K_B-O] ([1] browsable assets)...
+[2025.07.09-16.31.55:639][974]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Megascans/Decals/Forest_Floor_Compost_teiowah/Low/T_teiowah_1K_B-O.T_teiowah_1K_B-O]
+[2025.07.09-16.31.55:639][974]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Megascans/Decals/Forest_Floor_Compost_teiowah/Low/T_teiowah_1K_B-O]
+[2025.07.09-16.31.55:672][974]LogSavePackage: Moving output files for package: /Game/Fab/Megascans/Decals/Forest_Floor_Compost_teiowah/Low/T_teiowah_1K_B-O
+[2025.07.09-16.31.55:673][974]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Saved/T_teiowah_1K_B-OEDAD8B1C44DEBA84511686B51D7E5DAA.tmp' to '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Content/Fab/Megascans/Decals/Forest_Floor_Compost_teiowah/Low/T_teiowah_1K_B-O.uasset'
+[2025.07.09-16.31.55:674][974]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Megascans/Decals/Forest_Floor_Compost_teiowah/Low/T_teiowah_1K_N] ([1] browsable assets)...
+[2025.07.09-16.31.55:676][974]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Megascans/Decals/Forest_Floor_Compost_teiowah/Low/T_teiowah_1K_N.T_teiowah_1K_N]
+[2025.07.09-16.31.55:676][974]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Megascans/Decals/Forest_Floor_Compost_teiowah/Low/T_teiowah_1K_N]
+[2025.07.09-16.31.55:696][974]LogSavePackage: Moving output files for package: /Game/Fab/Megascans/Decals/Forest_Floor_Compost_teiowah/Low/T_teiowah_1K_N
+[2025.07.09-16.31.55:696][974]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Saved/T_teiowah_1K_N1D59CE654300A5D28A8267BD635B5E0F.tmp' to '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Content/Fab/Megascans/Decals/Forest_Floor_Compost_teiowah/Low/T_teiowah_1K_N.uasset'
+[2025.07.09-16.31.55:697][974]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Megascans/Decals/Forest_Floor_Compost_teiowah/Low/T_teiowah_1K_ORM] ([1] browsable assets)...
+[2025.07.09-16.31.55:700][974]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Megascans/Decals/Forest_Floor_Compost_teiowah/Low/T_teiowah_1K_ORM.T_teiowah_1K_ORM]
+[2025.07.09-16.31.55:700][974]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Megascans/Decals/Forest_Floor_Compost_teiowah/Low/T_teiowah_1K_ORM]
+[2025.07.09-16.31.55:718][974]LogSavePackage: Moving output files for package: /Game/Fab/Megascans/Decals/Forest_Floor_Compost_teiowah/Low/T_teiowah_1K_ORM
+[2025.07.09-16.31.55:718][974]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Saved/T_teiowah_1K_ORM06C947D84E1FC9186C47B49EEB63E44C.tmp' to '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Content/Fab/Megascans/Decals/Forest_Floor_Compost_teiowah/Low/T_teiowah_1K_ORM.uasset'
+[2025.07.09-16.31.55:719][974]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Megascans/Surfaces/Forest_Path_ugsnfawlw/Low/T_ugsnfawlw_1K_B] ([1] browsable assets)...
+[2025.07.09-16.31.55:721][974]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Megascans/Surfaces/Forest_Path_ugsnfawlw/Low/T_ugsnfawlw_1K_B.T_ugsnfawlw_1K_B]
+[2025.07.09-16.31.55:721][974]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Megascans/Surfaces/Forest_Path_ugsnfawlw/Low/T_ugsnfawlw_1K_B]
+[2025.07.09-16.31.55:743][974]LogSavePackage: Moving output files for package: /Game/Fab/Megascans/Surfaces/Forest_Path_ugsnfawlw/Low/T_ugsnfawlw_1K_B
+[2025.07.09-16.31.55:743][974]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Saved/T_ugsnfawlw_1K_BF63E86974B47EF1B277AEF8E7B0A1862.tmp' to '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Content/Fab/Megascans/Surfaces/Forest_Path_ugsnfawlw/Low/T_ugsnfawlw_1K_B.uasset'
+[2025.07.09-16.31.55:745][974]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Megascans/Surfaces/Forest_Path_ugsnfawlw/Low/T_ugsnfawlw_1K_N] ([1] browsable assets)...
+[2025.07.09-16.31.55:747][974]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Megascans/Surfaces/Forest_Path_ugsnfawlw/Low/T_ugsnfawlw_1K_N.T_ugsnfawlw_1K_N]
+[2025.07.09-16.31.55:747][974]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Megascans/Surfaces/Forest_Path_ugsnfawlw/Low/T_ugsnfawlw_1K_N]
+[2025.07.09-16.31.55:768][974]LogSavePackage: Moving output files for package: /Game/Fab/Megascans/Surfaces/Forest_Path_ugsnfawlw/Low/T_ugsnfawlw_1K_N
+[2025.07.09-16.31.55:768][974]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Saved/T_ugsnfawlw_1K_NBAE69A9B42B5307D9343FDA4453BB10E.tmp' to '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Content/Fab/Megascans/Surfaces/Forest_Path_ugsnfawlw/Low/T_ugsnfawlw_1K_N.uasset'
+[2025.07.09-16.31.55:771][974]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Megascans/Surfaces/Forest_Path_ugsnfawlw/Low/T_ugsnfawlw_1K_ORM] ([1] browsable assets)...
+[2025.07.09-16.31.55:772][974]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Megascans/Surfaces/Forest_Path_ugsnfawlw/Low/T_ugsnfawlw_1K_ORM.T_ugsnfawlw_1K_ORM]
+[2025.07.09-16.31.55:772][974]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Megascans/Surfaces/Forest_Path_ugsnfawlw/Low/T_ugsnfawlw_1K_ORM]
+[2025.07.09-16.31.55:795][974]LogSavePackage: Moving output files for package: /Game/Fab/Megascans/Surfaces/Forest_Path_ugsnfawlw/Low/T_ugsnfawlw_1K_ORM
+[2025.07.09-16.31.55:795][974]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Saved/T_ugsnfawlw_1K_ORMF9EA25E14996740ABA8899BCB2385B7D.tmp' to '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Content/Fab/Megascans/Surfaces/Forest_Path_ugsnfawlw/Low/T_ugsnfawlw_1K_ORM.uasset'
+[2025.07.09-16.31.55:796][974]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Megascans/Surfaces/Mossy_Forest_Floor_vfylbge/Low/T_vfylbge_1K_B] ([1] browsable assets)...
+[2025.07.09-16.31.55:798][974]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Megascans/Surfaces/Mossy_Forest_Floor_vfylbge/Low/T_vfylbge_1K_B.T_vfylbge_1K_B]
+[2025.07.09-16.31.55:798][974]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Megascans/Surfaces/Mossy_Forest_Floor_vfylbge/Low/T_vfylbge_1K_B]
+[2025.07.09-16.31.55:821][974]LogSavePackage: Moving output files for package: /Game/Fab/Megascans/Surfaces/Mossy_Forest_Floor_vfylbge/Low/T_vfylbge_1K_B
+[2025.07.09-16.31.55:821][974]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Saved/T_vfylbge_1K_B73A84CA348D64481D983178A7292F9BA.tmp' to '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Content/Fab/Megascans/Surfaces/Mossy_Forest_Floor_vfylbge/Low/T_vfylbge_1K_B.uasset'
+[2025.07.09-16.31.55:822][974]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Megascans/Surfaces/Mossy_Forest_Floor_vfylbge/Low/T_vfylbge_1K_N] ([1] browsable assets)...
+[2025.07.09-16.31.55:824][974]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Megascans/Surfaces/Mossy_Forest_Floor_vfylbge/Low/T_vfylbge_1K_N.T_vfylbge_1K_N]
+[2025.07.09-16.31.55:824][974]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Megascans/Surfaces/Mossy_Forest_Floor_vfylbge/Low/T_vfylbge_1K_N]
+[2025.07.09-16.31.55:843][974]LogSavePackage: Moving output files for package: /Game/Fab/Megascans/Surfaces/Mossy_Forest_Floor_vfylbge/Low/T_vfylbge_1K_N
+[2025.07.09-16.31.55:843][974]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Saved/T_vfylbge_1K_N5182CF7A44B1B5C10D71D3BA847F0232.tmp' to '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Content/Fab/Megascans/Surfaces/Mossy_Forest_Floor_vfylbge/Low/T_vfylbge_1K_N.uasset'
+[2025.07.09-16.31.55:845][974]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Megascans/Surfaces/Mossy_Forest_Floor_vfylbge/Low/T_vfylbge_1K_ORM] ([1] browsable assets)...
+[2025.07.09-16.31.55:847][974]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Megascans/Surfaces/Mossy_Forest_Floor_vfylbge/Low/T_vfylbge_1K_ORM.T_vfylbge_1K_ORM]
+[2025.07.09-16.31.55:847][974]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Megascans/Surfaces/Mossy_Forest_Floor_vfylbge/Low/T_vfylbge_1K_ORM]
+[2025.07.09-16.31.55:869][974]LogSavePackage: Moving output files for package: /Game/Fab/Megascans/Surfaces/Mossy_Forest_Floor_vfylbge/Low/T_vfylbge_1K_ORM
+[2025.07.09-16.31.55:869][974]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Saved/T_vfylbge_1K_ORM2D6CD082432703A2240D80BF7C51FE23.tmp' to '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Content/Fab/Megascans/Surfaces/Mossy_Forest_Floor_vfylbge/Low/T_vfylbge_1K_ORM.uasset'
+[2025.07.09-16.31.55:871][974]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Megascans/Surfaces/Mossy_Forest_Floor_vfylbge/Low/T_vfylbge_1K_T] ([1] browsable assets)...
+[2025.07.09-16.31.55:873][974]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Megascans/Surfaces/Mossy_Forest_Floor_vfylbge/Low/T_vfylbge_1K_T.T_vfylbge_1K_T]
+[2025.07.09-16.31.55:873][974]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Megascans/Surfaces/Mossy_Forest_Floor_vfylbge/Low/T_vfylbge_1K_T]
+[2025.07.09-16.31.55:891][974]LogSavePackage: Moving output files for package: /Game/Fab/Megascans/Surfaces/Mossy_Forest_Floor_vfylbge/Low/T_vfylbge_1K_T
+[2025.07.09-16.31.55:892][974]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Saved/T_vfylbge_1K_T435B783A4D69E28FA29A638591D69A34.tmp' to '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Content/Fab/Megascans/Surfaces/Mossy_Forest_Floor_vfylbge/Low/T_vfylbge_1K_T.uasset'
+[2025.07.09-16.31.57:080][974]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.77 sec
+[2025.07.09-16.31.57:122][974]LogContentValidation: Display: Starting to validate 14 assets
+[2025.07.09-16.31.57:122][974]LogContentValidation: Enabled validators:
+[2025.07.09-16.31.57:123][974]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.09-16.31.57:123][974]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.09-16.31.57:123][974]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.09-16.31.57:123][974]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.09-16.31.57:123][974]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.09-16.31.57:123][974]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.09-16.31.57:127][974]AssetCheck: /Game/Materials/Landscape_Materials/M_Landscape Validating asset
+[2025.07.09-16.31.57:127][974]AssetCheck: /Game/Fab/Megascans/Decals/Forest_Floor_Compost_teiowah/Low/MI_teiowah Validating asset
+[2025.07.09-16.31.57:127][974]AssetCheck: /Game/Fab/Megascans/Surfaces/Forest_Path_ugsnfawlw/Low/MI_ugsnfawlw Validating asset
+[2025.07.09-16.31.57:127][974]AssetCheck: /Game/Fab/Megascans/Surfaces/Mossy_Forest_Floor_vfylbge/Low/MI_vfylbge Validating asset
+[2025.07.09-16.31.57:127][974]AssetCheck: /Game/Fab/Megascans/Decals/Forest_Floor_Compost_teiowah/Low/T_teiowah_1K_B-O Validating asset
+[2025.07.09-16.31.57:127][974]AssetCheck: /Game/Fab/Megascans/Decals/Forest_Floor_Compost_teiowah/Low/T_teiowah_1K_N Validating asset
+[2025.07.09-16.31.57:127][974]AssetCheck: /Game/Fab/Megascans/Decals/Forest_Floor_Compost_teiowah/Low/T_teiowah_1K_ORM Validating asset
+[2025.07.09-16.31.57:128][974]AssetCheck: /Game/Fab/Megascans/Surfaces/Forest_Path_ugsnfawlw/Low/T_ugsnfawlw_1K_B Validating asset
+[2025.07.09-16.31.57:128][974]AssetCheck: /Game/Fab/Megascans/Surfaces/Forest_Path_ugsnfawlw/Low/T_ugsnfawlw_1K_N Validating asset
+[2025.07.09-16.31.57:128][974]AssetCheck: /Game/Fab/Megascans/Surfaces/Forest_Path_ugsnfawlw/Low/T_ugsnfawlw_1K_ORM Validating asset
+[2025.07.09-16.31.57:128][974]AssetCheck: /Game/Fab/Megascans/Surfaces/Mossy_Forest_Floor_vfylbge/Low/T_vfylbge_1K_B Validating asset
+[2025.07.09-16.31.57:128][974]AssetCheck: /Game/Fab/Megascans/Surfaces/Mossy_Forest_Floor_vfylbge/Low/T_vfylbge_1K_N Validating asset
+[2025.07.09-16.31.57:128][974]AssetCheck: /Game/Fab/Megascans/Surfaces/Mossy_Forest_Floor_vfylbge/Low/T_vfylbge_1K_ORM Validating asset
+[2025.07.09-16.31.57:128][974]AssetCheck: /Game/Fab/Megascans/Surfaces/Mossy_Forest_Floor_vfylbge/Low/T_vfylbge_1K_T Validating asset
+[2025.07.09-16.32.29:869][842]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.32.29:869][842]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Developer/Concert/ConcertSync/ConcertSyncClient/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Developer/Concert/ConcertSync/ConcertSyncClient/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.32.29:869][842]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/ObjectMixer/ObjectMixer/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/ObjectMixer/ObjectMixer/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.32.29:869][842]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/ObjectMixer/LightMixer/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/ObjectMixer/LightMixer/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.32.29:870][842]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/Animation/SkeletalMeshModelingTools/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/Animation/SkeletalMeshModelingTools/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.32.29:870][842]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/CharacterFXEditor/BaseCharacterFXEditor/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/CharacterFXEditor/BaseCharacterFXEditor/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.32.29:870][842]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/MetaHuman/MetaHumanSDK/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/MetaHuman/MetaHumanSDK/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.32.29:870][842]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Media/MediaPlate/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Media/MediaPlate/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.32.29:870][842]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Media/MediaCompositing/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.32.29:870][842]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Cameras/GameplayCameras/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Cameras/GameplayCameras/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.32.29:870][842]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/RigLogic/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/RigLogic/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.32.29:870][842]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/DeformerGraph/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/DeformerGraph/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.32.29:870][842]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/ControlRigSpline/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/ControlRigSpline/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.32.29:870][842]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/IKRig/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/IKRig/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.32.29:870][842]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/ControlRig/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/ControlRig/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.32.29:870][842]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/ControlRigModules/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/ControlRigModules/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.32.29:870][842]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/ACLPlugin/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/ACLPlugin/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.32.29:870][842]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/2D/Paper2D/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.32.29:870][842]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/MovieScene/SequencerScripting/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/MovieScene/SequencerScripting/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.32.29:870][842]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/VirtualProduction/Takes/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.32.29:870][842]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/WaveTable/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/WaveTable/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.32.29:870][842]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/Synthesis/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.32.29:870][842]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/USDCore/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/USDCore/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.32.29:870][842]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/StateTree/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/StateTree/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.32.29:870][842]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/RigVM/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/RigVM/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.32.29:870][842]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/ResonanceAudio/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/ResonanceAudio/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.32.29:870][842]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/Metasound/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/Metasound/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.32.29:870][842]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/MeshModelingToolset/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/MeshModelingToolset/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.32.29:870][842]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/HairStrands/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/HairStrands/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.32.29:870][842]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/GeometryProcessing/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/GeometryProcessing/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.32.29:870][842]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/AudioWidgets/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/AudioWidgets/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.32.29:870][842]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.32.29:870][842]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Interchange/Runtime/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Interchange/Runtime/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.32.29:870][842]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Interchange/Assets/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Interchange/Assets/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.32.29:870][842]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/NNE/NNEDenoiser/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/NNE/NNEDenoiser/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.32.29:870][842]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/FX/NiagaraSimCaching/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/FX/NiagaraSimCaching/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.32.29:870][842]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/FX/Niagara/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.32.29:870][842]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Enterprise/GLTFExporter/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Enterprise/GLTFExporter/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.32.29:870][842]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.32.29:870][842]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/UMGWidgetPreview/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/UMGWidgetPreview/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.32.29:870][842]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/UVEditor/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/UVEditor/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.32.29:870][842]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.32.29:870][842]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/MeshLODToolset/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/MeshLODToolset/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.32.29:870][842]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/ModelingToolsEditorMode/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/ModelingToolsEditorMode/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.32.29:870][842]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/GeometryMode/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.32.29:870][842]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/BlueprintHeaderView/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/BlueprintHeaderView/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.32.29:870][842]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/ToolPresets/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/ToolPresets/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.32.29:870][842]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.32.29:870][842]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/MeshModelingToolsetExp/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/MeshModelingToolsetExp/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.32.29:870][842]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/GeometryFlow/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/GeometryFlow/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.32.29:870][842]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.32.29:870][842]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/FullBodyIK/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/FullBodyIK/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.32.29:870][842]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/Dataflow/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/Dataflow/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.32.29:870][842]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/EditorDataStorage/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/EditorDataStorage/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.32.29:870][842]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.32.29:870][842]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.32.29:870][842]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/ChaosCaching/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/ChaosCaching/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.32.29:870][842]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.32.29:870][842]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/TraceUtilities/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/TraceUtilities/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.32.29:870][842]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Fab/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Fab/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.32.29:870][842]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/ChaosVD/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/ChaosVD/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.32.29:870][842]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Bridge/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Bridge/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.32.54:023][842]LogSlate: Window 'Submit Files' being destroyed
+[2025.07.09-16.32.54:473][842]LogSourceControl: commit successful: [main 3d57b6e] mossy forest
+[2025.07.09-16.32.54:534][842]SourceControl: [main 3d57b6e] mossy forest
+[2025.07.09-16.32.54:534][842]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2025.07.09-16.32.54:549][842]SourceControl: Commited [main 3d57b6e] mossy forest.
+[2025.07.09-16.32.54:679][846]LogRHI: Error: GpuProfiler's scratch buffer is out of space for this frame (current size : 32 kB). Dropping this frame. The size can be increased dynamically with the console variable r.GpuProfilerMaxEventBufferSizeKB
+[2025.07.09-16.33.00:680][102]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1033.675049
+[2025.07.09-16.33.01:685][105]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.09-16.33.01:685][105]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1034.345459, Update Interval: 314.885101
+[2025.07.09-16.33.03:677][111]LogSlate: Window 'Content Browser' being destroyed
+[2025.07.09-16.33.03:682][111]LogSlate: Window 'Content Browser' being destroyed
+[2025.07.09-16.33.27:137][490]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.33.27:137][490]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Developer/Concert/ConcertSync/ConcertSyncClient/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Developer/Concert/ConcertSync/ConcertSyncClient/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.33.27:137][490]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/ObjectMixer/ObjectMixer/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/ObjectMixer/ObjectMixer/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.33.27:137][490]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/ObjectMixer/LightMixer/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/ObjectMixer/LightMixer/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.33.27:137][490]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/Animation/SkeletalMeshModelingTools/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/Animation/SkeletalMeshModelingTools/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.33.27:137][490]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/CharacterFXEditor/BaseCharacterFXEditor/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/CharacterFXEditor/BaseCharacterFXEditor/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.33.27:137][490]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/MetaHuman/MetaHumanSDK/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/MetaHuman/MetaHumanSDK/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.33.27:137][490]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Media/MediaPlate/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Media/MediaPlate/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.33.27:137][490]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Media/MediaCompositing/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.33.27:137][490]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Cameras/GameplayCameras/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Cameras/GameplayCameras/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.33.27:137][490]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/RigLogic/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/RigLogic/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.33.27:137][490]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/DeformerGraph/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/DeformerGraph/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.33.27:137][490]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/ControlRigSpline/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/ControlRigSpline/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.33.27:137][490]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/IKRig/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/IKRig/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.33.27:137][490]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/ControlRig/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/ControlRig/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.33.27:137][490]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/ControlRigModules/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/ControlRigModules/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.33.27:137][490]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/ACLPlugin/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/ACLPlugin/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.33.27:137][490]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/2D/Paper2D/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.33.27:137][490]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/MovieScene/SequencerScripting/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/MovieScene/SequencerScripting/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.33.27:137][490]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/VirtualProduction/Takes/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.33.27:137][490]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/WaveTable/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/WaveTable/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.33.27:137][490]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/Synthesis/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.33.27:137][490]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/USDCore/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/USDCore/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.33.27:137][490]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/StateTree/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/StateTree/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.33.27:138][490]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/RigVM/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/RigVM/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.33.27:138][490]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/ResonanceAudio/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/ResonanceAudio/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.33.27:138][490]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/Metasound/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/Metasound/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.33.27:138][490]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/MeshModelingToolset/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/MeshModelingToolset/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.33.27:138][490]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/HairStrands/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/HairStrands/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.33.27:138][490]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/GeometryProcessing/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/GeometryProcessing/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.33.27:138][490]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/AudioWidgets/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/AudioWidgets/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.33.27:138][490]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.33.27:138][490]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Interchange/Runtime/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Interchange/Runtime/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.33.27:138][490]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Interchange/Assets/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Interchange/Assets/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.33.27:138][490]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/NNE/NNEDenoiser/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/NNE/NNEDenoiser/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.33.27:138][490]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/FX/NiagaraSimCaching/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/FX/NiagaraSimCaching/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.33.27:138][490]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/FX/Niagara/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.33.27:138][490]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Enterprise/GLTFExporter/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Enterprise/GLTFExporter/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.33.27:138][490]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.33.27:138][490]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/UMGWidgetPreview/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/UMGWidgetPreview/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.33.27:138][490]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/UVEditor/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/UVEditor/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.33.27:138][490]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.33.27:138][490]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/MeshLODToolset/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/MeshLODToolset/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.33.27:138][490]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/ModelingToolsEditorMode/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/ModelingToolsEditorMode/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.33.27:138][490]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/GeometryMode/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.33.27:138][490]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/BlueprintHeaderView/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Editor/BlueprintHeaderView/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.33.27:138][490]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/ToolPresets/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/ToolPresets/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.33.27:138][490]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.33.27:138][490]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/MeshModelingToolsetExp/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/MeshModelingToolsetExp/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.33.27:138][490]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/GeometryFlow/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/GeometryFlow/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.33.27:138][490]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.33.27:138][490]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/FullBodyIK/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/FullBodyIK/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.33.27:138][490]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/Dataflow/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/Dataflow/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.33.27:138][490]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/EditorDataStorage/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/EditorDataStorage/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.33.27:138][490]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.33.27:138][490]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.33.27:138][490]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/ChaosCaching/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Experimental/ChaosCaching/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.33.27:138][490]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.33.27:138][490]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/TraceUtilities/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/TraceUtilities/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.33.27:138][490]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Fab/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Fab/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.33.27:138][490]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/ChaosVD/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/ChaosVD/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.33.27:138][490]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Bridge/Content: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Bridge/Content' is outside repository at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project'
+[2025.07.09-16.33.32:748][490]LogSlate: Window 'Submit Files' being destroyed
+[2025.07.09-16.33.33:577][490]LogSourceControl: commit successful: [main 6842399] forest 2
+[2025.07.09-16.33.33:741][490]SourceControl: [main 6842399] forest 2
+[2025.07.09-16.33.33:741][490]SourceControl:  13 files changed, 0 insertions(+), 0 deletions(-)
+[2025.07.09-16.33.33:741][490]SourceControl:  create mode 100644 Slash_Project/Content/Fab/Megascans/Decals/Forest_Floor_Compost_teiowah/Low/MI_teiowah.uasset
+[2025.07.09-16.33.33:741][490]SourceControl:  create mode 100644 Slash_Project/Content/Fab/Megascans/Decals/Forest_Floor_Compost_teiowah/Low/T_teiowah_1K_B-O.uasset
+[2025.07.09-16.33.33:741][490]SourceControl:  create mode 100644 Slash_Project/Content/Fab/Megascans/Decals/Forest_Floor_Compost_teiowah/Low/T_teiowah_1K_N.uasset
+[2025.07.09-16.33.33:741][490]SourceControl:  create mode 100644 Slash_Project/Content/Fab/Megascans/Decals/Forest_Floor_Compost_teiowah/Low/T_teiowah_1K_ORM.uasset
+[2025.07.09-16.33.33:741][490]SourceControl:  create mode 100644 Slash_Project/Content/Fab/Megascans/Surfaces/Forest_Path_ugsnfawlw/Low/MI_ugsnfawlw.uasset
+[2025.07.09-16.33.33:741][490]SourceControl:  create mode 100644 Slash_Project/Content/Fab/Megascans/Surfaces/Forest_Path_ugsnfawlw/Low/T_ugsnfawlw_1K_B.uasset
+[2025.07.09-16.33.33:741][490]SourceControl:  create mode 100644 Slash_Project/Content/Fab/Megascans/Surfaces/Forest_Path_ugsnfawlw/Low/T_ugsnfawlw_1K_N.uasset
+[2025.07.09-16.33.33:741][490]SourceControl:  create mode 100644 Slash_Project/Content/Fab/Megascans/Surfaces/Forest_Path_ugsnfawlw/Low/T_ugsnfawlw_1K_ORM.uasset
+[2025.07.09-16.33.33:741][490]SourceControl:  create mode 100644 Slash_Project/Content/Fab/Megascans/Surfaces/Mossy_Forest_Floor_vfylbge/Low/MI_vfylbge.uasset
+[2025.07.09-16.33.33:741][490]SourceControl:  create mode 100644 Slash_Project/Content/Fab/Megascans/Surfaces/Mossy_Forest_Floor_vfylbge/Low/T_vfylbge_1K_B.uasset
+[2025.07.09-16.33.33:741][490]SourceControl:  create mode 100644 Slash_Project/Content/Fab/Megascans/Surfaces/Mossy_Forest_Floor_vfylbge/Low/T_vfylbge_1K_N.uasset
+[2025.07.09-16.33.33:741][490]SourceControl:  create mode 100644 Slash_Project/Content/Fab/Megascans/Surfaces/Mossy_Forest_Floor_vfylbge/Low/T_vfylbge_1K_ORM.uasset
+[2025.07.09-16.33.33:741][490]SourceControl:  create mode 100644 Slash_Project/Content/Fab/Megascans/Surfaces/Mossy_Forest_Floor_vfylbge/Low/T_vfylbge_1K_T.uasset
+[2025.07.09-16.33.33:756][490]SourceControl: Commited [main 6842399] forest 2.
+[2025.07.09-16.34.41:544][260]LogStreaming: Display: FlushAsyncLoading(397): 1 QueuedPackages, 0 AsyncPackages
+[2025.07.09-16.34.45:720][264]LogRHI: Error: GpuProfiler's scratch buffer is out of space for this frame (current size : 32 kB). Dropping this frame. The size can be increased dynamically with the console variable r.GpuProfilerMaxEventBufferSizeKB
+[2025.07.09-16.35.07:514][748]LogRHI: Error: GpuProfiler's scratch buffer is out of space for this frame (current size : 32 kB). Dropping this frame. The size can be increased dynamically with the console variable r.GpuProfilerMaxEventBufferSizeKB
+[2025.07.09-16.35.46:798][987]LogSlate: Window 'Create New Landscape Layer Info Object' being destroyed
+[2025.07.09-16.35.58:188][350]LogSlate: Window 'Create New Landscape Layer Info Object' being destroyed
+[2025.07.09-16.36.07:723][656]LogSlate: Window 'Create New Landscape Layer Info Object' being destroyed
+[2025.07.09-16.36.43:510][750]LogRHI: Error: GpuProfiler's scratch buffer is out of space for this frame (current size : 32 kB). Dropping this frame. The size can be increased dynamically with the console variable r.GpuProfilerMaxEventBufferSizeKB
+[2025.07.09-16.38.27:317][155]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1360.311523
+[2025.07.09-16.38.27:542][165]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.09-16.38.27:542][165]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1360.513672, Update Interval: 351.470703
+[2025.07.09-16.39.59:171][826]LogShaderCompilers: Display: ================================================
+[2025.07.09-16.39.59:171][826]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.07.09-16.39.59:171][826]LogShaderCompilers: Display: Total job queries 1,187, among them cache hits 605 (50.97%), DDC hits 484 (40.78%), Duplicates 70 (5.90%)
+[2025.07.09-16.39.59:171][826]LogShaderCompilers: Display: Tracking 512 distinct input hashes that result in 309 distinct outputs (60.35%)
+[2025.07.09-16.39.59:171][826]LogShaderCompilers: Display: RAM used: 185.91 KiB of 819.20 MiB budget. Usage: 0.02%
+[2025.07.09-16.39.59:171][826]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.07.09-16.39.59:171][826]LogShaderCompilers: Display: Shaders Compiled: 28
+[2025.07.09-16.39.59:171][826]LogShaderCompilers: Display: Jobs assigned 28, completed 28 (100%)
+[2025.07.09-16.39.59:171][826]LogShaderCompilers: Display: Average time worker was idle: 125.88 s
+[2025.07.09-16.39.59:171][826]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.11 s
+[2025.07.09-16.39.59:171][826]LogShaderCompilers: Display: Job execution time: average 1.26 s, max 1.94 s
+[2025.07.09-16.39.59:171][826]LogShaderCompilers: Display: Job life time (pending + execution): average 1.32 s, max 1.98
+[2025.07.09-16.39.59:171][826]LogShaderCompilers: Display: Shader code size: average 8.816 KiB, min 5.484 KiB, max 15.227 KiB
+[2025.07.09-16.39.59:171][826]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 10.55 s
+[2025.07.09-16.39.59:171][826]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.02%
+[2025.07.09-16.39.59:171][826]LogShaderCompilers: Display: Jobs were issued in 28 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.07.09-16.39.59:171][826]LogShaderCompilers: Display: Average processing rate: 2.65 jobs/sec
+[2025.07.09-16.39.59:171][826]LogShaderCompilers: Display: Total thread time: 15.787 s
+[2025.07.09-16.39.59:171][826]LogShaderCompilers: Display: Total thread preprocess time: 20.303 s
+[2025.07.09-16.39.59:171][826]LogShaderCompilers: Display: Percentage time preprocessing: 128.61%
+[2025.07.09-16.39.59:171][826]LogShaderCompilers: Display: Effective parallelization: 1.50 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.07.09-16.39.59:171][826]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.07.09-16.39.59:171][826]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    1 times, average 1.35 sec, max 1.35 sec, min 1.35 sec)
+[2025.07.09-16.39.59:171][826]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    1 times, average 0.96 sec, max 0.96 sec, min 0.96 sec)
+[2025.07.09-16.39.59:171][826]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    1 times, average 0.93 sec, max 0.93 sec, min 0.93 sec)
+[2025.07.09-16.39.59:171][826]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 0.67 sec, max 0.70 sec, min 0.64 sec)
+[2025.07.09-16.39.59:171][826]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    4 times, average 0.65 sec, max 0.69 sec, min 0.56 sec)
+[2025.07.09-16.39.59:171][826]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.07.09-16.39.59:171][826]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 16.54% of total time (compiled    4 times, average 0.65 sec, max 0.69 sec, min 0.56 sec)
+[2025.07.09-16.39.59:171][826]LogShaderCompilers: Display:                                                 FLumenCardPS - 15.78% of total time (compiled    5 times, average 0.50 sec, max 0.53 sec, min 0.47 sec)
+[2025.07.09-16.39.59:171][826]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 14.07% of total time (compiled    5 times, average 0.44 sec, max 0.49 sec, min 0.42 sec)
+[2025.07.09-16.39.59:171][826]LogShaderCompilers: Display:                                                 FLumenCardVS - 13.42% of total time (compiled    5 times, average 0.42 sec, max 0.49 sec, min 0.35 sec)
+[2025.07.09-16.39.59:171][826]LogShaderCompilers: Display:                                             FDebugViewModePS - 8.56% of total time (compiled    1 times, average 1.35 sec, max 1.35 sec, min 1.35 sec)
+[2025.07.09-16.39.59:171][826]LogShaderCompilers: Display: === Material stats ===
+[2025.07.09-16.39.59:171][826]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.07.09-16.39.59:171][826]LogShaderCompilers: Display: Materials Translated:    431
+[2025.07.09-16.39.59:171][826]LogShaderCompilers: Display: Material Total Translate Time: 0.51 s
+[2025.07.09-16.39.59:171][826]LogShaderCompilers: Display: Material Translation Only: 0.30 s (60%)
+[2025.07.09-16.39.59:171][826]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.07.09-16.39.59:172][826]LogShaderCompilers: Display: Material Cache Hits: 14 (3%)
+[2025.07.09-16.39.59:172][826]LogShaderCompilers: Display: ================================================
+[2025.07.09-16.44.47:973][757]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1740.968018
+[2025.07.09-16.44.48:973][760]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.09-16.44.48:973][760]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1741.635498, Update Interval: 351.012909
+[2025.07.09-16.45.51:330][947]LogHttp: Warning: 00000475DBFE7000: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.07.09-16.45.51:330][947]LogHttp: Warning: 00000475DBFE7000: libcurl info message cache 0 (Found bundle for host: 0x4751a040930 [serially])
+[2025.07.09-16.45.51:330][947]LogHttp: Warning: 00000475DBFE7000: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2025.07.09-16.45.51:330][947]LogHttp: Warning: 00000475DBFE7000: libcurl info message cache 2 (We are completely uploaded and fine)
+[2025.07.09-16.45.51:330][947]LogHttp: Warning: 00000475DBFE7000: libcurl info message cache 3 (Recv failure: Connection was reset)
+[2025.07.09-16.45.51:330][947]LogHttp: Warning: 00000475DBFE7000: libcurl info message cache 4 (OpenSSL SSL_read: Connection was reset, errno 10054)
+[2025.07.09-16.45.51:330][947]LogHttp: Warning: 00000475DBFE7000: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2025.07.09-16.45.51:330][947]LogHttp: Warning: 00000475DBFE7000: libcurl info message cache 6 (state.rewindbeforesend = TRUE)
+[2025.07.09-16.45.51:330][947]LogHttp: Warning: 00000475DBFE7000: libcurl info message cache 7 (Closing connection)
+[2025.07.09-16.45.51:330][947]LogHttp: Warning: 00000475DBFE7000: libcurl info message cache 8 (Recv failure: Connection was reset)
+[2025.07.09-16.45.51:330][947]LogHttp: Warning: 00000475DBFE7000: libcurl info message cache 9 (Send failure: Connection was reset)
+[2025.07.09-16.45.51:330][947]LogHttp: Warning: 00000475DBFE7000: libcurl info message cache 10 (Recv failure: Connection was reset)
+[2025.07.09-16.45.51:330][947]LogHttp: Warning: 00000475DBFE7000: libcurl info message cache 11 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6D6FE935-449F-04BE-6633-DA8FBA5A2BE9%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.3-39772772%2B%2B%2BUE5%2BRelease-5.5&UserID=9ffb585a415f8b5ea3099583a3a7266d%7C8558b0f0649c41fd8c81a81c61794009%7C7a8c91b2-78e4-4ba2-9615-51435d5b763c&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2025.07.09-16.45.51:331][947]LogHttp: Warning: 00000475DBFE7000: libcurl info message cache 12 (Could not resolve host: datarouter.ol.epicgames.com)
+[2025.07.09-16.45.51:331][947]LogHttp: Warning: 00000475DBFE7000: libcurl info message cache 13 (Closing connection)
+[2025.07.09-16.45.51:331][947]LogEOSSDK: Warning: LogHttp: 00000475F36DF000: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=22D6719F4CAD5784679845AA31B45965, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.07.09-16.45.51:331][947]LogEOSSDK: Warning: LogHttp: 00000475F36DF000: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.07.09-16.45.51:331][947]LogEOSSDK: Warning: LogHttp: 00000475F36DF000: libcurl info message cache 0 (Found bundle for host: 0x475a5080d50 [serially])
+[2025.07.09-16.45.51:331][947]LogEOSSDK: Warning: LogHttp: 00000475F36DF000: libcurl info message cache 1 (Could not resolve host: api.epicgames.dev)
+[2025.07.09-16.45.51:331][947]LogEOSSDK: Warning: LogHttp: 00000475F36DF000: libcurl info message cache 2 (Closing connection)
+[2025.07.09-16.45.51:331][948]LogEOSSDK: Warning: LogHttp: 00000475F36DEA00: invalid HTTP response code received. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B56EE26F9-4E2F-E646-936F-87A42516218A%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.16.4-36651368%20-%20%2B%2BEOSSDK%2BRelease-1.16.4-CL-36651368&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.07.09-16.45.51:331][948]LogEOSSDK: Warning: LogHttp: 00000475F36DEA00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.07.09-16.45.51:331][948]LogEOSSDK: Warning: LogHttp: 00000475F36DEA00: libcurl info message cache 0 (Found bundle for host: 0x475a5080d50 [serially])
+[2025.07.09-16.45.51:331][948]LogEOSSDK: Warning: LogHttp: 00000475F36DEA00: libcurl info message cache 1 (Re-using existing connection with host api.epicgames.dev)
+[2025.07.09-16.45.51:331][948]LogEOSSDK: Warning: LogHttp: 00000475F36DEA00: libcurl info message cache 2 (We are completely uploaded and fine)
+[2025.07.09-16.45.51:331][948]LogEOSSDK: Warning: LogHttp: 00000475F36DEA00: libcurl info message cache 3 (Recv failure: Connection was reset)
+[2025.07.09-16.45.51:331][948]LogEOSSDK: Warning: LogHttp: 00000475F36DEA00: libcurl info message cache 4 (OpenSSL SSL_read: Connection was reset, errno 10054)
+[2025.07.09-16.45.51:331][948]LogEOSSDK: Warning: LogHttp: 00000475F36DEA00: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2025.07.09-16.45.51:331][948]LogEOSSDK: Warning: LogHttp: 00000475F36DEA00: libcurl info message cache 6 (state.rewindbeforesend = TRUE)
+[2025.07.09-16.45.51:331][948]LogEOSSDK: Warning: LogHttp: 00000475F36DEA00: libcurl info message cache 7 (Closing connection)
+[2025.07.09-16.45.51:331][948]LogEOSSDK: Warning: LogHttp: 00000475F36DEA00: libcurl info message cache 8 (Recv failure: Connection was reset)
+[2025.07.09-16.45.51:331][948]LogEOSSDK: Warning: LogHttp: 00000475F36DEA00: libcurl info message cache 9 (Send failure: Connection was reset)
+[2025.07.09-16.45.51:331][948]LogEOSSDK: Warning: LogHttp: 00000475F36DEA00: libcurl info message cache 10 (Recv failure: Connection was reset)
+[2025.07.09-16.45.51:331][948]LogEOSSDK: Warning: LogHttp: 00000475F36DEA00: libcurl info message cache 11 (Issue another request to this URL: 'https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B56EE26F9-4E2F-E646-936F-87A42516218A%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.16.4-36651368%20-%20%2B%2BEOSSDK%2BRelease-1.16.4-CL-36651368&UserID=&AppEnvironment=Production&UploadType=sdkevents')
+[2025.07.09-16.45.51:331][948]LogEOSSDK: Warning: LogHttp: 00000475F36DEA00: libcurl info message cache 12 (Could not resolve host: api.epicgames.dev)
+[2025.07.09-16.45.51:331][948]LogEOSSDK: Warning: LogHttp: 00000475F36DEA00: libcurl info message cache 13 (Closing connection)
+[2025.07.09-16.45.51:331][948]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=22D6719F4CAD5784679845AA31B45965
+[2025.07.09-16.45.51:656][948]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B56EE26F9-4E2F-E646-936F-87A42516218A%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.16.4-36651368%20-%20%2B%2BEOSSDK%2BRelease-1.16.4-CL-36651368&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2025.07.09-16.45.52:654][951]LogEOSSDK: Warning: LogHttp: Retry 1 on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=22D6719F4CAD5784679845AA31B45965
+[2025.07.09-16.45.52:995][952]LogEOSSDK: Warning: LogHttp: 00000475F36DF000: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=22D6719F4CAD5784679845AA31B45965, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.07.09-16.45.52:995][952]LogEOSSDK: Warning: LogHttp: 00000475F36DF000: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.07.09-16.45.52:995][952]LogEOSSDK: Warning: LogHttp: 00000475F36DF000: libcurl info message cache 3 (Could not resolve host: api.epicgames.dev)
+[2025.07.09-16.45.52:995][952]LogEOSSDK: Warning: LogHttp: 00000475F36DF000: libcurl info message cache 4 (Closing connection)
+[2025.07.09-16.45.52:995][952]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=22D6719F4CAD5784679845AA31B45965
+[2025.07.09-16.45.54:323][956]LogEOSSDK: Warning: LogHttp: Retry 2 on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=22D6719F4CAD5784679845AA31B45965
+[2025.07.09-16.45.54:665][957]LogEOSSDK: Warning: LogHttp: 00000475F36DF000: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=22D6719F4CAD5784679845AA31B45965, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.07.09-16.45.54:665][957]LogEOSSDK: Warning: LogHttp: 00000475F36DF000: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.07.09-16.45.54:665][957]LogEOSSDK: Warning: LogHttp: 00000475F36DF000: libcurl info message cache 5 (Could not resolve host: api.epicgames.dev)
+[2025.07.09-16.45.54:665][957]LogEOSSDK: Warning: LogHttp: 00000475F36DF000: libcurl info message cache 6 (Closing connection)
+[2025.07.09-16.45.54:665][957]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=22D6719F4CAD5784679845AA31B45965
+[2025.07.09-16.45.54:665][957]LogEOSSDK: Warning: LogEOS: Failed to connect to the backend. ServiceName=[Metrics], OperationName=[SendBackendEvent], Url=[<Redacted>]
+[2025.07.09-16.51.25:378][949]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2025.07.09-16.51.25:392][949]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.07.09-16.51.25:393][949]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=23688
+[2025.07.09-16.51.25:726][950]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.07.09-16.51.25:731][950]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{58ea4715-9790-4598-9427-e0f8b9d39fd0}, Name=Altavoces (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=44.24
+[2025.07.09-16.51.25:732][950]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.07.09-16.51.25:735][950]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.07.09-18.21.22:475][966]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7535.506348
+[2025.07.09-18.21.29:389][973]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.09-18.21.29:390][973]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7542.091797, Update Interval: 357.097687
+[2025.07.09-18.28.13:137][184]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7946.171387
+[2025.07.09-18.28.14:137][187]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.09-18.28.14:137][187]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7946.839355, Update Interval: 303.378387
+[2025.07.09-18.34.14:549][268]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8307.587891
+[2025.07.09-18.34.15:551][271]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.09-18.34.15:551][271]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8308.255859, Update Interval: 340.015259
+[2025.07.09-18.40.42:313][431]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8695.371094
+[2025.07.09-18.40.43:316][434]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.09-18.40.43:316][434]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8696.038086, Update Interval: 338.956879
+[2025.07.09-18.47.06:722][584]LogDerivedDataCache: C:/Users/Usuario/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.003 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.07.09-18.47.08:724][590]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9081.775391
+[2025.07.09-18.47.09:727][593]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.09-18.47.09:727][593]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9082.442383, Update Interval: 307.688843
+[2025.07.09-18.53.08:480][669]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9441.528320
+[2025.07.09-18.53.09:483][672]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.09-18.53.09:483][672]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9442.197266, Update Interval: 327.662598
+[2025.07.09-18.59.19:441][781]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9812.472656
+[2025.07.09-18.59.20:446][784]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.09-18.59.20:446][784]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9813.139648, Update Interval: 313.812073
+[2025.07.09-19.05.24:868][877]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10177.907227
+[2025.07.09-19.05.25:869][880]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.09-19.05.25:869][880]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10178.577148, Update Interval: 312.610870
+[2025.07.09-19.11.21:972][948]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10535.016602
+[2025.07.09-19.11.22:973][951]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.09-19.11.22:973][951]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10535.682617, Update Interval: 325.560486
+[2025.07.09-19.16.51:262][972]LogUObjectHash: Compacting FUObjectHashTables data took   9.27ms
+[2025.07.09-19.16.53:291][972]LogSlate: Window 'Save Content' being destroyed
+[2025.07.09-19.16.53:661][972]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.09-19.16.54:090][972]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.Landscape_0.Weightmap_106 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2025.07.09-19.16.54:093][972]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.Landscape_0.Weightmap_115 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2025.07.09-19.16.54:095][972]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.Landscape_0.Weightmap_123 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2025.07.09-19.16.54:098][972]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.Landscape_0.Weightmap_124 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2025.07.09-19.16.54:102][972]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.Landscape_0.Weightmap_133 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2025.07.09-19.16.54:104][972]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.Landscape_0.Weightmap_134 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2025.07.09-19.16.54:108][972]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.Landscape_0.Weightmap_142 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2025.07.09-19.16.54:160][972]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.Landscape_0.Weightmap_305 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.07.09-19.16.54:177][972]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.Landscape_0.Weightmap_379 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.07.09-19.16.54:182][972]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.Landscape_0.Weightmap_388 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.07.09-19.16.54:182][972]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.Landscape_0.Weightmap_387 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.07.09-19.16.54:185][972]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.Landscape_0.Weightmap_396 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.07.09-19.16.54:189][972]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.Landscape_0.Weightmap_403 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.07.09-19.16.54:190][972]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.Landscape_0.Weightmap_404 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.07.09-19.16.54:194][972]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.Landscape_0.Weightmap_419 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.07.09-19.16.54:195][972]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.Landscape_0.Weightmap_426 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.07.09-19.16.54:195][972]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.Landscape_0.Weightmap_427 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.07.09-19.16.54:198][972]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.Landscape_0.Weightmap_435 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.07.09-19.16.54:198][972]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.Landscape_0.Weightmap_436 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.07.09-19.16.54:202][972]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.Landscape_0.Weightmap_453 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.07.09-19.16.54:205][972]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.Landscape_0.Weightmap_461 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.07.09-19.16.54:215][972]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.Landscape_0.Weightmap_512 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2025.07.09-19.16.54:216][972]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.Landscape_0.Weightmap_515 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.07.09-19.16.54:218][972]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.Landscape_0.Weightmap_518 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2025.07.09-19.16.54:218][972]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.Landscape_0.Weightmap_517 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.07.09-19.16.54:218][972]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.Landscape_0.Weightmap_520 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.07.09-19.16.54:220][972]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.Landscape_0.Weightmap_523 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.07.09-19.16.54:221][972]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.Landscape_0.Weightmap_525 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2025.07.09-19.16.54:224][972]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.Landscape_0.Weightmap_543 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.07.09-19.16.54:225][972]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.Landscape_0.Weightmap_547 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.07.09-19.16.54:235][972]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.Landscape_0.Weightmap_621 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.07.09-19.16.54:240][972]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.Landscape_0.Weightmap_638 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2025.07.09-19.16.54:260][972]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.Landscape_0.Weightmap_753 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2025.07.09-19.16.54:280][972]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.Landscape_0.Weightmap_865 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.07.09-19.16.54:282][972]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.Landscape_0.Weightmap_874 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2025.07.09-19.16.54:283][972]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.Landscape_0.Weightmap_878 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.07.09-19.16.54:288][972]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.Landscape_0.Weightmap_898 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.07.09-19.16.54:290][972]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.Landscape_0.Weightmap_906 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2025.07.09-19.16.54:290][972]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.Landscape_0.Weightmap_907 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2025.07.09-19.16.54:291][972]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.Landscape_0.Weightmap_908 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2025.07.09-19.16.54:292][972]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.Landscape_0.Weightmap_911 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.07.09-19.16.54:293][972]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.Landscape_0.Weightmap_916 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.07.09-19.16.54:295][972]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.Landscape_0.Weightmap_921 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.07.09-19.16.54:302][972]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.Landscape_0.Weightmap_97 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2025.07.09-19.16.54:303][972]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.Landscape_0.Weightmap_98 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2025.07.09-19.16.55:062][972]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2025.07.09-19.16.55:504][972]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.Landscape_0.Weightmap_967 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2025.07.09-19.16.55:507][972]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.Landscape_0.Weightmap_968 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2025.07.09-19.16.55:511][972]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.Landscape_0.Weightmap_971 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2025.07.09-19.16.55:515][972]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.Landscape_0.Weightmap_973 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2025.07.09-19.16.55:518][972]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.Landscape_0.Weightmap_975 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2025.07.09-19.16.55:521][972]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.Landscape_0.Weightmap_978 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2025.07.09-19.16.55:523][972]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.Landscape_0.Weightmap_980 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2025.07.09-19.16.55:526][972]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.Landscape_0.Weightmap_982 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2025.07.09-19.16.55:528][972]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.Landscape_0.Weightmap_984 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2025.07.09-19.16.55:531][972]LogTexture: Display: Building textures: /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.Landscape_0.Weightmap_986 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2025.07.09-19.16.57:910][972]LogSavePackage: Moving output files for package: /Game/Maps/SlashOpenWorld
+[2025.07.09-19.16.57:911][972]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Saved/SlashOpenWorld8A70489648A688F9D1CDB8A7257210E3.tmp' to '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Content/Maps/SlashOpenWorld.umap'
+[2025.07.09-19.16.58:016][972]LogFileHelpers: Saving map 'SlashOpenWorld' took 3.709
+[2025.07.09-19.16.58:017][972]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Maps/SlashOpenWorld_sharedassets/Forest_2_LayerInfo] ([1] browsable assets)...
+[2025.07.09-19.16.58:017][972]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/SlashOpenWorld_sharedassets/Forest_2_LayerInfo]
+[2025.07.09-19.16.58:019][972]LogSavePackage: Moving output files for package: /Game/Maps/SlashOpenWorld_sharedassets/Forest_2_LayerInfo
+[2025.07.09-19.16.58:019][972]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Saved/Forest_2_LayerInfo85BD09A7476062CCF1966ABEDE7DBBA7.tmp' to '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Content/Maps/SlashOpenWorld_sharedassets/Forest_2_LayerInfo.uasset'
+[2025.07.09-19.16.58:025][972]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Maps/SlashOpenWorld_sharedassets/Forest_3_LayerInfo] ([1] browsable assets)...
+[2025.07.09-19.16.58:025][972]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/SlashOpenWorld_sharedassets/Forest_3_LayerInfo]
+[2025.07.09-19.16.58:027][972]LogSavePackage: Moving output files for package: /Game/Maps/SlashOpenWorld_sharedassets/Forest_3_LayerInfo
+[2025.07.09-19.16.58:028][972]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Saved/Forest_3_LayerInfoF404E29C4E222F4FCBE82CB0B42B6BD4.tmp' to '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Content/Maps/SlashOpenWorld_sharedassets/Forest_3_LayerInfo.uasset'
+[2025.07.09-19.16.58:030][972]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Maps/SlashOpenWorld_sharedassets/Forest_LayerInfo] ([1] browsable assets)...
+[2025.07.09-19.16.58:030][972]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/SlashOpenWorld_sharedassets/Forest_LayerInfo]
+[2025.07.09-19.16.58:031][972]LogSavePackage: Moving output files for package: /Game/Maps/SlashOpenWorld_sharedassets/Forest_LayerInfo
+[2025.07.09-19.16.58:032][972]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Saved/Forest_LayerInfoDD33BD454FD44CEF1A74DAB234B90EBC.tmp' to '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Content/Maps/SlashOpenWorld_sharedassets/Forest_LayerInfo.uasset'
+[2025.07.09-19.16.58:330][972]LogFileHelpers: InternalPromptForCheckoutAndSave took 4.66 sec (total: 6.44 sec)
+[2025.07.09-19.16.58:432][972]LogContentValidation: Display: Starting to validate 4 assets
+[2025.07.09-19.16.58:432][972]LogContentValidation: Enabled validators:
+[2025.07.09-19.16.58:432][972]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.09-19.16.58:432][972]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.09-19.16.58:432][972]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.09-19.16.58:432][972]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.09-19.16.58:432][972]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.09-19.16.58:432][972]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.09-19.16.58:438][972]AssetCheck: /Game/Maps/SlashOpenWorld Validating asset
+[2025.07.09-19.16.58:439][972]AssetCheck: /Game/Maps/SlashOpenWorld_sharedassets/Forest_2_LayerInfo Validating asset
+[2025.07.09-19.16.58:440][972]AssetCheck: /Game/Maps/SlashOpenWorld_sharedassets/Forest_3_LayerInfo Validating asset
+[2025.07.09-19.16.58:440][972]AssetCheck: /Game/Maps/SlashOpenWorld_sharedassets/Forest_LayerInfo Validating asset
+[2025.07.09-19.16.59:355][992]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.07.09-19.16.59:490][992]LogStall: Shutdown...
+[2025.07.09-19.16.59:490][992]LogStall: Shutdown complete.
+[2025.07.09-19.16.59:573][992]LogSlate: Window 'M_Landscape' being destroyed
+[2025.07.09-19.16.59:954][992]LogSlate: Window 'Fab' being destroyed
+[2025.07.09-19.16.59:969][992]LogSlate: Window 'Slash_Project - Unreal Editor' being destroyed
+[2025.07.09-19.17.00:631][992]Cmd: QUIT_EDITOR
+[2025.07.09-19.17.00:631][992]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.07.09-19.17.00:688][993]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.07.09-19.17.00:693][993]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.07.09-19.17.00:694][993]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.07.09-19.17.00:811][993]LogWorld: UWorld::CleanupWorld for SlashOpenWorld, bSessionEnded=true, bCleanupResources=true
+[2025.07.09-19.17.00:852][993]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.09-19.17.00:963][993]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.07.09-19.17.00:984][993]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.07.09-19.17.01:027][993]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.07.09-19.17.01:027][993]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.09-19.17.01:048][993]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.07.09-19.17.01:048][993]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.09-19.17.01:051][993]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.07.09-19.17.01:051][993]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.09-19.17.01:054][993]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.07.09-19.17.01:054][993]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.09-19.17.01:080][993]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.07.09-19.17.01:099][993]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2025.07.09-19.17.01:100][993]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2025.07.09-19.17.01:100][993]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2025.07.09-19.17.01:114][993]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.07.09-19.17.01:114][993]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.07.09-19.17.01:114][993]LogAudio: Display: Audio Device unregistered from world 'SlashOpenWorld'.
+[2025.07.09-19.17.01:117][993]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.07.09-19.17.01:121][993]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.07.09-19.17.01:126][993]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.07.09-19.17.01:165][993]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.07.09-19.17.01:167][993]LogAudio: Display: Audio Device Manager Shutdown
+[2025.07.09-19.17.01:187][993]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.07.09-19.17.01:188][993]LogExit: Preparing to exit.
+[2025.07.09-19.17.01:425][993]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2025.07.09-19.17.02:606][993]LogEditorDataStorage: Deinitializing
+[2025.07.09-19.17.03:346][993]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.07.09-19.17.04:267][993]LogExit: Editor shut down
+[2025.07.09-19.17.04:364][993]LogExit: Transaction tracking system shut down
+[2025.07.09-19.17.06:387][993]LogExit: Object subsystem successfully closed.
+[2025.07.09-19.17.06:467][993]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.07.09-19.17.07:407][993]LogMemoryProfiler: Shutdown
+[2025.07.09-19.17.07:409][993]LogNetworkingProfiler: Shutdown
+[2025.07.09-19.17.07:409][993]LoadingProfiler: Shutdown
+[2025.07.09-19.17.07:410][993]LogTimingProfiler: Shutdown
+[2025.07.09-19.17.07:515][993]LogWebBrowser: Deleting browser for Url=https://www.fab.com/plugins/ue5/listings/31b154e8-dea5-49c8-9b29-6362fe1a4a8d.
+[2025.07.09-19.17.09:106][993]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.07.09-19.17.09:170][993]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.07.09-19.17.09:170][993]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6D6FE935-449F-04BE-6633-DA8FBA5A2BE9%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.3-39772772%2B%2B%2BUE5%2BRelease-5.5&UserID=9ffb585a415f8b5ea3099583a3a7266d%7C8558b0f0649c41fd8c81a81c61794009%7C7a8c91b2-78e4-4ba2-9615-51435d5b763c&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
