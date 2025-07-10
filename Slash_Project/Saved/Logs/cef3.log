@@ -1,24 +1,12 @@
-[0709/182752.158:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
-[0709/184551.333:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
-[0709/184551.336:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
-[0709/184551.339:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
-[0709/184551.347:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
-[0709/184551.352:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
-[0709/184556.337:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
-[0709/184556.342:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
-[0709/184556.351:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
-[0709/184556.352:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
-[0709/184556.356:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
-[0709/184601.341:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
-[0709/184601.346:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
-[0709/184601.357:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
-[0709/184601.371:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
-[0709/184707.373:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
-[0709/184707.374:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
-[0709/184712.011:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
-[0709/184712.054:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
-[0709/184712.056:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
-[0709/184712.377:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
-[0709/184712.385:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
-[0709/184824.776:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
-[0709/184824.776:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0710/185003.729:ERROR:cache_util_win.cc(20)] Unable to move the cache: Acceso denegado. (0x5)
+[0710/185003.731:ERROR:cache_util.cc(144)] Unable to move cache folder C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Saved/webcache_4430\Cache to C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Saved/webcache_4430\old_Cache_000
+[0710/185003.731:ERROR:disk_cache.cc(184)] Unable to create cache
+[0710/185006.024:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[0710/185033.114:ERROR:database.cc(1707)] Cookie sqlite error 5, errno 33: database is locked, sql: DELETE FROM cookies WHERE name=? AND host_key=? AND path=?
+[0710/185033.114:ERROR:database.cc(1707)] Cookie sqlite error 5, errno 33: database is locked, sql: INSERT INTO cookies (creation_utc, host_key, name, value, path, expires_utc, is_secure, is_httponly, last_access_utc, has_expires, is_persistent, priority, encrypted_value, samesite, source_scheme, source_port, is_same_party) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+[0710/185033.114:ERROR:database.cc(1707)] Cookie sqlite error 5, errno 33: database is locked, sql: DELETE FROM cookies WHERE name=? AND host_key=? AND path=?
+[0710/185033.114:ERROR:database.cc(1707)] Cookie sqlite error 5, errno 33: database is locked, sql: INSERT INTO cookies (creation_utc, host_key, name, value, path, expires_utc, is_secure, is_httponly, last_access_utc, has_expires, is_persistent, priority, encrypted_value, samesite, source_scheme, source_port, is_same_party) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)
+[0710/185033.115:ERROR:database.cc(1707)] Cookie sqlite error 5, errno 33: database is locked, sql: UPDATE cookies SET last_access_utc=? WHERE name=? AND host_key=? AND path=?
+[0710/185033.115:ERROR:database.cc(1707)] Cookie sqlite error 5, errno 33: cannot commit transaction - SQL statements in progress, sql: COMMIT
+[0710/185156.602:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0710/185159.884:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
