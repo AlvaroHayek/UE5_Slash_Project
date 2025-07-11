@@ -1528,3 +1528,116 @@ Sampler Limit: 32
 [2025.07.11-14.43.36:726][240]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.07.11-14.43.36:726][240]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.07.11-14.43.36:726][240]AssetCheck: /Game/Maps/SlashOpenWorld Validating asset
+[2025.07.11-14.44.13:107][356]LogShaderCompilers: Display: ================================================
+[2025.07.11-14.44.13:107][356]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.07.11-14.44.13:108][356]LogShaderCompilers: Display: Total job queries 650, among them cache hits 360 (55.38%), DDC hits 190 (29.23%), Duplicates 72 (11.08%)
+[2025.07.11-14.44.13:108][356]LogShaderCompilers: Display: Tracking 218 distinct input hashes that result in 171 distinct outputs (78.44%)
+[2025.07.11-14.44.13:108][356]LogShaderCompilers: Display: RAM used: 127.25 KiB of 819.20 MiB budget. Usage: 0.02%
+[2025.07.11-14.44.13:108][356]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.07.11-14.44.13:108][356]LogShaderCompilers: Display: Shaders Compiled: 28
+[2025.07.11-14.44.13:108][356]LogShaderCompilers: Display: Jobs assigned 28, completed 28 (100%)
+[2025.07.11-14.44.13:108][356]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2025.07.11-14.44.13:108][356]LogShaderCompilers: Display: Time job spent in pending queue: average 2.56 s, longest 5.02 s
+[2025.07.11-14.44.13:108][356]LogShaderCompilers: Display: Job execution time: average 1.87 s, max 3.58 s
+[2025.07.11-14.44.13:108][356]LogShaderCompilers: Display: Job life time (pending + execution): average 4.43 s, max 6.26
+[2025.07.11-14.44.13:108][356]LogShaderCompilers: Display: Shader code size: average 8.388 KiB, min 5.902 KiB, max 11.562 KiB
+[2025.07.11-14.44.13:108][356]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 6.48 s
+[2025.07.11-14.44.13:108][356]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.05%
+[2025.07.11-14.44.13:108][356]LogShaderCompilers: Display: Jobs were issued in 28 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.07.11-14.44.13:108][356]LogShaderCompilers: Display: Average processing rate: 4.32 jobs/sec
+[2025.07.11-14.44.13:108][356]LogShaderCompilers: Display: Total thread time: 33.297 s
+[2025.07.11-14.44.13:108][356]LogShaderCompilers: Display: Total thread preprocess time: 16.493 s
+[2025.07.11-14.44.13:108][356]LogShaderCompilers: Display: Percentage time preprocessing: 49.53%
+[2025.07.11-14.44.13:108][356]LogShaderCompilers: Display: Effective parallelization: 5.14 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.07.11-14.44.13:108][356]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.07.11-14.44.13:108][356]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    7 times, average 1.65 sec, max 1.86 sec, min 1.34 sec)
+[2025.07.11-14.44.13:108][356]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    7 times, average 1.15 sec, max 1.30 sec, min 0.96 sec)
+[2025.07.11-14.44.13:108][356]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    7 times, average 1.09 sec, max 1.27 sec, min 0.95 sec)
+[2025.07.11-14.44.13:108][356]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    7 times, average 0.87 sec, max 0.97 sec, min 0.75 sec)
+[2025.07.11-14.44.13:108][356]LogShaderCompilers: Display:                        FRayTracingDynamicGeometryConverterCS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.07.11-14.44.13:108][356]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.07.11-14.44.13:108][356]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 34.67% of total time (compiled    7 times, average 1.65 sec, max 1.86 sec, min 1.34 sec)
+[2025.07.11-14.44.13:108][356]LogShaderCompilers: Display:                                                 FLumenCardPS - 24.22% of total time (compiled    7 times, average 1.15 sec, max 1.30 sec, min 0.96 sec)
+[2025.07.11-14.44.13:108][356]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 22.82% of total time (compiled    7 times, average 1.09 sec, max 1.27 sec, min 0.95 sec)
+[2025.07.11-14.44.13:108][356]LogShaderCompilers: Display:                                                 FLumenCardVS - 18.30% of total time (compiled    7 times, average 0.87 sec, max 0.97 sec, min 0.75 sec)
+[2025.07.11-14.44.13:108][356]LogShaderCompilers: Display:                        FRayTracingDynamicGeometryConverterCS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.07.11-14.44.13:109][356]LogShaderCompilers: Display: === Material stats ===
+[2025.07.11-14.44.13:109][356]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.07.11-14.44.13:109][356]LogShaderCompilers: Display: Materials Translated:    239
+[2025.07.11-14.44.13:109][356]LogShaderCompilers: Display: Material Total Translate Time: 0.37 s
+[2025.07.11-14.44.13:109][356]LogShaderCompilers: Display: Material Translation Only: 0.24 s (65%)
+[2025.07.11-14.44.13:109][356]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.07.11-14.44.13:109][356]LogShaderCompilers: Display: Material Cache Hits: 34 (14%)
+[2025.07.11-14.44.13:109][356]LogShaderCompilers: Display: ================================================
+[2025.07.11-14.44.42:446][897]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2025.07.11-14.44.42:447][897]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_2'.
+[2025.07.11-14.44.44:125][944]Cmd: EDIT COPY
+[2025.07.11-14.44.44:691][961]Cmd: EDIT PASTE
+[2025.07.11-14.45.21:010][862]Cmd: EDIT COPY
+[2025.07.11-14.45.21:698][882]Cmd: EDIT PASTE
+[2025.07.11-14.46.10:708][848]Cmd: EDIT COPY
+[2025.07.11-14.46.11:574][874]Cmd: EDIT PASTE
+[2025.07.11-14.46.46:641][639]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.07.11-14.46.47:565][639]LogSlate: Window 'Save Content' being destroyed
+[2025.07.11-14.46.47:778][639]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.11-14.46.47:907][639]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2025.07.11-14.46.50:767][639]LogSavePackage: Moving output files for package: /Game/Maps/SlashOpenWorld
+[2025.07.11-14.46.50:769][639]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Saved/SlashOpenWorld1F1F657B46FBF94D47CBCEA92A750E79.tmp' to '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Content/Maps/SlashOpenWorld.umap'
+[2025.07.11-14.46.50:812][639]LogFileHelpers: Saving map 'SlashOpenWorld' took 2.982
+[2025.07.11-14.46.50:840][639]LogFileHelpers: InternalPromptForCheckoutAndSave took 3.06 sec (total: 7.27 sec)
+[2025.07.11-14.46.50:906][639]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.11-14.46.50:906][639]LogContentValidation: Enabled validators:
+[2025.07.11-14.46.50:906][639]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.11-14.46.50:906][639]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.11-14.46.50:906][639]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.11-14.46.50:906][639]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.11-14.46.50:906][639]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.11-14.46.50:906][639]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.11-14.46.50:907][639]AssetCheck: /Game/Maps/SlashOpenWorld Validating asset
+[2025.07.11-14.46.58:690][836]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 363.230621
+[2025.07.11-14.46.59:029][842]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.11-14.46.59:030][842]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 363.536285, Update Interval: 349.670715
+[2025.07.11-14.47.19:437][424]Cmd: EDIT COPY
+[2025.07.11-14.47.19:987][440]Cmd: EDIT PASTE
+[2025.07.11-14.47.41:049][952]Cmd: EDIT COPY
+[2025.07.11-14.47.42:681][989]Cmd: EDIT PASTE
+[2025.07.11-14.48.20:064][753]Cmd: EDIT COPY
+[2025.07.11-14.48.20:782][768]Cmd: EDIT PASTE
+[2025.07.11-14.49.21:600][947]Cmd: EDIT COPY
+[2025.07.11-14.49.22:292][961]Cmd: EDIT PASTE
+[2025.07.11-14.49.54:543][491]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.07.11-14.49.56:141][491]LogSlate: Window 'Save Content' being destroyed
+[2025.07.11-14.49.56:358][491]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.11-14.49.56:473][491]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.07.11-14.49.58:880][491]LogSavePackage: Moving output files for package: /Game/Maps/SlashOpenWorld
+[2025.07.11-14.49.58:881][491]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Saved/SlashOpenWorld4C009F1840435F48E462488D54888CBC.tmp' to '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Content/Maps/SlashOpenWorld.umap'
+[2025.07.11-14.49.58:921][491]LogFileHelpers: Saving map 'SlashOpenWorld' took 2.508
+[2025.07.11-14.49.59:001][491]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.64 sec (total: 9.92 sec)
+[2025.07.11-14.49.59:062][491]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.11-14.49.59:062][491]LogContentValidation: Enabled validators:
+[2025.07.11-14.49.59:062][491]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.11-14.49.59:062][491]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.11-14.49.59:062][491]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.11-14.49.59:062][491]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.11-14.49.59:062][491]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.11-14.49.59:063][491]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.11-14.49.59:063][491]AssetCheck: /Game/Maps/SlashOpenWorld Validating asset
+[2025.07.11-14.50.55:246][809]Cmd: EDIT COPY
+[2025.07.11-14.50.55:820][819]Cmd: EDIT PASTE
+[2025.07.11-14.52.38:204][779]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2025.07.11-14.52.39:051][779]LogSlate: Window 'Save Content' being destroyed
+[2025.07.11-14.52.39:247][779]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.11-14.52.39:372][779]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.07.11-14.52.42:444][779]LogSavePackage: Moving output files for package: /Game/Maps/SlashOpenWorld
+[2025.07.11-14.52.42:445][779]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Saved/SlashOpenWorld7BC0F4B8467BFB8964592499E1326F97.tmp' to '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Content/Maps/SlashOpenWorld.umap'
+[2025.07.11-14.52.42:544][779]LogFileHelpers: Saving map 'SlashOpenWorld' took 3.244
+[2025.07.11-14.52.42:566][779]LogFileHelpers: InternalPromptForCheckoutAndSave took 3.31 sec (total: 13.2 sec)
+[2025.07.11-14.52.42:634][779]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.11-14.52.42:634][779]LogContentValidation: Enabled validators:
+[2025.07.11-14.52.42:634][779]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.11-14.52.42:634][779]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.11-14.52.42:634][779]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.11-14.52.42:634][779]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.11-14.52.42:634][779]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.11-14.52.42:634][779]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.11-14.52.42:635][779]AssetCheck: /Game/Maps/SlashOpenWorld Validating asset
