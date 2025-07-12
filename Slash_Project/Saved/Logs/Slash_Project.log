@@ -1714,3 +1714,211 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.07.12-15.56.58:347][837]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.07.12-15.56.58:347][837]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.07.12-15.56.58:348][837]AssetCheck: /Game/Maps/SlashOpenWorld Validating asset
+[2025.07.12-15.59.08:410][401]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2025.07.12-15.59.08:540][401]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.07.12-15.59.08:540][401]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=5344
+[2025.07.12-15.59.08:873][402]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.07.12-15.59.08:875][402]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{58ea4715-9790-4598-9427-e0f8b9d39fd0}, Name=Altavoces (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=24.08
+[2025.07.12-15.59.08:875][402]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.07.12-15.59.08:878][402]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.07.12-16.10.21:833][562]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2711.898682
+[2025.07.12-16.10.52:508][654]LogEOSSDK: Warning: LogHttp: 000004C746753C00: HTTP request timed out after 30.00 seconds URL=https://api.epicgames.dev/sdk/v1/product/86f32f1151354e7cb39c12f8ab2c22a3?platformId=WIN&deploymentId=a652a72ea1664dcab3a467891eea5f30
+[2025.07.12-16.10.52:509][655]LogEOSSDK: Warning: LogHttp: 000004C746753C00: request failed, libcurl error: 0 (No error)
+[2025.07.12-16.10.52:509][655]LogEOSSDK: Warning: LogHttp: 000004C746753C00: libcurl info message cache 0 (Found bundle for host: 0x4c74a880de0 [serially])
+[2025.07.12-16.10.52:509][655]LogEOSSDK: Warning: LogHttp: 000004C746753C00: libcurl info message cache 1 (Re-using existing connection with host api.epicgames.dev)
+[2025.07.12-16.10.52:509][655]LogEOSSDK: Warning: LogHttp: 000004C746753C00: libcurl info message cache 2 (Closing connection)
+[2025.07.12-16.10.52:509][655]LogEOSSDK: Warning: LogHttp: 000004C746753C00: libcurl info message cache 3 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.07.12-16.10.52:509][655]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/sdk/v1/product/86f32f1151354e7cb39c12f8ab2c22a3?platformId=WIN&deploymentId=a652a72ea1664dcab3a467891eea5f30
+[2025.07.12-16.10.52:509][655]LogEOSSDK: Warning: LogEOS: Failed to connect to the backend. ServiceName=[SDKConfig], OperationName=[GetProductConfigRoute], Url=[<Redacted>]
+[2025.07.12-16.10.52:841][655]LogEOSSDK: Warning: LogEOS: SDK Config Product Update Request Failed, Result Code: EOS_NoConnection, Retrying after 49.190041 seconds
+[2025.07.12-16.11.41:859][802]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2791.923584
+[2025.07.12-16.11.42:858][805]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.12-16.11.42:858][805]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2792.591064, Update Interval: 349.648743
+[2025.07.12-16.14.30:583][308]LogHttp: Warning: 000004C72B320700: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2025.07.12-16.14.30:583][308]LogHttp: Warning: 000004C72B320700: libcurl info message cache 0 (Found bundle for host: 0x4c69a040960 [serially])
+[2025.07.12-16.14.30:583][308]LogHttp: Warning: 000004C72B320700: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2025.07.12-16.14.30:583][308]LogHttp: Warning: 000004C72B320700: libcurl info message cache 2 (We are completely uploaded and fine)
+[2025.07.12-16.14.30:584][308]LogHttp: Warning: 000004C72B320700: libcurl info message cache 3 (TLSv1.3 (IN), TLS alert, close notify (256):)
+[2025.07.12-16.14.30:584][308]LogHttp: Warning: 000004C72B320700: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2025.07.12-16.14.30:584][308]LogHttp: Warning: 000004C72B320700: libcurl info message cache 5 (state.rewindbeforesend = TRUE)
+[2025.07.12-16.14.30:584][308]LogHttp: Warning: 000004C72B320700: libcurl info message cache 6 (Closing connection)
+[2025.07.12-16.14.30:584][308]LogHttp: Warning: 000004C72B320700: libcurl info message cache 7 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.07.12-16.14.30:584][308]LogHttp: Warning: 000004C72B320700: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD52E3DD7-4D27-AE6B-54EE-5F97050B9CA1%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.3-39772772%2B%2B%2BUE5%2BRelease-5.5&UserID=9ffb585a415f8b5ea3099583a3a7266d%7C8558b0f0649c41fd8c81a81c61794009%7C7a8c91b2-78e4-4ba2-9615-51435d5b763c&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2025.07.12-16.14.30:584][308]LogHttp: Warning: 000004C72B320700: libcurl info message cache 9 (  Trying 34.205.237.74:443...)
+[2025.07.12-16.14.30:584][308]LogHttp: Warning: 000004C72B320700: libcurl info message cache 10 (Connected to datarouter.ol.epicgames.com (34.205.237.74) port 443)
+[2025.07.12-16.14.30:584][308]LogHttp: Warning: 000004C72B320700: libcurl info message cache 11 (ALPN: curl offers http/1.1)
+[2025.07.12-16.14.30:584][308]LogHttp: Warning: 000004C72B320700: libcurl info message cache 12 (SSL reusing session ID)
+[2025.07.12-16.14.30:584][309]LogHttp: Warning: 000004C72B320700: libcurl info message cache 13 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2025.07.12-16.14.30:585][309]LogHttp: Warning: 000004C72B320700: libcurl info message cache 14 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2025.07.12-16.14.30:585][309]LogHttp: Warning: 000004C72B320700: libcurl info message cache 15 (TLSv1.3 (IN), TLS handshake, Encrypted Extensions (8):)
+[2025.07.12-16.14.30:585][309]LogHttp: Warning: 000004C72B320700: libcurl info message cache 16 (TLSv1.3 (IN), TLS handshake, Certificate (11):)
+[2025.07.12-16.14.30:585][309]LogHttp: Warning: 000004C72B320700: libcurl info message cache 17 (TLSv1.3 (IN), TLS handshake, CERT verify (15):)
+[2025.07.12-16.14.30:585][309]LogHttp: Warning: 000004C72B320700: libcurl info message cache 18 (TLSv1.3 (IN), TLS handshake, Finished (20):)
+[2025.07.12-16.14.30:585][309]LogHttp: Warning: 000004C72B320700: libcurl info message cache 19 (TLSv1.3 (OUT), TLS change cipher, Change cipher spec (1):)
+[2025.07.12-16.14.30:585][309]LogHttp: Warning: 000004C72B320700: libcurl info message cache 20 (TLSv1.3 (OUT), TLS handshake, Finished (20):)
+[2025.07.12-16.14.30:585][309]LogHttp: Warning: 000004C72B320700: libcurl info message cache 21 (SSL connection using TLSv1.3 / TLS_AES_128_GCM_SHA256)
+[2025.07.12-16.14.30:585][309]LogHttp: Warning: 000004C72B320700: libcurl info message cache 22 (ALPN: server accepted http/1.1)
+[2025.07.12-16.14.30:585][309]LogHttp: Warning: 000004C72B320700: libcurl info message cache 23 (Server certificate:)
+[2025.07.12-16.14.30:585][309]LogHttp: Warning: 000004C72B320700: libcurl info message cache 24 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2025.07.12-16.14.30:585][309]LogHttp: Warning: 000004C72B320700: libcurl info message cache 25 ( start date: Feb  2 00:00:00 2025 GMT)
+[2025.07.12-16.14.30:585][309]LogHttp: Warning: 000004C72B320700: libcurl info message cache 26 ( expire date: Mar  3 23:59:59 2026 GMT)
+[2025.07.12-16.14.30:585][309]LogHttp: Warning: 000004C72B320700: libcurl info message cache 27 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2025.07.12-16.14.30:585][309]LogHttp: Warning: 000004C72B320700: libcurl info message cache 28 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M03)
+[2025.07.12-16.14.30:586][309]LogHttp: Warning: 000004C72B320700: libcurl info message cache 29 ( SSL certificate verify ok.)
+[2025.07.12-16.14.30:586][309]LogHttp: Warning: 000004C72B320700: libcurl info message cache 30 (using HTTP/1.1)
+[2025.07.12-16.14.30:586][309]LogHttp: Warning: 000004C72B320700: libcurl info message cache 31 (necessary data rewind wasn't possible)
+[2025.07.12-16.14.30:586][309]LogHttp: Warning: 000004C72B320700: libcurl info message cache 32 (Closing connection)
+[2025.07.12-16.14.30:586][309]LogHttp: Warning: 000004C72B320700: libcurl info message cache 33 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.07.12-16.17.39:960][876]LogEOSSDK: Warning: LogHttp: 000004C746752400: HTTP request timed out after 30.00 seconds URL=https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7BEC701646-47CF-B119-341B-B6B1143B02EE%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.16.4-36651368%20-%20%2B%2BEOSSDK%2BRelease-1.16.4-CL-36651368&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2025.07.12-16.17.40:288][877]LogEOSSDK: Warning: LogHttp: 000004C746752400: request failed, libcurl error: 0 (No error)
+[2025.07.12-16.17.40:288][878]LogEOSSDK: Warning: LogHttp: 000004C746752400: libcurl info message cache 0 (Found bundle for host: 0x4c74a880900 [serially])
+[2025.07.12-16.17.40:288][878]LogEOSSDK: Warning: LogHttp: 000004C746752400: libcurl info message cache 1 (Re-using existing connection with host api.epicgames.dev)
+[2025.07.12-16.17.40:288][878]LogEOSSDK: Warning: LogHttp: 000004C746752400: libcurl info message cache 2 (We are completely uploaded and fine)
+[2025.07.12-16.17.40:288][878]LogEOSSDK: Warning: LogHttp: 000004C746752400: libcurl info message cache 3 (Closing connection)
+[2025.07.12-16.17.40:288][878]LogEOSSDK: Warning: LogHttp: 000004C746752400: libcurl info message cache 4 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.07.12-16.17.40:622][878]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7BEC701646-47CF-B119-341B-B6B1143B02EE%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.16.4-36651368%20-%20%2B%2BEOSSDK%2BRelease-1.16.4-CL-36651368&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2025.07.12-16.17.41:624][881]LogHttp: Warning: 000004C72B322300: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.07.12-16.17.41:624][881]LogHttp: Warning: 000004C72B322300: libcurl info message cache 0 (Found bundle for host: 0x4c69a040bd0 [serially])
+[2025.07.12-16.17.41:624][881]LogHttp: Warning: 000004C72B322300: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2025.07.12-16.17.41:624][881]LogHttp: Warning: 000004C72B322300: libcurl info message cache 2 (We are completely uploaded and fine)
+[2025.07.12-16.17.41:624][881]LogHttp: Warning: 000004C72B322300: libcurl info message cache 3 (TLSv1.3 (IN), TLS alert, close notify (256):)
+[2025.07.12-16.17.41:624][881]LogHttp: Warning: 000004C72B322300: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2025.07.12-16.17.41:624][882]LogHttp: Warning: 000004C72B322300: libcurl info message cache 5 (state.rewindbeforesend = TRUE)
+[2025.07.12-16.17.41:624][882]LogHttp: Warning: 000004C72B322300: libcurl info message cache 6 (Closing connection)
+[2025.07.12-16.17.41:624][882]LogHttp: Warning: 000004C72B322300: libcurl info message cache 7 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.07.12-16.17.41:624][882]LogHttp: Warning: 000004C72B322300: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD52E3DD7-4D27-AE6B-54EE-5F97050B9CA1%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.3-39772772%2B%2B%2BUE5%2BRelease-5.5&UserID=9ffb585a415f8b5ea3099583a3a7266d%7C8558b0f0649c41fd8c81a81c61794009%7C7a8c91b2-78e4-4ba2-9615-51435d5b763c&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2025.07.12-16.17.41:624][882]LogHttp: Warning: 000004C72B322300: libcurl info message cache 9 (Could not resolve host: datarouter.ol.epicgames.com)
+[2025.07.12-16.17.41:624][882]LogHttp: Warning: 000004C72B322300: libcurl info message cache 10 (Closing connection)
+[2025.07.12-16.18.09:630][965]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3179.691650
+[2025.07.12-16.18.21:634][  1]LogEOSSDK: Warning: LogHttp: 000004C746751E00: invalid HTTP response code received. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7BEC701646-47CF-B119-341B-B6B1143B02EE%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.16.4-36651368%20-%20%2B%2BEOSSDK%2BRelease-1.16.4-CL-36651368&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.07.12-16.18.21:635][  1]LogEOSSDK: Warning: LogHttp: 000004C746751E00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.07.12-16.18.21:635][  2]LogEOSSDK: Warning: LogHttp: 000004C746751E00: libcurl info message cache 0 (Found bundle for host: 0x4c74a880900 [serially])
+[2025.07.12-16.18.21:635][  2]LogEOSSDK: Warning: LogHttp: 000004C746751E00: libcurl info message cache 1 (Hostname in DNS cache was stale, zapped)
+[2025.07.12-16.18.21:635][  2]LogEOSSDK: Warning: LogHttp: 000004C746751E00: libcurl info message cache 2 (Could not resolve host: api.epicgames.dev)
+[2025.07.12-16.18.21:635][  2]LogEOSSDK: Warning: LogHttp: 000004C746751E00: libcurl info message cache 3 (Closing connection)
+[2025.07.12-16.18.21:967][  2]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7BEC701646-47CF-B119-341B-B6B1143B02EE%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.16.4-36651368%20-%20%2B%2BEOSSDK%2BRelease-1.16.4-CL-36651368&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2025.07.12-16.18.33:634][ 37]LogHttp: Warning: 000004C72B320E00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.07.12-16.18.33:634][ 37]LogHttp: Warning: 000004C72B320E00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2025.07.12-16.18.33:634][ 37]LogHttp: Warning: 000004C72B320E00: libcurl info message cache 1 (Closing connection)
+[2025.07.12-16.18.40:303][ 57]LogEOSSDK: Warning: LogHttp: 000004C746755400: HTTP request timed out after 30.00 seconds URL=https://api.epicgames.dev/sdk/v1/product/86f32f1151354e7cb39c12f8ab2c22a3?platformId=WIN&deploymentId=a652a72ea1664dcab3a467891eea5f30
+[2025.07.12-16.18.40:303][ 57]LogEOSSDK: Warning: LogHttp: 000004C746755400: request failed, libcurl error: 0 (No error)
+[2025.07.12-16.18.40:303][ 57]LogEOSSDK: Warning: LogHttp: 000004C746755400: libcurl info message cache 0 (Found bundle for host: 0x4c74a880900 [serially])
+[2025.07.12-16.18.40:303][ 57]LogEOSSDK: Warning: LogHttp: 000004C746755400: libcurl info message cache 1 (Re-using existing connection with host api.epicgames.dev)
+[2025.07.12-16.18.40:303][ 57]LogEOSSDK: Warning: LogHttp: 000004C746755400: libcurl info message cache 2 (Closing connection)
+[2025.07.12-16.18.40:303][ 58]LogEOSSDK: Warning: LogHttp: 000004C746755400: libcurl info message cache 3 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.07.12-16.18.40:303][ 58]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/sdk/v1/product/86f32f1151354e7cb39c12f8ab2c22a3?platformId=WIN&deploymentId=a652a72ea1664dcab3a467891eea5f30
+[2025.07.12-16.18.40:303][ 58]LogEOSSDK: Warning: LogEOS: Failed to connect to the backend. ServiceName=[SDKConfig], OperationName=[GetProductConfigRoute], Url=[<Redacted>]
+[2025.07.12-16.18.40:637][ 58]LogEOSSDK: Warning: LogEOS: SDK Config Product Update Request Failed, Result Code: EOS_NoConnection, Retrying after 34.523762 seconds
+[2025.07.12-16.19.14:987][161]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3245.047607
+[2025.07.12-16.19.17:313][168]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.12-16.19.17:313][168]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3247.047119, Update Interval: 351.210663
+[2025.07.12-16.20.41:666][421]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2025.07.12-16.20.43:631][426]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:61413'.
+[2025.07.12-16.20.43:643][426]LogUdpMessaging: Display: Added local interface '25.36.114.234' to multicast group '230.0.0.1:6666'
+[2025.07.12-16.20.43:643][426]LogUdpMessaging: Display: Added local interface '192.168.1.51' to multicast group '230.0.0.1:6666'
+[2025.07.12-16.25.58:758][372]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3648.818604
+[2025.07.12-16.25.59:758][375]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.12-16.25.59:759][375]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3649.480225, Update Interval: 337.779480
+[2025.07.12-16.32.36:196][564]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4046.259277
+[2025.07.12-16.32.37:194][567]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.12-16.32.37:194][567]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4046.927002, Update Interval: 308.360840
+[2025.07.12-16.36.52:120][332]LogDerivedDataCache: C:/Users/Usuario/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.002 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.07.12-16.38.30:624][627]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4400.687500
+[2025.07.12-16.38.31:625][630]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.12-16.38.31:625][630]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4401.355469, Update Interval: 333.525818
+[2025.07.12-16.44.59:468][791]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4789.537598
+[2025.07.12-16.45.00:468][794]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.12-16.45.00:468][794]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4790.203613, Update Interval: 350.567963
+[2025.07.12-16.51.29:894][962]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5179.963379
+[2025.07.12-16.51.30:895][965]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.12-16.51.30:895][965]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5180.629395, Update Interval: 309.541931
+[2025.07.12-16.57.15:310][998]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5525.383301
+[2025.07.12-16.57.16:311][  1]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.12-16.57.16:311][  1]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5526.050781, Update Interval: 325.542175
+[2025.07.12-17.03.23:056][101]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5893.141113
+[2025.07.12-17.03.24:055][104]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.12-17.03.24:055][105]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5893.805664, Update Interval: 350.990936
+[2025.07.12-17.10.04:683][305]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6294.770996
+[2025.07.12-17.10.05:684][308]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.12-17.10.05:684][308]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6295.438477, Update Interval: 301.604065
+[2025.07.12-17.16.02:070][377]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6652.157227
+[2025.07.12-17.16.03:071][380]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.12-17.16.03:071][380]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6652.826172, Update Interval: 309.443024
+[2025.07.12-17.21.45:646][406]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6995.730469
+[2025.07.12-17.21.46:646][409]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.12-17.21.46:647][409]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6996.398926, Update Interval: 353.177277
+[2025.07.12-17.28.38:077][643]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7408.158203
+[2025.07.12-17.28.39:078][646]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.12-17.28.39:078][646]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7408.824219, Update Interval: 347.336029
+[2025.07.12-17.28.48:534][675]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2025.07.12-17.28.48:743][675]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.07.12-17.28.48:744][675]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=5344
+[2025.07.12-17.28.49:077][676]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.07.12-17.28.49:082][676]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{58ea4715-9790-4598-9427-e0f8b9d39fd0}, Name=Altavoces (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=21.98
+[2025.07.12-17.28.49:082][676]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.07.12-17.28.49:084][676]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.07.12-20.17.40:941][776]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2025.07.12-20.17.41:207][776]LogStall: Shutdown...
+[2025.07.12-20.17.41:207][776]LogStall: Shutdown complete.
+[2025.07.12-20.17.41:351][776]LogSlate: Window 'Slash_Project - Unreal Editor' being destroyed
+[2025.07.12-20.17.41:694][776]Cmd: QUIT_EDITOR
+[2025.07.12-20.17.41:694][776]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.07.12-20.17.41:734][777]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.07.12-20.17.41:735][777]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.07.12-20.17.41:735][777]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.07.12-20.17.41:979][777]LogWorld: UWorld::CleanupWorld for SlashOpenWorld, bSessionEnded=true, bCleanupResources=true
+[2025.07.12-20.17.41:982][777]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.12-20.17.41:986][777]LogWorld: UWorld::CleanupWorld for Clinic, bSessionEnded=true, bCleanupResources=true
+[2025.07.12-20.17.41:986][777]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.12-20.17.42:062][777]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.07.12-20.17.42:081][777]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.07.12-20.17.42:141][777]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.07.12-20.17.42:141][777]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.12-20.17.42:143][777]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.07.12-20.17.42:143][777]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.12-20.17.42:143][777]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.07.12-20.17.42:143][777]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.12-20.17.42:145][777]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.07.12-20.17.42:145][777]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.12-20.17.42:146][777]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.07.12-20.17.42:147][777]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.07.12-20.17.42:180][777]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.07.12-20.17.42:198][777]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2025.07.12-20.17.42:198][777]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2025.07.12-20.17.42:198][777]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2025.07.12-20.17.42:212][777]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.07.12-20.17.42:212][777]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.07.12-20.17.42:213][777]LogAudio: Display: Audio Device unregistered from world 'SlashOpenWorld'.
+[2025.07.12-20.17.42:213][777]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.07.12-20.17.42:220][777]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.07.12-20.17.42:223][777]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.07.12-20.17.42:247][777]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.07.12-20.17.42:247][777]LogAudio: Display: Audio Device Manager Shutdown
+[2025.07.12-20.17.42:248][777]LogWindowsTextInputMethodSystem: Activated input method: Español (España, internacional) - (Keyboard).
+[2025.07.12-20.17.42:256][777]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.07.12-20.17.42:258][777]LogExit: Preparing to exit.
+[2025.07.12-20.17.42:558][777]LogUObjectHash: Compacting FUObjectHashTables data took   6.49ms
+[2025.07.12-20.17.43:883][777]LogEditorDataStorage: Deinitializing
+[2025.07.12-20.17.44:945][777]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.07.12-20.17.45:329][777]LogExit: Editor shut down
+[2025.07.12-20.17.45:396][777]LogExit: Transaction tracking system shut down
+[2025.07.12-20.17.48:821][777]LogExit: Object subsystem successfully closed.
+[2025.07.12-20.17.48:939][777]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.07.12-20.17.50:408][777]LogMemoryProfiler: Shutdown
+[2025.07.12-20.17.50:413][777]LogNetworkingProfiler: Shutdown
+[2025.07.12-20.17.50:413][777]LoadingProfiler: Shutdown
+[2025.07.12-20.17.50:416][777]LogTimingProfiler: Shutdown
+[2025.07.12-20.17.51:961][777]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.07.12-20.17.51:969][777]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2025.07.12-20.17.51:971][777]LogNFORDenoise: NFORDenoise function shutting down
+[2025.07.12-20.17.52:115][777]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.07.12-20.17.52:115][777]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD52E3DD7-4D27-AE6B-54EE-5F97050B9CA1%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.3-39772772%2B%2B%2BUE5%2BRelease-5.5&UserID=9ffb585a415f8b5ea3099583a3a7266d%7C8558b0f0649c41fd8c81a81c61794009%7C7a8c91b2-78e4-4ba2-9615-51435d5b763c&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.07.12-20.17.52:776][777]LogEOSSDK: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.07.12-20.17.52:782][777]RenderDocPlugin: plugin has been unloaded.
+[2025.07.12-20.17.52:816][777]LogXGEController: Cleaning working directory: C:/Users/Usuario/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2025.07.12-20.17.52:885][777]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.07.12-20.17.52:885][777]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.07.12-20.17.52:892][777]LogPakFile: Destroying PakPlatformFile
+[2025.07.12-20.17.53:780][777]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.07.12-20.17.53:870][777]LogExit: Exiting.
+[2025.07.12-20.17.53:934][777]Log file closed, 07/12/25 22:17:53
