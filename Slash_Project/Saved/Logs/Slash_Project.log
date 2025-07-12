@@ -1632,3 +1632,85 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.07.12-15.41.28:757][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
 [2025.07.12-15.41.28:975][ 35]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
 [2025.07.12-15.41.28:975][ 35]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_5'.
+[2025.07.12-15.42.42:991][417]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1054.488159
+[2025.07.12-15.42.43:994][420]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.12-15.42.43:994][420]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1055.169922, Update Interval: 336.884064
+[2025.07.12-15.48.32:869][462]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1402.895020
+[2025.07.12-15.48.33:869][465]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.12-15.48.33:869][465]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1403.562256, Update Interval: 313.837708
+[2025.07.12-15.54.13:211][509]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1743.239014
+[2025.07.12-15.54.13:578][520]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.12-15.54.13:578][520]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1743.572021, Update Interval: 334.573212
+[2025.07.12-15.55.26:090][637]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Megascans/3D/Desert_Western_Cliff_Layered_Large_03_vbzmdd1ga/Low/vbzmdd1ga_tier_3.vbzmdd1ga_tier_3
+[2025.07.12-15.55.26:090][637]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Megascans/3D/Desert_Western_Cliff_Layered_Large_03_vbzmdd1ga/Low/vbzmdd1ga_tier_3.vbzmdd1ga_tier_3
+[2025.07.12-15.55.26:091][637]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fab/Megascans/3D/Desert_Western_Cliff_Layered_Large_03_vbzmdd1ga/Low/vbzmdd1ga_tier_3.vbzmdd1ga_tier_3 as actor: StaticMeshActor /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.StaticMeshActor_46
+[2025.07.12-15.55.27:142][658]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.07.12-15.55.27:144][658]LogEditorActor: Deleted 0 Actors (0.023 secs)
+[2025.07.12-15.55.27:157][658]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Megascans/3D/Desert_Western_Cliff_Layered_Large_03_vbzmdd1ga/Low/vbzmdd1ga_tier_3.vbzmdd1ga_tier_3
+[2025.07.12-15.55.27:157][658]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Megascans/3D/Desert_Western_Cliff_Layered_Large_03_vbzmdd1ga/Low/vbzmdd1ga_tier_3.vbzmdd1ga_tier_3
+[2025.07.12-15.55.27:158][658]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fab/Megascans/3D/Desert_Western_Cliff_Layered_Large_03_vbzmdd1ga/Low/vbzmdd1ga_tier_3.vbzmdd1ga_tier_3 as actor: StaticMeshActor /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.StaticMeshActor_47
+[2025.07.12-15.55.34:200][837]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Megascans/3D/Desert_Western_Cliff_Layered_XL_01_veoneio/Low/veoneio_tier_3.veoneio_tier_3
+[2025.07.12-15.55.34:200][837]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Megascans/3D/Desert_Western_Cliff_Layered_XL_01_veoneio/Low/veoneio_tier_3.veoneio_tier_3
+[2025.07.12-15.55.34:201][837]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fab/Megascans/3D/Desert_Western_Cliff_Layered_XL_01_veoneio/Low/veoneio_tier_3.veoneio_tier_3 as actor: StaticMeshActor /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.StaticMeshActor_48
+[2025.07.12-15.55.35:047][860]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2025.07.12-15.55.35:050][860]LogEditorActor: Deleted 0 Actors (0.018 secs)
+[2025.07.12-15.55.35:060][860]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Megascans/3D/Desert_Western_Cliff_Layered_XL_01_veoneio/Low/veoneio_tier_3.veoneio_tier_3
+[2025.07.12-15.55.35:060][860]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Megascans/3D/Desert_Western_Cliff_Layered_XL_01_veoneio/Low/veoneio_tier_3.veoneio_tier_3
+[2025.07.12-15.55.35:062][860]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fab/Megascans/3D/Desert_Western_Cliff_Layered_XL_01_veoneio/Low/veoneio_tier_3.veoneio_tier_3 as actor: StaticMeshActor /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.StaticMeshActor_49
+[2025.07.12-15.55.41:106][  6]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Megascans/3D/Desert_Western_Cliff_Layered_XL_14_vjrmfb1ab/Low/vjrmfb1ab_tier_3.vjrmfb1ab_tier_3
+[2025.07.12-15.55.41:106][  6]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Megascans/3D/Desert_Western_Cliff_Layered_XL_14_vjrmfb1ab/Low/vjrmfb1ab_tier_3.vjrmfb1ab_tier_3
+[2025.07.12-15.55.41:107][  6]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fab/Megascans/3D/Desert_Western_Cliff_Layered_XL_14_vjrmfb1ab/Low/vjrmfb1ab_tier_3.vjrmfb1ab_tier_3 as actor: StaticMeshActor /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.StaticMeshActor_50
+[2025.07.12-15.55.42:953][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.07.12-15.55.42:955][ 51]LogEditorActor: Deleted 0 Actors (0.016 secs)
+[2025.07.12-15.55.42:966][ 51]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Megascans/3D/Desert_Western_Cliff_Layered_XL_14_vjrmfb1ab/Low/vjrmfb1ab_tier_3.vjrmfb1ab_tier_3
+[2025.07.12-15.55.42:967][ 51]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Megascans/3D/Desert_Western_Cliff_Layered_XL_14_vjrmfb1ab/Low/vjrmfb1ab_tier_3.vjrmfb1ab_tier_3
+[2025.07.12-15.55.42:968][ 51]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fab/Megascans/3D/Desert_Western_Cliff_Layered_XL_14_vjrmfb1ab/Low/vjrmfb1ab_tier_3.vjrmfb1ab_tier_3 as actor: StaticMeshActor /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.StaticMeshActor_51
+[2025.07.12-15.55.49:666][210]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Megascans/3D/Desert_Western_Cluster_Rock_Large__04_vidgcbgcb/Low/vidgcbgcb_tier_3.vidgcbgcb_tier_3
+[2025.07.12-15.55.49:666][210]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Megascans/3D/Desert_Western_Cluster_Rock_Large__04_vidgcbgcb/Low/vidgcbgcb_tier_3.vidgcbgcb_tier_3
+[2025.07.12-15.55.49:667][210]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fab/Megascans/3D/Desert_Western_Cluster_Rock_Large__04_vidgcbgcb/Low/vidgcbgcb_tier_3.vidgcbgcb_tier_3 as actor: StaticMeshActor /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.StaticMeshActor_52
+[2025.07.12-15.55.51:036][250]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.07.12-15.55.51:045][250]LogEditorActor: Deleted 0 Actors (0.024 secs)
+[2025.07.12-15.55.51:055][250]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Megascans/3D/Desert_Western_Cluster_Rock_Large__04_vidgcbgcb/Low/vidgcbgcb_tier_3.vidgcbgcb_tier_3
+[2025.07.12-15.55.51:055][250]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Megascans/3D/Desert_Western_Cluster_Rock_Large__04_vidgcbgcb/Low/vidgcbgcb_tier_3.vidgcbgcb_tier_3
+[2025.07.12-15.55.51:057][250]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fab/Megascans/3D/Desert_Western_Cluster_Rock_Large__04_vidgcbgcb/Low/vidgcbgcb_tier_3.vidgcbgcb_tier_3 as actor: StaticMeshActor /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.StaticMeshActor_53
+[2025.07.12-15.55.57:198][388]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Megascans/3D/Desert_Western_Formation_Layered_XL_05_vjqiaa2qx/Low/vjqiaa2qx_tier_3.vjqiaa2qx_tier_3
+[2025.07.12-15.55.57:198][388]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Megascans/3D/Desert_Western_Formation_Layered_XL_05_vjqiaa2qx/Low/vjqiaa2qx_tier_3.vjqiaa2qx_tier_3
+[2025.07.12-15.55.57:199][388]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fab/Megascans/3D/Desert_Western_Formation_Layered_XL_05_vjqiaa2qx/Low/vjqiaa2qx_tier_3.vjqiaa2qx_tier_3 as actor: StaticMeshActor /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.StaticMeshActor_54
+[2025.07.12-15.55.58:691][425]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.07.12-15.55.58:693][425]LogEditorActor: Deleted 0 Actors (0.016 secs)
+[2025.07.12-15.55.58:703][425]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Megascans/3D/Desert_Western_Formation_Layered_XL_05_vjqiaa2qx/Low/vjqiaa2qx_tier_3.vjqiaa2qx_tier_3
+[2025.07.12-15.55.58:703][425]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Megascans/3D/Desert_Western_Formation_Layered_XL_05_vjqiaa2qx/Low/vjqiaa2qx_tier_3.vjqiaa2qx_tier_3
+[2025.07.12-15.55.58:704][425]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fab/Megascans/3D/Desert_Western_Formation_Layered_XL_05_vjqiaa2qx/Low/vjqiaa2qx_tier_3.vjqiaa2qx_tier_3 as actor: StaticMeshActor /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.StaticMeshActor_55
+[2025.07.12-15.56.28:712][201]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Megascans/3D/Desert_Western_Patch_Ground_Slate_Small_01__venodhb/Low/venodhb_tier_3.venodhb_tier_3
+[2025.07.12-15.56.28:712][201]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Megascans/3D/Desert_Western_Patch_Ground_Slate_Small_01__venodhb/Low/venodhb_tier_3.venodhb_tier_3
+[2025.07.12-15.56.28:712][201]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fab/Megascans/3D/Desert_Western_Patch_Ground_Slate_Small_01__venodhb/Low/venodhb_tier_3.venodhb_tier_3 as actor: StaticMeshActor /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.StaticMeshActor_56
+[2025.07.12-15.56.30:386][240]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.07.12-15.56.30:397][240]LogEditorActor: Deleted 0 Actors (0.024 secs)
+[2025.07.12-15.56.30:406][240]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Megascans/3D/Desert_Western_Patch_Ground_Slate_Small_01__venodhb/Low/venodhb_tier_3.venodhb_tier_3
+[2025.07.12-15.56.30:406][240]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Megascans/3D/Desert_Western_Patch_Ground_Slate_Small_01__venodhb/Low/venodhb_tier_3.venodhb_tier_3
+[2025.07.12-15.56.30:408][240]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fab/Megascans/3D/Desert_Western_Patch_Ground_Slate_Small_01__venodhb/Low/venodhb_tier_3.venodhb_tier_3 as actor: StaticMeshActor /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.StaticMeshActor_57
+[2025.07.12-15.56.37:156][399]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Megascans/3D/Desert_Western_Pile_Rock_Small_01_ul4lehiga/Low/ul4lehiga_tier_3.ul4lehiga_tier_3
+[2025.07.12-15.56.37:156][399]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Megascans/3D/Desert_Western_Pile_Rock_Small_01_ul4lehiga/Low/ul4lehiga_tier_3.ul4lehiga_tier_3
+[2025.07.12-15.56.37:157][399]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fab/Megascans/3D/Desert_Western_Pile_Rock_Small_01_ul4lehiga/Low/ul4lehiga_tier_3.ul4lehiga_tier_3 as actor: StaticMeshActor /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.StaticMeshActor_58
+[2025.07.12-15.56.38:779][449]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.07.12-15.56.38:782][449]LogEditorActor: Deleted 0 Actors (0.017 secs)
+[2025.07.12-15.56.38:791][449]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Megascans/3D/Desert_Western_Pile_Rock_Small_01_ul4lehiga/Low/ul4lehiga_tier_3.ul4lehiga_tier_3
+[2025.07.12-15.56.38:791][449]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Megascans/3D/Desert_Western_Pile_Rock_Small_01_ul4lehiga/Low/ul4lehiga_tier_3.ul4lehiga_tier_3
+[2025.07.12-15.56.38:792][449]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fab/Megascans/3D/Desert_Western_Pile_Rock_Small_01_ul4lehiga/Low/ul4lehiga_tier_3.ul4lehiga_tier_3 as actor: StaticMeshActor /Game/Maps/SlashOpenWorld.SlashOpenWorld:PersistentLevel.StaticMeshActor_59
+[2025.07.12-15.56.54:070][837]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2025.07.12-15.56.55:094][837]LogSlate: Window 'Save Content' being destroyed
+[2025.07.12-15.56.55:252][837]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.12-15.56.55:382][837]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2025.07.12-15.56.58:216][837]LogSavePackage: Moving output files for package: /Game/Maps/SlashOpenWorld
+[2025.07.12-15.56.58:217][837]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Saved/SlashOpenWorld8DFE33D14D2A39B6F2C770B133ED3EB2.tmp' to '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Content/Maps/SlashOpenWorld.umap'
+[2025.07.12-15.56.58:255][837]LogFileHelpers: Saving map 'SlashOpenWorld' took 2.938
+[2025.07.12-15.56.58:279][837]LogFileHelpers: InternalPromptForCheckoutAndSave took 3.02 sec (total: 9.90 sec)
+[2025.07.12-15.56.58:347][837]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.12-15.56.58:347][837]LogContentValidation: Enabled validators:
+[2025.07.12-15.56.58:347][837]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.12-15.56.58:347][837]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.12-15.56.58:347][837]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.12-15.56.58:347][837]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.12-15.56.58:347][837]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.12-15.56.58:347][837]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.12-15.56.58:348][837]AssetCheck: /Game/Maps/SlashOpenWorld Validating asset
