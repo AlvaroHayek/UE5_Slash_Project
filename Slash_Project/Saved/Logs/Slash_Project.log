@@ -1456,3 +1456,147 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.08.04-16.15.40:489][  9]LogEOSSDK: LogEOS: SDK Config Product Update Request Successful, Time: 33.120712
 [2025.08.04-16.15.40:493][  9]LogEOSSDK: LogEOS: SDK Config Data - Watermark: 1327463752
 [2025.08.04-16.15.40:493][  9]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 33.120712, Update Interval: 341.992859
+[2025.08.04-16.16.29:866][220]LogDerivedDataCache: C:/Users/Usuario/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.002 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.08.04-16.18.25:989][967]LogShaderCompilers: Display: ================================================
+[2025.08.04-16.18.25:989][967]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.08.04-16.18.25:989][967]LogShaderCompilers: Display: Total job queries 446, among them cache hits 182 (40.81%), DDC hits 208 (46.64%), Duplicates 12 (2.69%)
+[2025.08.04-16.18.25:989][967]LogShaderCompilers: Display: Tracking 252 distinct input hashes that result in 205 distinct outputs (81.35%)
+[2025.08.04-16.18.25:989][967]LogShaderCompilers: Display: RAM used: 141.35 KiB of 819.20 MiB budget. Usage: 0.02%
+[2025.08.04-16.18.25:989][967]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.08.04-16.18.25:989][967]LogShaderCompilers: Display: Shaders Compiled: 44
+[2025.08.04-16.18.25:989][967]LogShaderCompilers: Display: Jobs assigned 44, completed 44 (100%)
+[2025.08.04-16.18.25:989][967]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2025.08.04-16.18.25:989][967]LogShaderCompilers: Display: Time job spent in pending queue: average 0.20 s, longest 3.33 s
+[2025.08.04-16.18.25:989][967]LogShaderCompilers: Display: Job execution time: average 5.61 s, max 7.72 s
+[2025.08.04-16.18.25:989][967]LogShaderCompilers: Display: Job life time (pending + execution): average 5.81 s, max 7.85
+[2025.08.04-16.18.25:989][967]LogShaderCompilers: Display: Shader code size: average 7.526 KiB, min 1.395 KiB, max 14.612 KiB
+[2025.08.04-16.18.25:989][967]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 7.85 s
+[2025.08.04-16.18.25:989][967]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.22%
+[2025.08.04-16.18.25:989][967]LogShaderCompilers: Display: Jobs were issued in 11 batches (only local compilation was used), average 4.00 jobs/batch
+[2025.08.04-16.18.25:989][967]LogShaderCompilers: Display: Average processing rate: 5.60 jobs/sec
+[2025.08.04-16.18.25:989][967]LogShaderCompilers: Display: Total thread time: 36.27 s
+[2025.08.04-16.18.25:989][967]LogShaderCompilers: Display: Total thread preprocess time: 10.315 s
+[2025.08.04-16.18.25:989][967]LogShaderCompilers: Display: Percentage time preprocessing: 28.44%
+[2025.08.04-16.18.25:989][967]LogShaderCompilers: Display: Effective parallelization: 4.62 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.08.04-16.18.25:989][967]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.08.04-16.18.25:989][967]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    2 times, average 2.46 sec, max 2.47 sec, min 2.46 sec)
+[2025.08.04-16.18.25:989][967]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    2 times, average 1.75 sec, max 1.87 sec, min 1.62 sec)
+[2025.08.04-16.18.25:989][967]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    2 times, average 1.64 sec, max 1.68 sec, min 1.59 sec)
+[2025.08.04-16.18.25:989][967]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    2 times, average 1.00 sec, max 1.02 sec, min 0.98 sec)
+[2025.08.04-16.18.25:989][967]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 0.96 sec, max 1.00 sec, min 0.92 sec)
+[2025.08.04-16.18.25:989][967]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.08.04-16.18.25:989][967]LogShaderCompilers: Display:                                             FDebugViewModePS - 13.58% of total time (compiled    2 times, average 2.46 sec, max 2.47 sec, min 2.46 sec)
+[2025.08.04-16.18.25:989][967]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 9.62% of total time (compiled    2 times, average 1.75 sec, max 1.87 sec, min 1.62 sec)
+[2025.08.04-16.18.25:989][967]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 9.02% of total time (compiled    2 times, average 1.64 sec, max 1.68 sec, min 1.59 sec)
+[2025.08.04-16.18.25:989][967]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 5.52% of total time (compiled    2 times, average 1.00 sec, max 1.02 sec, min 0.98 sec)
+[2025.08.04-16.18.25:989][967]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 5.31% of total time (compiled    2 times, average 0.96 sec, max 1.00 sec, min 0.92 sec)
+[2025.08.04-16.18.25:989][967]LogShaderCompilers: Display: === Material stats ===
+[2025.08.04-16.18.25:989][967]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.08.04-16.18.25:989][967]LogShaderCompilers: Display: Materials Translated:    196
+[2025.08.04-16.18.25:989][967]LogShaderCompilers: Display: Material Total Translate Time: 0.32 s
+[2025.08.04-16.18.25:989][967]LogShaderCompilers: Display: Material Translation Only: 0.15 s (47%)
+[2025.08.04-16.18.25:989][967]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.08.04-16.18.25:989][967]LogShaderCompilers: Display: Material Cache Hits: 39 (20%)
+[2025.08.04-16.18.25:990][967]LogShaderCompilers: Display: ================================================
+[2025.08.04-16.19.18:529][367]LogEditorClassViewer: Warning: Class /Game/Clinic/Demo/FirstPersonBP/FirstPersonOverview.FirstPersonOverview_C has parent /Script/IntroTutorials.EditorTutorial, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.08.04-16.19.18:640][367]LogSlate: Took 0.008180 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.08.04-16.19.51:654][978]Running C:/Program Files/Epic Games/UE_5.5/Engine/Build/BatchFiles/Build.bat  -projectfiles -project="C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Slash_Project.uproject" -game -rocket -progress
+[2025.08.04-16.19.51:800][978]Using bundled DotNet SDK version: 8.0.300
+[2025.08.04-16.19.51:800][978]Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" -projectfiles -project="C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Slash_Project.uproject" -game -rocket -progress
+[2025.08.04-16.19.52:505][978]Log file: C:\Users\Usuario\AppData\Local\UnrealBuildTool\Log_GPF.txt
+[2025.08.04-16.19.55:219][978]
+[2025.08.04-16.19.55:219][978]Generating VisualStudio project files:
+[2025.08.04-16.19.55:219][978]Discovering modules, targets and source code for project...
+[2025.08.04-16.19.55:824][978]Available x64 toolchains (1):
+[2025.08.04-16.19.55:824][978] * C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207
+[2025.08.04-16.19.55:824][978]    (Family=14.44.35207, FamilyRank=1, Version=14.44.35213, Is64Bit=True, ReleaseChannel=Latest, Architecture=x64)
+[2025.08.04-16.19.55:824][978]Visual Studio 2022 compiler version 14.44.35213 is not a preferred version. Please use the latest preferred version 14.38.33130
+[2025.08.04-16.20.01:166][978]Binding IntelliSense data...
+[2025.08.04-16.20.41:079][978]Binding IntelliSense data... 50%
+[2025.08.04-16.20.41:080][978]Binding IntelliSense data... 100%
+[2025.08.04-16.20.41:080][978]Writing project files...
+[2025.08.04-16.20.44:522][978]Writing project files... 100%
+[2025.08.04-16.20.44:523][978]
+[2025.08.04-16.20.44:523][978]Generating QueryTargets data for editor...
+[2025.08.04-16.20.44:624][978]Total execution time: 52.53 seconds
+[2025.08.04-16.20.53:861][978]LogSlate: Window 'Message' being destroyed
+[2025.08.04-16.20.53:867][978]Message dialog closed, result: Ok, title: Message, text: Project now includes sources, please close the editor and build from your IDE.
+[2025.08.04-16.20.57:066][978]LogSlate: Window 'Message' being destroyed
+[2025.08.04-16.20.57:073][978]Message dialog closed, result: Yes, title: Message, text: Successfully added class 'Item', however you must recompile the 'Slash_Project' module before it will appear in the Content Browser.
+
+Would you like to edit the code now?
+[2025.08.04-16.20.57:341][978]LogSlate: Window 'Add C++ Class' being destroyed
+[2025.08.04-16.21.02:076][990]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.04-16.21.02:083][990]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.04-16.21.02:093][991]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.04-16.21.02:099][991]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.04-16.21.44:676][993]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 397.622986
+[2025.08.04-16.21.45:675][996]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.04-16.21.45:675][996]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 398.291595, Update Interval: 348.366943
+[2025.08.04-16.27.37:754][ 52]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 750.701721
+[2025.08.04-16.27.38:757][ 55]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.04-16.27.38:758][ 55]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 751.371338, Update Interval: 311.215546
+[2025.08.04-16.32.55:886][  6]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1068.835205
+[2025.08.04-16.32.56:887][  9]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.04-16.32.56:887][  9]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1069.501587, Update Interval: 358.353821
+[2025.08.04-16.39.05:970][116]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1438.919678
+[2025.08.04-16.39.06:969][119]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.04-16.39.06:969][119]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1439.589233, Update Interval: 304.918365
+[2025.08.04-16.44.37:713][111]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1770.664062
+[2025.08.04-16.44.38:718][114]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.04-16.44.38:718][114]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1771.332153, Update Interval: 345.968201
+[2025.08.04-16.46.21:121][420]LogUObjectHash: Compacting FUObjectHashTables data took  11.57ms
+[2025.08.04-16.46.21:283][420]LogStall: Shutdown...
+[2025.08.04-16.46.21:283][420]LogStall: Shutdown complete.
+[2025.08.04-16.46.21:393][420]LogSlate: Window 'Slash_Project - Unreal Editor' being destroyed
+[2025.08.04-16.46.21:596][420]Cmd: QUIT_EDITOR
+[2025.08.04-16.46.21:596][421]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.08.04-16.46.21:620][421]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.08.04-16.46.21:623][421]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.08.04-16.46.21:623][421]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.08.04-16.46.21:756][421]LogWorld: UWorld::CleanupWorld for SlashOpenWorld, bSessionEnded=true, bCleanupResources=true
+[2025.08.04-16.46.21:758][421]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.04-16.46.21:760][421]LogWorld: UWorld::CleanupWorld for Clinic, bSessionEnded=true, bCleanupResources=true
+[2025.08.04-16.46.21:760][421]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.04-16.46.21:816][421]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.08.04-16.46.21:834][421]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.08.04-16.46.21:881][421]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.08.04-16.46.21:894][421]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2025.08.04-16.46.21:894][421]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2025.08.04-16.46.21:894][421]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2025.08.04-16.46.21:911][421]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.08.04-16.46.21:911][421]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.08.04-16.46.21:911][421]LogAudio: Display: Audio Device unregistered from world 'SlashOpenWorld'.
+[2025.08.04-16.46.21:911][421]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.08.04-16.46.21:917][421]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.08.04-16.46.21:934][421]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.08.04-16.46.21:953][421]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.08.04-16.46.21:953][421]LogAudio: Display: Audio Device Manager Shutdown
+[2025.08.04-16.46.21:955][421]LogWindowsTextInputMethodSystem: Activated input method: Español (España, internacional) - (Keyboard).
+[2025.08.04-16.46.21:963][421]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.08.04-16.46.21:965][421]LogExit: Preparing to exit.
+[2025.08.04-16.46.22:080][421]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.08.04-16.46.22:654][421]LogEditorDataStorage: Deinitializing
+[2025.08.04-16.46.23:099][421]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.08.04-16.46.23:285][421]LogExit: Editor shut down
+[2025.08.04-16.46.23:308][421]LogExit: Transaction tracking system shut down
+[2025.08.04-16.46.24:461][421]LogExit: Object subsystem successfully closed.
+[2025.08.04-16.46.24:501][421]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.08.04-16.46.25:228][421]LogMemoryProfiler: Shutdown
+[2025.08.04-16.46.25:229][421]LogNetworkingProfiler: Shutdown
+[2025.08.04-16.46.25:229][421]LoadingProfiler: Shutdown
+[2025.08.04-16.46.25:230][421]LogTimingProfiler: Shutdown
+[2025.08.04-16.46.25:977][421]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.08.04-16.46.25:979][421]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2025.08.04-16.46.25:979][421]LogNFORDenoise: NFORDenoise function shutting down
+[2025.08.04-16.46.25:990][421]RenderDocPlugin: plugin has been unloaded.
+[2025.08.04-16.46.26:025][421]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.08.04-16.46.26:025][421]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BBA3AFE2C-4080-A3AE-59DF-1FA6734FD197%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.3-39772772%2B%2B%2BUE5%2BRelease-5.5&UserID=9ffb585a415f8b5ea3099583a3a7266d%7C8558b0f0649c41fd8c81a81c61794009%7C7a8c91b2-78e4-4ba2-9615-51435d5b763c&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.08.04-16.46.26:592][421]LogEOSSDK: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.08.04-16.46.26:602][421]LogXGEController: Cleaning working directory: C:/Users/Usuario/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2025.08.04-16.46.26:622][421]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.08.04-16.46.26:622][421]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.08.04-16.46.26:623][421]LogPakFile: Destroying PakPlatformFile
+[2025.08.04-16.46.27:130][421]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.08.04-16.46.27:183][421]LogExit: Exiting.
+[2025.08.04-16.46.27:223][421]Log file closed, 08/04/25 18:46:27

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Slash_Project.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Slash_Project.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Slash_ProjectEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Slash_Project">
+      <UniqueIdentifier>{B7FC7E45-4FE8-3AEF-925F-C2CB9ADE830D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Slash_Project\Slash_Project.Build.cs">
+      <Filter>Source\Slash_Project</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Slash_Project\Slash_Project.cpp">
+      <Filter>Source\Slash_Project</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Slash_Project\Slash_Project.h">
+      <Filter>Source\Slash_Project</Filter>
+    </ClCompile>
+    <Filter Include="Source\Slash_Project\Private">
+      <UniqueIdentifier>{A07B341A-CF6B-3E5A-B52B-B63F47BB4AC2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Slash_Project\Private\Items">
+      <UniqueIdentifier>{B5ABFF33-EF40-3A20-8924-52FD06A882A6}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Slash_Project\Private\Items\Item.cpp">
+      <Filter>Source\Slash_Project\Private\Items</Filter>
+    </ClCompile>
+    <Filter Include="Source\Slash_Project\Public">
+      <UniqueIdentifier>{837A0832-DA3C-38A7-8503-42A05DA40DAC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Slash_Project\Public\Items">
+      <UniqueIdentifier>{71A1109C-7BB5-3049-A640-C7E6DBB3768D}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Slash_Project\Public\Items\Item.h">
+      <Filter>Source\Slash_Project\Public\Items</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
