@@ -1871,3 +1871,270 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.08.05-18.07.22:093][878]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
 [2025.08.05-18.07.22:130][879]LogPlayLevel: Display: Destroying online subsystem :Context_3
 [2025.08.05-18.07.22:146][879]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.08.05-18.10.50:165][651]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 331.948517
+[2025.08.05-18.10.51:165][654]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.05-18.10.51:166][654]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 332.620758, Update Interval: 324.507568
+[2025.08.05-18.14.44:790][553]LogSlate: External Image Picker: DecompressImage failed
+[2025.08.05-18.14.45:137][555]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
+[2025.08.05-18.14.45:138][555]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_1'.
+[2025.08.05-18.14.58:848][305]LogSlate: Window 'Project Settings' being destroyed
+[2025.08.05-18.14.58:853][305]LogSlate: Window 'Project Settings' being destroyed
+[2025.08.05-18.15.11:378][ 21]LogSlate: Window 'Editor Preferences' being destroyed
+[2025.08.05-18.15.11:383][ 21]LogSlate: Window 'Editor Preferences' being destroyed
+[2025.08.05-18.16.19:554][787]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 661.337219
+[2025.08.05-18.16.20:555][790]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.05-18.16.20:555][790]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 662.003540, Update Interval: 306.714691
+[2025.08.05-18.21.33:297][728]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 975.079041
+[2025.08.05-18.21.34:297][731]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.05-18.21.34:297][731]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 975.746033, Update Interval: 338.099915
+[2025.08.05-18.23.17:798][ 41]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2025.08.05-21.24.45:561][ 41]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.08.05-21.24.45:561][ 41]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=24188
+[2025.08.05-21.24.45:914][ 43]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.08.05-21.24.45:919][ 43]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{58ea4715-9790-4598-9427-e0f8b9d39fd0}, Name=Altavoces (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=39.94
+[2025.08.05-21.24.45:921][ 43]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.08.05-21.24.45:926][ 43]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.08.05-21.24.46:070][ 43]LogHttp: Warning: 000005A5C2952A00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.08.05-21.24.46:070][ 43]LogHttp: Warning: 000005A5C2952A00: libcurl info message cache 0 (Too old connection (10945 seconds idle), disconnect it)
+[2025.08.05-21.24.46:070][ 43]LogHttp: Warning: 000005A5C2952A00: libcurl info message cache 1 (Connection 0 seems to be dead)
+[2025.08.05-21.24.46:070][ 43]LogHttp: Warning: 000005A5C2952A00: libcurl info message cache 2 (Closing connection)
+[2025.08.05-21.24.46:070][ 43]LogHttp: Warning: 000005A5C2952A00: libcurl info message cache 3 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.08.05-21.24.46:070][ 43]LogHttp: Warning: 000005A5C2952A00: libcurl info message cache 4 (Could not resolve host: datarouter.ol.epicgames.com)
+[2025.08.05-21.24.46:070][ 43]LogHttp: Warning: 000005A5C2952A00: libcurl info message cache 5 (Closing connection)
+[2025.08.05-21.24.46:071][ 43]LogEOSSDK: Warning: LogHttp: 000005A5C2F67200: invalid HTTP response code received. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7BFEB41492-41F0-58DC-C031-D2B0FF0B255D%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.16.4-36651368%20-%20%2B%2BEOSSDK%2BRelease-1.16.4-CL-36651368&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.08.05-21.24.46:071][ 43]LogEOSSDK: Warning: LogHttp: 000005A5C2F67200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.08.05-21.24.46:071][ 43]LogEOSSDK: Warning: LogHttp: 000005A5C2F67200: libcurl info message cache 0 (Too old connection (10947 seconds idle), disconnect it)
+[2025.08.05-21.24.46:071][ 43]LogEOSSDK: Warning: LogHttp: 000005A5C2F67200: libcurl info message cache 1 (Connection 3 seems to be dead)
+[2025.08.05-21.24.46:071][ 43]LogEOSSDK: Warning: LogHttp: 000005A5C2F67200: libcurl info message cache 2 (Closing connection)
+[2025.08.05-21.24.46:071][ 43]LogEOSSDK: Warning: LogHttp: 000005A5C2F67200: libcurl info message cache 3 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.08.05-21.24.46:071][ 43]LogEOSSDK: Warning: LogHttp: 000005A5C2F67200: libcurl info message cache 4 (Could not resolve host: api.epicgames.dev)
+[2025.08.05-21.24.46:071][ 43]LogEOSSDK: Warning: LogHttp: 000005A5C2F67200: libcurl info message cache 5 (Closing connection)
+[2025.08.05-21.24.46:071][ 43]LogEOSSDK: Warning: LogHttp: 000005A5C2F62400: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=8D9406444BEE8C628846CF9C1C3DA710, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.08.05-21.24.46:071][ 43]LogEOSSDK: Warning: LogHttp: 000005A5C2F62400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.08.05-21.24.46:071][ 44]LogEOSSDK: Warning: LogHttp: 000005A5C2F62400: libcurl info message cache 0 (Found bundle for host: 0x5a5ab080ea0 [serially])
+[2025.08.05-21.24.46:071][ 44]LogEOSSDK: Warning: LogHttp: 000005A5C2F62400: libcurl info message cache 1 (Could not resolve host: api.epicgames.dev)
+[2025.08.05-21.24.46:071][ 44]LogEOSSDK: Warning: LogHttp: 000005A5C2F62400: libcurl info message cache 2 (Closing connection)
+[2025.08.05-21.24.46:071][ 44]LogEOSSDK: Warning: LogHttp: 000005A5C2F65A00: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.08.05-21.24.46:071][ 44]LogEOSSDK: Warning: LogHttp: 000005A5C2F65A00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.08.05-21.24.46:071][ 44]LogEOSSDK: Warning: LogHttp: 000005A5C2F65A00: libcurl info message cache 0 (Found bundle for host: 0x5a5ab080ea0 [serially])
+[2025.08.05-21.24.46:071][ 44]LogEOSSDK: Warning: LogHttp: 000005A5C2F65A00: libcurl info message cache 1 (Could not resolve host: api.epicgames.dev)
+[2025.08.05-21.24.46:071][ 44]LogEOSSDK: Warning: LogHttp: 000005A5C2F65A00: libcurl info message cache 2 (Closing connection)
+[2025.08.05-21.24.46:072][ 44]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.08.05-21.24.46:072][ 44]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=8D9406444BEE8C628846CF9C1C3DA710
+[2025.08.05-21.24.46:263][ 44]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7BFEB41492-41F0-58DC-C031-D2B0FF0B255D%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.16.4-36651368%20-%20%2B%2BEOSSDK%2BRelease-1.16.4-CL-36651368&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2025.08.05-21.24.47:254][ 47]LogEOSSDK: Warning: LogHttp: Retry 1 on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.08.05-21.24.47:254][ 47]LogEOSSDK: Warning: LogHttp: Retry 1 on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=8D9406444BEE8C628846CF9C1C3DA710
+[2025.08.05-21.24.48:260][ 50]LogEOSSDK: Warning: LogHttp: Success on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.08.05-21.24.48:260][ 50]LogEOSSDK: Warning: LogHttp: Success on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=8D9406444BEE8C628846CF9C1C3DA710
+[2025.08.05-23.11.15:190][ 72]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18371.742188
+[2025.08.05-23.11.21:628][ 79]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.05-23.11.21:628][ 79]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18377.849609, Update Interval: 319.550781
+[2025.08.05-23.12.13:902][399]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.05-23.12.13:917][399]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.05-23.17.12:805][201]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18729.322266
+[2025.08.05-23.17.13:809][204]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.05-23.17.13:810][204]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18729.988281, Update Interval: 340.685455
+[2025.08.05-23.17.45:478][299]LogLiveCoding: Display: Starting Live Coding compile.
+[2025.08.05-23.18.08:529][420]LogLiveCoding: Display:    Creating library C:\Users\Usuario\Desktop\Unreal Engine + Unity\UE5_Slash_Project\Slash_Project\Binaries\Win64\UnrealEditor-Slash_Project.patch_1.lib and object C:\Users\Usuario\Desktop\Unreal Engine + Unity\UE5_Slash_Project\Slash_Project\Binaries\Win64\UnrealEditor-Slash_Project.patch_1.exp
+[2025.08.05-23.18.09:577][422]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2025.08.05-23.18.09:584][422]Display: Reload/Re-instancing Complete: No object changes detected
+[2025.08.05-23.18.09:584][422]LogLiveCoding: Display: Live coding succeeded
+[2025.08.05-23.18.13:594][515]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.08.05-23.18.13:697][515]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.05-23.18.13:727][515]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SlashOpenWorld
+[2025.08.05-23.18.14:234][515]LogPlayLevel: PIE: StaticDuplicateObject took: (0.506267s)
+[2025.08.05-23.18.14:234][515]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SlashOpenWorld.SlashOpenWorld to /Game/Maps/UEDPIE_0_SlashOpenWorld.SlashOpenWorld (0.506428s)
+[2025.08.05-23.18.14:251][515]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2025.08.05-23.18.14:252][515]LogChaosDD: Creating Chaos Debug Draw Scene for world SlashOpenWorld
+[2025.08.05-23.18.14:263][515]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/Maps/UEDPIE_0_SlashOpenWorld.SlashOpenWorld'.
+[2025.08.05-23.18.14:270][515]LogPlayLevel: PIE: World Init took: (0.018032s)
+[2025.08.05-23.18.14:272][515]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2025.08.05-23.18.14:272][515]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.05-23.18.14:272][515]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.05-23.18.14:272][515]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.05-23.18.14:272][515]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.05-23.18.14:272][515]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.05-23.18.14:272][515]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.05-23.18.14:272][515]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.05-23.18.14:272][515]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.05-23.18.14:272][515]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.05-23.18.14:272][515]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.05-23.18.14:272][515]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.05-23.18.14:276][515]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.05-23.18.14:333][515]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.08.05-23.18.14:365][515]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.05-23.18.14:365][515]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.05-23.18.14:365][515]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.05-23.18.14:368][515]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2025.08.05-23.18.14:368][515]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2025.08.05-23.18.14:370][515]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2025.08.05-23.18.14:371][515]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2025.08.05-23.18.14:371][515]LogInit: FAudioDevice initialized with ID 4.
+[2025.08.05-23.18.14:371][515]LogAudio: Display: Audio Device (ID: 4) registered with world 'SlashOpenWorld'.
+[2025.08.05-23.18.14:371][515]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2025.08.05-23.18.14:391][515]LogLoad: Game class is 'GameModeBase'
+[2025.08.05-23.18.14:609][515]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SlashOpenWorld.SlashOpenWorld up for play (max tick rate 60) at 2025.08.06-01.18.14
+[2025.08.05-23.18.14:609][515]LogWorld: Bringing up level for play took: 0.217675
+[2025.08.05-23.18.14:615][515]LogOnline: OSS: Created online subsystem instance for: :Context_5
+[2025.08.05-23.18.14:619][515]LogLevelInstance: Loaded 1 levels in 0 seconds
+[2025.08.05-23.18.14:619][515]LogStreaming: Display: FlushAsyncLoading(348): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.05-23.18.14:829][515]LogTemp: Warning: Begin Play called in C+++++++ hella!
+[2025.08.05-23.18.14:833][515]PIE: Server logged in
+[2025.08.05-23.18.14:834][515]PIE: Play in editor total start time 1.221 seconds.
+[2025.08.05-23.18.14:840][515]LogTemp: Warning: DeltaTime: 0.033436
+[2025.08.05-23.18.14:940][516]LogTemp: Warning: DeltaTime: 0.400000
+[2025.08.05-23.18.15:482][517]LogTemp: Warning: DeltaTime: 0.400000
+[2025.08.05-23.18.17:215][541]LogTemp: Warning: DeltaTime: 0.016671
+[2025.08.05-23.18.17:230][542]LogTemp: Warning: DeltaTime: 0.016668
+[2025.08.05-23.18.17:266][543]LogTemp: Warning: DeltaTime: 0.035535
+[2025.08.05-23.18.17:283][544]LogTemp: Warning: DeltaTime: 0.016667
+[2025.08.05-23.18.17:299][545]LogTemp: Warning: DeltaTime: 0.016667
+[2025.08.05-23.18.17:316][546]LogTemp: Warning: DeltaTime: 0.016670
+[2025.08.05-23.18.17:333][547]LogTemp: Warning: DeltaTime: 0.016667
+[2025.08.05-23.18.17:349][548]LogTemp: Warning: DeltaTime: 0.016667
+[2025.08.05-23.18.17:366][549]LogTemp: Warning: DeltaTime: 0.016667
+[2025.08.05-23.18.17:385][550]LogTemp: Warning: DeltaTime: 0.018873
+[2025.08.05-23.18.17:409][551]LogTemp: Warning: DeltaTime: 0.023840
+[2025.08.05-23.18.17:443][552]LogTemp: Warning: DeltaTime: 0.033384
+[2025.08.05-23.18.17:477][553]LogTemp: Warning: DeltaTime: 0.034144
+[2025.08.05-23.18.17:510][554]LogTemp: Warning: DeltaTime: 0.032976
+[2025.08.05-23.18.17:542][555]LogTemp: Warning: DeltaTime: 0.032574
+[2025.08.05-23.18.18:245][556]LogTemp: Warning: DeltaTime: 0.193783
+[2025.08.05-23.18.18:260][557]LogTemp: Warning: DeltaTime: 0.400000
+[2025.08.05-23.18.18:274][558]LogTemp: Warning: DeltaTime: 0.016667
+[2025.08.05-23.18.18:291][559]LogTemp: Warning: DeltaTime: 0.016667
+[2025.08.05-23.18.18:308][560]LogTemp: Warning: DeltaTime: 0.016667
+[2025.08.05-23.18.18:332][561]LogTemp: Warning: DeltaTime: 0.022952
+[2025.08.05-23.18.18:365][562]LogTemp: Warning: DeltaTime: 0.033150
+[2025.08.05-23.18.18:400][563]LogTemp: Warning: DeltaTime: 0.034141
+[2025.08.05-23.18.18:432][564]LogTemp: Warning: DeltaTime: 0.032590
+[2025.08.05-23.18.18:465][565]LogTemp: Warning: DeltaTime: 0.033593
+[2025.08.05-23.18.18:497][566]LogTemp: Warning: DeltaTime: 0.033041
+[2025.08.05-23.18.18:532][567]LogTemp: Warning: DeltaTime: 0.033244
+[2025.08.05-23.18.18:731][568]LogTemp: Warning: DeltaTime: 0.195323
+[2025.08.05-23.18.18:746][569]LogTemp: Warning: DeltaTime: 0.020346
+[2025.08.05-23.18.18:776][570]LogTemp: Warning: DeltaTime: 0.029408
+[2025.08.05-23.18.18:814][571]LogTemp: Warning: DeltaTime: 0.038055
+[2025.08.05-23.18.18:843][572]LogTemp: Warning: DeltaTime: 0.028323
+[2025.08.05-23.18.18:875][573]LogTemp: Warning: DeltaTime: 0.033271
+[2025.08.05-23.18.18:910][574]LogTemp: Warning: DeltaTime: 0.032941
+[2025.08.05-23.18.18:943][575]LogTemp: Warning: DeltaTime: 0.033712
+[2025.08.05-23.18.18:976][576]LogTemp: Warning: DeltaTime: 0.033371
+[2025.08.05-23.18.19:009][577]LogTemp: Warning: DeltaTime: 0.033553
+[2025.08.05-23.18.19:042][578]LogTemp: Warning: DeltaTime: 0.032779
+[2025.08.05-23.18.19:076][579]LogTemp: Warning: DeltaTime: 0.033280
+[2025.08.05-23.18.19:263][580]LogTemp: Warning: DeltaTime: 0.187449
+[2025.08.05-23.18.19:279][581]LogTemp: Warning: DeltaTime: 0.016667
+[2025.08.05-23.18.19:306][582]LogTemp: Warning: DeltaTime: 0.026018
+[2025.08.05-23.18.19:338][583]LogTemp: Warning: DeltaTime: 0.032156
+[2025.08.05-23.18.19:371][584]LogTemp: Warning: DeltaTime: 0.033636
+[2025.08.05-23.18.19:404][585]LogTemp: Warning: DeltaTime: 0.033112
+[2025.08.05-23.18.19:437][586]LogTemp: Warning: DeltaTime: 0.033085
+[2025.08.05-23.18.19:471][587]LogTemp: Warning: DeltaTime: 0.033547
+[2025.08.05-23.18.19:505][588]LogTemp: Warning: DeltaTime: 0.033458
+[2025.08.05-23.18.19:538][589]LogTemp: Warning: DeltaTime: 0.033490
+[2025.08.05-23.18.19:572][590]LogTemp: Warning: DeltaTime: 0.032887
+[2025.08.05-23.18.19:604][591]LogTemp: Warning: DeltaTime: 0.033297
+[2025.08.05-23.18.19:802][592]LogTemp: Warning: DeltaTime: 0.197333
+[2025.08.05-23.18.19:819][593]LogTemp: Warning: DeltaTime: 0.016667
+[2025.08.05-23.18.19:842][594]LogTemp: Warning: DeltaTime: 0.024798
+[2025.08.05-23.18.19:876][595]LogTemp: Warning: DeltaTime: 0.033441
+[2025.08.05-23.18.19:911][596]LogTemp: Warning: DeltaTime: 0.034457
+[2025.08.05-23.18.19:943][597]LogTemp: Warning: DeltaTime: 0.032414
+[2025.08.05-23.18.19:976][598]LogTemp: Warning: DeltaTime: 0.033116
+[2025.08.05-23.18.20:009][599]LogTemp: Warning: DeltaTime: 0.033525
+[2025.08.05-23.18.20:042][600]LogTemp: Warning: DeltaTime: 0.033201
+[2025.08.05-23.18.20:075][601]LogTemp: Warning: DeltaTime: 0.033002
+[2025.08.05-23.18.20:109][602]LogTemp: Warning: DeltaTime: 0.033482
+[2025.08.05-23.18.20:143][603]LogTemp: Warning: DeltaTime: 0.033786
+[2025.08.05-23.18.20:515][606]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.08.05-23.18.20:516][606]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.08.05-23.18.20:738][607]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.08.05-23.18.20:739][607]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.08.05-23.18.21:407][628]LogTemp: Warning: DeltaTime: 0.016854
+[2025.08.05-23.18.21:426][629]LogTemp: Warning: DeltaTime: 0.019539
+[2025.08.05-23.18.21:486][630]LogTemp: Warning: DeltaTime: 0.059634
+[2025.08.05-23.18.21:503][631]LogTemp: Warning: DeltaTime: 0.016667
+[2025.08.05-23.18.21:555][632]LogTemp: Warning: DeltaTime: 0.052762
+[2025.08.05-23.18.21:572][633]LogTemp: Warning: DeltaTime: 0.016667
+[2025.08.05-23.18.21:650][634]LogTemp: Warning: DeltaTime: 0.078000
+[2025.08.05-23.18.21:667][635]LogTemp: Warning: DeltaTime: 0.016708
+[2025.08.05-23.18.21:683][636]LogTemp: Warning: DeltaTime: 0.016669
+[2025.08.05-23.18.21:700][637]LogTemp: Warning: DeltaTime: 0.016667
+[2025.08.05-23.18.21:731][638]LogTemp: Warning: DeltaTime: 0.030701
+[2025.08.05-23.18.21:771][639]LogTemp: Warning: DeltaTime: 0.033454
+[2025.08.05-23.18.21:798][640]LogTemp: Warning: DeltaTime: 0.032920
+[2025.08.05-23.18.21:829][641]LogTemp: Warning: DeltaTime: 0.033119
+[2025.08.05-23.18.21:863][642]LogTemp: Warning: DeltaTime: 0.033304
+[2025.08.05-23.18.21:896][643]LogTemp: Warning: DeltaTime: 0.033760
+[2025.08.05-23.18.21:930][644]LogTemp: Warning: DeltaTime: 0.033016
+[2025.08.05-23.18.21:963][645]LogTemp: Warning: DeltaTime: 0.033134
+[2025.08.05-23.18.22:015][646]LogTemp: Warning: DeltaTime: 0.050936
+[2025.08.05-23.18.22:032][647]LogTemp: Warning: DeltaTime: 0.016675
+[2025.08.05-23.18.22:065][648]LogTemp: Warning: DeltaTime: 0.032815
+[2025.08.05-23.18.22:098][649]LogTemp: Warning: DeltaTime: 0.033375
+[2025.08.05-23.18.22:130][650]LogTemp: Warning: DeltaTime: 0.033415
+[2025.08.05-23.18.22:163][651]LogTemp: Warning: DeltaTime: 0.033219
+[2025.08.05-23.18.22:196][652]LogTemp: Warning: DeltaTime: 0.033309
+[2025.08.05-23.18.22:230][653]LogTemp: Warning: DeltaTime: 0.033113
+[2025.08.05-23.18.22:263][654]LogTemp: Warning: DeltaTime: 0.033143
+[2025.08.05-23.18.22:297][655]LogTemp: Warning: DeltaTime: 0.033619
+[2025.08.05-23.18.22:330][656]LogTemp: Warning: DeltaTime: 0.033280
+[2025.08.05-23.18.22:363][657]LogTemp: Warning: DeltaTime: 0.033142
+[2025.08.05-23.18.22:425][658]LogTemp: Warning: DeltaTime: 0.062583
+[2025.08.05-23.18.22:444][659]LogTemp: Warning: DeltaTime: 0.016679
+[2025.08.05-23.18.22:466][660]LogTemp: Warning: DeltaTime: 0.024208
+[2025.08.05-23.18.22:499][661]LogTemp: Warning: DeltaTime: 0.032983
+[2025.08.05-23.18.22:535][662]LogTemp: Warning: DeltaTime: 0.033673
+[2025.08.05-23.18.22:567][663]LogTemp: Warning: DeltaTime: 0.033489
+[2025.08.05-23.18.22:601][664]LogTemp: Warning: DeltaTime: 0.033190
+[2025.08.05-23.18.22:633][665]LogTemp: Warning: DeltaTime: 0.033217
+[2025.08.05-23.18.22:667][666]LogTemp: Warning: DeltaTime: 0.033568
+[2025.08.05-23.18.22:700][667]LogTemp: Warning: DeltaTime: 0.033101
+[2025.08.05-23.18.22:734][668]LogTemp: Warning: DeltaTime: 0.033263
+[2025.08.05-23.18.22:767][669]LogTemp: Warning: DeltaTime: 0.033525
+[2025.08.05-23.18.22:818][670]LogTemp: Warning: DeltaTime: 0.051187
+[2025.08.05-23.18.22:835][671]LogTemp: Warning: DeltaTime: 0.017319
+[2025.08.05-23.18.22:867][672]LogTemp: Warning: DeltaTime: 0.031440
+[2025.08.05-23.18.22:900][673]LogTemp: Warning: DeltaTime: 0.033444
+[2025.08.05-23.18.22:933][674]LogTemp: Warning: DeltaTime: 0.033315
+[2025.08.05-23.18.22:968][675]LogTemp: Warning: DeltaTime: 0.033483
+[2025.08.05-23.18.23:002][676]LogTemp: Warning: DeltaTime: 0.032906
+[2025.08.05-23.18.23:036][677]LogTemp: Warning: DeltaTime: 0.033835
+[2025.08.05-23.18.23:068][678]LogTemp: Warning: DeltaTime: 0.033255
+[2025.08.05-23.18.23:102][679]LogTemp: Warning: DeltaTime: 0.032995
+[2025.08.05-23.18.23:135][680]LogTemp: Warning: DeltaTime: 0.033122
+[2025.08.05-23.18.23:168][681]LogTemp: Warning: DeltaTime: 0.033650
+[2025.08.05-23.18.23:222][682]LogTemp: Warning: DeltaTime: 0.054000
+[2025.08.05-23.18.23:239][683]LogTemp: Warning: DeltaTime: 0.016667
+[2025.08.05-23.18.23:270][684]LogTemp: Warning: DeltaTime: 0.029207
+[2025.08.05-23.18.23:302][685]LogTemp: Warning: DeltaTime: 0.033349
+[2025.08.05-23.18.23:335][686]LogTemp: Warning: DeltaTime: 0.033390
+[2025.08.05-23.18.23:369][687]LogTemp: Warning: DeltaTime: 0.033725
+[2025.08.05-23.18.23:400][688]LogTemp: Warning: DeltaTime: 0.032934
+[2025.08.05-23.18.23:436][689]LogTemp: Warning: DeltaTime: 0.033744
+[2025.08.05-23.18.23:467][690]LogTemp: Warning: DeltaTime: 0.033037
+[2025.08.05-23.18.23:502][691]LogTemp: Warning: DeltaTime: 0.033413
+[2025.08.05-23.18.23:533][692]LogTemp: Warning: DeltaTime: 0.033080
+[2025.08.05-23.18.23:568][693]LogTemp: Warning: DeltaTime: 0.034157
+[2025.08.05-23.18.23:643][694]LogTemp: Warning: DeltaTime: 0.076224
+[2025.08.05-23.18.23:660][695]LogTemp: Warning: DeltaTime: 0.016667
+[2025.08.05-23.18.23:700][696]LogTemp: Warning: DeltaTime: 0.039952
+[2025.08.05-23.18.23:767][697]LogTemp: Warning: DeltaTime: 0.066567
+[2025.08.05-23.18.23:835][698]LogTemp: Warning: DeltaTime: 0.067203
+[2025.08.05-23.18.23:901][699]LogTemp: Warning: DeltaTime: 0.066008
+[2025.08.05-23.18.23:969][700]LogTemp: Warning: DeltaTime: 0.066833
+[2025.08.05-23.18.24:145][702]LogTemp: Warning: DeltaTime: 0.066611
+[2025.08.05-23.18.24:185][702]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.05-23.18.24:185][702]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_SlashOpenWorld
+[2025.08.05-23.18.24:202][702]LogWorld: UWorld::CleanupWorld for SlashOpenWorld, bSessionEnded=true, bCleanupResources=true
+[2025.08.05-23.18.24:225][702]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.05-23.18.24:239][702]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.05-23.18.24:244][702]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.05-23.18.24:269][702]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.05-23.18.24:269][702]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2025.08.05-23.18.24:271][702]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.08.05-23.18.24:273][702]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.08.05-23.18.24:472][702]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2025.08.05-23.18.24:555][703]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2025.08.05-23.18.24:589][703]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
