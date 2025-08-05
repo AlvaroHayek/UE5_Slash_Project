@@ -5,11 +5,14 @@
     <Filter Include="Source">
       <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
     </Filter>
-    <None Include="..\..\Source\Slash_Project.Target.cs">
-      <Filter>Source</Filter>
+    <Filter Include="Source\Slash_Project">
+      <UniqueIdentifier>{B7FC7E45-4FE8-3AEF-925F-C2CB9ADE830D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Slash_Project\Slash_Project.Target.cs">
+      <Filter>Source\Slash_Project</Filter>
     </None>
-    <None Include="..\..\Source\Slash_ProjectEditor.Target.cs">
-      <Filter>Source</Filter>
+    <None Include="..\..\Source\Slash_Project\Slash_ProjectEditor.Target.cs">
+      <Filter>Source\Slash_Project</Filter>
     </None>
     <None Include="..\..\.editorconfig" />
     <None Include="..\..\.vsconfig" />
@@ -32,9 +35,6 @@
     <None Include="..\..\Config\DefaultInput.ini">
       <Filter>Config</Filter>
     </None>
-    <Filter Include="Source\Slash_Project">
-      <UniqueIdentifier>{B7FC7E45-4FE8-3AEF-925F-C2CB9ADE830D}</UniqueIdentifier>
-    </Filter>
     <None Include="..\..\Source\Slash_Project\Slash_Project.Build.cs">
       <Filter>Source\Slash_Project</Filter>
     </None>

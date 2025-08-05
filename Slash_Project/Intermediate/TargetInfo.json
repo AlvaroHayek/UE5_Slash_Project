@@ -2,12 +2,12 @@
 	"Targets": [
 		{
 			"Name": "Slash_Project",
-			"Path": "..\\Source\\Slash_Project.Target.cs",
+			"Path": "..\\Source\\Slash_Project\\Slash_Project.Target.cs",
 			"Type": "Game"
 		},
 		{
 			"Name": "Slash_ProjectEditor",
-			"Path": "..\\Source\\Slash_ProjectEditor.Target.cs",
+			"Path": "..\\Source\\Slash_Project\\Slash_ProjectEditor.Target.cs",
 			"Type": "Editor"
 		}
 	]

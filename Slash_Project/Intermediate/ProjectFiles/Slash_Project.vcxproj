@@ -247,8 +247,8 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <None Include="..\..\Slash_Project.uproject"/>
-    <None Include="..\..\Source\Slash_Project.Target.cs"/>
-    <None Include="..\..\Source\Slash_ProjectEditor.Target.cs"/>
+    <None Include="..\..\Source\Slash_Project\Slash_Project.Target.cs"/>
+    <None Include="..\..\Source\Slash_Project\Slash_ProjectEditor.Target.cs"/>
     <None Include="..\..\.editorconfig"/>
     <None Include="..\..\.vsconfig"/>
     <None Include="..\..\shadertoolsconfig.json"/>

@@ -14,8 +14,8 @@
     <ProjectReference Include="..\..\..\..\..\..\..\..\..\..\Program Files\Epic Games\UE_5.5\Engine\Source\Programs\UnrealBuildTool\UnrealBuildTool.csproj"><Private>false</Private></ProjectReference>
   </ItemGroup>
   <ItemGroup>
-  <Compile Include="..\..\..\..\Source\Slash_Project.Target.cs"><Link>Source\Slash_Project.Target.cs</Link></Compile>
-  <Compile Include="..\..\..\..\Source\Slash_ProjectEditor.Target.cs"><Link>Source\Slash_ProjectEditor.Target.cs</Link></Compile>
   <Compile Include="..\..\..\..\Source\Slash_Project\Slash_Project.Build.cs"><Link>Source\Slash_Project\Slash_Project.Build.cs</Link></Compile>
+  <Compile Include="..\..\..\..\Source\Slash_Project\Slash_Project.Target.cs"><Link>Source\Slash_Project\Slash_Project.Target.cs</Link></Compile>
+  <Compile Include="..\..\..\..\Source\Slash_Project\Slash_ProjectEditor.Target.cs"><Link>Source\Slash_Project\Slash_ProjectEditor.Target.cs</Link></Compile>
   </ItemGroup>
 </Project>
