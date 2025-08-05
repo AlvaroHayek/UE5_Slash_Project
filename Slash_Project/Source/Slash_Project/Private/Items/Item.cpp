@@ -16,6 +16,10 @@ void AItem::BeginPlay()
 
 	UE_LOG(LogMyActor, Warning, TEXT("Begin Play called in C++!"));
 	
+	if (GEngine) 
+	{
+		GEngine->AddOnScreenDebugMessage(1, 60.f, FColor::Cyan, FString("Item OnScreen Message!"));
+	}
 }
 
 void AItem::Tick(float DeltaTime)
