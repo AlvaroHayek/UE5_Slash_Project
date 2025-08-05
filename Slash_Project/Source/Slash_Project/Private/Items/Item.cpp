@@ -14,7 +14,7 @@ void AItem::BeginPlay()
 {
 	Super::BeginPlay();
 
-	UE_LOG(LogTemp, Warning, TEXT("Begin Play called in C++!"));
+	UE_LOG(LogMyActor, Warning, TEXT("Begin Play called in C++!"));
 	
 }
 

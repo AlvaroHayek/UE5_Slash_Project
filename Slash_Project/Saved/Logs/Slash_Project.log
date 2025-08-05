@@ -1801,3 +1801,1132 @@ FPackageName: Skipped package /Game/Clinic/Maps/Clinic_BuiltData has a valid, mo
 [2025.08.05-13.47.23:818][713]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 979.887878
 [2025.08.05-13.47.24:815][716]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.08.05-13.47.24:815][716]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 980.557861, Update Interval: 325.505554
+[2025.08.05-13.48.16:161][199]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.05-13.48.16:161][199]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_SlashOpenWorld
+[2025.08.05-13.48.16:166][199]LogWorld: UWorld::CleanupWorld for SlashOpenWorld, bSessionEnded=true, bCleanupResources=true
+[2025.08.05-13.48.16:180][199]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.05-13.48.16:191][199]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.05-13.48.16:197][199]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.05-13.48.16:224][199]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.05-13.48.16:236][199]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2025.08.05-13.48.16:236][199]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.08.05-13.48.16:239][199]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.08.05-13.48.16:259][199]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2025.08.05-13.48.16:336][200]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2025.08.05-13.48.16:365][200]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2025.08.05-13.48.39:982][833]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2025.08.05-13.48.39:983][833]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_2'.
+[2025.08.05-13.48.40:716][848]LogTexture: Display: Building textures: /Game/Clinic/Textures/T_Grid.T_Grid (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 102.583323 MB), EncodeSpeed: Final
+[2025.08.05-13.48.40:806][848]LogTexture: Display: Building textures: /Game/Clinic/Textures/T_Screen.T_Screen (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 102.583323 MB), EncodeSpeed: Final
+[2025.08.05-13.48.43:895][936]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.08.05-13.48.43:906][936]LogPlayLevel: [PlayLevel] Compiling Clinic before play...
+[2025.08.05-13.48.43:909][936]LogBlueprint: Warning: [AssetLog] /Temp/Game/Clinic/Maps/Clinic_LevelInstance_389addf2b55d84b2_0.Clinic:PersistentLevel.Clinic: [Compiler] On Actor End Overlap (None)  is referencing an Actor that no longer exists. Attached logic will never execute.
+[2025.08.05-13.48.43:910][936]LogBlueprint: Warning: [AssetLog] /Temp/Game/Clinic/Maps/Clinic_LevelInstance_389addf2b55d84b2_0.Clinic:PersistentLevel.Clinic: [Compiler] On Actor Begin Overlap (None)  is referencing an Actor that no longer exists. Attached logic will never execute.
+[2025.08.05-13.48.43:911][936]LogBlueprint: Warning: [AssetLog] /Temp/Game/Clinic/Maps/Clinic_LevelInstance_389addf2b55d84b2_0.Clinic:PersistentLevel.Clinic: [Compiler] On Actor End Overlap (None)  is referencing an Actor that no longer exists. Attached logic will never execute.
+[2025.08.05-13.48.43:911][936]LogBlueprint: Warning: [AssetLog] /Temp/Game/Clinic/Maps/Clinic_LevelInstance_389addf2b55d84b2_0.Clinic:PersistentLevel.Clinic: [Compiler] On Actor Begin Overlap (None)  is referencing an Actor that no longer exists. Attached logic will never execute.
+[2025.08.05-13.48.43:912][936]LogBlueprint: Warning: [AssetLog] /Temp/Game/Clinic/Maps/Clinic_LevelInstance_389addf2b55d84b2_0.Clinic:PersistentLevel.Clinic: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2025.08.05-13.48.43:912][936]LogBlueprint: Warning: [AssetLog] /Temp/Game/Clinic/Maps/Clinic_LevelInstance_389addf2b55d84b2_0.Clinic:PersistentLevel.Clinic: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2025.08.05-13.48.43:912][936]LogBlueprint: Error: [AssetLog] /Temp/Game/Clinic/Maps/Clinic_LevelInstance_389addf2b55d84b2_0.Clinic:PersistentLevel.Clinic: [Compiler] Couldn't find object for bound event node  On Actor End Overlap (None)
+[2025.08.05-13.48.43:912][936]LogBlueprint: Error: [AssetLog] /Temp/Game/Clinic/Maps/Clinic_LevelInstance_389addf2b55d84b2_0.Clinic:PersistentLevel.Clinic: [Compiler] Couldn't find object for bound event node  On Actor Begin Overlap (None)
+[2025.08.05-13.48.43:912][936]LogBlueprint: Error: [AssetLog] /Temp/Game/Clinic/Maps/Clinic_LevelInstance_389addf2b55d84b2_0.Clinic:PersistentLevel.Clinic: [Compiler] Couldn't find object for bound event node  On Actor End Overlap (None)
+[2025.08.05-13.48.43:914][936]LogBlueprint: Error: [AssetLog] /Temp/Game/Clinic/Maps/Clinic_LevelInstance_389addf2b55d84b2_0.Clinic:PersistentLevel.Clinic: [Compiler] Couldn't find object for bound event node  On Actor Begin Overlap (None)
+[2025.08.05-13.48.44:004][936]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2025.08.05-13.48.44:007][936]LogPlayLevel: PlayLevel: Blueprint regeneration took 99 ms (1 blueprints)
+[2025.08.05-13.48.44:007][936]BlueprintLog: Warning: Blueprint failed to compile:  Clinic
+[2025.08.05-13.48.45:401][936]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Temp/Game/Clinic/Maps/Clinic_LevelInstance_389addf2b55d84b2_0.Clinic:PersistentLevel.Clinic
+[2025.08.05-13.48.45:401][936]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2025.08.05-13.48.45:402][936]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_3'.
+[2025.08.05-13.48.45:633][936]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2025.08.05-13.48.53:974][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2025.08.05-13.48.56:702][151]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.08.05-13.48.56:719][151]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.05-13.48.56:719][151]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SlashOpenWorld
+[2025.08.05-13.48.56:852][151]LogPlayLevel: PIE: StaticDuplicateObject took: (0.133155s)
+[2025.08.05-13.48.56:853][151]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SlashOpenWorld.SlashOpenWorld to /Game/Maps/UEDPIE_0_SlashOpenWorld.SlashOpenWorld (0.133257s)
+[2025.08.05-13.48.56:881][151]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2025.08.05-13.48.56:882][151]LogChaosDD: Creating Chaos Debug Draw Scene for world SlashOpenWorld
+[2025.08.05-13.48.56:883][151]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/Maps/UEDPIE_0_SlashOpenWorld.SlashOpenWorld'.
+[2025.08.05-13.48.56:884][151]LogPlayLevel: PIE: World Init took: (0.001908s)
+[2025.08.05-13.48.56:885][151]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2025.08.05-13.48.56:885][151]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.05-13.48.56:885][151]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.05-13.48.56:885][151]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.05-13.48.56:885][151]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.05-13.48.56:885][151]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.05-13.48.56:885][151]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.05-13.48.56:885][151]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.05-13.48.56:885][151]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.05-13.48.56:885][151]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.05-13.48.56:885][151]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.05-13.48.56:885][151]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.05-13.48.56:889][151]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.05-13.48.56:907][151]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.08.05-13.48.56:908][151]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.05-13.48.56:908][151]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.05-13.48.56:908][151]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.05-13.48.56:908][151]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2025.08.05-13.48.56:908][151]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2025.08.05-13.48.56:911][151]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2025.08.05-13.48.56:911][151]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2025.08.05-13.48.56:911][151]LogInit: FAudioDevice initialized with ID 5.
+[2025.08.05-13.48.56:911][151]LogAudio: Display: Audio Device (ID: 5) registered with world 'SlashOpenWorld'.
+[2025.08.05-13.48.56:911][151]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2025.08.05-13.48.56:915][151]LogLoad: Game class is 'GameModeBase'
+[2025.08.05-13.48.56:974][151]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SlashOpenWorld.SlashOpenWorld up for play (max tick rate 0) at 2025.08.05-15.48.56
+[2025.08.05-13.48.56:975][151]LogWorld: Bringing up level for play took: 0.059547
+[2025.08.05-13.48.56:977][151]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2025.08.05-13.48.56:978][151]LogLevelInstance: Loaded 1 levels in 0 seconds
+[2025.08.05-13.48.56:978][151]LogStreaming: Display: FlushAsyncLoading(534): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.05-13.48.56:981][151]LogStreaming: Display: ImportPackages: SkipPackage: /Temp/Game/Clinic/Maps/UEDPIE_0_Clinic_LevelInstance_24b9007f43524842_1 (0x6C41C6D75E31F13F) /Game/Clinic/Maps/Clinic (0x9265D7D4C358802E) - Skipping non mounted imported package /Game/Clinic/Maps/Clinic_BuiltData (0xC44657208949A00E)
+[2025.08.05-13.48.57:011][151]LogBlueprint: Warning: [AssetLog] /Temp/Game/Clinic/Maps/UEDPIE_0_Clinic_LevelInstance_24b9007f43524842_1.Clinic:PersistentLevel.Clinic: [Compiler] On Actor End Overlap (None)  is referencing an Actor that no longer exists. Attached logic will never execute.
+[2025.08.05-13.48.57:011][151]LogBlueprint: Warning: [AssetLog] /Temp/Game/Clinic/Maps/UEDPIE_0_Clinic_LevelInstance_24b9007f43524842_1.Clinic:PersistentLevel.Clinic: [Compiler] On Actor Begin Overlap (None)  is referencing an Actor that no longer exists. Attached logic will never execute.
+[2025.08.05-13.48.57:012][151]LogBlueprint: Warning: [AssetLog] /Temp/Game/Clinic/Maps/UEDPIE_0_Clinic_LevelInstance_24b9007f43524842_1.Clinic:PersistentLevel.Clinic: [Compiler] On Actor End Overlap (None)  is referencing an Actor that no longer exists. Attached logic will never execute.
+[2025.08.05-13.48.57:012][151]LogBlueprint: Warning: [AssetLog] /Temp/Game/Clinic/Maps/UEDPIE_0_Clinic_LevelInstance_24b9007f43524842_1.Clinic:PersistentLevel.Clinic: [Compiler] On Actor Begin Overlap (None)  is referencing an Actor that no longer exists. Attached logic will never execute.
+[2025.08.05-13.48.57:013][151]LogBlueprint: Warning: [AssetLog] /Temp/Game/Clinic/Maps/UEDPIE_0_Clinic_LevelInstance_24b9007f43524842_1.Clinic:PersistentLevel.Clinic: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2025.08.05-13.48.57:013][151]LogBlueprint: Warning: [AssetLog] /Temp/Game/Clinic/Maps/UEDPIE_0_Clinic_LevelInstance_24b9007f43524842_1.Clinic:PersistentLevel.Clinic: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2025.08.05-13.48.57:013][151]LogBlueprint: Error: [AssetLog] /Temp/Game/Clinic/Maps/UEDPIE_0_Clinic_LevelInstance_24b9007f43524842_1.Clinic:PersistentLevel.Clinic: [Compiler] Couldn't find object for bound event node  On Actor End Overlap (None)
+[2025.08.05-13.48.57:014][151]LogBlueprint: Error: [AssetLog] /Temp/Game/Clinic/Maps/UEDPIE_0_Clinic_LevelInstance_24b9007f43524842_1.Clinic:PersistentLevel.Clinic: [Compiler] Couldn't find object for bound event node  On Actor Begin Overlap (None)
+[2025.08.05-13.48.57:014][151]LogBlueprint: Error: [AssetLog] /Temp/Game/Clinic/Maps/UEDPIE_0_Clinic_LevelInstance_24b9007f43524842_1.Clinic:PersistentLevel.Clinic: [Compiler] Couldn't find object for bound event node  On Actor End Overlap (None)
+[2025.08.05-13.48.57:014][151]LogBlueprint: Error: [AssetLog] /Temp/Game/Clinic/Maps/UEDPIE_0_Clinic_LevelInstance_24b9007f43524842_1.Clinic:PersistentLevel.Clinic: [Compiler] Couldn't find object for bound event node  On Actor Begin Overlap (None)
+[2025.08.05-13.48.57:108][151]LogBlueprintUserMessages: [BP_Item_C_1] Blueprint Class
+[2025.08.05-13.48.57:109][151]PIE: Server logged in
+[2025.08.05-13.48.57:110][151]PIE: Play in editor total start time 0.392 seconds.
+[2025.08.05-13.48.57:171][151]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Content/Clinic/Maps/Clinic_BuiltData which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.08.05-13.49.02:821][229]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.05-13.49.02:821][229]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_SlashOpenWorld
+[2025.08.05-13.49.02:826][229]LogWorld: UWorld::CleanupWorld for SlashOpenWorld, bSessionEnded=true, bCleanupResources=true
+[2025.08.05-13.49.02:843][229]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.05-13.49.02:861][229]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.05-13.49.02:869][229]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.05-13.49.02:897][229]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.05-13.49.02:910][229]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2025.08.05-13.49.02:910][229]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.08.05-13.49.02:912][229]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.08.05-13.49.02:933][229]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2025.08.05-13.49.03:008][230]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2025.08.05-13.49.03:034][230]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2025.08.05-13.49.10:327][368]LogSlate: Window 'Clinic_LevelInstance_389addf2b55d84b2' being destroyed
+[2025.08.05-13.49.10:378][368]LogSlate: Window 'Clinic_LevelInstance_389addf2b55d84b2' being destroyed
+[2025.08.05-13.49.10:389][368]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.08.05-13.49.10:389][368]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.05-13.49.10:473][368]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2025.08.05-13.49.17:194][571]LogShaderCompilers: Display: ================================================
+[2025.08.05-13.49.17:194][571]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.08.05-13.49.17:195][571]LogShaderCompilers: Display: Total job queries 413, among them cache hits 151 (36.56%), DDC hits 256 (61.99%), Duplicates 5 (1.21%)
+[2025.08.05-13.49.17:195][571]LogShaderCompilers: Display: Tracking 257 distinct input hashes that result in 208 distinct outputs (80.93%)
+[2025.08.05-13.49.17:195][571]LogShaderCompilers: Display: RAM used: 139.97 KiB of 819.20 MiB budget. Usage: 0.02%
+[2025.08.05-13.49.17:195][571]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.08.05-13.49.17:195][571]LogShaderCompilers: Display: Shaders Compiled: 1
+[2025.08.05-13.49.17:195][571]LogShaderCompilers: Display: Jobs assigned 1, completed 1 (100%)
+[2025.08.05-13.49.17:195][571]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.05 s
+[2025.08.05-13.49.17:195][571]LogShaderCompilers: Display: Job execution time: average 2.64 s, max 2.64 s
+[2025.08.05-13.49.17:195][571]LogShaderCompilers: Display: Job life time (pending + execution): average 2.69 s, max 2.69
+[2025.08.05-13.49.17:196][571]LogShaderCompilers: Display: Shader code size: average 8.859 KiB, min 8.859 KiB, max 8.859 KiB
+[2025.08.05-13.49.17:196][571]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.69 s
+[2025.08.05-13.49.17:196][571]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.08.05-13.49.17:196][571]LogShaderCompilers: Display: Jobs were issued in 1 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.08.05-13.49.17:196][571]LogShaderCompilers: Display: Average processing rate: 0.37 jobs/sec
+[2025.08.05-13.49.17:196][571]LogShaderCompilers: Display: Total thread time: 0.736 s
+[2025.08.05-13.49.17:196][571]LogShaderCompilers: Display: Total thread preprocess time: 10.072 s
+[2025.08.05-13.49.17:196][571]LogShaderCompilers: Display: Percentage time preprocessing: 1368.22%
+[2025.08.05-13.49.17:196][571]LogShaderCompilers: Display: Effective parallelization: 0.27 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.08.05-13.49.17:197][571]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.08.05-13.49.17:197][571]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.74 sec, max 0.74 sec, min 0.74 sec)
+[2025.08.05-13.49.17:197][571]LogShaderCompilers: Display:                                                  FHitProxyPS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.08.05-13.49.17:197][571]LogShaderCompilers: Display:                        FRayTracingDynamicGeometryConverterCS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.08.05-13.49.17:198][571]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.08.05-13.49.17:198][571]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.08.05-13.49.17:198][571]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.08.05-13.49.17:198][571]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 100.00% of total time (compiled    1 times, average 0.74 sec, max 0.74 sec, min 0.74 sec)
+[2025.08.05-13.49.17:198][571]LogShaderCompilers: Display:                        FRayTracingDynamicGeometryConverterCS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.08.05-13.49.17:198][571]LogShaderCompilers: Display:                                                 FLumenCardPS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.08.05-13.49.17:198][571]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.08.05-13.49.17:198][571]LogShaderCompilers: Display:         TShadowDepthPSPixelShadowDepth_NonPerspectiveCorrect - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.08.05-13.49.17:198][571]LogShaderCompilers: Display: === Material stats ===
+[2025.08.05-13.49.17:198][571]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.08.05-13.49.17:198][571]LogShaderCompilers: Display: Materials Translated:    198
+[2025.08.05-13.49.17:198][571]LogShaderCompilers: Display: Material Total Translate Time: 0.26 s
+[2025.08.05-13.49.17:198][571]LogShaderCompilers: Display: Material Translation Only: 0.13 s (48%)
+[2025.08.05-13.49.17:198][571]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2025.08.05-13.49.17:198][571]LogShaderCompilers: Display: Material Cache Hits: 45 (23%)
+[2025.08.05-13.49.17:198][571]LogShaderCompilers: Display: ================================================
+[2025.08.05-13.50.16:372][940]Cmd: CLEAR
+[2025.08.05-13.50.19:440][  6]Cmd: clear
+[2025.08.05-13.50.24:512][143]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.08.05-13.50.24:526][143]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.05-13.50.24:526][143]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SlashOpenWorld
+[2025.08.05-13.50.24:659][143]LogPlayLevel: PIE: StaticDuplicateObject took: (0.133429s)
+[2025.08.05-13.50.24:659][143]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SlashOpenWorld.SlashOpenWorld to /Game/Maps/UEDPIE_0_SlashOpenWorld.SlashOpenWorld (0.133485s)
+[2025.08.05-13.50.24:695][143]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2025.08.05-13.50.24:697][143]LogChaosDD: Creating Chaos Debug Draw Scene for world SlashOpenWorld
+[2025.08.05-13.50.24:698][143]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/Maps/UEDPIE_0_SlashOpenWorld.SlashOpenWorld'.
+[2025.08.05-13.50.24:699][143]LogPlayLevel: PIE: World Init took: (0.001849s)
+[2025.08.05-13.50.24:700][143]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2025.08.05-13.50.24:700][143]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.05-13.50.24:700][143]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.05-13.50.24:700][143]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.05-13.50.24:700][143]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.05-13.50.24:700][143]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.05-13.50.24:701][143]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.05-13.50.24:701][143]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.05-13.50.24:701][143]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.05-13.50.24:701][143]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.05-13.50.24:701][143]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.05-13.50.24:701][143]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.05-13.50.24:703][143]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.05-13.50.24:719][143]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.08.05-13.50.24:719][143]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.05-13.50.24:719][143]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.05-13.50.24:719][143]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.05-13.50.24:720][143]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2025.08.05-13.50.24:720][143]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2025.08.05-13.50.24:723][143]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2025.08.05-13.50.24:723][143]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2025.08.05-13.50.24:723][143]LogInit: FAudioDevice initialized with ID 6.
+[2025.08.05-13.50.24:723][143]LogAudio: Display: Audio Device (ID: 6) registered with world 'SlashOpenWorld'.
+[2025.08.05-13.50.24:723][143]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2025.08.05-13.50.24:726][143]LogLoad: Game class is 'GameModeBase'
+[2025.08.05-13.50.24:784][143]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SlashOpenWorld.SlashOpenWorld up for play (max tick rate 0) at 2025.08.05-15.50.24
+[2025.08.05-13.50.24:785][143]LogWorld: Bringing up level for play took: 0.057908
+[2025.08.05-13.50.24:787][143]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2025.08.05-13.50.24:789][143]LogLevelInstance: Loaded 1 levels in 0 seconds
+[2025.08.05-13.50.24:789][143]LogStreaming: Display: FlushAsyncLoading(535): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.05-13.50.24:791][143]LogStreaming: Display: ImportPackages: SkipPackage: /Temp/Game/Clinic/Maps/UEDPIE_0_Clinic_LevelInstance_24b9007f43524842_1 (0x6C41C6D75E31F13F) /Game/Clinic/Maps/Clinic (0x9265D7D4C358802E) - Skipping non mounted imported package /Game/Clinic/Maps/Clinic_BuiltData (0xC44657208949A00E)
+[2025.08.05-13.50.24:819][143]LogBlueprint: Warning: [AssetLog] /Temp/Game/Clinic/Maps/UEDPIE_0_Clinic_LevelInstance_24b9007f43524842_1.Clinic:PersistentLevel.Clinic: [Compiler] On Actor End Overlap (None)  is referencing an Actor that no longer exists. Attached logic will never execute.
+[2025.08.05-13.50.24:820][143]LogBlueprint: Warning: [AssetLog] /Temp/Game/Clinic/Maps/UEDPIE_0_Clinic_LevelInstance_24b9007f43524842_1.Clinic:PersistentLevel.Clinic: [Compiler] On Actor Begin Overlap (None)  is referencing an Actor that no longer exists. Attached logic will never execute.
+[2025.08.05-13.50.24:820][143]LogBlueprint: Warning: [AssetLog] /Temp/Game/Clinic/Maps/UEDPIE_0_Clinic_LevelInstance_24b9007f43524842_1.Clinic:PersistentLevel.Clinic: [Compiler] On Actor End Overlap (None)  is referencing an Actor that no longer exists. Attached logic will never execute.
+[2025.08.05-13.50.24:820][143]LogBlueprint: Warning: [AssetLog] /Temp/Game/Clinic/Maps/UEDPIE_0_Clinic_LevelInstance_24b9007f43524842_1.Clinic:PersistentLevel.Clinic: [Compiler] On Actor Begin Overlap (None)  is referencing an Actor that no longer exists. Attached logic will never execute.
+[2025.08.05-13.50.24:821][143]LogBlueprint: Warning: [AssetLog] /Temp/Game/Clinic/Maps/UEDPIE_0_Clinic_LevelInstance_24b9007f43524842_1.Clinic:PersistentLevel.Clinic: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2025.08.05-13.50.24:821][143]LogBlueprint: Warning: [AssetLog] /Temp/Game/Clinic/Maps/UEDPIE_0_Clinic_LevelInstance_24b9007f43524842_1.Clinic:PersistentLevel.Clinic: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2025.08.05-13.50.24:821][143]LogBlueprint: Error: [AssetLog] /Temp/Game/Clinic/Maps/UEDPIE_0_Clinic_LevelInstance_24b9007f43524842_1.Clinic:PersistentLevel.Clinic: [Compiler] Couldn't find object for bound event node  On Actor End Overlap (None)
+[2025.08.05-13.50.24:821][143]LogBlueprint: Error: [AssetLog] /Temp/Game/Clinic/Maps/UEDPIE_0_Clinic_LevelInstance_24b9007f43524842_1.Clinic:PersistentLevel.Clinic: [Compiler] Couldn't find object for bound event node  On Actor Begin Overlap (None)
+[2025.08.05-13.50.24:822][143]LogBlueprint: Error: [AssetLog] /Temp/Game/Clinic/Maps/UEDPIE_0_Clinic_LevelInstance_24b9007f43524842_1.Clinic:PersistentLevel.Clinic: [Compiler] Couldn't find object for bound event node  On Actor End Overlap (None)
+[2025.08.05-13.50.24:822][143]LogBlueprint: Error: [AssetLog] /Temp/Game/Clinic/Maps/UEDPIE_0_Clinic_LevelInstance_24b9007f43524842_1.Clinic:PersistentLevel.Clinic: [Compiler] Couldn't find object for bound event node  On Actor Begin Overlap (None)
+[2025.08.05-13.50.24:910][143]LogBlueprintUserMessages: [BP_Item_C_1] Blueprint Class
+[2025.08.05-13.50.24:912][143]PIE: Server logged in
+[2025.08.05-13.50.24:913][143]PIE: Play in editor total start time 0.388 seconds.
+[2025.08.05-13.50.24:968][143]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Content/Clinic/Maps/Clinic_BuiltData which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.08.05-13.50.28:741][197]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.05-13.50.28:742][197]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_SlashOpenWorld
+[2025.08.05-13.50.28:747][197]LogWorld: UWorld::CleanupWorld for SlashOpenWorld, bSessionEnded=true, bCleanupResources=true
+[2025.08.05-13.50.28:763][197]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.05-13.50.28:767][197]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.05-13.50.28:775][197]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.05-13.50.28:803][197]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.05-13.50.28:814][197]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2025.08.05-13.50.28:814][197]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2025.08.05-13.50.28:816][197]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2025.08.05-13.50.28:835][197]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2025.08.05-13.50.28:912][198]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2025.08.05-13.50.28:939][198]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2025.08.05-13.51.09:681][746]LogToolMenus: Warning: Menu item not found: 'Rename' for insert: 'BatchRenameObject'
+[2025.08.05-13.51.22:844][  6]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.08.05-13.51.22:862][  6]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.05-13.51.22:862][  6]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SlashOpenWorld
+[2025.08.05-13.51.22:996][  6]LogPlayLevel: PIE: StaticDuplicateObject took: (0.133896s)
+[2025.08.05-13.51.22:996][  6]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SlashOpenWorld.SlashOpenWorld to /Game/Maps/UEDPIE_0_SlashOpenWorld.SlashOpenWorld (0.133933s)
+[2025.08.05-13.51.23:024][  6]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2025.08.05-13.51.23:026][  6]LogChaosDD: Creating Chaos Debug Draw Scene for world SlashOpenWorld
+[2025.08.05-13.51.23:027][  6]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/Maps/UEDPIE_0_SlashOpenWorld.SlashOpenWorld'.
+[2025.08.05-13.51.23:027][  6]LogPlayLevel: PIE: World Init took: (0.001730s)
+[2025.08.05-13.51.23:029][  6]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2025.08.05-13.51.23:029][  6]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.05-13.51.23:029][  6]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.05-13.51.23:029][  6]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.05-13.51.23:029][  6]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.05-13.51.23:029][  6]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.05-13.51.23:029][  6]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.05-13.51.23:029][  6]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.05-13.51.23:029][  6]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.05-13.51.23:029][  6]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.05-13.51.23:029][  6]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.05-13.51.23:029][  6]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.05-13.51.23:031][  6]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.05-13.51.23:048][  6]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.08.05-13.51.23:048][  6]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.05-13.51.23:048][  6]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.05-13.51.23:048][  6]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.05-13.51.23:049][  6]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2025.08.05-13.51.23:049][  6]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2025.08.05-13.51.23:052][  6]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2025.08.05-13.51.23:052][  6]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2025.08.05-13.51.23:052][  6]LogInit: FAudioDevice initialized with ID 7.
+[2025.08.05-13.51.23:052][  6]LogAudio: Display: Audio Device (ID: 7) registered with world 'SlashOpenWorld'.
+[2025.08.05-13.51.23:052][  6]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2025.08.05-13.51.23:055][  6]LogLoad: Game class is 'GameModeBase'
+[2025.08.05-13.51.23:113][  6]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SlashOpenWorld.SlashOpenWorld up for play (max tick rate 0) at 2025.08.05-15.51.23
+[2025.08.05-13.51.23:114][  6]LogWorld: Bringing up level for play took: 0.059054
+[2025.08.05-13.51.23:116][  6]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2025.08.05-13.51.23:117][  6]LogLevelInstance: Loaded 1 levels in 0 seconds
+[2025.08.05-13.51.23:117][  6]LogStreaming: Display: FlushAsyncLoading(536): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.05-13.51.23:120][  6]LogStreaming: Display: ImportPackages: SkipPackage: /Temp/Game/Clinic/Maps/UEDPIE_0_Clinic_LevelInstance_24b9007f43524842_1 (0x6C41C6D75E31F13F) /Game/Clinic/Maps/Clinic (0x9265D7D4C358802E) - Skipping non mounted imported package /Game/Clinic/Maps/Clinic_BuiltData (0xC44657208949A00E)
+[2025.08.05-13.51.23:150][  6]LogBlueprint: Warning: [AssetLog] /Temp/Game/Clinic/Maps/UEDPIE_0_Clinic_LevelInstance_24b9007f43524842_1.Clinic:PersistentLevel.Clinic: [Compiler] On Actor End Overlap (None)  is referencing an Actor that no longer exists. Attached logic will never execute.
+[2025.08.05-13.51.23:151][  6]LogBlueprint: Warning: [AssetLog] /Temp/Game/Clinic/Maps/UEDPIE_0_Clinic_LevelInstance_24b9007f43524842_1.Clinic:PersistentLevel.Clinic: [Compiler] On Actor Begin Overlap (None)  is referencing an Actor that no longer exists. Attached logic will never execute.
+[2025.08.05-13.51.23:151][  6]LogBlueprint: Warning: [AssetLog] /Temp/Game/Clinic/Maps/UEDPIE_0_Clinic_LevelInstance_24b9007f43524842_1.Clinic:PersistentLevel.Clinic: [Compiler] On Actor End Overlap (None)  is referencing an Actor that no longer exists. Attached logic will never execute.
+[2025.08.05-13.51.23:151][  6]LogBlueprint: Warning: [AssetLog] /Temp/Game/Clinic/Maps/UEDPIE_0_Clinic_LevelInstance_24b9007f43524842_1.Clinic:PersistentLevel.Clinic: [Compiler] On Actor Begin Overlap (None)  is referencing an Actor that no longer exists. Attached logic will never execute.
+[2025.08.05-13.51.23:152][  6]LogBlueprint: Warning: [AssetLog] /Temp/Game/Clinic/Maps/UEDPIE_0_Clinic_LevelInstance_24b9007f43524842_1.Clinic:PersistentLevel.Clinic: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2025.08.05-13.51.23:152][  6]LogBlueprint: Warning: [AssetLog] /Temp/Game/Clinic/Maps/UEDPIE_0_Clinic_LevelInstance_24b9007f43524842_1.Clinic:PersistentLevel.Clinic: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2025.08.05-13.51.23:152][  6]LogBlueprint: Error: [AssetLog] /Temp/Game/Clinic/Maps/UEDPIE_0_Clinic_LevelInstance_24b9007f43524842_1.Clinic:PersistentLevel.Clinic: [Compiler] Couldn't find object for bound event node  On Actor End Overlap (None)
+[2025.08.05-13.51.23:153][  6]LogBlueprint: Error: [AssetLog] /Temp/Game/Clinic/Maps/UEDPIE_0_Clinic_LevelInstance_24b9007f43524842_1.Clinic:PersistentLevel.Clinic: [Compiler] Couldn't find object for bound event node  On Actor Begin Overlap (None)
+[2025.08.05-13.51.23:153][  6]LogBlueprint: Error: [AssetLog] /Temp/Game/Clinic/Maps/UEDPIE_0_Clinic_LevelInstance_24b9007f43524842_1.Clinic:PersistentLevel.Clinic: [Compiler] Couldn't find object for bound event node  On Actor End Overlap (None)
+[2025.08.05-13.51.23:153][  6]LogBlueprint: Error: [AssetLog] /Temp/Game/Clinic/Maps/UEDPIE_0_Clinic_LevelInstance_24b9007f43524842_1.Clinic:PersistentLevel.Clinic: [Compiler] Couldn't find object for bound event node  On Actor Begin Overlap (None)
+[2025.08.05-13.51.23:245][  6]LogBlueprintUserMessages: [BP_Item_C_1] Blueprint Class
+[2025.08.05-13.51.23:246][  6]PIE: Server logged in
+[2025.08.05-13.51.23:247][  6]PIE: Play in editor total start time 0.386 seconds.
+[2025.08.05-13.51.23:306][  6]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Content/Clinic/Maps/Clinic_BuiltData which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.08.05-13.52.52:189][911]LogSlate: Window 'Message Log' being destroyed
+[2025.08.05-13.52.52:271][911]LogSlate: Window 'Message Log' being destroyed
+[2025.08.05-13.52.57:480][ 66]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.08.05-13.52.57:480][ 66]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.08.05-13.52.57:526][ 67]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.08.05-13.52.57:526][ 67]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.08.05-13.52.57:696][ 71]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.08.05-13.52.57:696][ 71]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.08.05-13.53.02:036][133]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1318.107666
+[2025.08.05-13.53.03:036][136]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.05-13.53.03:037][136]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1318.771851, Update Interval: 321.856140
+[2025.08.05-13.53.09:721][156]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.05-13.53.09:721][156]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_SlashOpenWorld
+[2025.08.05-13.53.09:732][156]LogWorld: UWorld::CleanupWorld for SlashOpenWorld, bSessionEnded=true, bCleanupResources=true
+[2025.08.05-13.53.09:752][156]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.05-13.53.09:761][156]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.05-13.53.09:773][156]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.05-13.53.09:805][156]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.05-13.53.09:819][156]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2025.08.05-13.53.09:820][156]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2025.08.05-13.53.09:822][156]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2025.08.05-13.53.09:848][156]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2025.08.05-13.53.09:948][157]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2025.08.05-13.53.09:980][157]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2025.08.05-13.54.05:885][378]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2025.08.05-13.54.05:887][378]LogStreaming: Display: FlushAsyncLoading(537): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.05-13.54.05:911][378]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave CompileSuccess...
+[2025.08.05-13.54.05:920][378]LogAudioDerivedData: Display: CompileSuccess compressed to 14.13% (from 93KB to 13KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2025.08.05-13.54.05:921][378]LogAudio: Display: Chunk stats for (SoundWave /Engine/EditorSounds/Notifications/CompileSuccess.CompileSuccess: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=13553 bytes, ChunkN=0)
+[2025.08.05-13.54.05:948][378]Candidate modules for hot reload:
+[2025.08.05-13.54.05:948][378]  Slash_Project
+[2025.08.05-13.54.05:963][378]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_5.5/Engine/Build/BatchFiles/Build.bat  -ModuleWithSuffix=Slash_Project,8951 Slash_ProjectEditor Win64 Development -Project="C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Slash_Project.uproject" "C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Slash_Project.uproject"  -IgnoreJunk]
+[2025.08.05-13.54.06:021][378]Warning: Starting HotReload took  0.2s.
+[2025.08.05-13.54.19:640][693]CompilerResultsLog: Using bundled DotNet SDK version: 8.0.300
+[2025.08.05-13.54.19:640][693]CompilerResultsLog: Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" -ModuleWithSuffix=Slash_Project,8951 Slash_ProjectEditor Win64 Development -Project="C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Slash_Project.uproject" "C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Slash_Project.uproject"  -IgnoreJunk
+[2025.08.05-13.54.19:640][693]CompilerResultsLog: Log file: C:\Users\Usuario\AppData\Local\UnrealBuildTool\Log.txt
+[2025.08.05-13.54.19:640][693]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Usuario\Desktop\Unreal Engine + Unity\UE5_Slash_Project).
+[2025.08.05-13.54.19:640][693]CompilerResultsLog: Building Slash_ProjectEditor...
+[2025.08.05-13.54.19:640][693]CompilerResultsLog: Using Visual Studio 2022 14.38.33145 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130) and Windows 10.0.22621.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2025.08.05-13.54.19:640][693]CompilerResultsLog: [Upgrade]
+[2025.08.05-13.54.19:640][693]CompilerResultsLog: [Upgrade] Using backward-compatible include order. The latest version of UE has changed the order of includes, which may require code changes. The current setting is:
+[2025.08.05-13.54.19:640][693]CompilerResultsLog: [Upgrade]     IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_3
+[2025.08.05-13.54.19:640][693]CompilerResultsLog: [Upgrade] Suppress this message by setting 'IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_5;' in Slash_ProjectEditor.Target.cs.
+[2025.08.05-13.54.19:640][693]CompilerResultsLog: [Upgrade] Alternatively you can set this to 'EngineIncludeOrderVersion.Latest' to always use the latest include order. This will potentially cause compile errors when integrating new versions of the engine.
+[2025.08.05-13.54.19:640][693]CompilerResultsLog: [Upgrade]
+[2025.08.05-13.54.19:640][693]CompilerResultsLog: Determining max actions to execute in parallel (6 physical cores, 12 logical cores)
+[2025.08.05-13.54.19:640][693]CompilerResultsLog:   Executing up to 6 processes, one per physical core
+[2025.08.05-13.54.19:640][693]CompilerResultsLog:   Requested 1.5 GB memory per action, 1.75 GB available: limiting max parallel actions to 1
+[2025.08.05-13.54.19:640][693]CompilerResultsLog: Using Unreal Build Accelerator local executor to run 4 action(s)
+[2025.08.05-13.54.19:640][693]CompilerResultsLog:   Storage capacity 40Gb
+[2025.08.05-13.54.19:640][693]CompilerResultsLog: ---- Starting trace: 250805_155408 ----
+[2025.08.05-13.54.19:640][693]CompilerResultsLog: UbaSessionServer - Disable remote execution (remote sessions will finish current processes)
+[2025.08.05-13.54.19:640][693]CompilerResultsLog: ------ Building 4 action(s) started ------
+[2025.08.05-13.54.19:640][693]CompilerResultsLog: [1/4] Compile [x64] Item.cpp
+[2025.08.05-13.54.19:640][693]CompilerResultsLog: [2/4] Link [x64] UnrealEditor-Slash_Project-8951.dll
+[2025.08.05-13.54.19:641][693]CompilerResultsLog:    Creating object C:\Users\Usuario\Desktop\Unreal Engine + Unity\UE5_Slash_Project\Slash_Project\Binaries\Win64\UnrealEditor-Slash_Project-8951.exp
+[2025.08.05-13.54.19:641][693]CompilerResultsLog: [3/4] Link [x64] UnrealEditor-Slash_Project-8951.lib
+[2025.08.05-13.54.19:641][693]CompilerResultsLog: [4/4] WriteMetadata Slash_ProjectEditor.target (UBA disabled)
+[2025.08.05-13.54.19:641][693]CompilerResultsLog: Trace file written to C:/Users/Usuario/AppData/Local/UnrealBuildTool/Log.uba with size 3.6kb
+[2025.08.05-13.54.19:641][693]CompilerResultsLog: Total time in Unreal Build Accelerator local executor: 10.61 seconds
+[2025.08.05-13.54.19:641][693]CompilerResultsLog: Total execution time: 13.11 seconds
+[2025.08.05-13.54.19:641][693]LogMainFrame: MainFrame: Module compiling took 13.754 seconds
+[2025.08.05-13.54.19:641][693]LogStreaming: Display: FlushAsyncLoading(538): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.05-13.54.19:688][693]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.08.05-13.54.20:148][693]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2025.08.05-13.54.20:238][693]Display: HotReload took 14.4s.
+[2025.08.05-13.54.20:239][693]Display: Reload/Re-instancing Complete: 1 package changed, 1 class unchanged
+[2025.08.05-13.54.25:210][787]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.08.05-13.54.25:229][787]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.05-13.54.25:230][787]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SlashOpenWorld
+[2025.08.05-13.54.25:396][787]LogPlayLevel: PIE: StaticDuplicateObject took: (0.166416s)
+[2025.08.05-13.54.25:396][787]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SlashOpenWorld.SlashOpenWorld to /Game/Maps/UEDPIE_0_SlashOpenWorld.SlashOpenWorld (0.166484s)
+[2025.08.05-13.54.25:515][787]LogUObjectHash: Compacting FUObjectHashTables data took   6.44ms
+[2025.08.05-13.54.25:517][787]LogChaosDD: Creating Chaos Debug Draw Scene for world SlashOpenWorld
+[2025.08.05-13.54.25:519][787]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/Maps/UEDPIE_0_SlashOpenWorld.SlashOpenWorld'.
+[2025.08.05-13.54.25:520][787]LogPlayLevel: PIE: World Init took: (0.003238s)
+[2025.08.05-13.54.25:521][787]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2025.08.05-13.54.25:521][787]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.05-13.54.25:521][787]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.05-13.54.25:522][787]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.05-13.54.25:522][787]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.05-13.54.25:522][787]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.05-13.54.25:522][787]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.05-13.54.25:522][787]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.05-13.54.25:522][787]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.05-13.54.25:522][787]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.05-13.54.25:522][787]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.05-13.54.25:522][787]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.05-13.54.25:525][787]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.05-13.54.25:549][787]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.08.05-13.54.25:549][787]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.05-13.54.25:549][787]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.05-13.54.25:549][787]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.05-13.54.25:550][787]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2025.08.05-13.54.25:550][787]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2025.08.05-13.54.25:553][787]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2025.08.05-13.54.25:553][787]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2025.08.05-13.54.25:554][787]LogInit: FAudioDevice initialized with ID 8.
+[2025.08.05-13.54.25:554][787]LogAudio: Display: Audio Device (ID: 8) registered with world 'SlashOpenWorld'.
+[2025.08.05-13.54.25:554][787]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2025.08.05-13.54.25:558][787]LogLoad: Game class is 'GameModeBase'
+[2025.08.05-13.54.25:633][787]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SlashOpenWorld.SlashOpenWorld up for play (max tick rate 0) at 2025.08.05-15.54.25
+[2025.08.05-13.54.25:634][787]LogWorld: Bringing up level for play took: 0.075523
+[2025.08.05-13.54.25:638][787]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2025.08.05-13.54.25:639][787]LogLevelInstance: Loaded 1 levels in 0 seconds
+[2025.08.05-13.54.25:639][787]LogStreaming: Display: FlushAsyncLoading(539): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.05-13.54.25:644][787]LogStreaming: Display: ImportPackages: SkipPackage: /Temp/Game/Clinic/Maps/UEDPIE_0_Clinic_LevelInstance_24b9007f43524842_1 (0x6C41C6D75E31F13F) /Game/Clinic/Maps/Clinic (0x9265D7D4C358802E) - Skipping non mounted imported package /Game/Clinic/Maps/Clinic_BuiltData (0xC44657208949A00E)
+[2025.08.05-13.54.25:681][787]LogBlueprint: Warning: [AssetLog] /Temp/Game/Clinic/Maps/UEDPIE_0_Clinic_LevelInstance_24b9007f43524842_1.Clinic:PersistentLevel.Clinic: [Compiler] On Actor End Overlap (None)  is referencing an Actor that no longer exists. Attached logic will never execute.
+[2025.08.05-13.54.25:682][787]LogBlueprint: Warning: [AssetLog] /Temp/Game/Clinic/Maps/UEDPIE_0_Clinic_LevelInstance_24b9007f43524842_1.Clinic:PersistentLevel.Clinic: [Compiler] On Actor Begin Overlap (None)  is referencing an Actor that no longer exists. Attached logic will never execute.
+[2025.08.05-13.54.25:683][787]LogBlueprint: Warning: [AssetLog] /Temp/Game/Clinic/Maps/UEDPIE_0_Clinic_LevelInstance_24b9007f43524842_1.Clinic:PersistentLevel.Clinic: [Compiler] On Actor End Overlap (None)  is referencing an Actor that no longer exists. Attached logic will never execute.
+[2025.08.05-13.54.25:684][787]LogBlueprint: Warning: [AssetLog] /Temp/Game/Clinic/Maps/UEDPIE_0_Clinic_LevelInstance_24b9007f43524842_1.Clinic:PersistentLevel.Clinic: [Compiler] On Actor Begin Overlap (None)  is referencing an Actor that no longer exists. Attached logic will never execute.
+[2025.08.05-13.54.25:684][787]LogBlueprint: Warning: [AssetLog] /Temp/Game/Clinic/Maps/UEDPIE_0_Clinic_LevelInstance_24b9007f43524842_1.Clinic:PersistentLevel.Clinic: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2025.08.05-13.54.25:685][787]LogBlueprint: Warning: [AssetLog] /Temp/Game/Clinic/Maps/UEDPIE_0_Clinic_LevelInstance_24b9007f43524842_1.Clinic:PersistentLevel.Clinic: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2025.08.05-13.54.25:685][787]LogBlueprint: Error: [AssetLog] /Temp/Game/Clinic/Maps/UEDPIE_0_Clinic_LevelInstance_24b9007f43524842_1.Clinic:PersistentLevel.Clinic: [Compiler] Couldn't find object for bound event node  On Actor End Overlap (None)
+[2025.08.05-13.54.25:685][787]LogBlueprint: Error: [AssetLog] /Temp/Game/Clinic/Maps/UEDPIE_0_Clinic_LevelInstance_24b9007f43524842_1.Clinic:PersistentLevel.Clinic: [Compiler] Couldn't find object for bound event node  On Actor Begin Overlap (None)
+[2025.08.05-13.54.25:686][787]LogBlueprint: Error: [AssetLog] /Temp/Game/Clinic/Maps/UEDPIE_0_Clinic_LevelInstance_24b9007f43524842_1.Clinic:PersistentLevel.Clinic: [Compiler] Couldn't find object for bound event node  On Actor End Overlap (None)
+[2025.08.05-13.54.25:686][787]LogBlueprint: Error: [AssetLog] /Temp/Game/Clinic/Maps/UEDPIE_0_Clinic_LevelInstance_24b9007f43524842_1.Clinic:PersistentLevel.Clinic: [Compiler] Couldn't find object for bound event node  On Actor Begin Overlap (None)
+[2025.08.05-13.54.25:797][787]LogBlueprintUserMessages: [BP_Item_C_1] Blueprint Class
+[2025.08.05-13.54.25:797][787]LogTemp: Warning: Begin Play called in C++!
+[2025.08.05-13.54.25:799][787]PIE: Server logged in
+[2025.08.05-13.54.25:801][787]PIE: Play in editor total start time 0.572 seconds.
+[2025.08.05-13.54.25:871][788]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Content/Clinic/Maps/Clinic_BuiltData which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.08.05-13.54.28:781][822]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.05-13.54.28:781][822]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_SlashOpenWorld
+[2025.08.05-13.54.28:787][822]LogWorld: UWorld::CleanupWorld for SlashOpenWorld, bSessionEnded=true, bCleanupResources=true
+[2025.08.05-13.54.28:800][822]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.05-13.54.28:807][822]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.05-13.54.28:815][822]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.05-13.54.28:861][822]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.05-13.54.28:861][822]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2025.08.05-13.54.28:862][822]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2025.08.05-13.54.28:864][822]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2025.08.05-13.54.28:933][822]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2025.08.05-13.54.29:014][823]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2025.08.05-13.54.29:046][823]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2025.08.05-13.55.42:458][104]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.08.05-13.55.42:475][104]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.05-13.55.42:476][104]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SlashOpenWorld
+[2025.08.05-13.55.42:620][104]LogPlayLevel: PIE: StaticDuplicateObject took: (0.144459s)
+[2025.08.05-13.55.42:620][104]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SlashOpenWorld.SlashOpenWorld to /Game/Maps/UEDPIE_0_SlashOpenWorld.SlashOpenWorld (0.144505s)
+[2025.08.05-13.55.42:643][104]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2025.08.05-13.55.42:645][104]LogChaosDD: Creating Chaos Debug Draw Scene for world SlashOpenWorld
+[2025.08.05-13.55.42:647][104]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/Maps/UEDPIE_0_SlashOpenWorld.SlashOpenWorld'.
+[2025.08.05-13.55.42:648][104]LogPlayLevel: PIE: World Init took: (0.002309s)
+[2025.08.05-13.55.42:649][104]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2025.08.05-13.55.42:649][104]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.05-13.55.42:649][104]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.05-13.55.42:649][104]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.05-13.55.42:649][104]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.05-13.55.42:649][104]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.05-13.55.42:649][104]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.05-13.55.42:649][104]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.05-13.55.42:649][104]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.05-13.55.42:649][104]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.05-13.55.42:649][104]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.05-13.55.42:649][104]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.05-13.55.42:652][104]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.05-13.55.42:669][104]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.08.05-13.55.42:670][104]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.05-13.55.42:670][104]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.05-13.55.42:670][104]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.05-13.55.42:670][104]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2025.08.05-13.55.42:670][104]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2025.08.05-13.55.42:673][104]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2025.08.05-13.55.42:674][104]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2025.08.05-13.55.42:674][104]LogInit: FAudioDevice initialized with ID 9.
+[2025.08.05-13.55.42:674][104]LogAudio: Display: Audio Device (ID: 9) registered with world 'SlashOpenWorld'.
+[2025.08.05-13.55.42:674][104]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2025.08.05-13.55.42:677][104]LogLoad: Game class is 'GameModeBase'
+[2025.08.05-13.55.42:737][104]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SlashOpenWorld.SlashOpenWorld up for play (max tick rate 0) at 2025.08.05-15.55.42
+[2025.08.05-13.55.42:737][104]LogWorld: Bringing up level for play took: 0.060173
+[2025.08.05-13.55.42:740][104]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2025.08.05-13.55.42:741][104]LogLevelInstance: Loaded 1 levels in 0 seconds
+[2025.08.05-13.55.42:741][104]LogStreaming: Display: FlushAsyncLoading(540): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.05-13.55.42:744][104]LogStreaming: Display: ImportPackages: SkipPackage: /Temp/Game/Clinic/Maps/UEDPIE_0_Clinic_LevelInstance_24b9007f43524842_1 (0x6C41C6D75E31F13F) /Game/Clinic/Maps/Clinic (0x9265D7D4C358802E) - Skipping non mounted imported package /Game/Clinic/Maps/Clinic_BuiltData (0xC44657208949A00E)
+[2025.08.05-13.55.42:775][104]LogBlueprint: Warning: [AssetLog] /Temp/Game/Clinic/Maps/UEDPIE_0_Clinic_LevelInstance_24b9007f43524842_1.Clinic:PersistentLevel.Clinic: [Compiler] On Actor End Overlap (None)  is referencing an Actor that no longer exists. Attached logic will never execute.
+[2025.08.05-13.55.42:775][104]LogBlueprint: Warning: [AssetLog] /Temp/Game/Clinic/Maps/UEDPIE_0_Clinic_LevelInstance_24b9007f43524842_1.Clinic:PersistentLevel.Clinic: [Compiler] On Actor Begin Overlap (None)  is referencing an Actor that no longer exists. Attached logic will never execute.
+[2025.08.05-13.55.42:775][104]LogBlueprint: Warning: [AssetLog] /Temp/Game/Clinic/Maps/UEDPIE_0_Clinic_LevelInstance_24b9007f43524842_1.Clinic:PersistentLevel.Clinic: [Compiler] On Actor End Overlap (None)  is referencing an Actor that no longer exists. Attached logic will never execute.
+[2025.08.05-13.55.42:776][104]LogBlueprint: Warning: [AssetLog] /Temp/Game/Clinic/Maps/UEDPIE_0_Clinic_LevelInstance_24b9007f43524842_1.Clinic:PersistentLevel.Clinic: [Compiler] On Actor Begin Overlap (None)  is referencing an Actor that no longer exists. Attached logic will never execute.
+[2025.08.05-13.55.42:776][104]LogBlueprint: Warning: [AssetLog] /Temp/Game/Clinic/Maps/UEDPIE_0_Clinic_LevelInstance_24b9007f43524842_1.Clinic:PersistentLevel.Clinic: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2025.08.05-13.55.42:777][104]LogBlueprint: Warning: [AssetLog] /Temp/Game/Clinic/Maps/UEDPIE_0_Clinic_LevelInstance_24b9007f43524842_1.Clinic:PersistentLevel.Clinic: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2025.08.05-13.55.42:777][104]LogBlueprint: Error: [AssetLog] /Temp/Game/Clinic/Maps/UEDPIE_0_Clinic_LevelInstance_24b9007f43524842_1.Clinic:PersistentLevel.Clinic: [Compiler] Couldn't find object for bound event node  On Actor End Overlap (None)
+[2025.08.05-13.55.42:777][104]LogBlueprint: Error: [AssetLog] /Temp/Game/Clinic/Maps/UEDPIE_0_Clinic_LevelInstance_24b9007f43524842_1.Clinic:PersistentLevel.Clinic: [Compiler] Couldn't find object for bound event node  On Actor Begin Overlap (None)
+[2025.08.05-13.55.42:777][104]LogBlueprint: Error: [AssetLog] /Temp/Game/Clinic/Maps/UEDPIE_0_Clinic_LevelInstance_24b9007f43524842_1.Clinic:PersistentLevel.Clinic: [Compiler] Couldn't find object for bound event node  On Actor End Overlap (None)
+[2025.08.05-13.55.42:778][104]LogBlueprint: Error: [AssetLog] /Temp/Game/Clinic/Maps/UEDPIE_0_Clinic_LevelInstance_24b9007f43524842_1.Clinic:PersistentLevel.Clinic: [Compiler] Couldn't find object for bound event node  On Actor Begin Overlap (None)
+[2025.08.05-13.55.42:879][104]LogBlueprintUserMessages: [BP_Item_C_1] Blueprint Class
+[2025.08.05-13.55.42:879][104]LogTemp: Warning: Begin Play called in C++!
+[2025.08.05-13.55.42:881][104]PIE: Server logged in
+[2025.08.05-13.55.42:882][104]PIE: Play in editor total start time 0.406 seconds.
+[2025.08.05-13.55.42:940][104]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Content/Clinic/Maps/Clinic_BuiltData which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.08.05-13.56.10:050][893]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Items/BP_Item.BP_Item
+[2025.08.05-13.56.10:050][893]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2025.08.05-13.56.10:052][893]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_4'.
+[2025.08.05-13.56.16:231][958]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.05-13.56.16:231][958]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_SlashOpenWorld
+[2025.08.05-13.56.16:235][958]LogWorld: UWorld::CleanupWorld for SlashOpenWorld, bSessionEnded=true, bCleanupResources=true
+[2025.08.05-13.56.16:247][958]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.05-13.56.16:367][958]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.05-13.56.16:378][958]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.05-13.56.16:409][958]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.05-13.56.16:421][958]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2025.08.05-13.56.16:421][958]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2025.08.05-13.56.16:423][958]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2025.08.05-13.56.16:459][958]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2025.08.05-13.56.16:565][959]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2025.08.05-13.56.16:595][959]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2025.08.05-13.56.22:423][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2025.08.05-13.56.37:812][263]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.08.05-13.56.37:831][263]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.05-13.56.37:831][263]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SlashOpenWorld
+[2025.08.05-13.56.37:961][263]LogPlayLevel: PIE: StaticDuplicateObject took: (0.129448s)
+[2025.08.05-13.56.37:961][263]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SlashOpenWorld.SlashOpenWorld to /Game/Maps/UEDPIE_0_SlashOpenWorld.SlashOpenWorld (0.129516s)
+[2025.08.05-13.56.37:994][263]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2025.08.05-13.56.37:997][263]LogChaosDD: Creating Chaos Debug Draw Scene for world SlashOpenWorld
+[2025.08.05-13.56.38:000][263]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/Maps/UEDPIE_0_SlashOpenWorld.SlashOpenWorld'.
+[2025.08.05-13.56.38:001][263]LogPlayLevel: PIE: World Init took: (0.003511s)
+[2025.08.05-13.56.38:002][263]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2025.08.05-13.56.38:002][263]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.05-13.56.38:002][263]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.05-13.56.38:002][263]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.05-13.56.38:002][263]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.05-13.56.38:002][263]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.05-13.56.38:002][263]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.05-13.56.38:002][263]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.05-13.56.38:002][263]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.05-13.56.38:002][263]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.05-13.56.38:002][263]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.05-13.56.38:002][263]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.05-13.56.38:005][263]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.05-13.56.38:023][263]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.08.05-13.56.38:024][263]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.05-13.56.38:024][263]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.05-13.56.38:024][263]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.05-13.56.38:025][263]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2025.08.05-13.56.38:025][263]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2025.08.05-13.56.38:027][263]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2025.08.05-13.56.38:027][263]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2025.08.05-13.56.38:027][263]LogInit: FAudioDevice initialized with ID 10.
+[2025.08.05-13.56.38:027][263]LogAudio: Display: Audio Device (ID: 10) registered with world 'SlashOpenWorld'.
+[2025.08.05-13.56.38:027][263]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2025.08.05-13.56.38:032][263]LogLoad: Game class is 'GameModeBase'
+[2025.08.05-13.56.38:092][263]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SlashOpenWorld.SlashOpenWorld up for play (max tick rate 0) at 2025.08.05-15.56.38
+[2025.08.05-13.56.38:093][263]LogWorld: Bringing up level for play took: 0.060992
+[2025.08.05-13.56.38:095][263]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2025.08.05-13.56.38:096][263]LogLevelInstance: Loaded 1 levels in 0 seconds
+[2025.08.05-13.56.38:096][263]LogStreaming: Display: FlushAsyncLoading(541): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.05-13.56.38:099][263]LogStreaming: Display: ImportPackages: SkipPackage: /Temp/Game/Clinic/Maps/UEDPIE_0_Clinic_LevelInstance_24b9007f43524842_1 (0x6C41C6D75E31F13F) /Game/Clinic/Maps/Clinic (0x9265D7D4C358802E) - Skipping non mounted imported package /Game/Clinic/Maps/Clinic_BuiltData (0xC44657208949A00E)
+[2025.08.05-13.56.38:128][263]LogBlueprint: Warning: [AssetLog] /Temp/Game/Clinic/Maps/UEDPIE_0_Clinic_LevelInstance_24b9007f43524842_1.Clinic:PersistentLevel.Clinic: [Compiler] On Actor End Overlap (None)  is referencing an Actor that no longer exists. Attached logic will never execute.
+[2025.08.05-13.56.38:129][263]LogBlueprint: Warning: [AssetLog] /Temp/Game/Clinic/Maps/UEDPIE_0_Clinic_LevelInstance_24b9007f43524842_1.Clinic:PersistentLevel.Clinic: [Compiler] On Actor Begin Overlap (None)  is referencing an Actor that no longer exists. Attached logic will never execute.
+[2025.08.05-13.56.38:129][263]LogBlueprint: Warning: [AssetLog] /Temp/Game/Clinic/Maps/UEDPIE_0_Clinic_LevelInstance_24b9007f43524842_1.Clinic:PersistentLevel.Clinic: [Compiler] On Actor End Overlap (None)  is referencing an Actor that no longer exists. Attached logic will never execute.
+[2025.08.05-13.56.38:129][263]LogBlueprint: Warning: [AssetLog] /Temp/Game/Clinic/Maps/UEDPIE_0_Clinic_LevelInstance_24b9007f43524842_1.Clinic:PersistentLevel.Clinic: [Compiler] On Actor Begin Overlap (None)  is referencing an Actor that no longer exists. Attached logic will never execute.
+[2025.08.05-13.56.38:130][263]LogBlueprint: Warning: [AssetLog] /Temp/Game/Clinic/Maps/UEDPIE_0_Clinic_LevelInstance_24b9007f43524842_1.Clinic:PersistentLevel.Clinic: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2025.08.05-13.56.38:130][263]LogBlueprint: Warning: [AssetLog] /Temp/Game/Clinic/Maps/UEDPIE_0_Clinic_LevelInstance_24b9007f43524842_1.Clinic:PersistentLevel.Clinic: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2025.08.05-13.56.38:131][263]LogBlueprint: Error: [AssetLog] /Temp/Game/Clinic/Maps/UEDPIE_0_Clinic_LevelInstance_24b9007f43524842_1.Clinic:PersistentLevel.Clinic: [Compiler] Couldn't find object for bound event node  On Actor End Overlap (None)
+[2025.08.05-13.56.38:131][263]LogBlueprint: Error: [AssetLog] /Temp/Game/Clinic/Maps/UEDPIE_0_Clinic_LevelInstance_24b9007f43524842_1.Clinic:PersistentLevel.Clinic: [Compiler] Couldn't find object for bound event node  On Actor Begin Overlap (None)
+[2025.08.05-13.56.38:131][263]LogBlueprint: Error: [AssetLog] /Temp/Game/Clinic/Maps/UEDPIE_0_Clinic_LevelInstance_24b9007f43524842_1.Clinic:PersistentLevel.Clinic: [Compiler] Couldn't find object for bound event node  On Actor End Overlap (None)
+[2025.08.05-13.56.38:132][263]LogBlueprint: Error: [AssetLog] /Temp/Game/Clinic/Maps/UEDPIE_0_Clinic_LevelInstance_24b9007f43524842_1.Clinic:PersistentLevel.Clinic: [Compiler] Couldn't find object for bound event node  On Actor Begin Overlap (None)
+[2025.08.05-13.56.38:217][263]LogTemp: Warning: Begin Play called in C++!
+[2025.08.05-13.56.38:218][263]PIE: Server logged in
+[2025.08.05-13.56.38:220][263]PIE: Play in editor total start time 0.392 seconds.
+[2025.08.05-13.56.38:273][263]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Content/Clinic/Maps/Clinic_BuiltData which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.08.05-13.58.55:267][835]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1671.338501
+[2025.08.05-13.58.56:263][838]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.05-13.58.56:263][838]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1672.006592, Update Interval: 328.308960
+[2025.08.05-14.02.08:142][447]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.05-14.02.08:142][447]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_SlashOpenWorld
+[2025.08.05-14.02.08:146][447]LogWorld: UWorld::CleanupWorld for SlashOpenWorld, bSessionEnded=true, bCleanupResources=true
+[2025.08.05-14.02.08:156][447]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.05-14.02.08:218][447]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.05-14.02.08:226][447]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.05-14.02.08:256][447]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.05-14.02.08:269][447]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2025.08.05-14.02.08:269][447]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2025.08.05-14.02.08:271][447]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2025.08.05-14.02.08:294][447]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2025.08.05-14.02.08:387][448]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2025.08.05-14.02.08:420][448]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2025.08.05-14.02.09:384][451]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.08.05-14.02.09:409][451]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.05-14.02.09:409][451]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SlashOpenWorld
+[2025.08.05-14.02.09:654][451]LogPlayLevel: PIE: StaticDuplicateObject took: (0.245113s)
+[2025.08.05-14.02.09:654][451]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SlashOpenWorld.SlashOpenWorld to /Game/Maps/UEDPIE_0_SlashOpenWorld.SlashOpenWorld (0.245172s)
+[2025.08.05-14.02.09:686][451]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2025.08.05-14.02.09:688][451]LogChaosDD: Creating Chaos Debug Draw Scene for world SlashOpenWorld
+[2025.08.05-14.02.09:690][451]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/Maps/UEDPIE_0_SlashOpenWorld.SlashOpenWorld'.
+[2025.08.05-14.02.09:691][451]LogPlayLevel: PIE: World Init took: (0.003012s)
+[2025.08.05-14.02.09:692][451]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2025.08.05-14.02.09:692][451]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.05-14.02.09:692][451]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.05-14.02.09:692][451]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.05-14.02.09:692][451]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.05-14.02.09:692][451]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.05-14.02.09:693][451]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.05-14.02.09:693][451]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.05-14.02.09:693][451]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.05-14.02.09:693][451]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.05-14.02.09:693][451]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.05-14.02.09:693][451]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.05-14.02.09:695][451]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.05-14.02.09:722][451]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.08.05-14.02.09:722][451]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.05-14.02.09:722][451]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.05-14.02.09:722][451]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.05-14.02.09:723][451]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2025.08.05-14.02.09:723][451]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2025.08.05-14.02.09:730][451]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2025.08.05-14.02.09:731][451]LogInit: FAudioDevice initialized with ID 11.
+[2025.08.05-14.02.09:731][451]LogAudio: Display: Audio Device (ID: 11) registered with world 'SlashOpenWorld'.
+[2025.08.05-14.02.09:731][451]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2025.08.05-14.02.09:731][451]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2025.08.05-14.02.09:737][451]LogLoad: Game class is 'GameModeBase'
+[2025.08.05-14.02.09:824][451]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SlashOpenWorld.SlashOpenWorld up for play (max tick rate 0) at 2025.08.05-16.02.09
+[2025.08.05-14.02.09:825][451]LogWorld: Bringing up level for play took: 0.087358
+[2025.08.05-14.02.09:829][451]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2025.08.05-14.02.09:831][451]LogLevelInstance: Loaded 1 levels in 0 seconds
+[2025.08.05-14.02.09:831][451]LogStreaming: Display: FlushAsyncLoading(542): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.05-14.02.09:834][451]LogStreaming: Display: ImportPackages: SkipPackage: /Temp/Game/Clinic/Maps/UEDPIE_0_Clinic_LevelInstance_24b9007f43524842_1 (0x6C41C6D75E31F13F) /Game/Clinic/Maps/Clinic (0x9265D7D4C358802E) - Skipping non mounted imported package /Game/Clinic/Maps/Clinic_BuiltData (0xC44657208949A00E)
+[2025.08.05-14.02.09:875][451]LogBlueprint: Warning: [AssetLog] /Temp/Game/Clinic/Maps/UEDPIE_0_Clinic_LevelInstance_24b9007f43524842_1.Clinic:PersistentLevel.Clinic: [Compiler] On Actor End Overlap (None)  is referencing an Actor that no longer exists. Attached logic will never execute.
+[2025.08.05-14.02.09:875][451]LogBlueprint: Warning: [AssetLog] /Temp/Game/Clinic/Maps/UEDPIE_0_Clinic_LevelInstance_24b9007f43524842_1.Clinic:PersistentLevel.Clinic: [Compiler] On Actor Begin Overlap (None)  is referencing an Actor that no longer exists. Attached logic will never execute.
+[2025.08.05-14.02.09:876][451]LogBlueprint: Warning: [AssetLog] /Temp/Game/Clinic/Maps/UEDPIE_0_Clinic_LevelInstance_24b9007f43524842_1.Clinic:PersistentLevel.Clinic: [Compiler] On Actor End Overlap (None)  is referencing an Actor that no longer exists. Attached logic will never execute.
+[2025.08.05-14.02.09:876][451]LogBlueprint: Warning: [AssetLog] /Temp/Game/Clinic/Maps/UEDPIE_0_Clinic_LevelInstance_24b9007f43524842_1.Clinic:PersistentLevel.Clinic: [Compiler] On Actor Begin Overlap (None)  is referencing an Actor that no longer exists. Attached logic will never execute.
+[2025.08.05-14.02.09:877][451]LogBlueprint: Warning: [AssetLog] /Temp/Game/Clinic/Maps/UEDPIE_0_Clinic_LevelInstance_24b9007f43524842_1.Clinic:PersistentLevel.Clinic: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2025.08.05-14.02.09:878][451]LogBlueprint: Warning: [AssetLog] /Temp/Game/Clinic/Maps/UEDPIE_0_Clinic_LevelInstance_24b9007f43524842_1.Clinic:PersistentLevel.Clinic: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2025.08.05-14.02.09:878][451]LogBlueprint: Error: [AssetLog] /Temp/Game/Clinic/Maps/UEDPIE_0_Clinic_LevelInstance_24b9007f43524842_1.Clinic:PersistentLevel.Clinic: [Compiler] Couldn't find object for bound event node  On Actor End Overlap (None)
+[2025.08.05-14.02.09:879][451]LogBlueprint: Error: [AssetLog] /Temp/Game/Clinic/Maps/UEDPIE_0_Clinic_LevelInstance_24b9007f43524842_1.Clinic:PersistentLevel.Clinic: [Compiler] Couldn't find object for bound event node  On Actor Begin Overlap (None)
+[2025.08.05-14.02.09:879][451]LogBlueprint: Error: [AssetLog] /Temp/Game/Clinic/Maps/UEDPIE_0_Clinic_LevelInstance_24b9007f43524842_1.Clinic:PersistentLevel.Clinic: [Compiler] Couldn't find object for bound event node  On Actor End Overlap (None)
+[2025.08.05-14.02.09:879][451]LogBlueprint: Error: [AssetLog] /Temp/Game/Clinic/Maps/UEDPIE_0_Clinic_LevelInstance_24b9007f43524842_1.Clinic:PersistentLevel.Clinic: [Compiler] Couldn't find object for bound event node  On Actor Begin Overlap (None)
+[2025.08.05-14.02.10:009][451]LogTemp: Warning: Begin Play called in C++!
+[2025.08.05-14.02.10:011][451]PIE: Server logged in
+[2025.08.05-14.02.10:013][451]PIE: Play in editor total start time 0.604 seconds.
+[2025.08.05-14.02.10:112][451]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Content/Clinic/Maps/Clinic_BuiltData which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.08.05-14.02.16:331][549]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.05-14.02.16:331][549]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_SlashOpenWorld
+[2025.08.05-14.02.16:335][549]LogWorld: UWorld::CleanupWorld for SlashOpenWorld, bSessionEnded=true, bCleanupResources=true
+[2025.08.05-14.02.16:346][549]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.05-14.02.16:395][549]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.05-14.02.16:402][549]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.05-14.02.16:435][549]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.08.05-14.02.16:435][549]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2025.08.05-14.02.16:435][549]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2025.08.05-14.02.16:437][549]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2025.08.05-14.02.16:443][549]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.05-14.02.16:471][549]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2025.08.05-14.02.16:557][550]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2025.08.05-14.02.16:589][550]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2025.08.05-14.02.17:537][570]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.08.05-14.02.19:077][570]LogSlate: Window 'Save Content' being destroyed
+[2025.08.05-14.02.19:260][570]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.05-14.02.19:308][570]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Items/BP_Item] ([2] browsable assets)...
+[2025.08.05-14.02.19:308][570]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Items/BP_Item]
+[2025.08.05-14.02.19:315][570]LogSavePackage: Moving output files for package: /Game/Blueprints/Items/BP_Item
+[2025.08.05-14.02.19:317][570]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Saved/BP_ItemA484F0E24F2410486F0B9BBA7CDD6EEB.tmp' to '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Items/BP_Item.uasset'
+[2025.08.05-14.02.19:364][570]LogFileHelpers: InternalPromptForCheckoutAndSave took 103.966 ms (total: 5.38 sec)
+[2025.08.05-14.02.19:416][570]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.05-14.02.19:416][570]LogContentValidation: Enabled validators:
+[2025.08.05-14.02.19:416][570]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.05-14.02.19:416][570]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.05-14.02.19:416][570]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.05-14.02.19:416][570]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.05-14.02.19:416][570]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.05-14.02.19:416][570]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.05-14.02.19:416][570]AssetCheck: /Game/Blueprints/Items/BP_Item Validating asset
+[2025.08.05-14.02.24:426][657]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.08.05-14.02.24:441][657]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.05-14.02.24:441][657]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SlashOpenWorld
+[2025.08.05-14.02.24:582][657]LogPlayLevel: PIE: StaticDuplicateObject took: (0.139477s)
+[2025.08.05-14.02.24:582][657]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SlashOpenWorld.SlashOpenWorld to /Game/Maps/UEDPIE_0_SlashOpenWorld.SlashOpenWorld (0.139521s)
+[2025.08.05-14.02.24:610][657]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2025.08.05-14.02.24:612][657]LogChaosDD: Creating Chaos Debug Draw Scene for world SlashOpenWorld
+[2025.08.05-14.02.24:613][657]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/Maps/UEDPIE_0_SlashOpenWorld.SlashOpenWorld'.
+[2025.08.05-14.02.24:614][657]LogPlayLevel: PIE: World Init took: (0.002474s)
+[2025.08.05-14.02.24:615][657]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2025.08.05-14.02.24:615][657]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.05-14.02.24:615][657]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.05-14.02.24:615][657]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.05-14.02.24:615][657]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.05-14.02.24:615][657]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.05-14.02.24:615][657]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.05-14.02.24:615][657]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.05-14.02.24:616][657]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.05-14.02.24:616][657]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.05-14.02.24:616][657]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.05-14.02.24:616][657]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.05-14.02.24:619][657]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.05-14.02.24:640][657]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.08.05-14.02.24:641][657]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.05-14.02.24:641][657]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.05-14.02.24:641][657]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.05-14.02.24:641][657]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2025.08.05-14.02.24:641][657]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2025.08.05-14.02.24:644][657]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2025.08.05-14.02.24:644][657]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2025.08.05-14.02.24:644][657]LogInit: FAudioDevice initialized with ID 12.
+[2025.08.05-14.02.24:644][657]LogAudio: Display: Audio Device (ID: 12) registered with world 'SlashOpenWorld'.
+[2025.08.05-14.02.24:644][657]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2025.08.05-14.02.24:648][657]LogLoad: Game class is 'GameModeBase'
+[2025.08.05-14.02.24:712][657]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SlashOpenWorld.SlashOpenWorld up for play (max tick rate 0) at 2025.08.05-16.02.24
+[2025.08.05-14.02.24:712][657]LogWorld: Bringing up level for play took: 0.063810
+[2025.08.05-14.02.24:714][657]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2025.08.05-14.02.24:715][657]LogLevelInstance: Loaded 1 levels in 0 seconds
+[2025.08.05-14.02.24:716][657]LogStreaming: Display: FlushAsyncLoading(543): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.05-14.02.24:718][657]LogStreaming: Display: ImportPackages: SkipPackage: /Temp/Game/Clinic/Maps/UEDPIE_0_Clinic_LevelInstance_24b9007f43524842_1 (0x6C41C6D75E31F13F) /Game/Clinic/Maps/Clinic (0x9265D7D4C358802E) - Skipping non mounted imported package /Game/Clinic/Maps/Clinic_BuiltData (0xC44657208949A00E)
+[2025.08.05-14.02.24:749][657]LogBlueprint: Warning: [AssetLog] /Temp/Game/Clinic/Maps/UEDPIE_0_Clinic_LevelInstance_24b9007f43524842_1.Clinic:PersistentLevel.Clinic: [Compiler] On Actor End Overlap (None)  is referencing an Actor that no longer exists. Attached logic will never execute.
+[2025.08.05-14.02.24:749][657]LogBlueprint: Warning: [AssetLog] /Temp/Game/Clinic/Maps/UEDPIE_0_Clinic_LevelInstance_24b9007f43524842_1.Clinic:PersistentLevel.Clinic: [Compiler] On Actor Begin Overlap (None)  is referencing an Actor that no longer exists. Attached logic will never execute.
+[2025.08.05-14.02.24:749][657]LogBlueprint: Warning: [AssetLog] /Temp/Game/Clinic/Maps/UEDPIE_0_Clinic_LevelInstance_24b9007f43524842_1.Clinic:PersistentLevel.Clinic: [Compiler] On Actor End Overlap (None)  is referencing an Actor that no longer exists. Attached logic will never execute.
+[2025.08.05-14.02.24:750][657]LogBlueprint: Warning: [AssetLog] /Temp/Game/Clinic/Maps/UEDPIE_0_Clinic_LevelInstance_24b9007f43524842_1.Clinic:PersistentLevel.Clinic: [Compiler] On Actor Begin Overlap (None)  is referencing an Actor that no longer exists. Attached logic will never execute.
+[2025.08.05-14.02.24:750][657]LogBlueprint: Warning: [AssetLog] /Temp/Game/Clinic/Maps/UEDPIE_0_Clinic_LevelInstance_24b9007f43524842_1.Clinic:PersistentLevel.Clinic: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2025.08.05-14.02.24:750][657]LogBlueprint: Warning: [AssetLog] /Temp/Game/Clinic/Maps/UEDPIE_0_Clinic_LevelInstance_24b9007f43524842_1.Clinic:PersistentLevel.Clinic: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2025.08.05-14.02.24:751][657]LogBlueprint: Error: [AssetLog] /Temp/Game/Clinic/Maps/UEDPIE_0_Clinic_LevelInstance_24b9007f43524842_1.Clinic:PersistentLevel.Clinic: [Compiler] Couldn't find object for bound event node  On Actor End Overlap (None)
+[2025.08.05-14.02.24:751][657]LogBlueprint: Error: [AssetLog] /Temp/Game/Clinic/Maps/UEDPIE_0_Clinic_LevelInstance_24b9007f43524842_1.Clinic:PersistentLevel.Clinic: [Compiler] Couldn't find object for bound event node  On Actor Begin Overlap (None)
+[2025.08.05-14.02.24:751][657]LogBlueprint: Error: [AssetLog] /Temp/Game/Clinic/Maps/UEDPIE_0_Clinic_LevelInstance_24b9007f43524842_1.Clinic:PersistentLevel.Clinic: [Compiler] Couldn't find object for bound event node  On Actor End Overlap (None)
+[2025.08.05-14.02.24:752][657]LogBlueprint: Error: [AssetLog] /Temp/Game/Clinic/Maps/UEDPIE_0_Clinic_LevelInstance_24b9007f43524842_1.Clinic:PersistentLevel.Clinic: [Compiler] Couldn't find object for bound event node  On Actor Begin Overlap (None)
+[2025.08.05-14.02.24:862][657]LogTemp: Warning: Begin Play called in C++!
+[2025.08.05-14.02.24:864][657]PIE: Server logged in
+[2025.08.05-14.02.24:866][657]PIE: Play in editor total start time 0.425 seconds.
+[2025.08.05-14.02.24:925][657]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Content/Clinic/Maps/Clinic_BuiltData which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.08.05-14.02.57:071][888]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.05-14.02.57:071][888]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_SlashOpenWorld
+[2025.08.05-14.02.57:074][888]LogWorld: UWorld::CleanupWorld for SlashOpenWorld, bSessionEnded=true, bCleanupResources=true
+[2025.08.05-14.02.57:084][888]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.05-14.02.57:136][888]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.05-14.02.57:145][888]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.05-14.02.57:176][888]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.08.05-14.02.57:176][888]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2025.08.05-14.02.57:176][888]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2025.08.05-14.02.57:178][888]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2025.08.05-14.02.57:184][888]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.05-14.02.57:212][888]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2025.08.05-14.02.57:289][889]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2025.08.05-14.02.57:321][889]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2025.08.05-14.02.58:279][902]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.08.05-14.02.58:297][902]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.05-14.02.58:297][902]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SlashOpenWorld
+[2025.08.05-14.02.58:440][902]LogPlayLevel: PIE: StaticDuplicateObject took: (0.142509s)
+[2025.08.05-14.02.58:440][902]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SlashOpenWorld.SlashOpenWorld to /Game/Maps/UEDPIE_0_SlashOpenWorld.SlashOpenWorld (0.142576s)
+[2025.08.05-14.02.58:470][902]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2025.08.05-14.02.58:471][902]LogChaosDD: Creating Chaos Debug Draw Scene for world SlashOpenWorld
+[2025.08.05-14.02.58:472][902]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/Maps/UEDPIE_0_SlashOpenWorld.SlashOpenWorld'.
+[2025.08.05-14.02.58:473][902]LogPlayLevel: PIE: World Init took: (0.001786s)
+[2025.08.05-14.02.58:474][902]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2025.08.05-14.02.58:474][902]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.05-14.02.58:474][902]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.05-14.02.58:474][902]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.05-14.02.58:474][902]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.05-14.02.58:474][902]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.05-14.02.58:474][902]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.05-14.02.58:474][902]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.05-14.02.58:475][902]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.05-14.02.58:475][902]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.05-14.02.58:475][902]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.05-14.02.58:475][902]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.05-14.02.58:477][902]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.05-14.02.58:498][902]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.08.05-14.02.58:499][902]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.05-14.02.58:499][902]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.05-14.02.58:499][902]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.05-14.02.58:499][902]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2025.08.05-14.02.58:499][902]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2025.08.05-14.02.58:503][902]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2025.08.05-14.02.58:503][902]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2025.08.05-14.02.58:503][902]LogInit: FAudioDevice initialized with ID 13.
+[2025.08.05-14.02.58:503][902]LogAudio: Display: Audio Device (ID: 13) registered with world 'SlashOpenWorld'.
+[2025.08.05-14.02.58:503][902]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2025.08.05-14.02.58:541][902]LogLoad: Game class is 'GameModeBase'
+[2025.08.05-14.02.58:605][902]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SlashOpenWorld.SlashOpenWorld up for play (max tick rate 0) at 2025.08.05-16.02.58
+[2025.08.05-14.02.58:605][902]LogWorld: Bringing up level for play took: 0.063808
+[2025.08.05-14.02.58:609][902]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2025.08.05-14.02.58:610][902]LogLevelInstance: Loaded 1 levels in 0 seconds
+[2025.08.05-14.02.58:610][902]LogStreaming: Display: FlushAsyncLoading(544): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.05-14.02.58:613][902]LogStreaming: Display: ImportPackages: SkipPackage: /Temp/Game/Clinic/Maps/UEDPIE_0_Clinic_LevelInstance_24b9007f43524842_1 (0x6C41C6D75E31F13F) /Game/Clinic/Maps/Clinic (0x9265D7D4C358802E) - Skipping non mounted imported package /Game/Clinic/Maps/Clinic_BuiltData (0xC44657208949A00E)
+[2025.08.05-14.02.58:643][902]LogBlueprint: Warning: [AssetLog] /Temp/Game/Clinic/Maps/UEDPIE_0_Clinic_LevelInstance_24b9007f43524842_1.Clinic:PersistentLevel.Clinic: [Compiler] On Actor End Overlap (None)  is referencing an Actor that no longer exists. Attached logic will never execute.
+[2025.08.05-14.02.58:643][902]LogBlueprint: Warning: [AssetLog] /Temp/Game/Clinic/Maps/UEDPIE_0_Clinic_LevelInstance_24b9007f43524842_1.Clinic:PersistentLevel.Clinic: [Compiler] On Actor Begin Overlap (None)  is referencing an Actor that no longer exists. Attached logic will never execute.
+[2025.08.05-14.02.58:644][902]LogBlueprint: Warning: [AssetLog] /Temp/Game/Clinic/Maps/UEDPIE_0_Clinic_LevelInstance_24b9007f43524842_1.Clinic:PersistentLevel.Clinic: [Compiler] On Actor End Overlap (None)  is referencing an Actor that no longer exists. Attached logic will never execute.
+[2025.08.05-14.02.58:644][902]LogBlueprint: Warning: [AssetLog] /Temp/Game/Clinic/Maps/UEDPIE_0_Clinic_LevelInstance_24b9007f43524842_1.Clinic:PersistentLevel.Clinic: [Compiler] On Actor Begin Overlap (None)  is referencing an Actor that no longer exists. Attached logic will never execute.
+[2025.08.05-14.02.58:644][902]LogBlueprint: Warning: [AssetLog] /Temp/Game/Clinic/Maps/UEDPIE_0_Clinic_LevelInstance_24b9007f43524842_1.Clinic:PersistentLevel.Clinic: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2025.08.05-14.02.58:645][902]LogBlueprint: Warning: [AssetLog] /Temp/Game/Clinic/Maps/UEDPIE_0_Clinic_LevelInstance_24b9007f43524842_1.Clinic:PersistentLevel.Clinic: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2025.08.05-14.02.58:645][902]LogBlueprint: Error: [AssetLog] /Temp/Game/Clinic/Maps/UEDPIE_0_Clinic_LevelInstance_24b9007f43524842_1.Clinic:PersistentLevel.Clinic: [Compiler] Couldn't find object for bound event node  On Actor End Overlap (None)
+[2025.08.05-14.02.58:646][902]LogBlueprint: Error: [AssetLog] /Temp/Game/Clinic/Maps/UEDPIE_0_Clinic_LevelInstance_24b9007f43524842_1.Clinic:PersistentLevel.Clinic: [Compiler] Couldn't find object for bound event node  On Actor Begin Overlap (None)
+[2025.08.05-14.02.58:646][902]LogBlueprint: Error: [AssetLog] /Temp/Game/Clinic/Maps/UEDPIE_0_Clinic_LevelInstance_24b9007f43524842_1.Clinic:PersistentLevel.Clinic: [Compiler] Couldn't find object for bound event node  On Actor End Overlap (None)
+[2025.08.05-14.02.58:646][902]LogBlueprint: Error: [AssetLog] /Temp/Game/Clinic/Maps/UEDPIE_0_Clinic_LevelInstance_24b9007f43524842_1.Clinic:PersistentLevel.Clinic: [Compiler] Couldn't find object for bound event node  On Actor Begin Overlap (None)
+[2025.08.05-14.02.58:755][902]LogTemp: Warning: Begin Play called in C++!
+[2025.08.05-14.02.58:757][902]PIE: Server logged in
+[2025.08.05-14.02.58:758][902]PIE: Play in editor total start time 0.462 seconds.
+[2025.08.05-14.02.58:817][902]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Content/Clinic/Maps/Clinic_BuiltData which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.08.05-14.03.10:492][ 65]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.05-14.03.10:492][ 65]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_SlashOpenWorld
+[2025.08.05-14.03.10:498][ 65]LogWorld: UWorld::CleanupWorld for SlashOpenWorld, bSessionEnded=true, bCleanupResources=true
+[2025.08.05-14.03.10:508][ 65]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.05-14.03.10:638][ 65]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.05-14.03.10:647][ 65]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.05-14.03.10:677][ 65]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.08.05-14.03.10:677][ 65]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2025.08.05-14.03.10:677][ 65]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2025.08.05-14.03.10:679][ 65]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2025.08.05-14.03.10:684][ 65]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.05-14.03.10:713][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2025.08.05-14.03.10:813][ 66]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2025.08.05-14.03.10:844][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2025.08.05-14.03.25:840][302]LogEditor: Attempting to add actor of class 'Item' to level at -14280.00,13270.00,0.00
+[2025.08.05-14.03.27:181][344]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.08.05-14.03.27:183][344]LogEditorActor: Deleted 0 Actors (0.051 secs)
+[2025.08.05-14.03.27:189][344]LogEditor: Attempting to add actor of class 'Item' to level at -14270.00,13280.00,0.00
+[2025.08.05-14.03.35:107][555]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.08.05-14.03.35:108][555]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.08.05-14.03.39:319][684]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.08.05-14.03.39:336][684]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.05-14.03.39:336][684]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SlashOpenWorld
+[2025.08.05-14.03.39:516][684]LogPlayLevel: PIE: StaticDuplicateObject took: (0.180552s)
+[2025.08.05-14.03.39:516][684]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SlashOpenWorld.SlashOpenWorld to /Game/Maps/UEDPIE_0_SlashOpenWorld.SlashOpenWorld (0.180608s)
+[2025.08.05-14.03.39:544][684]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2025.08.05-14.03.39:546][684]LogChaosDD: Creating Chaos Debug Draw Scene for world SlashOpenWorld
+[2025.08.05-14.03.39:548][684]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/Maps/UEDPIE_0_SlashOpenWorld.SlashOpenWorld'.
+[2025.08.05-14.03.39:549][684]LogPlayLevel: PIE: World Init took: (0.002415s)
+[2025.08.05-14.03.39:550][684]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2025.08.05-14.03.39:550][684]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.05-14.03.39:550][684]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.05-14.03.39:550][684]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.05-14.03.39:550][684]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.05-14.03.39:550][684]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.05-14.03.39:550][684]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.05-14.03.39:550][684]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.05-14.03.39:550][684]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.05-14.03.39:550][684]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.05-14.03.39:550][684]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.05-14.03.39:551][684]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.05-14.03.39:553][684]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.05-14.03.39:574][684]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.08.05-14.03.39:575][684]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.05-14.03.39:575][684]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.05-14.03.39:575][684]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.05-14.03.39:576][684]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2025.08.05-14.03.39:576][684]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2025.08.05-14.03.39:578][684]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2025.08.05-14.03.39:578][684]LogInit: FAudioDevice initialized with ID 14.
+[2025.08.05-14.03.39:578][684]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2025.08.05-14.03.39:578][684]LogAudio: Display: Audio Device (ID: 14) registered with world 'SlashOpenWorld'.
+[2025.08.05-14.03.39:578][684]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2025.08.05-14.03.39:582][684]LogLoad: Game class is 'GameModeBase'
+[2025.08.05-14.03.39:648][684]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SlashOpenWorld.SlashOpenWorld up for play (max tick rate 0) at 2025.08.05-16.03.39
+[2025.08.05-14.03.39:649][684]LogWorld: Bringing up level for play took: 0.066753
+[2025.08.05-14.03.39:651][684]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2025.08.05-14.03.39:652][684]LogLevelInstance: Loaded 1 levels in 0 seconds
+[2025.08.05-14.03.39:652][684]LogStreaming: Display: FlushAsyncLoading(545): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.05-14.03.39:655][684]LogStreaming: Display: ImportPackages: SkipPackage: /Temp/Game/Clinic/Maps/UEDPIE_0_Clinic_LevelInstance_24b9007f43524842_1 (0x6C41C6D75E31F13F) /Game/Clinic/Maps/Clinic (0x9265D7D4C358802E) - Skipping non mounted imported package /Game/Clinic/Maps/Clinic_BuiltData (0xC44657208949A00E)
+[2025.08.05-14.03.39:686][684]LogBlueprint: Warning: [AssetLog] /Temp/Game/Clinic/Maps/UEDPIE_0_Clinic_LevelInstance_24b9007f43524842_1.Clinic:PersistentLevel.Clinic: [Compiler] On Actor End Overlap (None)  is referencing an Actor that no longer exists. Attached logic will never execute.
+[2025.08.05-14.03.39:686][684]LogBlueprint: Warning: [AssetLog] /Temp/Game/Clinic/Maps/UEDPIE_0_Clinic_LevelInstance_24b9007f43524842_1.Clinic:PersistentLevel.Clinic: [Compiler] On Actor Begin Overlap (None)  is referencing an Actor that no longer exists. Attached logic will never execute.
+[2025.08.05-14.03.39:687][684]LogBlueprint: Warning: [AssetLog] /Temp/Game/Clinic/Maps/UEDPIE_0_Clinic_LevelInstance_24b9007f43524842_1.Clinic:PersistentLevel.Clinic: [Compiler] On Actor End Overlap (None)  is referencing an Actor that no longer exists. Attached logic will never execute.
+[2025.08.05-14.03.39:687][684]LogBlueprint: Warning: [AssetLog] /Temp/Game/Clinic/Maps/UEDPIE_0_Clinic_LevelInstance_24b9007f43524842_1.Clinic:PersistentLevel.Clinic: [Compiler] On Actor Begin Overlap (None)  is referencing an Actor that no longer exists. Attached logic will never execute.
+[2025.08.05-14.03.39:688][684]LogBlueprint: Warning: [AssetLog] /Temp/Game/Clinic/Maps/UEDPIE_0_Clinic_LevelInstance_24b9007f43524842_1.Clinic:PersistentLevel.Clinic: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2025.08.05-14.03.39:688][684]LogBlueprint: Warning: [AssetLog] /Temp/Game/Clinic/Maps/UEDPIE_0_Clinic_LevelInstance_24b9007f43524842_1.Clinic:PersistentLevel.Clinic: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2025.08.05-14.03.39:688][684]LogBlueprint: Error: [AssetLog] /Temp/Game/Clinic/Maps/UEDPIE_0_Clinic_LevelInstance_24b9007f43524842_1.Clinic:PersistentLevel.Clinic: [Compiler] Couldn't find object for bound event node  On Actor End Overlap (None)
+[2025.08.05-14.03.39:688][684]LogBlueprint: Error: [AssetLog] /Temp/Game/Clinic/Maps/UEDPIE_0_Clinic_LevelInstance_24b9007f43524842_1.Clinic:PersistentLevel.Clinic: [Compiler] Couldn't find object for bound event node  On Actor Begin Overlap (None)
+[2025.08.05-14.03.39:689][684]LogBlueprint: Error: [AssetLog] /Temp/Game/Clinic/Maps/UEDPIE_0_Clinic_LevelInstance_24b9007f43524842_1.Clinic:PersistentLevel.Clinic: [Compiler] Couldn't find object for bound event node  On Actor End Overlap (None)
+[2025.08.05-14.03.39:689][684]LogBlueprint: Error: [AssetLog] /Temp/Game/Clinic/Maps/UEDPIE_0_Clinic_LevelInstance_24b9007f43524842_1.Clinic:PersistentLevel.Clinic: [Compiler] Couldn't find object for bound event node  On Actor Begin Overlap (None)
+[2025.08.05-14.03.39:786][684]LogTemp: Warning: Begin Play called in C++!
+[2025.08.05-14.03.39:786][684]LogTemp: Warning: Begin Play called in C++!
+[2025.08.05-14.03.39:787][684]PIE: Server logged in
+[2025.08.05-14.03.39:788][684]PIE: Play in editor total start time 0.455 seconds.
+[2025.08.05-14.03.39:856][684]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Content/Clinic/Maps/Clinic_BuiltData which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.08.05-14.03.46:271][796]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.05-14.03.46:271][796]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_SlashOpenWorld
+[2025.08.05-14.03.46:275][796]LogWorld: UWorld::CleanupWorld for SlashOpenWorld, bSessionEnded=true, bCleanupResources=true
+[2025.08.05-14.03.46:287][796]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.05-14.03.46:334][796]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.05-14.03.46:342][796]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.05-14.03.46:373][796]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.05-14.03.46:373][796]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2025.08.05-14.03.46:373][796]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2025.08.05-14.03.46:376][796]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2025.08.05-14.03.46:409][796]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2025.08.05-14.03.46:478][797]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2025.08.05-14.03.46:508][797]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2025.08.05-14.03.56:925][925]Cmd: DELETE
+[2025.08.05-14.03.56:925][925]Cmd: ACTOR DELETE
+[2025.08.05-14.03.57:056][925]LogEditorActor: Deleted Actor: Item
+[2025.08.05-14.03.57:089][925]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2025.08.05-14.03.57:090][925]LogEditorActor: Deleted 1 Actors (0.119 secs)
+[2025.08.05-14.04.16:986][522]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2025.08.05-14.04.21:448][522]LogSlate: Window 'Save Content' being destroyed
+[2025.08.05-14.04.21:705][522]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.05-14.04.21:786][522]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2025.08.05-14.04.24:507][522]LogSavePackage: Moving output files for package: /Game/Maps/SlashOpenWorld
+[2025.08.05-14.04.24:508][522]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Saved/SlashOpenWorldAA04BDF14D9375BA6EE73993145661F6.tmp' to '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Content/Maps/SlashOpenWorld.umap'
+[2025.08.05-14.04.24:558][522]LogFileHelpers: Saving map 'SlashOpenWorld' took 2.853
+[2025.08.05-14.04.24:558][522]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.85 sec (total: 8.23 sec)
+[2025.08.05-14.04.24:558][522]LogStreaming: Display: FlushAsyncLoading(546): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.05-14.04.24:561][522]LogStreaming: Display: ImportPackages: SkipPackage: /Game/Clinic/Maps/Clinic (0x9265D7D4C358802E) /Game/Clinic/Maps/Clinic (0x9265D7D4C358802E) - Skipping non mounted imported package /Game/Clinic/Maps/Clinic_BuiltData (0xC44657208949A00E)
+[2025.08.05-14.04.24:592][522]LogBlueprint: Warning: [AssetLog] C:\Users\Usuario\Desktop\Unreal Engine + Unity\UE5_Slash_Project\Slash_Project\Content\Clinic\Maps\Clinic.umap: [Compiler] On Actor End Overlap (None)  is referencing an Actor that no longer exists. Attached logic will never execute.
+[2025.08.05-14.04.24:592][522]LogBlueprint: Warning: [AssetLog] C:\Users\Usuario\Desktop\Unreal Engine + Unity\UE5_Slash_Project\Slash_Project\Content\Clinic\Maps\Clinic.umap: [Compiler] On Actor Begin Overlap (None)  is referencing an Actor that no longer exists. Attached logic will never execute.
+[2025.08.05-14.04.24:592][522]LogBlueprint: Warning: [AssetLog] C:\Users\Usuario\Desktop\Unreal Engine + Unity\UE5_Slash_Project\Slash_Project\Content\Clinic\Maps\Clinic.umap: [Compiler] On Actor End Overlap (None)  is referencing an Actor that no longer exists. Attached logic will never execute.
+[2025.08.05-14.04.24:592][522]LogBlueprint: Warning: [AssetLog] C:\Users\Usuario\Desktop\Unreal Engine + Unity\UE5_Slash_Project\Slash_Project\Content\Clinic\Maps\Clinic.umap: [Compiler] On Actor Begin Overlap (None)  is referencing an Actor that no longer exists. Attached logic will never execute.
+[2025.08.05-14.04.24:593][522]LogBlueprint: Warning: [AssetLog] C:\Users\Usuario\Desktop\Unreal Engine + Unity\UE5_Slash_Project\Slash_Project\Content\Clinic\Maps\Clinic.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2025.08.05-14.04.24:593][522]LogBlueprint: Warning: [AssetLog] C:\Users\Usuario\Desktop\Unreal Engine + Unity\UE5_Slash_Project\Slash_Project\Content\Clinic\Maps\Clinic.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2025.08.05-14.04.24:593][522]LogBlueprint: Error: [AssetLog] C:\Users\Usuario\Desktop\Unreal Engine + Unity\UE5_Slash_Project\Slash_Project\Content\Clinic\Maps\Clinic.umap: [Compiler] Couldn't find object for bound event node  On Actor End Overlap (None)
+[2025.08.05-14.04.24:593][522]LogBlueprint: Error: [AssetLog] C:\Users\Usuario\Desktop\Unreal Engine + Unity\UE5_Slash_Project\Slash_Project\Content\Clinic\Maps\Clinic.umap: [Compiler] Couldn't find object for bound event node  On Actor Begin Overlap (None)
+[2025.08.05-14.04.24:593][522]LogBlueprint: Error: [AssetLog] C:\Users\Usuario\Desktop\Unreal Engine + Unity\UE5_Slash_Project\Slash_Project\Content\Clinic\Maps\Clinic.umap: [Compiler] Couldn't find object for bound event node  On Actor End Overlap (None)
+[2025.08.05-14.04.24:593][522]LogBlueprint: Error: [AssetLog] C:\Users\Usuario\Desktop\Unreal Engine + Unity\UE5_Slash_Project\Slash_Project\Content\Clinic\Maps\Clinic.umap: [Compiler] Couldn't find object for bound event node  On Actor Begin Overlap (None)
+[2025.08.05-14.04.24:672][522]LogChaosDD: Creating Chaos Debug Draw Scene for world Clinic
+[2025.08.05-14.04.24:672][522]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/Clinic/Maps/Clinic.Clinic'.
+[2025.08.05-14.04.24:693][522]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Clinic/Maps/Clinic.Clinic
+[2025.08.05-14.04.24:696][522]Cmd: MAP LOAD FILE="../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Content/Clinic/Maps/Clinic.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.08.05-14.04.25:000][522]LogWorld: UWorld::CleanupWorld for SlashOpenWorld, bSessionEnded=true, bCleanupResources=true
+[2025.08.05-14.04.25:001][522]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.05-14.04.25:003][522]LogWorld: UWorld::CleanupWorld for Clinic, bSessionEnded=true, bCleanupResources=true
+[2025.08.05-14.04.25:003][522]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.05-14.04.25:041][522]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.08.05-14.04.25:192][522]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2025.08.05-14.04.25:214][522]LogWorld: UWorld::CleanupWorld for Clinic, bSessionEnded=true, bCleanupResources=true
+[2025.08.05-14.04.25:215][522]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.05-14.04.25:255][522]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2025.08.05-14.04.25:286][522]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2025.08.05-14.04.25:290][522]LogStreaming: Display: ImportPackages: SkipPackage: /Game/Clinic/Maps/Clinic (0x9265D7D4C358802E) /Game/Clinic/Maps/Clinic (0x9265D7D4C358802E) - Skipping non mounted imported package /Game/Clinic/Maps/Clinic_BuiltData (0xC44657208949A00E)
+[2025.08.05-14.04.25:319][522]LogBlueprint: Warning: [AssetLog] C:\Users\Usuario\Desktop\Unreal Engine + Unity\UE5_Slash_Project\Slash_Project\Content\Clinic\Maps\Clinic.umap: [Compiler] On Actor End Overlap (None)  is referencing an Actor that no longer exists. Attached logic will never execute.
+[2025.08.05-14.04.25:320][522]LogBlueprint: Warning: [AssetLog] C:\Users\Usuario\Desktop\Unreal Engine + Unity\UE5_Slash_Project\Slash_Project\Content\Clinic\Maps\Clinic.umap: [Compiler] On Actor Begin Overlap (None)  is referencing an Actor that no longer exists. Attached logic will never execute.
+[2025.08.05-14.04.25:320][522]LogBlueprint: Warning: [AssetLog] C:\Users\Usuario\Desktop\Unreal Engine + Unity\UE5_Slash_Project\Slash_Project\Content\Clinic\Maps\Clinic.umap: [Compiler] On Actor End Overlap (None)  is referencing an Actor that no longer exists. Attached logic will never execute.
+[2025.08.05-14.04.25:321][522]LogBlueprint: Warning: [AssetLog] C:\Users\Usuario\Desktop\Unreal Engine + Unity\UE5_Slash_Project\Slash_Project\Content\Clinic\Maps\Clinic.umap: [Compiler] On Actor Begin Overlap (None)  is referencing an Actor that no longer exists. Attached logic will never execute.
+[2025.08.05-14.04.25:321][522]LogBlueprint: Warning: [AssetLog] C:\Users\Usuario\Desktop\Unreal Engine + Unity\UE5_Slash_Project\Slash_Project\Content\Clinic\Maps\Clinic.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2025.08.05-14.04.25:321][522]LogBlueprint: Warning: [AssetLog] C:\Users\Usuario\Desktop\Unreal Engine + Unity\UE5_Slash_Project\Slash_Project\Content\Clinic\Maps\Clinic.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2025.08.05-14.04.25:322][522]LogBlueprint: Error: [AssetLog] C:\Users\Usuario\Desktop\Unreal Engine + Unity\UE5_Slash_Project\Slash_Project\Content\Clinic\Maps\Clinic.umap: [Compiler] Couldn't find object for bound event node  On Actor End Overlap (None)
+[2025.08.05-14.04.25:322][522]LogBlueprint: Error: [AssetLog] C:\Users\Usuario\Desktop\Unreal Engine + Unity\UE5_Slash_Project\Slash_Project\Content\Clinic\Maps\Clinic.umap: [Compiler] Couldn't find object for bound event node  On Actor Begin Overlap (None)
+[2025.08.05-14.04.25:322][522]LogBlueprint: Error: [AssetLog] C:\Users\Usuario\Desktop\Unreal Engine + Unity\UE5_Slash_Project\Slash_Project\Content\Clinic\Maps\Clinic.umap: [Compiler] Couldn't find object for bound event node  On Actor End Overlap (None)
+[2025.08.05-14.04.25:322][522]LogBlueprint: Error: [AssetLog] C:\Users\Usuario\Desktop\Unreal Engine + Unity\UE5_Slash_Project\Slash_Project\Content\Clinic\Maps\Clinic.umap: [Compiler] Couldn't find object for bound event node  On Actor Begin Overlap (None)
+[2025.08.05-14.04.25:370][522]LogAudio: Display: Audio Device (ID: 1) registered with world 'Clinic'.
+[2025.08.05-14.04.25:370][522]LogChaosDD: Creating Chaos Debug Draw Scene for world Clinic
+[2025.08.05-14.04.25:372][522]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/Clinic/Maps/Clinic.Clinic'.
+[2025.08.05-14.04.25:483][522]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.08.05-14.04.25:520][522]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2025.08.05-14.04.25:546][522]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.08.05-14.04.25:546][522]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.202ms to complete.
+[2025.08.05-14.04.25:687][522]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.05-14.04.25:687][522]LogContentValidation: Enabled validators:
+[2025.08.05-14.04.25:687][522]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.05-14.04.25:687][522]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.05-14.04.25:687][522]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.05-14.04.25:687][522]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.05-14.04.25:687][522]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.05-14.04.25:687][522]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.05-14.04.25:790][522]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2025.08.05-14.04.25:865][522]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Content/Clinic/Maps/Clinic_BuiltData which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.08.05-14.04.25:865][522]LoadErrors: Warning: While trying to load package /Game/Clinic/Maps/Clinic, a dependent package /Game/Clinic/Maps/Clinic_BuiltData was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/Clinic/Maps/Clinic_BuiltData has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Content/Clinic/Maps/Clinic_BuiltData.uasset'. Perhaps it has been deleted or was not synced?
+
+[2025.08.05-14.04.25:865][522]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Content/Clinic/Maps/Clinic_BuiltData which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.08.05-14.04.26:953][537]LogTexture: Display: Building textures: /Game/Clinic/Textures/Decals/T_Decal_Textures__72.T_Decal_Textures__72 (TFO_AutoDXT, 256x256 x1x1x1) (Required Memory Estimate: 11.333209 MB), EncodeSpeed: Final
+[2025.08.05-14.04.27:022][537]LogTexture: Display: Building textures: /Game/Clinic/Textures/Decals/T_Decal_Textures__55.T_Decal_Textures__55 (TFO_AutoDXT, 256x256 x1x1x1) (Required Memory Estimate: 11.333209 MB), EncodeSpeed: Final
+[2025.08.05-14.04.27:052][537]LogTexture: Display: Building textures: /Game/Clinic/Textures/Decals/T_Decal_Textures__43.T_Decal_Textures__43 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 102.583323 MB), EncodeSpeed: Final
+[2025.08.05-14.04.27:087][537]LogTexture: Display: Building textures: /Game/Clinic/Textures/Decals/T_Decal_Textures__54.T_Decal_Textures__54 (TFO_AutoDXT, 256x256 x1x1x1) (Required Memory Estimate: 11.333209 MB), EncodeSpeed: Final
+[2025.08.05-14.04.27:359][537]LogTexture: Display: Building textures: /Game/Clinic/Textures/T_Room_OfficeTable.T_Room_OfficeTable (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Final
+[2025.08.05-14.04.27:848][537]LogTexture: Display: Building textures: /Game/Clinic/Textures/T_EntranceMiddleTable.T_EntranceMiddleTable (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Final
+[2025.08.05-14.04.28:335][537]LogTexture: Display: Building textures: /Game/Clinic/Textures/T_EntranceSofa.T_EntranceSofa (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Final
+[2025.08.05-14.04.28:673][537]LogTexture: Display: Building textures: /Game/Clinic/Textures/T_Planet.T_Planet (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Final
+[2025.08.05-14.04.28:867][537]LogTexture: Display: Building textures: /Game/Clinic/Textures/T_EntranceBigMonitor.T_EntranceBigMonitor (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 102.583323 MB), EncodeSpeed: Final
+[2025.08.05-14.04.29:222][537]LogTexture: Display: Building textures: /Game/Clinic/Textures/T_EntranceSquareLight.T_EntranceSquareLight (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Final
+[2025.08.05-14.04.29:508][537]LogTexture: Display: Building textures: /Game/Clinic/Textures/Decals/T_Decal_Textures__16.T_Decal_Textures__16 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 102.583323 MB), EncodeSpeed: Final
+[2025.08.05-14.04.30:066][551]LogTexture: Display: Building textures: /Game/Clinic/Textures/Decals/T_Decal_Textures__57.T_Decal_Textures__57 (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 46.083323 MB), EncodeSpeed: Final
+[2025.08.05-14.04.30:102][551]LogTexture: Display: Building textures: /Game/Clinic/Textures/Decals/T_Decal_Textures__66.T_Decal_Textures__66 (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 102.583323 MB), EncodeSpeed: Final
+[2025.08.05-14.04.30:139][551]LogTexture: Display: Building textures: /Game/Clinic/Textures/Decals/T_Decal_Textures__77.T_Decal_Textures__77 (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 46.083323 MB), EncodeSpeed: Final
+[2025.08.05-14.04.38:439][838]LogSlate: Took 0.001338 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.08.05-14.04.39:353][857]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Clinic/Maps/Clinic.Clinic:PersistentLevel.Clinic
+[2025.08.05-14.04.39:353][857]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2025.08.05-14.04.39:354][857]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_5'.
+[2025.08.05-14.04.49:697][104]LogTexture: Display: Building textures: /Game/Clinic/Textures/T_World_N.T_World_N (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 85.499988 MB), EncodeSpeed: Final
+[2025.08.05-14.04.49:749][104]LogTexture: Display: Building textures: /Game/Clinic/Textures/T_WorldClouds_D.T_WorldClouds_D (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 25.000 MB), EncodeSpeed: Final
+[2025.08.05-14.04.49:800][104]LogTexture: Display: Building textures: /Game/Clinic/Textures/T_World_D.T_World_D (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 102.583323 MB), EncodeSpeed: Final
+[2025.08.05-14.04.50:466][120]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2025.08.05-14.04.51:755][120]LogSlate: Window 'Save Content' being destroyed
+[2025.08.05-14.04.51:943][120]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.05-14.04.52:077][120]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2025.08.05-14.04.52:194][120]LogSavePackage: Moving output files for package: /Game/Clinic/Maps/Clinic
+[2025.08.05-14.04.52:196][120]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Saved/ClinicF4EDC6564BF92CD2AFD178A299C3E063.tmp' to '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Content/Clinic/Maps/Clinic.umap'
+[2025.08.05-14.04.52:224][120]LogFileHelpers: Saving map 'Clinic' took 0.225
+[2025.08.05-14.04.52:254][120]LogFileHelpers: InternalPromptForCheckoutAndSave took 310.752 ms (total: 8.54 sec)
+[2025.08.05-14.04.52:314][120]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.05-14.04.52:314][120]LogContentValidation: Enabled validators:
+[2025.08.05-14.04.52:314][120]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.05-14.04.52:315][120]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.05-14.04.52:315][120]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.05-14.04.52:315][120]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.05-14.04.52:315][120]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.05-14.04.52:315][120]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.05-14.04.52:315][120]AssetCheck: /Game/Clinic/Maps/Clinic Validating asset
+[2025.08.05-14.04.53:721][158]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2025.08.05-14.04.56:798][230]LogSlate: Window 'Clinic' being destroyed
+[2025.08.05-14.04.56:851][230]LogSlate: Window 'Clinic' being destroyed
+[2025.08.05-14.04.56:862][230]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.08.05-14.04.56:862][230]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.05-14.04.56:932][230]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.08.05-14.04.56:932][230]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.05-14.04.57:012][230]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2025.08.05-14.05.02:951][391]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2039.022827
+[2025.08.05-14.05.03:283][399]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.05-14.05.03:283][399]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2039.288818, Update Interval: 346.087219
+[2025.08.05-14.05.08:212][509]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2025.08.05-14.05.08:214][509]LogStreaming: Display: FlushAsyncLoading(548): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.05-14.05.08:720][509]LogChaosDD: Creating Chaos Debug Draw Scene for world SlashOpenWorld
+[2025.08.05-14.05.08:721][509]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/Maps/SlashOpenWorld.SlashOpenWorld'.
+[2025.08.05-14.05.08:882][509]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/SlashOpenWorld.SlashOpenWorld
+[2025.08.05-14.05.08:882][509]Cmd: MAP LOAD FILE="../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Content/Maps/SlashOpenWorld.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.08.05-14.05.09:009][509]LogWorld: UWorld::CleanupWorld for Clinic, bSessionEnded=true, bCleanupResources=true
+[2025.08.05-14.05.09:009][509]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.05-14.05.09:041][509]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.08.05-14.05.09:049][509]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2025.08.05-14.05.09:165][509]LogWorld: UWorld::CleanupWorld for SlashOpenWorld, bSessionEnded=true, bCleanupResources=true
+[2025.08.05-14.05.09:175][509]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.05-14.05.09:591][509]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2025.08.05-14.05.09:623][509]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2025.08.05-14.05.10:157][509]LogAudio: Display: Audio Device (ID: 1) registered with world 'SlashOpenWorld'.
+[2025.08.05-14.05.10:158][509]LogChaosDD: Creating Chaos Debug Draw Scene for world SlashOpenWorld
+[2025.08.05-14.05.10:159][509]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/Maps/SlashOpenWorld.SlashOpenWorld'.
+[2025.08.05-14.05.11:078][509]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.08.05-14.05.11:133][509]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2025.08.05-14.05.11:157][509]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.08.05-14.05.11:158][509]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.083ms to complete.
+[2025.08.05-14.05.11:546][509]LogStreaming: Display: ULevelStreaming::RequestLevel(/Temp/Game/Clinic/Maps/Clinic_LevelInstance_389addf2b55d84b2_0) is flushing async loading
+[2025.08.05-14.05.11:703][509]LogLevelInstance: Loaded 1 levels in 0.157 seconds
+[2025.08.05-14.05.18:343][653]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.08.05-14.05.18:361][653]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.05-14.05.18:361][653]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SlashOpenWorld
+[2025.08.05-14.05.18:492][653]LogPlayLevel: PIE: StaticDuplicateObject took: (0.130832s)
+[2025.08.05-14.05.18:492][653]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SlashOpenWorld.SlashOpenWorld to /Game/Maps/UEDPIE_0_SlashOpenWorld.SlashOpenWorld (0.130889s)
+[2025.08.05-14.05.18:522][653]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2025.08.05-14.05.18:527][653]LogChaosDD: Creating Chaos Debug Draw Scene for world SlashOpenWorld
+[2025.08.05-14.05.18:528][653]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/Maps/UEDPIE_0_SlashOpenWorld.SlashOpenWorld'.
+[2025.08.05-14.05.18:529][653]LogPlayLevel: PIE: World Init took: (0.001905s)
+[2025.08.05-14.05.18:530][653]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2025.08.05-14.05.18:530][653]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.05-14.05.18:530][653]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.05-14.05.18:530][653]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.05-14.05.18:530][653]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.05-14.05.18:530][653]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.05-14.05.18:530][653]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.05-14.05.18:530][653]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.05-14.05.18:530][653]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.05-14.05.18:530][653]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.05-14.05.18:530][653]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.05-14.05.18:530][653]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.05-14.05.18:532][653]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.05-14.05.18:554][653]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.08.05-14.05.18:555][653]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.05-14.05.18:555][653]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.05-14.05.18:555][653]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.05-14.05.18:557][653]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2025.08.05-14.05.18:557][653]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2025.08.05-14.05.18:559][653]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2025.08.05-14.05.18:559][653]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2025.08.05-14.05.18:559][653]LogInit: FAudioDevice initialized with ID 15.
+[2025.08.05-14.05.18:559][653]LogAudio: Display: Audio Device (ID: 15) registered with world 'SlashOpenWorld'.
+[2025.08.05-14.05.18:559][653]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2025.08.05-14.05.18:562][653]LogLoad: Game class is 'GameModeBase'
+[2025.08.05-14.05.18:627][653]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SlashOpenWorld.SlashOpenWorld up for play (max tick rate 0) at 2025.08.05-16.05.18
+[2025.08.05-14.05.18:628][653]LogWorld: Bringing up level for play took: 0.065753
+[2025.08.05-14.05.18:631][653]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2025.08.05-14.05.18:633][653]LogLevelInstance: Loaded 1 levels in 0 seconds
+[2025.08.05-14.05.18:633][653]LogStreaming: Display: FlushAsyncLoading(551): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.05-14.05.18:763][653]LogTemp: Warning: Begin Play called in C++!
+[2025.08.05-14.05.18:765][653]PIE: Server logged in
+[2025.08.05-14.05.18:766][653]PIE: Play in editor total start time 0.409 seconds.
+[2025.08.05-14.05.21:773][699]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.08.05-14.05.21:773][699]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.08.05-14.05.22:326][712]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.08.05-14.05.22:326][712]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.08.05-14.05.40:532][171]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.05-14.05.40:532][171]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_SlashOpenWorld
+[2025.08.05-14.05.40:536][171]LogWorld: UWorld::CleanupWorld for SlashOpenWorld, bSessionEnded=true, bCleanupResources=true
+[2025.08.05-14.05.40:547][171]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.05-14.05.40:694][171]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.05-14.05.40:703][171]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.05-14.05.40:746][171]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.08.05-14.05.40:750][171]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2025.08.05-14.05.40:750][171]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2025.08.05-14.05.40:753][171]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2025.08.05-14.05.40:759][171]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.05-14.05.40:774][171]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2025.08.05-14.05.40:833][172]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2025.08.05-14.05.40:864][172]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2025.08.05-14.05.40:868][172]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.08.05-14.05.40:868][172]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.08.05-14.05.41:982][185]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.08.05-14.05.42:110][185]LogStall: Shutdown...
+[2025.08.05-14.05.42:110][185]LogStall: Shutdown complete.
+[2025.08.05-14.05.42:206][185]LogSlate: Window 'Slash_Project - Unreal Editor' being destroyed
+[2025.08.05-14.05.42:416][185]Cmd: QUIT_EDITOR
+[2025.08.05-14.05.42:416][186]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.08.05-14.05.42:436][186]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.08.05-14.05.42:440][186]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.08.05-14.05.42:440][186]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.08.05-14.05.42:471][186]LogWorld: UWorld::CleanupWorld for SlashOpenWorld, bSessionEnded=true, bCleanupResources=true
+[2025.08.05-14.05.42:472][186]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.05-14.05.42:476][186]LogWorld: UWorld::CleanupWorld for Clinic, bSessionEnded=true, bCleanupResources=true
+[2025.08.05-14.05.42:476][186]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.05-14.05.42:520][186]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.08.05-14.05.42:529][186]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.08.05-14.05.42:550][186]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.08.05-14.05.42:550][186]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.05-14.05.42:577][186]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.08.05-14.05.42:585][186]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2025.08.05-14.05.42:585][186]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2025.08.05-14.05.42:586][186]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2025.08.05-14.05.43:269][186]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.08.05-14.05.43:269][186]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.08.05-14.05.43:270][186]LogAudio: Display: Audio Device unregistered from world 'SlashOpenWorld'.
+[2025.08.05-14.05.43:270][186]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.08.05-14.05.43:270][186]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.08.05-14.05.43:276][186]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.08.05-14.05.43:291][186]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.08.05-14.05.43:291][186]LogAudio: Display: Audio Device Manager Shutdown
+[2025.08.05-14.05.43:292][186]LogWindowsTextInputMethodSystem: Activated input method: Español (España, internacional) - (Keyboard).
+[2025.08.05-14.05.43:301][186]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.08.05-14.05.43:302][186]LogExit: Preparing to exit.
+[2025.08.05-14.05.43:399][186]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2025.08.05-14.05.43:407][186]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.08.05-14.05.43:408][186]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.08.05-14.05.43:412][186]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.08.05-14.05.43:412][186]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.08.05-14.05.43:412][186]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.08.05-14.05.43:413][186]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.08.05-14.05.43:413][186]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.08.05-14.05.43:413][186]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.08.05-14.05.43:413][186]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.08.05-14.05.43:413][186]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.08.05-14.05.43:413][186]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.08.05-14.05.43:413][186]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.08.05-14.05.43:413][186]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.08.05-14.05.43:413][186]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.08.05-14.05.43:413][186]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.08.05-14.05.43:413][186]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.08.05-14.05.43:413][186]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.08.05-14.05.43:413][186]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.08.05-14.05.43:413][186]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.08.05-14.05.43:413][186]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.08.05-14.05.43:413][186]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.08.05-14.05.44:690][186]LogEditorDataStorage: Deinitializing
+[2025.08.05-14.05.45:028][186]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.08.05-14.05.45:176][186]LogExit: Editor shut down
+[2025.08.05-14.05.45:196][186]LogExit: Transaction tracking system shut down
+[2025.08.05-14.05.46:064][186]LogCore: Error: PropertyBag: Expecting RefCount to be zero on destructor, but it is 2.
+[2025.08.05-14.05.46:098][186]LogExit: Object subsystem successfully closed.
+[2025.08.05-14.05.46:200][186]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.08.05-14.05.46:785][186]LogMemoryProfiler: Shutdown
+[2025.08.05-14.05.46:786][186]LogNetworkingProfiler: Shutdown
+[2025.08.05-14.05.46:786][186]LoadingProfiler: Shutdown
+[2025.08.05-14.05.46:787][186]LogTimingProfiler: Shutdown
+[2025.08.05-14.05.47:544][186]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.08.05-14.05.47:570][186]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.08.05-14.05.47:571][186]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC199E689-4612-B500-7DCB-9BBC13651842%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.3-39772772%2B%2B%2BUE5%2BRelease-5.5&UserID=9ffb585a415f8b5ea3099583a3a7266d%7C8558b0f0649c41fd8c81a81c61794009%7C7a8c91b2-78e4-4ba2-9615-51435d5b763c&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.08.05-14.05.48:145][186]LogEOSSDK: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.08.05-14.05.48:158][186]RenderDocPlugin: plugin has been unloaded.
+[2025.08.05-14.05.48:159][186]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2025.08.05-14.05.48:159][186]LogNFORDenoise: NFORDenoise function shutting down
+[2025.08.05-14.05.48:169][186]LogXGEController: Cleaning working directory: C:/Users/Usuario/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2025.08.05-14.05.48:184][186]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.08.05-14.05.48:184][186]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.08.05-14.05.48:185][186]LogPakFile: Destroying PakPlatformFile
+[2025.08.05-14.05.48:886][186]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.08.05-14.05.48:961][186]LogExit: Exiting.
+[2025.08.05-14.05.49:009][186]Log file closed, 08/05/25 16:05:49
