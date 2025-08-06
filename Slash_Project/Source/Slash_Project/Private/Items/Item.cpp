@@ -19,33 +19,40 @@ void AItem::BeginPlay()
 {
 	Super::BeginPlay();
 
-	UE_LOG(LogTemp, Warning, TEXT("Begin Play called in C+++++++ hella!"));
+	//UE_LOG(LogTemp, Warning, TEXT("Begin Play called in C+++++++ hella!"));
 	
-	if (GEngine) 
-	{
-		GEngine->AddOnScreenDebugMessage(1, 60.f, FColor::Cyan, FString("Item OnScreen Message!"));
-	}
+	//if (GEngine) 
+	//{
+	//	GEngine->AddOnScreenDebugMessage(1, 60.f, FColor::Cyan, FString("Item OnScreen Message!"));
+	//}
 
 	UWorld* World = GetWorld();
 	FVector Location = GetActorLocation();
+	FVector Forward = GetActorForwardVector();
+	//if (World)
+	//{
+		//FVector Forward = GetActorForwardVector();
+		//DrawDebugLine(World, Location, Location + Forward * 100.f, FColor::Red, true, -1.f, 0, 1.f);
+	//}
+
 	DRAW_SPHERE(Location);
-	
+	DRAW_LINE(Location, Location + Forward * 100.f);
 }
 
 void AItem::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
 
-	UE_LOG(LogTemp, Warning, TEXT("DeltaTime: %f"), DeltaTime);
+	//UE_LOG(LogTemp, Warning, TEXT("DeltaTime: %f"), DeltaTime);
 
-	if (GEngine)
-	{
-		FString Name = GetName();
-		FString Message = FString::Printf(TEXT("Item Name: %s"), *Name);
-		GEngine->AddOnScreenDebugMessage(1, 60.f, FColor::Cyan, Message);
+	//if (GEngine)
+	//{
+	//	FString Name = GetName();
+	//	FString Message = FString::Printf(TEXT("Item Name: %s"), *Name);
+	//	GEngine->AddOnScreenDebugMessage(1, 60.f, FColor::Cyan, Message);
 
-		UE_LOG(LogTemp, Warning, TEXT("Item Name: %s"), *Name);
-	}
+	//	UE_LOG(LogTemp, Warning, TEXT("Item Name: %s"), *Name);
+	//}
 
 }
 

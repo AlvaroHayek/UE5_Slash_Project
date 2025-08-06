@@ -2191,3 +2191,1198 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.08.06-15.39.29:254][620]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.08.06-15.39.29:254][621]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11161.715820, Update Interval: 339.105194
 [2025.08.06-15.42.20:728][156]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.08.06-15.44.05:812][596]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.08.06-15.44.11:714][712]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Items/BP_Item.BP_Item
+[2025.08.06-15.44.11:724][712]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
+[2025.08.06-15.44.11:724][712]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_1'.
+[2025.08.06-15.45.37:866][242]LogSlate: Window 'Color Picker' being destroyed
+[2025.08.06-15.45.37:919][242]LogAutomationController: Ignoring very large delta of 3.89 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.08.06-15.45.43:425][387]LogUObjectHash: Compacting FUObjectHashTables data took   6.45ms
+[2025.08.06-15.45.50:715][597]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11543.444336
+[2025.08.06-15.45.51:063][608]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.06-15.45.51:063][608]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11543.757812, Update Interval: 327.583862
+[2025.08.06-15.45.51:881][624]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2025.08.06-15.45.53:117][624]LogSlate: Window 'Save Content' being destroyed
+[2025.08.06-15.45.53:154][624]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.06-15.45.53:223][624]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Items/BP_Item] ([2] browsable assets)...
+[2025.08.06-15.45.53:224][624]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Items/BP_Item]
+[2025.08.06-15.45.53:267][624]LogSavePackage: Moving output files for package: /Game/Blueprints/Items/BP_Item
+[2025.08.06-15.45.53:269][624]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Saved/BP_Item96A59F3741B347C6625D5A8078EADE24.tmp' to '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Items/BP_Item.uasset'
+[2025.08.06-15.45.53:330][624]LogFileHelpers: InternalPromptForCheckoutAndSave took 175.054 ms (total: 335.832 ms)
+[2025.08.06-15.45.53:412][624]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.06-15.45.53:412][624]LogContentValidation: Enabled validators:
+[2025.08.06-15.45.53:413][624]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.06-15.45.53:413][624]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.06-15.45.53:413][624]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.06-15.45.53:413][624]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.06-15.45.53:413][624]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.06-15.45.53:414][624]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.06-15.45.53:415][624]AssetCheck: /Game/Blueprints/Items/BP_Item Validating asset
+[2025.08.06-15.45.55:970][701]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.08.06-15.45.55:985][701]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.06-15.45.55:985][701]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Minimal_Default_2
+[2025.08.06-15.45.55:991][701]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006041s)
+[2025.08.06-15.45.55:991][701]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Minimal_Default_2.Minimal_Default_2 to /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 (0.006099s)
+[2025.08.06-15.45.56:028][701]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2025.08.06-15.45.56:030][701]LogChaosDD: Creating Chaos Debug Draw Scene for world Minimal_Default_2
+[2025.08.06-15.45.56:033][701]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2'.
+[2025.08.06-15.45.56:035][701]LogPlayLevel: PIE: World Init took: (0.005084s)
+[2025.08.06-15.45.56:037][701]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2025.08.06-15.45.56:037][701]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.06-15.45.56:037][701]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.06-15.45.56:037][701]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.06-15.45.56:037][701]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.06-15.45.56:037][701]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.06-15.45.56:037][701]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.06-15.45.56:037][701]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.06-15.45.56:037][701]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.06-15.45.56:037][701]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.06-15.45.56:037][701]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.06-15.45.56:037][701]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.06-15.45.56:040][701]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.06-15.45.56:064][701]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.08.06-15.45.56:065][701]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.06-15.45.56:065][701]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.06-15.45.56:065][701]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.06-15.45.56:065][701]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2025.08.06-15.45.56:065][701]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2025.08.06-15.45.56:070][701]LogInit: FAudioDevice initialized with ID 7.
+[2025.08.06-15.45.56:070][701]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2025.08.06-15.45.56:070][701]LogAudio: Display: Audio Device (ID: 7) registered with world 'Minimal_Default_2'.
+[2025.08.06-15.45.56:070][701]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2025.08.06-15.45.56:070][701]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2025.08.06-15.45.56:073][701]LogLoad: Game class is 'GameModeBase'
+[2025.08.06-15.45.56:075][701]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 up for play (max tick rate 60) at 2025.08.06-17.45.56
+[2025.08.06-15.45.56:075][701]LogWorld: Bringing up level for play took: 0.001460
+[2025.08.06-15.45.56:079][701]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2025.08.06-15.45.56:086][701]LogTemp: Warning: Begin Play called in C+++++++ hella!
+[2025.08.06-15.45.56:088][701]PIE: Server logged in
+[2025.08.06-15.45.56:089][701]PIE: Play in editor total start time 0.109 seconds.
+[2025.08.06-15.45.56:090][701]LogTemp: Warning: DeltaTime: 0.066339
+[2025.08.06-15.45.56:090][701]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.45.56:115][702]LogTemp: Warning: DeltaTime: 0.144001
+[2025.08.06-15.45.56:115][702]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.45.56:562][703]LogTemp: Warning: DeltaTime: 0.400000
+[2025.08.06-15.45.56:562][703]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.45.57:073][704]LogTemp: Warning: DeltaTime: 0.400000
+[2025.08.06-15.45.57:073][704]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.45.57:211][705]LogTemp: Warning: DeltaTime: 0.137188
+[2025.08.06-15.45.57:212][705]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.45.57:299][706]LogTemp: Warning: DeltaTime: 0.088329
+[2025.08.06-15.45.57:299][706]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.45.57:528][707]LogTemp: Warning: DeltaTime: 0.228261
+[2025.08.06-15.45.57:528][707]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.45.57:607][708]LogTemp: Warning: DeltaTime: 0.080701
+[2025.08.06-15.45.57:607][708]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.45.57:687][709]LogTemp: Warning: DeltaTime: 0.075732
+[2025.08.06-15.45.57:687][709]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.45.57:831][710]LogTemp: Warning: DeltaTime: 0.147029
+[2025.08.06-15.45.57:831][710]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.45.57:869][711]LogTemp: Warning: DeltaTime: 0.038512
+[2025.08.06-15.45.57:869][711]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.45.57:963][712]LogTemp: Warning: DeltaTime: 0.094438
+[2025.08.06-15.45.57:963][712]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.45.58:060][713]LogTemp: Warning: DeltaTime: 0.096905
+[2025.08.06-15.45.58:060][713]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.45.58:076][714]LogTemp: Warning: DeltaTime: 0.016667
+[2025.08.06-15.45.58:076][714]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.45.58:098][715]LogTemp: Warning: DeltaTime: 0.022134
+[2025.08.06-15.45.58:098][715]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.45.58:132][716]LogTemp: Warning: DeltaTime: 0.033403
+[2025.08.06-15.45.58:132][716]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.45.58:167][717]LogTemp: Warning: DeltaTime: 0.033403
+[2025.08.06-15.45.58:167][717]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.45.58:199][718]LogTemp: Warning: DeltaTime: 0.033261
+[2025.08.06-15.45.58:201][718]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.45.58:233][719]LogTemp: Warning: DeltaTime: 0.033598
+[2025.08.06-15.45.58:233][719]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.45.58:265][720]LogTemp: Warning: DeltaTime: 0.032960
+[2025.08.06-15.45.58:265][720]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.45.58:301][721]LogTemp: Warning: DeltaTime: 0.033621
+[2025.08.06-15.45.58:301][721]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.45.58:333][722]LogTemp: Warning: DeltaTime: 0.033165
+[2025.08.06-15.45.58:333][722]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.45.58:365][723]LogTemp: Warning: DeltaTime: 0.033328
+[2025.08.06-15.45.58:365][723]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.45.58:400][724]LogTemp: Warning: DeltaTime: 0.033732
+[2025.08.06-15.45.58:400][724]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.45.58:432][725]LogTemp: Warning: DeltaTime: 0.032940
+[2025.08.06-15.45.58:432][725]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.45.58:470][726]LogTemp: Warning: DeltaTime: 0.033369
+[2025.08.06-15.45.58:470][726]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.45.58:499][727]LogTemp: Warning: DeltaTime: 0.033603
+[2025.08.06-15.45.58:499][727]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.45.58:531][728]LogTemp: Warning: DeltaTime: 0.033012
+[2025.08.06-15.45.58:532][728]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.45.58:566][729]LogTemp: Warning: DeltaTime: 0.033283
+[2025.08.06-15.45.58:566][729]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.45.58:600][730]LogTemp: Warning: DeltaTime: 0.033525
+[2025.08.06-15.45.58:600][730]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.45.58:632][731]LogTemp: Warning: DeltaTime: 0.033127
+[2025.08.06-15.45.58:632][731]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.45.58:666][732]LogTemp: Warning: DeltaTime: 0.033274
+[2025.08.06-15.45.58:666][732]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.45.58:701][733]LogTemp: Warning: DeltaTime: 0.033577
+[2025.08.06-15.45.58:701][733]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.45.58:732][734]LogTemp: Warning: DeltaTime: 0.033220
+[2025.08.06-15.45.58:732][734]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.45.58:765][735]LogTemp: Warning: DeltaTime: 0.033222
+[2025.08.06-15.45.58:765][735]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.45.58:799][736]LogTemp: Warning: DeltaTime: 0.034009
+[2025.08.06-15.45.58:799][736]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.45.58:832][737]LogTemp: Warning: DeltaTime: 0.032875
+[2025.08.06-15.45.58:832][737]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.45.58:867][738]LogTemp: Warning: DeltaTime: 0.033347
+[2025.08.06-15.45.58:867][738]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.45.58:900][739]LogTemp: Warning: DeltaTime: 0.033211
+[2025.08.06-15.45.58:900][739]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.45.58:932][740]LogTemp: Warning: DeltaTime: 0.033228
+[2025.08.06-15.45.58:932][740]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.45.58:967][741]LogTemp: Warning: DeltaTime: 0.033223
+[2025.08.06-15.45.58:967][741]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.45.58:999][742]LogTemp: Warning: DeltaTime: 0.033488
+[2025.08.06-15.45.58:999][742]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.45.59:032][743]LogTemp: Warning: DeltaTime: 0.033326
+[2025.08.06-15.45.59:033][743]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.45.59:067][744]LogTemp: Warning: DeltaTime: 0.033400
+[2025.08.06-15.45.59:067][744]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.45.59:102][745]LogTemp: Warning: DeltaTime: 0.033550
+[2025.08.06-15.45.59:102][745]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.45.59:135][746]LogTemp: Warning: DeltaTime: 0.032976
+[2025.08.06-15.45.59:136][746]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.45.59:166][747]LogTemp: Warning: DeltaTime: 0.033245
+[2025.08.06-15.45.59:166][747]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.45.59:201][748]LogTemp: Warning: DeltaTime: 0.033609
+[2025.08.06-15.45.59:201][748]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.45.59:232][749]LogTemp: Warning: DeltaTime: 0.032998
+[2025.08.06-15.45.59:232][749]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.45.59:267][750]LogTemp: Warning: DeltaTime: 0.033426
+[2025.08.06-15.45.59:267][750]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.45.59:301][751]LogTemp: Warning: DeltaTime: 0.033658
+[2025.08.06-15.45.59:301][751]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.45.59:332][752]LogTemp: Warning: DeltaTime: 0.033264
+[2025.08.06-15.45.59:333][752]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.45.59:365][753]LogTemp: Warning: DeltaTime: 0.033183
+[2025.08.06-15.45.59:366][753]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.45.59:399][754]LogTemp: Warning: DeltaTime: 0.033770
+[2025.08.06-15.45.59:400][754]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.45.59:433][755]LogTemp: Warning: DeltaTime: 0.033019
+[2025.08.06-15.45.59:433][755]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.45.59:465][756]LogTemp: Warning: DeltaTime: 0.032954
+[2025.08.06-15.45.59:465][756]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.45.59:499][757]LogTemp: Warning: DeltaTime: 0.033814
+[2025.08.06-15.45.59:499][757]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.45.59:533][758]LogTemp: Warning: DeltaTime: 0.033201
+[2025.08.06-15.45.59:533][758]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.45.59:566][759]LogTemp: Warning: DeltaTime: 0.033402
+[2025.08.06-15.45.59:566][759]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.45.59:599][760]LogTemp: Warning: DeltaTime: 0.033399
+[2025.08.06-15.45.59:599][760]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.45.59:633][761]LogTemp: Warning: DeltaTime: 0.033003
+[2025.08.06-15.45.59:633][761]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.45.59:665][762]LogTemp: Warning: DeltaTime: 0.033142
+[2025.08.06-15.45.59:665][762]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.45.59:699][763]LogTemp: Warning: DeltaTime: 0.033778
+[2025.08.06-15.45.59:699][763]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.45.59:733][764]LogTemp: Warning: DeltaTime: 0.033233
+[2025.08.06-15.45.59:734][764]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.45.59:769][765]LogTemp: Warning: DeltaTime: 0.033394
+[2025.08.06-15.45.59:769][765]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.45.59:802][766]LogTemp: Warning: DeltaTime: 0.033365
+[2025.08.06-15.45.59:802][766]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.45.59:835][767]LogTemp: Warning: DeltaTime: 0.032940
+[2025.08.06-15.45.59:835][767]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.45.59:868][768]LogTemp: Warning: DeltaTime: 0.033685
+[2025.08.06-15.45.59:868][768]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.45.59:900][769]LogTemp: Warning: DeltaTime: 0.033403
+[2025.08.06-15.45.59:900][769]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.45.59:936][770]LogTemp: Warning: DeltaTime: 0.033139
+[2025.08.06-15.45.59:936][770]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.45.59:966][771]LogTemp: Warning: DeltaTime: 0.033262
+[2025.08.06-15.45.59:967][771]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.00:001][772]LogTemp: Warning: DeltaTime: 0.033745
+[2025.08.06-15.46.00:001][772]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.00:034][773]LogTemp: Warning: DeltaTime: 0.033096
+[2025.08.06-15.46.00:034][773]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.00:065][774]LogTemp: Warning: DeltaTime: 0.032966
+[2025.08.06-15.46.00:065][774]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.00:100][775]LogTemp: Warning: DeltaTime: 0.034049
+[2025.08.06-15.46.00:100][775]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.00:133][776]LogTemp: Warning: DeltaTime: 0.032773
+[2025.08.06-15.46.00:133][776]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.00:166][777]LogTemp: Warning: DeltaTime: 0.033390
+[2025.08.06-15.46.00:166][777]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.00:199][778]LogTemp: Warning: DeltaTime: 0.033403
+[2025.08.06-15.46.00:199][778]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.00:233][779]LogTemp: Warning: DeltaTime: 0.033101
+[2025.08.06-15.46.00:233][779]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.00:266][780]LogTemp: Warning: DeltaTime: 0.033370
+[2025.08.06-15.46.00:266][780]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.00:299][781]LogTemp: Warning: DeltaTime: 0.033307
+[2025.08.06-15.46.00:299][781]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.00:333][782]LogTemp: Warning: DeltaTime: 0.033457
+[2025.08.06-15.46.00:333][782]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.00:367][783]LogTemp: Warning: DeltaTime: 0.035438
+[2025.08.06-15.46.00:367][783]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.00:402][784]LogTemp: Warning: DeltaTime: 0.031606
+[2025.08.06-15.46.00:402][784]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.00:434][785]LogTemp: Warning: DeltaTime: 0.032748
+[2025.08.06-15.46.00:434][785]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.00:470][786]LogTemp: Warning: DeltaTime: 0.033672
+[2025.08.06-15.46.00:470][786]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.00:501][787]LogTemp: Warning: DeltaTime: 0.033200
+[2025.08.06-15.46.00:501][787]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.00:533][788]LogTemp: Warning: DeltaTime: 0.033266
+[2025.08.06-15.46.00:533][788]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.00:566][789]LogTemp: Warning: DeltaTime: 0.033430
+[2025.08.06-15.46.00:566][789]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.00:600][790]LogTemp: Warning: DeltaTime: 0.033887
+[2025.08.06-15.46.00:600][790]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.00:632][791]LogTemp: Warning: DeltaTime: 0.032526
+[2025.08.06-15.46.00:632][791]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.00:666][792]LogTemp: Warning: DeltaTime: 0.033631
+[2025.08.06-15.46.00:666][792]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.00:701][793]LogTemp: Warning: DeltaTime: 0.033926
+[2025.08.06-15.46.00:701][793]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.00:732][794]LogTemp: Warning: DeltaTime: 0.032637
+[2025.08.06-15.46.00:733][794]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.00:765][795]LogTemp: Warning: DeltaTime: 0.033236
+[2025.08.06-15.46.00:765][795]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.00:801][796]LogTemp: Warning: DeltaTime: 0.033633
+[2025.08.06-15.46.00:801][796]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.00:834][797]LogTemp: Warning: DeltaTime: 0.033185
+[2025.08.06-15.46.00:834][797]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.00:868][798]LogTemp: Warning: DeltaTime: 0.033200
+[2025.08.06-15.46.00:868][798]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.00:902][799]LogTemp: Warning: DeltaTime: 0.033711
+[2025.08.06-15.46.00:902][799]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.00:934][800]LogTemp: Warning: DeltaTime: 0.033026
+[2025.08.06-15.46.00:934][800]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.00:967][801]LogTemp: Warning: DeltaTime: 0.033200
+[2025.08.06-15.46.00:967][801]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.01:003][802]LogTemp: Warning: DeltaTime: 0.033969
+[2025.08.06-15.46.01:003][802]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.01:035][803]LogTemp: Warning: DeltaTime: 0.033000
+[2025.08.06-15.46.01:035][803]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.01:068][804]LogTemp: Warning: DeltaTime: 0.033218
+[2025.08.06-15.46.01:068][804]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.01:100][805]LogTemp: Warning: DeltaTime: 0.033622
+[2025.08.06-15.46.01:100][805]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.01:133][806]LogTemp: Warning: DeltaTime: 0.033420
+[2025.08.06-15.46.01:133][806]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.01:166][807]LogTemp: Warning: DeltaTime: 0.033121
+[2025.08.06-15.46.01:166][807]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.01:204][808]LogTemp: Warning: DeltaTime: 0.034559
+[2025.08.06-15.46.01:204][808]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.01:264][809]LogTemp: Warning: DeltaTime: 0.063336
+[2025.08.06-15.46.01:264][809]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.01:279][810]LogTemp: Warning: DeltaTime: 0.016667
+[2025.08.06-15.46.01:280][810]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.01:299][811]LogTemp: Warning: DeltaTime: 0.018872
+[2025.08.06-15.46.01:299][811]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.01:331][812]LogTemp: Warning: DeltaTime: 0.032928
+[2025.08.06-15.46.01:332][812]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.01:365][813]LogTemp: Warning: DeltaTime: 0.033353
+[2025.08.06-15.46.01:365][813]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.01:401][814]LogTemp: Warning: DeltaTime: 0.033495
+[2025.08.06-15.46.01:401][814]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.01:434][815]LogTemp: Warning: DeltaTime: 0.033168
+[2025.08.06-15.46.01:434][815]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.01:467][816]LogTemp: Warning: DeltaTime: 0.033537
+[2025.08.06-15.46.01:467][816]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.01:502][817]LogTemp: Warning: DeltaTime: 0.033396
+[2025.08.06-15.46.01:503][817]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.01:533][818]LogTemp: Warning: DeltaTime: 0.033272
+[2025.08.06-15.46.01:533][818]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.01:565][819]LogTemp: Warning: DeltaTime: 0.033047
+[2025.08.06-15.46.01:565][819]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.01:599][820]LogTemp: Warning: DeltaTime: 0.033995
+[2025.08.06-15.46.01:599][820]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.01:631][821]LogTemp: Warning: DeltaTime: 0.032901
+[2025.08.06-15.46.01:632][821]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.01:665][822]LogTemp: Warning: DeltaTime: 0.033246
+[2025.08.06-15.46.01:665][822]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.01:698][823]LogTemp: Warning: DeltaTime: 0.033413
+[2025.08.06-15.46.01:698][823]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.01:732][824]LogTemp: Warning: DeltaTime: 0.033439
+[2025.08.06-15.46.01:732][824]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.01:765][825]LogTemp: Warning: DeltaTime: 0.033165
+[2025.08.06-15.46.01:765][825]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.01:799][826]LogTemp: Warning: DeltaTime: 0.033558
+[2025.08.06-15.46.01:799][826]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.01:832][827]LogTemp: Warning: DeltaTime: 0.033162
+[2025.08.06-15.46.01:832][827]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.01:864][828]LogTemp: Warning: DeltaTime: 0.033147
+[2025.08.06-15.46.01:865][828]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.01:899][829]LogTemp: Warning: DeltaTime: 0.033563
+[2025.08.06-15.46.01:899][829]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.01:931][830]LogTemp: Warning: DeltaTime: 0.033158
+[2025.08.06-15.46.01:931][830]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.01:965][831]LogTemp: Warning: DeltaTime: 0.033270
+[2025.08.06-15.46.01:965][831]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.01:999][832]LogTemp: Warning: DeltaTime: 0.033754
+[2025.08.06-15.46.01:999][832]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.02:032][833]LogTemp: Warning: DeltaTime: 0.033032
+[2025.08.06-15.46.02:032][833]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.02:066][834]LogTemp: Warning: DeltaTime: 0.033399
+[2025.08.06-15.46.02:066][834]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.02:100][835]LogTemp: Warning: DeltaTime: 0.033808
+[2025.08.06-15.46.02:100][835]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.02:132][836]LogTemp: Warning: DeltaTime: 0.032937
+[2025.08.06-15.46.02:132][836]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.02:166][837]LogTemp: Warning: DeltaTime: 0.033642
+[2025.08.06-15.46.02:166][837]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.02:198][838]LogTemp: Warning: DeltaTime: 0.032677
+[2025.08.06-15.46.02:198][838]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.02:233][839]LogTemp: Warning: DeltaTime: 0.033504
+[2025.08.06-15.46.02:233][839]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.02:266][840]LogTemp: Warning: DeltaTime: 0.033358
+[2025.08.06-15.46.02:266][840]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.02:300][841]LogTemp: Warning: DeltaTime: 0.033469
+[2025.08.06-15.46.02:300][841]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.02:332][842]LogTemp: Warning: DeltaTime: 0.033037
+[2025.08.06-15.46.02:332][842]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.02:366][843]LogTemp: Warning: DeltaTime: 0.033538
+[2025.08.06-15.46.02:366][843]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.02:399][844]LogTemp: Warning: DeltaTime: 0.033409
+[2025.08.06-15.46.02:399][844]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.02:432][845]LogTemp: Warning: DeltaTime: 0.033275
+[2025.08.06-15.46.02:432][845]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.02:465][846]LogTemp: Warning: DeltaTime: 0.033389
+[2025.08.06-15.46.02:465][846]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.02:499][847]LogTemp: Warning: DeltaTime: 0.033538
+[2025.08.06-15.46.02:499][847]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.02:532][848]LogTemp: Warning: DeltaTime: 0.032749
+[2025.08.06-15.46.02:532][848]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.02:569][849]LogTemp: Warning: DeltaTime: 0.034954
+[2025.08.06-15.46.02:569][849]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.02:599][850]LogTemp: Warning: DeltaTime: 0.031912
+[2025.08.06-15.46.02:599][850]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.02:633][851]LogTemp: Warning: DeltaTime: 0.033402
+[2025.08.06-15.46.02:633][851]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.02:665][852]LogTemp: Warning: DeltaTime: 0.033404
+[2025.08.06-15.46.02:665][852]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.02:699][853]LogTemp: Warning: DeltaTime: 0.033439
+[2025.08.06-15.46.02:699][853]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.02:732][854]LogTemp: Warning: DeltaTime: 0.033149
+[2025.08.06-15.46.02:732][854]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.02:767][855]LogTemp: Warning: DeltaTime: 0.033590
+[2025.08.06-15.46.02:767][855]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.02:799][856]LogTemp: Warning: DeltaTime: 0.033085
+[2025.08.06-15.46.02:799][856]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.02:832][857]LogTemp: Warning: DeltaTime: 0.033313
+[2025.08.06-15.46.02:832][857]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.02:865][858]LogTemp: Warning: DeltaTime: 0.033152
+[2025.08.06-15.46.02:865][858]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.02:899][859]LogTemp: Warning: DeltaTime: 0.033519
+[2025.08.06-15.46.02:899][859]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.02:932][860]LogTemp: Warning: DeltaTime: 0.033626
+[2025.08.06-15.46.02:932][860]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.02:966][861]LogTemp: Warning: DeltaTime: 0.033314
+[2025.08.06-15.46.02:967][861]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.03:000][862]LogTemp: Warning: DeltaTime: 0.033394
+[2025.08.06-15.46.03:000][862]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.03:033][863]LogTemp: Warning: DeltaTime: 0.033248
+[2025.08.06-15.46.03:033][863]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.03:066][864]LogTemp: Warning: DeltaTime: 0.033388
+[2025.08.06-15.46.03:066][864]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.03:100][865]LogTemp: Warning: DeltaTime: 0.033371
+[2025.08.06-15.46.03:100][865]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.03:137][866]LogTemp: Warning: DeltaTime: 0.033243
+[2025.08.06-15.46.03:137][866]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.03:168][867]LogTemp: Warning: DeltaTime: 0.033309
+[2025.08.06-15.46.03:168][867]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.03:200][868]LogTemp: Warning: DeltaTime: 0.033405
+[2025.08.06-15.46.03:200][868]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.03:232][869]LogTemp: Warning: DeltaTime: 0.033494
+[2025.08.06-15.46.03:233][869]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.03:266][870]LogTemp: Warning: DeltaTime: 0.033208
+[2025.08.06-15.46.03:267][870]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.03:298][871]LogTemp: Warning: DeltaTime: 0.033261
+[2025.08.06-15.46.03:298][871]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.03:333][872]LogTemp: Warning: DeltaTime: 0.033186
+[2025.08.06-15.46.03:333][872]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.03:366][873]LogTemp: Warning: DeltaTime: 0.033418
+[2025.08.06-15.46.03:366][873]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.03:399][874]LogTemp: Warning: DeltaTime: 0.033189
+[2025.08.06-15.46.03:399][874]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.03:433][875]LogTemp: Warning: DeltaTime: 0.033683
+[2025.08.06-15.46.03:433][875]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.03:467][876]LogTemp: Warning: DeltaTime: 0.033374
+[2025.08.06-15.46.03:467][876]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.03:500][877]LogTemp: Warning: DeltaTime: 0.033287
+[2025.08.06-15.46.03:500][877]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.03:533][878]LogTemp: Warning: DeltaTime: 0.033162
+[2025.08.06-15.46.03:533][878]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.03:566][879]LogTemp: Warning: DeltaTime: 0.033016
+[2025.08.06-15.46.03:566][879]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.03:599][880]LogTemp: Warning: DeltaTime: 0.033770
+[2025.08.06-15.46.03:599][880]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.03:633][881]LogTemp: Warning: DeltaTime: 0.032931
+[2025.08.06-15.46.03:633][881]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.03:666][882]LogTemp: Warning: DeltaTime: 0.033640
+[2025.08.06-15.46.03:666][882]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.03:699][883]LogTemp: Warning: DeltaTime: 0.033261
+[2025.08.06-15.46.03:699][883]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.03:733][884]LogTemp: Warning: DeltaTime: 0.033288
+[2025.08.06-15.46.03:733][884]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.03:766][885]LogTemp: Warning: DeltaTime: 0.033262
+[2025.08.06-15.46.03:766][885]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.03:798][886]LogTemp: Warning: DeltaTime: 0.033189
+[2025.08.06-15.46.03:798][886]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.03:832][887]LogTemp: Warning: DeltaTime: 0.033341
+[2025.08.06-15.46.03:832][887]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.03:866][888]LogTemp: Warning: DeltaTime: 0.033509
+[2025.08.06-15.46.03:866][888]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.03:899][889]LogTemp: Warning: DeltaTime: 0.033606
+[2025.08.06-15.46.03:899][889]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.03:933][890]LogTemp: Warning: DeltaTime: 0.033070
+[2025.08.06-15.46.03:933][890]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.03:966][891]LogTemp: Warning: DeltaTime: 0.033363
+[2025.08.06-15.46.03:966][891]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.04:000][892]LogTemp: Warning: DeltaTime: 0.033712
+[2025.08.06-15.46.04:000][892]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.04:033][893]LogTemp: Warning: DeltaTime: 0.032748
+[2025.08.06-15.46.04:033][893]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.04:068][894]LogTemp: Warning: DeltaTime: 0.033552
+[2025.08.06-15.46.04:068][894]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.04:102][895]LogTemp: Warning: DeltaTime: 0.033756
+[2025.08.06-15.46.04:102][895]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.04:136][896]LogTemp: Warning: DeltaTime: 0.033620
+[2025.08.06-15.46.04:136][896]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.04:166][897]LogTemp: Warning: DeltaTime: 0.032470
+[2025.08.06-15.46.04:166][897]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.04:199][898]LogTemp: Warning: DeltaTime: 0.033625
+[2025.08.06-15.46.04:199][898]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.04:233][899]LogTemp: Warning: DeltaTime: 0.033019
+[2025.08.06-15.46.04:233][899]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.04:267][900]LogTemp: Warning: DeltaTime: 0.033860
+[2025.08.06-15.46.04:267][900]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.04:299][901]LogTemp: Warning: DeltaTime: 0.033138
+[2025.08.06-15.46.04:299][901]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.04:332][902]LogTemp: Warning: DeltaTime: 0.032919
+[2025.08.06-15.46.04:332][902]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.04:365][903]LogTemp: Warning: DeltaTime: 0.033490
+[2025.08.06-15.46.04:365][903]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.04:400][904]LogTemp: Warning: DeltaTime: 0.033780
+[2025.08.06-15.46.04:400][904]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.04:433][905]LogTemp: Warning: DeltaTime: 0.033069
+[2025.08.06-15.46.04:433][905]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.04:467][906]LogTemp: Warning: DeltaTime: 0.033230
+[2025.08.06-15.46.04:467][906]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.04:501][907]LogTemp: Warning: DeltaTime: 0.033333
+[2025.08.06-15.46.04:501][907]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.04:535][908]LogTemp: Warning: DeltaTime: 0.033166
+[2025.08.06-15.46.04:535][908]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.04:567][909]LogTemp: Warning: DeltaTime: 0.033675
+[2025.08.06-15.46.04:568][909]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.04:601][910]LogTemp: Warning: DeltaTime: 0.032915
+[2025.08.06-15.46.04:601][910]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.04:636][911]LogTemp: Warning: DeltaTime: 0.033876
+[2025.08.06-15.46.04:636][911]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.04:667][912]LogTemp: Warning: DeltaTime: 0.032703
+[2025.08.06-15.46.04:667][912]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.04:701][913]LogTemp: Warning: DeltaTime: 0.033593
+[2025.08.06-15.46.04:701][913]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.04:736][914]LogTemp: Warning: DeltaTime: 0.033773
+[2025.08.06-15.46.04:736][914]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.04:770][915]LogTemp: Warning: DeltaTime: 0.033620
+[2025.08.06-15.46.04:770][915]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.04:802][916]LogTemp: Warning: DeltaTime: 0.032772
+[2025.08.06-15.46.04:802][916]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.04:835][917]LogTemp: Warning: DeltaTime: 0.033269
+[2025.08.06-15.46.04:835][917]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.04:866][918]LogTemp: Warning: DeltaTime: 0.033434
+[2025.08.06-15.46.04:866][918]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.04:901][919]LogTemp: Warning: DeltaTime: 0.033185
+[2025.08.06-15.46.04:901][919]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.04:936][920]LogTemp: Warning: DeltaTime: 0.033679
+[2025.08.06-15.46.04:936][920]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.04:969][921]LogTemp: Warning: DeltaTime: 0.032987
+[2025.08.06-15.46.04:969][921]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.05:002][922]LogTemp: Warning: DeltaTime: 0.033510
+[2025.08.06-15.46.05:002][922]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.05:035][923]LogTemp: Warning: DeltaTime: 0.033180
+[2025.08.06-15.46.05:035][923]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.05:069][924]LogTemp: Warning: DeltaTime: 0.033504
+[2025.08.06-15.46.05:069][924]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.05:103][925]LogTemp: Warning: DeltaTime: 0.033488
+[2025.08.06-15.46.05:103][925]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.05:134][926]LogTemp: Warning: DeltaTime: 0.033167
+[2025.08.06-15.46.05:134][926]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.05:166][927]LogTemp: Warning: DeltaTime: 0.032920
+[2025.08.06-15.46.05:166][927]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.05:199][928]LogTemp: Warning: DeltaTime: 0.034219
+[2025.08.06-15.46.05:199][928]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.05:232][929]LogTemp: Warning: DeltaTime: 0.032588
+[2025.08.06-15.46.05:232][929]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.05:265][930]LogTemp: Warning: DeltaTime: 0.033563
+[2025.08.06-15.46.05:265][930]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.05:299][931]LogTemp: Warning: DeltaTime: 0.033229
+[2025.08.06-15.46.05:299][931]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.05:333][932]LogTemp: Warning: DeltaTime: 0.033508
+[2025.08.06-15.46.05:333][932]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.05:378][932]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.06-15.46.05:378][932]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Minimal_Default_2
+[2025.08.06-15.46.05:378][932]LogWorld: UWorld::CleanupWorld for Minimal_Default_2, bSessionEnded=true, bCleanupResources=true
+[2025.08.06-15.46.05:378][932]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.06-15.46.05:414][932]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.06-15.46.05:422][932]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.06-15.46.05:448][932]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.06-15.46.05:449][932]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2025.08.06-15.46.05:449][932]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2025.08.06-15.46.05:451][932]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2025.08.06-15.46.05:460][932]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2025.08.06-15.46.05:509][933]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2025.08.06-15.46.48:988][746]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2025.08.06-15.46.54:140][807]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.08.06-15.46.54:154][807]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.06-15.46.54:155][807]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Minimal_Default_2
+[2025.08.06-15.46.54:203][807]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004422s)
+[2025.08.06-15.46.54:203][807]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Minimal_Default_2.Minimal_Default_2 to /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 (0.004491s)
+[2025.08.06-15.46.54:203][807]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2025.08.06-15.46.54:203][807]LogChaosDD: Creating Chaos Debug Draw Scene for world Minimal_Default_2
+[2025.08.06-15.46.54:203][807]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2'.
+[2025.08.06-15.46.54:203][807]LogPlayLevel: PIE: World Init took: (0.002109s)
+[2025.08.06-15.46.54:203][807]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2025.08.06-15.46.54:203][807]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.06-15.46.54:203][807]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.06-15.46.54:203][807]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.06-15.46.54:203][807]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.06-15.46.54:203][807]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.06-15.46.54:203][807]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.06-15.46.54:204][807]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.06-15.46.54:204][807]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.06-15.46.54:204][807]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.06-15.46.54:204][807]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.06-15.46.54:204][807]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.06-15.46.54:204][807]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.06-15.46.54:220][807]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.08.06-15.46.54:220][807]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.06-15.46.54:221][807]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.06-15.46.54:221][807]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.06-15.46.54:221][807]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2025.08.06-15.46.54:221][807]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2025.08.06-15.46.54:226][807]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2025.08.06-15.46.54:226][807]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2025.08.06-15.46.54:226][807]LogInit: FAudioDevice initialized with ID 8.
+[2025.08.06-15.46.54:226][807]LogAudio: Display: Audio Device (ID: 8) registered with world 'Minimal_Default_2'.
+[2025.08.06-15.46.54:226][807]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2025.08.06-15.46.54:242][807]LogLoad: Game class is 'GameModeBase'
+[2025.08.06-15.46.54:243][807]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 up for play (max tick rate 60) at 2025.08.06-17.46.54
+[2025.08.06-15.46.54:243][807]LogWorld: Bringing up level for play took: 0.001434
+[2025.08.06-15.46.54:246][807]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2025.08.06-15.46.54:249][807]LogTemp: Warning: Begin Play called in C+++++++ hella!
+[2025.08.06-15.46.54:251][807]PIE: Server logged in
+[2025.08.06-15.46.54:252][807]PIE: Play in editor total start time 0.101 seconds.
+[2025.08.06-15.46.54:253][807]LogTemp: Warning: DeltaTime: 0.067249
+[2025.08.06-15.46.54:253][807]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.54:278][808]LogTemp: Warning: DeltaTime: 0.136079
+[2025.08.06-15.46.54:278][808]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.54:509][809]LogTemp: Warning: DeltaTime: 0.231394
+[2025.08.06-15.46.54:509][809]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.54:723][810]LogTemp: Warning: DeltaTime: 0.214158
+[2025.08.06-15.46.54:723][810]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.54:968][811]LogTemp: Warning: DeltaTime: 0.245196
+[2025.08.06-15.46.54:968][811]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.55:052][812]LogTemp: Warning: DeltaTime: 0.083609
+[2025.08.06-15.46.55:052][812]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.55:290][813]LogTemp: Warning: DeltaTime: 0.237656
+[2025.08.06-15.46.55:290][813]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.55:430][814]LogTemp: Warning: DeltaTime: 0.137478
+[2025.08.06-15.46.55:430][814]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.55:514][815]LogTemp: Warning: DeltaTime: 0.088096
+[2025.08.06-15.46.55:514][815]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.55:604][816]LogTemp: Warning: DeltaTime: 0.083780
+[2025.08.06-15.46.55:604][816]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.55:673][817]LogTemp: Warning: DeltaTime: 0.072691
+[2025.08.06-15.46.55:674][817]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.55:740][818]LogTemp: Warning: DeltaTime: 0.069221
+[2025.08.06-15.46.55:740][818]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.55:822][819]LogTemp: Warning: DeltaTime: 0.081705
+[2025.08.06-15.46.55:822][819]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.55:893][820]LogTemp: Warning: DeltaTime: 0.070703
+[2025.08.06-15.46.55:893][820]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.55:953][821]LogTemp: Warning: DeltaTime: 0.059770
+[2025.08.06-15.46.55:953][821]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.56:026][822]LogTemp: Warning: DeltaTime: 0.073266
+[2025.08.06-15.46.56:026][822]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.56:090][823]LogTemp: Warning: DeltaTime: 0.064381
+[2025.08.06-15.46.56:090][823]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.56:148][824]LogTemp: Warning: DeltaTime: 0.057065
+[2025.08.06-15.46.56:148][824]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.56:358][825]LogTemp: Warning: DeltaTime: 0.209585
+[2025.08.06-15.46.56:358][825]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.56:425][826]LogTemp: Warning: DeltaTime: 0.068152
+[2025.08.06-15.46.56:426][826]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.56:499][827]LogTemp: Warning: DeltaTime: 0.074370
+[2025.08.06-15.46.56:499][827]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.56:559][828]LogTemp: Warning: DeltaTime: 0.059279
+[2025.08.06-15.46.56:559][828]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.56:615][829]LogTemp: Warning: DeltaTime: 0.057104
+[2025.08.06-15.46.56:616][829]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.56:682][830]LogTemp: Warning: DeltaTime: 0.065563
+[2025.08.06-15.46.56:683][830]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.56:745][831]LogTemp: Warning: DeltaTime: 0.063807
+[2025.08.06-15.46.56:745][831]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.56:799][832]LogTemp: Warning: DeltaTime: 0.054032
+[2025.08.06-15.46.56:799][832]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.56:869][833]LogTemp: Warning: DeltaTime: 0.068815
+[2025.08.06-15.46.56:869][833]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.56:931][834]LogTemp: Warning: DeltaTime: 0.063041
+[2025.08.06-15.46.56:931][834]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.56:994][835]LogTemp: Warning: DeltaTime: 0.059173
+[2025.08.06-15.46.56:994][835]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.57:125][836]LogTemp: Warning: DeltaTime: 0.129575
+[2025.08.06-15.46.57:125][836]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.57:334][837]LogTemp: Warning: DeltaTime: 0.204081
+[2025.08.06-15.46.57:335][837]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.57:380][838]LogTemp: Warning: DeltaTime: 0.053654
+[2025.08.06-15.46.57:380][838]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.57:455][839]LogTemp: Warning: DeltaTime: 0.072761
+[2025.08.06-15.46.57:455][839]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.57:514][840]LogTemp: Warning: DeltaTime: 0.060267
+[2025.08.06-15.46.57:514][840]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.57:572][841]LogTemp: Warning: DeltaTime: 0.059756
+[2025.08.06-15.46.57:572][841]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.57:637][842]LogTemp: Warning: DeltaTime: 0.065477
+[2025.08.06-15.46.57:637][842]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.57:716][843]LogTemp: Warning: DeltaTime: 0.079365
+[2025.08.06-15.46.57:716][843]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.57:785][844]LogTemp: Warning: DeltaTime: 0.069909
+[2025.08.06-15.46.57:785][844]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.57:847][845]LogTemp: Warning: DeltaTime: 0.061979
+[2025.08.06-15.46.57:847][845]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.57:921][846]LogTemp: Warning: DeltaTime: 0.073315
+[2025.08.06-15.46.57:921][846]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.57:981][847]LogTemp: Warning: DeltaTime: 0.061457
+[2025.08.06-15.46.57:981][847]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.58:055][848]LogTemp: Warning: DeltaTime: 0.071638
+[2025.08.06-15.46.58:055][848]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.58:275][849]LogTemp: Warning: DeltaTime: 0.215611
+[2025.08.06-15.46.58:275][849]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.58:333][850]LogTemp: Warning: DeltaTime: 0.064001
+[2025.08.06-15.46.58:333][850]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.58:409][851]LogTemp: Warning: DeltaTime: 0.076559
+[2025.08.06-15.46.58:409][851]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.58:487][852]LogTemp: Warning: DeltaTime: 0.077454
+[2025.08.06-15.46.58:487][852]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.58:559][853]LogTemp: Warning: DeltaTime: 0.072386
+[2025.08.06-15.46.58:559][853]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.58:632][854]LogTemp: Warning: DeltaTime: 0.072650
+[2025.08.06-15.46.58:632][854]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.58:700][855]LogTemp: Warning: DeltaTime: 0.068946
+[2025.08.06-15.46.58:700][855]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.58:769][856]LogTemp: Warning: DeltaTime: 0.068031
+[2025.08.06-15.46.58:769][856]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.58:835][857]LogTemp: Warning: DeltaTime: 0.065518
+[2025.08.06-15.46.58:835][857]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.58:900][858]LogTemp: Warning: DeltaTime: 0.065661
+[2025.08.06-15.46.58:901][858]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.58:983][859]LogTemp: Warning: DeltaTime: 0.077466
+[2025.08.06-15.46.58:983][859]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.59:097][860]LogTemp: Warning: DeltaTime: 0.116227
+[2025.08.06-15.46.59:097][860]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.59:328][861]LogTemp: Warning: DeltaTime: 0.213682
+[2025.08.06-15.46.59:328][861]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.59:384][862]LogTemp: Warning: DeltaTime: 0.067612
+[2025.08.06-15.46.59:384][862]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.59:409][863]LogTemp: Warning: DeltaTime: 0.033490
+[2025.08.06-15.46.59:409][863]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.59:425][864]LogTemp: Warning: DeltaTime: 0.016667
+[2025.08.06-15.46.59:425][864]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.59:457][865]LogTemp: Warning: DeltaTime: 0.030390
+[2025.08.06-15.46.59:457][865]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.59:490][866]LogTemp: Warning: DeltaTime: 0.033488
+[2025.08.06-15.46.59:493][866]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.59:523][867]LogTemp: Warning: DeltaTime: 0.032871
+[2025.08.06-15.46.59:523][867]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.59:556][868]LogTemp: Warning: DeltaTime: 0.033677
+[2025.08.06-15.46.59:556][868]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.59:589][869]LogTemp: Warning: DeltaTime: 0.033562
+[2025.08.06-15.46.59:590][869]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.59:622][870]LogTemp: Warning: DeltaTime: 0.033046
+[2025.08.06-15.46.59:622][870]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.59:656][871]LogTemp: Warning: DeltaTime: 0.033186
+[2025.08.06-15.46.59:656][871]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.59:690][872]LogTemp: Warning: DeltaTime: 0.033703
+[2025.08.06-15.46.59:690][872]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.59:774][873]LogTemp: Warning: DeltaTime: 0.084623
+[2025.08.06-15.46.59:774][873]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.59:791][874]LogTemp: Warning: DeltaTime: 0.016667
+[2025.08.06-15.46.59:791][874]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.59:814][875]LogTemp: Warning: DeltaTime: 0.022928
+[2025.08.06-15.46.59:814][875]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.59:848][876]LogTemp: Warning: DeltaTime: 0.033291
+[2025.08.06-15.46.59:849][876]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.59:883][877]LogTemp: Warning: DeltaTime: 0.033514
+[2025.08.06-15.46.59:884][877]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.59:916][878]LogTemp: Warning: DeltaTime: 0.033258
+[2025.08.06-15.46.59:916][878]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.59:947][879]LogTemp: Warning: DeltaTime: 0.033032
+[2025.08.06-15.46.59:948][879]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.46.59:981][880]LogTemp: Warning: DeltaTime: 0.033511
+[2025.08.06-15.46.59:981][880]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.47.00:014][881]LogTemp: Warning: DeltaTime: 0.033185
+[2025.08.06-15.47.00:014][881]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.47.00:048][882]LogTemp: Warning: DeltaTime: 0.033615
+[2025.08.06-15.47.00:048][882]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.47.00:080][883]LogTemp: Warning: DeltaTime: 0.033118
+[2025.08.06-15.47.00:080][883]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.47.00:113][884]LogTemp: Warning: DeltaTime: 0.033354
+[2025.08.06-15.47.00:113][884]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.47.00:218][885]LogTemp: Warning: DeltaTime: 0.099249
+[2025.08.06-15.47.00:218][885]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.47.00:233][886]LogTemp: Warning: DeltaTime: 0.018110
+[2025.08.06-15.47.00:233][886]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.47.00:253][887]LogTemp: Warning: DeltaTime: 0.020295
+[2025.08.06-15.47.00:253][887]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.47.00:288][888]LogTemp: Warning: DeltaTime: 0.033411
+[2025.08.06-15.47.00:288][888]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.47.00:321][889]LogTemp: Warning: DeltaTime: 0.033312
+[2025.08.06-15.47.00:322][889]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.47.00:351][890]LogTemp: Warning: DeltaTime: 0.032952
+[2025.08.06-15.47.00:351][890]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.47.00:385][891]LogTemp: Warning: DeltaTime: 0.033615
+[2025.08.06-15.47.00:385][891]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.47.00:418][892]LogTemp: Warning: DeltaTime: 0.033289
+[2025.08.06-15.47.00:418][892]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.47.00:450][893]LogTemp: Warning: DeltaTime: 0.033081
+[2025.08.06-15.47.00:450][893]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.47.00:485][894]LogTemp: Warning: DeltaTime: 0.033849
+[2025.08.06-15.47.00:485][894]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.47.00:517][895]LogTemp: Warning: DeltaTime: 0.032872
+[2025.08.06-15.47.00:528][895]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.47.00:551][896]LogTemp: Warning: DeltaTime: 0.033293
+[2025.08.06-15.47.00:551][896]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.47.00:651][897]LogTemp: Warning: DeltaTime: 0.100515
+[2025.08.06-15.47.00:652][897]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.47.00:689][898]LogTemp: Warning: DeltaTime: 0.036396
+[2025.08.06-15.47.00:689][898]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.47.00:719][899]LogTemp: Warning: DeltaTime: 0.028786
+[2025.08.06-15.47.00:719][899]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.47.00:750][900]LogTemp: Warning: DeltaTime: 0.029525
+[2025.08.06-15.47.00:751][900]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.47.00:772][901]LogTemp: Warning: DeltaTime: 0.023902
+[2025.08.06-15.47.00:772][901]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.47.00:808][902]LogTemp: Warning: DeltaTime: 0.037150
+[2025.08.06-15.47.00:808][902]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.47.00:838][903]LogTemp: Warning: DeltaTime: 0.030131
+[2025.08.06-15.47.00:838][903]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.47.00:885][904]LogTemp: Warning: DeltaTime: 0.048388
+[2025.08.06-15.47.00:885][904]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.47.00:925][905]LogTemp: Warning: DeltaTime: 0.039447
+[2025.08.06-15.47.00:925][905]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.47.00:966][906]LogTemp: Warning: DeltaTime: 0.040692
+[2025.08.06-15.47.00:966][906]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.47.01:018][907]LogTemp: Warning: DeltaTime: 0.051472
+[2025.08.06-15.47.01:019][907]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.47.01:064][908]LogTemp: Warning: DeltaTime: 0.045639
+[2025.08.06-15.47.01:064][908]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.47.01:222][909]LogTemp: Warning: DeltaTime: 0.157882
+[2025.08.06-15.47.01:222][909]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.47.01:257][910]LogTemp: Warning: DeltaTime: 0.036424
+[2025.08.06-15.47.01:257][910]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.47.01:307][911]LogTemp: Warning: DeltaTime: 0.050020
+[2025.08.06-15.47.01:307][911]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.47.01:345][912]LogTemp: Warning: DeltaTime: 0.037822
+[2025.08.06-15.47.01:345][912]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.47.01:398][913]LogTemp: Warning: DeltaTime: 0.053327
+[2025.08.06-15.47.01:398][913]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.47.01:439][914]LogTemp: Warning: DeltaTime: 0.040509
+[2025.08.06-15.47.01:439][914]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.47.01:502][915]LogTemp: Warning: DeltaTime: 0.062532
+[2025.08.06-15.47.01:502][915]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.47.01:545][916]LogTemp: Warning: DeltaTime: 0.043658
+[2025.08.06-15.47.01:546][916]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.47.01:589][917]LogTemp: Warning: DeltaTime: 0.043890
+[2025.08.06-15.47.01:589][917]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.47.01:637][918]LogTemp: Warning: DeltaTime: 0.047821
+[2025.08.06-15.47.01:637][918]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.47.01:674][919]LogTemp: Warning: DeltaTime: 0.036727
+[2025.08.06-15.47.01:675][919]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.47.01:722][920]LogTemp: Warning: DeltaTime: 0.048886
+[2025.08.06-15.47.01:722][920]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.47.01:871][921]LogTemp: Warning: DeltaTime: 0.149317
+[2025.08.06-15.47.01:871][921]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.47.01:911][922]LogTemp: Warning: DeltaTime: 0.039277
+[2025.08.06-15.47.01:911][922]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.47.01:955][923]LogTemp: Warning: DeltaTime: 0.044608
+[2025.08.06-15.47.01:955][923]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.47.01:996][924]LogTemp: Warning: DeltaTime: 0.041878
+[2025.08.06-15.47.01:997][924]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.47.02:046][925]LogTemp: Warning: DeltaTime: 0.048385
+[2025.08.06-15.47.02:046][925]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.47.02:085][926]LogTemp: Warning: DeltaTime: 0.038479
+[2025.08.06-15.47.02:085][926]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.47.02:132][927]LogTemp: Warning: DeltaTime: 0.045000
+[2025.08.06-15.47.02:132][927]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.47.02:182][928]LogTemp: Warning: DeltaTime: 0.050910
+[2025.08.06-15.47.02:183][928]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.47.02:238][929]LogTemp: Warning: DeltaTime: 0.057166
+[2025.08.06-15.47.02:238][929]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.47.02:265][930]LogTemp: Warning: DeltaTime: 0.027673
+[2025.08.06-15.47.02:265][930]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.47.02:310][931]LogTemp: Warning: DeltaTime: 0.045141
+[2025.08.06-15.47.02:311][931]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.47.02:358][932]LogTemp: Warning: DeltaTime: 0.045476
+[2025.08.06-15.47.02:358][932]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.47.02:500][933]LogTemp: Warning: DeltaTime: 0.143671
+[2025.08.06-15.47.02:501][933]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.47.02:542][934]LogTemp: Warning: DeltaTime: 0.042036
+[2025.08.06-15.47.02:542][934]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.47.02:589][935]LogTemp: Warning: DeltaTime: 0.048122
+[2025.08.06-15.47.02:589][935]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.47.02:622][936]LogTemp: Warning: DeltaTime: 0.033108
+[2025.08.06-15.47.02:622][936]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.47.02:662][937]LogTemp: Warning: DeltaTime: 0.040167
+[2025.08.06-15.47.02:663][937]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.47.02:701][938]LogTemp: Warning: DeltaTime: 0.038942
+[2025.08.06-15.47.02:701][938]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.47.02:739][939]LogTemp: Warning: DeltaTime: 0.038163
+[2025.08.06-15.47.02:739][939]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.47.02:783][940]LogTemp: Warning: DeltaTime: 0.043872
+[2025.08.06-15.47.02:783][940]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.47.02:816][941]LogTemp: Warning: DeltaTime: 0.033141
+[2025.08.06-15.47.02:816][941]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.47.02:858][942]LogTemp: Warning: DeltaTime: 0.040627
+[2025.08.06-15.47.02:858][942]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.47.02:897][943]LogTemp: Warning: DeltaTime: 0.040218
+[2025.08.06-15.47.02:897][943]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.47.02:943][944]LogTemp: Warning: DeltaTime: 0.045924
+[2025.08.06-15.47.02:943][944]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.47.03:077][945]LogTemp: Warning: DeltaTime: 0.132860
+[2025.08.06-15.47.03:077][945]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.47.03:115][946]LogTemp: Warning: DeltaTime: 0.038133
+[2025.08.06-15.47.03:115][946]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.47.03:154][947]LogTemp: Warning: DeltaTime: 0.039650
+[2025.08.06-15.47.03:154][947]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.47.03:194][948]LogTemp: Warning: DeltaTime: 0.039146
+[2025.08.06-15.47.03:194][948]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.47.03:234][949]LogTemp: Warning: DeltaTime: 0.040042
+[2025.08.06-15.47.03:234][949]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.47.03:274][950]LogTemp: Warning: DeltaTime: 0.040030
+[2025.08.06-15.47.03:274][950]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.47.03:313][951]LogTemp: Warning: DeltaTime: 0.039049
+[2025.08.06-15.47.03:313][951]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.47.03:353][952]LogTemp: Warning: DeltaTime: 0.039275
+[2025.08.06-15.47.03:353][952]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.47.03:390][953]LogTemp: Warning: DeltaTime: 0.037459
+[2025.08.06-15.47.03:390][953]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.47.03:438][954]LogTemp: Warning: DeltaTime: 0.043558
+[2025.08.06-15.47.03:438][954]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.47.03:468][955]LogTemp: Warning: DeltaTime: 0.034896
+[2025.08.06-15.47.03:468][955]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.47.03:507][956]LogTemp: Warning: DeltaTime: 0.039127
+[2025.08.06-15.47.03:507][956]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.47.03:645][957]LogTemp: Warning: DeltaTime: 0.137155
+[2025.08.06-15.47.03:645][957]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.47.03:683][958]LogTemp: Warning: DeltaTime: 0.037261
+[2025.08.06-15.47.03:683][958]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.47.03:722][959]LogTemp: Warning: DeltaTime: 0.040466
+[2025.08.06-15.47.03:723][959]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.47.03:762][960]LogTemp: Warning: DeltaTime: 0.039429
+[2025.08.06-15.47.03:762][960]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.47.03:801][961]LogTemp: Warning: DeltaTime: 0.039517
+[2025.08.06-15.47.03:801][961]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.47.03:839][962]LogTemp: Warning: DeltaTime: 0.038886
+[2025.08.06-15.47.03:839][962]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.47.03:886][963]LogTemp: Warning: DeltaTime: 0.046674
+[2025.08.06-15.47.03:886][963]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.47.03:927][964]LogTemp: Warning: DeltaTime: 0.041061
+[2025.08.06-15.47.03:927][964]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.47.03:969][965]LogTemp: Warning: DeltaTime: 0.041526
+[2025.08.06-15.47.03:969][965]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.47.04:002][966]LogTemp: Warning: DeltaTime: 0.033516
+[2025.08.06-15.47.04:002][966]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.47.04:051][967]LogTemp: Warning: DeltaTime: 0.048760
+[2025.08.06-15.47.04:051][967]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.47.04:092][968]LogTemp: Warning: DeltaTime: 0.041270
+[2025.08.06-15.47.04:092][968]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.47.04:243][969]LogTemp: Warning: DeltaTime: 0.146404
+[2025.08.06-15.47.04:243][969]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.47.04:281][970]LogTemp: Warning: DeltaTime: 0.039767
+[2025.08.06-15.47.04:281][970]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.47.04:323][971]LogTemp: Warning: DeltaTime: 0.041798
+[2025.08.06-15.47.04:323][971]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.47.04:361][972]LogTemp: Warning: DeltaTime: 0.037321
+[2025.08.06-15.47.04:361][972]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.47.04:401][973]LogTemp: Warning: DeltaTime: 0.039808
+[2025.08.06-15.47.04:401][973]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.47.04:457][974]LogTemp: Warning: DeltaTime: 0.056152
+[2025.08.06-15.47.04:457][974]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.47.04:513][975]LogTemp: Warning: DeltaTime: 0.058254
+[2025.08.06-15.47.04:513][975]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.47.04:606][976]LogTemp: Warning: DeltaTime: 0.086694
+[2025.08.06-15.47.04:606][976]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.47.04:656][977]LogTemp: Warning: DeltaTime: 0.046916
+[2025.08.06-15.47.04:656][977]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.47.04:723][978]LogTemp: Warning: DeltaTime: 0.063339
+[2025.08.06-15.47.04:723][978]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.47.04:752][979]LogTemp: Warning: DeltaTime: 0.041128
+[2025.08.06-15.47.04:752][979]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.47.04:814][980]LogTemp: Warning: DeltaTime: 0.060527
+[2025.08.06-15.47.04:814][980]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.47.04:839][981]LogTemp: Warning: DeltaTime: 0.027306
+[2025.08.06-15.47.04:839][981]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.47.04:856][982]LogTemp: Warning: DeltaTime: 0.016678
+[2025.08.06-15.47.04:856][982]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.47.04:886][983]LogTemp: Warning: DeltaTime: 0.030048
+[2025.08.06-15.47.04:886][983]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.47.04:922][984]LogTemp: Warning: DeltaTime: 0.033618
+[2025.08.06-15.47.04:922][984]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.47.04:959][985]LogTemp: Warning: DeltaTime: 0.034678
+[2025.08.06-15.47.04:959][985]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.47.04:986][986]LogTemp: Warning: DeltaTime: 0.031865
+[2025.08.06-15.47.04:986][986]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.47.05:020][987]LogTemp: Warning: DeltaTime: 0.033420
+[2025.08.06-15.47.05:020][987]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.47.05:057][988]LogTemp: Warning: DeltaTime: 0.034670
+[2025.08.06-15.47.05:057][988]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.47.05:084][989]LogTemp: Warning: DeltaTime: 0.031712
+[2025.08.06-15.47.05:085][989]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.47.05:120][990]LogTemp: Warning: DeltaTime: 0.034402
+[2025.08.06-15.47.05:120][990]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.47.05:153][991]LogTemp: Warning: DeltaTime: 0.033110
+[2025.08.06-15.47.05:153][991]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-15.47.05:188][991]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.06-15.47.05:188][991]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Minimal_Default_2
+[2025.08.06-15.47.05:188][991]LogWorld: UWorld::CleanupWorld for Minimal_Default_2, bSessionEnded=true, bCleanupResources=true
+[2025.08.06-15.47.05:188][991]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.06-15.47.05:223][991]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.06-15.47.05:234][991]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.06-15.47.05:262][991]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.06-15.47.05:262][991]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2025.08.06-15.47.05:262][991]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2025.08.06-15.47.05:265][991]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2025.08.06-15.47.05:274][991]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2025.08.06-15.47.05:325][992]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2025.08.06-15.47.21:040][204]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2025.08.06-15.47.22:321][204]LogSlate: Window 'Save Content' being destroyed
+[2025.08.06-15.47.22:355][204]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.06-15.47.22:522][204]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.08.06-15.47.22:569][204]LogSavePackage: Moving output files for package: /Game/Maps/Minimal_Default_2
+[2025.08.06-15.47.22:570][204]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Saved/Minimal_Default_223A747FA40B0C38DA0191FA11CBD5D69.tmp' to '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Content/Maps/Minimal_Default_2.umap'
+[2025.08.06-15.47.22:622][204]LogFileHelpers: Saving map 'Minimal_Default_2' took 0.188
+[2025.08.06-15.47.22:622][204]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Items/BP_Item] ([2] browsable assets)...
+[2025.08.06-15.47.22:622][204]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Items/BP_Item]
+[2025.08.06-15.47.22:631][204]LogSavePackage: Moving output files for package: /Game/Blueprints/Items/BP_Item
+[2025.08.06-15.47.22:633][204]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Saved/BP_Item74BF2A3241C6F8BF446E2CAC07CED5F9.tmp' to '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Items/BP_Item.uasset'
+[2025.08.06-15.47.22:668][204]LogFileHelpers: InternalPromptForCheckoutAndSave took 312.676 ms (total: 648.509 ms)
+[2025.08.06-15.47.22:737][204]LogContentValidation: Display: Starting to validate 2 assets
+[2025.08.06-15.47.22:737][204]LogContentValidation: Enabled validators:
+[2025.08.06-15.47.22:737][204]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.06-15.47.22:737][204]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.06-15.47.22:737][204]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.06-15.47.22:737][204]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.06-15.47.22:737][204]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.06-15.47.22:737][204]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.06-15.47.22:738][204]AssetCheck: /Game/Maps/Minimal_Default_2 Validating asset
+[2025.08.06-15.47.22:738][204]AssetCheck: /Game/Blueprints/Items/BP_Item Validating asset
+[2025.08.06-15.47.22:812][204]LogAutomationController: Ignoring very large delta of 2.15 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.08.06-15.47.31:169][309]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2025.08.06-15.47.32:280][335]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2025.08.06-15.47.33:419][335]LogSlate: Window 'Save Content' being destroyed
+[2025.08.06-15.47.33:450][335]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.06-15.47.33:541][335]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Items/BP_Item] ([2] browsable assets)...
+[2025.08.06-15.47.33:541][335]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Items/BP_Item]
+[2025.08.06-15.47.33:548][335]LogSavePackage: Moving output files for package: /Game/Blueprints/Items/BP_Item
+[2025.08.06-15.47.33:549][335]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Saved/BP_Item993FA69A4414AEBACE494395B720559B.tmp' to '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Items/BP_Item.uasset'
+[2025.08.06-15.47.33:602][335]LogFileHelpers: InternalPromptForCheckoutAndSave took 152.327 ms (total: 800.836 ms)
+[2025.08.06-15.47.33:664][335]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.06-15.47.33:664][335]LogContentValidation: Enabled validators:
+[2025.08.06-15.47.33:664][335]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.06-15.47.33:664][335]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.06-15.47.33:664][335]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.06-15.47.33:664][335]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.06-15.47.33:664][335]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.06-15.47.33:664][335]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.06-15.47.33:664][335]AssetCheck: /Game/Blueprints/Items/BP_Item Validating asset
+[2025.08.06-15.52.16:779][261]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11929.426758
+[2025.08.06-15.52.17:780][264]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.06-15.52.17:780][264]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11930.092773, Update Interval: 313.738831
+[2025.08.06-15.54.22:083][697]LogLiveCoding: Display: Starting Live Coding compile.
+[2025.08.06-15.54.36:709][773]LogLiveCoding: Display:    Creating library C:\Users\Usuario\Desktop\Unreal Engine + Unity\UE5_Slash_Project\Slash_Project\Binaries\Win64\UnrealEditor-Slash_Project.patch_3.lib and object C:\Users\Usuario\Desktop\Unreal Engine + Unity\UE5_Slash_Project\Slash_Project\Binaries\Win64\UnrealEditor-Slash_Project.patch_3.exp
+[2025.08.06-15.54.37:281][773]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2025.08.06-15.54.38:338][774]Display: Reload/Re-instancing Complete: No object changes detected
+[2025.08.06-15.54.38:338][774]LogLiveCoding: Display: Live coding succeeded
+[2025.08.06-15.55.46:233][979]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2025.08.06-15.55.46:233][979]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_2'.
+[2025.08.06-15.55.47:826][  0]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.08.06-15.55.47:842][  0]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.06-15.55.47:843][  0]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Minimal_Default_2
+[2025.08.06-15.55.47:848][  0]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004962s)
+[2025.08.06-15.55.47:848][  0]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Minimal_Default_2.Minimal_Default_2 to /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 (0.005076s)
+[2025.08.06-15.55.48:028][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2025.08.06-15.55.48:036][  0]LogChaosDD: Creating Chaos Debug Draw Scene for world Minimal_Default_2
+[2025.08.06-15.55.48:039][  0]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2'.
+[2025.08.06-15.55.48:040][  0]LogPlayLevel: PIE: World Init took: (0.004494s)
+[2025.08.06-15.55.48:042][  0]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2025.08.06-15.55.48:042][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.06-15.55.48:042][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.06-15.55.48:042][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.06-15.55.48:042][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.06-15.55.48:042][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.06-15.55.48:042][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.06-15.55.48:042][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.06-15.55.48:042][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.06-15.55.48:042][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.06-15.55.48:042][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.06-15.55.48:042][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.06-15.55.48:045][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.06-15.55.48:067][  0]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.08.06-15.55.48:067][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.06-15.55.48:067][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.06-15.55.48:067][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.06-15.55.48:070][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2025.08.06-15.55.48:070][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2025.08.06-15.55.48:073][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2025.08.06-15.55.48:073][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2025.08.06-15.55.48:073][  0]LogInit: FAudioDevice initialized with ID 9.
+[2025.08.06-15.55.48:073][  0]LogAudio: Display: Audio Device (ID: 9) registered with world 'Minimal_Default_2'.
+[2025.08.06-15.55.48:073][  0]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2025.08.06-15.55.48:079][  0]LogLoad: Game class is 'GameModeBase'
+[2025.08.06-15.55.48:081][  0]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 up for play (max tick rate 60) at 2025.08.06-17.55.48
+[2025.08.06-15.55.48:081][  0]LogWorld: Bringing up level for play took: 0.002371
+[2025.08.06-15.55.48:085][  0]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2025.08.06-15.55.48:088][  0]PIE: Server logged in
+[2025.08.06-15.55.48:090][  0]PIE: Play in editor total start time 0.25 seconds.
+[2025.08.06-15.56.01:072][345]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.06-15.56.01:072][345]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Minimal_Default_2
+[2025.08.06-15.56.01:072][345]LogWorld: UWorld::CleanupWorld for Minimal_Default_2, bSessionEnded=true, bCleanupResources=true
+[2025.08.06-15.56.01:073][345]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.06-15.56.01:120][345]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.06-15.56.01:127][345]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.06-15.56.01:159][345]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.08.06-15.56.01:176][345]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2025.08.06-15.56.01:176][345]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2025.08.06-15.56.01:178][345]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2025.08.06-15.56.01:187][345]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.06-15.56.01:222][345]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2025.08.06-15.56.01:345][346]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2025.08.06-15.58.12:259][742]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12284.871094
+[2025.08.06-15.58.13:260][745]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.06-15.58.13:260][745]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12285.537109, Update Interval: 314.114197
+[2025.08.06-16.01.26:184][363]LogLiveCoding: Display: Starting Live Coding compile.
+[2025.08.06-16.01.29:139][449]Cmd: EDIT COPY
+[2025.08.06-16.01.30:311][481]Cmd: EDIT PASTE
+[2025.08.06-16.01.38:596][673]LogLiveCoding: Display:    Creating library C:\Users\Usuario\Desktop\Unreal Engine + Unity\UE5_Slash_Project\Slash_Project\Binaries\Win64\UnrealEditor-Slash_Project.patch_4.lib and object C:\Users\Usuario\Desktop\Unreal Engine + Unity\UE5_Slash_Project\Slash_Project\Binaries\Win64\UnrealEditor-Slash_Project.patch_4.exp
+[2025.08.06-16.01.39:405][674]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2025.08.06-16.01.40:298][675]Display: Reload/Re-instancing Complete: No object changes detected
+[2025.08.06-16.01.40:299][675]LogLiveCoding: Display: Live coding succeeded
+[2025.08.06-16.01.48:581][754]LogSlate: Window 'BP_Item' being destroyed
+[2025.08.06-16.01.48:621][754]LogSlate: Window 'BP_Item' being destroyed
+[2025.08.06-16.01.48:716][754]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.08.06-16.01.48:717][754]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.06-16.01.49:114][754]LogUObjectHash: Compacting FUObjectHashTables data took  13.19ms
+[2025.08.06-16.03.58:090][360]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12630.666992
+[2025.08.06-16.03.59:766][365]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.06-16.03.59:766][366]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12632.007812, Update Interval: 306.972870
+[2025.08.06-16.04.35:371][501]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.08.06-16.04.35:385][501]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.06-16.04.35:434][501]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Minimal_Default_2
+[2025.08.06-16.04.35:441][501]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006606s)
+[2025.08.06-16.04.35:441][501]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Minimal_Default_2.Minimal_Default_2 to /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 (0.006796s)
+[2025.08.06-16.04.35:504][501]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2025.08.06-16.04.35:510][501]LogChaosDD: Creating Chaos Debug Draw Scene for world Minimal_Default_2
+[2025.08.06-16.04.35:511][501]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2'.
+[2025.08.06-16.04.35:514][501]LogPlayLevel: PIE: World Init took: (0.004527s)
+[2025.08.06-16.04.35:516][501]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2025.08.06-16.04.35:516][501]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.06-16.04.35:516][501]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.06-16.04.35:516][501]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.06-16.04.35:516][501]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.06-16.04.35:516][501]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.06-16.04.35:516][501]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.06-16.04.35:516][501]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.06-16.04.35:516][501]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.06-16.04.35:516][501]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.06-16.04.35:516][501]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.06-16.04.35:516][501]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.06-16.04.35:519][501]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.06-16.04.35:541][501]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.08.06-16.04.35:542][501]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.06-16.04.35:542][501]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.06-16.04.35:542][501]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.06-16.04.35:543][501]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2025.08.06-16.04.35:544][501]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2025.08.06-16.04.35:547][501]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2025.08.06-16.04.35:547][501]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2025.08.06-16.04.35:547][501]LogInit: FAudioDevice initialized with ID 10.
+[2025.08.06-16.04.35:547][501]LogAudio: Display: Audio Device (ID: 10) registered with world 'Minimal_Default_2'.
+[2025.08.06-16.04.35:547][501]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2025.08.06-16.04.35:554][501]LogLoad: Game class is 'GameModeBase'
+[2025.08.06-16.04.35:556][501]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 up for play (max tick rate 0) at 2025.08.06-18.04.35
+[2025.08.06-16.04.35:556][501]LogWorld: Bringing up level for play took: 0.001917
+[2025.08.06-16.04.35:566][501]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2025.08.06-16.04.35:569][501]PIE: Server logged in
+[2025.08.06-16.04.35:570][501]PIE: Play in editor total start time 0.187 seconds.
+[2025.08.06-16.04.43:806][709]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.06-16.04.43:806][709]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Minimal_Default_2
+[2025.08.06-16.04.43:806][709]LogWorld: UWorld::CleanupWorld for Minimal_Default_2, bSessionEnded=true, bCleanupResources=true
+[2025.08.06-16.04.43:806][709]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.06-16.04.43:851][709]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.06-16.04.43:859][709]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.06-16.04.43:884][709]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.08.06-16.04.43:884][709]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2025.08.06-16.04.43:885][709]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2025.08.06-16.04.43:887][709]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2025.08.06-16.04.43:892][709]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.06-16.04.43:895][709]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2025.08.06-16.04.43:976][710]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2025.08.06-16.04.51:023][906]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.08.06-16.04.51:035][906]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.06-16.04.51:035][906]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Minimal_Default_2
+[2025.08.06-16.04.51:040][906]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004375s)
+[2025.08.06-16.04.51:040][906]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Minimal_Default_2.Minimal_Default_2 to /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 (0.004419s)
+[2025.08.06-16.04.51:065][906]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2025.08.06-16.04.51:067][906]LogChaosDD: Creating Chaos Debug Draw Scene for world Minimal_Default_2
+[2025.08.06-16.04.51:068][906]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2'.
+[2025.08.06-16.04.51:069][906]LogPlayLevel: PIE: World Init took: (0.002117s)
+[2025.08.06-16.04.51:071][906]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2025.08.06-16.04.51:071][906]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.06-16.04.51:071][906]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.06-16.04.51:071][906]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.06-16.04.51:071][906]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.06-16.04.51:071][906]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.06-16.04.51:071][906]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.06-16.04.51:071][906]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.06-16.04.51:071][906]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.06-16.04.51:071][906]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.06-16.04.51:071][906]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.06-16.04.51:071][906]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.06-16.04.51:074][906]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.06-16.04.51:100][906]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.08.06-16.04.51:103][906]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.06-16.04.51:103][906]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.06-16.04.51:103][906]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.06-16.04.51:105][906]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2025.08.06-16.04.51:105][906]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2025.08.06-16.04.51:115][906]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2025.08.06-16.04.51:115][906]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2025.08.06-16.04.51:115][906]LogInit: FAudioDevice initialized with ID 11.
+[2025.08.06-16.04.51:115][906]LogAudio: Display: Audio Device (ID: 11) registered with world 'Minimal_Default_2'.
+[2025.08.06-16.04.51:115][906]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2025.08.06-16.04.51:127][906]LogLoad: Game class is 'GameModeBase'
+[2025.08.06-16.04.51:128][906]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 up for play (max tick rate 0) at 2025.08.06-18.04.51
+[2025.08.06-16.04.51:129][906]LogWorld: Bringing up level for play took: 0.001737
+[2025.08.06-16.04.51:134][906]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2025.08.06-16.04.51:136][906]PIE: Server logged in
+[2025.08.06-16.04.51:138][906]PIE: Play in editor total start time 0.104 seconds.
+[2025.08.06-16.04.57:426][ 47]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.06-16.04.57:426][ 47]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Minimal_Default_2
+[2025.08.06-16.04.57:426][ 47]LogWorld: UWorld::CleanupWorld for Minimal_Default_2, bSessionEnded=true, bCleanupResources=true
+[2025.08.06-16.04.57:426][ 47]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.06-16.04.57:471][ 47]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.06-16.04.57:477][ 47]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.06-16.04.57:502][ 47]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.06-16.04.57:502][ 47]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2025.08.06-16.04.57:502][ 47]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2025.08.06-16.04.57:507][ 47]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2025.08.06-16.04.57:518][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2025.08.06-16.04.57:591][ 48]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2025.08.06-16.05.26:691][270]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.08.06-16.05.26:715][270]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Minimal_Default_2_Auto1
+[2025.08.06-16.05.26:715][270]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Saved/Minimal_Default_2_Auto1A98FE9594C002775B66EDBB9BE10D4EC.tmp' to '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Saved/Autosaves/Game/Maps/Minimal_Default_2_Auto1.umap'
+[2025.08.06-16.05.26:733][270]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Minimal_Default_2' took 0.069
+[2025.08.06-16.05.26:733][270]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.069
