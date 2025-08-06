@@ -3,6 +3,10 @@
 
 #include "Items/Item.h"
 #include "DrawDebugHelpers.h"
+#include "Slash_Project/Slash_Project.h"
+
+# define THIRTY 30
+
 
 // Sets default values
 AItem::AItem()
@@ -23,11 +27,8 @@ void AItem::BeginPlay()
 	}
 
 	UWorld* World = GetWorld();
-	
-	if (World)
-	{
-		DrawDebugSphere()
-	}
+	FVector Location = GetActorLocation();
+	DRAW_SPHERE(Location);
 	
 }
 

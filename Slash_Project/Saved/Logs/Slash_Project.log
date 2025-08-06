@@ -1824,3 +1824,370 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.08.06-12.45.06:388][ 67]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 699.161255
 [2025.08.06-12.45.07:390][ 70]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.08.06-12.45.07:390][ 70]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 699.834656, Update Interval: 332.802521
+[2025.08.06-12.49.46:872][141]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.08.06-12.49.50:234][209]LogLiveCoding: Display: Starting Live Coding compile.
+[2025.08.06-12.50.12:270][475]LogLiveCoding: Display:    Creating library C:\Users\Usuario\Desktop\Unreal Engine + Unity\UE5_Slash_Project\Slash_Project\Binaries\Win64\UnrealEditor-Slash_Project.patch_0.lib and object C:\Users\Usuario\Desktop\Unreal Engine + Unity\UE5_Slash_Project\Slash_Project\Binaries\Win64\UnrealEditor-Slash_Project.patch_0.exp
+[2025.08.06-12.50.13:191][475]LogUObjectHash: Compacting FUObjectHashTables data took   4.48ms
+[2025.08.06-12.50.15:075][476]LogAutomationController: Ignoring very large delta of 2.61 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.08.06-12.50.15:077][476]Display: Reload/Re-instancing Complete: No object changes detected
+[2025.08.06-12.50.15:077][476]LogLiveCoding: Display: Live coding succeeded
+[2025.08.06-12.50.28:339][601]LogSlate: Window 'BP_Item' being destroyed
+[2025.08.06-12.50.28:398][601]LogSlate: Window 'BP_Item' being destroyed
+[2025.08.06-12.50.29:298][601]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.08.06-12.50.29:344][601]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.06-12.50.29:617][601]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.08.06-12.50.29:889][601]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2025.08.06-12.50.29:945][601]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.06-12.50.29:949][601]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Minimal_Default_2
+[2025.08.06-12.50.29:957][601]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007981s)
+[2025.08.06-12.50.29:957][601]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Minimal_Default_2.Minimal_Default_2 to /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 (0.008129s)
+[2025.08.06-12.50.30:107][601]LogUObjectHash: Compacting FUObjectHashTables data took   7.98ms
+[2025.08.06-12.50.30:127][601]LogChaosDD: Creating Chaos Debug Draw Scene for world Minimal_Default_2
+[2025.08.06-12.50.30:171][601]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2'.
+[2025.08.06-12.50.30:180][601]LogPlayLevel: PIE: World Init took: (0.053611s)
+[2025.08.06-12.50.30:202][601]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2025.08.06-12.50.30:202][601]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.06-12.50.30:202][601]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.06-12.50.30:202][601]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.06-12.50.30:202][601]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.06-12.50.30:202][601]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.06-12.50.30:202][601]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.06-12.50.30:202][601]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.06-12.50.30:202][601]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.06-12.50.30:203][601]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.06-12.50.30:203][601]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.06-12.50.30:203][601]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.06-12.50.30:216][601]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.06-12.50.30:262][601]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.08.06-12.50.30:297][601]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.06-12.50.30:297][601]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.06-12.50.30:297][601]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.06-12.50.30:306][601]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2025.08.06-12.50.30:306][601]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2025.08.06-12.50.30:311][601]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2025.08.06-12.50.30:311][601]LogInit: FAudioDevice initialized with ID 5.
+[2025.08.06-12.50.30:311][601]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2025.08.06-12.50.30:311][601]LogAudio: Display: Audio Device (ID: 5) registered with world 'Minimal_Default_2'.
+[2025.08.06-12.50.30:313][601]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2025.08.06-12.50.30:333][601]LogLoad: Game class is 'GameModeBase'
+[2025.08.06-12.50.30:335][601]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 up for play (max tick rate 0) at 2025.08.06-14.50.30
+[2025.08.06-12.50.30:336][601]LogWorld: Bringing up level for play took: 0.002642
+[2025.08.06-12.50.30:354][601]LogOnline: OSS: Created online subsystem instance for: :Context_5
+[2025.08.06-12.50.30:369][601]LogTemp: Warning: Begin Play called in C+++++++ hella!
+[2025.08.06-12.50.30:373][601]PIE: Server logged in
+[2025.08.06-12.50.30:374][601]PIE: Play in editor total start time 0.483 seconds.
+[2025.08.06-12.50.30:392][601]LogTemp: Warning: DeltaTime: 0.056109
+[2025.08.06-12.50.30:393][601]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-12.50.30:435][601]LogAutomationController: Ignoring very large delta of 2.35 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.08.06-12.50.30:460][602]LogTemp: Warning: DeltaTime: 0.400000
+[2025.08.06-12.50.30:460][602]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-12.50.30:803][603]LogTemp: Warning: DeltaTime: 0.365298
+[2025.08.06-12.50.30:803][603]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-12.50.31:291][604]LogTemp: Warning: DeltaTime: 0.400000
+[2025.08.06-12.50.31:291][604]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-12.50.31:441][605]LogTemp: Warning: DeltaTime: 0.150261
+[2025.08.06-12.50.31:441][605]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-12.50.31:510][606]LogTemp: Warning: DeltaTime: 0.068573
+[2025.08.06-12.50.31:511][606]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-12.50.31:722][607]LogTemp: Warning: DeltaTime: 0.212044
+[2025.08.06-12.50.31:723][607]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-12.50.31:815][608]LogTemp: Warning: DeltaTime: 0.092438
+[2025.08.06-12.50.31:815][608]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-12.50.31:898][609]LogTemp: Warning: DeltaTime: 0.081712
+[2025.08.06-12.50.31:898][609]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-12.50.31:979][610]LogTemp: Warning: DeltaTime: 0.081613
+[2025.08.06-12.50.31:979][610]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-12.50.32:067][611]LogTemp: Warning: DeltaTime: 0.088758
+[2025.08.06-12.50.32:067][611]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-12.50.32:133][612]LogTemp: Warning: DeltaTime: 0.066314
+[2025.08.06-12.50.32:134][612]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-12.50.32:206][613]LogTemp: Warning: DeltaTime: 0.072210
+[2025.08.06-12.50.32:206][613]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-12.50.32:288][614]LogTemp: Warning: DeltaTime: 0.082204
+[2025.08.06-12.50.32:288][614]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-12.50.32:356][615]LogTemp: Warning: DeltaTime: 0.067109
+[2025.08.06-12.50.32:356][615]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-12.50.32:431][616]LogTemp: Warning: DeltaTime: 0.075164
+[2025.08.06-12.50.32:431][616]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-12.50.32:515][617]LogTemp: Warning: DeltaTime: 0.085259
+[2025.08.06-12.50.32:515][617]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-12.50.32:597][618]LogTemp: Warning: DeltaTime: 0.079821
+[2025.08.06-12.50.32:597][618]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-12.50.32:813][619]LogTemp: Warning: DeltaTime: 0.214722
+[2025.08.06-12.50.32:814][619]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-12.50.32:838][620]LogTemp: Warning: DeltaTime: 0.027159
+[2025.08.06-12.50.32:838][620]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-12.50.32:956][621]LogTemp: Warning: DeltaTime: 0.119448
+[2025.08.06-12.50.32:956][621]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-12.50.33:004][622]LogTemp: Warning: DeltaTime: 0.047624
+[2025.08.06-12.50.33:004][622]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-12.50.33:026][623]LogTemp: Warning: DeltaTime: 0.020809
+[2025.08.06-12.50.33:027][623]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-12.50.33:059][624]LogTemp: Warning: DeltaTime: 0.033321
+[2025.08.06-12.50.33:059][624]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-12.50.33:093][625]LogTemp: Warning: DeltaTime: 0.033471
+[2025.08.06-12.50.33:093][625]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-12.50.33:125][626]LogTemp: Warning: DeltaTime: 0.033193
+[2025.08.06-12.50.33:125][626]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-12.50.33:160][627]LogTemp: Warning: DeltaTime: 0.035845
+[2025.08.06-12.50.33:161][627]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-12.50.33:191][628]LogTemp: Warning: DeltaTime: 0.030895
+[2025.08.06-12.50.33:191][628]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-12.50.33:213][629]LogTemp: Warning: DeltaTime: 0.022232
+[2025.08.06-12.50.33:213][629]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-12.50.33:226][630]LogTemp: Warning: DeltaTime: 0.011351
+[2025.08.06-12.50.33:226][630]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-12.50.33:257][631]LogTemp: Warning: DeltaTime: 0.032937
+[2025.08.06-12.50.33:258][631]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-12.50.33:292][632]LogTemp: Warning: DeltaTime: 0.033652
+[2025.08.06-12.50.33:292][632]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-12.50.33:325][633]LogTemp: Warning: DeltaTime: 0.033324
+[2025.08.06-12.50.33:325][633]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-12.50.33:443][637]LogTemp: Warning: DeltaTime: 0.016501
+[2025.08.06-12.50.33:443][637]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-12.50.33:499][637]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.06-12.50.33:499][637]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Minimal_Default_2
+[2025.08.06-12.50.33:500][637]LogWorld: UWorld::CleanupWorld for Minimal_Default_2, bSessionEnded=true, bCleanupResources=true
+[2025.08.06-12.50.33:500][637]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.06-12.50.33:516][637]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.06-12.50.33:521][637]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.06-12.50.33:545][637]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.06-12.50.33:550][637]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2025.08.06-12.50.33:572][637]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.08.06-12.50.33:577][637]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.08.06-12.50.33:629][637]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2025.08.06-12.50.33:679][638]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2025.08.06-12.50.45:123][806]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1037.895630
+[2025.08.06-12.50.46:123][809]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.06-12.50.46:124][809]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1038.562744, Update Interval: 325.716125
+[2025.08.06-12.56.22:544][818]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1375.316284
+[2025.08.06-12.56.23:542][821]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.06-12.56.23:542][821]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1375.983032, Update Interval: 305.355988
+[2025.08.06-13.01.45:866][787]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1698.637085
+[2025.08.06-13.01.46:865][790]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.06-13.01.46:865][791]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1699.304443, Update Interval: 319.272430
+[2025.08.06-13.07.36:629][839]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2049.398682
+[2025.08.06-13.07.38:295][844]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.06-13.07.38:295][845]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2050.732666, Update Interval: 301.935486
+[2025.08.06-13.13.10:634][839]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2383.404297
+[2025.08.06-13.13.11:631][842]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.06-13.13.11:631][842]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2384.069092, Update Interval: 330.193176
+[2025.08.06-13.19.27:048][968]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2759.819092
+[2025.08.06-13.19.28:378][972]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.06-13.19.28:378][972]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2760.814697, Update Interval: 329.737244
+[2025.08.06-13.22.30:596][699]LogLiveCoding: Display: Starting Live Coding compile.
+[2025.08.06-13.22.46:379][889]Display: Reload/Re-instancing Complete: No object changes detected
+[2025.08.06-13.22.46:379][889]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2025.08.06-13.23.42:026][144]LogLiveCoding: Display: Starting Live Coding compile.
+[2025.08.06-13.23.48:792][560]LogLiveCoding: Display:    Creating library C:\Users\Usuario\Desktop\Unreal Engine + Unity\UE5_Slash_Project\Slash_Project\Binaries\Win64\UnrealEditor-Slash_Project.patch_1.lib and object C:\Users\Usuario\Desktop\Unreal Engine + Unity\UE5_Slash_Project\Slash_Project\Binaries\Win64\UnrealEditor-Slash_Project.patch_1.exp
+[2025.08.06-13.23.49:308][570]LogUObjectHash: Compacting FUObjectHashTables data took   7.77ms
+[2025.08.06-13.23.50:014][571]Display: Reload/Re-instancing Complete: No object changes detected
+[2025.08.06-13.23.50:014][571]LogLiveCoding: Display: Live coding succeeded
+[2025.08.06-13.23.56:316][801]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.08.06-13.23.56:338][801]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.06-13.23.56:340][801]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Minimal_Default_2
+[2025.08.06-13.23.56:349][801]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008987s)
+[2025.08.06-13.23.56:349][801]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Minimal_Default_2.Minimal_Default_2 to /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 (0.009067s)
+[2025.08.06-13.23.56:436][801]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2025.08.06-13.23.56:442][801]LogChaosDD: Creating Chaos Debug Draw Scene for world Minimal_Default_2
+[2025.08.06-13.23.56:459][801]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2'.
+[2025.08.06-13.23.56:473][801]LogPlayLevel: PIE: World Init took: (0.030145s)
+[2025.08.06-13.23.56:477][801]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2025.08.06-13.23.56:477][801]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.06-13.23.56:477][801]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.06-13.23.56:477][801]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.06-13.23.56:477][801]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.06-13.23.56:477][801]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.06-13.23.56:477][801]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.06-13.23.56:477][801]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.06-13.23.56:477][801]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.06-13.23.56:481][801]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.06-13.23.56:481][801]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.06-13.23.56:481][801]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.06-13.23.56:494][801]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.06-13.23.56:518][801]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.08.06-13.23.56:518][801]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.06-13.23.56:518][801]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.06-13.23.56:518][801]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.06-13.23.56:519][801]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2025.08.06-13.23.56:519][801]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2025.08.06-13.23.56:521][801]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2025.08.06-13.23.56:521][801]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2025.08.06-13.23.56:522][801]LogInit: FAudioDevice initialized with ID 6.
+[2025.08.06-13.23.56:522][801]LogAudio: Display: Audio Device (ID: 6) registered with world 'Minimal_Default_2'.
+[2025.08.06-13.23.56:522][801]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2025.08.06-13.23.56:528][801]LogLoad: Game class is 'GameModeBase'
+[2025.08.06-13.23.56:530][801]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 up for play (max tick rate 0) at 2025.08.06-15.23.56
+[2025.08.06-13.23.56:530][801]LogWorld: Bringing up level for play took: 0.001993
+[2025.08.06-13.23.56:535][801]LogOnline: OSS: Created online subsystem instance for: :Context_6
+[2025.08.06-13.23.56:543][801]LogTemp: Warning: Begin Play called in C+++++++ hella!
+[2025.08.06-13.23.56:545][801]PIE: Server logged in
+[2025.08.06-13.23.56:546][801]PIE: Play in editor total start time 0.223 seconds.
+[2025.08.06-13.23.56:553][801]LogTemp: Warning: DeltaTime: 0.008334
+[2025.08.06-13.23.56:553][801]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-13.23.56:579][802]LogTemp: Warning: DeltaTime: 0.263429
+[2025.08.06-13.23.56:579][802]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-13.23.56:795][803]LogTemp: Warning: DeltaTime: 0.219848
+[2025.08.06-13.23.56:795][803]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-13.23.56:972][804]LogTemp: Warning: DeltaTime: 0.176416
+[2025.08.06-13.23.56:972][804]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-13.23.57:199][805]LogTemp: Warning: DeltaTime: 0.227329
+[2025.08.06-13.23.57:199][805]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-13.23.57:614][806]LogTemp: Warning: DeltaTime: 0.400000
+[2025.08.06-13.23.57:614][806]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-13.23.57:623][807]LogTemp: Warning: DeltaTime: 0.008338
+[2025.08.06-13.23.57:623][807]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-13.23.57:632][808]LogTemp: Warning: DeltaTime: 0.008824
+[2025.08.06-13.23.57:633][808]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-13.23.57:640][809]LogTemp: Warning: DeltaTime: 0.008340
+[2025.08.06-13.23.57:640][809]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-13.23.57:707][810]LogTemp: Warning: DeltaTime: 0.066759
+[2025.08.06-13.23.57:707][810]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-13.23.57:776][811]LogTemp: Warning: DeltaTime: 0.069034
+[2025.08.06-13.23.57:776][811]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-13.23.57:852][812]LogTemp: Warning: DeltaTime: 0.071835
+[2025.08.06-13.23.57:852][812]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-13.23.57:912][813]LogTemp: Warning: DeltaTime: 0.063291
+[2025.08.06-13.23.57:912][813]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-13.23.57:986][814]LogTemp: Warning: DeltaTime: 0.074833
+[2025.08.06-13.23.57:986][814]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-13.23.58:058][815]LogTemp: Warning: DeltaTime: 0.072513
+[2025.08.06-13.23.58:058][815]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-13.23.58:130][816]LogTemp: Warning: DeltaTime: 0.071613
+[2025.08.06-13.23.58:130][816]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-13.23.58:196][817]LogTemp: Warning: DeltaTime: 0.064888
+[2025.08.06-13.23.58:196][817]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-13.23.58:277][818]LogTemp: Warning: DeltaTime: 0.080446
+[2025.08.06-13.23.58:277][818]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-13.23.58:473][819]LogTemp: Warning: DeltaTime: 0.196386
+[2025.08.06-13.23.58:473][819]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-13.23.58:541][820]LogTemp: Warning: DeltaTime: 0.068697
+[2025.08.06-13.23.58:541][820]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-13.23.58:613][821]LogTemp: Warning: DeltaTime: 0.071854
+[2025.08.06-13.23.58:614][821]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-13.23.58:683][822]LogTemp: Warning: DeltaTime: 0.069431
+[2025.08.06-13.23.58:683][822]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-13.23.58:750][823]LogTemp: Warning: DeltaTime: 0.068064
+[2025.08.06-13.23.58:750][823]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-13.23.58:819][824]LogTemp: Warning: DeltaTime: 0.067934
+[2025.08.06-13.23.58:819][824]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-13.23.58:896][825]LogTemp: Warning: DeltaTime: 0.077117
+[2025.08.06-13.23.58:896][825]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-13.23.58:960][826]LogTemp: Warning: DeltaTime: 0.064758
+[2025.08.06-13.23.58:960][826]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-13.23.59:034][827]LogTemp: Warning: DeltaTime: 0.072562
+[2025.08.06-13.23.59:034][827]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-13.23.59:101][828]LogTemp: Warning: DeltaTime: 0.068483
+[2025.08.06-13.23.59:102][828]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-13.23.59:175][829]LogTemp: Warning: DeltaTime: 0.073856
+[2025.08.06-13.23.59:175][829]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-13.23.59:249][830]LogTemp: Warning: DeltaTime: 0.074055
+[2025.08.06-13.23.59:249][830]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-13.23.59:442][831]LogTemp: Warning: DeltaTime: 0.193172
+[2025.08.06-13.23.59:442][831]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-13.23.59:559][832]LogTemp: Warning: DeltaTime: 0.114922
+[2025.08.06-13.23.59:559][832]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-13.23.59:639][833]LogTemp: Warning: DeltaTime: 0.068169
+[2025.08.06-13.23.59:639][833]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-13.23.59:703][834]LogTemp: Warning: DeltaTime: 0.077814
+[2025.08.06-13.23.59:703][834]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-13.23.59:773][835]LogTemp: Warning: DeltaTime: 0.069352
+[2025.08.06-13.23.59:773][835]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-13.23.59:839][836]LogTemp: Warning: DeltaTime: 0.066296
+[2025.08.06-13.23.59:839][836]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-13.23.59:914][837]LogTemp: Warning: DeltaTime: 0.073991
+[2025.08.06-13.23.59:914][837]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-13.23.59:991][838]LogTemp: Warning: DeltaTime: 0.077730
+[2025.08.06-13.23.59:991][838]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-13.24.00:052][839]LogTemp: Warning: DeltaTime: 0.061537
+[2025.08.06-13.24.00:052][839]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-13.24.00:120][840]LogTemp: Warning: DeltaTime: 0.067902
+[2025.08.06-13.24.00:120][840]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-13.24.00:192][841]LogTemp: Warning: DeltaTime: 0.072464
+[2025.08.06-13.24.00:192][841]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-13.24.00:271][842]LogTemp: Warning: DeltaTime: 0.078473
+[2025.08.06-13.24.00:271][842]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-13.24.00:475][843]LogTemp: Warning: DeltaTime: 0.203255
+[2025.08.06-13.24.00:475][843]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-13.24.00:532][844]LogTemp: Warning: DeltaTime: 0.058087
+[2025.08.06-13.24.00:532][844]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-13.24.00:604][845]LogTemp: Warning: DeltaTime: 0.072872
+[2025.08.06-13.24.00:604][845]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-13.24.00:675][846]LogTemp: Warning: DeltaTime: 0.069399
+[2025.08.06-13.24.00:676][846]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-13.24.00:748][847]LogTemp: Warning: DeltaTime: 0.073111
+[2025.08.06-13.24.00:748][847]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-13.24.00:815][848]LogTemp: Warning: DeltaTime: 0.067392
+[2025.08.06-13.24.00:815][848]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-13.24.00:880][849]LogTemp: Warning: DeltaTime: 0.065524
+[2025.08.06-13.24.00:881][849]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-13.24.00:949][850]LogTemp: Warning: DeltaTime: 0.068734
+[2025.08.06-13.24.00:949][850]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-13.24.01:023][851]LogTemp: Warning: DeltaTime: 0.073523
+[2025.08.06-13.24.01:023][851]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-13.24.01:090][852]LogTemp: Warning: DeltaTime: 0.067657
+[2025.08.06-13.24.01:090][852]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-13.24.01:160][853]LogTemp: Warning: DeltaTime: 0.068795
+[2025.08.06-13.24.01:160][853]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-13.24.01:234][854]LogTemp: Warning: DeltaTime: 0.073482
+[2025.08.06-13.24.01:234][854]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-13.24.01:429][855]LogTemp: Warning: DeltaTime: 0.195451
+[2025.08.06-13.24.01:429][855]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-13.24.01:498][856]LogTemp: Warning: DeltaTime: 0.069025
+[2025.08.06-13.24.01:498][856]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-13.24.01:576][857]LogTemp: Warning: DeltaTime: 0.078604
+[2025.08.06-13.24.01:576][857]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-13.24.01:640][858]LogTemp: Warning: DeltaTime: 0.063837
+[2025.08.06-13.24.01:641][858]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-13.24.01:721][859]LogTemp: Warning: DeltaTime: 0.081149
+[2025.08.06-13.24.01:721][859]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-13.24.01:781][860]LogTemp: Warning: DeltaTime: 0.060188
+[2025.08.06-13.24.01:781][860]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-13.24.01:858][861]LogTemp: Warning: DeltaTime: 0.077450
+[2025.08.06-13.24.01:858][861]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-13.24.01:996][863]LogTemp: Warning: DeltaTime: 0.069147
+[2025.08.06-13.24.01:996][863]LogTemp: Warning: Item Name: BP_Item_C_1
+[2025.08.06-13.24.02:031][863]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.06-13.24.02:031][863]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Minimal_Default_2
+[2025.08.06-13.24.02:036][863]LogWorld: UWorld::CleanupWorld for Minimal_Default_2, bSessionEnded=true, bCleanupResources=true
+[2025.08.06-13.24.02:037][863]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.06-13.24.02:152][863]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.06-13.24.02:161][863]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.06-13.24.02:186][863]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.08.06-13.24.02:197][863]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2025.08.06-13.24.02:197][863]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2025.08.06-13.24.02:204][863]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2025.08.06-13.24.02:220][863]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.06-13.24.02:255][863]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2025.08.06-13.24.02:298][864]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2025.08.06-13.24.20:811][273]LogLiveCoding: Display: Starting Live Coding compile.
+[2025.08.06-13.24.27:389][296]LogLiveCoding: Display:    Creating library C:\Users\Usuario\Desktop\Unreal Engine + Unity\UE5_Slash_Project\Slash_Project\Binaries\Win64\UnrealEditor-Slash_Project.patch_2.lib and object C:\Users\Usuario\Desktop\Unreal Engine + Unity\UE5_Slash_Project\Slash_Project\Binaries\Win64\UnrealEditor-Slash_Project.patch_2.exp
+[2025.08.06-13.24.27:678][296]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.08.06-13.24.28:441][297]Display: Reload/Re-instancing Complete: No object changes detected
+[2025.08.06-13.24.28:441][297]LogLiveCoding: Display: Live coding succeeded
+[2025.08.06-13.25.11:590][472]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.08.06-13.25.11:590][472]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2025.08.06-13.25.11:596][473]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=6716
+[2025.08.06-13.25.11:922][473]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.08.06-13.25.11:930][473]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{58ea4715-9790-4598-9427-e0f8b9d39fd0}, Name=Altavoces (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=45.63
+[2025.08.06-13.25.11:931][473]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.08.06-13.25.11:936][473]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.08.06-13.25.18:321][479]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2025.08.06-15.27.31:643][479]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10444.452148
+[2025.08.06-15.27.35:733][480]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.08.06-15.27.35:733][480]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=6716
+[2025.08.06-15.27.35:740][480]LogAutomationController: Ignoring very large delta of 7341.85 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.08.06-15.27.35:771][481]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.08.06-15.27.35:777][481]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{58ea4715-9790-4598-9427-e0f8b9d39fd0}, Name=Altavoces (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=15.71
+[2025.08.06-15.27.35:777][481]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.08.06-15.27.35:780][481]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.08.06-15.27.38:771][490]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.06-15.27.38:771][490]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10451.248047, Update Interval: 302.803436
+[2025.08.06-15.33.18:391][508]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10791.189453
+[2025.08.06-15.33.19:462][511]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.06-15.33.19:462][511]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10791.861328, Update Interval: 329.087189
+[2025.08.06-15.37.00:783][176]LogDerivedDataCache: C:/Users/Usuario/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.006 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.08.06-15.39.27:572][615]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11160.375977
+[2025.08.06-15.39.29:254][620]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.06-15.39.29:254][621]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11161.715820, Update Interval: 339.105194
+[2025.08.06-15.42.20:728][156]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
