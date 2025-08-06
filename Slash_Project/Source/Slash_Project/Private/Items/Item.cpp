@@ -36,7 +36,13 @@ void AItem::BeginPlay()
 	//}
 
 	DRAW_SPHERE(Location);
-	DRAW_LINE(Location, Location + Forward * 100.f);
+	//DRAW_LINE(Location, Location + Forward * 100.f);
+	//DRAW_POINT(Location + Forward * 100.f);
+	DRAW_VECTOR(Location, Location + Forward * 100.f);
+	//if (World)
+	//{
+	//	DrawDebugPoint(World, Location + Forward * 100.f, 15.f, FColor::Red, true);
+	//}
 }
 
 void AItem::Tick(float DeltaTime)
