@@ -2,8 +2,7 @@
 
 
 #include "Items/Item.h"
-#include "DrawDebugHelpers.h"
-#include "Slash_Project/Slash_Project.h"
+#include "Slash_Project/DebugMacros.h"
 
 # define THIRTY 30
 
