@@ -25,22 +25,22 @@ void AItem::BeginPlay()
 	//	GEngine->AddOnScreenDebugMessage(1, 60.f, FColor::Cyan, FString("Item OnScreen Message!"));
 	//}
 
-	UWorld* World = GetWorld();
+	//UWorld* World = GetWorld();
 
 	//SetActorLocation(FVector(0.f, 0.f, 50.f));
 	//SetActorRotation(FRotator(0.f, 45.f, 0.f));
-	FVector Location = GetActorLocation();
-	FVector Forward = GetActorForwardVector();
+	//FVector Location = GetActorLocation();
+	//FVector Forward = GetActorForwardVector();
 	//if (World)
 	//{
 		//FVector Forward = GetActorForwardVector();
 		//DrawDebugLine(World, Location, Location + Forward * 100.f, FColor::Red, true, -1.f, 0, 1.f);
 	//}
 
-	DRAW_SPHERE(Location);
+	//DRAW_SPHERE(Location);
 	//DRAW_LINE(Location, Location + Forward * 100.f);
 	//DRAW_POINT(Location + Forward * 100.f);
-	DRAW_VECTOR(Location, Location + Forward * 100.f);
+	//DRAW_VECTOR(Location, Location + Forward * 100.f);
 	//if (World)
 	//{
 	//	DrawDebugPoint(World, Location + Forward * 100.f, 15.f, FColor::Red, true);
@@ -50,6 +50,9 @@ void AItem::BeginPlay()
 void AItem::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
+
+	AddActorWorldOffset(FVector(1.f, 0.f, 0.f));
+	DRAW_SPHERE_SingleFrame(GetActorLocation());
 
 	//UE_LOG(LogTemp, Warning, TEXT("DeltaTime: %f"), DeltaTime);
 
