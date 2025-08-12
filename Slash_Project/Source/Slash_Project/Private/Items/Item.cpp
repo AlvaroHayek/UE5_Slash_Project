@@ -55,6 +55,9 @@ void AItem::Tick(float DeltaTime)
 	//float MovementRate = 50.f;
 	//float RotationRate = 45.f;
 	RunningTime += DeltaTime;
+	float DeltaZ = Amplitude * FMath::Sin(RunningTime * TimeConstant); // period = 2*pi/K
+
+	AddActorWorldOffset(FVector(0.f, 0.f, DeltaZ));
 
 	// MovementRate * DeltaTime (cm/s) * (s/frame) = (cm/frame)
 	//AddActorWorldOffset(FVector(MovementRate*DeltaTime, 0.f, 0.f));
