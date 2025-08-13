@@ -1492,3 +1492,30 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.08.13-11.52.08:646][652]LogPlayLevel: Display: Destroying online subsystem :Context_4
 [2025.08.13-11.52.13:849][805]Cmd: TRANSACTION UNDO
 [2025.08.13-11.52.13:849][805]LogEditorTransaction: Undo Edit Amplitude
+[2025.08.13-11.54.23:665][677]LogLiveCoding: Display: Starting Live Coding compile.
+[2025.08.13-11.54.33:414][954]LogLiveCoding: Display:    Creating library C:\Users\Usuario\Desktop\Unreal Engine + Unity\UE5_Slash_Project\Slash_Project\Binaries\Win64\UnrealEditor-Slash_Project.patch_2.lib and object C:\Users\Usuario\Desktop\Unreal Engine + Unity\UE5_Slash_Project\Slash_Project\Binaries\Win64\UnrealEditor-Slash_Project.patch_2.exp
+[2025.08.13-11.54.33:686][958]LogClass: UPackage /Script/Slash_Project Reload.
+[2025.08.13-11.54.33:686][958]LogClass: UClass Item Reload.
+[2025.08.13-11.54.33:686][958]LogClass: Could not find existing class Item in package /Script/Slash_Project for reload, assuming new or modified class
+[2025.08.13-11.54.33:699][958]Re-instancing Item after reload.
+[2025.08.13-11.54.33:841][958]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2025.08.13-11.54.34:579][959]Display: Reload/Re-instancing Complete: 1 package changed, 1 class changed
+[2025.08.13-11.54.34:579][959]LogLiveCoding: Warning: Live coding succeeded, data type changes may cause packaging to fail if assets reference the new or updated data types
+[2025.08.13-11.54.38:979][ 90]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 712.261780
+[2025.08.13-11.54.39:212][ 97]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.13-11.54.39:212][ 97]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 712.461426, Update Interval: 303.228241
+[2025.08.13-11.55.12:071][ 81]LogLiveCoding: Display: Starting Live Coding compile.
+[2025.08.13-11.55.17:931][256]LogLiveCoding: Display:    Creating library C:\Users\Usuario\Desktop\Unreal Engine + Unity\UE5_Slash_Project\Slash_Project\Binaries\Win64\UnrealEditor-Slash_Project.patch_3.lib and object C:\Users\Usuario\Desktop\Unreal Engine + Unity\UE5_Slash_Project\Slash_Project\Binaries\Win64\UnrealEditor-Slash_Project.patch_3.exp
+[2025.08.13-11.55.18:474][258]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2025.08.13-11.55.19:200][259]Display: Reload/Re-instancing Complete: 1 package changed, 1 class unchanged
+[2025.08.13-11.55.19:200][259]LogLiveCoding: Display: Live coding succeeded
+[2025.08.13-11.55.25:355][438]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.08.13-11.57.44:737][594]LogLiveCoding: Display: Starting Live Coding compile.
+[2025.08.13-11.57.55:715][922]LogLiveCoding: Display:    Creating library C:\Users\Usuario\Desktop\Unreal Engine + Unity\UE5_Slash_Project\Slash_Project\Binaries\Win64\UnrealEditor-Slash_Project.patch_4.lib and object C:\Users\Usuario\Desktop\Unreal Engine + Unity\UE5_Slash_Project\Slash_Project\Binaries\Win64\UnrealEditor-Slash_Project.patch_4.exp
+[2025.08.13-11.57.56:020][927]LogClass: UPackage /Script/Slash_Project Reload.
+[2025.08.13-11.57.56:020][927]LogClass: UClass Item Reload.
+[2025.08.13-11.57.56:020][927]LogClass: Could not find existing class Item in package /Script/Slash_Project for reload, assuming new or modified class
+[2025.08.13-11.57.56:037][927]Re-instancing Item after reload.
+[2025.08.13-11.57.56:321][927]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2025.08.13-11.57.57:015][928]Display: Reload/Re-instancing Complete: 1 package changed, 1 class changed
+[2025.08.13-11.57.57:015][928]LogLiveCoding: Warning: Live coding succeeded, data type changes may cause packaging to fail if assets reference the new or updated data types
