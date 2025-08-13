@@ -20,6 +20,7 @@ protected:
 
 private:
 	float RunningTime;
+	UPROPERTY(EditDefaultsOnly)
 	float Amplitude = 0.25f;
 	float TimeConstant = 5.f;
 };
