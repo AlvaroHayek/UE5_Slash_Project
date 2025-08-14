@@ -18,11 +18,11 @@ void AItem::BeginPlay()
 {
 	Super::BeginPlay();
 
-	int32 AvgInt = Avg<int32>(1, 3);
-	UE_LOG(LogTemp, Warning, TEXT("Avg of 1 and 3: %d"), AvgInt);
-
-	float AvgFloat = Avg<float>(3.45f, 7.86f);
-	UE_LOG(LogTemp, Warning, TEXT("Avg of 3.44 and 7.86: %f"), AvgFloat);
+	//int32 AvgInt = Avg<int32>(1, 3);
+	//UE_LOG(LogTemp, Warning, TEXT("Avg of 1 and 3: %d"), AvgInt);
+	//
+	//float AvgFloat = Avg<float>(3.45f, 7.86f);
+	//UE_LOG(LogTemp, Warning, TEXT("Avg of 3.44 and 7.86: %f"), AvgFloat);
 
 	//UE_LOG(LogTemp, Warning, TEXT("Begin Play called in C+++++++ hella!"));
 	
@@ -79,7 +79,7 @@ void AItem::Tick(float DeltaTime)
 	//AddActorWorldOffset(FVector(MovementRate*DeltaTime, 0.f, 0.f));
 	//AddActorWorldRotation(FRotator(0.f, RotationRate * DeltaTime, 0.f));
 	DRAW_SPHERE_SingleFrame(GetActorLocation());
-	DRAW_VECTOR_SingleFrame(GetActorLocation(), GetActorLocation()+GetActorForwardVector()*100.f)
+	DRAW_VECTOR_SingleFrame(GetActorLocation(), GetActorLocation() + GetActorForwardVector() * 100.f);
 	//UE_LOG(LogTemp, Warning, TEXT("DeltaTime: %f"), DeltaTime);
 
 	//if (GEngine)
@@ -90,6 +90,10 @@ void AItem::Tick(float DeltaTime)
 
 	//	UE_LOG(LogTemp, Warning, TEXT("Item Name: %s"), *Name);
 	//}
+
+	FVector AvgVector = Avg<FVector>(GetActorLocation(), FVector::ZeroVector);
+	DRAW_POINT_SingleFrame(AvgVector);
+	//FRotator AvgRotator = Avg<FRotator>(GetActorRotation(), FRotator::ZeroRotator);
 
 }
 

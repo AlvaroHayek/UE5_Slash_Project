@@ -1490,3 +1490,76 @@ Make sure 'BP_Item_C' has been compiled for  Transformed Cos
 [2025.08.14-18.00.52:902][196]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
 [2025.08.14-18.00.52:921][196]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
 [2025.08.14-18.00.54:397][199]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2025.08.14-18.04.01:491][792]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 323.766693
+[2025.08.14-18.04.01:725][799]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.14-18.04.01:725][800]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 323.967987, Update Interval: 347.420258
+[2025.08.14-18.06.06:337][520]LogLiveCoding: Display: Starting Live Coding compile.
+[2025.08.14-18.06.14:103][752]LogLiveCoding: Display:    Creating library C:\Users\Usuario\Desktop\Unreal Engine + Unity\UE5_Slash_Project\Slash_Project\Binaries\Win64\UnrealEditor-Slash_Project.patch_1.lib and object C:\Users\Usuario\Desktop\Unreal Engine + Unity\UE5_Slash_Project\Slash_Project\Binaries\Win64\UnrealEditor-Slash_Project.patch_1.exp
+[2025.08.14-18.06.14:642][761]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.08.14-18.06.14:669][762]Display: Reload/Re-instancing Complete: 1 package changed, 1 class unchanged, 2 functions remapped
+[2025.08.14-18.06.14:669][762]LogLiveCoding: Display: Live coding succeeded
+[2025.08.14-18.06.16:995][832]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.08.14-18.06.17:004][832]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.14-18.06.17:004][832]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Minimal_Default_2
+[2025.08.14-18.06.17:007][832]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002762s)
+[2025.08.14-18.06.17:007][832]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Minimal_Default_2.Minimal_Default_2 to /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 (0.002799s)
+[2025.08.14-18.06.17:018][832]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.08.14-18.06.17:019][832]LogChaosDD: Creating Chaos Debug Draw Scene for world Minimal_Default_2
+[2025.08.14-18.06.17:021][832]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2'.
+[2025.08.14-18.06.17:022][832]LogPlayLevel: PIE: World Init took: (0.003114s)
+[2025.08.14-18.06.17:023][832]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2025.08.14-18.06.17:023][832]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.14-18.06.17:023][832]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.14-18.06.17:023][832]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.14-18.06.17:023][832]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.14-18.06.17:023][832]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.14-18.06.17:023][832]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.14-18.06.17:023][832]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.14-18.06.17:023][832]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.14-18.06.17:023][832]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.14-18.06.17:023][832]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.14-18.06.17:023][832]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.14-18.06.17:027][832]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.14-18.06.17:043][832]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.08.14-18.06.17:043][832]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.14-18.06.17:043][832]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.14-18.06.17:043][832]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.14-18.06.17:044][832]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2025.08.14-18.06.17:044][832]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2025.08.14-18.06.17:046][832]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2025.08.14-18.06.17:046][832]LogInit: FAudioDevice initialized with ID 3.
+[2025.08.14-18.06.17:046][832]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2025.08.14-18.06.17:046][832]LogAudio: Display: Audio Device (ID: 3) registered with world 'Minimal_Default_2'.
+[2025.08.14-18.06.17:046][832]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2025.08.14-18.06.17:050][832]LogLoad: Game class is 'GameModeBase'
+[2025.08.14-18.06.17:051][832]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 up for play (max tick rate 0) at 2025.08.14-20.06.17
+[2025.08.14-18.06.17:051][832]LogWorld: Bringing up level for play took: 0.001234
+[2025.08.14-18.06.17:055][832]LogOnline: OSS: Created online subsystem instance for: :Context_2
+[2025.08.14-18.06.17:057][832]PIE: Server logged in
+[2025.08.14-18.06.17:058][832]PIE: Play in editor total start time 0.055 seconds.
+[2025.08.14-18.06.25:071][ 30]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.14-18.06.25:071][ 30]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Minimal_Default_2
+[2025.08.14-18.06.25:071][ 30]LogWorld: UWorld::CleanupWorld for Minimal_Default_2, bSessionEnded=true, bCleanupResources=true
+[2025.08.14-18.06.25:071][ 30]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.14-18.06.25:075][ 30]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.14-18.06.25:078][ 30]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.14-18.06.25:088][ 30]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.14-18.06.25:088][ 30]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2025.08.14-18.06.25:088][ 30]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.08.14-18.06.25:090][ 30]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.08.14-18.06.25:097][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.08.14-18.06.25:655][ 33]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2025.08.14-18.09.52:785][222]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 675.062683
+[2025.08.14-18.09.53:053][230]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.14-18.09.53:053][231]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 675.297241, Update Interval: 352.366089
+[2025.08.14-18.13.38:824][966]LogLiveCoding: Display: Starting Live Coding compile.
+[2025.08.14-18.13.45:288][142]Display: Reload/Re-instancing Complete: No object changes detected
+[2025.08.14-18.13.45:288][142]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2025.08.14-18.14.31:602][527]LogLiveCoding: Display: Starting Live Coding compile.
+[2025.08.14-18.14.37:029][690]LogLiveCoding: Display:    Creating library C:\Users\Usuario\Desktop\Unreal Engine + Unity\UE5_Slash_Project\Slash_Project\Binaries\Win64\UnrealEditor-Slash_Project.patch_2.lib and object C:\Users\Usuario\Desktop\Unreal Engine + Unity\UE5_Slash_Project\Slash_Project\Binaries\Win64\UnrealEditor-Slash_Project.patch_2.exp
+[2025.08.14-18.14.37:328][693]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.08.14-18.14.37:354][694]Display: Reload/Re-instancing Complete: 1 package changed, 1 class unchanged, 2 functions remapped
+[2025.08.14-18.14.37:354][694]LogLiveCoding: Display: Live coding succeeded
+[2025.08.14-18.15.49:916][861]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1032.197876
+[2025.08.14-18.15.50:150][868]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.14-18.15.50:150][868]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1032.398560, Update Interval: 335.721313
