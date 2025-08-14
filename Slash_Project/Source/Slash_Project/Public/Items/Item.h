@@ -17,7 +17,7 @@ public:
 
 protected:
 	virtual void BeginPlay() override;
-	UPROPERTY(EditAnywhere, BlueprintReadOnly)
+	UPROPERTY(EditAnywhere, BlueprintReadWrite)
 	float Amplitude = 0.25f;
 
 private:

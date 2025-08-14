@@ -1832,3 +1832,80 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.08.14-13.08.32:489][ 18]LogUObjectHash: Compacting FUObjectHashTables data took  50.73ms
 [2025.08.14-13.08.33:308][ 19]Display: Reload/Re-instancing Complete: 1 package changed, 1 class unchanged
 [2025.08.14-13.08.33:308][ 19]LogLiveCoding: Display: Live coding succeeded
+[2025.08.14-13.09.58:090][168]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 91577.710938
+[2025.08.14-13.09.58:331][175]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.14-13.09.58:331][175]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 91577.914062, Update Interval: 303.154999
+[2025.08.14-13.11.38:796][159]LogLiveCoding: Display: Starting Live Coding compile.
+[2025.08.14-13.11.57:968][540]LogLiveCoding: Display:    Creating library C:\Users\Usuario\Desktop\Unreal Engine + Unity\UE5_Slash_Project\Slash_Project\Binaries\Win64\UnrealEditor-Slash_Project.patch_10.lib and object C:\Users\Usuario\Desktop\Unreal Engine + Unity\UE5_Slash_Project\Slash_Project\Binaries\Win64\UnrealEditor-Slash_Project.patch_10.exp
+[2025.08.14-13.11.58:270][543]LogClass: UPackage /Script/Slash_Project Reload.
+[2025.08.14-13.11.58:270][543]LogClass: UClass Item Reload.
+[2025.08.14-13.11.58:270][543]LogClass: Could not find existing class Item in package /Script/Slash_Project for reload, assuming new or modified class
+[2025.08.14-13.11.58:286][543]Re-instancing Item after reload.
+[2025.08.14-13.11.58:748][543]LogUObjectHash: Compacting FUObjectHashTables data took  64.51ms
+[2025.08.14-13.11.59:658][544]Display: Reload/Re-instancing Complete: 1 package changed, 1 class changed
+[2025.08.14-13.11.59:661][544]LogLiveCoding: Warning: Live coding succeeded, data type changes may cause packaging to fail if assets reference the new or updated data types
+[2025.08.14-13.13.04:405][987]LogUObjectHash: Compacting FUObjectHashTables data took   7.41ms
+[2025.08.14-13.14.41:653][389]LogUObjectHash: Compacting FUObjectHashTables data took  30.12ms
+[2025.08.14-13.14.41:667][389]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Minimal_Default_2' took 0.126
+[2025.08.14-13.14.41:680][389]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Items/BP_Item] ([2] browsable assets)...
+[2025.08.14-13.14.41:683][389]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Items/BP_Item]
+[2025.08.14-13.14.41:776][389]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Items/BP_Item_Auto1
+[2025.08.14-13.14.41:778][389]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Saved/BP_Item_Auto140F5A61A4109C462072504AEF68350D9.tmp' to '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Saved/Autosaves/Game/Blueprints/Items/BP_Item_Auto1.uasset'
+[2025.08.14-13.14.41:798][389]LogFileHelpers: Auto-saving content packages took 0.130
+[2025.08.14-13.15.10:792][112]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2025.08.14-13.27.45:844][112]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 92636.828125
+[2025.08.14-13.27.55:717][113]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.08.14-13.27.55:718][113]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=13220
+[2025.08.14-13.27.56:162][113]LogHttp: Warning: 0000095C1D9B3100: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.08.14-13.27.56:162][113]LogHttp: Warning: 0000095C1D9B3100: libcurl info message cache 0 (Too old connection (798 seconds idle), disconnect it)
+[2025.08.14-13.27.56:163][113]LogHttp: Warning: 0000095C1D9B3100: libcurl info message cache 1 (Connection 8 seems to be dead)
+[2025.08.14-13.27.56:163][113]LogHttp: Warning: 0000095C1D9B3100: libcurl info message cache 2 (Closing connection)
+[2025.08.14-13.27.56:163][113]LogHttp: Warning: 0000095C1D9B3100: libcurl info message cache 3 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.08.14-13.27.56:163][113]LogHttp: Warning: 0000095C1D9B3100: libcurl info message cache 4 (Could not resolve host: datarouter.ol.epicgames.com)
+[2025.08.14-13.27.56:163][113]LogHttp: Warning: 0000095C1D9B3100: libcurl info message cache 5 (Closing connection)
+[2025.08.14-13.27.56:181][113]LogEOSSDK: Warning: LogHttp: 0000095C5B748400: invalid HTTP response code received. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7BDEC6AEF7-48C4-2095-5C08-99AAD0173D96%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.16.4-36651368%20-%20%2B%2BEOSSDK%2BRelease-1.16.4-CL-36651368&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.08.14-13.27.56:181][113]LogEOSSDK: Warning: LogHttp: 0000095C5B748400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.08.14-13.27.56:181][113]LogEOSSDK: Warning: LogHttp: 0000095C5B748400: libcurl info message cache 0 (Too old connection (768 seconds idle), disconnect it)
+[2025.08.14-13.27.56:181][113]LogEOSSDK: Warning: LogHttp: 0000095C5B748400: libcurl info message cache 1 (Connection 38 seems to be dead)
+[2025.08.14-13.27.56:181][113]LogEOSSDK: Warning: LogHttp: 0000095C5B748400: libcurl info message cache 2 (Closing connection)
+[2025.08.14-13.27.56:181][113]LogEOSSDK: Warning: LogHttp: 0000095C5B748400: libcurl info message cache 3 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.08.14-13.27.56:182][113]LogEOSSDK: Warning: LogHttp: 0000095C5B748400: libcurl info message cache 4 (Hostname in DNS cache was stale, zapped)
+[2025.08.14-13.27.56:182][113]LogEOSSDK: Warning: LogHttp: 0000095C5B748400: libcurl info message cache 5 (Could not resolve host: api.epicgames.dev)
+[2025.08.14-13.27.56:182][113]LogEOSSDK: Warning: LogHttp: 0000095C5B748400: libcurl info message cache 6 (Closing connection)
+[2025.08.14-13.27.56:188][114]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.08.14-13.27.56:199][114]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{58ea4715-9790-4598-9427-e0f8b9d39fd0}, Name=Altavoces (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=78.60
+[2025.08.14-13.27.56:200][114]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.08.14-13.27.56:206][114]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.08.14-13.27.56:240][114]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7BDEC6AEF7-48C4-2095-5C08-99AAD0173D96%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.16.4-36651368%20-%20%2B%2BEOSSDK%2BRelease-1.16.4-CL-36651368&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2025.08.14-13.27.57:416][149]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.14-13.27.57:416][149]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 92648.359375, Update Interval: 332.011475
+[2025.08.14-13.34.04:668][119]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 92995.929688
+[2025.08.14-13.34.04:970][128]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.14-13.34.04:971][128]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 92996.179688, Update Interval: 317.130035
+[2025.08.14-13.40.18:480][282]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 93351.203125
+[2025.08.14-13.40.18:916][295]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.14-13.40.18:916][295]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 93351.585938, Update Interval: 300.737946
+[2025.08.14-13.45.52:469][256]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 93668.531250
+[2025.08.14-13.45.52:772][265]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.14-13.45.52:772][266]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 93668.796875, Update Interval: 329.043243
+[2025.08.14-13.52.04:974][386]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 94021.484375
+[2025.08.14-13.52.05:209][393]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.14-13.52.05:209][394]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 94021.671875, Update Interval: 348.711212
+[2025.08.14-13.58.32:569][972]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 94386.695312
+[2025.08.14-13.58.33:034][986]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.14-13.58.33:034][986]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 94387.101562, Update Interval: 351.824097
+[2025.08.14-14.00.10:141][890]LogDerivedDataCache: C:/Users/Usuario/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.060 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.08.14-14.05.13:965][983]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 94764.914062
+[2025.08.14-14.05.14:931][ 12]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.14-14.05.14:931][ 12]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 94765.796875, Update Interval: 331.011688
+[2025.08.14-16.10.34:053][143]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [7394 Seconds] waiting for h/w. InstanceID=1
+[2025.08.14-16.10.39:053][143]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2025.08.14-16.10.42:137][144]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.08.14-16.10.42:137][144]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=13220
+[2025.08.14-16.10.44:752][146]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.08.14-16.10.44:763][146]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{58ea4715-9790-4598-9427-e0f8b9d39fd0}, Name=Altavoces (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=2544.80
+[2025.08.14-16.10.44:763][146]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.08.14-16.10.44:778][146]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.08.14-16.11.38:652][439]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 102349.984375
+[2025.08.14-16.11.38:887][446]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.14-16.11.38:888][447]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 102350.171875, Update Interval: 329.819641
