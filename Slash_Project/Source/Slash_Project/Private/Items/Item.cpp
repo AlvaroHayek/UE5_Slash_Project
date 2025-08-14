@@ -18,6 +18,12 @@ void AItem::BeginPlay()
 {
 	Super::BeginPlay();
 
+	int32 AvgInt = Avg<int32>(1, 3);
+	UE_LOG(LogTemp, Warning, TEXT("Avg of 1 and 3: %d"), AvgInt);
+
+	float AvgFloat = Avg<float>(3.45f, 7.86f);
+	UE_LOG(LogTemp, Warning, TEXT("Avg of 3.44 and 7.86: %f"), AvgFloat);
+
 	//UE_LOG(LogTemp, Warning, TEXT("Begin Play called in C+++++++ hella!"));
 	
 	//if (GEngine) 
