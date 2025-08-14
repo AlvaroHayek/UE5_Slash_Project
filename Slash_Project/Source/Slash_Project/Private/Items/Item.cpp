@@ -47,6 +47,11 @@ void AItem::BeginPlay()
 	//}
 }
 
+float AItem::TransformedSin(float Value)
+{
+	return Amplitude * FMath::Sin(Value * TimeConstant);
+}
+
 void AItem::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
@@ -57,7 +62,7 @@ void AItem::Tick(float DeltaTime)
 	RunningTime += DeltaTime;
 	float DeltaZ = Amplitude * FMath::Sin(RunningTime * TimeConstant); // period = 2*pi/K
 
-	AddActorWorldOffset(FVector(0.f, 0.f, DeltaZ));
+	//AddActorWorldOffset(FVector(0.f, 0.f, DeltaZ));
 
 	// MovementRate * DeltaTime (cm/s) * (s/frame) = (cm/frame)
 	//AddActorWorldOffset(FVector(MovementRate*DeltaTime, 0.f, 0.f));
