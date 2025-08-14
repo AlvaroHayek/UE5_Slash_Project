@@ -12,6 +12,8 @@ AItem::AItem()
 {
 	PrimaryActorTick.bCanEverTick = true;
 
+	ItemMesh = CreateDefaultSubobject<UStaticMeshComponent>(TEXT("ItemMeshComponent"));
+	RootComponent = ItemMesh;
 }
 
 void AItem::BeginPlay()
@@ -71,15 +73,15 @@ void AItem::Tick(float DeltaTime)
 	//float MovementRate = 50.f;
 	//float RotationRate = 45.f;
 	RunningTime += DeltaTime;
-	float DeltaZ = Amplitude * FMath::Sin(RunningTime * TimeConstant); // period = 2*pi/K
+	//float DeltaZ = Amplitude * FMath::Sin(RunningTime * TimeConstant); // period = 2*pi/K
 
 	//AddActorWorldOffset(FVector(0.f, 0.f, DeltaZ));
 
 	// MovementRate * DeltaTime (cm/s) * (s/frame) = (cm/frame)
 	//AddActorWorldOffset(FVector(MovementRate*DeltaTime, 0.f, 0.f));
 	//AddActorWorldRotation(FRotator(0.f, RotationRate * DeltaTime, 0.f));
-	DRAW_SPHERE_SingleFrame(GetActorLocation());
-	DRAW_VECTOR_SingleFrame(GetActorLocation(), GetActorLocation() + GetActorForwardVector() * 100.f);
+	//DRAW_SPHERE_SingleFrame(GetActorLocation());
+	//DRAW_VECTOR_SingleFrame(GetActorLocation(), GetActorLocation() + GetActorForwardVector() * 100.f);
 	//UE_LOG(LogTemp, Warning, TEXT("DeltaTime: %f"), DeltaTime);
 
 	//if (GEngine)
@@ -91,8 +93,8 @@ void AItem::Tick(float DeltaTime)
 	//	UE_LOG(LogTemp, Warning, TEXT("Item Name: %s"), *Name);
 	//}
 
-	FVector AvgVector = Avg<FVector>(GetActorLocation(), FVector::ZeroVector);
-	DRAW_POINT_SingleFrame(AvgVector);
+	//FVector AvgVector = Avg<FVector>(GetActorLocation(), FVector::ZeroVector);
+	//DRAW_POINT_SingleFrame(AvgVector);
 	//FRotator AvgRotator = Avg<FRotator>(GetActorRotation(), FRotator::ZeroRotator);
 
 }
