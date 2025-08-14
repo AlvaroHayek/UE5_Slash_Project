@@ -17,12 +17,13 @@ public:
 
 protected:
 	virtual void BeginPlay() override;
+	UPROPERTY(EditAnywhere, BlueprintReadOnly)
+	float Amplitude = 0.25f;
 
 private:
 	UPROPERTY(VisibleAnywhere)
 	float RunningTime;
-	UPROPERTY(EditAnywhere)
-	float Amplitude = 0.25f;
+	
 	UPROPERTY(EditAnywhere)
 	float TimeConstant = 5.f;
 };

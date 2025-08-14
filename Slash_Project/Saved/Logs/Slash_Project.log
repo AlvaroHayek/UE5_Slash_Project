@@ -1801,3 +1801,34 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.08.14-12.27.53:820][805]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 89115.312500
 [2025.08.14-12.27.54:055][812]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.08.14-12.27.54:055][813]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 89115.507812, Update Interval: 339.727783
+[2025.08.14-12.29.57:668][515]LogDerivedDataCache: C:/Users/Usuario/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.004 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.08.14-12.34.26:839][581]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 89489.156250
+[2025.08.14-12.34.27:072][588]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.14-12.34.27:072][588]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 89489.343750, Update Interval: 315.886719
+[2025.08.14-12.40.20:982][198]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 89825.937500
+[2025.08.14-12.40.21:218][205]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.14-12.40.21:218][206]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 89826.132812, Update Interval: 303.691528
+[2025.08.14-13.02.56:056][903]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [1066 Seconds] waiting for h/w. InstanceID=1
+[2025.08.14-13.02.57:245][904]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.08.14-13.02.57:245][904]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=13220
+[2025.08.14-13.02.57:551][906]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.08.14-13.02.57:555][906]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{58ea4715-9790-4598-9427-e0f8b9d39fd0}, Name=Altavoces (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=251.59
+[2025.08.14-13.02.57:555][906]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.08.14-13.02.57:562][906]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.08.14-13.03.36:710][675]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 91206.671875
+[2025.08.14-13.03.36:943][682]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.14-13.03.36:943][682]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 91206.859375, Update Interval: 336.384155
+[2025.08.14-13.06.14:976][410]LogLiveCoding: Display: Starting Live Coding compile.
+[2025.08.14-13.06.42:141][191]LogLiveCoding: Display:    Creating library C:\Users\Usuario\Desktop\Unreal Engine + Unity\UE5_Slash_Project\Slash_Project\Binaries\Win64\UnrealEditor-Slash_Project.patch_8.lib and object C:\Users\Usuario\Desktop\Unreal Engine + Unity\UE5_Slash_Project\Slash_Project\Binaries\Win64\UnrealEditor-Slash_Project.patch_8.exp
+[2025.08.14-13.06.43:350][193]LogClass: UPackage /Script/Slash_Project Reload.
+[2025.08.14-13.06.43:353][193]LogClass: UClass Item Reload.
+[2025.08.14-13.06.43:402][193]LogClass: Could not find existing class Item in package /Script/Slash_Project for reload, assuming new or modified class
+[2025.08.14-13.06.43:627][193]Re-instancing Item after reload.
+[2025.08.14-13.06.45:728][193]LogUObjectHash: Compacting FUObjectHashTables data took  36.47ms
+[2025.08.14-13.06.47:375][194]Display: Reload/Re-instancing Complete: 1 package changed, 1 class changed
+[2025.08.14-13.06.47:375][194]LogLiveCoding: Warning: Live coding succeeded, data type changes may cause packaging to fail if assets reference the new or updated data types
+[2025.08.14-13.08.18:298][650]LogLiveCoding: Display: Starting Live Coding compile.
+[2025.08.14-13.08.30:785][ 10]LogLiveCoding: Display:    Creating library C:\Users\Usuario\Desktop\Unreal Engine + Unity\UE5_Slash_Project\Slash_Project\Binaries\Win64\UnrealEditor-Slash_Project.patch_9.lib and object C:\Users\Usuario\Desktop\Unreal Engine + Unity\UE5_Slash_Project\Slash_Project\Binaries\Win64\UnrealEditor-Slash_Project.patch_9.exp
+[2025.08.14-13.08.32:489][ 18]LogUObjectHash: Compacting FUObjectHashTables data took  50.73ms
+[2025.08.14-13.08.33:308][ 19]Display: Reload/Re-instancing Complete: 1 package changed, 1 class unchanged
+[2025.08.14-13.08.33:308][ 19]LogLiveCoding: Display: Live coding succeeded
