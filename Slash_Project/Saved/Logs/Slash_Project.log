@@ -1519,3 +1519,285 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.08.13-11.57.56:321][927]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
 [2025.08.13-11.57.57:015][928]Display: Reload/Re-instancing Complete: 1 package changed, 1 class changed
 [2025.08.13-11.57.57:015][928]LogLiveCoding: Warning: Live coding succeeded, data type changes may cause packaging to fail if assets reference the new or updated data types
+[2025.08.13-11.59.49:898][309]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1023.182922
+[2025.08.13-11.59.50:164][317]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.13-11.59.50:164][317]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1023.416138, Update Interval: 315.690796
+[2025.08.13-12.05.18:915][152]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1352.205200
+[2025.08.13-12.05.19:185][160]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.13-12.05.19:185][161]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1352.455566, Update Interval: 334.282043
+[2025.08.13-12.11.16:833][811]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1710.123047
+[2025.08.13-12.11.17:068][818]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.13-12.11.17:068][818]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1710.326660, Update Interval: 342.208923
+[2025.08.13-12.14.02:957][734]LogLiveCoding: Display: Starting Live Coding compile.
+[2025.08.13-12.14.18:358][164]LogLiveCoding: Display:    Creating library C:\Users\Usuario\Desktop\Unreal Engine + Unity\UE5_Slash_Project\Slash_Project\Binaries\Win64\UnrealEditor-Slash_Project.patch_5.lib and object C:\Users\Usuario\Desktop\Unreal Engine + Unity\UE5_Slash_Project\Slash_Project\Binaries\Win64\UnrealEditor-Slash_Project.patch_5.exp
+[2025.08.13-12.14.18:737][171]LogClass: UPackage /Script/Slash_Project Reload.
+[2025.08.13-12.14.18:738][171]LogClass: UClass Item Reload.
+[2025.08.13-12.14.18:738][171]LogClass: Could not find existing class Item in package /Script/Slash_Project for reload, assuming new or modified class
+[2025.08.13-12.14.18:757][171]Re-instancing Item after reload.
+[2025.08.13-12.14.19:012][171]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2025.08.13-12.14.19:841][172]Display: Reload/Re-instancing Complete: 1 package changed, 1 class changed
+[2025.08.13-12.14.19:841][172]LogLiveCoding: Warning: Live coding succeeded, data type changes may cause packaging to fail if assets reference the new or updated data types
+[2025.08.13-12.16.09:587][452]LogLiveCoding: Display: Starting Live Coding compile.
+[2025.08.13-12.16.22:818][846]LogLiveCoding: Display:    Creating library C:\Users\Usuario\Desktop\Unreal Engine + Unity\UE5_Slash_Project\Slash_Project\Binaries\Win64\UnrealEditor-Slash_Project.patch_6.lib and object C:\Users\Usuario\Desktop\Unreal Engine + Unity\UE5_Slash_Project\Slash_Project\Binaries\Win64\UnrealEditor-Slash_Project.patch_6.exp
+[2025.08.13-12.16.23:087][850]LogClass: UPackage /Script/Slash_Project Reload.
+[2025.08.13-12.16.23:088][850]LogClass: UClass Item Reload.
+[2025.08.13-12.16.23:088][850]LogClass: Could not find existing class Item in package /Script/Slash_Project for reload, assuming new or modified class
+[2025.08.13-12.16.23:103][850]Re-instancing Item after reload.
+[2025.08.13-12.16.23:396][850]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2025.08.13-12.16.24:194][851]Display: Reload/Re-instancing Complete: 1 package changed, 1 class changed
+[2025.08.13-12.16.24:194][851]LogLiveCoding: Warning: Live coding succeeded, data type changes may cause packaging to fail if assets reference the new or updated data types
+[2025.08.13-12.16.28:825][988]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.08.13-12.16.28:846][988]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.13-12.16.28:846][988]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Minimal_Default_2
+[2025.08.13-12.16.28:850][988]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003444s)
+[2025.08.13-12.16.28:850][988]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Minimal_Default_2.Minimal_Default_2 to /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 (0.003483s)
+[2025.08.13-12.16.28:964][988]LogUObjectHash: Compacting FUObjectHashTables data took   4.86ms
+[2025.08.13-12.16.28:971][988]LogChaosDD: Creating Chaos Debug Draw Scene for world Minimal_Default_2
+[2025.08.13-12.16.28:972][988]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2'.
+[2025.08.13-12.16.28:973][988]LogPlayLevel: PIE: World Init took: (0.002417s)
+[2025.08.13-12.16.28:975][988]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2025.08.13-12.16.28:975][988]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.13-12.16.28:975][988]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.13-12.16.28:975][988]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.13-12.16.28:975][988]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.13-12.16.28:975][988]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.13-12.16.28:975][988]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.13-12.16.28:975][988]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.13-12.16.28:975][988]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.13-12.16.28:975][988]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.13-12.16.28:975][988]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.13-12.16.28:975][988]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.13-12.16.28:977][988]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.13-12.16.28:994][988]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.08.13-12.16.28:995][988]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.13-12.16.28:995][988]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.13-12.16.28:995][988]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.13-12.16.28:996][988]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2025.08.13-12.16.28:996][988]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2025.08.13-12.16.28:999][988]LogInit: FAudioDevice initialized with ID 3.
+[2025.08.13-12.16.28:999][988]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2025.08.13-12.16.28:999][988]LogAudio: Display: Audio Device (ID: 3) registered with world 'Minimal_Default_2'.
+[2025.08.13-12.16.28:999][988]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2025.08.13-12.16.28:999][988]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2025.08.13-12.16.29:002][988]LogLoad: Game class is 'GameModeBase'
+[2025.08.13-12.16.29:003][988]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 up for play (max tick rate 60) at 2025.08.13-14.16.29
+[2025.08.13-12.16.29:004][988]LogWorld: Bringing up level for play took: 0.001565
+[2025.08.13-12.16.29:009][988]LogOnline: OSS: Created online subsystem instance for: :Context_5
+[2025.08.13-12.16.29:011][988]PIE: Server logged in
+[2025.08.13-12.16.29:012][988]PIE: Play in editor total start time 0.179 seconds.
+[2025.08.13-12.16.40:380][281]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2025.08.13-12.16.40:383][281]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_3'.
+[2025.08.13-12.16.43:351][358]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2025.08.13-12.16.43:355][358]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_4'.
+[2025.08.13-12.16.46:180][438]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.13-12.16.46:180][438]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Minimal_Default_2
+[2025.08.13-12.16.46:181][438]LogWorld: UWorld::CleanupWorld for Minimal_Default_2, bSessionEnded=true, bCleanupResources=true
+[2025.08.13-12.16.46:181][438]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.13-12.16.46:187][438]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.13-12.16.46:194][438]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.13-12.16.46:224][438]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.08.13-12.16.46:231][438]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2025.08.13-12.16.46:231][438]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.08.13-12.16.46:245][438]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.08.13-12.16.46:252][438]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.13-12.16.46:266][438]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2025.08.13-12.16.46:401][441]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2025.08.13-12.17.50:188][346]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2103.480225
+[2025.08.13-12.17.51:022][371]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.13-12.17.51:022][371]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2104.280029, Update Interval: 357.097687
+[2025.08.13-12.17.55:891][517]LogLiveCoding: Display: Starting Live Coding compile.
+[2025.08.13-12.18.07:313][857]LogLiveCoding: Display:    Creating library C:\Users\Usuario\Desktop\Unreal Engine + Unity\UE5_Slash_Project\Slash_Project\Binaries\Win64\UnrealEditor-Slash_Project.patch_7.lib and object C:\Users\Usuario\Desktop\Unreal Engine + Unity\UE5_Slash_Project\Slash_Project\Binaries\Win64\UnrealEditor-Slash_Project.patch_7.exp
+[2025.08.13-12.18.07:711][864]LogClass: UPackage /Script/Slash_Project Reload.
+[2025.08.13-12.18.07:712][864]LogClass: UClass Item Reload.
+[2025.08.13-12.18.07:712][864]LogClass: Could not find existing class Item in package /Script/Slash_Project for reload, assuming new or modified class
+[2025.08.13-12.18.07:725][864]Re-instancing Item after reload.
+[2025.08.13-12.18.07:890][864]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2025.08.13-12.18.08:734][865]Display: Reload/Re-instancing Complete: 1 package changed, 1 class changed
+[2025.08.13-12.18.08:734][865]LogLiveCoding: Warning: Live coding succeeded, data type changes may cause packaging to fail if assets reference the new or updated data types
+[2025.08.13-12.19.04:477][535]LogShaderCompilers: Display: ================================================
+[2025.08.13-12.19.04:477][535]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.08.13-12.19.04:483][535]LogShaderCompilers: Display: Total job queries 501, among them cache hits 199 (39.72%), DDC hits 295 (58.88%), Duplicates 3 (0.60%)
+[2025.08.13-12.19.04:483][535]LogShaderCompilers: Display: Tracking 299 distinct input hashes that result in 235 distinct outputs (78.60%)
+[2025.08.13-12.19.04:512][535]LogShaderCompilers: Display: RAM used: 148.48 KiB of 819.20 MiB budget. Usage: 0.02%
+[2025.08.13-12.19.04:512][535]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.08.13-12.19.04:512][535]LogShaderCompilers: Display: Shaders Compiled: 4
+[2025.08.13-12.19.04:512][535]LogShaderCompilers: Display: Jobs assigned 4, completed 4 (100%)
+[2025.08.13-12.19.04:512][535]LogShaderCompilers: Display: Time job spent in pending queue: average 0.08 s, longest 0.09 s
+[2025.08.13-12.19.04:512][535]LogShaderCompilers: Display: Job execution time: average 2.63 s, max 2.78 s
+[2025.08.13-12.19.04:512][535]LogShaderCompilers: Display: Job life time (pending + execution): average 2.71 s, max 2.87
+[2025.08.13-12.19.04:512][535]LogShaderCompilers: Display: Shader code size: average 7.396 KiB, min 7.008 KiB, max 7.82 KiB
+[2025.08.13-12.19.04:512][535]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.88 s
+[2025.08.13-12.19.04:512][535]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.03%
+[2025.08.13-12.19.04:512][535]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.08.13-12.19.04:512][535]LogShaderCompilers: Display: Average processing rate: 1.39 jobs/sec
+[2025.08.13-12.19.04:512][535]LogShaderCompilers: Display: Total thread time: 2.253 s
+[2025.08.13-12.19.04:512][535]LogShaderCompilers: Display: Total thread preprocess time: 14.865 s
+[2025.08.13-12.19.04:512][535]LogShaderCompilers: Display: Percentage time preprocessing: 659.79%
+[2025.08.13-12.19.04:512][535]LogShaderCompilers: Display: Effective parallelization: 0.78 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.08.13-12.19.04:558][535]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.08.13-12.19.04:558][535]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.72 sec, max 0.72 sec, min 0.72 sec)
+[2025.08.13-12.19.04:558][535]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    1 times, average 0.56 sec, max 0.56 sec, min 0.56 sec)
+[2025.08.13-12.19.04:558][535]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.49 sec, max 0.49 sec, min 0.49 sec)
+[2025.08.13-12.19.04:558][535]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 0.49 sec, max 0.49 sec, min 0.49 sec)
+[2025.08.13-12.19.04:558][535]LogShaderCompilers: Display:         TShadowDepthPSPixelShadowDepth_NonPerspectiveCorrect (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.08.13-12.19.04:558][535]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.08.13-12.19.04:558][535]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 31.92% of total time (compiled    1 times, average 0.72 sec, max 0.72 sec, min 0.72 sec)
+[2025.08.13-12.19.04:558][535]LogShaderCompilers: Display:                                                 FLumenCardPS - 24.76% of total time (compiled    1 times, average 0.56 sec, max 0.56 sec, min 0.56 sec)
+[2025.08.13-12.19.04:558][535]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 21.73% of total time (compiled    1 times, average 0.49 sec, max 0.49 sec, min 0.49 sec)
+[2025.08.13-12.19.04:558][535]LogShaderCompilers: Display:                                                 FLumenCardVS - 21.59% of total time (compiled    1 times, average 0.49 sec, max 0.49 sec, min 0.49 sec)
+[2025.08.13-12.19.04:558][535]LogShaderCompilers: Display:                                                  FHitProxyVS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.08.13-12.19.04:558][535]LogShaderCompilers: Display: === Material stats ===
+[2025.08.13-12.19.04:558][535]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.08.13-12.19.04:558][535]LogShaderCompilers: Display: Materials Translated:    209
+[2025.08.13-12.19.04:558][535]LogShaderCompilers: Display: Material Total Translate Time: 0.31 s
+[2025.08.13-12.19.04:558][535]LogShaderCompilers: Display: Material Translation Only: 0.14 s (46%)
+[2025.08.13-12.19.04:558][535]LogShaderCompilers: Display: Material DDC Serialization Only: 0.01 s (2%)
+[2025.08.13-12.19.04:558][535]LogShaderCompilers: Display: Material Cache Hits: 47 (22%)
+[2025.08.13-12.19.04:558][535]LogShaderCompilers: Display: ================================================
+[2025.08.13-12.24.29:914][270]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2503.210693
+[2025.08.13-12.24.30:216][279]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.13-12.24.30:218][280]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2503.479004, Update Interval: 346.654877
+[2025.08.13-12.31.10:906][253]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2904.203125
+[2025.08.13-12.31.11:140][260]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.13-12.31.11:140][261]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2904.403320, Update Interval: 320.327148
+[2025.08.13-12.35.07:151][307]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2025.08.13-12.35.07:178][307]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.08.13-12.35.07:181][307]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=13220
+[2025.08.13-12.35.07:243][309]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.08.13-12.35.07:247][309]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{58ea4715-9790-4598-9427-e0f8b9d39fd0}, Name=Altavoces (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=42.80
+[2025.08.13-12.35.07:247][309]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.08.13-12.35.07:249][309]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.08.13-12.35.14:480][378]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2025.08.13-15.36.41:136][379]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.08.13-15.36.41:136][379]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=13220
+[2025.08.13-15.36.41:725][381]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.08.13-15.36.41:729][381]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{58ea4715-9790-4598-9427-e0f8b9d39fd0}, Name=Altavoces (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=88.41
+[2025.08.13-15.36.41:729][381]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.08.13-15.36.41:731][381]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.08.14-00.52.53:617][632]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 47417.992188
+[2025.08.14-00.52.54:774][633]LogEOSSDK: Warning: LogHttp: 0000095C3F330600: invalid HTTP response code received. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7BDEC6AEF7-48C4-2095-5C08-99AAD0173D96%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.16.4-36651368%20-%20%2B%2BEOSSDK%2BRelease-1.16.4-CL-36651368&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.08.14-00.52.54:774][633]LogEOSSDK: Warning: LogHttp: 0000095C3F330600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.08.14-00.52.54:774][633]LogEOSSDK: Warning: LogHttp: 0000095C3F330600: libcurl info message cache 0 (Too old connection (33377 seconds idle), disconnect it)
+[2025.08.14-00.52.54:774][633]LogEOSSDK: Warning: LogHttp: 0000095C3F330600: libcurl info message cache 1 (Connection 11 seems to be dead)
+[2025.08.14-00.52.54:774][633]LogEOSSDK: Warning: LogHttp: 0000095C3F330600: libcurl info message cache 2 (Closing connection)
+[2025.08.14-00.52.54:774][633]LogEOSSDK: Warning: LogHttp: 0000095C3F330600: libcurl info message cache 3 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.08.14-00.52.54:774][633]LogEOSSDK: Warning: LogHttp: 0000095C3F330600: libcurl info message cache 4 (Too old connection (33383 seconds idle), disconnect it)
+[2025.08.14-00.52.54:774][633]LogEOSSDK: Warning: LogHttp: 0000095C3F330600: libcurl info message cache 5 (Connection 12 seems to be dead)
+[2025.08.14-00.52.54:820][634]LogEOSSDK: Warning: LogHttp: 0000095C3F330600: libcurl info message cache 6 (Closing connection)
+[2025.08.14-00.52.54:820][634]LogEOSSDK: Warning: LogHttp: 0000095C3F330600: libcurl info message cache 7 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.08.14-00.52.54:820][634]LogEOSSDK: Warning: LogHttp: 0000095C3F330600: libcurl info message cache 8 (Too old connection (33383 seconds idle), disconnect it)
+[2025.08.14-00.52.54:820][634]LogEOSSDK: Warning: LogHttp: 0000095C3F330600: libcurl info message cache 9 (Connection 13 seems to be dead)
+[2025.08.14-00.52.54:820][634]LogEOSSDK: Warning: LogHttp: 0000095C3F330600: libcurl info message cache 10 (Closing connection)
+[2025.08.14-00.52.54:820][634]LogEOSSDK: Warning: LogHttp: 0000095C3F330600: libcurl info message cache 11 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.08.14-00.52.54:820][634]LogEOSSDK: Warning: LogHttp: 0000095C3F330600: libcurl info message cache 12 (Hostname in DNS cache was stale, zapped)
+[2025.08.14-00.52.54:820][634]LogEOSSDK: Warning: LogHttp: 0000095C3F330600: libcurl info message cache 13 (Could not resolve host: api.epicgames.dev)
+[2025.08.14-00.52.54:820][634]LogEOSSDK: Warning: LogHttp: 0000095C3F330600: libcurl info message cache 14 (Closing connection)
+[2025.08.14-00.52.55:254][634]LogEOSSDK: Warning: LogHttp: 0000095C3F331E00: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.08.14-00.52.55:254][634]LogEOSSDK: Warning: LogHttp: 0000095C3F331E00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.08.14-00.52.55:254][634]LogEOSSDK: Warning: LogHttp: 0000095C3F331E00: libcurl info message cache 0 (Could not resolve host: api.epicgames.dev)
+[2025.08.14-00.52.55:254][634]LogEOSSDK: Warning: LogHttp: 0000095C3F331E00: libcurl info message cache 1 (Closing connection)
+[2025.08.14-00.52.55:254][634]LogEOSSDK: Warning: LogHttp: 0000095C3F331800: invalid HTTP response code received. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B1079DCDE-46A8-F016-FB2F-ABBC995C645D%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.16.4-36651368%20-%20%2B%2BEOSSDK%2BRelease-1.16.4-CL-36651368&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.08.14-00.52.55:255][634]LogEOSSDK: Warning: LogHttp: 0000095C3F331800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.08.14-00.52.55:255][634]LogEOSSDK: Warning: LogHttp: 0000095C3F331800: libcurl info message cache 0 (Found bundle for host: 0x95c34080c30 [serially])
+[2025.08.14-00.52.55:255][634]LogEOSSDK: Warning: LogHttp: 0000095C3F331800: libcurl info message cache 1 (Could not resolve host: api.epicgames.dev)
+[2025.08.14-00.52.55:255][634]LogEOSSDK: Warning: LogHttp: 0000095C3F331800: libcurl info message cache 2 (Closing connection)
+[2025.08.14-00.52.55:255][634]LogEOSSDK: Warning: LogHttp: 0000095C3F330C00: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=5C9EE468417F68668B00EAB6B6D3D16A, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.08.14-00.52.55:255][635]LogEOSSDK: Warning: LogHttp: 0000095C3F330C00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.08.14-00.52.55:255][635]LogEOSSDK: Warning: LogHttp: 0000095C3F330C00: libcurl info message cache 0 (Found bundle for host: 0x95c34080c30 [serially])
+[2025.08.14-00.52.55:255][635]LogEOSSDK: Warning: LogHttp: 0000095C3F330C00: libcurl info message cache 1 (Could not resolve host: api.epicgames.dev)
+[2025.08.14-00.52.55:255][635]LogEOSSDK: Warning: LogHttp: 0000095C3F330C00: libcurl info message cache 2 (Closing connection)
+[2025.08.14-00.52.55:255][635]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7BDEC6AEF7-48C4-2095-5C08-99AAD0173D96%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.16.4-36651368%20-%20%2B%2BEOSSDK%2BRelease-1.16.4-CL-36651368&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2025.08.14-00.52.55:255][635]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B1079DCDE-46A8-F016-FB2F-ABBC995C645D%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.16.4-36651368%20-%20%2B%2BEOSSDK%2BRelease-1.16.4-CL-36651368&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2025.08.14-00.52.55:255][635]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.08.14-00.52.55:255][635]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=5C9EE468417F68668B00EAB6B6D3D16A
+[2025.08.14-00.52.56:542][641]LogEOSSDK: Warning: LogHttp: Retry 1 on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.08.14-00.52.56:542][641]LogEOSSDK: Warning: LogHttp: Retry 1 on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=5C9EE468417F68668B00EAB6B6D3D16A
+[2025.08.14-00.52.58:297][693]LogEOSSDK: Warning: LogHttp: Success on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.08.14-00.52.58:325][694]LogEOSSDK: Warning: LogHttp: Success on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=5C9EE468417F68668B00EAB6B6D3D16A
+[2025.08.14-00.52.58:628][703]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.14-00.52.58:628][703]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 47423.019531, Update Interval: 331.539062
+[2025.08.14-03.54.42:962][177]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [10890 Seconds] waiting for h/w. InstanceID=1
+[2025.08.14-03.54.43:978][178]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.08.14-03.54.43:978][178]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=13220
+[2025.08.14-03.54.44:530][179]LogEOSSDK: Warning: LogHttp: 0000095C3F332A00: invalid HTTP response code received. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B1079DCDE-46A8-F016-FB2F-ABBC995C645D%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.16.4-36651368%20-%20%2B%2BEOSSDK%2BRelease-1.16.4-CL-36651368&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.08.14-03.54.44:531][179]LogEOSSDK: Warning: LogHttp: 0000095C3F332A00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.08.14-03.54.44:531][179]LogEOSSDK: Warning: LogHttp: 0000095C3F332A00: libcurl info message cache 0 (Too old connection (10905 seconds idle), disconnect it)
+[2025.08.14-03.54.44:531][179]LogEOSSDK: Warning: LogHttp: 0000095C3F332A00: libcurl info message cache 1 (Connection 18 seems to be dead)
+[2025.08.14-03.54.44:531][179]LogEOSSDK: Warning: LogHttp: 0000095C3F332A00: libcurl info message cache 2 (Closing connection)
+[2025.08.14-03.54.44:531][179]LogEOSSDK: Warning: LogHttp: 0000095C3F332A00: libcurl info message cache 3 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.08.14-03.54.44:531][179]LogEOSSDK: Warning: LogHttp: 0000095C3F332A00: libcurl info message cache 4 (Too old connection (10905 seconds idle), disconnect it)
+[2025.08.14-03.54.44:531][179]LogEOSSDK: Warning: LogHttp: 0000095C3F332A00: libcurl info message cache 5 (Connection 19 seems to be dead)
+[2025.08.14-03.54.44:531][179]LogEOSSDK: Warning: LogHttp: 0000095C3F332A00: libcurl info message cache 6 (Closing connection)
+[2025.08.14-03.54.44:531][179]LogEOSSDK: Warning: LogHttp: 0000095C3F332A00: libcurl info message cache 7 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.08.14-03.54.44:531][179]LogEOSSDK: Warning: LogHttp: 0000095C3F332A00: libcurl info message cache 8 (Hostname in DNS cache was stale, zapped)
+[2025.08.14-03.54.44:531][179]LogEOSSDK: Warning: LogHttp: 0000095C3F332A00: libcurl info message cache 9 (Could not resolve host: api.epicgames.dev)
+[2025.08.14-03.54.44:531][179]LogEOSSDK: Warning: LogHttp: 0000095C3F332A00: libcurl info message cache 10 (Closing connection)
+[2025.08.14-03.54.44:531][179]LogEOSSDK: Warning: LogHttp: 0000095C3F330600: invalid HTTP response code received. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7BDEC6AEF7-48C4-2095-5C08-99AAD0173D96%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.16.4-36651368%20-%20%2B%2BEOSSDK%2BRelease-1.16.4-CL-36651368&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.08.14-03.54.44:531][179]LogEOSSDK: Warning: LogHttp: 0000095C3F330600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.08.14-03.54.44:531][179]LogEOSSDK: Warning: LogHttp: 0000095C3F330600: libcurl info message cache 0 (Found bundle for host: 0x95c340808d0 [serially])
+[2025.08.14-03.54.44:531][179]LogEOSSDK: Warning: LogHttp: 0000095C3F330600: libcurl info message cache 1 (Could not resolve host: api.epicgames.dev)
+[2025.08.14-03.54.44:531][179]LogEOSSDK: Warning: LogHttp: 0000095C3F330600: libcurl info message cache 2 (Closing connection)
+[2025.08.14-03.54.44:531][179]LogEOSSDK: Warning: LogHttp: 0000095C3F330000: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=5C9EE468417F68668B00EAB6B6D3D16A, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.08.14-03.54.44:531][179]LogEOSSDK: Warning: LogHttp: 0000095C3F330000: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.08.14-03.54.44:531][179]LogEOSSDK: Warning: LogHttp: 0000095C3F330000: libcurl info message cache 0 (Found bundle for host: 0x95c340808d0 [serially])
+[2025.08.14-03.54.44:531][179]LogEOSSDK: Warning: LogHttp: 0000095C3F330000: libcurl info message cache 1 (Could not resolve host: api.epicgames.dev)
+[2025.08.14-03.54.44:531][179]LogEOSSDK: Warning: LogHttp: 0000095C3F330000: libcurl info message cache 2 (Closing connection)
+[2025.08.14-03.54.44:531][179]LogEOSSDK: Warning: LogHttp: 0000095C3F330C00: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.08.14-03.54.44:531][180]LogEOSSDK: Warning: LogHttp: 0000095C3F330C00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.08.14-03.54.44:531][180]LogEOSSDK: Warning: LogHttp: 0000095C3F330C00: libcurl info message cache 0 (Could not resolve host: api.epicgames.dev)
+[2025.08.14-03.54.44:531][180]LogEOSSDK: Warning: LogHttp: 0000095C3F330C00: libcurl info message cache 1 (Closing connection)
+[2025.08.14-03.54.44:531][180]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.08.14-03.54.44:531][180]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=5C9EE468417F68668B00EAB6B6D3D16A
+[2025.08.14-03.54.44:533][180]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.08.14-03.54.44:537][180]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{58ea4715-9790-4598-9427-e0f8b9d39fd0}, Name=Altavoces (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=78.79
+[2025.08.14-03.54.44:537][180]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.08.14-03.54.44:540][180]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.08.14-03.54.44:558][180]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7BDEC6AEF7-48C4-2095-5C08-99AAD0173D96%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.16.4-36651368%20-%20%2B%2BEOSSDK%2BRelease-1.16.4-CL-36651368&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2025.08.14-03.54.44:558][180]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B1079DCDE-46A8-F016-FB2F-ABBC995C645D%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.16.4-36651368%20-%20%2B%2BEOSSDK%2BRelease-1.16.4-CL-36651368&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2025.08.14-03.54.45:544][210]LogEOSSDK: Warning: LogHttp: Retry 1 on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.08.14-03.54.45:544][211]LogEOSSDK: Warning: LogHttp: Retry 1 on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=5C9EE468417F68668B00EAB6B6D3D16A
+[2025.08.14-03.54.45:580][211]LogEOSSDK: Warning: LogHttp: 0000095C3F330000: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=5C9EE468417F68668B00EAB6B6D3D16A, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.08.14-03.54.45:580][211]LogEOSSDK: Warning: LogHttp: 0000095C3F330000: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.08.14-03.54.45:580][211]LogEOSSDK: Warning: LogHttp: 0000095C3F330000: libcurl info message cache 3 (Found bundle for host: 0x95c340806f0 [serially])
+[2025.08.14-03.54.45:580][211]LogEOSSDK: Warning: LogHttp: 0000095C3F330000: libcurl info message cache 4 (Could not resolve host: api.epicgames.dev)
+[2025.08.14-03.54.45:580][211]LogEOSSDK: Warning: LogHttp: 0000095C3F330000: libcurl info message cache 5 (Closing connection)
+[2025.08.14-03.54.45:580][211]LogEOSSDK: Warning: LogHttp: 0000095C3F330C00: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.08.14-03.54.45:580][211]LogEOSSDK: Warning: LogHttp: 0000095C3F330C00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.08.14-03.54.45:580][211]LogEOSSDK: Warning: LogHttp: 0000095C3F330C00: libcurl info message cache 2 (Could not resolve host: api.epicgames.dev)
+[2025.08.14-03.54.45:580][211]LogEOSSDK: Warning: LogHttp: 0000095C3F330C00: libcurl info message cache 3 (Closing connection)
+[2025.08.14-03.54.45:580][212]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.08.14-03.54.45:580][212]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=5C9EE468417F68668B00EAB6B6D3D16A
+[2025.08.14-03.54.46:611][242]LogEOSSDK: Warning: LogHttp: Retry 2 on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.08.14-03.54.46:611][243]LogEOSSDK: Warning: LogHttp: Retry 2 on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=5C9EE468417F68668B00EAB6B6D3D16A
+[2025.08.14-03.54.46:646][243]LogEOSSDK: Warning: LogHttp: 0000095C3F330000: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=5C9EE468417F68668B00EAB6B6D3D16A, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.08.14-03.54.46:646][243]LogEOSSDK: Warning: LogHttp: 0000095C3F330000: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.08.14-03.54.46:646][243]LogEOSSDK: Warning: LogHttp: 0000095C3F330000: libcurl info message cache 6 (Found bundle for host: 0x95c340804b0 [serially])
+[2025.08.14-03.54.46:646][243]LogEOSSDK: Warning: LogHttp: 0000095C3F330000: libcurl info message cache 7 (Could not resolve host: api.epicgames.dev)
+[2025.08.14-03.54.46:646][243]LogEOSSDK: Warning: LogHttp: 0000095C3F330000: libcurl info message cache 8 (Closing connection)
+[2025.08.14-03.54.46:646][243]LogEOSSDK: Warning: LogHttp: 0000095C3F330C00: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.08.14-03.54.46:646][244]LogEOSSDK: Warning: LogHttp: 0000095C3F330C00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.08.14-03.54.46:647][244]LogEOSSDK: Warning: LogHttp: 0000095C3F330C00: libcurl info message cache 4 (Could not resolve host: api.epicgames.dev)
+[2025.08.14-03.54.46:647][244]LogEOSSDK: Warning: LogHttp: 0000095C3F330C00: libcurl info message cache 5 (Closing connection)
+[2025.08.14-03.54.46:647][244]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.08.14-03.54.46:647][244]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=5C9EE468417F68668B00EAB6B6D3D16A
+[2025.08.14-03.54.46:647][244]LogEOSSDK: Warning: LogEOS: Failed to connect to the backend. ServiceName=[Metrics], OperationName=[SendBackendEvent], Url=[<Redacted>]
+[2025.08.14-12.21.57:229][265]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 88771.531250
+[2025.08.14-12.21.57:229][265]LogEOSSDK: Warning: LogHttp: Retry 3 on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.08.14-12.21.58:399][266]LogEOSSDK: Warning: LogHttp: 0000095C3F332A00: invalid HTTP response code received. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7BDEC6AEF7-48C4-2095-5C08-99AAD0173D96%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.16.4-36651368%20-%20%2B%2BEOSSDK%2BRelease-1.16.4-CL-36651368&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.08.14-12.21.58:399][266]LogEOSSDK: Warning: LogHttp: 0000095C3F332A00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.08.14-12.21.58:399][266]LogEOSSDK: Warning: LogHttp: 0000095C3F332A00: libcurl info message cache 0 (Could not resolve host: api.epicgames.dev)
+[2025.08.14-12.21.58:399][266]LogEOSSDK: Warning: LogHttp: 0000095C3F332A00: libcurl info message cache 1 (Closing connection)
+[2025.08.14-12.21.58:399][266]LogEOSSDK: Warning: LogHttp: 0000095C3F330C00: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.08.14-12.21.58:399][266]LogEOSSDK: Warning: LogHttp: 0000095C3F330C00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.08.14-12.21.58:399][267]LogEOSSDK: Warning: LogHttp: 0000095C3F330C00: libcurl info message cache 6 (Found bundle for host: 0x95c34080060 [serially])
+[2025.08.14-12.21.58:399][267]LogEOSSDK: Warning: LogHttp: 0000095C3F330C00: libcurl info message cache 7 (Could not resolve host: api.epicgames.dev)
+[2025.08.14-12.21.58:406][267]LogEOSSDK: Warning: LogHttp: 0000095C3F330C00: libcurl info message cache 8 (Closing connection)
+[2025.08.14-12.21.58:406][267]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7BDEC6AEF7-48C4-2095-5C08-99AAD0173D96%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.16.4-36651368%20-%20%2B%2BEOSSDK%2BRelease-1.16.4-CL-36651368&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2025.08.14-12.21.58:406][267]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.08.14-12.22.00:476][290]LogEOSSDK: Warning: LogHttp: Retry 4 on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.08.14-12.22.00:669][291]LogEOSSDK: Warning: LogHttp: Success on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.08.14-12.22.00:988][301]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.14-12.22.00:988][301]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 88775.250000, Update Interval: 319.605713
+[2025.08.14-12.27.53:820][805]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 89115.312500
+[2025.08.14-12.27.54:055][812]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.14-12.27.54:055][813]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 89115.507812, Update Interval: 339.727783
