@@ -47,9 +47,14 @@ void AItem::BeginPlay()
 	//}
 }
 
-float AItem::TransformedSin(float Value)
+float AItem::TransformedSin()
 {
-	return Amplitude * FMath::Sin(Value * TimeConstant);
+	return Amplitude * FMath::Sin(RunningTime * TimeConstant);
+}
+
+float AItem::TransformedCos()
+{
+	return Amplitude * FMath::Cos(RunningTime * TimeConstant);
 }
 
 void AItem::Tick(float DeltaTime)

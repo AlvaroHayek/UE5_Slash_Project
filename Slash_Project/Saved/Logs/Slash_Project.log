@@ -2197,3 +2197,120 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.08.14-17.15.26:922][260]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.08.14-17.15.26:922][260]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.08.14-17.15.26:923][260]AssetCheck: /Game/Blueprints/Items/BP_Item Validating asset
+[2025.08.14-17.19.21:867][265]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 106239.687500
+[2025.08.14-17.19.22:236][276]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.14-17.19.22:236][277]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 106240.007812, Update Interval: 337.550598
+[2025.08.14-17.20.31:360][267]LogLiveCoding: Display: Starting Live Coding compile.
+[2025.08.14-17.20.41:641][575]LogLiveCoding: Display:    Creating library C:\Users\Usuario\Desktop\Unreal Engine + Unity\UE5_Slash_Project\Slash_Project\Binaries\Win64\UnrealEditor-Slash_Project.patch_15.lib and object C:\Users\Usuario\Desktop\Unreal Engine + Unity\UE5_Slash_Project\Slash_Project\Binaries\Win64\UnrealEditor-Slash_Project.patch_15.exp
+[2025.08.14-17.20.42:014][582]LogClass: UPackage /Script/Slash_Project Reload.
+[2025.08.14-17.20.42:014][582]LogClass: UClass Item Reload.
+[2025.08.14-17.20.42:014][582]LogClass: Could not find existing class Item in package /Script/Slash_Project for reload, assuming new or modified class
+[2025.08.14-17.20.42:014][582]LogClass: Function TransformedSin is new or belongs to a modified class.
+[2025.08.14-17.20.42:029][582]Re-instancing Item after reload.
+[2025.08.14-17.20.42:210][582]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2025.08.14-17.20.43:016][583]Display: Reload/Re-instancing Complete: 1 package changed, 1 class changed
+[2025.08.14-17.20.43:016][583]LogLiveCoding: Warning: Live coding succeeded, data type changes may cause packaging to fail if assets reference the new or updated data types
+[2025.08.14-17.21.07:177][254]LogUObjectHash: Compacting FUObjectHashTables data took   8.63ms
+[2025.08.14-17.21.08:494][288]LogUObjectHash: Compacting FUObjectHashTables data took   7.77ms
+[2025.08.14-17.21.09:371][288]LogSlate: Window 'Save Content' being destroyed
+[2025.08.14-17.21.09:382][288]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.14-17.21.09:416][288]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Items/BP_Item] ([2] browsable assets)...
+[2025.08.14-17.21.09:416][288]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Items/BP_Item]
+[2025.08.14-17.21.09:428][288]LogSavePackage: Moving output files for package: /Game/Blueprints/Items/BP_Item
+[2025.08.14-17.21.09:429][288]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Saved/BP_ItemE3B9E54A419B56DE221EB9B96320365A.tmp' to '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Items/BP_Item.uasset'
+[2025.08.14-17.21.09:440][288]LogFileHelpers: InternalPromptForCheckoutAndSave took 57.407 ms (total: 621.513 ms)
+[2025.08.14-17.21.09:463][288]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.14-17.21.09:463][288]LogContentValidation: Enabled validators:
+[2025.08.14-17.21.09:463][288]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.14-17.21.09:463][288]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.14-17.21.09:463][288]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.14-17.21.09:463][288]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.14-17.21.09:464][288]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.14-17.21.09:464][288]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.14-17.21.09:465][288]AssetCheck: /Game/Blueprints/Items/BP_Item Validating asset
+[2025.08.14-17.25.37:544][291]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 106598.382812
+[2025.08.14-17.25.37:780][298]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.14-17.25.37:780][298]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 106598.570312, Update Interval: 351.547607
+[2025.08.14-17.29.48:291][796]LogLiveCoding: Display: Starting Live Coding compile.
+[2025.08.14-17.30.02:073][192]LogLiveCoding: Display:    Creating library C:\Users\Usuario\Desktop\Unreal Engine + Unity\UE5_Slash_Project\Slash_Project\Binaries\Win64\UnrealEditor-Slash_Project.patch_16.lib and object C:\Users\Usuario\Desktop\Unreal Engine + Unity\UE5_Slash_Project\Slash_Project\Binaries\Win64\UnrealEditor-Slash_Project.patch_16.exp
+[2025.08.14-17.30.02:377][197]LogClass: UPackage /Script/Slash_Project Reload.
+[2025.08.14-17.30.02:377][197]LogClass: UClass Item Reload.
+[2025.08.14-17.30.02:378][197]LogClass: Could not find existing class Item in package /Script/Slash_Project for reload, assuming new or modified class
+[2025.08.14-17.30.02:378][197]LogClass: Function TransformedCos is new or belongs to a modified class.
+[2025.08.14-17.30.02:378][197]LogClass: Function TransformedSin is new or belongs to a modified class.
+[2025.08.14-17.30.02:393][197]Re-instancing Item after reload.
+[2025.08.14-17.30.02:551][197]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2025.08.14-17.30.03:307][198]Display: Reload/Re-instancing Complete: 1 package changed, 1 class changed
+[2025.08.14-17.30.03:307][198]LogLiveCoding: Warning: Live coding succeeded, data type changes may cause packaging to fail if assets reference the new or updated data types
+[2025.08.14-17.30.27:493][871]LogUObjectHash: Compacting FUObjectHashTables data took   6.01ms
+[2025.08.14-17.30.40:139][243]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2025.08.14-17.30.41:148][243]LogSlate: Window 'Save Content' being destroyed
+[2025.08.14-17.30.41:161][243]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.14-17.30.41:195][243]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Items/BP_Item] ([2] browsable assets)...
+[2025.08.14-17.30.41:195][243]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Items/BP_Item]
+[2025.08.14-17.30.41:206][243]LogSavePackage: Moving output files for package: /Game/Blueprints/Items/BP_Item
+[2025.08.14-17.30.41:207][243]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Saved/BP_ItemA34F62FD4A1670F2524FBD83E4086D8C.tmp' to '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Items/BP_Item.uasset'
+[2025.08.14-17.30.41:217][243]LogFileHelpers: InternalPromptForCheckoutAndSave took 57.545 ms (total: 679.058 ms)
+[2025.08.14-17.30.41:243][243]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.14-17.30.41:243][243]LogContentValidation: Enabled validators:
+[2025.08.14-17.30.41:243][243]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.14-17.30.41:243][243]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.14-17.30.41:243][243]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.14-17.30.41:243][243]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.14-17.30.41:243][243]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.14-17.30.41:243][243]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.14-17.30.41:245][243]AssetCheck: /Game/Blueprints/Items/BP_Item Validating asset
+[2025.08.14-17.30.44:272][334]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.08.14-17.30.44:325][334]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.14-17.30.44:335][334]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Minimal_Default_2
+[2025.08.14-17.30.44:394][334]LogPlayLevel: PIE: StaticDuplicateObject took: (0.059295s)
+[2025.08.14-17.30.44:395][334]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Minimal_Default_2.Minimal_Default_2 to /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 (0.059359s)
+[2025.08.14-17.30.44:419][334]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2025.08.14-17.30.44:430][334]LogChaosDD: Creating Chaos Debug Draw Scene for world Minimal_Default_2
+[2025.08.14-17.30.44:513][334]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2'.
+[2025.08.14-17.30.44:541][334]LogPlayLevel: PIE: World Init took: (0.112693s)
+[2025.08.14-17.30.44:565][334]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2025.08.14-17.30.44:567][334]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.14-17.30.44:567][334]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.14-17.30.44:568][334]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.14-17.30.44:568][334]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.14-17.30.44:568][334]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.14-17.30.44:568][334]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.14-17.30.44:568][334]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.14-17.30.44:568][334]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.14-17.30.44:568][334]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.14-17.30.44:568][334]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.14-17.30.44:568][334]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.14-17.30.44:574][334]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.14-17.30.44:596][334]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.08.14-17.30.44:599][334]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.14-17.30.44:599][334]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.14-17.30.44:599][334]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.14-17.30.44:600][334]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2025.08.14-17.30.44:600][334]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2025.08.14-17.30.44:603][334]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2025.08.14-17.30.44:603][334]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2025.08.14-17.30.44:604][334]LogInit: FAudioDevice initialized with ID 6.
+[2025.08.14-17.30.44:605][334]LogAudio: Display: Audio Device (ID: 6) registered with world 'Minimal_Default_2'.
+[2025.08.14-17.30.44:605][334]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2025.08.14-17.30.44:652][334]LogLoad: Game class is 'GameModeBase'
+[2025.08.14-17.30.44:683][334]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 up for play (max tick rate 0) at 2025.08.14-19.30.44
+[2025.08.14-17.30.44:687][334]LogWorld: Bringing up level for play took: 0.033106
+[2025.08.14-17.30.44:697][334]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2025.08.14-17.30.44:731][334]PIE: Server logged in
+[2025.08.14-17.30.44:732][334]PIE: Play in editor total start time 0.444 seconds.
+[2025.08.14-17.30.52:485][518]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.14-17.30.52:485][518]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Minimal_Default_2
+[2025.08.14-17.30.52:488][518]LogWorld: UWorld::CleanupWorld for Minimal_Default_2, bSessionEnded=true, bCleanupResources=true
+[2025.08.14-17.30.52:496][518]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.14-17.30.52:536][518]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.14-17.30.52:542][518]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.14-17.30.52:567][518]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.14-17.30.52:570][518]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2025.08.14-17.30.52:570][518]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2025.08.14-17.30.52:572][518]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2025.08.14-17.30.52:614][518]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2025.08.14-17.30.52:758][521]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2025.08.14-17.32.14:565][946]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 106976.507812
+[2025.08.14-17.32.14:830][954]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.14-17.32.14:830][954]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 106976.734375, Update Interval: 341.102936
