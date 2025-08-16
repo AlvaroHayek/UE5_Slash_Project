@@ -35,6 +35,9 @@
     <None Include="..\..\Config\DefaultInput.ini">
       <Filter>Config</Filter>
     </None>
+    <ClCompile Include="..\..\Source\Slash_Project\DebugMacros.h">
+      <Filter>Source\Slash_Project</Filter>
+    </ClCompile>
     <None Include="..\..\Source\Slash_Project\Slash_Project.Build.cs">
       <Filter>Source\Slash_Project</Filter>
     </None>
@@ -47,6 +50,9 @@
     <Filter Include="Source\Slash_Project\Private">
       <UniqueIdentifier>{A07B341A-CF6B-3E5A-B52B-B63F47BB4AC2}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\Slash_Project\Private\Bird.cpp">
+      <Filter>Source\Slash_Project\Private</Filter>
+    </ClCompile>
     <Filter Include="Source\Slash_Project\Private\Items">
       <UniqueIdentifier>{B5ABFF33-EF40-3A20-8924-52FD06A882A6}</UniqueIdentifier>
     </Filter>
@@ -56,6 +62,9 @@
     <Filter Include="Source\Slash_Project\Public">
       <UniqueIdentifier>{837A0832-DA3C-38A7-8503-42A05DA40DAC}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\Slash_Project\Public\Bird.h">
+      <Filter>Source\Slash_Project\Public</Filter>
+    </ClCompile>
     <Filter Include="Source\Slash_Project\Public\Items">
       <UniqueIdentifier>{71A1109C-7BB5-3049-A640-C7E6DBB3768D}</UniqueIdentifier>
     </Filter>
