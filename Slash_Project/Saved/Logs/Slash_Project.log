@@ -1544,3 +1544,53 @@ Make sure 'BP_Item_C' has been compiled for  Transformed Cos
 [2025.08.16-00.40.39:661][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
 [2025.08.16-00.40.39:703][ 95]Display: Reload/Re-instancing Complete: 1 package changed, 1 class new, 1 class changed
 [2025.08.16-00.40.39:703][ 95]LogLiveCoding: Warning: Live coding succeeded, data type changes may cause packaging to fail if assets reference the new or updated data types
+[2025.08.16-00.46.19:193][118]LogToolMenus: Warning: Menu item not found: 'Rename' for insert: 'BatchRenameObject'
+[2025.08.16-00.46.23:845][233]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 686.939026
+[2025.08.16-00.46.24:129][239]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.16-00.46.24:129][239]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 687.188965, Update Interval: 348.628815
+[2025.08.16-00.46.37:207][573]LogSlate: Window 'Add C++ Class' being destroyed
+[2025.08.16-00.47.00:282][159]LogLiveCoding: Display: Starting Live Coding compile.
+[2025.08.16-00.47.18:526][700]LogLiveCoding: Display:    Creating library C:\Users\Usuario\Desktop\Unreal Engine + Unity\UE5_Slash_Project\Slash_Project\Binaries\Win64\UnrealEditor-Slash_Project.patch_1.lib and object C:\Users\Usuario\Desktop\Unreal Engine + Unity\UE5_Slash_Project\Slash_Project\Binaries\Win64\UnrealEditor-Slash_Project.patch_1.exp
+[2025.08.16-00.47.19:301][705]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2025.08.16-00.47.19:356][706]Display: Reload/Re-instancing Complete: 1 package changed, 2 classes unchanged, 2 functions remapped
+[2025.08.16-00.47.19:356][706]LogLiveCoding: Display: Live coding succeeded
+[2025.08.16-00.47.28:079][907]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.08.16-00.47.28:172][907]LogContentBrowser: Creating deferred item: NewFolder
+[2025.08.16-00.47.28:237][908]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.08.16-00.47.30:406][974]LogContentBrowser: Attempting asset rename: NewFolder -> Pawns
+[2025.08.16-00.47.30:466][974]LogContentBrowser: End creating deferred item NewFolder
+[2025.08.16-00.47.39:720][178]LogEditorClassViewer: Warning: Class /Game/Clinic/Demo/FirstPersonBP/FirstPersonOverview.FirstPersonOverview_C has parent /Script/IntroTutorials.EditorTutorial, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.08.16-00.47.46:289][178]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.08.16-00.47.46:328][178]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.08.16-00.47.46:341][178]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.08.16-00.47.46:405][180]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.08.16-00.47.49:972][286]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Bird
+[2025.08.16-00.47.50:045][286]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.08.16-00.47.51:954][336]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Pawns/BP_Bird.BP_Bird
+[2025.08.16-00.47.51:990][336]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2025.08.16-00.47.52:058][336]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_5'.
+[2025.08.16-00.47.52:556][336]LogStreaming: Display: FlushAsyncLoading(347): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.16-00.48.31:718][201]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2025.08.16-00.48.31:720][201]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Minimal_Default_2' took 0.070
+[2025.08.16-00.48.31:728][201]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Pawns/BP_Bird] ([2] browsable assets)...
+[2025.08.16-00.48.31:729][201]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Pawns/BP_Bird]
+[2025.08.16-00.48.31:775][201]LogWorldPartition: Can't find class descriptor '/Game/Blueprints/Pawns/BP_Bird.BP_Bird_C' for saving '/Game/Blueprints/Pawns/BP_Bird.BP_Bird_C'
+[2025.08.16-00.48.31:777][201]LogWorldPartition: Can't find class descriptor '/Game/Blueprints/Pawns/BP_Bird.BP_Bird_C' for saving '/Game/Blueprints/Pawns/BP_Bird.BP_Bird_C'
+[2025.08.16-00.48.31:780][201]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Pawns/BP_Bird_Auto1
+[2025.08.16-00.48.31:780][201]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Saved/BP_Bird_Auto1B3C0FF204A3A3B380AEF46843632CA24.tmp' to '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Saved/Autosaves/Game/Blueprints/Pawns/BP_Bird_Auto1.uasset'
+[2025.08.16-00.48.31:799][201]LogFileHelpers: Auto-saving content packages took 0.079
+[2025.08.16-00.52.19:967][959]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1043.062866
+[2025.08.16-00.52.20:204][966]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.16-00.52.20:204][966]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1043.264893, Update Interval: 351.613525
+[2025.08.16-00.53.49:866][626]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2025.08.16-00.53.49:867][626]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2025.08.16-00.53.49:867][626]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Content/Developers/Usuario/Collections/' because it could not be accessed. Aborting watch request...
+[2025.08.16-00.58.19:878][688]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1402.973267
+[2025.08.16-00.58.20:149][696]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.16-00.58.20:149][697]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1403.209839, Update Interval: 325.201569
+[2025.08.16-01.04.02:287][903]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1745.384766
+[2025.08.16-01.04.02:520][910]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.16-01.04.02:520][911]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1745.585083, Update Interval: 344.210327
+[2025.08.16-01.10.22:066][ 34]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2125.169189
+[2025.08.16-01.10.23:190][ 40]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.16-01.10.23:190][ 40]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2126.278320, Update Interval: 331.231415
