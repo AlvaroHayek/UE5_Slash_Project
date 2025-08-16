@@ -1695,3 +1695,11 @@ Make sure 'BP_Item_C' has been compiled for  Transformed Cos
 [2025.08.16-01.12.08:095][746]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 2 outstanding Http Requests:
 [2025.08.16-01.12.08:095][746]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD24D3276-465E-8C40-966C-E49B77BD0C9E%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.3-39772772%2B%2B%2BUE5%2BRelease-5.5&UserID=9ffb585a415f8b5ea3099583a3a7266d%7C8558b0f0649c41fd8c81a81c61794009%7C7a8c91b2-78e4-4ba2-9615-51435d5b763c&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
 [2025.08.16-01.12.08:095][746]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD24D3276-465E-8C40-966C-E49B77BD0C9E%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.3-39772772%2B%2B%2BUE5%2BRelease-5.5&UserID=9ffb585a415f8b5ea3099583a3a7266d%7C8558b0f0649c41fd8c81a81c61794009%7C7a8c91b2-78e4-4ba2-9615-51435d5b763c&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.08.16-01.12.10:243][746]LogEOSSDK: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.08.16-01.12.10:257][746]LogXGEController: Cleaning working directory: C:/Users/Usuario/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2025.08.16-01.12.10:320][746]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.08.16-01.12.10:320][746]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.08.16-01.12.10:323][746]LogPakFile: Destroying PakPlatformFile
+[2025.08.16-01.12.11:447][746]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.08.16-01.12.11:537][746]LogExit: Exiting.
+[2025.08.16-01.12.11:607][746]Log file closed, 08/16/25 03:12:11
