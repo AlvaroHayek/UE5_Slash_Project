@@ -5,7 +5,7 @@
 ===========================================================================*/
 
 #include "UObject/GeneratedCppIncludes.h"
-#include "Slash_Project/Public/Bird.h"
+#include "Slash_Project/Public/Pawns/Bird.h"
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
 void EmptyLinkFunctionForGeneratedCodeBird() {}
 
@@ -30,8 +30,8 @@ struct Z_Construct_UClass_ABird_Statics
 #if WITH_METADATA
 	static constexpr UECodeGen_Private::FMetaDataPairParam Class_MetaDataParams[] = {
 		{ "HideCategories", "Navigation" },
-		{ "IncludePath", "Bird.h" },
-		{ "ModuleRelativePath", "Public/Bird.h" },
+		{ "IncludePath", "Pawns/Bird.h" },
+		{ "ModuleRelativePath", "Public/Pawns/Bird.h" },
 	};
 #endif // WITH_METADATA
 	static UObject* (*const DependentSingletons[])();
@@ -77,14 +77,14 @@ ABird::~ABird() {}
 // End Class ABird
 
 // Begin Registration
-struct Z_CompiledInDeferFile_FID_Users_Usuario_Desktop_Unreal_Engine___Unity_UE5_Slash_Project_Slash_Project_Source_Slash_Project_Public_Bird_h_Statics
+struct Z_CompiledInDeferFile_FID_Users_Usuario_Desktop_Unreal_Engine___Unity_UE5_Slash_Project_Slash_Project_Source_Slash_Project_Public_Pawns_Bird_h_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
-		{ Z_Construct_UClass_ABird, ABird::StaticClass, TEXT("ABird"), &Z_Registration_Info_UClass_ABird, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(ABird), 1052104881U) },
+		{ Z_Construct_UClass_ABird, ABird::StaticClass, TEXT("ABird"), &Z_Registration_Info_UClass_ABird, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(ABird), 1638964027U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_Usuario_Desktop_Unreal_Engine___Unity_UE5_Slash_Project_Slash_Project_Source_Slash_Project_Public_Bird_h_437522279(TEXT("/Script/Slash_Project"),
-	Z_CompiledInDeferFile_FID_Users_Usuario_Desktop_Unreal_Engine___Unity_UE5_Slash_Project_Slash_Project_Source_Slash_Project_Public_Bird_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_Usuario_Desktop_Unreal_Engine___Unity_UE5_Slash_Project_Slash_Project_Source_Slash_Project_Public_Bird_h_Statics::ClassInfo),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_Usuario_Desktop_Unreal_Engine___Unity_UE5_Slash_Project_Slash_Project_Source_Slash_Project_Public_Pawns_Bird_h_681517716(TEXT("/Script/Slash_Project"),
+	Z_CompiledInDeferFile_FID_Users_Usuario_Desktop_Unreal_Engine___Unity_UE5_Slash_Project_Slash_Project_Source_Slash_Project_Public_Pawns_Bird_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_Usuario_Desktop_Unreal_Engine___Unity_UE5_Slash_Project_Slash_Project_Source_Slash_Project_Public_Pawns_Bird_h_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
 // End Registration

@@ -50,26 +50,32 @@
     <Filter Include="Source\Slash_Project\Private">
       <UniqueIdentifier>{A07B341A-CF6B-3E5A-B52B-B63F47BB4AC2}</UniqueIdentifier>
     </Filter>
-    <ClCompile Include="..\..\Source\Slash_Project\Private\Bird.cpp">
-      <Filter>Source\Slash_Project\Private</Filter>
-    </ClCompile>
     <Filter Include="Source\Slash_Project\Private\Items">
       <UniqueIdentifier>{B5ABFF33-EF40-3A20-8924-52FD06A882A6}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\Slash_Project\Private\Items\Item.cpp">
       <Filter>Source\Slash_Project\Private\Items</Filter>
     </ClCompile>
+    <Filter Include="Source\Slash_Project\Private\Pawns">
+      <UniqueIdentifier>{50DF1310-4A8B-35D2-8DDA-B3ECF89C8DC3}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Slash_Project\Private\Pawns\Bird.cpp">
+      <Filter>Source\Slash_Project\Private\Pawns</Filter>
+    </ClCompile>
     <Filter Include="Source\Slash_Project\Public">
       <UniqueIdentifier>{837A0832-DA3C-38A7-8503-42A05DA40DAC}</UniqueIdentifier>
     </Filter>
-    <ClCompile Include="..\..\Source\Slash_Project\Public\Bird.h">
-      <Filter>Source\Slash_Project\Public</Filter>
-    </ClCompile>
     <Filter Include="Source\Slash_Project\Public\Items">
       <UniqueIdentifier>{71A1109C-7BB5-3049-A640-C7E6DBB3768D}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\Slash_Project\Public\Items\Item.h">
       <Filter>Source\Slash_Project\Public\Items</Filter>
+    </ClCompile>
+    <Filter Include="Source\Slash_Project\Public\Pawns">
+      <UniqueIdentifier>{A896E7D2-938F-347F-80FB-1ED651ADE5F0}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Slash_Project\Public\Pawns\Bird.h">
+      <Filter>Source\Slash_Project\Public\Pawns</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

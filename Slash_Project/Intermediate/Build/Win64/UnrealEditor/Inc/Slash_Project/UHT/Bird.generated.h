@@ -4,7 +4,7 @@
 	DO NOT modify this manually! Edit the corresponding .h files instead!
 ===========================================================================*/
 
-// IWYU pragma: private, include "Bird.h"
+// IWYU pragma: private, include "Pawns/Bird.h"
 #include "UObject/ObjectMacros.h"
 #include "UObject/ScriptMacros.h"
 
@@ -14,7 +14,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define SLASH_PROJECT_Bird_generated_h
 
-#define FID_Users_Usuario_Desktop_Unreal_Engine___Unity_UE5_Slash_Project_Slash_Project_Source_Slash_Project_Public_Bird_h_12_INCLASS_NO_PURE_DECLS \
+#define FID_Users_Usuario_Desktop_Unreal_Engine___Unity_UE5_Slash_Project_Slash_Project_Source_Slash_Project_Public_Pawns_Bird_h_12_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesABird(); \
 	friend struct Z_Construct_UClass_ABird_Statics; \
@@ -23,7 +23,7 @@ public: \
 	DECLARE_SERIALIZER(ABird)
 
 
-#define FID_Users_Usuario_Desktop_Unreal_Engine___Unity_UE5_Slash_Project_Slash_Project_Source_Slash_Project_Public_Bird_h_12_ENHANCED_CONSTRUCTORS \
+#define FID_Users_Usuario_Desktop_Unreal_Engine___Unity_UE5_Slash_Project_Slash_Project_Source_Slash_Project_Public_Pawns_Bird_h_12_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	ABird(ABird&&); \
@@ -35,12 +35,12 @@ public: \
 	NO_API virtual ~ABird();
 
 
-#define FID_Users_Usuario_Desktop_Unreal_Engine___Unity_UE5_Slash_Project_Slash_Project_Source_Slash_Project_Public_Bird_h_9_PROLOG
-#define FID_Users_Usuario_Desktop_Unreal_Engine___Unity_UE5_Slash_Project_Slash_Project_Source_Slash_Project_Public_Bird_h_12_GENERATED_BODY \
+#define FID_Users_Usuario_Desktop_Unreal_Engine___Unity_UE5_Slash_Project_Slash_Project_Source_Slash_Project_Public_Pawns_Bird_h_9_PROLOG
+#define FID_Users_Usuario_Desktop_Unreal_Engine___Unity_UE5_Slash_Project_Slash_Project_Source_Slash_Project_Public_Pawns_Bird_h_12_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_Users_Usuario_Desktop_Unreal_Engine___Unity_UE5_Slash_Project_Slash_Project_Source_Slash_Project_Public_Bird_h_12_INCLASS_NO_PURE_DECLS \
-	FID_Users_Usuario_Desktop_Unreal_Engine___Unity_UE5_Slash_Project_Slash_Project_Source_Slash_Project_Public_Bird_h_12_ENHANCED_CONSTRUCTORS \
+	FID_Users_Usuario_Desktop_Unreal_Engine___Unity_UE5_Slash_Project_Slash_Project_Source_Slash_Project_Public_Pawns_Bird_h_12_INCLASS_NO_PURE_DECLS \
+	FID_Users_Usuario_Desktop_Unreal_Engine___Unity_UE5_Slash_Project_Slash_Project_Source_Slash_Project_Public_Pawns_Bird_h_12_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -48,7 +48,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> SLASH_PROJECT_API UClass* StaticClass<class ABird>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_Users_Usuario_Desktop_Unreal_Engine___Unity_UE5_Slash_Project_Slash_Project_Source_Slash_Project_Public_Bird_h
+#define CURRENT_FILE_ID FID_Users_Usuario_Desktop_Unreal_Engine___Unity_UE5_Slash_Project_Slash_Project_Source_Slash_Project_Public_Pawns_Bird_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
