@@ -1392,3 +1392,160 @@ Make sure 'BP_Item_C' has been compiled for  Transformed Cos
 [2025.08.17-23.33.31:296][411]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2025.08.17-23.33.31:418][411]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
 [2025.08.17-23.33.45:782][839]LogLiveCoding: Display: Starting Live Coding compile.
+[2025.08.17-23.34.14:681][651]LogLiveCoding: Display:    Creating library C:\Users\Usuario\Desktop\Unreal Engine + Unity\UE5_Slash_Project\Slash_Project\Binaries\Win64\UnrealEditor-Slash_Project.patch_0.lib and object C:\Users\Usuario\Desktop\Unreal Engine + Unity\UE5_Slash_Project\Slash_Project\Binaries\Win64\UnrealEditor-Slash_Project.patch_0.exp
+[2025.08.17-23.34.14:895][653]LogClass: UPackage /Script/Slash_Project Reload.
+[2025.08.17-23.34.14:895][653]LogClass: UClass Item Reload.
+[2025.08.17-23.34.14:895][653]LogClass: Could not find existing class Item in package /Script/Slash_Project for reload, assuming new or modified class
+[2025.08.17-23.34.14:895][653]LogClass: Function TransformedCos is new or belongs to a modified class.
+[2025.08.17-23.34.14:895][653]LogClass: Function TransformedSin is new or belongs to a modified class.
+[2025.08.17-23.34.14:895][653]LogClass: Could not find existing class Bird in package /Script/Slash_Project for reload, assuming new or modified class
+[2025.08.17-23.34.14:918][653]Re-instancing Item after reload.
+[2025.08.17-23.34.15:075][653]LogBlueprint: Warning: Blueprint /Game/Blueprints/Pawns/BP_Bird is missing GeneratedClass asset tag
+[2025.08.17-23.34.15:131][653]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2025.08.17-23.34.15:924][654]Display: Reload/Re-instancing Complete: 1 package changed, 1 class new, 1 class changed
+[2025.08.17-23.34.15:924][654]LogLiveCoding: Warning: Live coding succeeded, data type changes may cause packaging to fail if assets reference the new or updated data types
+[2025.08.17-23.34.26:577][886]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.17-23.34.26:584][886]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.17-23.34.26:593][886]LogAutomationController: Ignoring very large delta of 2.50 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.08.17-23.34.26:600][887]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.17-23.34.26:606][887]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.17-23.34.26:634][888]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.17-23.34.26:641][888]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.17-23.34.26:666][889]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.17-23.34.26:672][889]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.17-23.34.26:699][890]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.17-23.34.26:705][890]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.17-23.34.26:731][891]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.17-23.34.26:738][891]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.17-23.34.26:765][892]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.17-23.34.26:771][892]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.17-23.34.26:798][893]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.17-23.34.26:803][893]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.17-23.34.26:831][894]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.17-23.34.26:837][894]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.17-23.34.27:247][895]LogDerivedDataCache: C:/Users/Usuario/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.001 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.08.17-23.34.50:029][895]LogAutomationController: Ignoring very large delta of 23.18 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.08.17-23.35.19:283][758]LogContentBrowserAssetDataSource: Warning: Unable to convert short ParentClass name "None" to path name
+[2025.08.17-23.35.20:441][792]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Pawns/BP_Bird.BP_Bird
+[2025.08.17-23.35.21:895][792]LogSlate: Window 'Message' being destroyed
+[2025.08.17-23.35.21:902][792]Message dialog closed, result: Yes, title: Message, text: Blueprint could not be loaded because it derives from an invalid class.  Check to make sure the parent class for this blueprint hasn't been removed! Do you want to continue (it can crash the editor)?
+[2025.08.17-23.35.21:902][792]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
+[2025.08.17-23.35.21:903][792]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_1'.
+[2025.08.17-23.35.22:435][792]LogAutomationController: Ignoring very large delta of 2.02 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.08.17-23.35.25:241][873]LogBlueprint: Error: [AssetLog] C:\Users\Usuario\Desktop\Unreal Engine + Unity\UE5_Slash_Project\Slash_Project\Content\Blueprints\Pawns\BP_Bird.uasset: [Compiler] Blueprint  BP_Bird  has missing or NULL parent class.
+[2025.08.17-23.35.25:342][873]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2025.08.17-23.35.25:390][873]LogContentBrowserAssetDataSource: Warning: Unable to convert short ParentClass name "None" to path name
+[2025.08.17-23.35.25:391][873]LogContentBrowserAssetDataSource: Warning: Unable to convert short ParentClass name "None" to path name
+[2025.08.17-23.35.27:440][935]LogSlate: Window 'BP_Bird' being destroyed
+[2025.08.17-23.35.27:448][935]LogSlate: Window 'BP_Bird' being destroyed
+[2025.08.17-23.35.27:453][935]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.08.17-23.35.27:453][935]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.17-23.35.27:549][935]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2025.08.17-23.35.31:586][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2025.08.17-23.35.32:794][ 48]LogSlate: Window 'Delete Assets' being destroyed
+[2025.08.17-23.35.32:923][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2025.08.17-23.35.32:944][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2025.08.17-23.35.32:965][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.08.17-23.35.35:469][116]LogEditorClassViewer: Warning: Class /Game/Clinic/Demo/FirstPersonBP/FirstPersonOverview.FirstPersonOverview_C has parent /Script/IntroTutorials.EditorTutorial, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.08.17-23.35.43:375][116]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.08.17-23.35.43:437][116]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.08.17-23.35.43:451][116]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.08.17-23.35.43:454][116]LogAutomationController: Ignoring very large delta of 8.05 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.08.17-23.35.43:506][118]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.08.17-23.35.47:042][224]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Bird
+[2025.08.17-23.35.47:105][224]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.08.17-23.35.49:867][304]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2025.08.17-23.35.50:729][304]LogSlate: Window 'Save Content' being destroyed
+[2025.08.17-23.35.50:743][304]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.17-23.35.50:782][304]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Pawns/BP_Bird] ([2] browsable assets)...
+[2025.08.17-23.35.50:782][304]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Pawns/BP_Bird]
+[2025.08.17-23.35.50:818][304]LogWorldPartition: Can't find class descriptor '/Game/Blueprints/Pawns/BP_Bird.BP_Bird_C' for saving '/Game/Blueprints/Pawns/BP_Bird.BP_Bird_C'
+[2025.08.17-23.35.50:818][304]LogWorldPartition: Can't find class descriptor '/Game/Blueprints/Pawns/BP_Bird.BP_Bird_C' for saving '/Game/Blueprints/Pawns/BP_Bird.BP_Bird_C'
+[2025.08.17-23.35.50:819][304]LogSavePackage: Moving output files for package: /Game/Blueprints/Pawns/BP_Bird
+[2025.08.17-23.35.50:819][304]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Saved/BP_BirdC0A40B3E41224D8B83C1B5B4608F7B96.tmp' to '../../../../../../Users/Usuario/Desktop/Unreal Engine + Unity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Pawns/BP_Bird.uasset'
+[2025.08.17-23.35.50:845][304]LogFileHelpers: InternalPromptForCheckoutAndSave took 102.614 ms
+[2025.08.17-23.35.50:888][304]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.17-23.35.50:888][304]LogContentValidation: Enabled validators:
+[2025.08.17-23.35.50:888][304]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.17-23.35.50:888][304]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.17-23.35.50:888][304]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.17-23.35.50:888][304]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.17-23.35.50:889][304]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.17-23.35.50:889][304]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.17-23.35.50:890][304]AssetCheck: /Game/Blueprints/Pawns/BP_Bird Validating asset
+[2025.08.17-23.35.52:009][338]LogLiveCoding: Display: Starting Live Coding compile.
+[2025.08.17-23.36.08:461][821]LogLiveCoding: Display:    Creating library C:\Users\Usuario\Desktop\Unreal Engine + Unity\UE5_Slash_Project\Slash_Project\Binaries\Win64\UnrealEditor-Slash_Project.patch_1.lib and object C:\Users\Usuario\Desktop\Unreal Engine + Unity\UE5_Slash_Project\Slash_Project\Binaries\Win64\UnrealEditor-Slash_Project.patch_1.exp
+[2025.08.17-23.36.08:989][826]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2025.08.17-23.36.09:672][827]Display: Reload/Re-instancing Complete: 1 package changed, 2 classes unchanged, 2 functions remapped
+[2025.08.17-23.36.09:672][827]LogLiveCoding: Display: Live coding succeeded
+[2025.08.17-23.36.12:985][924]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Pawns/BP_Bird.BP_Bird
+[2025.08.17-23.36.12:985][924]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2025.08.17-23.36.12:986][924]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_2'.
+[2025.08.17-23.36.13:121][924]LogStreaming: Display: FlushAsyncLoading(530): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.17-23.36.20:423][115]LogSlate: Window 'BP_Bird' being destroyed
+[2025.08.17-23.36.20:431][115]LogSlate: Window 'BP_Bird' being destroyed
+[2025.08.17-23.36.20:437][115]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.08.17-23.36.20:437][115]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.17-23.36.20:600][115]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2025.08.17-23.36.21:630][145]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2025.08.17-23.36.21:728][145]LogStall: Shutdown...
+[2025.08.17-23.36.21:729][145]LogStall: Shutdown complete.
+[2025.08.17-23.36.21:802][145]LogSlate: Window 'Slash_Project - Unreal Editor' being destroyed
+[2025.08.17-23.36.21:915][145]Cmd: QUIT_EDITOR
+[2025.08.17-23.36.21:915][146]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.08.17-23.36.21:927][146]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.08.17-23.36.21:928][146]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.08.17-23.36.21:929][146]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.08.17-23.36.21:962][146]LogWorld: UWorld::CleanupWorld for SlashOpenWorld, bSessionEnded=true, bCleanupResources=true
+[2025.08.17-23.36.21:963][146]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.17-23.36.21:965][146]LogWorld: UWorld::CleanupWorld for Clinic, bSessionEnded=true, bCleanupResources=true
+[2025.08.17-23.36.21:965][146]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.17-23.36.21:997][146]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.08.17-23.36.22:010][146]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.08.17-23.36.22:042][146]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.08.17-23.36.22:055][146]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2025.08.17-23.36.22:055][146]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2025.08.17-23.36.22:055][146]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2025.08.17-23.36.22:062][146]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.08.17-23.36.22:062][146]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.08.17-23.36.22:062][146]LogAudio: Display: Audio Device unregistered from world 'SlashOpenWorld'.
+[2025.08.17-23.36.22:063][146]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.08.17-23.36.22:066][146]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.08.17-23.36.22:069][146]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.08.17-23.36.22:080][146]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.08.17-23.36.22:080][146]LogAudio: Display: Audio Device Manager Shutdown
+[2025.08.17-23.36.22:082][146]LogWindowsTextInputMethodSystem: Activated input method: Español (España, internacional) - (Keyboard).
+[2025.08.17-23.36.22:086][146]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.08.17-23.36.22:087][146]LogExit: Preparing to exit.
+[2025.08.17-23.36.22:183][146]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.08.17-23.36.22:189][146]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.08.17-23.36.22:189][146]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.08.17-23.36.22:189][146]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.08.17-23.36.22:189][146]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.08.17-23.36.22:189][146]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.08.17-23.36.22:189][146]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.08.17-23.36.22:189][146]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.08.17-23.36.22:673][146]LogEditorDataStorage: Deinitializing
+[2025.08.17-23.36.22:964][146]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.08.17-23.36.23:041][146]LogExit: Editor shut down
+[2025.08.17-23.36.23:046][146]LogExit: Transaction tracking system shut down
+[2025.08.17-23.36.23:584][146]LogExit: Object subsystem successfully closed.
+[2025.08.17-23.36.23:702][146]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.08.17-23.36.24:757][146]LogMemoryProfiler: Shutdown
+[2025.08.17-23.36.24:760][146]LogNetworkingProfiler: Shutdown
+[2025.08.17-23.36.24:760][146]LoadingProfiler: Shutdown
+[2025.08.17-23.36.24:762][146]LogTimingProfiler: Shutdown
+[2025.08.17-23.36.25:262][146]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.08.17-23.36.25:305][146]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.08.17-23.36.25:306][146]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6B48E410-43E8-AEA7-1AF9-928F8E121234%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.3-39772772%2B%2B%2BUE5%2BRelease-5.5&UserID=9ffb585a415f8b5ea3099583a3a7266d%7C8558b0f0649c41fd8c81a81c61794009%7C7a8c91b2-78e4-4ba2-9615-51435d5b763c&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.08.17-23.36.25:879][146]LogEOSSDK: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.08.17-23.36.25:889][146]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2025.08.17-23.36.25:889][146]LogNFORDenoise: NFORDenoise function shutting down
+[2025.08.17-23.36.25:896][146]RenderDocPlugin: plugin has been unloaded.
+[2025.08.17-23.36.25:908][146]LogXGEController: Cleaning working directory: C:/Users/Usuario/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2025.08.17-23.36.25:921][146]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.08.17-23.36.25:921][146]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.08.17-23.36.25:921][146]LogPakFile: Destroying PakPlatformFile
+[2025.08.17-23.36.26:169][146]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.08.17-23.36.26:215][146]LogExit: Exiting.
+[2025.08.17-23.36.26:239][146]Log file closed, 08/18/25 01:36:26
