@@ -11,5 +11,6 @@ public class Slash_ProjectEditorTarget : TargetRules
 		DefaultBuildSettings = BuildSettingsVersion.V5;
 
 		ExtraModuleNames.AddRange( new string[] { "Slash_Project" } );
-	}
+
+    }
 }

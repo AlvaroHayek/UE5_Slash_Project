@@ -1452,3 +1452,34 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.08.19-21.34.06:805][193]LogAutomationController: Ignoring very large delta of 2.40 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
 [2025.08.19-21.34.33:279][664]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
 [2025.08.19-21.34.33:289][664]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.19-21.34.44:329][665]LogAutomationController: Ignoring very large delta of 11.02 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.08.19-21.34.45:628][693]LogDerivedDataCache: C:/Users/Usuario/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.002 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.08.19-21.37.16:935][169]LogLiveCoding: Display: Starting Live Coding compile.
+[2025.08.19-21.37.21:261][282]Display: Reload/Re-instancing Complete: No object changes detected
+[2025.08.19-21.37.21:261][282]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2025.08.19-21.37.38:574][688]LogSlate: Window 'BP_Bird' being destroyed
+[2025.08.19-21.37.38:627][688]LogSlate: Window 'BP_Bird' being destroyed
+[2025.08.19-21.37.38:637][688]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.08.19-21.37.38:637][688]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.19-21.37.38:737][688]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2025.08.19-21.37.41:020][747]LogLiveCoding: Display: Starting Live Coding compile.
+[2025.08.19-21.37.42:948][791]Display: Reload/Re-instancing Complete: No object changes detected
+[2025.08.19-21.37.42:948][791]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2025.08.19-21.38.27:150][109]LogLiveCoding: Display: Starting Live Coding compile.
+[2025.08.19-21.38.30:323][203]Display: Reload/Re-instancing Complete: No object changes detected
+[2025.08.19-21.38.30:323][203]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2025.08.19-21.39.26:077][862]LogLiveCoding: Display: Starting Live Coding compile.
+[2025.08.19-21.39.28:507][898]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 353.464844
+[2025.08.19-21.39.28:907][904]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.19-21.39.28:907][904]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 353.798187, Update Interval: 338.848846
+[2025.08.19-21.39.29:141][910]Display: Reload/Re-instancing Complete: No object changes detected
+[2025.08.19-21.39.29:141][910]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2025.08.19-21.43.34:797][256]LogLiveCoding: Display: Starting Live Coding compile.
+[2025.08.19-21.43.54:815][841]Display: Reload/Re-instancing Complete: No object changes detected
+[2025.08.19-21.43.54:815][841]LogLiveCoding: Display: Live coding succeeded, no code changes detected
+[2025.08.19-21.45.10:923][119]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 695.880676
+[2025.08.19-21.45.11:155][126]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.19-21.45.11:155][127]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 696.080017, Update Interval: 318.254333
+[2025.08.19-21.46.06:977][677]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Pawns/BP_Bird.BP_Bird
+[2025.08.19-21.46.06:980][677]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2025.08.19-21.46.06:982][677]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_2'.
