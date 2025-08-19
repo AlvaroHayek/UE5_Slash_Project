@@ -14,7 +14,8 @@ void ABird::BeginPlay()
 {
 	Super::BeginPlay();
 	
-
+	Capsule = CreateDefaultSubobject<UCapsuleComponent>(TEXT("Capsule"));
+	SetRootComponent(Capsule);
 
 }
 
