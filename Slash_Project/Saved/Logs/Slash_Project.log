@@ -1483,3 +1483,21 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.08.19-21.46.06:977][677]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Pawns/BP_Bird.BP_Bird
 [2025.08.19-21.46.06:980][677]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
 [2025.08.19-21.46.06:982][677]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_2'.
+[2025.08.19-21.46.47:449][707]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2025.08.19-21.46.48:967][707]LogSlate: Window 'Save Content' being destroyed
+[2025.08.19-21.46.49:088][707]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.19-21.46.49:171][707]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Pawns/BP_Bird] ([2] browsable assets)...
+[2025.08.19-21.46.49:172][707]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Pawns/BP_Bird]
+[2025.08.19-21.46.49:248][707]LogSavePackage: Moving output files for package: /Game/Blueprints/Pawns/BP_Bird
+[2025.08.19-21.46.49:250][707]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/BP_Bird8CD076414DC1D1B37A0C359C70277648.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Pawns/BP_Bird.uasset'
+[2025.08.19-21.46.49:352][707]LogFileHelpers: InternalPromptForCheckoutAndSave took 263.850 ms
+[2025.08.19-21.46.49:418][707]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.19-21.46.49:418][707]LogContentValidation: Enabled validators:
+[2025.08.19-21.46.49:419][707]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.19-21.46.49:419][707]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.19-21.46.49:419][707]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.19-21.46.49:419][707]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.19-21.46.49:420][707]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.19-21.46.49:420][707]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.19-21.46.49:421][707]AssetCheck: /Game/Blueprints/Pawns/BP_Bird Validating asset
+[2025.08.19-21.46.49:494][707]LogAutomationController: Ignoring very large delta of 2.16 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
