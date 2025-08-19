@@ -14,6 +14,8 @@ void ABird::BeginPlay()
 {
 	Super::BeginPlay();
 	
+
+
 }
 
 void ABird::Tick(float DeltaTime)
