@@ -2012,3 +2012,87 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.08.20-21.51.47:440][691]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 87189.242188, Update Interval: 337.482849
 [2025.08.20-21.51.54:053][826]LogAutomationController: Ignoring very large delta of 2.13 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
 [2025.08.20-21.51.56:062][880]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.08.20-21.58.05:659][909]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 87548.546875
+[2025.08.20-21.58.05:926][917]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.20-21.58.05:926][918]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 87548.765625, Update Interval: 314.659882
+[2025.08.20-22.01.13:530][485]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.08.20-22.01.13:594][485]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.20-22.01.13:597][485]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Minimal_Default_2
+[2025.08.20-22.01.13:611][485]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013849s)
+[2025.08.20-22.01.13:611][485]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Minimal_Default_2.Minimal_Default_2 to /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 (0.013928s)
+[2025.08.20-22.01.13:644][485]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2025.08.20-22.01.13:646][485]LogChaosDD: Creating Chaos Debug Draw Scene for world Minimal_Default_2
+[2025.08.20-22.01.13:650][485]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2'.
+[2025.08.20-22.01.13:654][485]LogPlayLevel: PIE: World Init took: (0.007981s)
+[2025.08.20-22.01.13:658][485]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2025.08.20-22.01.13:658][485]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.20-22.01.13:658][485]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.20-22.01.13:659][485]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.20-22.01.13:659][485]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.20-22.01.13:659][485]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.20-22.01.13:659][485]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.20-22.01.13:659][485]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.20-22.01.13:659][485]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.20-22.01.13:659][485]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.20-22.01.13:659][485]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.20-22.01.13:659][485]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.20-22.01.13:663][485]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.20-22.01.13:685][485]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.08.20-22.01.13:686][485]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.20-22.01.13:686][485]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.20-22.01.13:686][485]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.20-22.01.13:689][485]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2025.08.20-22.01.13:689][485]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2025.08.20-22.01.13:693][485]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2025.08.20-22.01.13:693][485]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2025.08.20-22.01.13:693][485]LogInit: FAudioDevice initialized with ID 3.
+[2025.08.20-22.01.13:693][485]LogAudio: Display: Audio Device (ID: 3) registered with world 'Minimal_Default_2'.
+[2025.08.20-22.01.13:693][485]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2025.08.20-22.01.13:699][485]LogLoad: Game class is 'GameModeBase'
+[2025.08.20-22.01.13:703][485]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 up for play (max tick rate 0) at 2025.08.21-00.01.13
+[2025.08.20-22.01.13:705][485]LogWorld: Bringing up level for play took: 0.004025
+[2025.08.20-22.01.13:711][485]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2025.08.20-22.01.13:716][485]PIE: Server logged in
+[2025.08.20-22.01.13:717][485]PIE: Play in editor total start time 0.13 seconds.
+[2025.08.20-22.01.25:247][792]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.20-22.01.25:247][792]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Minimal_Default_2
+[2025.08.20-22.01.25:247][792]LogWorld: UWorld::CleanupWorld for Minimal_Default_2, bSessionEnded=true, bCleanupResources=true
+[2025.08.20-22.01.25:248][792]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.20-22.01.25:257][792]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.20-22.01.25:264][792]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.20-22.01.25:292][792]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.08.20-22.01.25:292][792]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2025.08.20-22.01.25:292][792]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.08.20-22.01.25:295][792]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.08.20-22.01.25:302][792]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.20-22.01.25:307][792]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2025.08.20-22.01.25:563][795]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2025.08.20-22.02.39:846][704]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2025.08.20-22.02.39:865][704]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Minimal_Default_2_Auto3
+[2025.08.20-22.02.39:865][704]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Minimal_Default_2_Auto3E95FE2734AC49E30C33CB2A09B8AE194.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Autosaves/Game/Maps/Minimal_Default_2_Auto3.umap'
+[2025.08.20-22.02.39:871][704]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Minimal_Default_2' took 0.057
+[2025.08.20-22.02.39:871][704]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.057
+[2025.08.20-22.04.17:341][619]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 87905.562500
+[2025.08.20-22.04.17:575][626]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.20-22.04.17:575][626]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 87905.757812, Update Interval: 331.225922
+[2025.08.20-22.07.32:409][331]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.20-22.07.32:426][332]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.20-22.07.32:437][332]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.20-22.07.32:457][333]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.20-22.07.32:467][333]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.20-22.07.32:490][334]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.20-22.07.32:502][334]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.20-22.07.32:523][335]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.20-22.07.32:531][335]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.20-22.07.32:557][336]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.20-22.07.32:565][336]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.20-22.07.32:589][337]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.20-22.07.32:596][337]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.20-22.07.45:996][338]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.20-22.07.51:335][338]LogAutomationController: Ignoring very large delta of 18.73 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.08.20-22.10.37:664][291]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 88272.195312
+[2025.08.20-22.10.37:902][299]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.20-22.10.37:902][299]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 88272.406250, Update Interval: 344.492310
+[2025.08.20-22.17.10:840][970]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 88650.945312
+[2025.08.20-22.17.11:406][987]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.20-22.17.11:406][987]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 88651.453125, Update Interval: 316.798615
