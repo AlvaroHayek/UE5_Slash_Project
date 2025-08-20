@@ -1626,3 +1626,389 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.08.20-17.31.48:812][804]LogUObjectHash: Compacting FUObjectHashTables data took  18.54ms
 [2025.08.20-17.31.49:422][805]Display: Reload/Re-instancing Complete: 1 class unchanged
 [2025.08.20-17.31.49:422][805]LogLiveCoding: Display: Live coding succeeded
+[2025.08.20-17.36.52:535][873]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 72024.265625
+[2025.08.20-17.36.52:804][881]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.20-17.36.52:804][882]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 72024.484375, Update Interval: 333.304230
+[2025.08.20-17.41.39:286][445]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SkeletalMesh_64.svg'. File could not be found
+[2025.08.20-17.41.40:530][478]LogStreaming: Display: FlushAsyncLoading(533): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.20-17.41.40:728][478]LogTexture: Display: Building textures: /Game/AnimalVarietyPack/Crow/Textures/T_Crow_Specular.T_Crow_Specular (TFO_AutoDXT, 32x32 x1x1x1) (Required Memory Estimate: 1.16142 MB), EncodeSpeed: Fast
+[2025.08.20-17.41.40:852][478]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/AnimalVarietyPack/Crow/Meshes/SK_Crow.SK_Crow
+[2025.08.20-17.41.40:872][478]LogTexture: Display: Building textures: /Game/AnimalVarietyPack/Crow/Textures/T_Crow_OcclusionRoughnessMetallic.T_Crow_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2025.08.20-17.41.40:893][478]LogTexture: Display: Building textures: /Game/AnimalVarietyPack/Crow/Textures/T_Crow_BaseColor.T_Crow_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2025.08.20-17.41.40:915][478]LogSkeletalMesh: Building Skeletal Mesh SK_Crow...
+[2025.08.20-17.41.40:918][478]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SK_Crow) ...
+[2025.08.20-17.41.40:946][478]LogTexture: Display: Building textures: /Game/AnimalVarietyPack/Crow/Textures/T_Crow_Nml.T_Crow_Nml (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 337.499988 MB), EncodeSpeed: Fast
+[2025.08.20-17.41.41:057][478]LogSkeletalMesh: Built Skeletal Mesh [0.15s] /Game/AnimalVarietyPack/Crow/Meshes/SK_Crow.SK_Crow
+[2025.08.20-17.41.41:254][478]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2025.08.20-17.41.41:271][478]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_4'.
+[2025.08.20-17.41.41:366][478]LogStaticMesh: Display: Building static mesh Sphere_inversenormals (Required Memory Estimate: 1.522745 MB)...
+[2025.08.20-17.41.41:378][478]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/EditorMeshes/AssetViewer/Sphere_inversenormals) ...
+[2025.08.20-17.41.41:390][478]LogStaticMesh: Built static mesh [0.03s] /Engine/EditorMeshes/AssetViewer/Sphere_inversenormals.Sphere_inversenormals
+[2025.08.20-17.41.41:651][478]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/EditorMeshes/AssetViewer/Floor_Mesh) ...
+[2025.08.20-17.41.41:858][478]LogStaticMesh: Display: Building static mesh Floor_Mesh (Required Memory Estimate: 0.022237 MB)...
+[2025.08.20-17.41.41:860][478]LogStaticMesh: Built static mesh [0.22s] /Engine/EditorMeshes/AssetViewer/Floor_Mesh.Floor_Mesh
+[2025.08.20-17.41.41:925][478]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.08.20-17.41.43:394][478]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2025.08.20-17.41.43:397][478]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_5'.
+[2025.08.20-17.41.43:900][478]LogAutomationController: Ignoring very large delta of 3.40 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.08.20-17.41.48:767][588]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2025.08.20-17.41.48:768][588]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_6'.
+[2025.08.20-17.41.48:802][589]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2025.08.20-17.41.48:802][589]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_7'.
+[2025.08.20-17.42.10:746][247]LogShaderCompilers: Display: ================================================
+[2025.08.20-17.42.10:746][247]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.08.20-17.42.10:746][247]LogShaderCompilers: Display: Total job queries 499, among them cache hits 203 (40.68%), DDC hits 275 (55.11%), Duplicates 3 (0.60%)
+[2025.08.20-17.42.10:746][247]LogShaderCompilers: Display: Tracking 293 distinct input hashes that result in 232 distinct outputs (79.18%)
+[2025.08.20-17.42.10:746][247]LogShaderCompilers: Display: RAM used: 149.14 KiB of 819.20 MiB budget. Usage: 0.02%
+[2025.08.20-17.42.10:746][247]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.08.20-17.42.10:746][247]LogShaderCompilers: Display: Shaders Compiled: 18
+[2025.08.20-17.42.10:746][247]LogShaderCompilers: Display: Jobs assigned 18, completed 18 (100%)
+[2025.08.20-17.42.10:746][247]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2025.08.20-17.42.10:746][247]LogShaderCompilers: Display: Time job spent in pending queue: average 1.54 s, longest 3.42 s
+[2025.08.20-17.42.10:746][247]LogShaderCompilers: Display: Job execution time: average 2.11 s, max 4.03 s
+[2025.08.20-17.42.10:746][247]LogShaderCompilers: Display: Job life time (pending + execution): average 3.65 s, max 4.44
+[2025.08.20-17.42.10:746][247]LogShaderCompilers: Display: Shader code size: average 6.694 KiB, min 3.832 KiB, max 10.969 KiB
+[2025.08.20-17.42.10:746][247]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 5.13 s
+[2025.08.20-17.42.10:746][247]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.07%
+[2025.08.20-17.42.10:746][247]LogShaderCompilers: Display: Jobs were issued in 18 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.08.20-17.42.10:746][247]LogShaderCompilers: Display: Average processing rate: 3.51 jobs/sec
+[2025.08.20-17.42.10:746][247]LogShaderCompilers: Display: Total thread time: 14.854 s
+[2025.08.20-17.42.10:746][247]LogShaderCompilers: Display: Total thread preprocess time: 16.557 s
+[2025.08.20-17.42.10:746][247]LogShaderCompilers: Display: Percentage time preprocessing: 111.46%
+[2025.08.20-17.42.10:746][247]LogShaderCompilers: Display: Effective parallelization: 2.90 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.08.20-17.42.10:746][247]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.08.20-17.42.10:746][247]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    3 times, average 1.04 sec, max 1.05 sec, min 1.04 sec)
+[2025.08.20-17.42.10:746][247]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    1 times, average 0.79 sec, max 0.79 sec, min 0.79 sec)
+[2025.08.20-17.42.10:746][247]LogShaderCompilers: Display:              TShadowDepthPSPixelShadowDepth_VirtualShadowMap (compiled    1 times, average 0.78 sec, max 0.78 sec, min 0.78 sec)
+[2025.08.20-17.42.10:746][247]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    3 times, average 0.77 sec, max 0.80 sec, min 0.73 sec)
+[2025.08.20-17.42.10:746][247]LogShaderCompilers: Display:                                                  FHitProxyPS (compiled    1 times, average 0.73 sec, max 0.73 sec, min 0.73 sec)
+[2025.08.20-17.42.10:746][247]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.08.20-17.42.10:747][247]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 21.10% of total time (compiled    3 times, average 1.04 sec, max 1.05 sec, min 1.04 sec)
+[2025.08.20-17.42.10:747][247]LogShaderCompilers: Display:                                                 FLumenCardPS - 15.49% of total time (compiled    3 times, average 0.77 sec, max 0.80 sec, min 0.73 sec)
+[2025.08.20-17.42.10:747][247]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 14.03% of total time (compiled    3 times, average 0.69 sec, max 0.73 sec, min 0.68 sec)
+[2025.08.20-17.42.10:747][247]LogShaderCompilers: Display:                                                 FLumenCardVS - 13.34% of total time (compiled    3 times, average 0.66 sec, max 0.67 sec, min 0.65 sec)
+[2025.08.20-17.42.10:747][247]LogShaderCompilers: Display:                                                 FDepthOnlyPS - 5.35% of total time (compiled    1 times, average 0.79 sec, max 0.79 sec, min 0.79 sec)
+[2025.08.20-17.42.10:747][247]LogShaderCompilers: Display: === Material stats ===
+[2025.08.20-17.42.10:747][247]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.08.20-17.42.10:747][247]LogShaderCompilers: Display: Materials Translated:    202
+[2025.08.20-17.42.10:747][247]LogShaderCompilers: Display: Material Total Translate Time: 0.45 s
+[2025.08.20-17.42.10:747][247]LogShaderCompilers: Display: Material Translation Only: 0.15 s (34%)
+[2025.08.20-17.42.10:747][247]LogShaderCompilers: Display: Material DDC Serialization Only: 0.01 s (1%)
+[2025.08.20-17.42.10:747][247]LogShaderCompilers: Display: Material Cache Hits: 51 (25%)
+[2025.08.20-17.42.10:747][247]LogShaderCompilers: Display: ================================================
+[2025.08.20-17.43.03:732][835]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 72375.726562
+[2025.08.20-17.43.03:964][842]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.20-17.43.03:964][842]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 72375.914062, Update Interval: 301.087677
+[2025.08.20-17.48.25:396][344]LogAutomationController: Ignoring very large delta of 2.91 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.08.20-17.48.28:554][346]LogAutomationController: Ignoring very large delta of 3.12 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.08.20-17.48.39:842][642]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 72695.656250
+[2025.08.20-17.48.40:103][649]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.20-17.48.40:103][649]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 72695.890625, Update Interval: 331.985840
+[2025.08.20-17.48.44:899][747]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.20-17.48.44:905][747]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.20-17.48.57:491][748]LogAutomationController: Ignoring very large delta of 12.57 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.08.20-17.54.51:941][361]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 73056.601562
+[2025.08.20-17.54.52:174][368]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.20-17.54.52:174][368]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 73056.804688, Update Interval: 313.048492
+[2025.08.20-18.00.54:658][223]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 73402.218750
+[2025.08.20-18.00.54:926][231]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.20-18.00.54:926][231]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 73402.445312, Update Interval: 309.399078
+[2025.08.20-18.02.01:767][140]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.20-18.02.01:776][140]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.20-18.02.01:789][140]LogAutomationController: Ignoring very large delta of 2.71 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.08.20-18.02.01:793][141]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.20-18.02.09:127][141]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.20-18.02.17:926][141]LogAutomationController: Ignoring very large delta of 16.14 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.08.20-18.02.23:776][142]LogAutomationController: Ignoring very large delta of 5.85 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.08.20-18.07.03:669][509]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 73761.570312
+[2025.08.20-18.07.03:903][516]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.20-18.07.03:903][516]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 73761.781250, Update Interval: 336.986603
+[2025.08.20-18.12.16:072][877]LogDerivedDataCache: C:/Users/Usuario/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.052 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.08.20-18.12.50:256][877]LogLiveCoding: Display: Starting Live Coding compile.
+[2025.08.20-18.13.14:387][572]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 74118.304688
+[2025.08.20-18.13.14:655][580]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.20-18.13.14:655][580]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 74118.523438, Update Interval: 342.824188
+[2025.08.20-18.13.20:131][744]Display: Reload/Re-instancing Complete: No object changes detected
+[2025.08.20-18.13.20:134][744]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2025.08.20-18.15.13:840][152]LogLiveCoding: Display: Starting Live Coding compile.
+[2025.08.20-18.15.24:734][434]LogLiveCoding: Display:    Creating library C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Binaries\Win64\UnrealEditor-Slash_Project.patch_2.lib and object C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Binaries\Win64\UnrealEditor-Slash_Project.patch_2.exp
+[2025.08.20-18.15.25:999][442]LogClass: UPackage /Script/Slash_Project Reload.
+[2025.08.20-18.15.26:002][442]LogClass: UClass Bird Reload.
+[2025.08.20-18.15.26:027][442]LogClass: Could not find existing class Bird in package /Script/Slash_Project for reload, assuming new or modified class
+[2025.08.20-18.15.26:189][442]Re-instancing Bird after reload.
+[2025.08.20-18.15.27:811][442]LogUObjectHash: Compacting FUObjectHashTables data took  41.62ms
+[2025.08.20-18.15.29:040][443]LogAutomationController: Ignoring very large delta of 4.02 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.08.20-18.15.29:052][443]Display: Reload/Re-instancing Complete: 1 package changed, 1 class changed
+[2025.08.20-18.15.29:052][443]LogLiveCoding: Warning: Live coding succeeded, data type changes may cause packaging to fail if assets reference the new or updated data types
+[2025.08.20-18.15.34:558][603]LogSlate: Window 'SK_Crow' being destroyed
+[2025.08.20-18.15.34:568][603]LogSlate: Window 'SK_Crow' being destroyed
+[2025.08.20-18.15.35:013][603]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.08.20-18.15.35:024][603]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.20-18.15.35:931][603]LogUObjectHash: Compacting FUObjectHashTables data took  26.24ms
+[2025.08.20-18.15.43:698][817]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Pawns/BP_Bird.BP_Bird
+[2025.08.20-18.15.43:741][817]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2025.08.20-18.15.43:856][817]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_8'.
+[2025.08.20-18.15.50:978][960]LogSlate: Took 0.008384 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.08.20-18.15.51:026][960]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SkeletalMesh_64.svg'. File could not be found
+[2025.08.20-18.15.51:043][961]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2025.08.20-18.15.51:044][961]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_9'.
+[2025.08.20-18.15.54:632][ 51]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_10
+[2025.08.20-18.15.54:632][ 51]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_10'.
+[2025.08.20-18.16.39:764][291]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2025.08.20-18.16.39:773][291]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/SlashOpenWorld' took 0.125
+[2025.08.20-18.16.39:776][291]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Pawns/BP_Bird] ([2] browsable assets)...
+[2025.08.20-18.16.39:792][291]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Pawns/BP_Bird.BP_Bird]
+[2025.08.20-18.16.39:792][291]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_11
+[2025.08.20-18.16.39:792][291]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_11'.
+[2025.08.20-18.16.39:811][291]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/Blueprints/Pawns/BP_Bird.BP_Bird_C]
+[2025.08.20-18.16.39:811][291]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Pawns/BP_Bird]
+[2025.08.20-18.16.39:833][291]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Pawns/BP_Bird_Auto1
+[2025.08.20-18.16.39:834][291]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/BP_Bird_Auto1048173E9447E42C1EC83C89A37130F46.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Autosaves/Game/Blueprints/Pawns/BP_Bird_Auto1.uasset'
+[2025.08.20-18.16.39:845][291]LogFileHelpers: Auto-saving content packages took 0.071
+[2025.08.20-18.16.42:604][365]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2025.08.20-18.16.48:710][476]LogAutomationController: Ignoring very large delta of 2.25 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.08.20-18.17.35:678][777]LogSlate: Window 'Editor Preferences' being destroyed
+[2025.08.20-18.17.35:685][777]LogSlate: Window 'Editor Preferences' being destroyed
+[2025.08.20-18.17.44:142][966]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.08.20-18.17.44:143][966]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.08.20-18.17.49:937][112]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2025.08.20-18.17.51:124][112]LogSlate: Window 'Save Content' being destroyed
+[2025.08.20-18.17.51:183][112]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.20-18.17.51:216][112]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Pawns/BP_Bird] ([2] browsable assets)...
+[2025.08.20-18.17.51:229][112]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Pawns/BP_Bird.BP_Bird]
+[2025.08.20-18.17.51:229][112]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Pawns/BP_Bird]
+[2025.08.20-18.17.51:235][112]LogSavePackage: Moving output files for package: /Game/Blueprints/Pawns/BP_Bird
+[2025.08.20-18.17.51:236][112]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/BP_BirdE7ACBB6247ECA7A2E1774598D72F14C6.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Pawns/BP_Bird.uasset'
+[2025.08.20-18.17.51:281][112]LogFileHelpers: InternalPromptForCheckoutAndSave took 97.806 ms (total: 361.657 ms)
+[2025.08.20-18.17.51:282][112]LogStreaming: Display: FlushAsyncLoading(539): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.20-18.17.52:205][112]LogChaosDD: Creating Chaos Debug Draw Scene for world Minimal_Default_2
+[2025.08.20-18.17.52:206][112]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/Maps/Minimal_Default_2.Minimal_Default_2'.
+[2025.08.20-18.17.52:233][112]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Minimal_Default_2.Minimal_Default_2
+[2025.08.20-18.17.52:234][112]Cmd: MAP LOAD FILE="../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Maps/Minimal_Default_2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.08.20-18.17.52:725][112]LogWorld: UWorld::CleanupWorld for SlashOpenWorld, bSessionEnded=true, bCleanupResources=true
+[2025.08.20-18.17.52:730][112]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.20-18.17.52:731][112]LogWorld: UWorld::CleanupWorld for Clinic, bSessionEnded=true, bCleanupResources=true
+[2025.08.20-18.17.52:731][112]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.20-18.17.52:826][112]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.08.20-18.17.53:991][112]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2025.08.20-18.17.54:137][112]LogWorld: UWorld::CleanupWorld for Minimal_Default_2, bSessionEnded=true, bCleanupResources=true
+[2025.08.20-18.17.54:138][112]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.20-18.17.54:228][112]LogUObjectHash: Compacting FUObjectHashTables data took  10.44ms
+[2025.08.20-18.17.54:267][112]LogUObjectHash: Compacting FUObjectHashTables data took  14.12ms
+[2025.08.20-18.17.54:273][112]LogAudio: Display: Audio Device (ID: 1) registered with world 'Minimal_Default_2'.
+[2025.08.20-18.17.54:274][112]LogChaosDD: Creating Chaos Debug Draw Scene for world Minimal_Default_2
+[2025.08.20-18.17.54:277][112]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/Maps/Minimal_Default_2.Minimal_Default_2'.
+[2025.08.20-18.17.54:425][112]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.08.20-18.17.54:457][112]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.08.20-18.17.54:481][112]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.08.20-18.17.54:482][112]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.107ms to complete.
+[2025.08.20-18.17.54:548][112]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.20-18.17.54:548][112]LogContentValidation: Enabled validators:
+[2025.08.20-18.17.54:548][112]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.20-18.17.54:548][112]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.20-18.17.54:549][112]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.20-18.17.54:549][112]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.20-18.17.54:549][112]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.20-18.17.54:549][112]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.20-18.17.54:549][112]AssetCheck: /Game/Blueprints/Pawns/BP_Bird Validating asset
+[2025.08.20-18.17.54:644][112]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.08.20-18.17.54:729][112]LogAutomationController: Ignoring very large delta of 4.89 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.08.20-18.17.55:749][125]LogTexture: Display: Building textures: /Game/Fab/Mountain__2/mountain_2_texture_2.mountain_2_texture_2 (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Final
+[2025.08.20-18.17.56:713][126]LogTexture: Display: Building textures: /Game/Materials/Canyon_2/Layered_Rock_Cliff_ubulehofw_1K_BaseColor.Layered_Rock_Cliff_ubulehofw_1K_BaseColor (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 115.583323 MB), EncodeSpeed: Final
+[2025.08.20-18.17.56:855][126]LogTexture: Display: Building textures: /Game/Fab/Mountain__2/mountain_2_texture_1.mountain_2_texture_1 (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1120.999983 MB), EncodeSpeed: Final
+[2025.08.20-18.17.57:613][126]LogTexture: Display: Building textures: /Game/Materials/Canyon_2/Layered_Rock_Cliff_ubulehofw_1K_Normal.Layered_Rock_Cliff_ubulehofw_1K_Normal (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 169.499988 MB), EncodeSpeed: Final
+[2025.08.20-18.18.10:987][519]LogShaderCompilers: Display: ================================================
+[2025.08.20-18.18.10:987][519]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.08.20-18.18.10:988][519]LogShaderCompilers: Display: Total job queries 572, among them cache hits 228 (39.86%), DDC hits 315 (55.07%), Duplicates 3 (0.52%)
+[2025.08.20-18.18.10:988][519]LogShaderCompilers: Display: Tracking 341 distinct input hashes that result in 259 distinct outputs (75.95%)
+[2025.08.20-18.18.10:988][519]LogShaderCompilers: Display: RAM used: 157.79 KiB of 819.20 MiB budget. Usage: 0.02%
+[2025.08.20-18.18.10:988][519]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.08.20-18.18.10:988][519]LogShaderCompilers: Display: Shaders Compiled: 26
+[2025.08.20-18.18.10:988][519]LogShaderCompilers: Display: Jobs assigned 26, completed 26 (100%)
+[2025.08.20-18.18.10:988][519]LogShaderCompilers: Display: Average time worker was idle: 483.68 s
+[2025.08.20-18.18.10:988][519]LogShaderCompilers: Display: Time job spent in pending queue: average 1.09 s, longest 3.42 s
+[2025.08.20-18.18.10:988][519]LogShaderCompilers: Display: Job execution time: average 1.82 s, max 4.03 s
+[2025.08.20-18.18.10:988][519]LogShaderCompilers: Display: Job life time (pending + execution): average 2.90 s, max 4.44
+[2025.08.20-18.18.10:989][519]LogShaderCompilers: Display: Shader code size: average 6.601 KiB, min 2.785 KiB, max 10.969 KiB
+[2025.08.20-18.18.10:989][519]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 9.05 s
+[2025.08.20-18.18.10:989][519]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.09%
+[2025.08.20-18.18.10:989][519]LogShaderCompilers: Display: Jobs were issued in 26 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.08.20-18.18.10:989][519]LogShaderCompilers: Display: Average processing rate: 2.87 jobs/sec
+[2025.08.20-18.18.10:989][519]LogShaderCompilers: Display: Total thread time: 18.622 s
+[2025.08.20-18.18.10:989][519]LogShaderCompilers: Display: Total thread preprocess time: 21.834 s
+[2025.08.20-18.18.10:989][519]LogShaderCompilers: Display: Percentage time preprocessing: 117.25%
+[2025.08.20-18.18.10:989][519]LogShaderCompilers: Display: Effective parallelization: 2.06 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.08.20-18.18.10:990][519]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.08.20-18.18.10:990][519]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    5 times, average 0.89 sec, max 1.05 sec, min 0.62 sec)
+[2025.08.20-18.18.10:990][519]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    1 times, average 0.79 sec, max 0.79 sec, min 0.79 sec)
+[2025.08.20-18.18.10:990][519]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    3 times, average 0.77 sec, max 0.80 sec, min 0.73 sec)
+[2025.08.20-18.18.10:990][519]LogShaderCompilers: Display:                                          TDepthOnlyVS<false> (compiled    1 times, average 0.69 sec, max 0.69 sec, min 0.69 sec)
+[2025.08.20-18.18.10:990][519]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    3 times, average 0.66 sec, max 0.67 sec, min 0.65 sec)
+[2025.08.20-18.18.10:990][519]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.08.20-18.18.10:990][519]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 23.77% of total time (compiled    5 times, average 0.89 sec, max 1.05 sec, min 0.62 sec)
+[2025.08.20-18.18.10:990][519]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 15.94% of total time (compiled    5 times, average 0.59 sec, max 0.73 sec, min 0.40 sec)
+[2025.08.20-18.18.10:990][519]LogShaderCompilers: Display:                                                 FLumenCardPS - 12.36% of total time (compiled    3 times, average 0.77 sec, max 0.80 sec, min 0.73 sec)
+[2025.08.20-18.18.10:990][519]LogShaderCompilers: Display:                                                 FLumenCardVS - 10.64% of total time (compiled    3 times, average 0.66 sec, max 0.67 sec, min 0.65 sec)
+[2025.08.20-18.18.10:990][519]LogShaderCompilers: Display:                                                  FHitProxyPS - 6.40% of total time (compiled    2 times, average 0.60 sec, max 0.73 sec, min 0.46 sec)
+[2025.08.20-18.18.10:990][519]LogShaderCompilers: Display: === Material stats ===
+[2025.08.20-18.18.10:990][519]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.08.20-18.18.10:990][519]LogShaderCompilers: Display: Materials Translated:    213
+[2025.08.20-18.18.10:990][519]LogShaderCompilers: Display: Material Total Translate Time: 0.49 s
+[2025.08.20-18.18.10:990][519]LogShaderCompilers: Display: Material Translation Only: 0.16 s (34%)
+[2025.08.20-18.18.10:990][519]LogShaderCompilers: Display: Material DDC Serialization Only: 0.01 s (1%)
+[2025.08.20-18.18.10:990][519]LogShaderCompilers: Display: Material Cache Hits: 52 (24%)
+[2025.08.20-18.18.10:990][519]LogShaderCompilers: Display: ================================================
+[2025.08.20-18.18.12:391][558]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Pawns/BP_Bird.BP_Bird_C
+[2025.08.20-18.18.12:391][558]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Pawns/BP_Bird.BP_Bird_C
+[2025.08.20-18.18.12:404][558]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Pawns/BP_Bird.BP_Bird as actor: BP_Bird_C /Game/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.BP_Bird_C_0
+[2025.08.20-18.18.12:405][558]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Pawns/BP_Bird.BP_Bird as actor: BP_Bird_C /Game/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.BP_Bird_C_0
+[2025.08.20-18.18.13:189][578]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.08.20-18.18.13:193][578]LogEditorActor: Deleted 0 Actors (0.090 secs)
+[2025.08.20-18.18.13:198][578]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Pawns/BP_Bird.BP_Bird_C
+[2025.08.20-18.18.13:199][578]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Pawns/BP_Bird.BP_Bird_C
+[2025.08.20-18.18.13:202][578]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Pawns/BP_Bird.BP_Bird as actor: BP_Bird_C /Game/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.BP_Bird_C_1
+[2025.08.20-18.18.13:204][578]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Pawns/BP_Bird.BP_Bird as actor: BP_Bird_C /Game/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.BP_Bird_C_1
+[2025.08.20-18.18.21:181][803]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_12
+[2025.08.20-18.18.21:181][803]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_12'.
+[2025.08.20-18.18.21:970][826]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2025.08.20-18.18.23:028][826]LogSlate: Window 'Save Content' being destroyed
+[2025.08.20-18.18.23:038][826]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.20-18.18.23:126][826]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.08.20-18.18.23:172][826]LogSavePackage: Moving output files for package: /Game/Maps/Minimal_Default_2
+[2025.08.20-18.18.23:173][826]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Minimal_Default_26174C1EF4D26EF2C7C2133926B02C8CB.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Maps/Minimal_Default_2.umap'
+[2025.08.20-18.18.23:205][826]LogFileHelpers: Saving map 'Minimal_Default_2' took 0.144
+[2025.08.20-18.18.23:214][826]LogFileHelpers: InternalPromptForCheckoutAndSave took 175.581 ms (total: 537.239 ms)
+[2025.08.20-18.18.23:249][826]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.20-18.18.23:250][826]LogContentValidation: Enabled validators:
+[2025.08.20-18.18.23:250][826]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.20-18.18.23:250][826]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.20-18.18.23:250][826]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.20-18.18.23:250][826]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.20-18.18.23:250][826]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.20-18.18.23:250][826]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.20-18.18.23:250][826]AssetCheck: /Game/Maps/Minimal_Default_2 Validating asset
+[2025.08.20-18.19.06:755][104]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'DefaultForeground'.'
+[2025.08.20-18.19.06:828][104]LogEditorClassViewer: Warning: Class /Game/Clinic/Demo/FirstPersonBP/FirstPersonOverview.FirstPersonOverview_C has parent /Script/IntroTutorials.EditorTutorial, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.08.20-18.19.16:044][375]LogStreaming: Display: FlushAsyncLoading(545): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.20-18.19.16:174][375]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/AnimalVarietyPack/Crow/Animations/ANIM_Crow_EatSomething.ANIM_Crow_EatSomething (Required Memory Estimate: 1.23 MB)
+[2025.08.20-18.19.16:213][375]LogAnimationCompression: Display: Storing compressed animation data for /Game/AnimalVarietyPack/Crow/Animations/ANIM_Crow_EatSomething.ANIM_Crow_EatSomething, at AnimationSequence/48078e7cc5984da9012e5f2610b1cce4dc4e6095
+[2025.08.20-18.19.16:337][376]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_13
+[2025.08.20-18.19.16:337][376]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_13'.
+[2025.08.20-18.19.20:381][492]LogStreaming: Display: FlushAsyncLoading(546): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.20-18.19.20:387][492]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/AnimalVarietyPack/Crow/Animations/ANIM_Crow_Fly.ANIM_Crow_Fly (Required Memory Estimate: 0.36 MB)
+[2025.08.20-18.19.20:392][492]LogAnimationCompression: Display: Storing compressed animation data for /Game/AnimalVarietyPack/Crow/Animations/ANIM_Crow_Fly.ANIM_Crow_Fly, at AnimationSequence/7e00a5e53a7ca5b713bddf9d1849aa2e9132cfb8
+[2025.08.20-18.19.23:529][574]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2025.08.20-18.19.26:474][658]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.08.20-18.19.26:525][658]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.20-18.19.26:597][658]LogOnline: OSS: Created online subsystem instance for: NULL
+[2025.08.20-18.19.26:599][658]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2025.08.20-18.19.26:603][658]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Minimal_Default_2
+[2025.08.20-18.19.26:613][658]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010361s)
+[2025.08.20-18.19.26:613][658]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Minimal_Default_2.Minimal_Default_2 to /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 (0.010486s)
+[2025.08.20-18.19.26:637][658]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2025.08.20-18.19.26:643][658]LogChaosDD: Creating Chaos Debug Draw Scene for world Minimal_Default_2
+[2025.08.20-18.19.26:648][658]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2'.
+[2025.08.20-18.19.26:649][658]LogPlayLevel: PIE: World Init took: (0.005626s)
+[2025.08.20-18.19.26:652][658]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2025.08.20-18.19.26:656][658]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.20-18.19.26:656][658]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.20-18.19.26:656][658]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.20-18.19.26:656][658]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.20-18.19.26:656][658]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.20-18.19.26:656][658]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.20-18.19.26:656][658]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.20-18.19.26:656][658]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.20-18.19.26:658][658]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.20-18.19.26:658][658]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.20-18.19.26:658][658]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.20-18.19.26:665][658]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.20-18.19.26:689][658]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.08.20-18.19.26:694][658]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.20-18.19.26:695][658]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.20-18.19.26:695][658]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.20-18.19.26:702][658]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2025.08.20-18.19.26:702][658]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2025.08.20-18.19.26:705][658]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2025.08.20-18.19.26:705][658]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2025.08.20-18.19.26:706][658]LogInit: FAudioDevice initialized with ID 2.
+[2025.08.20-18.19.26:706][658]LogAudio: Display: Audio Device (ID: 2) registered with world 'Minimal_Default_2'.
+[2025.08.20-18.19.26:708][658]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2025.08.20-18.19.26:748][658]LogLoad: Game class is 'GameModeBase'
+[2025.08.20-18.19.26:750][658]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 up for play (max tick rate 0) at 2025.08.20-20.19.26
+[2025.08.20-18.19.26:770][658]LogWorld: Bringing up level for play took: 0.021631
+[2025.08.20-18.19.26:775][658]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2025.08.20-18.19.26:899][658]PIE: Server logged in
+[2025.08.20-18.19.26:903][658]PIE: Play in editor total start time 0.407 seconds.
+[2025.08.20-18.19.34:427][820]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.20-18.19.34:427][820]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Minimal_Default_2
+[2025.08.20-18.19.34:429][820]LogWorld: UWorld::CleanupWorld for Minimal_Default_2, bSessionEnded=true, bCleanupResources=true
+[2025.08.20-18.19.34:430][820]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.20-18.19.34:438][820]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.20-18.19.34:444][820]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.20-18.19.34:466][820]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.20-18.19.34:467][820]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2025.08.20-18.19.34:467][820]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.08.20-18.19.34:471][820]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.08.20-18.19.34:486][820]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.08.20-18.19.35:041][823]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2025.08.20-18.19.53:423][358]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 74503.007812
+[2025.08.20-18.19.53:660][365]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.20-18.19.53:660][365]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 74503.203125, Update Interval: 352.005371
+[2025.08.20-18.25.16:362][ 10]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2025.08.20-18.25.16:365][ 10]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.08.20-18.25.16:367][ 10]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=7160
+[2025.08.20-18.25.16:397][ 11]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.08.20-18.25.16:404][ 11]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{58ea4715-9790-4598-9427-e0f8b9d39fd0}, Name=Altavoces (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=19.13
+[2025.08.20-18.25.16:405][ 11]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.08.20-18.25.16:407][ 11]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.08.20-21.26.48:344][457]LogAutomationController: Ignoring very large delta of 10877.13 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.08.20-21.26.49:172][458]LogHttp: Warning: 00000777C634B600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.08.20-21.26.49:172][458]LogHttp: Warning: 00000777C634B600: libcurl info message cache 0 (Too old connection (10899 seconds idle), disconnect it)
+[2025.08.20-21.26.49:172][458]LogHttp: Warning: 00000777C634B600: libcurl info message cache 1 (Connection 7 seems to be dead)
+[2025.08.20-21.26.49:172][458]LogHttp: Warning: 00000777C634B600: libcurl info message cache 2 (Closing connection)
+[2025.08.20-21.26.49:172][458]LogHttp: Warning: 00000777C634B600: libcurl info message cache 3 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.08.20-21.26.49:172][458]LogHttp: Warning: 00000777C634B600: libcurl info message cache 4 (Could not resolve host: datarouter.ol.epicgames.com)
+[2025.08.20-21.26.49:172][458]LogHttp: Warning: 00000777C634B600: libcurl info message cache 5 (Closing connection)
+[2025.08.20-21.26.49:176][458]LogEOSSDK: Warning: LogHttp: 00000777A5C42400: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.08.20-21.26.49:176][458]LogEOSSDK: Warning: LogHttp: 00000777A5C42400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.08.20-21.26.49:176][458]LogEOSSDK: Warning: LogHttp: 00000777A5C42400: libcurl info message cache 0 (Too old connection (10900 seconds idle), disconnect it)
+[2025.08.20-21.26.49:176][458]LogEOSSDK: Warning: LogHttp: 00000777A5C42400: libcurl info message cache 1 (Connection 41 seems to be dead)
+[2025.08.20-21.26.49:176][458]LogEOSSDK: Warning: LogHttp: 00000777A5C42400: libcurl info message cache 2 (Closing connection)
+[2025.08.20-21.26.49:176][458]LogEOSSDK: Warning: LogHttp: 00000777A5C42400: libcurl info message cache 3 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.08.20-21.26.49:176][458]LogEOSSDK: Warning: LogHttp: 00000777A5C42400: libcurl info message cache 4 (Could not resolve host: api.epicgames.dev)
+[2025.08.20-21.26.49:176][458]LogEOSSDK: Warning: LogHttp: 00000777A5C42400: libcurl info message cache 5 (Closing connection)
+[2025.08.20-21.26.49:176][458]LogEOSSDK: Warning: LogHttp: 00000777A5C4EA00: invalid HTTP response code received. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7BB4D74304-4A2C-272A-87EF-54B88D312DD7%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.16.4-36651368%20-%20%2B%2BEOSSDK%2BRelease-1.16.4-CL-36651368&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.08.20-21.26.49:176][458]LogEOSSDK: Warning: LogHttp: 00000777A5C4EA00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.08.20-21.26.49:177][458]LogEOSSDK: Warning: LogHttp: 00000777A5C4EA00: libcurl info message cache 0 (Found bundle for host: 0x777938800f0 [serially])
+[2025.08.20-21.26.49:177][458]LogEOSSDK: Warning: LogHttp: 00000777A5C4EA00: libcurl info message cache 1 (Could not resolve host: api.epicgames.dev)
+[2025.08.20-21.26.49:177][458]LogEOSSDK: Warning: LogHttp: 00000777A5C4EA00: libcurl info message cache 2 (Closing connection)
+[2025.08.20-21.26.49:177][458]LogEOSSDK: Warning: LogHttp: 00000777A5C43000: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=6BAC697644400E79391FC19E7B2DBB00, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.08.20-21.26.49:177][458]LogEOSSDK: Warning: LogHttp: 00000777A5C43000: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.08.20-21.26.49:177][458]LogEOSSDK: Warning: LogHttp: 00000777A5C43000: libcurl info message cache 0 (Found bundle for host: 0x777938800f0 [serially])
+[2025.08.20-21.26.49:177][458]LogEOSSDK: Warning: LogHttp: 00000777A5C43000: libcurl info message cache 1 (Could not resolve host: api.epicgames.dev)
+[2025.08.20-21.26.49:177][458]LogEOSSDK: Warning: LogHttp: 00000777A5C43000: libcurl info message cache 2 (Closing connection)
+[2025.08.20-21.26.49:177][458]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7BB4D74304-4A2C-272A-87EF-54B88D312DD7%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.16.4-36651368%20-%20%2B%2BEOSSDK%2BRelease-1.16.4-CL-36651368&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2025.08.20-21.26.49:177][458]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.08.20-21.26.49:177][458]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=6BAC697644400E79391FC19E7B2DBB00
+[2025.08.20-21.26.50:192][489]LogEOSSDK: Warning: LogHttp: Retry 1 on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.08.20-21.26.50:192][489]LogEOSSDK: Warning: LogHttp: Retry 1 on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=6BAC697644400E79391FC19E7B2DBB00
+[2025.08.20-21.26.50:738][505]LogEOSSDK: Warning: LogHttp: Success on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.08.20-21.26.50:744][505]LogEOSSDK: Warning: LogHttp: Success on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=6BAC697644400E79391FC19E7B2DBB00
+[2025.08.20-21.45.02:762][209]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 86804.796875
+[2025.08.20-21.45.03:078][210]LogAutomationController: Ignoring very large delta of 1082.61 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.08.20-21.45.04:897][222]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.20-21.45.04:898][222]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 86806.867188, Update Interval: 344.712067
+[2025.08.20-21.47.53:257][991]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2025.08.20-21.47.53:263][991]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Minimal_Default_2' took 0.042
+[2025.08.20-21.47.53:267][991]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Pawns/BP_Bird] ([2] browsable assets)...
+[2025.08.20-21.47.53:458][991]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Pawns/BP_Bird.BP_Bird]
+[2025.08.20-21.47.53:460][991]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Pawns/BP_Bird]
+[2025.08.20-21.47.53:474][991]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Pawns/BP_Bird_Auto2
+[2025.08.20-21.47.53:474][991]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/BP_Bird_Auto2B6E5D1184517DE728935A0BA3CC698C2.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Autosaves/Game/Blueprints/Pawns/BP_Bird_Auto2.uasset'
+[2025.08.20-21.47.53:485][991]LogFileHelpers: Auto-saving content packages took 0.222
+[2025.08.20-21.50.43:285][771]LogAutomationController: Ignoring very large delta of 5.09 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.08.20-21.51.47:181][683]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 87189.015625
+[2025.08.20-21.51.47:440][691]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.20-21.51.47:440][691]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 87189.242188, Update Interval: 337.482849
+[2025.08.20-21.51.54:053][826]LogAutomationController: Ignoring very large delta of 2.13 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.08.20-21.51.56:062][880]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
