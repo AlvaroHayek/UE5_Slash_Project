@@ -2361,3 +2361,488 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.08.21-16.14.58:104][407]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 152847.890625
 [2025.08.21-16.14.58:470][418]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.08.21-16.14.58:471][419]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 152848.203125, Update Interval: 330.801117
+[2025.08.21-16.21.18:401][682]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 153204.343750
+[2025.08.21-16.21.19:334][710]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.21-16.21.19:334][710]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 153205.187500, Update Interval: 320.014038
+[2025.08.21-16.27.34:001][920]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 153555.703125
+[2025.08.21-16.27.34:268][928]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.21-16.27.34:269][929]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 153555.921875, Update Interval: 324.509399
+[2025.08.21-16.33.36:058][752]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 153894.812500
+[2025.08.21-16.33.36:324][760]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.21-16.33.36:325][761]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 153895.031250, Update Interval: 347.363495
+[2025.08.21-16.34.14:688][908]LogLiveCoding: Display: Starting Live Coding compile.
+[2025.08.21-16.34.35:882][526]LogLiveCoding: Display:    Creating library C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Binaries\Win64\UnrealEditor-Slash_Project.patch_4.lib and object C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Binaries\Win64\UnrealEditor-Slash_Project.patch_4.exp
+[2025.08.21-16.34.37:895][528]LogUObjectHash: Compacting FUObjectHashTables data took   5.54ms
+[2025.08.21-16.34.39:640][529]LogAutomationController: Ignoring very large delta of 3.66 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.08.21-16.34.39:647][529]Display: Reload/Re-instancing Complete: 1 package changed, 1 class unchanged
+[2025.08.21-16.34.39:648][529]LogLiveCoding: Display: Live coding succeeded
+[2025.08.21-16.34.45:115][688]LogSlate: Window 'Project Settings' being destroyed
+[2025.08.21-16.34.45:132][688]LogSlate: Window 'Project Settings' being destroyed
+[2025.08.21-16.34.48:961][793]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.08.21-16.34.49:034][793]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.21-16.34.49:070][793]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Minimal_Default_2
+[2025.08.21-16.34.49:147][793]LogPlayLevel: PIE: StaticDuplicateObject took: (0.076759s)
+[2025.08.21-16.34.49:147][793]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Minimal_Default_2.Minimal_Default_2 to /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 (0.077292s)
+[2025.08.21-16.34.49:335][793]LogUObjectHash: Compacting FUObjectHashTables data took  33.71ms
+[2025.08.21-16.34.49:350][793]LogChaosDD: Creating Chaos Debug Draw Scene for world Minimal_Default_2
+[2025.08.21-16.34.49:431][793]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2'.
+[2025.08.21-16.34.49:507][793]LogPlayLevel: PIE: World Init took: (0.158794s)
+[2025.08.21-16.34.49:515][793]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2025.08.21-16.34.49:516][793]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.21-16.34.49:516][793]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.21-16.34.49:516][793]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.21-16.34.49:516][793]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.21-16.34.49:516][793]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.21-16.34.49:516][793]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.21-16.34.49:516][793]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.21-16.34.49:516][793]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.21-16.34.49:518][793]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.21-16.34.49:518][793]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.21-16.34.49:518][793]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.21-16.34.49:520][793]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.21-16.34.49:540][793]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.08.21-16.34.49:545][793]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.21-16.34.49:546][793]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.21-16.34.49:548][793]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.21-16.34.49:552][793]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2025.08.21-16.34.49:552][793]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2025.08.21-16.34.49:559][793]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2025.08.21-16.34.49:559][793]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2025.08.21-16.34.49:560][793]LogInit: FAudioDevice initialized with ID 5.
+[2025.08.21-16.34.49:561][793]LogAudio: Display: Audio Device (ID: 5) registered with world 'Minimal_Default_2'.
+[2025.08.21-16.34.49:562][793]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2025.08.21-16.34.49:602][793]LogLoad: Game class is 'GameModeBase'
+[2025.08.21-16.34.49:689][793]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 up for play (max tick rate 60) at 2025.08.21-18.34.49
+[2025.08.21-16.34.49:694][793]LogWorld: Bringing up level for play took: 0.089622
+[2025.08.21-16.34.49:717][793]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2025.08.21-16.34.49:755][793]PIE: Server logged in
+[2025.08.21-16.34.49:758][793]PIE: Play in editor total start time 0.766 seconds.
+[2025.08.21-16.34.57:211][992]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.21-16.34.57:212][992]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Minimal_Default_2
+[2025.08.21-16.34.57:224][992]LogWorld: UWorld::CleanupWorld for Minimal_Default_2, bSessionEnded=true, bCleanupResources=true
+[2025.08.21-16.34.57:232][992]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.21-16.34.57:261][992]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.21-16.34.57:267][992]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.21-16.34.57:304][992]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.08.21-16.34.57:343][992]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2025.08.21-16.34.57:344][992]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.08.21-16.34.57:345][992]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.08.21-16.34.57:354][992]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.21-16.34.57:422][992]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2025.08.21-16.34.58:115][995]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2025.08.21-16.35.02:048][113]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.08.21-16.35.02:061][113]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.21-16.35.02:062][113]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Minimal_Default_2
+[2025.08.21-16.35.02:065][113]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003371s)
+[2025.08.21-16.35.02:065][113]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Minimal_Default_2.Minimal_Default_2 to /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 (0.003419s)
+[2025.08.21-16.35.02:087][113]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.08.21-16.35.02:092][113]LogChaosDD: Creating Chaos Debug Draw Scene for world Minimal_Default_2
+[2025.08.21-16.35.02:093][113]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2'.
+[2025.08.21-16.35.02:094][113]LogPlayLevel: PIE: World Init took: (0.002288s)
+[2025.08.21-16.35.02:095][113]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2025.08.21-16.35.02:095][113]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.21-16.35.02:095][113]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.21-16.35.02:095][113]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.21-16.35.02:095][113]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.21-16.35.02:096][113]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.21-16.35.02:096][113]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.21-16.35.02:096][113]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.21-16.35.02:096][113]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.21-16.35.02:096][113]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.21-16.35.02:096][113]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.21-16.35.02:096][113]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.21-16.35.02:098][113]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.21-16.35.02:113][113]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.08.21-16.35.02:113][113]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.21-16.35.02:113][113]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.21-16.35.02:114][113]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.21-16.35.02:114][113]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2025.08.21-16.35.02:114][113]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2025.08.21-16.35.02:118][113]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2025.08.21-16.35.02:118][113]LogInit: FAudioDevice initialized with ID 6.
+[2025.08.21-16.35.02:118][113]LogAudio: Display: Audio Device (ID: 6) registered with world 'Minimal_Default_2'.
+[2025.08.21-16.35.02:118][113]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2025.08.21-16.35.02:118][113]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2025.08.21-16.35.02:120][113]LogLoad: Game class is 'GameModeBase'
+[2025.08.21-16.35.02:122][113]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 up for play (max tick rate 60) at 2025.08.21-18.35.02
+[2025.08.21-16.35.02:123][113]LogWorld: Bringing up level for play took: 0.002080
+[2025.08.21-16.35.02:125][113]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2025.08.21-16.35.02:127][113]PIE: Server logged in
+[2025.08.21-16.35.02:128][113]PIE: Play in editor total start time 0.068 seconds.
+[2025.08.21-16.35.05:107][190]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.21-16.35.05:107][190]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Minimal_Default_2
+[2025.08.21-16.35.05:107][190]LogWorld: UWorld::CleanupWorld for Minimal_Default_2, bSessionEnded=true, bCleanupResources=true
+[2025.08.21-16.35.05:107][190]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.21-16.35.05:112][190]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.21-16.35.05:117][190]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.21-16.35.05:140][190]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.21-16.35.05:140][190]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2025.08.21-16.35.05:140][190]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2025.08.21-16.35.05:142][190]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2025.08.21-16.35.05:150][190]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2025.08.21-16.35.05:707][193]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2025.08.21-16.35.23:379][682]LogSlate: External Image Picker: DecompressImage failed
+[2025.08.21-16.35.48:964][391]LogSlate: Window 'Project Settings' being destroyed
+[2025.08.21-16.35.48:971][391]LogSlate: Window 'Project Settings' being destroyed
+[2025.08.21-16.35.52:293][488]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.08.21-16.35.52:307][488]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.21-16.35.52:308][488]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Minimal_Default_2
+[2025.08.21-16.35.52:312][488]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003687s)
+[2025.08.21-16.35.52:312][488]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Minimal_Default_2.Minimal_Default_2 to /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 (0.003779s)
+[2025.08.21-16.35.52:353][488]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2025.08.21-16.35.52:357][488]LogChaosDD: Creating Chaos Debug Draw Scene for world Minimal_Default_2
+[2025.08.21-16.35.52:359][488]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2'.
+[2025.08.21-16.35.52:359][488]LogPlayLevel: PIE: World Init took: (0.001904s)
+[2025.08.21-16.35.52:360][488]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2025.08.21-16.35.52:360][488]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.21-16.35.52:360][488]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.21-16.35.52:361][488]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.21-16.35.52:361][488]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.21-16.35.52:361][488]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.21-16.35.52:361][488]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.21-16.35.52:361][488]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.21-16.35.52:361][488]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.21-16.35.52:361][488]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.21-16.35.52:361][488]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.21-16.35.52:361][488]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.21-16.35.52:364][488]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.21-16.35.52:382][488]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.08.21-16.35.52:382][488]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.21-16.35.52:382][488]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.21-16.35.52:382][488]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.21-16.35.52:383][488]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2025.08.21-16.35.52:383][488]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2025.08.21-16.35.52:387][488]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2025.08.21-16.35.52:387][488]LogInit: FAudioDevice initialized with ID 7.
+[2025.08.21-16.35.52:387][488]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2025.08.21-16.35.52:387][488]LogAudio: Display: Audio Device (ID: 7) registered with world 'Minimal_Default_2'.
+[2025.08.21-16.35.52:387][488]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2025.08.21-16.35.52:390][488]LogLoad: Game class is 'GameModeBase'
+[2025.08.21-16.35.52:391][488]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 up for play (max tick rate 60) at 2025.08.21-18.35.52
+[2025.08.21-16.35.52:392][488]LogWorld: Bringing up level for play took: 0.001795
+[2025.08.21-16.35.52:394][488]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2025.08.21-16.35.52:396][488]PIE: Server logged in
+[2025.08.21-16.35.52:397][488]PIE: Play in editor total start time 0.09 seconds.
+[2025.08.21-16.35.52:399][488]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.35.52:430][489]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.35.52:547][490]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.35.52:727][491]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.35.52:802][492]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.35.52:839][493]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.35.53:013][494]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.35.53:047][495]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.35.53:085][496]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.35.53:118][497]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.35.53:154][498]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.35.53:189][499]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.35.53:223][500]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.35.53:260][501]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.35.53:297][502]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.35.53:335][503]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.35.53:368][504]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.35.53:404][505]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.35.53:578][506]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.35.53:627][507]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.35.53:659][508]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.35.53:692][509]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.35.53:725][510]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.35.53:759][511]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.35.53:792][512]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.35.53:826][513]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.35.53:860][514]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.35.53:892][515]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.35.53:923][516]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.35.53:956][517]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.35.53:989][518]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.35.54:022][519]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.35.54:056][520]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.35.54:089][521]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.35.54:122][522]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.35.54:156][523]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.35.54:188][524]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.35.54:221][525]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.35.54:254][526]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.35.54:288][527]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.35.54:321][528]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.35.54:355][529]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.35.54:388][530]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.35.54:421][531]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.35.54:454][532]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.35.54:488][533]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.35.54:521][534]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.35.54:556][535]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.35.54:588][536]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.35.54:621][537]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.35.54:655][538]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.35.54:688][539]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.35.54:721][540]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.35.54:754][541]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.35.54:788][542]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.35.54:821][543]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.35.54:855][544]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.35.54:888][545]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.35.54:921][546]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.35.54:954][547]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.35.54:988][548]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.35.55:021][549]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.35.55:054][550]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.35.55:087][551]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.35.55:121][552]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.35.55:154][553]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.35.55:187][554]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.35.55:221][555]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.35.55:254][556]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.35.55:287][557]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.35.55:321][558]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.35.55:354][559]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.35.55:388][560]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.35.55:422][561]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.35.55:455][562]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.35.55:488][563]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.35.55:521][564]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.35.55:555][565]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.35.55:588][566]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.35.55:621][567]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.35.55:654][568]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.35.55:687][569]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.35.55:721][570]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.35.55:754][571]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.35.55:788][572]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.35.55:821][573]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.35.55:855][574]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.35.55:888][575]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.35.55:922][576]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.35.55:955][577]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.35.55:988][578]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.35.56:022][579]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.35.56:055][580]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.35.56:088][581]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.35.56:121][582]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.35.56:156][583]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.35.56:188][584]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.35.56:221][585]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.35.56:255][586]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.35.56:288][587]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.35.56:321][588]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.35.56:355][589]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.35.56:388][590]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.35.56:421][591]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.35.56:455][592]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.35.56:488][593]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.35.56:521][594]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.35.56:555][595]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.35.56:588][596]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.35.56:622][597]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.35.56:655][598]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.35.56:688][599]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.35.56:721][600]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.35.56:754][601]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.35.56:788][602]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.35.56:821][603]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.35.56:854][604]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.35.56:888][605]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.35.56:921][606]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.35.56:954][607]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.35.56:987][608]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.35.57:021][609]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.35.57:054][610]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.35.57:087][611]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.35.57:121][612]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.35.57:154][613]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.35.57:188][614]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.35.57:221][615]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.35.57:255][616]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.35.57:288][617]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.35.57:321][618]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.35.57:354][619]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.35.57:388][620]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.35.57:421][621]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.35.57:454][622]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.35.57:488][623]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.35.57:521][624]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.35.57:555][625]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.35.57:588][626]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.35.57:622][627]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.35.57:655][628]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.35.57:688][629]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.35.57:721][630]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.35.57:754][631]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.35.57:787][632]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.35.57:821][633]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.35.57:854][634]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.35.57:889][635]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.35.57:922][636]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.35.57:955][637]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.35.57:988][638]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.35.58:022][639]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.35.58:055][640]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.35.58:088][641]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.35.58:121][642]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.35.58:155][643]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.35.58:188][644]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.35.58:221][645]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.35.58:255][646]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.35.58:288][647]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.35.58:321][648]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.35.58:355][649]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.35.58:388][650]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.35.58:421][651]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.35.58:454][652]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.35.58:488][653]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.35.58:522][654]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.35.58:564][655]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.35.58:589][656]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.35.58:621][657]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.35.58:655][658]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.35.58:688][659]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.35.58:727][660]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.35.58:755][661]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.35.58:788][662]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.35.58:821][663]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.35.58:855][664]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.35.58:888][665]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.35.58:921][666]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.35.58:954][667]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.35.58:987][668]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.35.59:021][669]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.35.59:055][670]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.35.59:088][671]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.35.59:122][672]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.35.59:154][673]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.35.59:188][674]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.35.59:221][675]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.35.59:255][676]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.35.59:288][677]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.35.59:322][678]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.35.59:356][679]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.35.59:388][680]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.35.59:422][681]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.35.59:454][682]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.35.59:488][683]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.35.59:521][684]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.35.59:555][685]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.35.59:588][686]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.35.59:621][687]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.35.59:655][688]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.35.59:688][689]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.35.59:721][690]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.35.59:755][691]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.35.59:788][692]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.35.59:822][693]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.35.59:855][694]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.35.59:888][695]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.35.59:922][696]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.35.59:956][697]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.35.59:989][698]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.36.00:022][699]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.36.00:056][700]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.36.00:089][701]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.36.00:122][702]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.36.00:156][703]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.36.00:189][704]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.36.00:222][705]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.36.00:256][706]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.36.00:289][707]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.36.00:322][708]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.36.00:356][709]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.36.00:389][710]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.36.00:423][711]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.36.00:456][712]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.36.00:489][713]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.36.00:522][714]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.36.00:555][715]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.36.00:588][716]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.36.00:622][717]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.36.00:655][718]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.36.00:688][719]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.36.00:722][720]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.36.00:755][721]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.36.00:788][722]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.36.00:821][723]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.36.00:855][724]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.36.00:888][725]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.36.00:922][726]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.36.00:955][727]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.36.00:988][728]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.36.01:022][729]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.36.01:055][730]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.36.01:089][731]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.36.01:122][732]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.36.01:155][733]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.36.01:188][734]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.36.01:222][735]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.36.01:255][736]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.36.01:289][737]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.36.01:323][738]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.36.01:356][739]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.36.01:389][740]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.36.01:422][741]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.36.01:456][742]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.36.01:489][743]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.36.01:522][744]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.36.01:556][745]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.36.01:588][746]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.36.01:622][747]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.36.01:655][748]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.36.01:688][749]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.36.01:722][750]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.36.01:755][751]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.36.01:788][752]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.36.01:822][753]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.36.01:855][754]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.36.01:889][755]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.36.01:922][756]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.36.01:955][757]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.36.01:989][758]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.36.02:021][759]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.36.02:055][760]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.36.02:088][761]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.36.02:122][762]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.36.02:155][763]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.36.02:188][764]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.36.02:222][765]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.36.02:256][766]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.36.02:289][767]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.36.02:322][768]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.36.02:356][769]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.36.02:389][770]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.36.02:422][771]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.36.02:455][772]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.36.02:489][773]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.36.02:522][774]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.36.02:556][775]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.36.02:589][776]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.36.02:621][777]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.36.02:655][778]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.36.02:689][779]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.36.02:722][780]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.36.02:756][781]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.36.02:789][782]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.36.02:821][783]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.36.02:856][784]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.36.02:888][785]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.36.02:921][786]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.36.02:955][787]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.36.02:989][788]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.36.03:022][789]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.36.03:055][790]LogTemp: Warning: Value: 1.000000
+[2025.08.21-16.36.03:089][791]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.36.03:123][792]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.36.03:157][793]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.36.03:189][794]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.36.03:222][795]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.36.03:255][796]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.36.03:288][797]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.36.03:322][798]LogTemp: Warning: Value: 0.000000
+[2025.08.21-16.36.03:356][798]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.21-16.36.03:356][798]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Minimal_Default_2
+[2025.08.21-16.36.03:356][798]LogWorld: UWorld::CleanupWorld for Minimal_Default_2, bSessionEnded=true, bCleanupResources=true
+[2025.08.21-16.36.03:356][798]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.21-16.36.03:382][798]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.21-16.36.03:387][798]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.21-16.36.03:413][798]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.21-16.36.03:413][798]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2025.08.21-16.36.03:414][798]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2025.08.21-16.36.03:416][798]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2025.08.21-16.36.03:453][798]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2025.08.21-16.36.04:080][801]LogPlayLevel: Display: Destroying online subsystem :Context_20
