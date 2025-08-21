@@ -2160,3 +2160,170 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.08.21-00.24.20:877][347]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 96131.859375
 [2025.08.21-00.24.21:181][356]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.08.21-00.24.21:181][357]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 96132.109375, Update Interval: 320.561554
+[2025.08.21-00.25.29:338][395]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Auriculares (Vieta Pro Calm 2 Stereo), InstanceID=1
+[2025.08.21-00.25.29:354][395]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.08.21-00.25.29:354][395]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=7160
+[2025.08.21-00.25.29:487][399]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.08.21-00.25.29:499][399]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=44100, DeviceID={0.0.0.00000000}.{a6cfb85f-2618-431e-bd23-0177754ea7a2}, Name=Auriculares (Vieta Pro Calm 2 Stereo)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=130.04
+[2025.08.21-00.25.29:500][399]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.08.21-00.25.29:504][399]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.08.21-00.30.40:061][696]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 96490.328125
+[2025.08.21-00.30.40:295][703]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.21-00.30.40:295][703]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 96490.523438, Update Interval: 315.145111
+[2025.08.21-00.35.38:803][614]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2025.08.21-00.35.38:819][614]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.08.21-00.35.38:819][614]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=7160
+[2025.08.21-00.35.38:885][616]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.08.21-00.35.38:888][616]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=44100, DeviceID={0.0.0.00000000}.{a6cfb85f-2618-431e-bd23-0177754ea7a2}, Name=Auriculares (Vieta Pro Calm 2 Stereo)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=34.58
+[2025.08.21-00.35.38:889][616]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.08.21-00.35.38:893][616]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.08.21-00.35.59:143][220]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Altavoces (Realtek(R) Audio), InstanceID=1
+[2025.08.21-03.37.16:272][220]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 107668.054688
+[2025.08.21-03.37.16:281][221]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.08.21-03.37.16:281][221]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=7160
+[2025.08.21-03.37.16:301][221]LogAutomationController: Ignoring very large delta of 10877.29 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.08.21-03.37.16:348][223]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.08.21-03.37.16:364][223]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{58ea4715-9790-4598-9427-e0f8b9d39fd0}, Name=Altavoces (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=46.61
+[2025.08.21-03.37.16:364][223]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.08.21-03.37.16:373][223]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.08.21-03.37.16:393][223]LogEOSSDK: Warning: LogHttp: 00000777BC5F1E00: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.08.21-03.37.16:393][223]LogEOSSDK: Warning: LogHttp: 00000777BC5F1E00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.08.21-03.37.16:395][223]LogEOSSDK: Warning: LogHttp: 00000777BC5F1E00: libcurl info message cache 0 (Too old connection (10893 seconds idle), disconnect it)
+[2025.08.21-03.37.16:395][223]LogEOSSDK: Warning: LogHttp: 00000777BC5F1E00: libcurl info message cache 1 (Connection 71 seems to be dead)
+[2025.08.21-03.37.16:395][223]LogEOSSDK: Warning: LogHttp: 00000777BC5F1E00: libcurl info message cache 2 (Closing connection)
+[2025.08.21-03.37.16:395][223]LogEOSSDK: Warning: LogHttp: 00000777BC5F1E00: libcurl info message cache 3 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.08.21-03.37.16:395][223]LogEOSSDK: Warning: LogHttp: 00000777BC5F1E00: libcurl info message cache 4 (Hostname in DNS cache was stale, zapped)
+[2025.08.21-03.37.16:395][223]LogEOSSDK: Warning: LogHttp: 00000777BC5F1E00: libcurl info message cache 5 (Could not resolve host: api.epicgames.dev)
+[2025.08.21-03.37.16:395][223]LogEOSSDK: Warning: LogHttp: 00000777BC5F1E00: libcurl info message cache 6 (Closing connection)
+[2025.08.21-03.37.16:395][223]LogEOSSDK: Warning: LogHttp: 00000777BC5F1200: invalid HTTP response code received. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7BB4D74304-4A2C-272A-87EF-54B88D312DD7%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.16.4-36651368%20-%20%2B%2BEOSSDK%2BRelease-1.16.4-CL-36651368&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.08.21-03.37.16:396][224]LogEOSSDK: Warning: LogHttp: 00000777BC5F1200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.08.21-03.37.16:396][224]LogEOSSDK: Warning: LogHttp: 00000777BC5F1200: libcurl info message cache 0 (Found bundle for host: 0x77793880ab0 [serially])
+[2025.08.21-03.37.16:396][224]LogEOSSDK: Warning: LogHttp: 00000777BC5F1200: libcurl info message cache 1 (Could not resolve host: api.epicgames.dev)
+[2025.08.21-03.37.16:396][224]LogEOSSDK: Warning: LogHttp: 00000777BC5F1200: libcurl info message cache 2 (Closing connection)
+[2025.08.21-03.37.16:396][224]LogEOSSDK: Warning: LogHttp: 00000777BC5FA200: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=6BAC697644400E79391FC19E7B2DBB00, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.08.21-03.37.16:397][224]LogEOSSDK: Warning: LogHttp: 00000777BC5FA200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.08.21-03.37.16:397][224]LogEOSSDK: Warning: LogHttp: 00000777BC5FA200: libcurl info message cache 0 (Found bundle for host: 0x77793880ab0 [serially])
+[2025.08.21-03.37.16:397][224]LogEOSSDK: Warning: LogHttp: 00000777BC5FA200: libcurl info message cache 1 (Could not resolve host: api.epicgames.dev)
+[2025.08.21-03.37.16:397][224]LogEOSSDK: Warning: LogHttp: 00000777BC5FA200: libcurl info message cache 2 (Closing connection)
+[2025.08.21-03.37.16:397][224]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.08.21-03.37.16:397][224]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=6BAC697644400E79391FC19E7B2DBB00
+[2025.08.21-03.37.16:406][224]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7BB4D74304-4A2C-272A-87EF-54B88D312DD7%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.16.4-36651368%20-%20%2B%2BEOSSDK%2BRelease-1.16.4-CL-36651368&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2025.08.21-03.37.17:411][253]LogEOSSDK: Warning: LogHttp: Retry 1 on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.08.21-03.37.17:411][254]LogEOSSDK: Warning: LogHttp: Retry 1 on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=6BAC697644400E79391FC19E7B2DBB00
+[2025.08.21-03.37.17:916][268]LogEOSSDK: Warning: LogHttp: Success on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=6BAC697644400E79391FC19E7B2DBB00
+[2025.08.21-03.37.17:953][269]LogEOSSDK: Warning: LogHttp: Success on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.08.21-03.37.18:263][278]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.21-03.37.18:263][278]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 107670.007812, Update Interval: 346.484558
+[2025.08.21-10.18.15:029][272]LogAutomationController: Ignoring very large delta of 24038.14 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.08.21-10.18.52:942][367]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 131775.406250
+[2025.08.21-10.18.53:208][375]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.21-10.18.53:209][376]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 131775.625000, Update Interval: 300.538361
+[2025.08.21-10.24.47:613][988]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 132107.437500
+[2025.08.21-10.24.47:846][995]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.21-10.24.47:849][996]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 132107.625000, Update Interval: 335.690186
+[2025.08.21-10.26.12:044][521]LogDerivedDataCache: C:/Users/Usuario/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.058 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.08.21-10.31.03:521][260]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 132459.796875
+[2025.08.21-10.31.03:754][267]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.21-10.31.03:754][267]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 132459.984375, Update Interval: 314.742279
+[2025.08.21-10.35.17:696][875]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2025.08.21-10.35.17:724][875]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.08.21-10.35.17:724][875]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=7160
+[2025.08.21-10.35.17:757][876]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.08.21-10.35.17:760][876]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{58ea4715-9790-4598-9427-e0f8b9d39fd0}, Name=Altavoces (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=21.24
+[2025.08.21-10.35.17:761][876]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.08.21-10.35.17:763][876]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.08.21-11.06.41:418][130]LogAutomationController: Ignoring very large delta of 1875.26 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.08.21-11.07.17:993][170]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 134615.765625
+[2025.08.21-11.07.19:448][213]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.21-11.07.19:448][213]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 134617.078125, Update Interval: 314.848480
+[2025.08.21-11.12.37:406][710]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2025.08.21-11.12.37:423][710]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.08.21-11.12.37:423][710]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=7160
+[2025.08.21-11.12.37:456][711]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.08.21-11.12.37:458][711]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{58ea4715-9790-4598-9427-e0f8b9d39fd0}, Name=Altavoces (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=23.07
+[2025.08.21-11.12.37:460][711]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.08.21-11.12.37:461][711]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.08.21-12.15.23:529][963]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 138683.218750
+[2025.08.21-12.15.24:137][964]LogAutomationController: Ignoring very large delta of 3758.28 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.08.21-12.15.25:253][974]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.21-12.15.25:259][975]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 138684.906250, Update Interval: 312.118286
+[2025.08.21-12.15.31:453][979]LogAutomationController: Ignoring very large delta of 6.11 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.08.21-12.21.31:683][739]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 139031.218750
+[2025.08.21-12.21.31:916][746]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.21-12.21.31:916][746]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 139031.406250, Update Interval: 302.446350
+[2025.08.21-12.27.17:521][105]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 139358.000000
+[2025.08.21-12.27.17:757][112]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.21-12.27.17:757][112]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 139358.187500, Update Interval: 301.829285
+[2025.08.21-12.32.54:026][193]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 139677.859375
+[2025.08.21-12.32.54:393][204]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.21-12.32.54:393][204]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 139678.171875, Update Interval: 346.057922
+[2025.08.21-12.39.22:761][840]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 140046.359375
+[2025.08.21-12.39.23:029][848]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.21-12.39.23:029][849]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 140046.578125, Update Interval: 338.284851
+[2025.08.21-12.39.51:740][597]LogLiveCoding: Display: Starting Live Coding compile.
+[2025.08.21-12.39.57:851][703]LogAutomationController: Ignoring very large delta of 2.36 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.08.21-12.40.00:265][756]LogSlate: Window 'BP_Bird' being destroyed
+[2025.08.21-12.40.00:287][756]LogSlate: Window 'BP_Bird' being destroyed
+[2025.08.21-12.40.00:583][756]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.08.21-12.40.00:611][756]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.21-12.40.02:819][756]LogUObjectHash: Compacting FUObjectHashTables data took  21.82ms
+[2025.08.21-12.40.02:870][756]LogAutomationController: Ignoring very large delta of 2.74 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.08.21-12.40.10:314][804]LogSlate: External Image Picker: DecompressImage failed
+[2025.08.21-12.40.11:666][804]LogAutomationController: Ignoring very large delta of 6.74 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.08.21-12.40.54:510][  6]LogLiveCoding: Display:    Creating library C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Binaries\Win64\UnrealEditor-Slash_Project.patch_3.lib and object C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Binaries\Win64\UnrealEditor-Slash_Project.patch_3.exp
+[2025.08.21-12.40.56:011][  9]LogUObjectHash: Compacting FUObjectHashTables data took   6.37ms
+[2025.08.21-12.40.59:046][ 10]LogAutomationController: Ignoring very large delta of 4.41 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.08.21-12.40.59:048][ 10]Display: Reload/Re-instancing Complete: 1 package changed, 1 class unchanged
+[2025.08.21-12.40.59:048][ 10]LogLiveCoding: Display: Live coding succeeded
+[2025.08.21-12.41.22:375][596]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.08.21-12.41.22:481][596]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.21-12.41.22:518][596]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Minimal_Default_2
+[2025.08.21-12.41.22:635][596]LogPlayLevel: PIE: StaticDuplicateObject took: (0.114176s)
+[2025.08.21-12.41.22:636][596]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Minimal_Default_2.Minimal_Default_2 to /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 (0.118318s)
+[2025.08.21-12.41.22:946][596]LogUObjectHash: Compacting FUObjectHashTables data took  25.07ms
+[2025.08.21-12.41.22:958][596]LogChaosDD: Creating Chaos Debug Draw Scene for world Minimal_Default_2
+[2025.08.21-12.41.23:029][596]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2'.
+[2025.08.21-12.41.23:070][596]LogPlayLevel: PIE: World Init took: (0.113232s)
+[2025.08.21-12.41.23:075][596]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2025.08.21-12.41.23:077][596]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.21-12.41.23:077][596]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.21-12.41.23:077][596]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.21-12.41.23:077][596]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.21-12.41.23:077][596]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.21-12.41.23:077][596]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.21-12.41.23:077][596]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.21-12.41.23:077][596]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.21-12.41.23:080][596]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.21-12.41.23:080][596]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.21-12.41.23:080][596]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.21-12.41.23:089][596]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.21-12.41.23:112][596]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.08.21-12.41.23:133][596]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.21-12.41.23:134][596]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.21-12.41.23:137][596]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.21-12.41.23:146][596]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2025.08.21-12.41.23:146][596]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2025.08.21-12.41.23:149][596]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2025.08.21-12.41.23:149][596]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2025.08.21-12.41.23:151][596]LogInit: FAudioDevice initialized with ID 4.
+[2025.08.21-12.41.23:152][596]LogAudio: Display: Audio Device (ID: 4) registered with world 'Minimal_Default_2'.
+[2025.08.21-12.41.23:158][596]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2025.08.21-12.41.23:227][596]LogLoad: Game class is 'GameModeBase'
+[2025.08.21-12.41.23:282][596]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 up for play (max tick rate 0) at 2025.08.21-14.41.23
+[2025.08.21-12.41.23:289][596]LogWorld: Bringing up level for play took: 0.059679
+[2025.08.21-12.41.23:319][596]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2025.08.21-12.41.23:397][596]PIE: Server logged in
+[2025.08.21-12.41.23:400][596]PIE: Play in editor total start time 0.97 seconds.
+[2025.08.21-12.41.26:957][629]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.21-12.41.26:957][629]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Minimal_Default_2
+[2025.08.21-12.41.26:963][629]LogWorld: UWorld::CleanupWorld for Minimal_Default_2, bSessionEnded=true, bCleanupResources=true
+[2025.08.21-12.41.26:965][629]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.21-12.41.26:996][629]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.21-12.41.27:006][629]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.21-12.41.27:085][629]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.08.21-12.41.27:118][629]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2025.08.21-12.41.27:118][629]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.08.21-12.41.27:121][629]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.08.21-12.41.27:130][629]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.21-12.41.27:828][629]LogUObjectHash: Compacting FUObjectHashTables data took 595.80ms
+[2025.08.21-12.41.28:299][632]LogPlayLevel: Display: Destroying online subsystem :Context_17
