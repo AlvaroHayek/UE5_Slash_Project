@@ -2327,3 +2327,37 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.08.21-12.41.27:130][629]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2025.08.21-12.41.27:828][629]LogUObjectHash: Compacting FUObjectHashTables data took 595.80ms
 [2025.08.21-12.41.28:299][632]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2025.08.21-12.46.00:829][765]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 140423.468750
+[2025.08.21-12.46.01:731][792]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.21-12.46.01:733][792]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 140424.281250, Update Interval: 352.415527
+[2025.08.21-12.52.39:866][715]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 140798.656250
+[2025.08.21-12.52.40:167][724]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.21-12.52.40:167][725]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 140798.906250, Update Interval: 320.330811
+[2025.08.21-12.58.39:561][490]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 141135.796875
+[2025.08.21-12.58.39:895][500]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.21-12.58.39:895][501]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 141136.078125, Update Interval: 355.735352
+[2025.08.21-12.59.39:792][295]LogDerivedDataCache: C:/Users/Usuario/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.006 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.08.21-13.05.20:870][460]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 141513.125000
+[2025.08.21-13.05.21:139][468]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.21-13.05.21:139][469]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 141513.343750, Update Interval: 310.840179
+[2025.08.21-13.10.02:453][880]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2025.08.21-13.10.02:463][880]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.08.21-13.10.02:463][880]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=7160
+[2025.08.21-13.10.02:496][881]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.08.21-13.10.02:500][881]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{58ea4715-9790-4598-9427-e0f8b9d39fd0}, Name=Altavoces (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=29.87
+[2025.08.21-13.10.02:500][881]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.08.21-13.10.02:504][881]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.08.21-13.10.16:760][160]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2025.08.21-16.08.07:396][161]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.08.21-16.08.07:396][161]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=7160
+[2025.08.21-16.08.07:439][161]LogAutomationController: Ignoring very large delta of 10675.65 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.08.21-16.08.07:683][164]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.08.21-16.08.07:687][164]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{58ea4715-9790-4598-9427-e0f8b9d39fd0}, Name=Altavoces (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=265.57
+[2025.08.21-16.08.07:687][164]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.08.21-16.08.07:712][164]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.08.21-16.08.39:890][ 88]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 152493.781250
+[2025.08.21-16.08.40:124][ 95]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.21-16.08.40:124][ 95]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 152493.968750, Update Interval: 345.889465
+[2025.08.21-16.14.58:104][407]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 152847.890625
+[2025.08.21-16.14.58:470][418]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.21-16.14.58:471][419]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 152848.203125, Update Interval: 330.801117
