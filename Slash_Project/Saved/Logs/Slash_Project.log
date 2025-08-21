@@ -2096,3 +2096,67 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.08.20-22.17.10:840][970]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 88650.945312
 [2025.08.20-22.17.11:406][987]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.08.20-22.17.11:406][987]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 88651.453125, Update Interval: 316.798615
+[2025.08.20-22.23.12:944][816]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 88996.992188
+[2025.08.20-22.23.13:676][838]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.20-22.23.13:676][838]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 88997.648438, Update Interval: 321.918396
+[2025.08.20-22.29.06:013][398]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 89330.312500
+[2025.08.20-22.29.06:284][405]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.20-22.29.06:284][406]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 89330.531250, Update Interval: 359.567871
+[2025.08.20-22.31.13:648][226]LogDerivedDataCache: C:/Users/Usuario/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.002 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.08.20-22.35.52:691][591]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 89713.695312
+[2025.08.20-22.35.53:092][603]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.20-22.35.53:093][604]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 89714.039062, Update Interval: 344.268921
+[2025.08.20-22.42.32:718][571]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 90094.992188
+[2025.08.20-22.42.32:984][579]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.20-22.42.32:984][579]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 90095.210938, Update Interval: 335.649902
+[2025.08.20-22.46.31:090][713]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2025.08.20-22.46.31:113][713]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.08.20-22.46.31:114][713]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=7160
+[2025.08.20-22.46.31:281][718]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.08.20-22.46.31:285][718]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{58ea4715-9790-4598-9427-e0f8b9d39fd0}, Name=Altavoces (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=166.38
+[2025.08.20-22.46.31:285][718]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.08.20-22.46.31:288][718]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.08.21-00.00.13:057][ 21]LogAutomationController: Ignoring very large delta of 4423.46 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.08.21-00.00.59:562][359]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 94800.179688
+[2025.08.21-00.00.59:800][366]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.21-00.00.59:800][366]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 94800.375000, Update Interval: 305.204010
+[2025.08.21-00.06.52:377][911]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 95135.406250
+[2025.08.21-00.06.52:689][919]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.21-00.06.52:690][919]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 95135.640625, Update Interval: 325.218048
+[2025.08.21-00.12.57:449][828]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 95481.429688
+[2025.08.21-00.12.57:682][835]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.21-00.12.57:682][835]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 95481.617188, Update Interval: 300.763580
+[2025.08.21-00.18.20:660][256]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.21-00.18.26:032][256]LogAutomationController: Ignoring very large delta of 11.19 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.08.21-00.18.29:446][352]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 95796.132812
+[2025.08.21-00.18.29:703][360]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.21-00.18.29:703][360]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 95796.359375, Update Interval: 303.178802
+[2025.08.21-00.23.16:449][924]LogUObjectHash: Compacting FUObjectHashTables data took   6.94ms
+[2025.08.21-00.23.18:075][924]LogSlate: Window 'Save Content' being destroyed
+[2025.08.21-00.23.18:150][924]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.21-00.23.18:327][924]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.08.21-00.23.18:459][924]LogSavePackage: Moving output files for package: /Game/Maps/Minimal_Default_2
+[2025.08.21-00.23.18:461][924]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Minimal_Default_26D8D7F974D22B129004BF0BC20D3EA6C.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Maps/Minimal_Default_2.umap'
+[2025.08.21-00.23.18:554][924]LogFileHelpers: Saving map 'Minimal_Default_2' took 0.356
+[2025.08.21-00.23.18:556][924]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Pawns/BP_Bird] ([2] browsable assets)...
+[2025.08.21-00.23.18:556][924]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Pawns/BP_Bird]
+[2025.08.21-00.23.18:573][924]LogSavePackage: Moving output files for package: /Game/Blueprints/Pawns/BP_Bird
+[2025.08.21-00.23.18:575][924]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/BP_BirdF6A9B7264109177CB10A9EB6F1889541.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Pawns/BP_Bird.uasset'
+[2025.08.21-00.23.18:586][924]LogFileHelpers: InternalPromptForCheckoutAndSave took 436.340 ms (total: 973.579 ms)
+[2025.08.21-00.23.18:628][924]LogContentValidation: Display: Starting to validate 2 assets
+[2025.08.21-00.23.18:629][924]LogContentValidation: Enabled validators:
+[2025.08.21-00.23.18:629][924]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.21-00.23.18:629][924]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.21-00.23.18:629][924]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.21-00.23.18:629][924]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.21-00.23.18:629][924]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.21-00.23.18:629][924]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.21-00.23.18:636][924]AssetCheck: /Game/Maps/Minimal_Default_2 Validating asset
+[2025.08.21-00.23.18:637][924]AssetCheck: /Game/Blueprints/Pawns/BP_Bird Validating asset
+[2025.08.21-00.23.18:658][924]LogAutomationController: Ignoring very large delta of 2.48 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.08.21-00.23.24:297][ 59]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.21-00.23.24:305][ 59]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.21-00.23.37:483][ 61]LogAutomationController: Ignoring very large delta of 13.15 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.08.21-00.24.20:877][347]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 96131.859375
+[2025.08.21-00.24.21:181][356]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.21-00.24.21:181][357]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 96132.109375, Update Interval: 320.561554
