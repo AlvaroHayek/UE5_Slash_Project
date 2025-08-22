@@ -3270,3 +3270,221 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.08.21-22.45.14:404][ 90]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.08.21-22.45.14:406][ 90]AssetCheck: /Game/Maps/Minimal_Default_2 Validating asset
 [2025.08.21-22.45.14:406][ 90]AssetCheck: /Game/Blueprints/Pawns/BP_Bird Validating asset
+[2025.08.21-22.46.18:174][994]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 176015.328125
+[2025.08.21-22.46.18:476][  3]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.21-22.46.18:476][  3]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 176015.578125, Update Interval: 310.823700
+[2025.08.21-22.52.28:849][ 95]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 176367.562500
+[2025.08.21-22.52.34:367][260]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.21-22.52.34:367][260]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 176372.734375, Update Interval: 350.758392
+[2025.08.21-22.58.11:882][363]LogDerivedDataCache: C:/Users/Usuario/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.08.21-22.59.03:427][907]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 176740.828125
+[2025.08.21-22.59.03:764][917]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.21-22.59.03:764][918]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 176741.109375, Update Interval: 325.364532
+[2025.08.21-23.05.09:331][802]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 177088.203125
+[2025.08.21-23.05.09:567][809]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.21-23.05.09:567][809]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 177088.390625, Update Interval: 357.630554
+[2025.08.21-23.10.13:817][802]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2025.08.21-23.10.15:771][843]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.08.21-23.10.15:791][843]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.21-23.10.15:791][843]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Minimal_Default_2
+[2025.08.21-23.10.15:796][843]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004344s)
+[2025.08.21-23.10.15:796][843]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Minimal_Default_2.Minimal_Default_2 to /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 (0.004407s)
+[2025.08.21-23.10.15:850][843]LogUObjectHash: Compacting FUObjectHashTables data took   8.86ms
+[2025.08.21-23.10.15:858][843]LogChaosDD: Creating Chaos Debug Draw Scene for world Minimal_Default_2
+[2025.08.21-23.10.15:860][843]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2'.
+[2025.08.21-23.10.15:861][843]LogPlayLevel: PIE: World Init took: (0.003501s)
+[2025.08.21-23.10.15:863][843]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2025.08.21-23.10.15:863][843]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.21-23.10.15:863][843]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.21-23.10.15:863][843]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.21-23.10.15:863][843]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.21-23.10.15:863][843]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.21-23.10.15:863][843]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.21-23.10.15:863][843]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.21-23.10.15:863][843]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.21-23.10.15:864][843]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.21-23.10.15:864][843]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.21-23.10.15:864][843]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.21-23.10.15:868][843]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.21-23.10.15:890][843]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.08.21-23.10.15:891][843]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.21-23.10.15:891][843]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.21-23.10.15:891][843]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.21-23.10.15:892][843]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2025.08.21-23.10.15:892][843]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2025.08.21-23.10.15:896][843]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2025.08.21-23.10.15:896][843]LogInit: FAudioDevice initialized with ID 13.
+[2025.08.21-23.10.15:896][843]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2025.08.21-23.10.15:896][843]LogAudio: Display: Audio Device (ID: 13) registered with world 'Minimal_Default_2'.
+[2025.08.21-23.10.15:896][843]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2025.08.21-23.10.15:899][843]LogLoad: Game class is 'GameModeBase'
+[2025.08.21-23.10.15:901][843]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 up for play (max tick rate 0) at 2025.08.22-01.10.15
+[2025.08.21-23.10.15:901][843]LogWorld: Bringing up level for play took: 0.001773
+[2025.08.21-23.10.15:906][843]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2025.08.21-23.10.15:908][843]PIE: Server logged in
+[2025.08.21-23.10.15:910][843]PIE: Play in editor total start time 0.119 seconds.
+[2025.08.21-23.10.21:099][945]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.21-23.10.21:099][945]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Minimal_Default_2
+[2025.08.21-23.10.21:099][945]LogWorld: UWorld::CleanupWorld for Minimal_Default_2, bSessionEnded=true, bCleanupResources=true
+[2025.08.21-23.10.21:100][945]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.21-23.10.21:111][945]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.21-23.10.21:120][945]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.21-23.10.21:177][945]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.08.21-23.10.21:177][945]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2025.08.21-23.10.21:177][945]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2025.08.21-23.10.21:180][945]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2025.08.21-23.10.21:186][945]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.21-23.10.21:190][945]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2025.08.21-23.10.21:659][948]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2025.08.21-23.10.52:649][715]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2025.08.21-23.10.56:909][746]LogAutomationController: Ignoring very large delta of 2.02 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.08.21-23.11.26:047][454]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2025.08.21-23.11.26:066][454]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Minimal_Default_2_Auto5
+[2025.08.21-23.11.26:066][454]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Minimal_Default_2_Auto57B32F0604D13E781CE0E139936C66B3C.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Autosaves/Game/Maps/Minimal_Default_2_Auto5.umap'
+[2025.08.21-23.11.26:080][454]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Minimal_Default_2' took 0.063
+[2025.08.21-23.11.26:080][454]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.063
+[2025.08.21-23.11.26:082][454]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Pawns/BP_Bird] ([2] browsable assets)...
+[2025.08.21-23.11.26:298][454]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Pawns/BP_Bird.BP_Bird]
+[2025.08.21-23.11.26:299][454]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Pawns/BP_Bird]
+[2025.08.21-23.11.26:305][454]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Pawns/BP_Bird_Auto5
+[2025.08.21-23.11.26:305][454]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/BP_Bird_Auto5255360554ED5A325FBC117ACF5D41AFF.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Autosaves/Game/Blueprints/Pawns/BP_Bird_Auto5.uasset'
+[2025.08.21-23.11.26:307][454]LogFileHelpers: Auto-saving content packages took 0.226
+[2025.08.21-23.11.51:352][158]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 177471.687500
+[2025.08.21-23.11.51:719][169]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.21-23.11.51:719][169]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 177472.000000, Update Interval: 350.196228
+[2025.08.21-23.18.27:479][  3]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 177845.468750
+[2025.08.21-23.18.28:349][ 29]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.21-23.18.28:349][ 29]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 177846.265625, Update Interval: 308.022095
+[2025.08.21-23.23.30:197][ 58]LogHttp: Warning: 0000077784A12A00: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2025.08.21-23.23.30:197][ 58]LogHttp: Warning: 0000077784A12A00: libcurl info message cache 0 (Found bundle for host: 0x776ed840600 [serially])
+[2025.08.21-23.23.30:197][ 58]LogHttp: Warning: 0000077784A12A00: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2025.08.21-23.23.30:197][ 58]LogHttp: Warning: 0000077784A12A00: libcurl info message cache 2 (We are completely uploaded and fine)
+[2025.08.21-23.23.30:197][ 58]LogHttp: Warning: 0000077784A12A00: libcurl info message cache 3 (TLSv1.3 (IN), TLS alert, close notify (256):)
+[2025.08.21-23.23.30:197][ 58]LogHttp: Warning: 0000077784A12A00: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2025.08.21-23.23.30:197][ 59]LogHttp: Warning: 0000077784A12A00: libcurl info message cache 5 (state.rewindbeforesend = TRUE)
+[2025.08.21-23.23.30:197][ 59]LogHttp: Warning: 0000077784A12A00: libcurl info message cache 6 (Closing connection)
+[2025.08.21-23.23.30:197][ 59]LogHttp: Warning: 0000077784A12A00: libcurl info message cache 7 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.08.21-23.23.30:197][ 59]LogHttp: Warning: 0000077784A12A00: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B204772C0-47C5-AF1D-35B5-CB9688310D44%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.3-39772772%2B%2B%2BUE5%2BRelease-5.5&UserID=9ffb585a415f8b5ea3099583a3a7266d%7C8558b0f0649c41fd8c81a81c61794009%7C7a8c91b2-78e4-4ba2-9615-51435d5b763c&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2025.08.21-23.23.30:197][ 59]LogHttp: Warning: 0000077784A12A00: libcurl info message cache 9 (  Trying 34.205.98.152:443...)
+[2025.08.21-23.23.30:197][ 59]LogHttp: Warning: 0000077784A12A00: libcurl info message cache 10 (Connected to datarouter.ol.epicgames.com (34.205.98.152) port 443)
+[2025.08.21-23.23.30:197][ 59]LogHttp: Warning: 0000077784A12A00: libcurl info message cache 11 (ALPN: curl offers http/1.1)
+[2025.08.21-23.23.30:248][ 60]LogHttp: Warning: 0000077784A12A00: libcurl info message cache 12 (SSL reusing session ID)
+[2025.08.21-23.23.30:248][ 60]LogHttp: Warning: 0000077784A12A00: libcurl info message cache 13 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2025.08.21-23.23.30:248][ 60]LogHttp: Warning: 0000077784A12A00: libcurl info message cache 14 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2025.08.21-23.23.30:248][ 60]LogHttp: Warning: 0000077784A12A00: libcurl info message cache 15 (TLSv1.3 (IN), TLS handshake, Encrypted Extensions (8):)
+[2025.08.21-23.23.30:248][ 60]LogHttp: Warning: 0000077784A12A00: libcurl info message cache 16 (TLSv1.3 (IN), TLS handshake, Certificate (11):)
+[2025.08.21-23.23.30:248][ 60]LogHttp: Warning: 0000077784A12A00: libcurl info message cache 17 (TLSv1.3 (IN), TLS handshake, CERT verify (15):)
+[2025.08.21-23.23.30:248][ 60]LogHttp: Warning: 0000077784A12A00: libcurl info message cache 18 (TLSv1.3 (IN), TLS handshake, Finished (20):)
+[2025.08.21-23.23.30:248][ 60]LogHttp: Warning: 0000077784A12A00: libcurl info message cache 19 (TLSv1.3 (OUT), TLS change cipher, Change cipher spec (1):)
+[2025.08.21-23.23.30:248][ 60]LogHttp: Warning: 0000077784A12A00: libcurl info message cache 20 (TLSv1.3 (OUT), TLS handshake, Finished (20):)
+[2025.08.21-23.23.30:248][ 60]LogHttp: Warning: 0000077784A12A00: libcurl info message cache 21 (SSL connection using TLSv1.3 / TLS_AES_128_GCM_SHA256)
+[2025.08.21-23.23.30:248][ 60]LogHttp: Warning: 0000077784A12A00: libcurl info message cache 22 (ALPN: server accepted http/1.1)
+[2025.08.21-23.23.30:248][ 60]LogHttp: Warning: 0000077784A12A00: libcurl info message cache 23 (Server certificate:)
+[2025.08.21-23.23.30:248][ 60]LogHttp: Warning: 0000077784A12A00: libcurl info message cache 24 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2025.08.21-23.23.30:248][ 60]LogHttp: Warning: 0000077784A12A00: libcurl info message cache 25 ( start date: Feb  2 00:00:00 2025 GMT)
+[2025.08.21-23.23.30:248][ 60]LogHttp: Warning: 0000077784A12A00: libcurl info message cache 26 ( expire date: Mar  3 23:59:59 2026 GMT)
+[2025.08.21-23.23.30:249][ 60]LogHttp: Warning: 0000077784A12A00: libcurl info message cache 27 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2025.08.21-23.23.30:249][ 60]LogHttp: Warning: 0000077784A12A00: libcurl info message cache 28 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M03)
+[2025.08.21-23.23.30:249][ 60]LogHttp: Warning: 0000077784A12A00: libcurl info message cache 29 ( SSL certificate verify ok.)
+[2025.08.21-23.23.30:249][ 60]LogHttp: Warning: 0000077784A12A00: libcurl info message cache 30 (using HTTP/1.1)
+[2025.08.21-23.23.30:249][ 60]LogHttp: Warning: 0000077784A12A00: libcurl info message cache 31 (necessary data rewind wasn't possible)
+[2025.08.21-23.23.30:249][ 60]LogHttp: Warning: 0000077784A12A00: libcurl info message cache 32 (Closing connection)
+[2025.08.21-23.23.30:249][ 60]LogHttp: Warning: 0000077784A12A00: libcurl info message cache 33 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.08.21-23.24.18:215][494]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 178178.984375
+[2025.08.21-23.24.18:430][501]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.21-23.24.18:430][502]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 178179.156250, Update Interval: 303.491913
+[2025.08.21-23.30.01:760][751]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 178505.953125
+[2025.08.21-23.30.02:046][760]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.21-23.30.02:046][761]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 178506.218750, Update Interval: 333.491028
+[2025.08.21-23.36.29:919][311]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 178874.281250
+[2025.08.21-23.36.30:222][320]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.21-23.36.30:222][320]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 178874.531250, Update Interval: 300.417480
+[2025.08.21-23.42.08:221][346]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 179191.078125
+[2025.08.21-23.42.08:487][354]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.21-23.42.08:488][355]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 179191.296875, Update Interval: 334.421204
+[2025.08.21-23.48.38:671][987]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 179557.531250
+[2025.08.21-23.48.38:902][994]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.21-23.48.38:902][994]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 179557.718750, Update Interval: 319.072845
+[2025.08.21-23.54.35:637][661]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 179892.234375
+[2025.08.21-23.54.35:871][668]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.21-23.54.35:871][668]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 179892.421875, Update Interval: 351.637329
+[2025.08.21-23.58.11:889][139]LogDerivedDataCache: C:/Users/Usuario/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.003 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.08.22-00.01.14:027][595]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 180266.328125
+[2025.08.22-00.01.14:262][602]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.22-00.01.14:262][602]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 180266.515625, Update Interval: 348.431030
+[2025.08.22-00.04.46:181][957]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Auriculares (Vieta Pro Calm 2 Stereo), InstanceID=1
+[2025.08.22-00.04.46:196][957]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.08.22-00.04.46:198][957]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=7160
+[2025.08.22-00.04.46:362][962]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.08.22-00.04.46:370][962]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=44100, DeviceID={0.0.0.00000000}.{a6cfb85f-2618-431e-bd23-0177754ea7a2}, Name=Auriculares (Vieta Pro Calm 2 Stereo)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=157.49
+[2025.08.22-00.04.46:372][962]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.08.22-00.04.46:378][962]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.08.22-00.07.50:637][487]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 180639.234375
+[2025.08.22-00.07.50:873][494]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.22-00.07.50:873][494]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 180639.421875, Update Interval: 359.813232
+[2025.08.22-00.14.22:743][206]LogUObjectHash: Compacting FUObjectHashTables data took  11.12ms
+[2025.08.22-00.14.24:312][206]LogSlate: Window 'Save Content' being destroyed
+[2025.08.22-00.14.24:332][206]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.22-00.14.24:521][206]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.08.22-00.14.24:598][206]LogSavePackage: Moving output files for package: /Game/Maps/Minimal_Default_2
+[2025.08.22-00.14.24:600][206]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Minimal_Default_2551DAEE24A37AC9CD71E3CA3682A19D9.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Maps/Minimal_Default_2.umap'
+[2025.08.22-00.14.24:695][206]LogFileHelpers: Saving map 'Minimal_Default_2' took 0.311
+[2025.08.22-00.14.24:698][206]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Pawns/BP_Bird] ([2] browsable assets)...
+[2025.08.22-00.14.24:698][206]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Pawns/BP_Bird]
+[2025.08.22-00.14.24:707][206]LogSavePackage: Moving output files for package: /Game/Blueprints/Pawns/BP_Bird
+[2025.08.22-00.14.24:708][206]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/BP_BirdAB8169424CA7E39C47FD519E87AD983A.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Pawns/BP_Bird.uasset'
+[2025.08.22-00.14.24:724][206]LogFileHelpers: InternalPromptForCheckoutAndSave took 394.193 ms (total: 2.19 sec)
+[2025.08.22-00.14.24:779][206]LogContentValidation: Display: Starting to validate 2 assets
+[2025.08.22-00.14.24:780][206]LogContentValidation: Enabled validators:
+[2025.08.22-00.14.24:781][206]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.22-00.14.24:781][206]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.22-00.14.24:781][206]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.22-00.14.24:781][206]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.22-00.14.24:781][206]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.22-00.14.24:781][206]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.22-00.14.24:786][206]AssetCheck: /Game/Maps/Minimal_Default_2 Validating asset
+[2025.08.22-00.14.24:787][206]AssetCheck: /Game/Blueprints/Pawns/BP_Bird Validating asset
+[2025.08.22-00.14.24:811][206]LogAutomationController: Ignoring very large delta of 2.49 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.08.22-00.14.25:216][218]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 181009.328125
+[2025.08.22-00.14.25:451][225]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.22-00.14.25:451][225]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 181009.515625, Update Interval: 345.523254
+[2025.08.22-00.14.29:157][333]LogLiveCoding: Display: Starting Live Coding compile.
+[2025.08.22-00.14.54:648][ 96]LogLiveCoding: Display:    Creating library C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Binaries\Win64\UnrealEditor-Slash_Project.patch_6.lib and object C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Binaries\Win64\UnrealEditor-Slash_Project.patch_6.exp
+[2025.08.22-00.14.54:928][ 99]LogClass: UPackage /Script/Slash_Project Reload.
+[2025.08.22-00.14.54:931][ 99]LogClass: UClass Bird Reload.
+[2025.08.22-00.14.54:937][ 99]LogClass: Could not find existing class Bird in package /Script/Slash_Project for reload, assuming new or modified class
+[2025.08.22-00.14.55:007][ 99]Re-instancing Bird after reload.
+[2025.08.22-00.14.56:373][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2025.08.22-00.14.58:549][100]LogAutomationController: Ignoring very large delta of 3.80 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.08.22-00.14.58:840][100]Display: Reload/Re-instancing Complete: 1 package changed, 1 class changed
+[2025.08.22-00.14.58:840][100]LogLiveCoding: Warning: Live coding succeeded, data type changes may cause packaging to fail if assets reference the new or updated data types
+[2025.08.22-00.21.09:462][ 99]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 181389.078125
+[2025.08.22-00.21.09:730][107]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.22-00.21.09:730][108]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 181389.296875, Update Interval: 317.040314
+[2025.08.22-00.22.20:830][137]LogUObjectHash: Compacting FUObjectHashTables data took  16.69ms
+[2025.08.22-00.22.21:764][137]LogSlate: Window 'Save Content' being destroyed
+[2025.08.22-00.22.21:784][137]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.22-00.22.21:994][137]LogUObjectHash: Compacting FUObjectHashTables data took   5.85ms
+[2025.08.22-00.22.22:014][137]LogSavePackage: Moving output files for package: /Game/Maps/Minimal_Default_2
+[2025.08.22-00.22.22:015][137]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Minimal_Default_2CF176CE048B4224AD3B20C8D7E0D44A8.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Maps/Minimal_Default_2.umap'
+[2025.08.22-00.22.22:051][137]LogFileHelpers: Saving map 'Minimal_Default_2' took 0.234
+[2025.08.22-00.22.22:051][137]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Pawns/BP_Bird] ([2] browsable assets)...
+[2025.08.22-00.22.22:065][137]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Pawns/BP_Bird.BP_Bird]
+[2025.08.22-00.22.22:065][137]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Pawns/BP_Bird]
+[2025.08.22-00.22.22:070][137]LogSavePackage: Moving output files for package: /Game/Blueprints/Pawns/BP_Bird
+[2025.08.22-00.22.22:071][137]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/BP_Bird1A15B7CC44311DF02CE43DBFD30F7BF2.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Pawns/BP_Bird.uasset'
+[2025.08.22-00.22.22:081][137]LogFileHelpers: InternalPromptForCheckoutAndSave took 297.024 ms (total: 2.49 sec)
+[2025.08.22-00.22.22:108][137]LogContentValidation: Display: Starting to validate 2 assets
+[2025.08.22-00.22.22:108][137]LogContentValidation: Enabled validators:
+[2025.08.22-00.22.22:109][137]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.22-00.22.22:109][137]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.22-00.22.22:109][137]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.22-00.22.22:109][137]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.22-00.22.22:109][137]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.22-00.22.22:109][137]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.22-00.22.22:109][137]AssetCheck: /Game/Maps/Minimal_Default_2 Validating asset
+[2025.08.22-00.22.22:109][137]AssetCheck: /Game/Blueprints/Pawns/BP_Bird Validating asset
+[2025.08.22-00.22.39:227][633]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2025.08.22-00.27.09:785][689]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 181728.312500
+[2025.08.22-00.27.10:052][697]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.22-00.27.10:052][697]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 181728.531250, Update Interval: 336.633209
