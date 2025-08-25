@@ -50,6 +50,12 @@
     <Filter Include="Source\Slash_Project\Private">
       <UniqueIdentifier>{A07B341A-CF6B-3E5A-B52B-B63F47BB4AC2}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source\Slash_Project\Private\Characters">
+      <UniqueIdentifier>{2AA13B30-CD77-39A6-BDC8-7113DBBD7816}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Slash_Project\Private\Characters\SlashCharacter.cpp">
+      <Filter>Source\Slash_Project\Private\Characters</Filter>
+    </ClCompile>
     <Filter Include="Source\Slash_Project\Private\Items">
       <UniqueIdentifier>{B5ABFF33-EF40-3A20-8924-52FD06A882A6}</UniqueIdentifier>
     </Filter>
@@ -65,6 +71,12 @@
     <Filter Include="Source\Slash_Project\Public">
       <UniqueIdentifier>{837A0832-DA3C-38A7-8503-42A05DA40DAC}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source\Slash_Project\Public\Characters">
+      <UniqueIdentifier>{75883F9D-6375-3F94-AA9E-0662BB63D24A}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Slash_Project\Public\Characters\SlashCharacter.h">
+      <Filter>Source\Slash_Project\Public\Characters</Filter>
+    </ClCompile>
     <Filter Include="Source\Slash_Project\Public\Items">
       <UniqueIdentifier>{71A1109C-7BB5-3049-A640-C7E6DBB3768D}</UniqueIdentifier>
     </Filter>

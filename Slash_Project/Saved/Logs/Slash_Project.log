@@ -1849,3 +1849,301 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.08.25-22.14.17:699][759]AssetCheck: /Game/Character_Erika_Archer/FemaleFitA_Body_diffuse Validating asset
 [2025.08.25-22.14.17:700][759]AssetCheck: /Game/Character_Erika_Archer/FemaleFitA_eyelash_diffuse Validating asset
 [2025.08.25-22.14.17:700][759]AssetCheck: /Game/Character_Erika_Archer/FemaleFitA_StdNM Validating asset
+[2025.08.25-22.15.45:232][375]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16791.138672
+[2025.08.25-22.15.45:464][382]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.25-22.15.45:464][382]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16791.339844, Update Interval: 304.559479
+[2025.08.25-22.17.12:136][891]LogStreaming: Display: FlushAsyncLoading(376): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.25-22.17.12:172][891]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Usuario/Downloads/Erika_Archer_Jump.fbx]
+[2025.08.25-22.17.21:120][891]LogSlate: Window 'Import Content' being destroyed
+[2025.08.25-22.17.21:141][891]LogInterchangeEngine: [Pending] Importing
+[2025.08.25-22.17.21:415][894]LogStreaming: Display: FlushAsyncLoading(377): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.25-22.17.21:464][895]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Character_Erika_Archer/Erika_Archer_Jump.Erika_Archer_Jump (Required Memory Estimate: 0.96 MB)
+[2025.08.25-22.17.21:487][895]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Usuario/Downloads/Erika_Archer_Jump.fbx]
+[2025.08.25-22.17.21:487][895]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.08.25-22.17.21:487][895]LogInterchangeEngine: [Success] Import Done
+[2025.08.25-22.17.21:489][896]LogAnimationCompression: Display: Storing compressed animation data for /Game/Character_Erika_Archer/Erika_Archer_Jump.Erika_Archer_Jump, at AnimationSequence/97a7f76349d394e927c54106801fa6b9d35a9468
+[2025.08.25-22.17.35:446][307]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.08.25-22.17.35:446][307]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.08.25-22.19.41:116][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.08.25-22.19.41:118][ 56]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/SlashOpenWorld' took 0.018
+[2025.08.25-22.19.41:119][ 56]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character_Erika_Archer/Erika_Archer_Jump] ([1] browsable assets)...
+[2025.08.25-22.19.41:300][ 56]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Character_Erika_Archer/Erika_Archer_Jump.Erika_Archer_Jump]
+[2025.08.25-22.19.41:300][ 56]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character_Erika_Archer/Erika_Archer_Jump]
+[2025.08.25-22.19.41:311][ 56]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Character_Erika_Archer/Erika_Archer_Jump_Auto2
+[2025.08.25-22.19.41:311][ 56]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Erika_Archer_Jump_Auto23427AC0447F66123A3DE09A74277C708.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Autosaves/Game/Character_Erika_Archer/Erika_Archer_Jump_Auto2.uasset'
+[2025.08.25-22.19.41:312][ 56]LogFileHelpers: Auto-saving content packages took 0.193
+[2025.08.25-22.21.43:412][719]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17148.892578
+[2025.08.25-22.21.43:647][726]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.25-22.21.43:647][726]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17149.091797, Update Interval: 317.459625
+[2025.08.25-22.27.55:842][890]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17520.757812
+[2025.08.25-22.27.56:075][897]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.25-22.27.56:075][897]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17520.957031, Update Interval: 317.838684
+[2025.08.25-22.33.55:240][666]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17879.488281
+[2025.08.25-22.33.55:473][673]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.25-22.33.55:473][674]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17879.687500, Update Interval: 318.690155
+[2025.08.25-22.34.57:741][538]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Auriculares (Vieta Pro Calm 2 Stereo), InstanceID=1
+[2025.08.25-22.34.57:742][538]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.08.25-22.34.57:742][538]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=9516
+[2025.08.25-22.34.57:909][543]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.08.25-22.34.57:911][543]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=44100, DeviceID={0.0.0.00000000}.{a6cfb85f-2618-431e-bd23-0177754ea7a2}, Name=Auriculares (Vieta Pro Calm 2 Stereo)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=143.01
+[2025.08.25-22.34.57:911][543]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.08.25-22.34.57:914][543]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.08.25-22.40.01:793][640]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18245.271484
+[2025.08.25-22.40.03:465][690]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.25-22.40.03:466][691]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18246.906250, Update Interval: 354.131287
+[2025.08.25-22.46.46:408][753]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18649.070312
+[2025.08.25-22.46.46:641][760]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.25-22.46.46:641][760]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18649.267578, Update Interval: 300.893585
+[2025.08.25-22.52.42:476][409]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19004.351562
+[2025.08.25-22.52.42:738][417]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.25-22.52.42:738][417]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19004.585938, Update Interval: 351.575073
+[2025.08.25-22.52.54:086][698]LogEditorClassViewer: Warning: Class /Game/Clinic/Demo/FirstPersonBP/FirstPersonOverview.FirstPersonOverview_C has parent /Script/IntroTutorials.EditorTutorial, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.08.25-22.52.54:185][698]LogSlate: Took 0.010191 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.08.25-22.53.14:031][275]Running C:/Program Files/Epic Games/UE_5.5/Engine/Build/BatchFiles/Build.bat  -projectfiles -project="C:/Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Slash_Project.uproject" -game -rocket -progress
+[2025.08.25-22.53.14:359][275]Using bundled DotNet SDK version: 8.0.300
+[2025.08.25-22.53.14:359][275]Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" -projectfiles -project="C:/Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Slash_Project.uproject" -game -rocket -progress
+[2025.08.25-22.53.16:269][275]Log file: C:\Users\Usuario\AppData\Local\UnrealBuildTool\Log_GPF.txt
+[2025.08.25-22.53.19:993][275]
+[2025.08.25-22.53.19:993][275]Generating VisualStudio project files:
+[2025.08.25-22.53.19:993][275]Discovering modules, targets and source code for project...
+[2025.08.25-22.53.32:165][275]Binding IntelliSense data...
+[2025.08.25-22.53.33:801][275]Exception while generating include data for UnrealEditor: System.ArgumentNullException: Value cannot be null. (Parameter 'element')
+[2025.08.25-22.53.33:801][275]   at System.ArgumentNullException.Throw(String paramName)
+[2025.08.25-22.53.33:801][275]   at System.Attribute.GetCustomAttributes(MemberInfo element, Type attributeType, Boolean inherit)
+[2025.08.25-22.53.33:801][275]   at System.Reflection.CustomAttributeExtensions.GetCustomAttributes[T](MemberInfo element)
+[2025.08.25-22.53.33:801][275]   at UnrealBuildTool.ModuleRules.IsValidForTarget(Type moduleType, ReadOnlyTargetRules targetRules, String& invalidReason) in C:\Program Files\Epic Games\UE_5.5\Engine\Source\Programs\UnrealBuildTool\Configuration\ModuleRules.cs:line 1680
+[2025.08.25-22.53.33:801][275]   at UnrealBuildTool.UEBuildTarget.AddAllValidModulesToTarget(ILogger Logger) in C:\Program Files\Epic Games\UE_5.5\Engine\Source\Programs\UnrealBuildTool\Configuration\UEBuildTarget.cs:line 4266
+[2025.08.25-22.53.33:801][275]   at UnrealBuildTool.UEBuildTarget.PreBuildSetup(ILogger Logger) in C:\Program Files\Epic Games\UE_5.5\Engine\Source\Programs\UnrealBuildTool\Configuration\UEBuildTarget.cs:line 3720
+[2025.08.25-22.53.33:801][275]   at UnrealBuildTool.UEBuildTarget.Create(TargetDescriptor Descriptor, Boolean bSkipRulesCompile, Boolean bForceRulesCompile, Boolean bUsePrecompiled, UnrealIntermediateEnvironment IntermediateEnvironment, ILogger Logger) in C:\Program Files\Epic Games\UE_5.5\Engine\Source\Programs\UnrealBuildTool\Configuration\UEBuildTarget.cs:line 1390
+[2025.08.25-22.53.33:802][275]   at UnrealBuildTool.ProjectFileGenerator.GenerateIntelliSenseData(String[] Arguments, List`1 Targets, ILogger Logger) in C:\Program Files\Epic Games\UE_5.5\Engine\Source\Programs\UnrealBuildTool\ProjectFiles\ProjectFileGenerator.cs:line 2176
+[2025.08.25-22.53.37:139][275]Binding IntelliSense data... 100%
+[2025.08.25-22.53.37:240][275]Writing project files...
+[2025.08.25-22.53.40:306][275]Writing project files... 100%
+[2025.08.25-22.53.40:408][275]
+[2025.08.25-22.53.40:408][275]Generating QueryTargets data for editor...
+[2025.08.25-22.53.40:408][275]Total execution time: 24.97 seconds
+[2025.08.25-22.53.40:747][275]LogSlate: Window 'Add C++ Class' being destroyed
+[2025.08.25-22.53.40:795][275]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.40:807][275]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.40:809][275]LogLiveCoding: Display: Starting Live Coding compile.
+[2025.08.25-22.53.40:837][276]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.40:845][276]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.41:130][277]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.41:143][277]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.41:218][278]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.41:232][278]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.41:283][279]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.41:300][279]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.41:313][280]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.41:324][280]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.41:347][281]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.41:356][281]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.41:381][282]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.41:391][282]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.41:421][283]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.41:431][283]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.41:453][284]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.41:462][284]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.41:505][285]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.41:516][285]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.41:530][286]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.41:995][286]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.42:014][287]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.42:041][287]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.42:056][288]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.42:063][288]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.42:157][289]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.42:164][289]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.42:192][290]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.42:208][290]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.42:258][291]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.42:270][291]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.42:306][292]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.42:327][292]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.42:346][293]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.42:357][293]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.42:380][294]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.42:398][294]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.42:437][295]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.42:450][295]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.42:465][296]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.42:488][296]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.42:511][297]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.42:527][297]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.42:569][298]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.42:578][298]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.42:601][299]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.42:609][299]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.42:634][300]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.42:643][300]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.42:667][301]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.42:675][301]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.42:699][302]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.42:707][302]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.42:737][303]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.42:745][303]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.42:769][304]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.42:778][304]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.42:802][305]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.42:811][305]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.42:835][306]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.42:843][306]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.42:869][307]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.42:878][307]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.42:902][308]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.42:911][308]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.42:935][309]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.42:944][309]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.42:969][310]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.42:978][310]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.43:002][311]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.43:012][311]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.43:034][312]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.43:042][312]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.43:068][313]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.43:076][313]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.43:106][314]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.43:115][314]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.43:139][315]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.43:147][315]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.43:194][316]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.43:200][316]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.43:214][317]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.43:221][317]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.43:247][318]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.43:253][318]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.43:280][319]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.43:286][319]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.43:314][320]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.43:331][320]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.43:445][321]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.43:452][321]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.43:465][322]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.43:471][322]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.43:497][323]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.43:503][323]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.43:530][324]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.43:536][324]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.43:566][325]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.43:573][325]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.43:598][326]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.43:604][326]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.43:631][327]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.43:636][327]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.43:665][328]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.43:670][328]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.43:698][329]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.43:705][329]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.43:732][330]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.43:738][330]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.43:766][331]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.43:771][331]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.43:798][332]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.43:804][332]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.43:831][333]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.43:838][333]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.43:865][334]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.43:873][334]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.43:900][335]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.43:933][335]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.43:948][336]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.43:957][336]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.43:982][337]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.43:991][337]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.44:014][338]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.44:022][338]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.44:048][339]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.44:054][339]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.44:081][340]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.44:087][340]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.44:115][341]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.44:121][341]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.44:149][342]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.44:157][342]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.44:182][343]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.44:188][343]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.44:216][344]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.44:221][344]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.44:249][345]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.44:256][345]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.44:283][346]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.44:288][346]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.44:317][347]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.44:325][347]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.44:388][348]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.44:400][348]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.44:417][349]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.44:426][349]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.44:449][350]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.44:459][350]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.44:482][351]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.44:489][351]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.44:516][352]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.44:526][352]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.44:550][353]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.44:557][353]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.44:581][354]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.44:587][354]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.44:615][355]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.44:620][355]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.44:649][356]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.44:657][356]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.44:682][357]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.44:687][357]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.44:716][358]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.44:722][358]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.44:749][359]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.44:764][359]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.44:783][360]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.44:792][360]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.44:819][361]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.44:830][361]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.44:861][362]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.44:861][362]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.44:887][363]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.44:894][363]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.44:919][364]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.44:931][364]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.44:952][365]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.44:962][365]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.44:985][366]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.44:999][366]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.45:024][367]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.45:036][367]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.45:053][368]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.45:061][368]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.45:087][369]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.45:100][369]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.45:121][370]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.45:130][370]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.45:154][371]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.45:165][371]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.45:195][372]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.45:204][372]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.45:226][373]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.45:237][373]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.45:258][374]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.45:267][374]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.45:296][375]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.45:305][375]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.45:326][376]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.45:334][376]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.45:361][377]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.45:373][377]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.45:395][378]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.45:401][378]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.45:428][379]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.45:436][379]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.45:460][380]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.45:474][380]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.45:496][381]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.45:508][381]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.45:529][382]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.45:543][382]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.45:564][383]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.45:574][383]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.45:597][384]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.45:606][384]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.45:630][385]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.53.47:846][385]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.08.25-22.54.28:671][213]LogDerivedDataCache: C:/Users/Usuario/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.129 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
