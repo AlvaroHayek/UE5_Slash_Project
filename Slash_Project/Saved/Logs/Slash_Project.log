@@ -1383,3 +1383,469 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.08.25-17.39.38:502][663]LogTexture: Display: Building textures: /Game/Materials/Rough_Rock/Rough_Rock_xbkgbab_1K_BaseColor.Rough_Rock_xbkgbab_1K_BaseColor (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 115.583323 MB), EncodeSpeed: Final
 [2025.08.25-17.39.39:439][689]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
 [2025.08.25-17.39.39:439][689]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_1'.
+[2025.08.25-17.40.42:158][553]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2025.08.25-17.40.42:200][554]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.08.25-17.40.42:201][554]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=9516
+[2025.08.25-17.40.42:322][557]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.08.25-17.40.42:332][557]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{58ea4715-9790-4598-9427-e0f8b9d39fd0}, Name=Altavoces (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=96.04
+[2025.08.25-17.40.42:334][557]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.08.25-17.40.42:346][557]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.08.25-17.40.54:901][781]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2025.08.25-20.42.05:507][781]LogShaderCompilers: Warning: Distributed compilation controller didn't receive a completed task in 10867.302927 seconds!
+[2025.08.25-20.42.06:966][782]LogShaderCompilers: Display: ================================================
+[2025.08.25-20.42.06:966][782]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.08.25-20.42.06:968][782]LogShaderCompilers: Display: Total job queries 435, among them cache hits 162 (37.24%), DDC hits 263 (60.46%), Duplicates 5 (1.15%)
+[2025.08.25-20.42.06:968][782]LogShaderCompilers: Display: Tracking 268 distinct input hashes that result in 214 distinct outputs (79.85%)
+[2025.08.25-20.42.06:968][782]LogShaderCompilers: Display: RAM used: 141.84 KiB of 819.20 MiB budget. Usage: 0.02%
+[2025.08.25-20.42.06:968][782]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.08.25-20.42.06:968][782]LogShaderCompilers: Display: Shaders Compiled: 5
+[2025.08.25-20.42.06:968][782]LogShaderCompilers: Display: Jobs assigned 5, completed 5 (100%)
+[2025.08.25-20.42.06:968][782]LogShaderCompilers: Display: Average time worker was idle: 0.72 s
+[2025.08.25-20.42.06:968][782]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.11 s
+[2025.08.25-20.42.06:968][782]LogShaderCompilers: Display: Job execution time: average 1.26 s, max 1.83 s
+[2025.08.25-20.42.06:968][782]LogShaderCompilers: Display: Job life time (pending + execution): average 1.34 s, max 1.93
+[2025.08.25-20.42.06:968][782]LogShaderCompilers: Display: Shader code size: average 6.287 KiB, min 4.008 KiB, max 8.422 KiB
+[2025.08.25-20.42.06:968][782]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 3.12 s
+[2025.08.25-20.42.06:968][782]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2025.08.25-20.42.06:968][782]LogShaderCompilers: Display: Jobs were issued in 5 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.08.25-20.42.06:968][782]LogShaderCompilers: Display: Average processing rate: 1.60 jobs/sec
+[2025.08.25-20.42.06:968][782]LogShaderCompilers: Display: Total thread time: 2.426 s
+[2025.08.25-20.42.06:968][782]LogShaderCompilers: Display: Total thread preprocess time: 7.393 s
+[2025.08.25-20.42.06:968][782]LogShaderCompilers: Display: Percentage time preprocessing: 304.77%
+[2025.08.25-20.42.06:968][782]LogShaderCompilers: Display: Effective parallelization: 0.78 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.08.25-20.42.06:968][782]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.08.25-20.42.06:968][782]LogShaderCompilers: Display:                                                FMeshDecalsPS (compiled    1 times, average 0.53 sec, max 0.53 sec, min 0.53 sec)
+[2025.08.25-20.42.06:968][782]LogShaderCompilers: Display:                                        FMeshDecalsEmissivePS (compiled    1 times, average 0.52 sec, max 0.52 sec, min 0.52 sec)
+[2025.08.25-20.42.06:968][782]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 0.48 sec, max 0.49 sec, min 0.47 sec)
+[2025.08.25-20.42.06:968][782]LogShaderCompilers: Display:                                                FMeshDecalsVS (compiled    1 times, average 0.41 sec, max 0.41 sec, min 0.41 sec)
+[2025.08.25-20.42.06:968][782]LogShaderCompilers: Display:                    TVoxelizeVolumePS<VMode_Primitive_Sphere> (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.08.25-20.42.06:968][782]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.08.25-20.42.06:968][782]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 39.54% of total time (compiled    2 times, average 0.48 sec, max 0.49 sec, min 0.47 sec)
+[2025.08.25-20.42.06:968][782]LogShaderCompilers: Display:                                                FMeshDecalsPS - 21.99% of total time (compiled    1 times, average 0.53 sec, max 0.53 sec, min 0.53 sec)
+[2025.08.25-20.42.06:968][782]LogShaderCompilers: Display:                                        FMeshDecalsEmissivePS - 21.51% of total time (compiled    1 times, average 0.52 sec, max 0.52 sec, min 0.52 sec)
+[2025.08.25-20.42.06:969][782]LogShaderCompilers: Display:                                                FMeshDecalsVS - 16.96% of total time (compiled    1 times, average 0.41 sec, max 0.41 sec, min 0.41 sec)
+[2025.08.25-20.42.06:969][782]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.08.25-20.42.06:969][782]LogShaderCompilers: Display: === Material stats ===
+[2025.08.25-20.42.06:969][782]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.08.25-20.42.06:969][782]LogShaderCompilers: Display: Materials Translated:    197
+[2025.08.25-20.42.06:969][782]LogShaderCompilers: Display: Material Total Translate Time: 0.20 s
+[2025.08.25-20.42.06:969][782]LogShaderCompilers: Display: Material Translation Only: 0.09 s (43%)
+[2025.08.25-20.42.06:969][782]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.08.25-20.42.06:969][782]LogShaderCompilers: Display: Material Cache Hits: 36 (18%)
+[2025.08.25-20.42.06:969][782]LogShaderCompilers: Display: ================================================
+[2025.08.25-20.42.06:982][782]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.08.25-20.42.06:982][782]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=9516
+[2025.08.25-20.42.07:854][782]LogHttp: Warning: 000008A63B73A100: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.08.25-20.42.07:854][782]LogHttp: Warning: 000008A63B73A100: libcurl info message cache 0 (Too old connection (10917 seconds idle), disconnect it)
+[2025.08.25-20.42.07:854][782]LogHttp: Warning: 000008A63B73A100: libcurl info message cache 1 (Connection 0 seems to be dead)
+[2025.08.25-20.42.07:854][782]LogHttp: Warning: 000008A63B73A100: libcurl info message cache 2 (Closing connection)
+[2025.08.25-20.42.07:854][782]LogHttp: Warning: 000008A63B73A100: libcurl info message cache 3 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.08.25-20.42.07:854][782]LogHttp: Warning: 000008A63B73A100: libcurl info message cache 4 (Could not resolve host: datarouter.ol.epicgames.com)
+[2025.08.25-20.42.07:854][782]LogHttp: Warning: 000008A63B73A100: libcurl info message cache 5 (Closing connection)
+[2025.08.25-20.42.07:855][782]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11159.910156
+[2025.08.25-20.42.07:855][782]LogEOSSDK: Warning: LogHttp: 000008A63C207E00: invalid HTTP response code received. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B00B5F20C-41AA-9100-BC04-EBBF25F44758%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.16.4-36651368%20-%20%2B%2BEOSSDK%2BRelease-1.16.4-CL-36651368&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.08.25-20.42.07:855][782]LogEOSSDK: Warning: LogHttp: 000008A63C207E00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.08.25-20.42.07:855][782]LogEOSSDK: Warning: LogHttp: 000008A63C207E00: libcurl info message cache 0 (Too old connection (10918 seconds idle), disconnect it)
+[2025.08.25-20.42.07:855][782]LogEOSSDK: Warning: LogHttp: 000008A63C207E00: libcurl info message cache 1 (Connection 2 seems to be dead)
+[2025.08.25-20.42.07:855][782]LogEOSSDK: Warning: LogHttp: 000008A63C207E00: libcurl info message cache 2 (Closing connection)
+[2025.08.25-20.42.07:856][782]LogEOSSDK: Warning: LogHttp: 000008A63C207E00: libcurl info message cache 3 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.08.25-20.42.07:856][783]LogEOSSDK: Warning: LogHttp: 000008A63C207E00: libcurl info message cache 4 (Too old connection (10918 seconds idle), disconnect it)
+[2025.08.25-20.42.07:856][783]LogEOSSDK: Warning: LogHttp: 000008A63C207E00: libcurl info message cache 5 (Connection 3 seems to be dead)
+[2025.08.25-20.42.07:856][783]LogEOSSDK: Warning: LogHttp: 000008A63C207E00: libcurl info message cache 6 (Closing connection)
+[2025.08.25-20.42.07:856][783]LogEOSSDK: Warning: LogHttp: 000008A63C207E00: libcurl info message cache 7 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.08.25-20.42.07:856][783]LogEOSSDK: Warning: LogHttp: 000008A63C207E00: libcurl info message cache 8 (Hostname in DNS cache was stale, zapped)
+[2025.08.25-20.42.07:856][783]LogEOSSDK: Warning: LogHttp: 000008A63C207E00: libcurl info message cache 9 (Could not resolve host: api.epicgames.dev)
+[2025.08.25-20.42.07:856][783]LogEOSSDK: Warning: LogHttp: 000008A63C207E00: libcurl info message cache 10 (Closing connection)
+[2025.08.25-20.42.07:856][783]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B00B5F20C-41AA-9100-BC04-EBBF25F44758%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.16.4-36651368%20-%20%2B%2BEOSSDK%2BRelease-1.16.4-CL-36651368&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2025.08.25-20.42.07:867][783]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.08.25-20.42.07:867][783]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{58ea4715-9790-4598-9427-e0f8b9d39fd0}, Name=Altavoces (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=181.22
+[2025.08.25-20.42.07:867][783]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.08.25-20.42.07:885][783]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.08.25-20.42.07:903][783]LogEOSSDK: Warning: LogHttp: 000008A63C201800: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.08.25-20.42.07:903][783]LogEOSSDK: Warning: LogHttp: 000008A63C201800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.08.25-20.42.07:903][783]LogEOSSDK: Warning: LogHttp: 000008A63C201800: libcurl info message cache 0 (Could not resolve host: api.epicgames.dev)
+[2025.08.25-20.42.07:903][783]LogEOSSDK: Warning: LogHttp: 000008A63C201800: libcurl info message cache 1 (Closing connection)
+[2025.08.25-20.42.07:903][783]LogEOSSDK: Warning: LogHttp: 000008A63C20F000: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=CD88A4A246367F5CBF6E95B32803CDBE, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.08.25-20.42.07:903][783]LogEOSSDK: Warning: LogHttp: 000008A63C20F000: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.08.25-20.42.07:903][784]LogEOSSDK: Warning: LogHttp: 000008A63C20F000: libcurl info message cache 0 (Found bundle for host: 0x8a645880ba0 [serially])
+[2025.08.25-20.42.07:903][784]LogEOSSDK: Warning: LogHttp: 000008A63C20F000: libcurl info message cache 1 (Could not resolve host: api.epicgames.dev)
+[2025.08.25-20.42.07:903][784]LogEOSSDK: Warning: LogHttp: 000008A63C20F000: libcurl info message cache 2 (Closing connection)
+[2025.08.25-20.42.07:903][784]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.08.25-20.42.07:904][784]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=CD88A4A246367F5CBF6E95B32803CDBE
+[2025.08.25-20.42.07:996][786]LogEOSSDK: Warning: LogHttp: 000008A63C204E00: invalid HTTP response code received. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B00B5F20C-41AA-9100-BC04-EBBF25F44758%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.16.4-36651368%20-%20%2B%2BEOSSDK%2BRelease-1.16.4-CL-36651368&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.08.25-20.42.07:996][786]LogEOSSDK: Warning: LogHttp: 000008A63C204E00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.08.25-20.42.07:996][786]LogEOSSDK: Warning: LogHttp: 000008A63C204E00: libcurl info message cache 0 (Could not resolve host: api.epicgames.dev)
+[2025.08.25-20.42.07:996][786]LogEOSSDK: Warning: LogHttp: 000008A63C204E00: libcurl info message cache 1 (Closing connection)
+[2025.08.25-20.42.07:996][786]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B00B5F20C-41AA-9100-BC04-EBBF25F44758%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.16.4-36651368%20-%20%2B%2BEOSSDK%2BRelease-1.16.4-CL-36651368&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2025.08.25-20.42.08:610][805]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2025.08.25-20.42.08:916][813]LogEOSSDK: Warning: LogHttp: Retry 1 on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.08.25-20.42.08:916][813]LogEOSSDK: Warning: LogHttp: Retry 1 on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=CD88A4A246367F5CBF6E95B32803CDBE
+[2025.08.25-20.42.09:035][817]LogEOSSDK: Warning: LogHttp: 000008A63C201800: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.08.25-20.42.09:035][817]LogEOSSDK: Warning: LogHttp: 000008A63C201800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.08.25-20.42.09:035][817]LogEOSSDK: Warning: LogHttp: 000008A63C201800: libcurl info message cache 2 (Could not resolve host: api.epicgames.dev)
+[2025.08.25-20.42.09:035][817]LogEOSSDK: Warning: LogHttp: 000008A63C201800: libcurl info message cache 3 (Closing connection)
+[2025.08.25-20.42.09:035][817]LogEOSSDK: Warning: LogHttp: 000008A63C20F000: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=CD88A4A246367F5CBF6E95B32803CDBE, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.08.25-20.42.09:035][817]LogEOSSDK: Warning: LogHttp: 000008A63C20F000: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.08.25-20.42.09:035][818]LogEOSSDK: Warning: LogHttp: 000008A63C20F000: libcurl info message cache 3 (Found bundle for host: 0x8a6458806f0 [serially])
+[2025.08.25-20.42.09:035][818]LogEOSSDK: Warning: LogHttp: 000008A63C20F000: libcurl info message cache 4 (Could not resolve host: api.epicgames.dev)
+[2025.08.25-20.42.09:035][818]LogEOSSDK: Warning: LogHttp: 000008A63C20F000: libcurl info message cache 5 (Closing connection)
+[2025.08.25-20.42.09:035][818]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.08.25-20.42.09:035][818]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=CD88A4A246367F5CBF6E95B32803CDBE
+[2025.08.25-20.42.10:043][847]LogEOSSDK: Warning: LogHttp: Retry 2 on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.08.25-20.42.10:044][848]LogEOSSDK: Warning: LogHttp: Retry 2 on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=CD88A4A246367F5CBF6E95B32803CDBE
+[2025.08.25-20.42.10:575][863]LogEOSSDK: Warning: LogHttp: Success on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=CD88A4A246367F5CBF6E95B32803CDBE
+[2025.08.25-20.42.11:119][864]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:56514'.
+[2025.08.25-20.42.11:129][864]LogUdpMessaging: Display: Added local interface '192.168.1.33' to multicast group '230.0.0.1:6666'
+[2025.08.25-20.42.11:158][865]LogEOSSDK: Warning: LogHttp: Success on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.08.25-20.42.11:425][873]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.25-20.42.11:425][873]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11163.449219, Update Interval: 315.776855
+[2025.08.25-21.58.20:241][514]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15746.377930
+[2025.08.25-21.58.20:502][522]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.25-21.58.20:502][522]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15746.613281, Update Interval: 329.837952
+[2025.08.25-22.03.58:345][615]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16084.396484
+[2025.08.25-22.03.58:611][623]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.25-22.03.58:611][623]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16084.628906, Update Interval: 354.766693
+[2025.08.25-22.05.40:953][670]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.08.25-22.05.40:964][670]LogContentBrowser: Creating deferred item: NewFolder
+[2025.08.25-22.05.40:980][671]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.08.25-22.05.50:133][945]LogContentBrowser: Attempting asset rename: NewFolder -> Character_Erika_Archer
+[2025.08.25-22.05.50:135][945]LogContentBrowser: End creating deferred item NewFolder
+[2025.08.25-22.05.53:859][ 54]LogStreaming: Display: FlushAsyncLoading(340): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.25-22.05.59:432][ 54]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Usuario/Downloads/Erika_Archer_Idle.fbx]
+[2025.08.25-22.06.34:953][ 54]LogSlate: Window 'Import Content' being destroyed
+[2025.08.25-22.06.34:987][ 54]LogInterchangeEngine: [Pending] Importing
+[2025.08.25-22.06.35:059][ 55]LogStreaming: Display: FlushAsyncLoading(350): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.25-22.06.35:142][ 57]LogRHI: Error: GpuProfiler's scratch buffer is out of space for this frame (current size : 32 kB). Dropping this frame. The size can be increased dynamically with the console variable r.GpuProfilerMaxEventBufferSizeKB
+[2025.08.25-22.06.35:244][ 59]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2025.08.25-22.06.35:270][ 59]LogStreaming: Display: FlushAsyncLoading(356): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.25-22.06.35:384][ 62]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2025.08.25-22.06.35:394][ 62]LogStreaming: Display: FlushAsyncLoading(359): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.25-22.06.35:437][ 63]LogStreaming: Display: FlushAsyncLoading(360): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.25-22.06.35:578][ 66]LogStreaming: Display: FlushAsyncLoading(361): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.25-22.06.36:002][ 75]LogStreaming: Display: FlushAsyncLoading(362): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.25-22.06.36:100][ 77]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Character_Erika_Archer/Erika_Archer_Idle_Anim.Erika_Archer_Idle_Anim (Required Memory Estimate: 0.88 MB)
+[2025.08.25-22.06.36:136][ 77]LogAnimationCompression: Display: Storing compressed animation data for /Game/Character_Erika_Archer/Erika_Archer_Idle_Anim.Erika_Archer_Idle_Anim, at AnimationSequence/608dc08408bc98929bbef1fe81f574586c0bbbbd
+[2025.08.25-22.06.36:237][ 77]LogTexture: Display: Building textures: /Game/Character_Erika_Archer/Erika_Archer_Clothes_diffuse.Erika_Archer_Clothes_diffuse (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 280.999983 MB), EncodeSpeed: Fast
+[2025.08.25-22.06.36:238][ 77]LogTexture: Display: Building textures: /Game/Character_Erika_Archer/FemaleFitA_Body_diffuse.FemaleFitA_Body_diffuse (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 280.999983 MB), EncodeSpeed: Fast
+[2025.08.25-22.06.36:238][ 77]LogTexture: Display: Building textures: /Game/Character_Erika_Archer/Erika_Archer_Clothes_normal.Erika_Archer_Clothes_normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 337.499988 MB), EncodeSpeed: Fast
+[2025.08.25-22.06.36:247][ 77]LogTexture: Display: Building textures: /Game/Character_Erika_Archer/FemaleFitA_eyelash_diffuse.FemaleFitA_eyelash_diffuse (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2025.08.25-22.06.36:251][ 77]LogTexture: Display: Building textures: /Game/Character_Erika_Archer/FemaleFitA_StdNM.FemaleFitA_StdNM (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 337.499988 MB), EncodeSpeed: Fast
+[2025.08.25-22.06.36:791][ 77]LogSkeletalMesh: Building Skeletal Mesh Erika_Archer_Idle...
+[2025.08.25-22.06.37:328][ 91]LogSkeletalMesh: Built Skeletal Mesh [0.54s] /Game/Character_Erika_Archer/Erika_Archer_Idle.Erika_Archer_Idle
+[2025.08.25-22.06.37:488][ 95]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SkeletalMesh_64.svg'. File could not be found
+[2025.08.25-22.06.39:487][153]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2025.08.25-22.06.39:517][153]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_2'.
+[2025.08.25-22.06.39:528][153]LogMaterial: Display: Material /Game/Character_Erika_Archer/EyeSpec_MAT.EyeSpec_MAT needed to have new flag set bUsedWithSkeletalMesh !
+[2025.08.25-22.06.39:535][153]LogMaterial: Display: Material /Game/Character_Erika_Archer/Akai_MAT.Akai_MAT needed to have new flag set bUsedWithSkeletalMesh !
+[2025.08.25-22.06.39:544][153]LogMaterial: Display: Material /Game/Character_Erika_Archer/eyelash_MAT.eyelash_MAT needed to have new flag set bUsedWithSkeletalMesh !
+[2025.08.25-22.06.39:559][153]LogMaterial: Display: Material /Game/Character_Erika_Archer/Body_MAT.Body_MAT needed to have new flag set bUsedWithSkeletalMesh !
+[2025.08.25-22.06.39:597][153]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.08.25-22.06.39:601][153]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.25-22.06.39:609][153]LogShaderCompilers: Current jobs: 3, Batch size: 1, Num Already Dispatched: 0
+[2025.08.25-22.06.39:749][154]LogShaderCompilers: Current jobs: 4, Batch size: 2, Num Already Dispatched: 3
+[2025.08.25-22.06.39:807][154]LogShaderCompilers: Current jobs: 69, Batch size: 6, Num Already Dispatched: 7
+[2025.08.25-22.06.39:859][154]LogUObjectHash: Compacting FUObjectHashTables data took   5.42ms
+[2025.08.25-22.06.39:890][154]LogShaderCompilers: Current jobs: 2, Batch size: 6, Num Already Dispatched: 76
+[2025.08.25-22.06.39:935][154]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Usuario/Downloads/Erika_Archer_Idle.fbx]
+[2025.08.25-22.06.39:937][154]Interchange: Warning: [ : '', Texture2D] FemaleFitA_eyelash_diffuse is being used as both Color and Scalar which aren't compatible.
+[2025.08.25-22.06.39:937][154]Interchange: Warning: [C:/Users/Usuario/Downloads/Erika_Archer_Idle.fbx : 'Erika_Archer_Idle', SkeletalMesh] Imported skeletal mesh has some invalid bind poses. Skeletal mesh skinning has been rebind using the time zero pose.
+[2025.08.25-22.06.39:937][154]Interchange: Warning: [C:/Users/Usuario/Downloads/Erika_Archer_Idle.fbx : 'Erika_Archer_Idle', SkeletalMesh] No smoothing group information was found for this mesh 'Erika_Archer_Eyes_Mesh' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2025.08.25-22.06.39:937][154]Interchange: Warning: [C:/Users/Usuario/Downloads/Erika_Archer_Idle.fbx : 'Erika_Archer_Idle', SkeletalMesh] No smoothing group information was found for this mesh 'Erika_Archer_Body_Mesh' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2025.08.25-22.06.39:937][154]Interchange: Warning: [C:/Users/Usuario/Downloads/Erika_Archer_Idle.fbx : 'Erika_Archer_Idle', SkeletalMesh] No smoothing group information was found for this mesh 'Erika_Archer_Clothes_Mesh' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2025.08.25-22.06.39:937][154]Interchange: Warning: [C:/Users/Usuario/Downloads/Erika_Archer_Idle.fbx : 'Erika_Archer_Idle', SkeletalMesh] No smoothing group information was found for this mesh 'Erika_Archer_Eyelashes_Mesh' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2025.08.25-22.06.39:961][154]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.08.25-22.06.39:961][154]LogInterchangeEngine: [Success] Import Done
+[2025.08.25-22.06.55:451][612]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2025.08.25-22.06.55:451][612]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_3'.
+[2025.08.25-22.06.55:523][613]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2025.08.25-22.06.55:523][613]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_4'.
+[2025.08.25-22.06.55:653][616]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2025.08.25-22.06.55:653][616]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_5'.
+[2025.08.25-22.06.55:686][617]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2025.08.25-22.06.55:687][617]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_6'.
+[2025.08.25-22.07.10:072][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.08.25-22.07.10:076][ 45]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/SlashOpenWorld' took 0.019
+[2025.08.25-22.07.10:079][ 45]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character_Erika_Archer/Erika_Archer_Idle_PhysicsAsset] ([1] browsable assets)...
+[2025.08.25-22.07.10:171][ 45]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/Character_Erika_Archer/Erika_Archer_Idle_PhysicsAsset.Erika_Archer_Idle_PhysicsAsset]
+[2025.08.25-22.07.10:171][ 45]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character_Erika_Archer/Erika_Archer_Idle_PhysicsAsset]
+[2025.08.25-22.07.10:204][ 45]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Character_Erika_Archer/Erika_Archer_Idle_PhysicsAsset_Auto1
+[2025.08.25-22.07.10:204][ 45]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Erika_Archer_Idle_PhysicsAsset_A712B659C4531D2D0A72D60A556EBCDDB.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Autosaves/Game/Character_Erika_Archer/Erika_Archer_Idle_PhysicsAsset_Auto1.uasset'
+[2025.08.25-22.07.10:214][ 45]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character_Erika_Archer/Erika_Archer_Clothes_diffuse] ([1] browsable assets)...
+[2025.08.25-22.07.10:218][ 45]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Character_Erika_Archer/Erika_Archer_Clothes_diffuse.Erika_Archer_Clothes_diffuse]
+[2025.08.25-22.07.10:218][ 45]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character_Erika_Archer/Erika_Archer_Clothes_diffuse]
+[2025.08.25-22.07.10:234][ 45]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Character_Erika_Archer/Erika_Archer_Clothes_diffuse_Auto1
+[2025.08.25-22.07.10:234][ 45]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Erika_Archer_Clothes_diffuse_Aut1FFD41F647AB5767DD0230954BDF124B.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Autosaves/Game/Character_Erika_Archer/Erika_Archer_Clothes_diffuse_Auto1.uasset'
+[2025.08.25-22.07.10:236][ 45]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character_Erika_Archer/Erika_Archer_Clothes_normal] ([1] browsable assets)...
+[2025.08.25-22.07.10:241][ 45]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Character_Erika_Archer/Erika_Archer_Clothes_normal.Erika_Archer_Clothes_normal]
+[2025.08.25-22.07.10:241][ 45]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character_Erika_Archer/Erika_Archer_Clothes_normal]
+[2025.08.25-22.07.10:256][ 45]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Character_Erika_Archer/Erika_Archer_Clothes_normal_Auto1
+[2025.08.25-22.07.10:256][ 45]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Erika_Archer_Clothes_normal_AutoCB41C24440ABF7576250878078C79EEC.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Autosaves/Game/Character_Erika_Archer/Erika_Archer_Clothes_normal_Auto1.uasset'
+[2025.08.25-22.07.10:257][ 45]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character_Erika_Archer/FemaleFitA_Body_diffuse] ([1] browsable assets)...
+[2025.08.25-22.07.10:259][ 45]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Character_Erika_Archer/FemaleFitA_Body_diffuse.FemaleFitA_Body_diffuse]
+[2025.08.25-22.07.10:260][ 45]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character_Erika_Archer/FemaleFitA_Body_diffuse]
+[2025.08.25-22.07.10:272][ 45]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Character_Erika_Archer/FemaleFitA_Body_diffuse_Auto1
+[2025.08.25-22.07.10:272][ 45]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/FemaleFitA_Body_diffuse_Auto1CA1DF26C483BAA7378C4D7A4B5A78D07.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Autosaves/Game/Character_Erika_Archer/FemaleFitA_Body_diffuse_Auto1.uasset'
+[2025.08.25-22.07.10:273][ 45]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character_Erika_Archer/FemaleFitA_eyelash_diffuse] ([1] browsable assets)...
+[2025.08.25-22.07.10:276][ 45]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Character_Erika_Archer/FemaleFitA_eyelash_diffuse.FemaleFitA_eyelash_diffuse]
+[2025.08.25-22.07.10:276][ 45]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character_Erika_Archer/FemaleFitA_eyelash_diffuse]
+[2025.08.25-22.07.10:291][ 45]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Character_Erika_Archer/FemaleFitA_eyelash_diffuse_Auto1
+[2025.08.25-22.07.10:291][ 45]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/FemaleFitA_eyelash_diffuse_Auto1AC08581A4C1DBC90CC109AAEC5FA1388.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Autosaves/Game/Character_Erika_Archer/FemaleFitA_eyelash_diffuse_Auto1.uasset'
+[2025.08.25-22.07.10:292][ 45]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character_Erika_Archer/Erika_Archer_Idle_Skeleton] ([1] browsable assets)...
+[2025.08.25-22.07.10:307][ 45]OBJ SavePackage:     Rendered thumbnail for [Skeleton /Game/Character_Erika_Archer/Erika_Archer_Idle_Skeleton.Erika_Archer_Idle_Skeleton]
+[2025.08.25-22.07.10:307][ 45]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character_Erika_Archer/Erika_Archer_Idle_Skeleton]
+[2025.08.25-22.07.10:310][ 45]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Character_Erika_Archer/Erika_Archer_Idle_Skeleton_Auto1
+[2025.08.25-22.07.10:310][ 45]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Erika_Archer_Idle_Skeleton_Auto15968E02641BAD26EE7E14999964A4471.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Autosaves/Game/Character_Erika_Archer/Erika_Archer_Idle_Skeleton_Auto1.uasset'
+[2025.08.25-22.07.10:311][ 45]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character_Erika_Archer/FemaleFitA_StdNM] ([1] browsable assets)...
+[2025.08.25-22.07.10:313][ 45]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Character_Erika_Archer/FemaleFitA_StdNM.FemaleFitA_StdNM]
+[2025.08.25-22.07.10:313][ 45]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character_Erika_Archer/FemaleFitA_StdNM]
+[2025.08.25-22.07.10:325][ 45]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Character_Erika_Archer/FemaleFitA_StdNM_Auto1
+[2025.08.25-22.07.10:325][ 45]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/FemaleFitA_StdNM_Auto18976F9424FC1F37D8DD7CE999DB53868.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Autosaves/Game/Character_Erika_Archer/FemaleFitA_StdNM_Auto1.uasset'
+[2025.08.25-22.07.10:327][ 45]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character_Erika_Archer/eyelash_MAT] ([1] browsable assets)...
+[2025.08.25-22.07.10:343][ 45]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Character_Erika_Archer/eyelash_MAT.eyelash_MAT]
+[2025.08.25-22.07.10:343][ 45]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character_Erika_Archer/eyelash_MAT]
+[2025.08.25-22.07.10:348][ 45]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Character_Erika_Archer/eyelash_MAT_Auto1
+[2025.08.25-22.07.10:348][ 45]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/eyelash_MAT_Auto1EE4E3C794DA70503806F1BB154AFA066.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Autosaves/Game/Character_Erika_Archer/eyelash_MAT_Auto1.uasset'
+[2025.08.25-22.07.10:350][ 45]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character_Erika_Archer/Akai_MAT] ([1] browsable assets)...
+[2025.08.25-22.07.10:365][ 45]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Character_Erika_Archer/Akai_MAT.Akai_MAT]
+[2025.08.25-22.07.10:365][ 45]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character_Erika_Archer/Akai_MAT]
+[2025.08.25-22.07.10:369][ 45]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Character_Erika_Archer/Akai_MAT_Auto1
+[2025.08.25-22.07.10:370][ 45]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Akai_MAT_Auto1C847D5544DCC3F6253D015A1231FEC96.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Autosaves/Game/Character_Erika_Archer/Akai_MAT_Auto1.uasset'
+[2025.08.25-22.07.10:371][ 45]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character_Erika_Archer/Body_MAT] ([1] browsable assets)...
+[2025.08.25-22.07.10:383][ 45]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Character_Erika_Archer/Body_MAT.Body_MAT]
+[2025.08.25-22.07.10:383][ 45]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character_Erika_Archer/Body_MAT]
+[2025.08.25-22.07.10:389][ 45]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Character_Erika_Archer/Body_MAT_Auto1
+[2025.08.25-22.07.10:389][ 45]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Body_MAT_Auto18AE892AD4EC8DFB9CBE06BA65854E65D.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Autosaves/Game/Character_Erika_Archer/Body_MAT_Auto1.uasset'
+[2025.08.25-22.07.10:390][ 45]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character_Erika_Archer/EyeSpec_MAT] ([1] browsable assets)...
+[2025.08.25-22.07.10:402][ 45]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Character_Erika_Archer/EyeSpec_MAT.EyeSpec_MAT]
+[2025.08.25-22.07.10:402][ 45]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character_Erika_Archer/EyeSpec_MAT]
+[2025.08.25-22.07.10:406][ 45]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Character_Erika_Archer/EyeSpec_MAT_Auto1
+[2025.08.25-22.07.10:406][ 45]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/EyeSpec_MAT_Auto11045755141B5F6302EC973B6D76614C0.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Autosaves/Game/Character_Erika_Archer/EyeSpec_MAT_Auto1.uasset'
+[2025.08.25-22.07.10:407][ 45]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character_Erika_Archer/Erika_Archer_Idle] ([1] browsable assets)...
+[2025.08.25-22.07.10:422][ 45]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Character_Erika_Archer/Erika_Archer_Idle.Erika_Archer_Idle]
+[2025.08.25-22.07.10:422][ 45]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character_Erika_Archer/Erika_Archer_Idle]
+[2025.08.25-22.07.10:455][ 45]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Character_Erika_Archer/Erika_Archer_Idle_Auto1
+[2025.08.25-22.07.10:455][ 45]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Erika_Archer_Idle_Auto1D217BFC0434E3A89641738B87BE822FC.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Autosaves/Game/Character_Erika_Archer/Erika_Archer_Idle_Auto1.uasset'
+[2025.08.25-22.07.10:457][ 45]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character_Erika_Archer/Erika_Archer_Idle_Anim] ([1] browsable assets)...
+[2025.08.25-22.07.10:470][ 45]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Character_Erika_Archer/Erika_Archer_Idle_Anim.Erika_Archer_Idle_Anim]
+[2025.08.25-22.07.10:470][ 45]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character_Erika_Archer/Erika_Archer_Idle_Anim]
+[2025.08.25-22.07.10:493][ 45]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Character_Erika_Archer/Erika_Archer_Idle_Anim_Auto1
+[2025.08.25-22.07.10:494][ 45]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Erika_Archer_Idle_Anim_Auto122275773429F6ACF8F86C69B3AFD72FB.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Autosaves/Game/Character_Erika_Archer/Erika_Archer_Idle_Anim_Auto1.uasset'
+[2025.08.25-22.07.10:494][ 45]LogFileHelpers: Auto-saving content packages took 0.418
+[2025.08.25-22.07.17:042][241]LogShaderCompilers: Display: ================================================
+[2025.08.25-22.07.17:042][241]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.08.25-22.07.17:042][241]LogShaderCompilers: Display: Total job queries 529, among them cache hits 170 (32.14%), DDC hits 263 (49.72%), Duplicates 5 (0.95%)
+[2025.08.25-22.07.17:042][241]LogShaderCompilers: Display: Tracking 354 distinct input hashes that result in 255 distinct outputs (72.03%)
+[2025.08.25-22.07.17:042][241]LogShaderCompilers: Display: RAM used: 157.26 KiB of 819.20 MiB budget. Usage: 0.02%
+[2025.08.25-22.07.17:042][241]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.08.25-22.07.17:042][241]LogShaderCompilers: Display: Shaders Compiled: 91
+[2025.08.25-22.07.17:042][241]LogShaderCompilers: Display: Jobs assigned 91, completed 91 (100%)
+[2025.08.25-22.07.17:042][241]LogShaderCompilers: Display: Average time worker was idle: 9620.52 s
+[2025.08.25-22.07.17:042][241]LogShaderCompilers: Display: Time job spent in pending queue: average 0.12 s, longest 0.24 s
+[2025.08.25-22.07.17:042][241]LogShaderCompilers: Display: Job execution time: average 11.64 s, max 15.45 s
+[2025.08.25-22.07.17:042][241]LogShaderCompilers: Display: Job life time (pending + execution): average 11.76 s, max 15.67
+[2025.08.25-22.07.17:042][241]LogShaderCompilers: Display: Shader code size: average 8.562 KiB, min 3.516 KiB, max 15.172 KiB
+[2025.08.25-22.07.17:042][241]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 21.30 s
+[2025.08.25-22.07.17:042][241]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2025.08.25-22.07.17:042][241]LogShaderCompilers: Display: Jobs were issued in 31 batches (13 local, 18 distributed), average 2.94 jobs/batch (1.00 jobs/local batch. 4.33 jobs/distributed batch)
+[2025.08.25-22.07.17:042][241]LogShaderCompilers: Display: Average processing rate: 4.27 jobs/sec
+[2025.08.25-22.07.17:042][241]LogShaderCompilers: Display: Total thread time: 120.29 s
+[2025.08.25-22.07.17:042][241]LogShaderCompilers: Display: Total thread preprocess time: 9.551 s
+[2025.08.25-22.07.17:042][241]LogShaderCompilers: Display: Percentage time preprocessing: 7.94%
+[2025.08.25-22.07.17:042][241]LogShaderCompilers: Display: Effective parallelization: 5.65 (times faster than compiling all shaders on one thread). Distributed compilation was used.
+[2025.08.25-22.07.17:042][241]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.08.25-22.07.17:042][241]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled    1 times, average 3.90 sec, max 3.90 sec, min 3.90 sec)
+[2025.08.25-22.07.17:042][241]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    1 times, average 3.34 sec, max 3.34 sec, min 3.34 sec)
+[2025.08.25-22.07.17:042][241]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    8 times, average 3.26 sec, max 3.69 sec, min 2.46 sec)
+[2025.08.25-22.07.17:042][241]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    3 times, average 2.83 sec, max 3.17 sec, min 2.19 sec)
+[2025.08.25-22.07.17:042][241]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    3 times, average 2.38 sec, max 2.77 sec, min 1.76 sec)
+[2025.08.25-22.07.17:042][241]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.08.25-22.07.17:042][241]LogShaderCompilers: Display:                                             FDebugViewModePS - 21.71% of total time (compiled    8 times, average 3.26 sec, max 3.69 sec, min 2.46 sec)
+[2025.08.25-22.07.17:042][241]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 9.06% of total time (compiled   10 times, average 1.09 sec, max 1.77 sec, min 0.47 sec)
+[2025.08.25-22.07.17:042][241]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 8.68% of total time (compiled    8 times, average 1.31 sec, max 1.88 sec, min 0.94 sec)
+[2025.08.25-22.07.17:042][241]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 7.05% of total time (compiled    3 times, average 2.83 sec, max 3.17 sec, min 2.19 sec)
+[2025.08.25-22.07.17:042][241]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 5.93% of total time (compiled    3 times, average 2.38 sec, max 2.77 sec, min 1.76 sec)
+[2025.08.25-22.07.17:042][241]LogShaderCompilers: Display: === Material stats ===
+[2025.08.25-22.07.17:042][241]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.08.25-22.07.17:042][241]LogShaderCompilers: Display: Materials Translated:    205
+[2025.08.25-22.07.17:042][241]LogShaderCompilers: Display: Material Total Translate Time: 0.22 s
+[2025.08.25-22.07.17:042][241]LogShaderCompilers: Display: Material Translation Only: 0.09 s (43%)
+[2025.08.25-22.07.17:042][241]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.08.25-22.07.17:042][241]LogShaderCompilers: Display: Material Cache Hits: 36 (18%)
+[2025.08.25-22.07.17:042][241]LogShaderCompilers: Display: ================================================
+[2025.08.25-22.08.15:890][928]LogStreaming: Display: FlushAsyncLoading(363): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.25-22.08.15:933][928]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Usuario/Downloads/Erika_Archer_Walking.fbx]
+[2025.08.25-22.08.31:594][928]LogSlate: Took 0.002936 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.08.25-22.08.31:663][928]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2025.08.25-22.08.31:663][928]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_7'.
+[2025.08.25-22.09.09:471][928]LogSlate: Window 'Import Content' being destroyed
+[2025.08.25-22.09.09:506][928]LogInterchangeEngine: [Pending] Importing
+[2025.08.25-22.09.10:276][931]LogRHI: Error: GpuProfiler's scratch buffer is out of space for this frame (current size : 32 kB). Dropping this frame. The size can be increased dynamically with the console variable r.GpuProfilerMaxEventBufferSizeKB
+[2025.08.25-22.09.10:468][933]LogStreaming: Display: FlushAsyncLoading(364): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.25-22.09.10:508][934]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Character_Erika_Archer/Erika_Archer_Walking.Erika_Archer_Walking (Required Memory Estimate: 0.50 MB)
+[2025.08.25-22.09.10:527][934]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Character_Erika_Archer/Erika_Archer_Walking.Erika_Archer_Walking (Required Memory Estimate: 0.50 MB)
+[2025.08.25-22.09.10:544][934]LogAnimationCompression: Display: Storing compressed animation data for /Game/Character_Erika_Archer/Erika_Archer_Walking.Erika_Archer_Walking, at AnimationSequence/0443dab96608185eea44f3ec3117ae6c7953a249
+[2025.08.25-22.09.10:549][934]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Usuario/Downloads/Erika_Archer_Walking.fbx]
+[2025.08.25-22.09.10:549][934]Interchange: Warning: [C:/Users/Usuario/Downloads/Erika_Archer_Walking.fbx : 'Erika_Archer_Walking', SkeletalMesh] Imported skeletal mesh has some invalid bind poses. Skeletal mesh skinning has been rebind using the time zero pose.
+[2025.08.25-22.09.10:549][934]Interchange: Warning: [C:/Users/Usuario/Downloads/Erika_Archer_Walking.fbx : '', Unknown] No smoothing group information was found for this mesh 'Erika_Archer_Eyes_Mesh' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2025.08.25-22.09.10:549][934]Interchange: Warning: [C:/Users/Usuario/Downloads/Erika_Archer_Walking.fbx : '', Unknown] No smoothing group information was found for this mesh 'Erika_Archer_Body_Mesh' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2025.08.25-22.09.10:549][934]Interchange: Warning: [C:/Users/Usuario/Downloads/Erika_Archer_Walking.fbx : '', Unknown] No smoothing group information was found for this mesh 'Erika_Archer_Clothes_Mesh' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2025.08.25-22.09.10:549][934]Interchange: Warning: [C:/Users/Usuario/Downloads/Erika_Archer_Walking.fbx : '', Unknown] No smoothing group information was found for this mesh 'Erika_Archer_Eyelashes_Mesh' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2025.08.25-22.09.10:560][934]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.08.25-22.09.10:560][934]LogInterchangeEngine: [Success] Import Done
+[2025.08.25-22.09.23:501][307]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Character_Erika_Archer/Erika_Archer_Walking.Erika_Archer_Walking
+[2025.08.25-22.09.23:557][307]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2025.08.25-22.09.23:557][307]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_8'.
+[2025.08.25-22.09.23:565][307]LogStreaming: Display: FlushAsyncLoading(365): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.25-22.09.23:859][307]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.08.25-22.09.24:691][307]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2025.08.25-22.09.24:692][307]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_9'.
+[2025.08.25-22.09.25:348][307]LogSlate: Took 0.011836 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.08.25-22.09.25:374][307]LogUObjectGlobals: Warning: Failed to find object 'Class /Script/ApexDestruction.DestructibleMesh'
+[2025.08.25-22.09.25:385][307]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_10
+[2025.08.25-22.09.25:385][307]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_10'.
+[2025.08.25-22.09.40:944][744]LogSlate: Window 'Erika_Archer_Walking' being destroyed
+[2025.08.25-22.09.41:004][744]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2025.08.25-22.09.41:004][744]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.25-22.09.41:019][744]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.08.25-22.09.41:019][744]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.25-22.09.41:108][744]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2025.08.25-22.09.41:108][744]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.25-22.09.41:163][744]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.08.25-22.10.08:097][552]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16454.179688
+[2025.08.25-22.10.08:330][559]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.25-22.10.08:330][559]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16454.382812, Update Interval: 306.115906
+[2025.08.25-22.12.12:183][174]LogStreaming: Display: FlushAsyncLoading(370): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.25-22.12.12:215][174]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Usuario/Downloads/Erika_Archer_Run.fbx]
+[2025.08.25-22.12.42:054][174]LogSlate: Window 'Import Content' being destroyed
+[2025.08.25-22.12.42:079][174]LogInterchangeEngine: [Pending] Importing
+[2025.08.25-22.12.42:184][176]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.08.25-22.12.42:184][176]LogInterchangeEngine: Error: [Failure] Import Failed
+[2025.08.25-22.12.42:186][177]LogRHI: Error: GpuProfiler's scratch buffer is out of space for this frame (current size : 32 kB). Dropping this frame. The size can be increased dynamically with the console variable r.GpuProfilerMaxEventBufferSizeKB
+[2025.08.25-22.12.49:815][312]LogStreaming: Display: FlushAsyncLoading(371): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.25-22.12.49:854][312]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Usuario/Downloads/Erika_Archer_Run.fbx]
+[2025.08.25-22.13.02:391][312]LogSlate: Window 'Import Content' being destroyed
+[2025.08.25-22.13.02:418][312]LogInterchangeEngine: [Pending] Importing
+[2025.08.25-22.13.02:483][313]LogStreaming: Display: FlushAsyncLoading(372): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.25-22.13.02:661][316]LogStreaming: Display: FlushAsyncLoading(373): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.25-22.13.02:917][321]LogSkeletalMesh: Building Skeletal Mesh Erika_Archer_Run...
+[2025.08.25-22.13.03:353][335]LogSkeletalMesh: Built Skeletal Mesh [0.44s] /Game/Character_Erika_Archer/Erika_Archer_Run.Erika_Archer_Run
+[2025.08.25-22.13.03:416][336]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_11
+[2025.08.25-22.13.03:417][336]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_11'.
+[2025.08.25-22.13.03:423][336]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2025.08.25-22.13.03:423][336]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.25-22.13.03:432][336]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Usuario/Downloads/Erika_Archer_Run.fbx]
+[2025.08.25-22.13.03:432][336]Interchange: Warning: [C:/Users/Usuario/Downloads/Erika_Archer_Run.fbx : 'Erika_Archer_Run', SkeletalMesh] Imported skeletal mesh has some invalid bind poses. Skeletal mesh skinning has been rebind using the time zero pose.
+[2025.08.25-22.13.03:432][336]Interchange: Warning: [C:/Users/Usuario/Downloads/Erika_Archer_Run.fbx : 'Erika_Archer_Run', SkeletalMesh] No smoothing group information was found for this mesh 'Erika_Archer_Eyes_Mesh' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2025.08.25-22.13.03:432][336]Interchange: Warning: [C:/Users/Usuario/Downloads/Erika_Archer_Run.fbx : 'Erika_Archer_Run', SkeletalMesh] No smoothing group information was found for this mesh 'Erika_Archer_Body_Mesh' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2025.08.25-22.13.03:432][336]Interchange: Warning: [C:/Users/Usuario/Downloads/Erika_Archer_Run.fbx : 'Erika_Archer_Run', SkeletalMesh] No smoothing group information was found for this mesh 'Erika_Archer_Clothes_Mesh' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2025.08.25-22.13.03:432][336]Interchange: Warning: [C:/Users/Usuario/Downloads/Erika_Archer_Run.fbx : 'Erika_Archer_Run', SkeletalMesh] No smoothing group information was found for this mesh 'Erika_Archer_Eyelashes_Mesh' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2025.08.25-22.13.03:452][336]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.08.25-22.13.03:452][337]LogInterchangeEngine: [Success] Import Done
+[2025.08.25-22.13.04:498][368]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_12
+[2025.08.25-22.13.04:498][368]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_12'.
+[2025.08.25-22.13.04:600][368]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2025.08.25-22.13.41:324][400]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2025.08.25-22.13.42:552][400]LogSlate: Window 'Delete Assets' being destroyed
+[2025.08.25-22.13.42:647][400]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.08.25-22.13.42:662][400]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.08.25-22.13.42:674][400]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2025.08.25-22.13.48:479][446]LogStreaming: Display: FlushAsyncLoading(374): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.25-22.13.48:531][446]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Usuario/Downloads/Erika_Archer_Run.fbx]
+[2025.08.25-22.14.04:931][446]LogSlate: Window 'Import Content' being destroyed
+[2025.08.25-22.14.04:957][446]LogInterchangeEngine: [Pending] Importing
+[2025.08.25-22.14.05:236][449]LogStreaming: Display: FlushAsyncLoading(375): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.25-22.14.05:303][450]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Character_Erika_Archer/Erika_Archer_Run.Erika_Archer_Run (Required Memory Estimate: 0.33 MB)
+[2025.08.25-22.14.05:313][450]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Character_Erika_Archer/Erika_Archer_Run.Erika_Archer_Run (Required Memory Estimate: 0.33 MB)
+[2025.08.25-22.14.05:319][450]LogAnimationCompression: Display: Storing compressed animation data for /Game/Character_Erika_Archer/Erika_Archer_Run.Erika_Archer_Run, at AnimationSequence/698cdf89904abb1fd51be448c16506cae351f83d
+[2025.08.25-22.14.05:334][450]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Usuario/Downloads/Erika_Archer_Run.fbx]
+[2025.08.25-22.14.05:335][450]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.08.25-22.14.05:335][450]LogInterchangeEngine: [Success] Import Done
+[2025.08.25-22.14.15:749][759]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.08.25-22.14.16:970][759]LogSlate: Window 'Save Content' being destroyed
+[2025.08.25-22.14.17:036][759]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.25-22.14.17:077][759]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Character_Erika_Archer/Akai_MAT] ([1] browsable assets)...
+[2025.08.25-22.14.17:077][759]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character_Erika_Archer/Akai_MAT]
+[2025.08.25-22.14.17:082][759]LogSavePackage: Moving output files for package: /Game/Character_Erika_Archer/Akai_MAT
+[2025.08.25-22.14.17:082][759]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Akai_MAT24F9ED3449D318D96F9ED19050E33F38.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Character_Erika_Archer/Akai_MAT.uasset'
+[2025.08.25-22.14.17:085][759]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Character_Erika_Archer/Body_MAT] ([1] browsable assets)...
+[2025.08.25-22.14.17:085][759]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character_Erika_Archer/Body_MAT]
+[2025.08.25-22.14.17:090][759]LogSavePackage: Moving output files for package: /Game/Character_Erika_Archer/Body_MAT
+[2025.08.25-22.14.17:090][759]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Body_MAT2A0C199C4B96FEAE70141DBBB16DD7D0.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Character_Erika_Archer/Body_MAT.uasset'
+[2025.08.25-22.14.17:091][759]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Character_Erika_Archer/Erika_Archer_Clothes_diffuse] ([1] browsable assets)...
+[2025.08.25-22.14.17:092][759]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character_Erika_Archer/Erika_Archer_Clothes_diffuse]
+[2025.08.25-22.14.17:161][759]LogSavePackage: Moving output files for package: /Game/Character_Erika_Archer/Erika_Archer_Clothes_diffuse
+[2025.08.25-22.14.17:161][759]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Erika_Archer_Clothes_diffuseD739B3B542345F56C71B498DE1DD2A2C.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Character_Erika_Archer/Erika_Archer_Clothes_diffuse.uasset'
+[2025.08.25-22.14.17:166][759]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Character_Erika_Archer/Erika_Archer_Clothes_normal] ([1] browsable assets)...
+[2025.08.25-22.14.17:166][759]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character_Erika_Archer/Erika_Archer_Clothes_normal]
+[2025.08.25-22.14.17:228][759]LogSavePackage: Moving output files for package: /Game/Character_Erika_Archer/Erika_Archer_Clothes_normal
+[2025.08.25-22.14.17:228][759]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Erika_Archer_Clothes_normal024C0C17452C20307F56888863C6748E.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Character_Erika_Archer/Erika_Archer_Clothes_normal.uasset'
+[2025.08.25-22.14.17:230][759]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Character_Erika_Archer/Erika_Archer_Idle] ([1] browsable assets)...
+[2025.08.25-22.14.17:230][759]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character_Erika_Archer/Erika_Archer_Idle]
+[2025.08.25-22.14.17:254][759]LogSavePackage: Moving output files for package: /Game/Character_Erika_Archer/Erika_Archer_Idle
+[2025.08.25-22.14.17:254][759]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Erika_Archer_IdleAD7F26C24D065A3F6E74CB8C7094FE0A.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Character_Erika_Archer/Erika_Archer_Idle.uasset'
+[2025.08.25-22.14.17:256][759]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Character_Erika_Archer/Erika_Archer_Idle_Anim] ([1] browsable assets)...
+[2025.08.25-22.14.17:256][759]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character_Erika_Archer/Erika_Archer_Idle_Anim]
+[2025.08.25-22.14.17:265][759]LogSavePackage: Moving output files for package: /Game/Character_Erika_Archer/Erika_Archer_Idle_Anim
+[2025.08.25-22.14.17:265][759]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Erika_Archer_Idle_AnimA58DBCC44AC6CF53294B2FB4B503E4B1.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Character_Erika_Archer/Erika_Archer_Idle_Anim.uasset'
+[2025.08.25-22.14.17:266][759]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Character_Erika_Archer/Erika_Archer_Idle_PhysicsAsset] ([1] browsable assets)...
+[2025.08.25-22.14.17:266][759]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character_Erika_Archer/Erika_Archer_Idle_PhysicsAsset]
+[2025.08.25-22.14.17:272][759]LogSavePackage: Moving output files for package: /Game/Character_Erika_Archer/Erika_Archer_Idle_PhysicsAsset
+[2025.08.25-22.14.17:272][759]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Erika_Archer_Idle_PhysicsAssetED71D5D1490A76D7FAEF2F97C0FD2E02.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Character_Erika_Archer/Erika_Archer_Idle_PhysicsAsset.uasset'
+[2025.08.25-22.14.17:274][759]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Character_Erika_Archer/Erika_Archer_Idle_Skeleton] ([1] browsable assets)...
+[2025.08.25-22.14.17:274][759]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character_Erika_Archer/Erika_Archer_Idle_Skeleton]
+[2025.08.25-22.14.17:278][759]LogSavePackage: Moving output files for package: /Game/Character_Erika_Archer/Erika_Archer_Idle_Skeleton
+[2025.08.25-22.14.17:278][759]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Erika_Archer_Idle_Skeleton1D4AF7984AC641EF5B345287C80AD8A6.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Character_Erika_Archer/Erika_Archer_Idle_Skeleton.uasset'
+[2025.08.25-22.14.17:280][759]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character_Erika_Archer/Erika_Archer_Run] ([1] browsable assets)...
+[2025.08.25-22.14.17:341][759]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Character_Erika_Archer/Erika_Archer_Run.Erika_Archer_Run]
+[2025.08.25-22.14.17:341][759]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character_Erika_Archer/Erika_Archer_Run]
+[2025.08.25-22.14.17:351][759]LogSavePackage: Moving output files for package: /Game/Character_Erika_Archer/Erika_Archer_Run
+[2025.08.25-22.14.17:351][759]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Erika_Archer_RunF97C02AD4802BE6DED8F08B83BFA216A.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Character_Erika_Archer/Erika_Archer_Run.uasset'
+[2025.08.25-22.14.17:353][759]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character_Erika_Archer/Erika_Archer_Walking] ([1] browsable assets)...
+[2025.08.25-22.14.17:363][759]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Character_Erika_Archer/Erika_Archer_Walking.Erika_Archer_Walking]
+[2025.08.25-22.14.17:363][759]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character_Erika_Archer/Erika_Archer_Walking]
+[2025.08.25-22.14.17:373][759]LogSavePackage: Moving output files for package: /Game/Character_Erika_Archer/Erika_Archer_Walking
+[2025.08.25-22.14.17:373][759]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Erika_Archer_WalkingA55685C2465B3357E984879DDA121C3D.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Character_Erika_Archer/Erika_Archer_Walking.uasset'
+[2025.08.25-22.14.17:374][759]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Character_Erika_Archer/eyelash_MAT] ([1] browsable assets)...
+[2025.08.25-22.14.17:374][759]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character_Erika_Archer/eyelash_MAT]
+[2025.08.25-22.14.17:377][759]LogSavePackage: Moving output files for package: /Game/Character_Erika_Archer/eyelash_MAT
+[2025.08.25-22.14.17:377][759]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/eyelash_MATAA6EF22E4BA186F642BFD286014AB757.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Character_Erika_Archer/eyelash_MAT.uasset'
+[2025.08.25-22.14.17:379][759]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Character_Erika_Archer/EyeSpec_MAT] ([1] browsable assets)...
+[2025.08.25-22.14.17:380][759]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character_Erika_Archer/EyeSpec_MAT]
+[2025.08.25-22.14.17:384][759]LogSavePackage: Moving output files for package: /Game/Character_Erika_Archer/EyeSpec_MAT
+[2025.08.25-22.14.17:384][759]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/EyeSpec_MAT0859C06C4A558A17AA425E86EA0EFA3E.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Character_Erika_Archer/EyeSpec_MAT.uasset'
+[2025.08.25-22.14.17:386][759]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Character_Erika_Archer/FemaleFitA_Body_diffuse] ([1] browsable assets)...
+[2025.08.25-22.14.17:386][759]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character_Erika_Archer/FemaleFitA_Body_diffuse]
+[2025.08.25-22.14.17:460][759]LogSavePackage: Moving output files for package: /Game/Character_Erika_Archer/FemaleFitA_Body_diffuse
+[2025.08.25-22.14.17:460][759]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/FemaleFitA_Body_diffuse8F9531E54D272372CD6AD491CB889E6C.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Character_Erika_Archer/FemaleFitA_Body_diffuse.uasset'
+[2025.08.25-22.14.17:463][759]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Character_Erika_Archer/FemaleFitA_eyelash_diffuse] ([1] browsable assets)...
+[2025.08.25-22.14.17:463][759]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character_Erika_Archer/FemaleFitA_eyelash_diffuse]
+[2025.08.25-22.14.17:553][759]LogSavePackage: Moving output files for package: /Game/Character_Erika_Archer/FemaleFitA_eyelash_diffuse
+[2025.08.25-22.14.17:553][759]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/FemaleFitA_eyelash_diffuse9E63B5674E91FC46A75E139ABAAABBDF.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Character_Erika_Archer/FemaleFitA_eyelash_diffuse.uasset'
+[2025.08.25-22.14.17:555][759]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Character_Erika_Archer/FemaleFitA_StdNM] ([1] browsable assets)...
+[2025.08.25-22.14.17:556][759]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character_Erika_Archer/FemaleFitA_StdNM]
+[2025.08.25-22.14.17:607][759]LogSavePackage: Moving output files for package: /Game/Character_Erika_Archer/FemaleFitA_StdNM
+[2025.08.25-22.14.17:608][759]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/FemaleFitA_StdNMC589D33746A0B1CCBE3763B74D1A144E.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Character_Erika_Archer/FemaleFitA_StdNM.uasset'
+[2025.08.25-22.14.17:622][759]LogFileHelpers: InternalPromptForCheckoutAndSave took 585.852 ms
+[2025.08.25-22.14.17:696][759]LogContentValidation: Display: Starting to validate 15 assets
+[2025.08.25-22.14.17:696][759]LogContentValidation: Enabled validators:
+[2025.08.25-22.14.17:697][759]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.25-22.14.17:697][759]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.25-22.14.17:697][759]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.25-22.14.17:697][759]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.25-22.14.17:697][759]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.25-22.14.17:697][759]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.25-22.14.17:698][759]AssetCheck: /Game/Character_Erika_Archer/Akai_MAT Validating asset
+[2025.08.25-22.14.17:698][759]AssetCheck: /Game/Character_Erika_Archer/Body_MAT Validating asset
+[2025.08.25-22.14.17:699][759]AssetCheck: /Game/Character_Erika_Archer/Erika_Archer_Clothes_diffuse Validating asset
+[2025.08.25-22.14.17:699][759]AssetCheck: /Game/Character_Erika_Archer/Erika_Archer_Clothes_normal Validating asset
+[2025.08.25-22.14.17:699][759]AssetCheck: /Game/Character_Erika_Archer/Erika_Archer_Idle Validating asset
+[2025.08.25-22.14.17:699][759]AssetCheck: /Game/Character_Erika_Archer/Erika_Archer_Idle_Anim Validating asset
+[2025.08.25-22.14.17:699][759]AssetCheck: /Game/Character_Erika_Archer/Erika_Archer_Idle_PhysicsAsset Validating asset
+[2025.08.25-22.14.17:699][759]AssetCheck: /Game/Character_Erika_Archer/Erika_Archer_Idle_Skeleton Validating asset
+[2025.08.25-22.14.17:699][759]AssetCheck: /Game/Character_Erika_Archer/Erika_Archer_Run Validating asset
+[2025.08.25-22.14.17:699][759]AssetCheck: /Game/Character_Erika_Archer/Erika_Archer_Walking Validating asset
+[2025.08.25-22.14.17:699][759]AssetCheck: /Game/Character_Erika_Archer/eyelash_MAT Validating asset
+[2025.08.25-22.14.17:699][759]AssetCheck: /Game/Character_Erika_Archer/EyeSpec_MAT Validating asset
+[2025.08.25-22.14.17:699][759]AssetCheck: /Game/Character_Erika_Archer/FemaleFitA_Body_diffuse Validating asset
+[2025.08.25-22.14.17:700][759]AssetCheck: /Game/Character_Erika_Archer/FemaleFitA_eyelash_diffuse Validating asset
+[2025.08.25-22.14.17:700][759]AssetCheck: /Game/Character_Erika_Archer/FemaleFitA_StdNM Validating asset
