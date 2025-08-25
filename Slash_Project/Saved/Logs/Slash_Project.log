@@ -2181,3 +2181,241 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.08.25-22.59.39:834][415]LogUObjectHash: Compacting FUObjectHashTables data took   5.04ms
 [2025.08.25-22.59.39:876][416]Display: Reload/Re-instancing Complete: 1 package changed, 2 classes unchanged
 [2025.08.25-22.59.39:876][416]LogLiveCoding: Display: Live coding succeeded
+[2025.08.25-23.06.05:572][972]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19806.412109
+[2025.08.25-23.06.05:806][979]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.25-23.06.05:806][980]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19806.613281, Update Interval: 310.697357
+[2025.08.25-23.07.25:054][300]LogEditorClassViewer: Warning: Class /Game/Clinic/Demo/FirstPersonBP/FirstPersonOverview.FirstPersonOverview_C has parent /Script/IntroTutorials.EditorTutorial, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.08.25-23.07.34:079][300]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.08.25-23.07.34:097][300]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.08.25-23.07.34:106][300]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.08.25-23.07.34:135][301]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.08.25-23.07.36:652][373]LogContentBrowser: Attempting asset rename: NewBlueprint -> NewBlueprint
+[2025.08.25-23.07.36:792][373]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.08.25-23.07.39:497][448]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.08.25-23.07.41:126][448]LogSlate: Window 'Delete Assets' being destroyed
+[2025.08.25-23.07.41:258][448]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.08.25-23.07.41:279][448]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.08.25-23.07.41:293][448]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2025.08.25-23.07.44:293][528]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.08.25-23.07.44:303][528]LogContentBrowser: Creating deferred item: NewFolder
+[2025.08.25-23.07.44:333][529]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.08.25-23.07.49:850][688]LogContentBrowser: Attempting asset rename: NewFolder -> Characters
+[2025.08.25-23.07.49:853][688]LogContentBrowser: End creating deferred item NewFolder
+[2025.08.25-23.07.57:144][902]LogEditorClassViewer: Warning: Class /Game/Clinic/Demo/FirstPersonBP/FirstPersonOverview.FirstPersonOverview_C has parent /Script/IntroTutorials.EditorTutorial, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.08.25-23.08.04:981][902]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.08.25-23.08.04:989][902]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.08.25-23.08.05:044][902]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.08.25-23.08.05:091][904]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.08.25-23.08.10:835][ 71]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_SlashCharacter
+[2025.08.25-23.08.10:895][ 71]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.08.25-23.08.20:651][359]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.08.25-23.08.21:462][359]LogSlate: Window 'Save Content' being destroyed
+[2025.08.25-23.08.21:471][359]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.25-23.08.21:503][359]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/BP_SlashCharacter] ([2] browsable assets)...
+[2025.08.25-23.08.21:504][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/BP_SlashCharacter]
+[2025.08.25-23.08.21:546][359]LogWorldPartition: Can't find class descriptor '/Game/Blueprints/Characters/BP_SlashCharacter.BP_SlashCharacter_C' for saving '/Game/Blueprints/Characters/BP_SlashCharacter.BP_SlashCharacter_C'
+[2025.08.25-23.08.21:548][359]LogWorldPartition: Can't find class descriptor '/Game/Blueprints/Characters/BP_SlashCharacter.BP_SlashCharacter_C' for saving '/Game/Blueprints/Characters/BP_SlashCharacter.BP_SlashCharacter_C'
+[2025.08.25-23.08.21:549][359]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/BP_SlashCharacter
+[2025.08.25-23.08.21:550][359]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/BP_SlashCharacter68A247E549525DFAA1FEA1A3F90A9DDC.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Characters/BP_SlashCharacter.uasset'
+[2025.08.25-23.08.21:569][359]LogFileHelpers: InternalPromptForCheckoutAndSave took 97.733 ms (total: 960.935 ms)
+[2025.08.25-23.08.21:603][359]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.25-23.08.21:603][359]LogContentValidation: Enabled validators:
+[2025.08.25-23.08.21:603][359]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.25-23.08.21:603][359]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.25-23.08.21:613][359]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.25-23.08.21:614][359]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.25-23.08.21:614][359]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.25-23.08.21:614][359]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.25-23.08.21:614][359]AssetCheck: /Game/Blueprints/Characters/BP_SlashCharacter Validating asset
+[2025.08.25-23.08.40:240][913]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Characters/BP_SlashCharacter.BP_SlashCharacter
+[2025.08.25-23.08.40:291][913]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_13
+[2025.08.25-23.08.40:410][913]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_13'.
+[2025.08.25-23.08.40:757][913]LogStreaming: Display: FlushAsyncLoading(378): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.25-23.08.44:435][913]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/EditorMeshes/PhAT_FloorBox) ...
+[2025.08.25-23.10.02:949][204]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SkeletalMesh_64.svg'. File could not be found
+[2025.08.25-23.10.02:953][205]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_14
+[2025.08.25-23.10.02:953][205]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_14'.
+[2025.08.25-23.10.03:149][206]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_15
+[2025.08.25-23.10.03:149][206]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_15'.
+[2025.08.25-23.10.04:579][234]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_16
+[2025.08.25-23.10.04:579][234]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_16'.
+[2025.08.25-23.10.07:135][303]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_17
+[2025.08.25-23.10.07:136][303]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_17'.
+[2025.08.25-23.10.10:091][381]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2025.08.25-23.10.17:386][568]LogShaderCompilers: Display: ================================================
+[2025.08.25-23.10.17:386][568]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.08.25-23.10.17:386][568]LogShaderCompilers: Display: Total job queries 562, among them cache hits 174 (30.96%), DDC hits 291 (51.78%), Duplicates 5 (0.89%)
+[2025.08.25-23.10.17:386][568]LogShaderCompilers: Display: Tracking 383 distinct input hashes that result in 266 distinct outputs (69.45%)
+[2025.08.25-23.10.17:386][568]LogShaderCompilers: Display: RAM used: 160.88 KiB of 819.20 MiB budget. Usage: 0.02%
+[2025.08.25-23.10.17:386][568]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.08.25-23.10.17:386][568]LogShaderCompilers: Display: Shaders Compiled: 92
+[2025.08.25-23.10.17:386][568]LogShaderCompilers: Display: Jobs assigned 92, completed 92 (100%)
+[2025.08.25-23.10.17:386][568]LogShaderCompilers: Display: Average time worker was idle: 8651.36 s
+[2025.08.25-23.10.17:386][568]LogShaderCompilers: Display: Time job spent in pending queue: average 0.12 s, longest 0.24 s
+[2025.08.25-23.10.17:386][568]LogShaderCompilers: Display: Job execution time: average 11.54 s, max 15.45 s
+[2025.08.25-23.10.17:386][568]LogShaderCompilers: Display: Job life time (pending + execution): average 11.66 s, max 15.67
+[2025.08.25-23.10.17:386][568]LogShaderCompilers: Display: Shader code size: average 8.57 KiB, min 3.516 KiB, max 15.172 KiB
+[2025.08.25-23.10.17:386][568]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 23.59 s
+[2025.08.25-23.10.17:386][568]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.08.25-23.10.17:386][568]LogShaderCompilers: Display: Jobs were issued in 32 batches (14 local, 18 distributed), average 2.88 jobs/batch (1.00 jobs/local batch. 4.33 jobs/distributed batch)
+[2025.08.25-23.10.17:386][568]LogShaderCompilers: Display: Average processing rate: 3.90 jobs/sec
+[2025.08.25-23.10.17:386][568]LogShaderCompilers: Display: Total thread time: 120.893 s
+[2025.08.25-23.10.17:386][568]LogShaderCompilers: Display: Total thread preprocess time: 17.386 s
+[2025.08.25-23.10.17:386][568]LogShaderCompilers: Display: Percentage time preprocessing: 14.38%
+[2025.08.25-23.10.17:386][568]LogShaderCompilers: Display: Effective parallelization: 5.13 (times faster than compiling all shaders on one thread). Distributed compilation was used.
+[2025.08.25-23.10.17:386][568]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.08.25-23.10.17:386][568]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled    1 times, average 3.90 sec, max 3.90 sec, min 3.90 sec)
+[2025.08.25-23.10.17:386][568]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    1 times, average 3.34 sec, max 3.34 sec, min 3.34 sec)
+[2025.08.25-23.10.17:386][568]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    8 times, average 3.26 sec, max 3.69 sec, min 2.46 sec)
+[2025.08.25-23.10.17:386][568]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    3 times, average 2.83 sec, max 3.17 sec, min 2.19 sec)
+[2025.08.25-23.10.17:386][568]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    3 times, average 2.38 sec, max 2.77 sec, min 1.76 sec)
+[2025.08.25-23.10.17:386][568]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.08.25-23.10.17:387][568]LogShaderCompilers: Display:                                             FDebugViewModePS - 21.60% of total time (compiled    8 times, average 3.26 sec, max 3.69 sec, min 2.46 sec)
+[2025.08.25-23.10.17:387][568]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 9.52% of total time (compiled   11 times, average 1.05 sec, max 1.77 sec, min 0.47 sec)
+[2025.08.25-23.10.17:387][568]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 8.64% of total time (compiled    8 times, average 1.31 sec, max 1.88 sec, min 0.94 sec)
+[2025.08.25-23.10.17:387][568]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 7.01% of total time (compiled    3 times, average 2.83 sec, max 3.17 sec, min 2.19 sec)
+[2025.08.25-23.10.17:387][568]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 5.90% of total time (compiled    3 times, average 2.38 sec, max 2.77 sec, min 1.76 sec)
+[2025.08.25-23.10.17:387][568]LogShaderCompilers: Display: === Material stats ===
+[2025.08.25-23.10.17:387][568]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.08.25-23.10.17:387][568]LogShaderCompilers: Display: Materials Translated:    209
+[2025.08.25-23.10.17:387][568]LogShaderCompilers: Display: Material Total Translate Time: 0.24 s
+[2025.08.25-23.10.17:387][568]LogShaderCompilers: Display: Material Translation Only: 0.10 s (44%)
+[2025.08.25-23.10.17:387][568]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2025.08.25-23.10.17:387][568]LogShaderCompilers: Display: Material Cache Hits: 37 (18%)
+[2025.08.25-23.10.17:387][568]LogShaderCompilers: Display: ================================================
+[2025.08.25-23.11.04:967][930]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2025.08.25-23.11.45:941][111]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2025.08.25-23.12.00:184][522]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2025.08.25-23.12.01:809][522]LogSlate: Window 'Save Content' being destroyed
+[2025.08.25-23.12.01:819][522]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.25-23.12.01:846][522]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Characters/BP_SlashCharacter] ([2] browsable assets)...
+[2025.08.25-23.12.01:990][522]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Characters/BP_SlashCharacter.BP_SlashCharacter]
+[2025.08.25-23.12.01:990][522]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_18
+[2025.08.25-23.12.01:990][522]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_18'.
+[2025.08.25-23.12.02:026][522]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/Blueprints/Characters/BP_SlashCharacter.BP_SlashCharacter_C]
+[2025.08.25-23.12.02:026][522]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/BP_SlashCharacter]
+[2025.08.25-23.12.02:035][522]LogWorldPartition: Can't find class descriptor '/Game/Blueprints/Characters/BP_SlashCharacter.BP_SlashCharacter_C' for saving '/Game/Blueprints/Characters/BP_SlashCharacter.BP_SlashCharacter_C'
+[2025.08.25-23.12.02:035][522]LogWorldPartition: Can't find class descriptor '/Game/Blueprints/Characters/BP_SlashCharacter.BP_SlashCharacter_C' for saving '/Game/Blueprints/Characters/BP_SlashCharacter.BP_SlashCharacter_C'
+[2025.08.25-23.12.02:036][522]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/BP_SlashCharacter
+[2025.08.25-23.12.02:037][522]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/BP_SlashCharacter4E95E8254086E5F0EA7A2EB93381BBEE.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Characters/BP_SlashCharacter.uasset'
+[2025.08.25-23.12.02:154][522]LogFileHelpers: InternalPromptForCheckoutAndSave took 334.524 ms (total: 1.29 sec)
+[2025.08.25-23.12.02:154][522]LogStreaming: Display: FlushAsyncLoading(568): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.25-23.12.03:533][522]LogChaosDD: Creating Chaos Debug Draw Scene for world Minimal_Default_2
+[2025.08.25-23.12.03:536][522]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/Maps/Minimal_Default_2.Minimal_Default_2'.
+[2025.08.25-23.12.03:579][522]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Minimal_Default_2.Minimal_Default_2
+[2025.08.25-23.12.03:582][522]Cmd: MAP LOAD FILE="../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Maps/Minimal_Default_2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.08.25-23.12.04:020][522]LogWorld: UWorld::CleanupWorld for SlashOpenWorld, bSessionEnded=true, bCleanupResources=true
+[2025.08.25-23.12.04:028][522]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.25-23.12.04:030][522]LogWorld: UWorld::CleanupWorld for Clinic, bSessionEnded=true, bCleanupResources=true
+[2025.08.25-23.12.04:030][522]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.25-23.12.04:105][522]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.08.25-23.12.05:209][522]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.08.25-23.12.05:266][522]LogWorld: UWorld::CleanupWorld for Minimal_Default_2, bSessionEnded=true, bCleanupResources=true
+[2025.08.25-23.12.05:266][522]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.25-23.12.05:333][522]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2025.08.25-23.12.05:356][522]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2025.08.25-23.12.05:363][522]LogAudio: Display: Audio Device (ID: 1) registered with world 'Minimal_Default_2'.
+[2025.08.25-23.12.05:363][522]LogChaosDD: Creating Chaos Debug Draw Scene for world Minimal_Default_2
+[2025.08.25-23.12.05:370][522]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/Maps/Minimal_Default_2.Minimal_Default_2'.
+[2025.08.25-23.12.05:535][522]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.08.25-23.12.05:564][522]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.08.25-23.12.05:648][522]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.08.25-23.12.05:648][522]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.073ms to complete.
+[2025.08.25-23.12.05:722][522]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.25-23.12.05:722][522]LogContentValidation: Enabled validators:
+[2025.08.25-23.12.05:722][522]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.25-23.12.05:722][522]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.25-23.12.05:722][522]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.25-23.12.05:722][522]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.25-23.12.05:722][522]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.25-23.12.05:722][522]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.25-23.12.05:722][522]AssetCheck: /Game/Blueprints/Characters/BP_SlashCharacter Validating asset
+[2025.08.25-23.12.05:802][522]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.08.25-23.12.07:221][532]LogTexture: Display: Building textures: /Game/Clinic/Textures/T_EntranceDoorBottom.T_EntranceDoorBottom (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Final
+[2025.08.25-23.12.08:284][560]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 20168.830078
+[2025.08.25-23.12.08:553][568]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.25-23.12.08:553][568]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 20169.066406, Update Interval: 347.709595
+[2025.08.25-23.13.44:193][357]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Characters/BP_SlashCharacter.BP_SlashCharacter_C
+[2025.08.25-23.13.44:194][357]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Characters/BP_SlashCharacter.BP_SlashCharacter_C
+[2025.08.25-23.13.44:195][357]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Characters/BP_SlashCharacter.BP_SlashCharacter as actor: BP_SlashCharacter_C /Game/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.BP_SlashCharacter_C_0
+[2025.08.25-23.13.44:197][357]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Characters/BP_SlashCharacter.BP_SlashCharacter as actor: BP_SlashCharacter_C /Game/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.BP_SlashCharacter_C_0
+[2025.08.25-23.13.45:578][394]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.08.25-23.13.45:580][394]LogEditorActor: Deleted 0 Actors (0.057 secs)
+[2025.08.25-23.13.45:586][394]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Characters/BP_SlashCharacter.BP_SlashCharacter_C
+[2025.08.25-23.13.45:586][394]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Characters/BP_SlashCharacter.BP_SlashCharacter_C
+[2025.08.25-23.13.45:590][394]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Characters/BP_SlashCharacter.BP_SlashCharacter as actor: BP_SlashCharacter_C /Game/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.BP_SlashCharacter_C_1
+[2025.08.25-23.13.45:591][394]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Characters/BP_SlashCharacter.BP_SlashCharacter as actor: BP_SlashCharacter_C /Game/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.BP_SlashCharacter_C_1
+[2025.08.25-23.13.48:290][470]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.08.25-23.13.48:325][470]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.25-23.13.48:372][470]LogOnline: OSS: Created online subsystem instance for: NULL
+[2025.08.25-23.13.48:374][470]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2025.08.25-23.13.48:374][470]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Minimal_Default_2
+[2025.08.25-23.13.48:382][470]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008070s)
+[2025.08.25-23.13.48:382][470]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Minimal_Default_2.Minimal_Default_2 to /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 (0.008122s)
+[2025.08.25-23.13.48:403][470]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2025.08.25-23.13.48:408][470]LogChaosDD: Creating Chaos Debug Draw Scene for world Minimal_Default_2
+[2025.08.25-23.13.48:409][470]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2'.
+[2025.08.25-23.13.48:410][470]LogPlayLevel: PIE: World Init took: (0.002856s)
+[2025.08.25-23.13.48:411][470]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2025.08.25-23.13.48:415][470]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.25-23.13.48:415][470]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.25-23.13.48:415][470]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.25-23.13.48:415][470]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.25-23.13.48:415][470]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.25-23.13.48:415][470]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.25-23.13.48:415][470]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.25-23.13.48:415][470]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.25-23.13.48:415][470]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.25-23.13.48:415][470]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.25-23.13.48:415][470]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.25-23.13.48:425][470]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.25-23.13.48:447][470]LogAudioMixer: Display: Using Audio Hardware Device Auriculares (Vieta Pro Calm 2 Stereo)
+[2025.08.25-23.13.48:453][470]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.25-23.13.48:453][470]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.25-23.13.48:454][470]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.25-23.13.48:461][470]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2025.08.25-23.13.48:461][470]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2025.08.25-23.13.48:463][470]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2025.08.25-23.13.48:463][470]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2025.08.25-23.13.48:463][470]LogInit: FAudioDevice initialized with ID 2.
+[2025.08.25-23.13.48:463][470]LogAudio: Display: Audio Device (ID: 2) registered with world 'Minimal_Default_2'.
+[2025.08.25-23.13.48:464][470]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2025.08.25-23.13.48:508][470]LogLoad: Game class is 'BP_GameMode_C'
+[2025.08.25-23.13.48:512][470]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 up for play (max tick rate 0) at 2025.08.26-01.13.48
+[2025.08.25-23.13.48:525][470]LogWorld: Bringing up level for play took: 0.016334
+[2025.08.25-23.13.48:529][470]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2025.08.25-23.13.48:600][470]PIE: Server logged in
+[2025.08.25-23.13.48:601][470]PIE: Play in editor total start time 0.295 seconds.
+[2025.08.25-23.14.01:214][760]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.25-23.14.01:214][760]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Minimal_Default_2
+[2025.08.25-23.14.01:215][760]LogWorld: UWorld::CleanupWorld for Minimal_Default_2, bSessionEnded=true, bCleanupResources=true
+[2025.08.25-23.14.01:215][760]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.25-23.14.01:225][760]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.25-23.14.01:230][760]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.25-23.14.01:251][760]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.25-23.14.01:251][760]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2025.08.25-23.14.01:252][760]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.08.25-23.14.01:257][760]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.08.25-23.14.01:282][760]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.08.25-23.14.01:953][763]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2025.08.25-23.14.11:334][952]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.08.25-23.14.59:620][386]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.08.25-23.15.00:696][386]LogSlate: Window 'Save Content' being destroyed
+[2025.08.25-23.15.00:706][386]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.25-23.15.00:830][386]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.08.25-23.15.00:862][386]LogSavePackage: Moving output files for package: /Game/Maps/Minimal_Default_2
+[2025.08.25-23.15.00:863][386]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Minimal_Default_28B37E2DD40E9F1626AD4D2975EE178E7.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Maps/Minimal_Default_2.umap'
+[2025.08.25-23.15.00:895][386]LogFileHelpers: Saving map 'Minimal_Default_2' took 0.134
+[2025.08.25-23.15.00:904][386]LogFileHelpers: InternalPromptForCheckoutAndSave took 196.849 ms (total: 1.49 sec)
+[2025.08.25-23.15.00:937][386]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.25-23.15.00:937][386]LogContentValidation: Enabled validators:
+[2025.08.25-23.15.00:937][386]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.25-23.15.00:937][386]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.25-23.15.00:937][386]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.25-23.15.00:937][386]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.25-23.15.00:937][386]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.25-23.15.00:937][386]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.25-23.15.00:937][386]AssetCheck: /Game/Maps/Minimal_Default_2 Validating asset
+[2025.08.25-23.18.41:541][910]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 20560.935547
+[2025.08.25-23.18.41:807][918]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.25-23.18.41:807][918]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 20561.167969, Update Interval: 310.964691

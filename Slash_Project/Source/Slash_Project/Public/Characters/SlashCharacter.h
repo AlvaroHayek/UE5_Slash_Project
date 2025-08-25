@@ -13,13 +13,12 @@ class SLASH_PROJECT_API ASlashCharacter : public ACharacter
 
 public:
 	ASlashCharacter();
-
-protected:
-	virtual void BeginPlay() override;
-
-public:	
 	virtual void Tick(float DeltaTime) override;
-
 	virtual void SetupPlayerInputComponent(class UInputComponent* PlayerInputComponent) override;
 
+protected:
+	void MoveForward(float Value);
+	virtual void BeginPlay() override;
+
+	
 };
