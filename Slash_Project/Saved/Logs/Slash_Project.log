@@ -2147,3 +2147,37 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.08.25-22.53.45:630][385]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
 [2025.08.25-22.53.47:846][385]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
 [2025.08.25-22.54.28:671][213]LogDerivedDataCache: C:/Users/Usuario/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.129 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.08.25-22.54.54:116][963]LogLiveCoding: Display:    Creating library C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Binaries\Win64\UnrealEditor-Slash_Project.patch_0.lib and object C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Binaries\Win64\UnrealEditor-Slash_Project.patch_0.exp
+[2025.08.25-22.54.54:395][965]LogClass: UPackage /Script/Slash_Project Reload.
+[2025.08.25-22.54.54:397][965]LogClass: UClass Bird Reload.
+[2025.08.25-22.54.54:414][965]LogClass: Could not find existing class SlashCharacter in package /Script/Slash_Project for reload, assuming new or modified class
+[2025.08.25-22.54.54:416][965]LogClass: Could not find existing class Bird in package /Script/Slash_Project for reload, assuming new or modified class
+[2025.08.25-22.54.54:569][965]Re-instancing Bird after reload.
+[2025.08.25-22.54.55:028][965]LogUObjectHash: Compacting FUObjectHashTables data took   4.94ms
+[2025.08.25-22.54.55:086][966]Display: Reload/Re-instancing Complete: 1 package changed, 1 class new, 1 class changed
+[2025.08.25-22.54.55:086][966]LogLiveCoding: Warning: Live coding succeeded, data type changes may cause packaging to fail if assets reference the new or updated data types
+[2025.08.25-22.59.14:554][737]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19396.052734
+[2025.08.25-22.59.14:818][745]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.25-22.59.14:819][745]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19396.285156, Update Interval: 352.408203
+[2025.08.25-22.59.20:107][899]LogLiveCoding: Display: Starting Live Coding compile.
+[2025.08.25-22.59.23:069][987]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.08.25-22.59.24:501][987]LogSlate: Window 'Save Content' being destroyed
+[2025.08.25-22.59.24:547][987]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.25-22.59.24:623][987]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Character_Erika_Archer/Erika_Archer_Jump] ([1] browsable assets)...
+[2025.08.25-22.59.24:623][987]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character_Erika_Archer/Erika_Archer_Jump]
+[2025.08.25-22.59.24:725][987]LogSavePackage: Moving output files for package: /Game/Character_Erika_Archer/Erika_Archer_Jump
+[2025.08.25-22.59.24:726][987]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Erika_Archer_JumpE639E61C4D898151074CC79D46B264E4.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Character_Erika_Archer/Erika_Archer_Jump.uasset'
+[2025.08.25-22.59.24:825][987]LogFileHelpers: InternalPromptForCheckoutAndSave took 277.349 ms (total: 863.202 ms)
+[2025.08.25-22.59.24:902][987]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.25-22.59.24:902][987]LogContentValidation: Enabled validators:
+[2025.08.25-22.59.24:903][987]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.25-22.59.24:903][987]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.25-22.59.24:903][987]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.25-22.59.24:904][987]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.25-22.59.24:904][987]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.25-22.59.24:904][987]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.25-22.59.24:914][987]AssetCheck: /Game/Character_Erika_Archer/Erika_Archer_Jump Validating asset
+[2025.08.25-22.59.39:224][414]LogLiveCoding: Display:    Creating library C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Binaries\Win64\UnrealEditor-Slash_Project.patch_1.lib and object C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Binaries\Win64\UnrealEditor-Slash_Project.patch_1.exp
+[2025.08.25-22.59.39:834][415]LogUObjectHash: Compacting FUObjectHashTables data took   5.04ms
+[2025.08.25-22.59.39:876][416]Display: Reload/Re-instancing Complete: 1 package changed, 2 classes unchanged
+[2025.08.25-22.59.39:876][416]LogLiveCoding: Display: Live coding succeeded
