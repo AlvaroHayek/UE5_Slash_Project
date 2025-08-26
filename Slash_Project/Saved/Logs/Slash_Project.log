@@ -2585,3 +2585,80 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.08.26-15.30.03:656][660]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10382.803711
 [2025.08.26-15.30.04:691][691]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.08.26-15.30.04:691][691]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10383.801758, Update Interval: 333.062531
+[2025.08.26-15.31.02:905][358]LogSlate: Window 'BP_SlashCharacter' being destroyed
+[2025.08.26-15.31.03:139][358]LogSlate: Window 'BP_SlashCharacter' being destroyed
+[2025.08.26-15.31.03:564][358]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2025.08.26-15.31.03:596][358]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.26-15.31.06:093][358]LogUObjectHash: Compacting FUObjectHashTables data took  30.36ms
+[2025.08.26-15.31.09:792][428]LogLiveCoding: Display: Starting Live Coding compile.
+[2025.08.26-15.31.49:225][529]LogLiveCoding: Display:    Creating library C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Binaries\Win64\UnrealEditor-Slash_Project.patch_3.lib and object C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Binaries\Win64\UnrealEditor-Slash_Project.patch_3.exp
+[2025.08.26-15.31.49:605][532]LogClass: UPackage /Script/Slash_Project Reload.
+[2025.08.26-15.31.49:607][532]LogClass: UClass SlashCharacter Reload.
+[2025.08.26-15.31.49:626][532]LogClass: Could not find existing class SlashCharacter in package /Script/Slash_Project for reload, assuming new or modified class
+[2025.08.26-15.31.49:835][532]Re-instancing SlashCharacter after reload.
+[2025.08.26-15.31.52:381][532]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2025.08.26-15.31.54:987][533]Display: Reload/Re-instancing Complete: 1 package changed, 1 class changed, 1 class unchanged
+[2025.08.26-15.31.54:987][533]LogLiveCoding: Warning: Live coding succeeded, data type changes may cause packaging to fail if assets reference the new or updated data types
+[2025.08.26-15.33.16:697][636]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Characters/BP_SlashCharacter.BP_SlashCharacter
+[2025.08.26-15.33.16:723][636]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_18
+[2025.08.26-15.33.16:777][636]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_18'.
+[2025.08.26-15.33.24:652][716]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.08.26-15.33.24:756][716]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.26-15.33.24:785][716]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Minimal_Default_2
+[2025.08.26-15.33.24:864][716]LogPlayLevel: PIE: StaticDuplicateObject took: (0.077567s)
+[2025.08.26-15.33.24:865][716]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Minimal_Default_2.Minimal_Default_2 to /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 (0.080396s)
+[2025.08.26-15.33.25:316][716]LogUObjectHash: Compacting FUObjectHashTables data took   6.15ms
+[2025.08.26-15.33.25:323][716]LogChaosDD: Creating Chaos Debug Draw Scene for world Minimal_Default_2
+[2025.08.26-15.33.25:343][716]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2'.
+[2025.08.26-15.33.25:364][716]LogPlayLevel: PIE: World Init took: (0.041164s)
+[2025.08.26-15.33.25:369][716]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2025.08.26-15.33.25:374][716]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.26-15.33.25:374][716]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.26-15.33.25:374][716]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.26-15.33.25:374][716]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.26-15.33.25:374][716]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.26-15.33.25:374][716]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.26-15.33.25:374][716]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.26-15.33.25:374][716]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.26-15.33.25:379][716]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.26-15.33.25:379][716]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.26-15.33.25:379][716]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.26-15.33.25:438][716]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.26-15.33.25:469][716]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.08.26-15.33.25:485][716]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.26-15.33.25:485][716]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.26-15.33.25:487][716]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.26-15.33.25:498][716]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2025.08.26-15.33.25:499][716]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2025.08.26-15.33.25:508][716]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2025.08.26-15.33.25:508][716]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2025.08.26-15.33.25:510][716]LogInit: FAudioDevice initialized with ID 16.
+[2025.08.26-15.33.25:510][716]LogAudio: Display: Audio Device (ID: 16) registered with world 'Minimal_Default_2'.
+[2025.08.26-15.33.25:512][716]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2025.08.26-15.33.25:550][716]LogLoad: Game class is 'BP_GameMode_C'
+[2025.08.26-15.33.25:571][716]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 up for play (max tick rate 0) at 2025.08.26-17.33.25
+[2025.08.26-15.33.25:590][716]LogWorld: Bringing up level for play took: 0.036045
+[2025.08.26-15.33.25:620][716]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2025.08.26-15.33.25:717][716]PIE: Server logged in
+[2025.08.26-15.33.25:720][716]PIE: Play in editor total start time 1.016 seconds.
+[2025.08.26-15.33.39:373][785]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.26-15.33.39:374][785]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Minimal_Default_2
+[2025.08.26-15.33.39:385][785]LogWorld: UWorld::CleanupWorld for Minimal_Default_2, bSessionEnded=true, bCleanupResources=true
+[2025.08.26-15.33.39:389][785]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.26-15.33.39:430][785]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.26-15.33.39:441][785]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.26-15.33.39:536][785]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.26-15.33.39:538][785]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2025.08.26-15.33.39:539][785]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2025.08.26-15.33.39:573][785]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2025.08.26-15.33.39:996][785]LogUObjectHash: Compacting FUObjectHashTables data took   5.34ms
+[2025.08.26-15.33.40:960][788]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2025.08.26-15.36.26:464][652]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10765.587891
+[2025.08.26-15.36.26:730][660]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.26-15.36.26:731][660]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10765.819336, Update Interval: 342.584320
+[2025.08.26-15.42.46:516][ 30]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11145.622070
+[2025.08.26-15.42.46:814][ 39]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.26-15.42.46:814][ 39]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11145.883789, Update Interval: 342.692352
+[2025.08.26-15.49.11:020][494]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11530.131836
+[2025.08.26-15.49.11:259][501]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.26-15.49.11:259][501]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11530.339844, Update Interval: 347.713257

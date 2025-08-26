@@ -21,7 +21,7 @@ ASlashCharacter::ASlashCharacter()
 void ASlashCharacter::BeginPlay()
 {
 	Super::BeginPlay();
-	
+
 }
 
 void ASlashCharacter::Tick(float DeltaTime)
@@ -34,7 +34,8 @@ void ASlashCharacter::SetupPlayerInputComponent(UInputComponent* PlayerInputComp
 {
 	Super::SetupPlayerInputComponent(PlayerInputComponent);
 	PlayerInputComponent->BindAxis(FName("MoveForward"), this, &ASlashCharacter::MoveForward);
-
+	PlayerInputComponent->BindAxis(FName("Turn"), this, &ASlashCharacter::Turn);
+	PlayerInputComponent->BindAxis(FName("LookUp"), this, &ASlashCharacter::LookUp);
 }
 
 void ASlashCharacter::MoveForward(float Value)
@@ -45,3 +46,15 @@ void ASlashCharacter::MoveForward(float Value)
 		AddMovementInput(Forward, Value);
 	}
 }
+void ASlashCharacter::Turn(float Value)
+{
+
+}
+
+void ASlashCharacter::LookUp(float Value)
+{
+
+}
+
+
+
