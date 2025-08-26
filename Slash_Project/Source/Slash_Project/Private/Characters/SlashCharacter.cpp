@@ -46,8 +46,9 @@ void ASlashCharacter::MoveForward(float Value)
 {
 	if (Controller && (Value != 0.f))
 	{
-		FVector Forward = GetActorForwardVector();
-		AddMovementInput(Forward, Value);
+		// find out which way is forward
+		const FRotator ControlRotation = GetControlRotation();
+
 	}
 }
 
