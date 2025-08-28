@@ -1559,3 +1559,228 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.08.28-16.24.59:603][109]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
 [2025.08.28-16.24.59:619][109]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
 [2025.08.28-16.25.00:972][112]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2025.08.28-16.26.38:539][861]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 324.430969
+[2025.08.28-16.26.38:775][868]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.28-16.26.38:775][868]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 324.633789, Update Interval: 344.611359
+[2025.08.28-16.32.25:744][176]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 671.637695
+[2025.08.28-16.32.25:977][183]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.28-16.32.25:978][184]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 671.837646, Update Interval: 359.765625
+[2025.08.28-16.38.32:908][ 96]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1038.802124
+[2025.08.28-16.38.33:143][103]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.28-16.38.33:143][103]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1039.003174, Update Interval: 352.181152
+[2025.08.28-16.40.39:701][839]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.08.28-16.40.56:422][288]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Characters/BP_SlashCharacter.BP_SlashCharacter
+[2025.08.28-16.40.56:423][288]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2025.08.28-16.40.56:424][288]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_5'.
+[2025.08.28-16.41.45:902][ 87]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2025.08.28-16.41.45:903][ 87]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_6'.
+[2025.08.28-16.42.06:205][396]LogContentBrowser: Deferred new asset file creation: MI_EchoGroom1
+[2025.08.28-16.42.06:217][396]LogContentBrowser: Creating deferred item: MI_EchoGroom1
+[2025.08.28-16.42.06:246][397]LogContentBrowser: Renaming the item being created (Deferred Item: MI_EchoGroom1).
+[2025.08.28-16.42.10:581][472]LogContentBrowser: Attempting asset rename: MI_EchoGroom1 -> MI_EchoGroom-
+[2025.08.28-16.42.10:592][472]LogContentBrowser: End creating deferred item MI_EchoGroom1
+[2025.08.28-16.42.20:508][633]LogShaderCompilers: Display: ================================================
+[2025.08.28-16.42.20:508][633]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.08.28-16.42.20:508][633]LogShaderCompilers: Display: Total job queries 837, among them cache hits 351 (41.94%), DDC hits 455 (54.36%), Duplicates 4 (0.48%)
+[2025.08.28-16.42.20:508][633]LogShaderCompilers: Display: Tracking 482 distinct input hashes that result in 332 distinct outputs (68.88%)
+[2025.08.28-16.42.20:508][633]LogShaderCompilers: Display: RAM used: 190.21 KiB of 819.20 MiB budget. Usage: 0.02%
+[2025.08.28-16.42.20:508][633]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.08.28-16.42.20:508][633]LogShaderCompilers: Display: Shaders Compiled: 27
+[2025.08.28-16.42.20:508][633]LogShaderCompilers: Display: Jobs assigned 27, completed 27 (100%)
+[2025.08.28-16.42.20:508][633]LogShaderCompilers: Display: Average time worker was idle: 246.55 s
+[2025.08.28-16.42.20:508][633]LogShaderCompilers: Display: Time job spent in pending queue: average 0.10 s, longest 0.75 s
+[2025.08.28-16.42.20:508][633]LogShaderCompilers: Display: Job execution time: average 1.63 s, max 3.91 s
+[2025.08.28-16.42.20:508][633]LogShaderCompilers: Display: Job life time (pending + execution): average 1.73 s, max 3.91
+[2025.08.28-16.42.20:508][633]LogShaderCompilers: Display: Shader code size: average 7.062 KiB, min 2.203 KiB, max 11.656 KiB
+[2025.08.28-16.42.20:508][633]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 10.43 s
+[2025.08.28-16.42.20:508][633]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.03%
+[2025.08.28-16.42.20:508][633]LogShaderCompilers: Display: Jobs were issued in 27 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.08.28-16.42.20:508][633]LogShaderCompilers: Display: Average processing rate: 2.59 jobs/sec
+[2025.08.28-16.42.20:508][633]LogShaderCompilers: Display: Total thread time: 14.454 s
+[2025.08.28-16.42.20:508][633]LogShaderCompilers: Display: Total thread preprocess time: 15.974 s
+[2025.08.28-16.42.20:508][633]LogShaderCompilers: Display: Percentage time preprocessing: 110.51%
+[2025.08.28-16.42.20:509][633]LogShaderCompilers: Display: Effective parallelization: 1.39 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.08.28-16.42.20:509][633]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.08.28-16.42.20:509][633]LogShaderCompilers: Display:                                              FHairMaterialPS (compiled    1 times, average 0.86 sec, max 0.86 sec, min 0.86 sec)
+[2025.08.28-16.42.20:509][633]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    5 times, average 0.73 sec, max 0.99 sec, min 0.60 sec)
+[2025.08.28-16.42.20:509][633]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    5 times, average 0.57 sec, max 0.80 sec, min 0.47 sec)
+[2025.08.28-16.42.20:509][633]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    1 times, average 0.51 sec, max 0.51 sec, min 0.51 sec)
+[2025.08.28-16.42.20:509][633]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    5 times, average 0.49 sec, max 0.72 sec, min 0.41 sec)
+[2025.08.28-16.42.20:509][633]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.08.28-16.42.20:509][633]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 25.27% of total time (compiled    5 times, average 0.73 sec, max 0.99 sec, min 0.60 sec)
+[2025.08.28-16.42.20:509][633]LogShaderCompilers: Display:                                                 FLumenCardPS - 19.80% of total time (compiled    5 times, average 0.57 sec, max 0.80 sec, min 0.47 sec)
+[2025.08.28-16.42.20:509][633]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 17.10% of total time (compiled    5 times, average 0.49 sec, max 0.72 sec, min 0.41 sec)
+[2025.08.28-16.42.20:509][633]LogShaderCompilers: Display:                                                 FLumenCardVS - 16.84% of total time (compiled    5 times, average 0.49 sec, max 0.74 sec, min 0.39 sec)
+[2025.08.28-16.42.20:509][633]LogShaderCompilers: Display:                                              FHairMaterialPS - 5.98% of total time (compiled    1 times, average 0.86 sec, max 0.86 sec, min 0.86 sec)
+[2025.08.28-16.42.20:509][633]LogShaderCompilers: Display: === Material stats ===
+[2025.08.28-16.42.20:509][633]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.08.28-16.42.20:509][633]LogShaderCompilers: Display: Materials Translated:    232
+[2025.08.28-16.42.20:509][633]LogShaderCompilers: Display: Material Total Translate Time: 0.21 s
+[2025.08.28-16.42.20:509][633]LogShaderCompilers: Display: Material Translation Only: 0.09 s (46%)
+[2025.08.28-16.42.20:509][633]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2025.08.28-16.42.20:509][633]LogShaderCompilers: Display: Material Cache Hits: 47 (20%)
+[2025.08.28-16.42.20:509][633]LogShaderCompilers: Display: ================================================
+[2025.08.28-16.42.23:590][685]LogContentBrowser: Attempting asset rename: MI_EchoGroom- -> MI_EchoGroom_Color
+[2025.08.28-16.42.24:077][685]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.28-16.42.24:077][685]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AncientContent/Characters/Echo/Materials/MI_EchoGroom_Color] ([1] browsable assets)...
+[2025.08.28-16.42.24:131][685]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/AncientContent/Characters/Echo/Materials/MI_EchoGroom_Color.MI_EchoGroom_Color]
+[2025.08.28-16.42.24:131][685]OBJ SavePackage: Finished generating thumbnails for package [/Game/AncientContent/Characters/Echo/Materials/MI_EchoGroom_Color]
+[2025.08.28-16.42.24:135][685]LogSavePackage: Moving output files for package: /Game/AncientContent/Characters/Echo/Materials/MI_EchoGroom_Color
+[2025.08.28-16.42.24:135][685]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/MI_EchoGroom_Color4A754CAE480DBE53370460A5F416EBA7.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/AncientContent/Characters/Echo/Materials/MI_EchoGroom_Color.uasset'
+[2025.08.28-16.42.24:138][685]LogFileHelpers: InternalPromptForCheckoutAndSave took 60.358 ms (total: 238.429 ms)
+[2025.08.28-16.42.24:195][685]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2025.08.28-16.42.24:219][685]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2025.08.28-16.42.24:239][685]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2025.08.28-16.42.24:286][685]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.28-16.42.24:286][685]LogContentValidation: Enabled validators:
+[2025.08.28-16.42.24:286][685]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.28-16.42.24:286][685]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.28-16.42.24:286][685]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.28-16.42.24:286][685]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.28-16.42.24:286][685]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.28-16.42.24:286][685]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.28-16.42.24:286][685]AssetCheck: /Game/AncientContent/Characters/Echo/Materials/MI_EchoGroom_Color Validating asset
+[2025.08.28-16.42.31:202][796]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/AncientContent/Characters/Echo/Materials/MI_EchoGroom_Color.MI_EchoGroom_Color
+[2025.08.28-16.42.31:216][796]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/None.png' error.
+[2025.08.28-16.42.31:216][796]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/None.png
+[2025.08.28-16.42.31:217][796]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Texture.png' error.
+[2025.08.28-16.42.31:217][796]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Texture.png
+[2025.08.28-16.42.31:217][796]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float1.png' error.
+[2025.08.28-16.42.31:217][796]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float1.png
+[2025.08.28-16.42.31:217][796]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_RGB.png' error.
+[2025.08.28-16.42.31:217][796]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_RGB.png
+[2025.08.28-16.42.31:217][796]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_XYZ.png' error.
+[2025.08.28-16.42.31:217][796]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_XYZ.png
+[2025.08.28-16.42.31:217][796]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_RPY.png' error.
+[2025.08.28-16.42.31:217][796]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_RPY.png
+[2025.08.28-16.42.31:217][796]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_SinglePixel.png' error.
+[2025.08.28-16.42.31:217][796]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_SinglePixel.png
+[2025.08.28-16.42.31:217][796]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_LeftTopRight.png' error.
+[2025.08.28-16.42.31:218][796]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_LeftTopRight.png
+[2025.08.28-16.42.31:218][796]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_LeftBottomRight.png' error.
+[2025.08.28-16.42.31:218][796]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_LeftBottomRight.png
+[2025.08.28-16.42.31:218][796]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_TopLeftBottom.png' error.
+[2025.08.28-16.42.31:218][796]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_TopLeftBottom.png
+[2025.08.28-16.42.31:218][796]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaterialTypeDefaultLit.png' error.
+[2025.08.28-16.42.31:218][796]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float2.png' error.
+[2025.08.28-16.42.31:218][796]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaterialTypeDefaultLit.png
+[2025.08.28-16.42.31:218][796]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float2.png
+[2025.08.28-16.42.31:218][796]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float4_RGBA.png' error.
+[2025.08.28-16.42.31:218][796]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float4_RGBA.png
+[2025.08.28-16.42.31:218][796]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_TopRightBottom.png' error.
+[2025.08.28-16.42.31:218][796]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_TopRightBottom.png
+[2025.08.28-16.42.31:218][796]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_Top.png' error.
+[2025.08.28-16.42.31:218][796]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_Top.png
+[2025.08.28-16.42.31:218][796]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_Bottom.png' error.
+[2025.08.28-16.42.31:218][796]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_Bottom.png
+[2025.08.28-16.42.31:218][796]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_Left.png' error.
+[2025.08.28-16.42.31:218][796]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_Left.png
+[2025.08.28-16.42.31:218][796]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_Right.png' error.
+[2025.08.28-16.42.31:218][796]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float_Any.png' error.
+[2025.08.28-16.42.31:218][796]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_Right.png
+[2025.08.28-16.42.31:218][796]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float_Any.png
+[2025.08.28-16.42.31:218][796]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Bool.png' error.
+[2025.08.28-16.42.31:218][796]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Bool.png
+[2025.08.28-16.42.31:218][796]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaterialTypeUnlit.png' error.
+[2025.08.28-16.42.31:218][796]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaterialTypeUnlit.png
+[2025.08.28-16.42.31:218][796]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/Remove_16px.png' error.
+[2025.08.28-16.42.31:218][796]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/Remove_16px.png
+[2025.08.28-16.42.31:218][796]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/WhiteBall.png' error.
+[2025.08.28-16.42.31:218][796]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/WhiteBall.png
+[2025.08.28-16.42.31:218][796]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/BaseToggle_16x.png' error.
+[2025.08.28-16.42.31:218][796]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/BaseToggle_16x.png
+[2025.08.28-16.42.31:218][796]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaskToggle_16x.png' error.
+[2025.08.28-16.42.31:218][796]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaskToggle_16x.png
+[2025.08.28-16.42.31:218][796]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/LayerAdd.png' error.
+[2025.08.28-16.42.31:218][796]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/LayerAdd.png
+[2025.08.28-16.42.31:218][796]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/Duplicate_40x.png' error.
+[2025.08.28-16.42.31:218][796]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/Duplicate_40x.png
+[2025.08.28-16.42.31:218][796]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/LayerRemove.png' error.
+[2025.08.28-16.42.31:218][796]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/LayerRemove.png
+[2025.08.28-16.42.31:249][796]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2025.08.28-16.42.31:250][796]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_7'.
+[2025.08.28-16.42.31:257][796]LogStreaming: Display: FlushAsyncLoading(555): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.28-16.43.00:077][438]LogSlate: Window 'Color Picker' being destroyed
+[2025.08.28-16.43.06:133][514]LogSlate: Window 'Color Picker' being destroyed
+[2025.08.28-16.43.19:628][719]LogSlate: Window 'Color Picker' being destroyed
+[2025.08.28-16.43.26:630][817]LogSlate: Window 'Color Picker' being destroyed
+[2025.08.28-16.43.35:725][959]LogTexture: Display: Building textures: /Game/Clinic/Textures/T_EntranceMiddleTable.T_EntranceMiddleTable (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Final
+[2025.08.28-16.43.36:529][966]LogTexture: Display: Building textures: /Game/Clinic/Textures/T_CorridoreWallFrame.T_CorridoreWallFrame (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Final
+[2025.08.28-16.43.37:431][973]LogTexture: Display: Building textures: /Game/Clinic/Textures/T_EntranceSofa.T_EntranceSofa (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Final
+[2025.08.28-16.43.37:846][973]LogTexture: Display: Building textures: /Game/Clinic/Textures/T_OfficeFrame02.T_OfficeFrame02 (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Final
+[2025.08.28-16.43.39:111][987]LogTexture: Display: Building textures: /Game/Clinic/Textures/T_EntranceArmChair.T_EntranceArmChair (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Final
+[2025.08.28-16.43.40:329][  1]LogTexture: Display: Building textures: /Game/Clinic/Textures/Decals/T_Decal_Textures__72.T_Decal_Textures__72 (TFO_AutoDXT, 256x256 x1x1x1) (Required Memory Estimate: 11.333209 MB), EncodeSpeed: Final
+[2025.08.28-16.43.40:346][  1]LogTexture: Display: Building textures: /Game/Clinic/Textures/Decals/T_Decal_Textures__55.T_Decal_Textures__55 (TFO_AutoDXT, 256x256 x1x1x1) (Required Memory Estimate: 11.333209 MB), EncodeSpeed: Final
+[2025.08.28-16.43.40:361][  1]LogTexture: Display: Building textures: /Game/Clinic/Textures/Decals/T_Decal_Textures__54.T_Decal_Textures__54 (TFO_AutoDXT, 256x256 x1x1x1) (Required Memory Estimate: 11.333209 MB), EncodeSpeed: Final
+[2025.08.28-16.43.51:166][100]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2025.08.28-16.43.51:167][100]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_8'.
+[2025.08.28-16.44.05:081][223]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2025.08.28-16.44.06:333][223]LogSlate: Window 'Save Content' being destroyed
+[2025.08.28-16.44.06:343][223]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.28-16.44.06:381][223]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/BP_SlashCharacter] ([2] browsable assets)...
+[2025.08.28-16.44.06:381][223]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/BP_SlashCharacter]
+[2025.08.28-16.44.06:387][223]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/BP_SlashCharacter
+[2025.08.28-16.44.06:389][223]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/BP_SlashCharacterE0FE4251425646CE81F29390B3D6E2E4.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Characters/BP_SlashCharacter.uasset'
+[2025.08.28-16.44.06:390][223]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AncientContent/Characters/Echo/Materials/MI_EchoGroom_Color] ([1] browsable assets)...
+[2025.08.28-16.44.06:403][223]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/AncientContent/Characters/Echo/Materials/MI_EchoGroom_Color.MI_EchoGroom_Color]
+[2025.08.28-16.44.06:403][223]OBJ SavePackage: Finished generating thumbnails for package [/Game/AncientContent/Characters/Echo/Materials/MI_EchoGroom_Color]
+[2025.08.28-16.44.06:424][223]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.08.28-16.44.12:002][223]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.08.28-16.44.12:025][223]LogSavePackage: Moving output files for package: /Game/AncientContent/Characters/Echo/Materials/MI_EchoGroom_Color
+[2025.08.28-16.44.12:026][223]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/MI_EchoGroom_Color022E96FF4F7E11CB625B02AC0EBC44B5.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/AncientContent/Characters/Echo/Materials/MI_EchoGroom_Color.uasset'
+[2025.08.28-16.44.12:037][223]LogFileHelpers: InternalPromptForCheckoutAndSave took 5.69 sec (total: 5.93 sec)
+[2025.08.28-16.44.12:069][223]LogContentValidation: Display: Starting to validate 2 assets
+[2025.08.28-16.44.12:069][223]LogContentValidation: Enabled validators:
+[2025.08.28-16.44.12:069][223]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.28-16.44.12:069][223]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.28-16.44.12:069][223]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.28-16.44.12:070][223]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.28-16.44.12:070][223]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.28-16.44.12:070][223]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.28-16.44.12:070][223]AssetCheck: /Game/Blueprints/Characters/BP_SlashCharacter Validating asset
+[2025.08.28-16.44.12:070][223]AssetCheck: /Game/AncientContent/Characters/Echo/Materials/MI_EchoGroom_Color Validating asset
+[2025.08.28-16.44.12:090][223]LogAutomationController: Ignoring very large delta of 7.22 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.08.28-16.44.40:085][ 48]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1405.984619
+[2025.08.28-16.44.40:320][ 55]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.28-16.44.40:320][ 55]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1406.187012, Update Interval: 302.801605
+[2025.08.28-16.45.20:540][254]LogShaderCompilers: Display: ================================================
+[2025.08.28-16.45.20:540][254]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.08.28-16.45.20:540][254]LogShaderCompilers: Display: Total job queries 893, among them cache hits 357 (39.98%), DDC hits 463 (51.85%), Duplicates 4 (0.45%)
+[2025.08.28-16.45.20:540][254]LogShaderCompilers: Display: Tracking 532 distinct input hashes that result in 371 distinct outputs (69.74%)
+[2025.08.28-16.45.20:540][254]LogShaderCompilers: Display: RAM used: 255.38 KiB of 819.20 MiB budget. Usage: 0.03%
+[2025.08.28-16.45.20:540][254]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.08.28-16.45.20:540][254]LogShaderCompilers: Display: Shaders Compiled: 69
+[2025.08.28-16.45.20:540][254]LogShaderCompilers: Display: Jobs assigned 69, completed 69 (100%)
+[2025.08.28-16.45.20:540][254]LogShaderCompilers: Display: Average time worker was idle: 185.49 s
+[2025.08.28-16.45.20:540][254]LogShaderCompilers: Display: Time job spent in pending queue: average 0.97 s, longest 4.22 s
+[2025.08.28-16.45.20:540][254]LogShaderCompilers: Display: Job execution time: average 1.38 s, max 3.91 s
+[2025.08.28-16.45.20:540][254]LogShaderCompilers: Display: Job life time (pending + execution): average 2.34 s, max 5.36
+[2025.08.28-16.45.20:540][254]LogShaderCompilers: Display: Shader code size: average 7.953 KiB, min 1.305 KiB, max 24.066 KiB
+[2025.08.28-16.45.20:540][254]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 18.94 s
+[2025.08.28-16.45.20:540][254]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.02%
+[2025.08.28-16.45.20:540][254]LogShaderCompilers: Display: Jobs were issued in 69 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.08.28-16.45.20:540][254]LogShaderCompilers: Display: Average processing rate: 3.64 jobs/sec
+[2025.08.28-16.45.20:540][254]LogShaderCompilers: Display: Total thread time: 49.81 s
+[2025.08.28-16.45.20:540][254]LogShaderCompilers: Display: Total thread preprocess time: 16.888 s
+[2025.08.28-16.45.20:540][254]LogShaderCompilers: Display: Percentage time preprocessing: 33.90%
+[2025.08.28-16.45.20:540][254]LogShaderCompilers: Display: Effective parallelization: 2.63 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.08.28-16.45.20:540][254]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.08.28-16.45.20:540][254]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    3 times, average 2.55 sec, max 2.57 sec, min 2.54 sec)
+[2025.08.28-16.45.20:540][254]LogShaderCompilers: Display:                            TMaterialCHS_IS_FNoLightMapPolicy (compiled    1 times, average 1.55 sec, max 1.55 sec, min 1.55 sec)
+[2025.08.28-16.45.20:540][254]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    2 times, average 1.54 sec, max 1.73 sec, min 1.35 sec)
+[2025.08.28-16.45.20:540][254]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    2 times, average 1.32 sec, max 1.54 sec, min 1.10 sec)
+[2025.08.28-16.45.20:540][254]LogShaderCompilers: Display:                                   FPathTracingMaterialCHS_IS (compiled    1 times, average 1.04 sec, max 1.04 sec, min 1.04 sec)
+[2025.08.28-16.45.20:540][254]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.08.28-16.45.20:540][254]LogShaderCompilers: Display:                                             FDebugViewModePS - 15.34% of total time (compiled    3 times, average 2.55 sec, max 2.57 sec, min 2.54 sec)
+[2025.08.28-16.45.20:540][254]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 11.75% of total time (compiled    7 times, average 0.84 sec, max 1.22 sec, min 0.60 sec)
+[2025.08.28-16.45.20:540][254]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 6.92% of total time (compiled    7 times, average 0.49 sec, max 0.72 sec, min 0.41 sec)
+[2025.08.28-16.45.20:540][254]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 6.19% of total time (compiled    2 times, average 1.54 sec, max 1.73 sec, min 1.35 sec)
+[2025.08.28-16.45.20:540][254]LogShaderCompilers: Display:                                                 FLumenCardPS - 5.75% of total time (compiled    5 times, average 0.57 sec, max 0.80 sec, min 0.47 sec)
+[2025.08.28-16.45.20:540][254]LogShaderCompilers: Display: === Material stats ===
+[2025.08.28-16.45.20:540][254]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.08.28-16.45.20:540][254]LogShaderCompilers: Display: Materials Translated:    233
+[2025.08.28-16.45.20:540][254]LogShaderCompilers: Display: Material Total Translate Time: 0.21 s
+[2025.08.28-16.45.20:540][254]LogShaderCompilers: Display: Material Translation Only: 0.09 s (45%)
+[2025.08.28-16.45.20:540][254]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2025.08.28-16.45.20:540][254]LogShaderCompilers: Display: Material Cache Hits: 47 (20%)
+[2025.08.28-16.45.20:540][254]LogShaderCompilers: Display: ================================================
