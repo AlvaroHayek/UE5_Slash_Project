@@ -1459,3 +1459,594 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.08.30-18.22.52:594][735]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.08.30-18.22.52:594][735]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.08.30-18.22.52:596][735]AssetCheck: /Game/Blueprints/Characters/ABP_Echo Validating asset
+[2025.08.30-18.23.24:030][605]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Blueprints/Characters/ABP_Echo.ABP_Echo
+[2025.08.30-18.23.24:084][605]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2025.08.30-18.23.24:084][605]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_6'.
+[2025.08.30-18.23.24:247][605]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2025.08.30-18.23.24:248][605]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_7'.
+[2025.08.30-18.23.24:283][605]LogStreaming: Display: FlushAsyncLoading(527): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.30-18.23.24:399][605]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'DebugSkelMeshComponent_0' with 'Echo'
+[2025.08.30-18.23.24:446][605]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.08.30-18.23.25:162][605]LogLinker: Warning: [AssetLog] C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Content\AncientContent\Blueprints\Abilities\GameplayAbilityUtils.uasset: VerifyImport: Failed to find script package for import object 'Package /Script/GameplayAbilities'
+[2025.08.30-18.23.25:163][605]LogLinker: Warning: [AssetLog] C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Content\AncientContent\Blueprints\Abilities\GameplayAbilityUtils.uasset: CreateExport: Failed to load Class /Script/GameplayAbilities.GameplayAbility as Parent for BlueprintGeneratedClass /Game/AncientContent/Blueprints/Abilities/GameplayAbilityUtils.GameplayAbilityUtils_C - both will fail to load
+[2025.08.30-18.23.25:163][605]LogLinker: Warning: [AssetLog] C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Content\AncientContent\Blueprints\Abilities\GameplayAbilityUtils.uasset: CreateExport: Failed to load Class /Script/GameplayAbilities.GameplayAbility as Parent for BlueprintGeneratedClass /Game/AncientContent/Blueprints/Abilities/GameplayAbilityUtils.GameplayAbilityUtils_C - both will fail to load
+[2025.08.30-18.23.25:163][605]LogLinker: Warning: Unable to load Default__GameplayAbilityUtils_C with outer Package /Game/AncientContent/Blueprints/Abilities/GameplayAbilityUtils because its class (GameplayAbilityUtils_C) does not exist
+[2025.08.30-18.23.25:163][605]LogLinker: Warning: [AssetLog] C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Content\AncientContent\Blueprints\Abilities\GameplayAbilityUtils.uasset: CreateExport: Failed to load Class /Script/GameplayAbilities.GameplayAbility as Parent for BlueprintGeneratedClass /Game/AncientContent/Blueprints/Abilities/GameplayAbilityUtils.GameplayAbilityUtils_C - both will fail to load
+[2025.08.30-18.23.25:164][605]LogBlueprint: Warning: FMemberReference::ResolveMember (GetActorInfo) bSelfContext == true, but no scope supplied!
+[2025.08.30-18.23.25:164][605]LogBlueprint: Warning: FMemberReference::ResolveMember (GetActorInfo) bSelfContext == true, but no scope supplied!
+[2025.08.30-18.23.25:165][605]LogBlueprintEditor: Perf: 0.6 total seconds to load all 7 blueprint libraries in project. Avoid references to content in blueprint libraries to shorten this time.
+[2025.08.30-18.23.25:165][605]LogBlueprintEditor: Perf: 0.4 seconds loading: /Game/AncientContent/Blueprints/Character/BP_VaultingUtilLib
+[2025.08.30-18.23.27:201][605]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2025.08.30-18.23.27:202][605]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_8'.
+[2025.08.30-18.23.27:734][605]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2025.08.30-18.23.27:735][605]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_9'.
+[2025.08.30-18.23.27:759][605]LogBlueprint: Warning: Blueprint /Game/AncientContent/Blueprints/Abilities/GameplayAbilityUtils is missing GeneratedClass asset tag
+[2025.08.30-18.23.27:882][605]LogSlate: Took 0.017701 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.08.30-18.23.27:896][605]LogSlate: Took 0.009218 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.08.30-18.23.59:570][ 13]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 337.286194
+[2025.08.30-18.23.59:970][ 17]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.30-18.23.59:970][ 17]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 337.585358, Update Interval: 336.446411
+[2025.08.30-18.24.40:868][577]LogStreaming: Display: FlushAsyncLoading(545): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.30-18.24.41:619][577]LogStreaming: Display: ImportPackages: SkipPackage: /Game/AncientContent/Audio/AudioModulation/Patches/SFX_Foley_Echo_Patch (0xA4C2E2A43B5CFF3) /Game/AncientContent/Audio/AudioModulation/Patches/SFX_Foley_Echo_Patch (0xA4C2E2A43B5CFF3) - Skipping non mounted imported package /AudioModulation/Volume (0xEB7582CB3977CA8D)
+[2025.08.30-18.24.41:630][577]LogStreaming: Display: ImportPackages: SkipPackage: /Game/AncientContent/Audio/AudioModulation/Patches/SFX_FS_Echo_Patch (0x603EFC99CA0B0076) /Game/AncientContent/Audio/AudioModulation/Patches/SFX_FS_Echo_Patch (0x603EFC99CA0B0076) - Skipping non mounted imported package /AudioModulation/Volume (0xEB7582CB3977CA8D)
+[2025.08.30-18.24.41:989][577]LogStreaming: Display: ImportPackages: SkipPackage: /Game/AncientContent/Audio/AudioModulation/ControlBuses/Echo_ControlBus (0x36A040309F10B6F0) /Game/AncientContent/Audio/AudioModulation/ControlBuses/Echo_ControlBus (0x36A040309F10B6F0) - Skipping non mounted imported package /AudioModulation/Volume (0xEB7582CB3977CA8D)
+[2025.08.30-18.24.42:000][577]LogStreaming: Display: ImportPackages: SkipPackage: /Game/AncientContent/Audio/AudioModulation/ControlBuses/Foley_ControlBus (0x36E3FA315AA935E0) /Game/AncientContent/Audio/AudioModulation/ControlBuses/Foley_ControlBus (0x36E3FA315AA935E0) - Skipping non mounted imported package /AudioModulation/Volume (0xEB7582CB3977CA8D)
+[2025.08.30-18.24.42:012][577]LogStreaming: Display: ImportPackages: SkipPackage: /Game/AncientContent/Audio/AudioModulation/ControlBuses/SFX_ControlBus (0xDCDD05A2051628D7) /Game/AncientContent/Audio/AudioModulation/ControlBuses/SFX_ControlBus (0xDCDD05A2051628D7) - Skipping non mounted imported package /AudioModulation/Volume (0xEB7582CB3977CA8D)
+[2025.08.30-18.24.42:022][577]LogStreaming: Display: ImportPackages: SkipPackage: /Game/AncientContent/Audio/AudioModulation/ControlBuses/FS_ControlBus (0xC6EBB2B8DE74AFC5) /Game/AncientContent/Audio/AudioModulation/ControlBuses/FS_ControlBus (0xC6EBB2B8DE74AFC5) - Skipping non mounted imported package /AudioModulation/Volume (0xEB7582CB3977CA8D)
+[2025.08.30-18.24.42:124][577]LogLinker: Warning: [AssetLog] C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Content\AncientContent\Audio\AudioModulation\ControlBuses\Echo_ControlBus.uasset: VerifyImport: Failed to find script package for import object 'Package /Script/AudioModulation'
+[2025.08.30-18.24.42:124][577]LogLinker: Warning: Unable to load Echo_ControlBus with outer Package /Game/AncientContent/Audio/AudioModulation/ControlBuses/Echo_ControlBus because its class (SoundControlBus) does not exist
+[2025.08.30-18.24.42:124][577]LogLinker: Warning: Unable to load Foley_ControlBus with outer Package /Game/AncientContent/Audio/AudioModulation/ControlBuses/Foley_ControlBus because its class (SoundControlBus) does not exist
+[2025.08.30-18.24.42:124][577]LogLinker: Warning: Unable to load SFX_ControlBus with outer Package /Game/AncientContent/Audio/AudioModulation/ControlBuses/SFX_ControlBus because its class (SoundControlBus) does not exist
+[2025.08.30-18.24.42:125][577]LogLinker: Warning: Unable to load SFX_Foley_Echo_Patch with outer Package /Game/AncientContent/Audio/AudioModulation/Patches/SFX_Foley_Echo_Patch because its class (SoundModulationPatch) does not exist
+[2025.08.30-18.24.42:125][577]LogLinker: Warning: Unable to load FS_ControlBus with outer Package /Game/AncientContent/Audio/AudioModulation/ControlBuses/FS_ControlBus because its class (SoundControlBus) does not exist
+[2025.08.30-18.24.42:125][577]LogLinker: Warning: Unable to load SFX_FS_Echo_Patch with outer Package /Game/AncientContent/Audio/AudioModulation/Patches/SFX_FS_Echo_Patch because its class (SoundModulationPatch) does not exist
+[2025.08.30-18.24.42:407][577]LogTexture: Display: Building textures: /Game/AncientContent/Effects/Footsteps/Textures/T_Dust_Footsteps.T_Dust_Footsteps (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 102.583323 MB), EncodeSpeed: Fast
+[2025.08.30-18.24.42:411][577]LogTexture: Display: Building textures: /Game/AncientContent/Effects/Footsteps/Textures/T_Rock_Debris.T_Rock_Debris (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 102.583323 MB), EncodeSpeed: Fast
+[2025.08.30-18.24.42:452][577]LogAudioDerivedData: Display: Building compressed audio format PCM hash PCM_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave sfx_Char_Echo_Foley_FS_Rock_Run_nl_01...
+[2025.08.30-18.24.42:453][577]LogAudioDerivedData: Display: sfx_Char_Echo_Foley_FS_Rock_Run_nl_01 compressed to 100.00% (from 57KB to 57KB) with PCM at Quality 100 with Quality Modifier 1.00
+[2025.08.30-18.24.42:455][577]LogAudio: Display: Chunk stats for (SoundWave /Game/AncientContent/Audio/SoundWaves/Echo/Foley/sfx_Char_Echo_Foley_FS_Rock_Run_nl_01.sfx_Char_Echo_Foley_FS_Rock_Run_nl_01: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=46 bytes, Chunk1=58628 bytes, ChunkN=0)
+[2025.08.30-18.24.42:458][577]LogAudioDerivedData: Display: Building compressed audio format PCM hash PCM_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave sfx_Char_Echo_Foley_FS_Rock_Run_nl_02...
+[2025.08.30-18.24.42:458][577]LogAudioDerivedData: Display: sfx_Char_Echo_Foley_FS_Rock_Run_nl_02 compressed to 100.00% (from 58KB to 58KB) with PCM at Quality 100 with Quality Modifier 1.00
+[2025.08.30-18.24.42:459][577]LogAudio: Display: Chunk stats for (SoundWave /Game/AncientContent/Audio/SoundWaves/Echo/Foley/sfx_Char_Echo_Foley_FS_Rock_Run_nl_02.sfx_Char_Echo_Foley_FS_Rock_Run_nl_02: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=46 bytes, Chunk1=59900 bytes, ChunkN=0)
+[2025.08.30-18.24.42:461][577]LogAudioDerivedData: Display: Building compressed audio format PCM hash PCM_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave sfx_Char_Echo_Foley_FS_Rock_Run_nl_03...
+[2025.08.30-18.24.42:461][577]LogAudioDerivedData: Display: sfx_Char_Echo_Foley_FS_Rock_Run_nl_03 compressed to 100.00% (from 52KB to 52KB) with PCM at Quality 100 with Quality Modifier 1.00
+[2025.08.30-18.24.42:462][577]LogAudio: Display: Chunk stats for (SoundWave /Game/AncientContent/Audio/SoundWaves/Echo/Foley/sfx_Char_Echo_Foley_FS_Rock_Run_nl_03.sfx_Char_Echo_Foley_FS_Rock_Run_nl_03: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=46 bytes, Chunk1=53704 bytes, ChunkN=0)
+[2025.08.30-18.24.42:464][577]LogAudioDerivedData: Display: Building compressed audio format PCM hash PCM_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave sfx_Char_Echo_Foley_FS_Rock_Run_nl_04...
+[2025.08.30-18.24.42:464][577]LogAudioDerivedData: Display: sfx_Char_Echo_Foley_FS_Rock_Run_nl_04 compressed to 100.00% (from 49KB to 49KB) with PCM at Quality 100 with Quality Modifier 1.00
+[2025.08.30-18.24.42:465][577]LogAudio: Display: Chunk stats for (SoundWave /Game/AncientContent/Audio/SoundWaves/Echo/Foley/sfx_Char_Echo_Foley_FS_Rock_Run_nl_04.sfx_Char_Echo_Foley_FS_Rock_Run_nl_04: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=46 bytes, Chunk1=50984 bytes, ChunkN=0)
+[2025.08.30-18.24.42:466][577]LogAudioDerivedData: Display: Building compressed audio format PCM hash PCM_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave sfx_Char_Echo_Foley_FS_Rock_Run_nl_05...
+[2025.08.30-18.24.42:466][577]LogAudioDerivedData: Display: sfx_Char_Echo_Foley_FS_Rock_Run_nl_05 compressed to 100.00% (from 55KB to 55KB) with PCM at Quality 100 with Quality Modifier 1.00
+[2025.08.30-18.24.42:467][577]LogAudio: Display: Chunk stats for (SoundWave /Game/AncientContent/Audio/SoundWaves/Echo/Foley/sfx_Char_Echo_Foley_FS_Rock_Run_nl_05.sfx_Char_Echo_Foley_FS_Rock_Run_nl_05: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=46 bytes, Chunk1=57144 bytes, ChunkN=0)
+[2025.08.30-18.24.42:469][577]LogAudioDerivedData: Display: Building compressed audio format PCM hash PCM_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave sfx_Char_Echo_Foley_FS_Rock_Run_nl_06...
+[2025.08.30-18.24.42:470][577]LogAudioDerivedData: Display: sfx_Char_Echo_Foley_FS_Rock_Run_nl_06 compressed to 100.00% (from 51KB to 51KB) with PCM at Quality 100 with Quality Modifier 1.00
+[2025.08.30-18.24.42:470][577]LogAudio: Display: Chunk stats for (SoundWave /Game/AncientContent/Audio/SoundWaves/Echo/Foley/sfx_Char_Echo_Foley_FS_Rock_Run_nl_06.sfx_Char_Echo_Foley_FS_Rock_Run_nl_06: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=46 bytes, Chunk1=52308 bytes, ChunkN=0)
+[2025.08.30-18.24.42:472][577]LogAudioDerivedData: Display: Building compressed audio format PCM hash PCM_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave sfx_Char_Echo_Foley_FS_Rock_Run_nl_07...
+[2025.08.30-18.24.42:472][577]LogAudioDerivedData: Display: sfx_Char_Echo_Foley_FS_Rock_Run_nl_07 compressed to 100.00% (from 50KB to 50KB) with PCM at Quality 100 with Quality Modifier 1.00
+[2025.08.30-18.24.42:473][577]LogAudio: Display: Chunk stats for (SoundWave /Game/AncientContent/Audio/SoundWaves/Echo/Foley/sfx_Char_Echo_Foley_FS_Rock_Run_nl_07.sfx_Char_Echo_Foley_FS_Rock_Run_nl_07: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=46 bytes, Chunk1=52176 bytes, ChunkN=0)
+[2025.08.30-18.24.42:475][577]LogAudioDerivedData: Display: Building compressed audio format PCM hash PCM_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave sfx_Char_Echo_Foley_FS_Rock_Run_nl_08...
+[2025.08.30-18.24.42:475][577]LogAudioDerivedData: Display: sfx_Char_Echo_Foley_FS_Rock_Run_nl_08 compressed to 100.00% (from 53KB to 53KB) with PCM at Quality 100 with Quality Modifier 1.00
+[2025.08.30-18.24.42:476][577]LogAudio: Display: Chunk stats for (SoundWave /Game/AncientContent/Audio/SoundWaves/Echo/Foley/sfx_Char_Echo_Foley_FS_Rock_Run_nl_08.sfx_Char_Echo_Foley_FS_Rock_Run_nl_08: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=46 bytes, Chunk1=54452 bytes, ChunkN=0)
+[2025.08.30-18.24.42:476][577]LogAudioDerivedData: Display: Building compressed audio format PCM hash PCM_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave sfx_Char_Echo_Foley_Cloth_Run_nl_03...
+[2025.08.30-18.24.42:476][577]LogAudioDerivedData: Display: Building compressed audio format PCM hash PCM_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave sfx_Char_Echo_Foley_Cloth_Run_nl_02...
+[2025.08.30-18.24.42:477][577]LogAudioDerivedData: Display: Building compressed audio format PCM hash PCM_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave sfx_Char_Echo_Foley_Cloth_Run_nl_01...
+[2025.08.30-18.24.42:477][577]LogAudioDerivedData: Display: Building compressed audio format PCM hash PCM_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave sfx_Char_Echo_Foley_Cloth_Run_nl_05...
+[2025.08.30-18.24.42:477][577]LogAudioDerivedData: Display: sfx_Char_Echo_Foley_Cloth_Run_nl_03 compressed to 100.00% (from 69KB to 69KB) with PCM at Quality 100 with Quality Modifier 1.00
+[2025.08.30-18.24.42:477][577]LogAudioDerivedData: Display: sfx_Char_Echo_Foley_Cloth_Run_nl_05 compressed to 100.00% (from 60KB to 60KB) with PCM at Quality 100 with Quality Modifier 1.00
+[2025.08.30-18.24.42:477][577]LogAudioDerivedData: Display: sfx_Char_Echo_Foley_Cloth_Run_nl_02 compressed to 100.00% (from 65KB to 65KB) with PCM at Quality 100 with Quality Modifier 1.00
+[2025.08.30-18.24.42:477][577]LogAudioDerivedData: Display: sfx_Char_Echo_Foley_Cloth_Run_nl_01 compressed to 100.00% (from 64KB to 64KB) with PCM at Quality 100 with Quality Modifier 1.00
+[2025.08.30-18.24.42:478][577]LogAudioDerivedData: Display: Building compressed audio format PCM hash PCM_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave sfx_Char_Echo_Foley_Cloth_Run_nl_06...
+[2025.08.30-18.24.42:478][577]LogAudioDerivedData: Display: Building compressed audio format PCM hash PCM_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave sfx_Char_Echo_Foley_Cloth_Run_nl_04...
+[2025.08.30-18.24.42:478][577]LogAudioDerivedData: Display: Building compressed audio format PCM hash PCM_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave sfx_Char_Echo_Foley_Cloth_Run_nl_07...
+[2025.08.30-18.24.42:478][577]LogAudioDerivedData: Display: Building compressed audio format PCM hash PCM_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave sfx_Char_Echo_Foley_Cloth_Run_nl_08...
+[2025.08.30-18.24.42:478][577]LogAudioDerivedData: Display: sfx_Char_Echo_Foley_Cloth_Run_nl_06 compressed to 100.00% (from 72KB to 72KB) with PCM at Quality 100 with Quality Modifier 1.00
+[2025.08.30-18.24.42:478][577]LogAudioDerivedData: Display: sfx_Char_Echo_Foley_Cloth_Run_nl_07 compressed to 100.00% (from 62KB to 62KB) with PCM at Quality 100 with Quality Modifier 1.00
+[2025.08.30-18.24.42:478][577]LogAudioDerivedData: Display: sfx_Char_Echo_Foley_Cloth_Run_nl_04 compressed to 100.00% (from 59KB to 59KB) with PCM at Quality 100 with Quality Modifier 1.00
+[2025.08.30-18.24.42:478][577]LogAudioDerivedData: Display: sfx_Char_Echo_Foley_Cloth_Run_nl_08 compressed to 100.00% (from 58KB to 58KB) with PCM at Quality 100 with Quality Modifier 1.00
+[2025.08.30-18.24.42:478][577]LogAudioDerivedData: Display: Building compressed audio format PCM hash PCM_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave sfx_Char_Echo_Foley_Cloth_Run_nl_09...
+[2025.08.30-18.24.42:479][577]LogAudioDerivedData: Display: sfx_Char_Echo_Foley_Cloth_Run_nl_09 compressed to 100.00% (from 67KB to 67KB) with PCM at Quality 100 with Quality Modifier 1.00
+[2025.08.30-18.24.42:479][577]LogAudioDerivedData: Display: Building compressed audio format PCM hash PCM_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave sfx_Char_Echo_Foley_Cloth_Run_nl_10...
+[2025.08.30-18.24.42:479][577]LogAudioDerivedData: Display: sfx_Char_Echo_Foley_Cloth_Run_nl_10 compressed to 100.00% (from 71KB to 71KB) with PCM at Quality 100 with Quality Modifier 1.00
+[2025.08.30-18.24.42:479][577]LogAudioDerivedData: Display: Building compressed audio format ADPCM hash ADPCM_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave sfx_Char_Echo_Foley_Pouch_Heavy_nl_02...
+[2025.08.30-18.24.42:479][577]LogAudioDerivedData: Display: Building compressed audio format ADPCM hash ADPCM_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave sfx_Char_Echo_Foley_Pouch_Heavy_nl_01...
+[2025.08.30-18.24.42:480][577]LogAudioDerivedData: Display: Building compressed audio format PCM hash PCM_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave sfx_Char_Echo_Foley_FS_Rock_Run_nl_09...
+[2025.08.30-18.24.42:480][577]LogAudioDerivedData: Display: Building compressed audio format ADPCM hash ADPCM_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave sfx_Char_Echo_Foley_Pouch_Heavy_nl_03...
+[2025.08.30-18.24.42:480][577]LogAudioDerivedData: Display: Building compressed audio format ADPCM hash ADPCM_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave sfx_Char_Echo_Foley_Pouch_Heavy_nl_05...
+[2025.08.30-18.24.42:480][577]LogAudioDerivedData: Display: sfx_Char_Echo_Foley_FS_Rock_Run_nl_09 compressed to 100.00% (from 55KB to 55KB) with PCM at Quality 100 with Quality Modifier 1.00
+[2025.08.30-18.24.42:480][577]LogAudioDerivedData: Display: Building compressed audio format ADPCM hash ADPCM_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave sfx_Char_Echo_Foley_Pouch_Heavy_nl_04...
+[2025.08.30-18.24.42:481][577]LogAudioDerivedData: Display: sfx_Char_Echo_Foley_Pouch_Heavy_nl_01 compressed to 25.59% (from 86KB to 22KB) with ADPCM at Quality 80 with Quality Modifier 1.00
+[2025.08.30-18.24.42:481][577]LogAudioDerivedData: Display: sfx_Char_Echo_Foley_Pouch_Heavy_nl_02 compressed to 25.39% (from 110KB to 28KB) with ADPCM at Quality 80 with Quality Modifier 1.00
+[2025.08.30-18.24.42:481][577]LogAudioDerivedData: Display: Building compressed audio format ADPCM hash ADPCM_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave sfx_Char_Echo_Foley_Pouch_Heavy_nl_06...
+[2025.08.30-18.24.42:481][577]LogAudio: Display: Chunk stats for (SoundWave /Game/AncientContent/Audio/SoundWaves/Echo/Foley/sfx_Char_Echo_Foley_FS_Rock_Run_nl_09.sfx_Char_Echo_Foley_FS_Rock_Run_nl_09: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=46 bytes, Chunk1=57032 bytes, ChunkN=0)
+[2025.08.30-18.24.42:481][577]LogAudioDerivedData: Display: sfx_Char_Echo_Foley_Pouch_Heavy_nl_03 compressed to 25.75% (from 101KB to 26KB) with ADPCM at Quality 80 with Quality Modifier 1.00
+[2025.08.30-18.24.42:481][577]LogAudioDerivedData: Display: Building compressed audio format ADPCM hash ADPCM_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave sfx_Char_Echo_Foley_Pouch_Heavy_nl_07...
+[2025.08.30-18.24.42:481][577]LogAudioDerivedData: Display: Building compressed audio format ADPCM hash ADPCM_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave sfx_Char_Echo_Foley_Pouch_Heavy_nl_08...
+[2025.08.30-18.24.42:482][577]LogAudioDerivedData: Display: sfx_Char_Echo_Foley_Pouch_Heavy_nl_05 compressed to 25.99% (from 88KB to 23KB) with ADPCM at Quality 80 with Quality Modifier 1.00
+[2025.08.30-18.24.42:482][577]LogAudioDerivedData: Display: sfx_Char_Echo_Foley_Pouch_Heavy_nl_04 compressed to 26.26% (from 95KB to 25KB) with ADPCM at Quality 80 with Quality Modifier 1.00
+[2025.08.30-18.24.42:482][577]LogAudioDerivedData: Display: Building compressed audio format ADPCM hash ADPCM_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave sfx_Char_Echo_Foley_Pouch_Heavy_nl_09...
+[2025.08.30-18.24.42:482][577]LogAudioDerivedData: Display: sfx_Char_Echo_Foley_Pouch_Heavy_nl_06 compressed to 26.06% (from 100KB to 26KB) with ADPCM at Quality 80 with Quality Modifier 1.00
+[2025.08.30-18.24.42:483][577]LogAudioDerivedData: Display: Building compressed audio format ADPCM hash ADPCM_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave sfx_Char_Echo_Foley_Pouch_Heavy_nl_11...
+[2025.08.30-18.24.42:483][577]LogAudioDerivedData: Display: sfx_Char_Echo_Foley_Pouch_Heavy_nl_07 compressed to 26.44% (from 91KB to 24KB) with ADPCM at Quality 80 with Quality Modifier 1.00
+[2025.08.30-18.24.42:483][577]LogAudioDerivedData: Display: Building compressed audio format PCM hash PCM_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave sfx_Char_Echo_Foley_FS_Rock_Run_nl_10...
+[2025.08.30-18.24.42:483][577]LogAudioDerivedData: Display: sfx_Char_Echo_Foley_Pouch_Heavy_nl_08 compressed to 25.81% (from 112KB to 29KB) with ADPCM at Quality 80 with Quality Modifier 1.00
+[2025.08.30-18.24.42:483][577]LogAudioDerivedData: Display: sfx_Char_Echo_Foley_FS_Rock_Run_nl_10 compressed to 100.00% (from 50KB to 50KB) with PCM at Quality 100 with Quality Modifier 1.00
+[2025.08.30-18.24.42:483][577]LogAudioDerivedData: Display: Building compressed audio format ADPCM hash ADPCM_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave sfx_Char_Echo_Foley_Pouch_Heavy_nl_10...
+[2025.08.30-18.24.42:484][577]LogAudioDerivedData: Display: sfx_Char_Echo_Foley_Pouch_Heavy_nl_09 compressed to 26.15% (from 118KB to 31KB) with ADPCM at Quality 80 with Quality Modifier 1.00
+[2025.08.30-18.24.42:484][577]LogAudio: Display: Chunk stats for (SoundWave /Game/AncientContent/Audio/SoundWaves/Echo/Foley/sfx_Char_Echo_Foley_FS_Rock_Run_nl_10.sfx_Char_Echo_Foley_FS_Rock_Run_nl_10: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=46 bytes, Chunk1=51364 bytes, ChunkN=0)
+[2025.08.30-18.24.42:484][577]LogAudioDerivedData: Display: sfx_Char_Echo_Foley_Pouch_Heavy_nl_11 compressed to 25.81% (from 104KB to 27KB) with ADPCM at Quality 80 with Quality Modifier 1.00
+[2025.08.30-18.24.42:485][577]LogAudioDerivedData: Display: sfx_Char_Echo_Foley_Pouch_Heavy_nl_10 compressed to 25.53% (from 110KB to 28KB) with ADPCM at Quality 80 with Quality Modifier 1.00
+[2025.08.30-18.24.42:487][577]LogAudioDerivedData: Display: Building compressed audio format PCM hash PCM_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave sfx_Char_Echo_Foley_FS_Rock_Run_nl_11...
+[2025.08.30-18.24.42:487][577]LogAudio: Display: Chunk stats for (SoundWave /Game/AncientContent/Audio/SoundWaves/Echo/Foley/sfx_Char_Echo_Foley_Cloth_Run_nl_02.sfx_Char_Echo_Foley_Cloth_Run_nl_02: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=46 bytes, Chunk1=67180 bytes, ChunkN=0)
+[2025.08.30-18.24.42:487][577]LogAudio: Display: Chunk stats for (SoundWave /Game/AncientContent/Audio/SoundWaves/Echo/Foley/sfx_Char_Echo_Foley_Cloth_Run_nl_01.sfx_Char_Echo_Foley_Cloth_Run_nl_01: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=46 bytes, Chunk1=66052 bytes, ChunkN=0)
+[2025.08.30-18.24.42:487][577]LogAudioDerivedData: Display: sfx_Char_Echo_Foley_FS_Rock_Run_nl_11 compressed to 100.00% (from 45KB to 45KB) with PCM at Quality 100 with Quality Modifier 1.00
+[2025.08.30-18.24.42:488][577]LogAudio: Display: Chunk stats for (SoundWave /Game/AncientContent/Audio/SoundWaves/Echo/Foley/sfx_Char_Echo_Foley_FS_Rock_Run_nl_11.sfx_Char_Echo_Foley_FS_Rock_Run_nl_11: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=46 bytes, Chunk1=46392 bytes, ChunkN=0)
+[2025.08.30-18.24.42:489][577]LogAudio: Display: Chunk stats for (SoundWave /Game/AncientContent/Audio/SoundWaves/Echo/Foley/sfx_Char_Echo_Foley_Cloth_Run_nl_03.sfx_Char_Echo_Foley_Cloth_Run_nl_03: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=46 bytes, Chunk1=71296 bytes, ChunkN=0)
+[2025.08.30-18.24.42:490][577]LogAudio: Display: Chunk stats for (SoundWave /Game/AncientContent/Audio/SoundWaves/Echo/Foley/sfx_Char_Echo_Foley_Cloth_Run_nl_04.sfx_Char_Echo_Foley_Cloth_Run_nl_04: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=46 bytes, Chunk1=61224 bytes, ChunkN=0)
+[2025.08.30-18.24.42:491][577]LogAudio: Display: Chunk stats for (SoundWave /Game/AncientContent/Audio/SoundWaves/Echo/Foley/sfx_Char_Echo_Foley_Cloth_Run_nl_05.sfx_Char_Echo_Foley_Cloth_Run_nl_05: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=46 bytes, Chunk1=62024 bytes, ChunkN=0)
+[2025.08.30-18.24.42:492][577]LogAudioDerivedData: Display: Building compressed audio format PCM hash PCM_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave sfx_Char_Echo_Foley_FS_Rock_Run_nl_12...
+[2025.08.30-18.24.42:492][577]LogAudioDerivedData: Display: sfx_Char_Echo_Foley_FS_Rock_Run_nl_12 compressed to 100.00% (from 51KB to 51KB) with PCM at Quality 100 with Quality Modifier 1.00
+[2025.08.30-18.24.42:493][577]LogAudio: Display: Chunk stats for (SoundWave /Game/AncientContent/Audio/SoundWaves/Echo/Foley/sfx_Char_Echo_Foley_FS_Rock_Run_nl_12.sfx_Char_Echo_Foley_FS_Rock_Run_nl_12: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=46 bytes, Chunk1=52928 bytes, ChunkN=0)
+[2025.08.30-18.24.42:495][577]LogAudio: Display: Chunk stats for (SoundWave /Game/AncientContent/Audio/SoundWaves/Echo/Foley/sfx_Char_Echo_Foley_Cloth_Run_nl_06.sfx_Char_Echo_Foley_Cloth_Run_nl_06: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=46 bytes, Chunk1=74620 bytes, ChunkN=0)
+[2025.08.30-18.24.42:497][577]LogAudio: Display: Chunk stats for (SoundWave /Game/AncientContent/Audio/SoundWaves/Echo/Foley/sfx_Char_Echo_Foley_Cloth_Run_nl_07.sfx_Char_Echo_Foley_Cloth_Run_nl_07: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=46 bytes, Chunk1=63960 bytes, ChunkN=0)
+[2025.08.30-18.24.42:499][577]LogAudio: Display: Chunk stats for (SoundWave /Game/AncientContent/Audio/SoundWaves/Echo/Foley/sfx_Char_Echo_Foley_Cloth_Run_nl_08.sfx_Char_Echo_Foley_Cloth_Run_nl_08: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=46 bytes, Chunk1=60084 bytes, ChunkN=0)
+[2025.08.30-18.24.42:499][577]LogAudio: Display: Chunk stats for (SoundWave /Game/AncientContent/Audio/SoundWaves/Echo/Foley/sfx_Char_Echo_Foley_Cloth_Run_nl_09.sfx_Char_Echo_Foley_Cloth_Run_nl_09: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=46 bytes, Chunk1=69096 bytes, ChunkN=0)
+[2025.08.30-18.24.42:499][577]LogAudioDerivedData: Display: Building compressed audio format PCM hash PCM_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave sfx_Char_Echo_Foley_FS_Rock_Run_nl_13...
+[2025.08.30-18.24.42:499][577]LogAudioDerivedData: Display: sfx_Char_Echo_Foley_FS_Rock_Run_nl_13 compressed to 100.00% (from 50KB to 50KB) with PCM at Quality 100 with Quality Modifier 1.00
+[2025.08.30-18.24.42:500][577]LogAudio: Display: Chunk stats for (SoundWave /Game/AncientContent/Audio/SoundWaves/Echo/Foley/sfx_Char_Echo_Foley_Cloth_Run_nl_10.sfx_Char_Echo_Foley_Cloth_Run_nl_10: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=46 bytes, Chunk1=73652 bytes, ChunkN=0)
+[2025.08.30-18.24.42:500][577]LogAudio: Display: Chunk stats for (SoundWave /Game/AncientContent/Audio/SoundWaves/Echo/Foley/sfx_Char_Echo_Foley_FS_Rock_Run_nl_13.sfx_Char_Echo_Foley_FS_Rock_Run_nl_13: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=46 bytes, Chunk1=51588 bytes, ChunkN=0)
+[2025.08.30-18.24.42:502][577]LogAudio: Display: Chunk stats for (SoundWave /Game/AncientContent/Audio/SoundWaves/Echo/Foley/sfx_Char_Echo_Foley_Pouch_Heavy_nl_01.sfx_Char_Echo_Foley_Pouch_Heavy_nl_01: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=82 bytes, Chunk1=22528 bytes, ChunkN=0)
+[2025.08.30-18.24.42:503][577]LogAudio: Display: Chunk stats for (SoundWave /Game/AncientContent/Audio/SoundWaves/Echo/Foley/sfx_Char_Echo_Foley_Pouch_Heavy_nl_02.sfx_Char_Echo_Foley_Pouch_Heavy_nl_02: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=82 bytes, Chunk1=28672 bytes, ChunkN=0)
+[2025.08.30-18.24.42:503][577]LogAudio: Display: Chunk stats for (SoundWave /Game/AncientContent/Audio/SoundWaves/Echo/Foley/sfx_Char_Echo_Foley_Pouch_Heavy_nl_03.sfx_Char_Echo_Foley_Pouch_Heavy_nl_03: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=82 bytes, Chunk1=26624 bytes, ChunkN=0)
+[2025.08.30-18.24.42:503][577]LogAudio: Display: Chunk stats for (SoundWave /Game/AncientContent/Audio/SoundWaves/Echo/Foley/sfx_Char_Echo_Foley_Pouch_Heavy_nl_04.sfx_Char_Echo_Foley_Pouch_Heavy_nl_04: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=82 bytes, Chunk1=25600 bytes, ChunkN=0)
+[2025.08.30-18.24.42:505][577]LogAudio: Display: Chunk stats for (SoundWave /Game/AncientContent/Audio/SoundWaves/Echo/Foley/sfx_Char_Echo_Foley_Pouch_Heavy_nl_05.sfx_Char_Echo_Foley_Pouch_Heavy_nl_05: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=82 bytes, Chunk1=23552 bytes, ChunkN=0)
+[2025.08.30-18.24.42:505][577]LogAudioDerivedData: Display: Building compressed audio format PCM hash PCM_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave sfx_Char_Echo_Foley_FS_Rock_Run_nl_14...
+[2025.08.30-18.24.42:505][577]LogAudioDerivedData: Display: sfx_Char_Echo_Foley_FS_Rock_Run_nl_14 compressed to 100.00% (from 53KB to 53KB) with PCM at Quality 100 with Quality Modifier 1.00
+[2025.08.30-18.24.42:506][577]LogAudio: Display: Chunk stats for (SoundWave /Game/AncientContent/Audio/SoundWaves/Echo/Foley/sfx_Char_Echo_Foley_FS_Rock_Run_nl_14.sfx_Char_Echo_Foley_FS_Rock_Run_nl_14: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=46 bytes, Chunk1=54268 bytes, ChunkN=0)
+[2025.08.30-18.24.42:506][577]LogAudio: Display: Chunk stats for (SoundWave /Game/AncientContent/Audio/SoundWaves/Echo/Foley/sfx_Char_Echo_Foley_Pouch_Heavy_nl_06.sfx_Char_Echo_Foley_Pouch_Heavy_nl_06: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=82 bytes, Chunk1=26624 bytes, ChunkN=0)
+[2025.08.30-18.24.42:508][577]LogAudio: Display: Chunk stats for (SoundWave /Game/AncientContent/Audio/SoundWaves/Echo/Foley/sfx_Char_Echo_Foley_Pouch_Heavy_nl_08.sfx_Char_Echo_Foley_Pouch_Heavy_nl_08: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=82 bytes, Chunk1=29696 bytes, ChunkN=0)
+[2025.08.30-18.24.42:508][577]LogAudio: Display: Chunk stats for (SoundWave /Game/AncientContent/Audio/SoundWaves/Echo/Foley/sfx_Char_Echo_Foley_Pouch_Heavy_nl_07.sfx_Char_Echo_Foley_Pouch_Heavy_nl_07: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=82 bytes, Chunk1=24576 bytes, ChunkN=0)
+[2025.08.30-18.24.42:509][577]LogAudio: Display: Chunk stats for (SoundWave /Game/AncientContent/Audio/SoundWaves/Echo/Foley/sfx_Char_Echo_Foley_Pouch_Heavy_nl_09.sfx_Char_Echo_Foley_Pouch_Heavy_nl_09: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=82 bytes, Chunk1=31744 bytes, ChunkN=0)
+[2025.08.30-18.24.42:509][577]LogAudio: Display: Chunk stats for (SoundWave /Game/AncientContent/Audio/SoundWaves/Echo/Foley/sfx_Char_Echo_Foley_Pouch_Heavy_nl_10.sfx_Char_Echo_Foley_Pouch_Heavy_nl_10: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=82 bytes, Chunk1=28672 bytes, ChunkN=0)
+[2025.08.30-18.24.42:510][577]LogAudio: Display: Chunk stats for (SoundWave /Game/AncientContent/Audio/SoundWaves/Echo/Foley/sfx_Char_Echo_Foley_Pouch_Heavy_nl_11.sfx_Char_Echo_Foley_Pouch_Heavy_nl_11: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=82 bytes, Chunk1=27648 bytes, ChunkN=0)
+[2025.08.30-18.24.42:510][577]LogAudioDerivedData: Display: Building compressed audio format PCM hash PCM_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave sfx_Char_Echo_Foley_FS_Rock_Run_nl_15...
+[2025.08.30-18.24.42:510][577]LogAudioDerivedData: Display: sfx_Char_Echo_Foley_FS_Rock_Run_nl_15 compressed to 100.00% (from 52KB to 52KB) with PCM at Quality 100 with Quality Modifier 1.00
+[2025.08.30-18.24.42:511][577]LogAudio: Display: Chunk stats for (SoundWave /Game/AncientContent/Audio/SoundWaves/Echo/Foley/sfx_Char_Echo_Foley_FS_Rock_Run_nl_15.sfx_Char_Echo_Foley_FS_Rock_Run_nl_15: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=46 bytes, Chunk1=53300 bytes, ChunkN=0)
+[2025.08.30-18.24.42:513][577]LogAudioDerivedData: Display: Building compressed audio format PCM hash PCM_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave sfx_Char_Echo_Foley_FS_Rock_Run_nl_16...
+[2025.08.30-18.24.42:513][577]LogAudioDerivedData: Display: sfx_Char_Echo_Foley_FS_Rock_Run_nl_16 compressed to 100.00% (from 47KB to 47KB) with PCM at Quality 100 with Quality Modifier 1.00
+[2025.08.30-18.24.42:514][577]LogAudio: Display: Chunk stats for (SoundWave /Game/AncientContent/Audio/SoundWaves/Echo/Foley/sfx_Char_Echo_Foley_FS_Rock_Run_nl_16.sfx_Char_Echo_Foley_FS_Rock_Run_nl_16: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=46 bytes, Chunk1=48456 bytes, ChunkN=0)
+[2025.08.30-18.24.42:515][577]LogAudioDerivedData: Display: Building compressed audio format PCM hash PCM_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave sfx_Char_Echo_Foley_FS_Rock_Run_nl_17...
+[2025.08.30-18.24.42:515][577]LogAudioDerivedData: Display: sfx_Char_Echo_Foley_FS_Rock_Run_nl_17 compressed to 100.00% (from 52KB to 52KB) with PCM at Quality 100 with Quality Modifier 1.00
+[2025.08.30-18.24.42:516][577]LogAudio: Display: Chunk stats for (SoundWave /Game/AncientContent/Audio/SoundWaves/Echo/Foley/sfx_Char_Echo_Foley_FS_Rock_Run_nl_17.sfx_Char_Echo_Foley_FS_Rock_Run_nl_17: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=46 bytes, Chunk1=53408 bytes, ChunkN=0)
+[2025.08.30-18.24.42:518][577]LogAudioDerivedData: Display: Building compressed audio format PCM hash PCM_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave sfx_Char_Echo_Foley_FS_Rock_Run_nl_18...
+[2025.08.30-18.24.42:518][577]LogAudioDerivedData: Display: sfx_Char_Echo_Foley_FS_Rock_Run_nl_18 compressed to 100.00% (from 59KB to 59KB) with PCM at Quality 100 with Quality Modifier 1.00
+[2025.08.30-18.24.42:519][577]LogAudio: Display: Chunk stats for (SoundWave /Game/AncientContent/Audio/SoundWaves/Echo/Foley/sfx_Char_Echo_Foley_FS_Rock_Run_nl_18.sfx_Char_Echo_Foley_FS_Rock_Run_nl_18: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=46 bytes, Chunk1=60656 bytes, ChunkN=0)
+[2025.08.30-18.24.42:622][577]LogTexture: Display: Building textures: /Game/AncientContent/Effects/Footsteps/Niagara/NS_Echo_Footstep_Dust.NS_Echo_Footstep_Dust:Debris_0.Texture2D_1 (TFO_DXT1, 512x512 x1x1x1) (Required Memory Estimate: 30.83325 MB), EncodeSpeed: Fast
+[2025.08.30-18.24.42:622][577]LogTexture: Display: Building textures: /Game/AncientContent/Effects/Footsteps/Niagara/NS_Echo_Footstep_Dust.NS_Echo_Footstep_Dust:Dust_0.Texture2D_1 (TFO_DXT1, 512x512 x1x1x1) (Required Memory Estimate: 30.83325 MB), EncodeSpeed: Fast
+[2025.08.30-18.24.42:641][577]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/AncientContent/Characters/Echo/Animations/Jog_Fwd.Jog_Fwd (Required Memory Estimate: 16.88 MB)
+[2025.08.30-18.24.42:866][577]LogAnimationCompression: Display: Storing compressed animation data for /Game/AncientContent/Characters/Echo/Animations/Jog_Fwd.Jog_Fwd, at AnimationSequence/588e01f8dfadec9abcd3884db5838d46c9eb2faf
+[2025.08.30-18.24.42:963][577]LoadErrors: Warning: While trying to load package /Game/AncientContent/Audio/AudioModulation/Patches/SFX_Foley_Echo_Patch, a dependent package /AudioModulation/Volume was not available. Additional explanatory information follows:
+FPackageName: Unable to identify a valid mount point associated with skipped package /AudioModulation/Volume. The package root is unknown.
+Skipped package /AudioModulation/Volume was expected to be found in plugin Audio Modulation, however that plugin is not mounted. [ExplicitlyLoaded = FALSE, Enabled = FALSE].
+[2025.08.30-18.24.42:963][577]LoadErrors: Warning: While trying to load package /Game/AncientContent/Audio/AudioModulation/Patches/SFX_FS_Echo_Patch, a dependent package /AudioModulation/Volume was not available. Additional explanatory information follows:
+FPackageName: Unable to identify a valid mount point associated with skipped package /AudioModulation/Volume. The package root is unknown.
+Skipped package /AudioModulation/Volume was expected to be found in plugin Audio Modulation, however that plugin is not mounted. [ExplicitlyLoaded = FALSE, Enabled = FALSE].
+[2025.08.30-18.24.42:963][577]LoadErrors: Warning: While trying to load package /Game/AncientContent/Audio/AudioModulation/ControlBuses/Echo_ControlBus, a dependent package /AudioModulation/Volume was not available. Additional explanatory information follows:
+FPackageName: Unable to identify a valid mount point associated with skipped package /AudioModulation/Volume. The package root is unknown.
+Skipped package /AudioModulation/Volume was expected to be found in plugin Audio Modulation, however that plugin is not mounted. [ExplicitlyLoaded = FALSE, Enabled = FALSE].
+[2025.08.30-18.24.42:963][578]LoadErrors: Warning: While trying to load package /Game/AncientContent/Audio/AudioModulation/ControlBuses/Foley_ControlBus, a dependent package /AudioModulation/Volume was not available. Additional explanatory information follows:
+FPackageName: Unable to identify a valid mount point associated with skipped package /AudioModulation/Volume. The package root is unknown.
+Skipped package /AudioModulation/Volume was expected to be found in plugin Audio Modulation, however that plugin is not mounted. [ExplicitlyLoaded = FALSE, Enabled = FALSE].
+[2025.08.30-18.24.42:963][578]LoadErrors: Warning: While trying to load package /Game/AncientContent/Audio/AudioModulation/ControlBuses/SFX_ControlBus, a dependent package /AudioModulation/Volume was not available. Additional explanatory information follows:
+FPackageName: Unable to identify a valid mount point associated with skipped package /AudioModulation/Volume. The package root is unknown.
+Skipped package /AudioModulation/Volume was expected to be found in plugin Audio Modulation, however that plugin is not mounted. [ExplicitlyLoaded = FALSE, Enabled = FALSE].
+[2025.08.30-18.24.42:963][578]LoadErrors: Warning: While trying to load package /Game/AncientContent/Audio/AudioModulation/ControlBuses/FS_ControlBus, a dependent package /AudioModulation/Volume was not available. Additional explanatory information follows:
+FPackageName: Unable to identify a valid mount point associated with skipped package /AudioModulation/Volume. The package root is unknown.
+Skipped package /AudioModulation/Volume was expected to be found in plugin Audio Modulation, however that plugin is not mounted. [ExplicitlyLoaded = FALSE, Enabled = FALSE].
+[2025.08.30-18.24.52:089][686]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2025.08.30-18.24.53:151][686]LogSlate: Window 'Save Content' being destroyed
+[2025.08.30-18.24.53:183][686]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.30-18.24.53:253][686]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Characters/ABP_Echo] ([2] browsable assets)...
+[2025.08.30-18.24.53:280][686]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Blueprints/Characters/ABP_Echo.ABP_Echo]
+[2025.08.30-18.24.53:280][686]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/ABP_Echo]
+[2025.08.30-18.24.53:288][686]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/ABP_Echo
+[2025.08.30-18.24.53:289][686]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/ABP_EchoE4C79F564FD6D759AE31A2AF1793F788.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Characters/ABP_Echo.uasset'
+[2025.08.30-18.24.53:327][686]LogFileHelpers: InternalPromptForCheckoutAndSave took 143.238 ms (total: 475.189 ms)
+[2025.08.30-18.24.53:387][686]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.30-18.24.53:387][686]LogContentValidation: Enabled validators:
+[2025.08.30-18.24.53:387][686]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.30-18.24.53:387][686]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.30-18.24.53:388][686]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.30-18.24.53:388][686]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.30-18.24.53:388][686]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.30-18.24.53:388][686]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.30-18.24.53:388][686]AssetCheck: /Game/Blueprints/Characters/ABP_Echo Validating asset
+[2025.08.30-18.24.58:530][802]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2025.08.30-18.24.58:586][802]LogMetaSound: Display: Auto-Updating '/Game/AncientContent/Audio/MetaSounds/sfx_Char_Echo_Foley_Pouch_Heavy_nl_meta.sfx_Char_Echo_Foley_Pouch_Heavy_nl_meta' node class 'UE.Wave Player.Stereo (v1.0)': Interface change detected.
+[2025.08.30-18.24.58:586][802]LogMetaSound: Display: Auto-Updating '/Game/AncientContent/Audio/MetaSounds/sfx_Char_Echo_Foley_Pouch_Heavy_nl_meta.sfx_Char_Echo_Foley_Pouch_Heavy_nl_meta' node class 'UE.RandomFloat': Newer version 'v1.1' found.
+[2025.08.30-18.24.58:586][802]LogMetaSound: Display: Auto-Updating '/Game/AncientContent/Audio/MetaSounds/sfx_Char_Echo_Foley_Pouch_Heavy_nl_meta.sfx_Char_Echo_Foley_Pouch_Heavy_nl_meta' node class 'UE.RandomFloat': Newer version 'v1.1' found.
+[2025.08.30-18.24.58:586][802]LogMetaSound: Display: Auto-Updating '/Game/AncientContent/Audio/MetaSounds/sfx_Char_Echo_Foley_Pouch_Heavy_nl_meta.sfx_Char_Echo_Foley_Pouch_Heavy_nl_meta' node class 'UE.Multiply.Audio by Float': Newer version 'v1.1' found.
+[2025.08.30-18.24.58:609][802]LogMetaSound: Display: Auto-Updating '/Game/AncientContent/Audio/MetaSounds/sfx_Char_Echo_Foley_Cloth_Run_nl_meta.sfx_Char_Echo_Foley_Cloth_Run_nl_meta' node class 'UE.Wave Player.Stereo (v1.0)': Interface change detected.
+[2025.08.30-18.24.58:609][802]LogMetaSound: Display: Auto-Updating '/Game/AncientContent/Audio/MetaSounds/sfx_Char_Echo_Foley_Cloth_Run_nl_meta.sfx_Char_Echo_Foley_Cloth_Run_nl_meta' node class 'UE.RandomFloat': Newer version 'v1.1' found.
+[2025.08.30-18.24.58:609][802]LogMetaSound: Display: Auto-Updating '/Game/AncientContent/Audio/MetaSounds/sfx_Char_Echo_Foley_Cloth_Run_nl_meta.sfx_Char_Echo_Foley_Cloth_Run_nl_meta' node class 'UE.RandomFloat': Newer version 'v1.1' found.
+[2025.08.30-18.24.58:609][802]LogMetaSound: Display: Auto-Updating '/Game/AncientContent/Audio/MetaSounds/sfx_Char_Echo_Foley_Cloth_Run_nl_meta.sfx_Char_Echo_Foley_Cloth_Run_nl_meta' node class 'UE.Multiply.Audio by Float': Newer version 'v1.1' found.
+[2025.08.30-18.24.59:193][810]LogMetaSound: Display: Auto-Updating '/Game/AncientContent/Audio/MetaSounds/sfx_Char_Echo_Foley_FS_Rock_Run_nl_meta.sfx_Char_Echo_Foley_FS_Rock_Run_nl_meta' node class 'UE.Wave Player.Stereo (v1.0)': Interface change detected.
+[2025.08.30-18.24.59:193][810]LogMetaSound: Display: Auto-Updating '/Game/AncientContent/Audio/MetaSounds/sfx_Char_Echo_Foley_FS_Rock_Run_nl_meta.sfx_Char_Echo_Foley_FS_Rock_Run_nl_meta' node class 'UE.RandomFloat': Newer version 'v1.1' found.
+[2025.08.30-18.24.59:194][810]LogMetaSound: Display: Auto-Updating '/Game/AncientContent/Audio/MetaSounds/sfx_Char_Echo_Foley_FS_Rock_Run_nl_meta.sfx_Char_Echo_Foley_FS_Rock_Run_nl_meta' node class 'UE.RandomFloat': Newer version 'v1.1' found.
+[2025.08.30-18.24.59:194][810]LogMetaSound: Display: Auto-Updating '/Game/AncientContent/Audio/MetaSounds/sfx_Char_Echo_Foley_FS_Rock_Run_nl_meta.sfx_Char_Echo_Foley_FS_Rock_Run_nl_meta' node class 'UE.Multiply.Audio by Float': Newer version 'v1.1' found.
+[2025.08.30-18.25.02:307][867]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Characters/BP_SlashCharacter.BP_SlashCharacter
+[2025.08.30-18.25.02:307][867]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_10
+[2025.08.30-18.25.02:308][867]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_10'.
+[2025.08.30-18.25.09:033][959]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'DefaultForeground'.'
+[2025.08.30-18.25.09:068][959]LogEditorClassViewer: Warning: AssetRegistry Blueprint /Game/AncientContent/Blueprints/Abilities/GameplayAbilityUtils.GameplayAbilityUtils is missing tag value for GeneratedClass. Blueprint will not be available to ClassViewer when unloaded.
+[2025.08.30-18.25.09:098][959]LogEditorClassViewer: Warning: Class /Game/Clinic/Demo/FirstPersonBP/FirstPersonOverview.FirstPersonOverview_C has parent /Script/IntroTutorials.EditorTutorial, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.08.30-18.25.09:098][959]LogEditorClassViewer: Warning: Class /Game/AncientContent/Blueprints/Character/BP_VaultingTriggerComponent.BP_VaultingTriggerComponent_C has parent /Script/AncientGame.AncientGameBoxComponentBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.08.30-18.25.09:098][959]LogEditorClassViewer: Warning: Class /Game/AncientContent/Blueprints/Character/BP_EchoCharacter.BP_EchoCharacter_C has parent /Script/ModularGameplayActors.ModularCharacter, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.08.30-18.25.09:098][959]LogEditorClassViewer: Warning: Class /Game/AncientContent/Blueprints/Camera/BP_ThirdPersonCameraMode.BP_ThirdPersonCameraMode_C has parent /Script/AncientGame.SpringArmCameraMode, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.08.30-18.25.09:098][959]LogEditorClassViewer: Warning: Class /Game/AncientContent/Blueprints/Abilities/GA_Vault.GA_Vault_C has parent /Script/GameplayAbilities.GameplayAbility, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.08.30-18.25.09:098][959]LogEditorClassViewer: Warning: Class /Game/AncientContent/Blueprints/Abilities/GA_SitStand.GA_SitStand_C has parent /Script/GameplayAbilities.GameplayAbility, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.08.30-18.25.09:098][959]LogEditorClassViewer: Warning: Class /Game/AncientContent/Characters/Echo/Echo_AnimBP.Echo_AnimBP_C has parent /Script/AncientGame.AncientGameAnimInstance, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.08.30-18.25.25:977][403]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2025.08.30-18.25.26:682][415]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2025.08.30-18.25.27:731][415]LogSlate: Window 'Save Content' being destroyed
+[2025.08.30-18.25.27:769][415]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.30-18.25.27:874][415]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Characters/BP_SlashCharacter] ([2] browsable assets)...
+[2025.08.30-18.25.27:897][415]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Characters/BP_SlashCharacter.BP_SlashCharacter]
+[2025.08.30-18.25.27:897][415]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/BP_SlashCharacter]
+[2025.08.30-18.25.27:903][415]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/BP_SlashCharacter
+[2025.08.30-18.25.27:904][415]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/BP_SlashCharacterA510F15443055D2B41B5F7AC1CC6E8F9.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Characters/BP_SlashCharacter.uasset'
+[2025.08.30-18.25.27:936][415]LogFileHelpers: InternalPromptForCheckoutAndSave took 167.583 ms (total: 642.772 ms)
+[2025.08.30-18.25.27:991][415]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.30-18.25.27:991][415]LogContentValidation: Enabled validators:
+[2025.08.30-18.25.27:991][415]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.30-18.25.27:991][415]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.30-18.25.27:991][415]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.30-18.25.27:991][415]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.30-18.25.27:991][415]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.30-18.25.27:991][415]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.30-18.25.27:991][415]AssetCheck: /Game/Blueprints/Characters/BP_SlashCharacter Validating asset
+[2025.08.30-18.25.30:733][486]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2025.08.30-18.25.30:734][486]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.30-18.25.30:783][486]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Characters/BP_SlashCharacter.BP_SlashCharacter
+[2025.08.30-18.25.30:784][486]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_11
+[2025.08.30-18.25.30:785][486]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_11'.
+[2025.08.30-18.25.31:333][486]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2025.08.30-18.26.13:022][496]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2025.08.30-18.26.53:363][541]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2025.08.30-18.26.54:746][541]LogSlate: Window 'Save Content' being destroyed
+[2025.08.30-18.26.54:785][541]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.30-18.26.54:854][541]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Characters/ABP_Echo] ([2] browsable assets)...
+[2025.08.30-18.26.54:887][541]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Blueprints/Characters/ABP_Echo.ABP_Echo]
+[2025.08.30-18.26.54:887][541]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/ABP_Echo]
+[2025.08.30-18.26.54:896][541]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/ABP_Echo
+[2025.08.30-18.26.54:897][541]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/ABP_EchoF6BD5750416C24D3816AF0832CDCD696.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Characters/ABP_Echo.uasset'
+[2025.08.30-18.26.55:010][541]LogFileHelpers: InternalPromptForCheckoutAndSave took 224.920 ms (total: 867.692 ms)
+[2025.08.30-18.26.55:011][541]LogStreaming: Display: FlushAsyncLoading(546): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.30-18.26.56:026][541]LogChaosDD: Creating Chaos Debug Draw Scene for world Minimal_Default_2
+[2025.08.30-18.26.56:027][541]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/Maps/Minimal_Default_2.Minimal_Default_2'.
+[2025.08.30-18.26.56:059][541]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Minimal_Default_2.Minimal_Default_2
+[2025.08.30-18.26.56:060][541]Cmd: MAP LOAD FILE="../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Maps/Minimal_Default_2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.08.30-18.26.56:176][541]LogWorld: UWorld::CleanupWorld for SlashOpenWorld, bSessionEnded=true, bCleanupResources=true
+[2025.08.30-18.26.56:177][541]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.30-18.26.56:179][541]LogWorld: UWorld::CleanupWorld for Clinic, bSessionEnded=true, bCleanupResources=true
+[2025.08.30-18.26.56:179][541]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.30-18.26.56:215][541]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.08.30-18.26.56:382][541]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2025.08.30-18.26.56:399][541]LogWorld: UWorld::CleanupWorld for Minimal_Default_2, bSessionEnded=true, bCleanupResources=true
+[2025.08.30-18.26.56:400][541]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.30-18.26.56:434][541]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2025.08.30-18.26.56:481][541]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2025.08.30-18.26.56:491][541]LogAudio: Display: Audio Device (ID: 1) registered with world 'Minimal_Default_2'.
+[2025.08.30-18.26.56:491][541]LogChaosDD: Creating Chaos Debug Draw Scene for world Minimal_Default_2
+[2025.08.30-18.26.56:493][541]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/Maps/Minimal_Default_2.Minimal_Default_2'.
+[2025.08.30-18.26.56:683][541]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.08.30-18.26.56:715][541]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2025.08.30-18.26.56:732][541]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.08.30-18.26.56:732][541]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.125ms to complete.
+[2025.08.30-18.26.56:856][541]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.30-18.26.56:856][541]LogContentValidation: Enabled validators:
+[2025.08.30-18.26.56:856][541]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.30-18.26.56:856][541]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.30-18.26.56:856][541]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.30-18.26.56:856][541]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.30-18.26.56:856][541]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.30-18.26.56:856][541]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.30-18.26.56:857][541]AssetCheck: /Game/Blueprints/Characters/ABP_Echo Validating asset
+[2025.08.30-18.26.57:012][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.08.30-18.26.58:181][548]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.08.30-18.27.05:605][657]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_12
+[2025.08.30-18.27.05:605][657]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_12'.
+[2025.08.30-18.27.21:153][935]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2025.08.30-18.27.22:112][935]LogSlate: Window 'Save Content' being destroyed
+[2025.08.30-18.27.22:153][935]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.30-18.27.22:277][935]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.08.30-18.27.22:302][935]LogSavePackage: Moving output files for package: /Game/Maps/Minimal_Default_2
+[2025.08.30-18.27.22:303][935]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Minimal_Default_2D3CECA7C43853F0B147FC6B807E689FE.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Maps/Minimal_Default_2.umap'
+[2025.08.30-18.27.22:325][935]LogFileHelpers: Saving map 'Minimal_Default_2' took 0.115
+[2025.08.30-18.27.22:355][935]LogFileHelpers: InternalPromptForCheckoutAndSave took 201.951 ms (total: 1.06 sec)
+[2025.08.30-18.27.22:416][935]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.30-18.27.22:416][935]LogContentValidation: Enabled validators:
+[2025.08.30-18.27.22:416][935]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.30-18.27.22:416][935]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.30-18.27.22:416][935]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.30-18.27.22:416][935]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.30-18.27.22:416][935]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.30-18.27.22:416][935]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.30-18.27.22:416][935]AssetCheck: /Game/Maps/Minimal_Default_2 Validating asset
+[2025.08.30-18.27.24:027][963]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.08.30-18.27.24:108][963]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.30-18.27.24:136][963]LogOnline: OSS: Created online subsystem instance for: NULL
+[2025.08.30-18.27.24:136][963]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2025.08.30-18.27.24:143][963]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Minimal_Default_2
+[2025.08.30-18.27.24:149][963]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006438s)
+[2025.08.30-18.27.24:149][963]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Minimal_Default_2.Minimal_Default_2 to /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 (0.006543s)
+[2025.08.30-18.27.24:176][963]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2025.08.30-18.27.24:180][963]LogChaosDD: Creating Chaos Debug Draw Scene for world Minimal_Default_2
+[2025.08.30-18.27.24:184][963]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2'.
+[2025.08.30-18.27.24:186][963]LogPlayLevel: PIE: World Init took: (0.006220s)
+[2025.08.30-18.27.24:187][963]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2025.08.30-18.27.24:187][963]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.30-18.27.24:187][963]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.30-18.27.24:187][963]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.30-18.27.24:187][963]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.30-18.27.24:187][963]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.08.30-18.27.24:187][963]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.30-18.27.24:187][963]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.08.30-18.27.24:187][963]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.30-18.27.24:187][963]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.30-18.27.24:187][963]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.30-18.27.24:188][963]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.30-18.27.24:190][963]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.08.30-18.27.24:215][963]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.08.30-18.27.24:216][963]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.30-18.27.24:216][963]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.30-18.27.24:216][963]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.30-18.27.24:217][963]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2025.08.30-18.27.24:217][963]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2025.08.30-18.27.24:221][963]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2025.08.30-18.27.24:221][963]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2025.08.30-18.27.24:221][963]LogInit: FAudioDevice initialized with ID 2.
+[2025.08.30-18.27.24:221][963]LogAudio: Display: Audio Device (ID: 2) registered with world 'Minimal_Default_2'.
+[2025.08.30-18.27.24:221][963]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2025.08.30-18.27.24:233][963]LogLoad: Game class is 'BP_GameMode_C'
+[2025.08.30-18.27.24:239][963]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Echo'
+[2025.08.30-18.27.24:243][963]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 up for play (max tick rate 60) at 2025.08.30-20.27.24
+[2025.08.30-18.27.24:260][963]LogWorld: Bringing up level for play took: 0.025996
+[2025.08.30-18.27.24:267][963]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2025.08.30-18.27.24:325][963]PIE: Server logged in
+[2025.08.30-18.27.24:327][963]PIE: Play in editor total start time 0.236 seconds.
+[2025.08.30-18.27.35:946][ 96]LogShaderCompilers: Display: ================================================
+[2025.08.30-18.27.35:946][ 96]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.08.30-18.27.35:948][ 96]LogShaderCompilers: Display: Total job queries 731, among them cache hits 253 (34.61%), DDC hits 469 (64.16%), Duplicates 3 (0.41%)
+[2025.08.30-18.27.35:948][ 96]LogShaderCompilers: Display: Tracking 475 distinct input hashes that result in 327 distinct outputs (68.84%)
+[2025.08.30-18.27.35:948][ 96]LogShaderCompilers: Display: RAM used: 182.32 KiB of 819.20 MiB budget. Usage: 0.02%
+[2025.08.30-18.27.35:948][ 96]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.08.30-18.27.35:948][ 96]LogShaderCompilers: Display: Shaders Compiled: 6
+[2025.08.30-18.27.35:948][ 96]LogShaderCompilers: Display: Jobs assigned 6, completed 6 (100%)
+[2025.08.30-18.27.35:948][ 96]LogShaderCompilers: Display: Average time worker was idle: 13.08 s
+[2025.08.30-18.27.35:948][ 96]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.07 s
+[2025.08.30-18.27.35:948][ 96]LogShaderCompilers: Display: Job execution time: average 1.97 s, max 2.69 s
+[2025.08.30-18.27.35:948][ 96]LogShaderCompilers: Display: Job life time (pending + execution): average 2.02 s, max 2.76
+[2025.08.30-18.27.35:948][ 96]LogShaderCompilers: Display: Shader code size: average 12.422 KiB, min 9.355 KiB, max 17.406 KiB
+[2025.08.30-18.27.35:948][ 96]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 3.51 s
+[2025.08.30-18.27.35:948][ 96]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2025.08.30-18.27.35:948][ 96]LogShaderCompilers: Display: Jobs were issued in 6 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.08.30-18.27.35:948][ 96]LogShaderCompilers: Display: Average processing rate: 1.71 jobs/sec
+[2025.08.30-18.27.35:948][ 96]LogShaderCompilers: Display: Total thread time: 4.722 s
+[2025.08.30-18.27.35:948][ 96]LogShaderCompilers: Display: Total thread preprocess time: 15.268 s
+[2025.08.30-18.27.35:948][ 96]LogShaderCompilers: Display: Percentage time preprocessing: 323.34%
+[2025.08.30-18.27.35:948][ 96]LogShaderCompilers: Display: Effective parallelization: 1.35 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.08.30-18.27.35:948][ 96]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.08.30-18.27.35:948][ 96]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 0.96 sec, max 0.96 sec, min 0.95 sec)
+[2025.08.30-18.27.35:949][ 96]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 0.74 sec, max 0.74 sec, min 0.74 sec)
+[2025.08.30-18.27.35:949][ 96]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    2 times, average 0.67 sec, max 0.67 sec, min 0.66 sec)
+[2025.08.30-18.27.35:949][ 96]LogShaderCompilers: Display:                        FRayTracingDynamicGeometryConverterCS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.08.30-18.27.35:949][ 96]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.08.30-18.27.35:949][ 96]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.08.30-18.27.35:949][ 96]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 40.53% of total time (compiled    2 times, average 0.96 sec, max 0.96 sec, min 0.95 sec)
+[2025.08.30-18.27.35:949][ 96]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 31.23% of total time (compiled    2 times, average 0.74 sec, max 0.74 sec, min 0.74 sec)
+[2025.08.30-18.27.35:949][ 96]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 28.24% of total time (compiled    2 times, average 0.67 sec, max 0.67 sec, min 0.66 sec)
+[2025.08.30-18.27.35:949][ 96]LogShaderCompilers: Display:                                                 FLumenCardPS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.08.30-18.27.35:949][ 96]LogShaderCompilers: Display:            TShadowDepthPSPixelShadowDepth_PerspectiveCorrect - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.08.30-18.27.35:949][ 96]LogShaderCompilers: Display: === Material stats ===
+[2025.08.30-18.27.35:949][ 96]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.08.30-18.27.35:949][ 96]LogShaderCompilers: Display: Materials Translated:    232
+[2025.08.30-18.27.35:949][ 96]LogShaderCompilers: Display: Material Total Translate Time: 0.26 s
+[2025.08.30-18.27.35:949][ 96]LogShaderCompilers: Display: Material Translation Only: 0.12 s (45%)
+[2025.08.30-18.27.35:949][ 96]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.08.30-18.27.35:949][ 96]LogShaderCompilers: Display: Material Cache Hits: 50 (22%)
+[2025.08.30-18.27.35:949][ 96]LogShaderCompilers: Display: ================================================
+[2025.08.30-18.27.43:725][328]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.30-18.27.43:726][328]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Minimal_Default_2
+[2025.08.30-18.27.43:729][328]LogWorld: UWorld::CleanupWorld for Minimal_Default_2, bSessionEnded=true, bCleanupResources=true
+[2025.08.30-18.27.43:732][328]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.30-18.27.43:741][328]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.08.30-18.27.43:750][328]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.30-18.27.43:775][328]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.30-18.27.43:775][328]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2025.08.30-18.27.43:778][328]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.08.30-18.27.43:781][328]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.08.30-18.27.43:808][328]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2025.08.30-18.27.44:523][331]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2025.08.30-18.29.39:288][760]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 677.003845
+[2025.08.30-18.29.39:556][768]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.30-18.29.39:556][769]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 677.237366, Update Interval: 334.911957
+[2025.08.30-18.35.21:652][  8]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1019.369202
+[2025.08.30-18.35.21:886][ 15]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.30-18.35.21:886][ 16]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1019.569824, Update Interval: 334.695892
+[2025.08.30-18.41.07:419][330]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1365.136475
+[2025.08.30-18.41.07:654][337]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.30-18.41.07:654][338]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1365.337524, Update Interval: 359.044159
+[2025.08.30-18.41.27:732][920]LogBlueprint: Warning: FMemberReference::ResolveMember (GetActorInfo) bSelfContext == true, but no scope supplied!
+[2025.08.30-18.41.27:732][920]LogBlueprint: Warning: FMemberReference::ResolveMember (GetActorInfo) bSelfContext == true, but no scope supplied!
+[2025.08.30-18.41.32:548][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2025.08.30-18.42.01:899][928]LogEditorTransaction: Undo Add Variable
+[2025.08.30-18.42.01:914][928]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.08.30-18.42.05:467][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2025.08.30-18.42.05:468][ 22]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Minimal_Default_2' took 0.026
+[2025.08.30-18.42.05:471][ 22]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Characters/ABP_Echo] ([2] browsable assets)...
+[2025.08.30-18.42.05:500][ 22]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Blueprints/Characters/ABP_Echo.ABP_Echo]
+[2025.08.30-18.42.05:500][ 22]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/ABP_Echo]
+[2025.08.30-18.42.05:508][ 22]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Characters/ABP_Echo_Auto1
+[2025.08.30-18.42.05:508][ 22]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/ABP_Echo_Auto1A63E272547E08363ED16A1A7127B8603.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Autosaves/Game/Blueprints/Characters/ABP_Echo_Auto1.uasset'
+[2025.08.30-18.42.05:509][ 22]LogFileHelpers: Auto-saving content packages took 0.040
+[2025.08.30-18.42.05:733][ 25]LogSlate: Took 0.011094 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2025.08.30-18.42.21:872][489]LogClass: Warning: Type mismatch in Character of ABP_Echo_C - Previous (BoolProperty) Current(ObjectProperty) in package: FObjectReader
+[2025.08.30-18.42.21:990][489]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2025.08.30-18.45.30:203][651]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2025.08.30-18.45.31:992][682]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2025.08.30-18.45.32:827][682]LogSlate: Window 'Save Content' being destroyed
+[2025.08.30-18.45.32:836][682]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.30-18.45.32:872][682]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Characters/ABP_Echo] ([2] browsable assets)...
+[2025.08.30-18.45.32:932][682]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Blueprints/Characters/ABP_Echo.ABP_Echo]
+[2025.08.30-18.45.32:932][682]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/ABP_Echo]
+[2025.08.30-18.45.32:941][682]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/ABP_Echo
+[2025.08.30-18.45.32:942][682]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/ABP_EchoEF9EABCE451AB77B7A44BFA33C49F9B4.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Characters/ABP_Echo.uasset'
+[2025.08.30-18.45.32:952][682]LogFileHelpers: InternalPromptForCheckoutAndSave took 115.883 ms (total: 1.18 sec)
+[2025.08.30-18.45.32:985][682]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.30-18.45.32:986][682]LogContentValidation: Enabled validators:
+[2025.08.30-18.45.32:986][682]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.30-18.45.32:986][682]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.30-18.45.32:986][682]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.30-18.45.32:986][682]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.30-18.45.32:986][682]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.30-18.45.32:986][682]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.30-18.45.32:986][682]AssetCheck: /Game/Blueprints/Characters/ABP_Echo Validating asset
+[2025.08.30-18.47.36:308][365]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1754.027100
+[2025.08.30-18.47.36:541][372]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.30-18.47.36:541][372]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1754.227661, Update Interval: 321.574158
+[2025.08.30-18.53.38:868][240]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2116.591553
+[2025.08.30-18.53.39:169][249]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.30-18.53.39:170][249]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2116.858154, Update Interval: 326.944794
+[2025.08.30-18.59.46:761][267]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2484.480225
+[2025.08.30-18.59.47:028][275]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.30-18.59.47:028][275]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2484.713135, Update Interval: 348.377930
+[2025.08.30-19.06.17:656][937]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2875.382812
+[2025.08.30-19.06.17:921][945]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.30-19.06.17:921][945]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2875.613770, Update Interval: 334.455994
+[2025.08.30-19.12.28:881][ 71]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3246.616211
+[2025.08.30-19.12.29:116][ 78]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.30-19.12.29:116][ 78]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3246.816650, Update Interval: 328.477417
+[2025.08.30-19.18.41:925][260]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3619.659424
+[2025.08.30-19.18.42:158][267]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.30-19.18.42:158][268]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3619.858398, Update Interval: 348.440186
+[2025.08.30-19.19.54:438][968]LogDerivedDataCache: C:/Users/Usuario/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.08.30-19.20.32:662][853]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2025.08.30-19.20.35:352][898]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.08.30-19.20.42:581][988]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2025.08.30-19.20.43:585][988]LogSlate: Window 'Save Content' being destroyed
+[2025.08.30-19.20.43:624][988]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.30-19.20.43:682][988]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Characters/ABP_Echo] ([2] browsable assets)...
+[2025.08.30-19.20.43:729][988]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Blueprints/Characters/ABP_Echo.ABP_Echo]
+[2025.08.30-19.20.43:729][988]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/ABP_Echo]
+[2025.08.30-19.20.43:741][988]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/ABP_Echo
+[2025.08.30-19.20.43:742][988]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/ABP_EchoC804D89E45EAA660781B8BA1CCF6E554.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Characters/ABP_Echo.uasset'
+[2025.08.30-19.20.43:777][988]LogFileHelpers: InternalPromptForCheckoutAndSave took 153.431 ms (total: 1.33 sec)
+[2025.08.30-19.20.43:838][988]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.30-19.20.43:838][988]LogContentValidation: Enabled validators:
+[2025.08.30-19.20.43:838][988]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.30-19.20.43:838][988]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.30-19.20.43:838][988]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.30-19.20.43:838][988]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.30-19.20.43:838][988]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.30-19.20.43:838][988]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.30-19.20.43:838][988]AssetCheck: /Game/Blueprints/Characters/ABP_Echo Validating asset
+[2025.08.30-19.22.20:093][750]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2025.08.30-19.22.20:126][750]LogScript: Warning: Accessed None trying to read property Movement Component
+	ABP_Echo_C /Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Echo_C_0
+	Function /Game/Blueprints/Characters/ABP_Echo.ABP_Echo_C:ExecuteUbergraph_ABP_Echo:002F
+[2025.08.30-19.22.20:198][751]LogScript: Warning: Accessed None trying to read property Movement Component
+	ABP_Echo_C /Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Echo_C_0
+	Function /Game/Blueprints/Characters/ABP_Echo.ABP_Echo_C:ExecuteUbergraph_ABP_Echo:002F
+[2025.08.30-19.22.20:232][752]LogScript: Warning: Accessed None trying to read property Movement Component
+	ABP_Echo_C /Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Echo_C_0
+	Function /Game/Blueprints/Characters/ABP_Echo.ABP_Echo_C:ExecuteUbergraph_ABP_Echo:002F
+[2025.08.30-19.22.20:265][753]LogScript: Warning: Accessed None trying to read property Movement Component
+	ABP_Echo_C /Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Echo_C_0
+	Function /Game/Blueprints/Characters/ABP_Echo.ABP_Echo_C:ExecuteUbergraph_ABP_Echo:002F
+[2025.08.30-19.22.20:299][754]LogScript: Warning: Accessed None trying to read property Movement Component
+	ABP_Echo_C /Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Echo_C_0
+	Function /Game/Blueprints/Characters/ABP_Echo.ABP_Echo_C:ExecuteUbergraph_ABP_Echo:002F
+[2025.08.30-19.22.20:332][755]LogScript: Warning: Accessed None trying to read property Movement Component
+	ABP_Echo_C /Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Echo_C_0
+	Function /Game/Blueprints/Characters/ABP_Echo.ABP_Echo_C:ExecuteUbergraph_ABP_Echo:002F
+[2025.08.30-19.22.20:375][756]LogScript: Warning: Accessed None trying to read property Movement Component
+	ABP_Echo_C /Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Echo_C_0
+	Function /Game/Blueprints/Characters/ABP_Echo.ABP_Echo_C:ExecuteUbergraph_ABP_Echo:002F
+[2025.08.30-19.22.20:421][757]LogScript: Warning: Accessed None trying to read property Movement Component
+	ABP_Echo_C /Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Echo_C_0
+	Function /Game/Blueprints/Characters/ABP_Echo.ABP_Echo_C:ExecuteUbergraph_ABP_Echo:002F
+[2025.08.30-19.22.20:468][758]LogScript: Warning: Accessed None trying to read property Movement Component
+	ABP_Echo_C /Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Echo_C_0
+	Function /Game/Blueprints/Characters/ABP_Echo.ABP_Echo_C:ExecuteUbergraph_ABP_Echo:002F
+[2025.08.30-19.22.20:511][759]LogScript: Warning: Accessed None trying to read property Movement Component
+	ABP_Echo_C /Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Echo_C_0
+	Function /Game/Blueprints/Characters/ABP_Echo.ABP_Echo_C:ExecuteUbergraph_ABP_Echo:002F
+[2025.08.30-19.22.20:555][760]LogScript: Warning: Accessed None trying to read property Movement Component
+	ABP_Echo_C /Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Echo_C_0
+	Function /Game/Blueprints/Characters/ABP_Echo.ABP_Echo_C:ExecuteUbergraph_ABP_Echo:002F
+[2025.08.30-19.22.20:602][761]LogScript: Warning: Accessed None trying to read property Movement Component
+	ABP_Echo_C /Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Echo_C_0
+	Function /Game/Blueprints/Characters/ABP_Echo.ABP_Echo_C:ExecuteUbergraph_ABP_Echo:002F
+[2025.08.30-19.22.20:650][762]LogScript: Warning: Accessed None trying to read property Movement Component
+	ABP_Echo_C /Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Echo_C_0
+	Function /Game/Blueprints/Characters/ABP_Echo.ABP_Echo_C:ExecuteUbergraph_ABP_Echo:002F
+[2025.08.30-19.22.20:695][763]LogScript: Warning: Accessed None trying to read property Movement Component
+	ABP_Echo_C /Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Echo_C_0
+	Function /Game/Blueprints/Characters/ABP_Echo.ABP_Echo_C:ExecuteUbergraph_ABP_Echo:002F
+[2025.08.30-19.22.20:867][764]LogScript: Warning: Accessed None trying to read property Movement Component
+	ABP_Echo_C /Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Echo_C_0
+	Function /Game/Blueprints/Characters/ABP_Echo.ABP_Echo_C:ExecuteUbergraph_ABP_Echo:002F
+[2025.08.30-19.22.20:912][765]LogScript: Warning: Accessed None trying to read property Movement Component
+	ABP_Echo_C /Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Echo_C_0
+	Function /Game/Blueprints/Characters/ABP_Echo.ABP_Echo_C:ExecuteUbergraph_ABP_Echo:002F
+[2025.08.30-19.23.33:289][419]LogBlueprint: Warning: [AssetLog] C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Content\Blueprints\Characters\ABP_Echo.uasset: [Compiler] Entry node  Ground Locomotion  is not connected to state
+[2025.08.30-19.23.33:289][419]LogBlueprint: Warning: [AssetLog] C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Content\Blueprints\Characters\ABP_Echo.uasset: [Compiler] There was no entry state connection in  Ground Locomotion
+[2025.08.30-19.23.33:380][419]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2025.08.30-19.25.09:430][307]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4007.165283
+[2025.08.30-19.25.09:705][314]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.30-19.25.09:705][314]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4007.399414, Update Interval: 344.574738
+[2025.08.30-19.25.32:826][817]LogStreaming: Display: FlushAsyncLoading(552): 1 QueuedPackages, 0 AsyncPackages
+[2025.08.30-19.25.32:909][817]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/AncientContent/Characters/Echo/Animations/Idle_Long.Idle_Long (Required Memory Estimate: 242.72 MB)
+[2025.08.30-19.25.35:008][854]LogAnimationCompression: Display: Storing compressed animation data for /Game/AncientContent/Characters/Echo/Animations/Idle_Long.Idle_Long, at AnimationSequence/52cfcc1e42ba9409179f3f1dfe064829de248f78
+[2025.08.30-19.25.36:364][884]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/AncientContent/Characters/Echo/Animations/Idle.Idle
+[2025.08.30-19.25.36:371][884]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_13
+[2025.08.30-19.25.36:371][884]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_13'.
+[2025.08.30-19.25.36:412][884]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'DebugSkelMeshComponent_0' with 'Echo'
+[2025.08.30-19.25.36:412][884]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.08.30-19.25.36:782][884]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_14
+[2025.08.30-19.25.36:783][884]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_14'.
+[2025.08.30-19.25.37:262][884]LogUObjectGlobals: Warning: Failed to find object 'Class /Script/ApexDestruction.DestructibleMesh'
+[2025.08.30-19.25.37:271][884]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_15
+[2025.08.30-19.25.37:271][884]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_15'.
+[2025.08.30-19.25.37:507][885]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_16
+[2025.08.30-19.25.37:507][885]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_16'.
+[2025.08.30-19.25.40:488][916]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2025.08.30-19.25.40:488][916]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.30-19.25.40:502][916]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2025.08.30-19.25.40:502][916]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.30-19.25.40:597][916]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2025.08.30-19.25.40:597][916]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.30-19.25.40:670][916]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2025.08.30-19.25.55:916][245]LogBlueprint: Warning: [AssetLog] C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Content\Blueprints\Characters\ABP_Echo.uasset: [Compiler] Idle to Run  will never be taken, please connect something to  Can Enter Transition
+[2025.08.30-19.25.55:916][245]LogBlueprint: Warning: [AssetLog] C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Content\Blueprints\Characters\ABP_Echo.uasset: [Compiler] Run to Idle  will never be taken, please connect something to  Can Enter Transition
+[2025.08.30-19.25.55:984][245]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.08.30-19.25.57:248][280]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2025.08.30-19.25.58:405][280]LogSlate: Window 'Save Content' being destroyed
+[2025.08.30-19.25.58:415][280]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.08.30-19.25.58:451][280]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Characters/ABP_Echo] ([2] browsable assets)...
+[2025.08.30-19.25.58:456][280]LogScript: Warning: Accessed None trying to read property Movement Component
+	ABP_Echo_C /Engine/Transient.World_5:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Echo_C_32
+	Function /Game/Blueprints/Characters/ABP_Echo.ABP_Echo_C:ExecuteUbergraph_ABP_Echo:002F
+[2025.08.30-19.25.58:511][280]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Blueprints/Characters/ABP_Echo.ABP_Echo]
+[2025.08.30-19.25.58:511][280]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/ABP_Echo]
+[2025.08.30-19.25.58:525][280]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/ABP_Echo
+[2025.08.30-19.25.58:526][280]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/ABP_Echo0B285DD64D4026712D81589FC952BF6B.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Characters/ABP_Echo.uasset'
+[2025.08.30-19.25.58:538][280]LogFileHelpers: InternalPromptForCheckoutAndSave took 121.768 ms (total: 1.46 sec)
+[2025.08.30-19.25.58:575][280]LogContentValidation: Display: Starting to validate 1 assets
+[2025.08.30-19.25.58:575][280]LogContentValidation: Enabled validators:
+[2025.08.30-19.25.58:575][280]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.08.30-19.25.58:575][280]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.08.30-19.25.58:575][280]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.08.30-19.25.58:575][280]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.08.30-19.25.58:575][280]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.08.30-19.25.58:575][280]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.08.30-19.25.58:576][280]AssetCheck: /Game/Blueprints/Characters/ABP_Echo Validating asset
