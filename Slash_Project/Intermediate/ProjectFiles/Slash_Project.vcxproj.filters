@@ -53,6 +53,9 @@
     <Filter Include="Source\Slash_Project\Private\Characters">
       <UniqueIdentifier>{2AA13B30-CD77-39A6-BDC8-7113DBBD7816}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\Slash_Project\Private\Characters\SlashAnimInstance.cpp">
+      <Filter>Source\Slash_Project\Private\Characters</Filter>
+    </ClCompile>
     <ClCompile Include="..\..\Source\Slash_Project\Private\Characters\SlashCharacter.cpp">
       <Filter>Source\Slash_Project\Private\Characters</Filter>
     </ClCompile>
@@ -74,6 +77,9 @@
     <Filter Include="Source\Slash_Project\Public\Characters">
       <UniqueIdentifier>{75883F9D-6375-3F94-AA9E-0662BB63D24A}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\Slash_Project\Public\Characters\SlashAnimInstance.h">
+      <Filter>Source\Slash_Project\Public\Characters</Filter>
+    </ClCompile>
     <ClCompile Include="..\..\Source\Slash_Project\Public\Characters\SlashCharacter.h">
       <Filter>Source\Slash_Project\Public\Characters</Filter>
     </ClCompile>
