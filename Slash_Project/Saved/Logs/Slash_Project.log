@@ -1553,3 +1553,676 @@ Skipped package /AudioModulation/Volume was expected to be found in plugin Audio
 [2025.09.01-13.05.27:661][148]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.09.01-13.05.27:661][148]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.09.01-13.05.27:661][148]AssetCheck: /Game/Blueprints/Characters/ABP_Echo Validating asset
+[2025.09.01-13.09.00:590][532]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 649.638306
+[2025.09.01-13.09.00:824][539]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.01-13.09.00:824][539]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 649.838318, Update Interval: 307.209076
+[2025.09.01-13.10.31:127][204]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.09.01-13.10.31:127][204]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.09.01-13.10.31:420][204]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.09.01-13.10.31:420][204]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.09.01-13.10.57:624][932]LogSlate: External Image Picker: DecompressImage failed
+[2025.09.01-13.10.58:291][943]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2025.09.01-13.10.58:292][943]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_5'.
+[2025.09.01-13.11.02:351][ 45]LogStreaming: Display: FlushAsyncLoading(511): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.01-13.11.05:142][126]LogSlate: Took 0.002117 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.09.01-13.11.09:342][246]LogStreaming: Display: FlushAsyncLoading(512): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.01-13.11.09:554][246]LogChaosDD: Creating Chaos Debug Draw Scene for world Minimal_Default_2
+[2025.09.01-13.11.09:555][246]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/Maps/Minimal_Default_2.Minimal_Default_2'.
+[2025.09.01-13.11.18:362][501]LogSlate: Window 'Project Settings' being destroyed
+[2025.09.01-13.11.18:368][501]LogSlate: Window 'Project Settings' being destroyed
+[2025.09.01-13.11.24:789][669]LogSlate: External Image Picker: DecompressImage failed
+[2025.09.01-13.11.28:701][760]LogSlate: Window 'Project Settings' being destroyed
+[2025.09.01-13.11.28:711][760]LogSlate: Window 'Project Settings' being destroyed
+[2025.09.01-13.11.35:588][955]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2025.09.01-13.11.35:593][955]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Minimal_Default_2.Minimal_Default_2
+[2025.09.01-13.11.35:593][955]Cmd: MAP LOAD FILE="../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Maps/Minimal_Default_2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.09.01-13.11.35:746][955]LogWorld: UWorld::CleanupWorld for SlashOpenWorld, bSessionEnded=true, bCleanupResources=true
+[2025.09.01-13.11.35:748][955]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.01-13.11.35:749][955]LogWorld: UWorld::CleanupWorld for Clinic, bSessionEnded=true, bCleanupResources=true
+[2025.09.01-13.11.35:749][955]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.01-13.11.35:777][955]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.09.01-13.11.35:940][955]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2025.09.01-13.11.35:950][955]LogWorld: UWorld::CleanupWorld for Minimal_Default_2, bSessionEnded=true, bCleanupResources=true
+[2025.09.01-13.11.35:952][955]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.01-13.11.35:978][955]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2025.09.01-13.11.36:053][955]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2025.09.01-13.11.36:054][955]LogStreaming: Display: FlushAsyncLoading(517): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.01-13.11.36:060][955]LogAudio: Display: Audio Device (ID: 1) registered with world 'Minimal_Default_2'.
+[2025.09.01-13.11.36:060][955]LogChaosDD: Creating Chaos Debug Draw Scene for world Minimal_Default_2
+[2025.09.01-13.11.36:062][955]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/Maps/Minimal_Default_2.Minimal_Default_2'.
+[2025.09.01-13.11.36:155][955]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.09.01-13.11.36:179][955]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2025.09.01-13.11.36:195][955]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.09.01-13.11.36:195][955]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.092ms to complete.
+[2025.09.01-13.11.36:265][955]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.09.01-13.12.18:012][192]LogHttp: Warning: 00000B2BFEB50E00: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2025.09.01-13.12.18:012][192]LogHttp: Warning: 00000B2BFEB50E00: libcurl info message cache 0 (Found bundle for host: 0xb2b068402a0 [serially])
+[2025.09.01-13.12.18:012][192]LogHttp: Warning: 00000B2BFEB50E00: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2025.09.01-13.12.18:012][192]LogHttp: Warning: 00000B2BFEB50E00: libcurl info message cache 2 (We are completely uploaded and fine)
+[2025.09.01-13.12.18:012][192]LogHttp: Warning: 00000B2BFEB50E00: libcurl info message cache 3 (Recv failure: Connection was reset)
+[2025.09.01-13.12.18:012][192]LogHttp: Warning: 00000B2BFEB50E00: libcurl info message cache 4 (OpenSSL SSL_read: Connection was reset, errno 10054)
+[2025.09.01-13.12.18:012][192]LogHttp: Warning: 00000B2BFEB50E00: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2025.09.01-13.12.18:012][192]LogHttp: Warning: 00000B2BFEB50E00: libcurl info message cache 6 (state.rewindbeforesend = TRUE)
+[2025.09.01-13.12.18:012][192]LogHttp: Warning: 00000B2BFEB50E00: libcurl info message cache 7 (Closing connection)
+[2025.09.01-13.12.18:012][192]LogHttp: Warning: 00000B2BFEB50E00: libcurl info message cache 8 (Recv failure: Connection was reset)
+[2025.09.01-13.12.18:012][192]LogHttp: Warning: 00000B2BFEB50E00: libcurl info message cache 9 (Send failure: Connection was reset)
+[2025.09.01-13.12.18:012][192]LogHttp: Warning: 00000B2BFEB50E00: libcurl info message cache 10 (Recv failure: Connection was reset)
+[2025.09.01-13.12.18:012][192]LogHttp: Warning: 00000B2BFEB50E00: libcurl info message cache 11 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2FA40863-4A3A-5E6D-0992-8ABA14269390%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.3-39772772%2B%2B%2BUE5%2BRelease-5.5&UserID=9ffb585a415f8b5ea3099583a3a7266d%7C8558b0f0649c41fd8c81a81c61794009%7C7a8c91b2-78e4-4ba2-9615-51435d5b763c&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2025.09.01-13.12.18:012][192]LogHttp: Warning: 00000B2BFEB50E00: libcurl info message cache 12 (  Trying 52.2.149.26:443...)
+[2025.09.01-13.12.18:012][192]LogHttp: Warning: 00000B2BFEB50E00: libcurl info message cache 13 (Connected to datarouter.ol.epicgames.com (52.2.149.26) port 443)
+[2025.09.01-13.12.18:012][192]LogHttp: Warning: 00000B2BFEB50E00: libcurl info message cache 14 (ALPN: curl offers http/1.1)
+[2025.09.01-13.12.18:012][192]LogHttp: Warning: 00000B2BFEB50E00: libcurl info message cache 15 (SSL reusing session ID)
+[2025.09.01-13.12.18:012][192]LogHttp: Warning: 00000B2BFEB50E00: libcurl info message cache 16 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2025.09.01-13.12.18:012][192]LogHttp: Warning: 00000B2BFEB50E00: libcurl info message cache 17 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2025.09.01-13.12.18:012][192]LogHttp: Warning: 00000B2BFEB50E00: libcurl info message cache 18 (TLSv1.3 (IN), TLS handshake, Encrypted Extensions (8):)
+[2025.09.01-13.12.18:012][192]LogHttp: Warning: 00000B2BFEB50E00: libcurl info message cache 19 (TLSv1.3 (IN), TLS handshake, Certificate (11):)
+[2025.09.01-13.12.18:012][192]LogHttp: Warning: 00000B2BFEB50E00: libcurl info message cache 20 (TLSv1.3 (IN), TLS handshake, CERT verify (15):)
+[2025.09.01-13.12.18:012][192]LogHttp: Warning: 00000B2BFEB50E00: libcurl info message cache 21 (TLSv1.3 (IN), TLS handshake, Finished (20):)
+[2025.09.01-13.12.18:012][192]LogHttp: Warning: 00000B2BFEB50E00: libcurl info message cache 22 (TLSv1.3 (OUT), TLS change cipher, Change cipher spec (1):)
+[2025.09.01-13.12.18:012][192]LogHttp: Warning: 00000B2BFEB50E00: libcurl info message cache 23 (TLSv1.3 (OUT), TLS handshake, Finished (20):)
+[2025.09.01-13.12.18:012][192]LogHttp: Warning: 00000B2BFEB50E00: libcurl info message cache 24 (SSL connection using TLSv1.3 / TLS_AES_128_GCM_SHA256)
+[2025.09.01-13.12.18:012][192]LogHttp: Warning: 00000B2BFEB50E00: libcurl info message cache 25 (ALPN: server accepted http/1.1)
+[2025.09.01-13.12.18:012][192]LogHttp: Warning: 00000B2BFEB50E00: libcurl info message cache 26 (Server certificate:)
+[2025.09.01-13.12.18:012][192]LogHttp: Warning: 00000B2BFEB50E00: libcurl info message cache 27 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2025.09.01-13.12.18:012][192]LogHttp: Warning: 00000B2BFEB50E00: libcurl info message cache 28 ( start date: Feb  2 00:00:00 2025 GMT)
+[2025.09.01-13.12.18:012][192]LogHttp: Warning: 00000B2BFEB50E00: libcurl info message cache 29 ( expire date: Mar  3 23:59:59 2026 GMT)
+[2025.09.01-13.12.18:012][192]LogHttp: Warning: 00000B2BFEB50E00: libcurl info message cache 30 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2025.09.01-13.12.18:012][192]LogHttp: Warning: 00000B2BFEB50E00: libcurl info message cache 31 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M03)
+[2025.09.01-13.12.18:012][192]LogHttp: Warning: 00000B2BFEB50E00: libcurl info message cache 32 ( SSL certificate verify ok.)
+[2025.09.01-13.12.18:012][192]LogHttp: Warning: 00000B2BFEB50E00: libcurl info message cache 33 (using HTTP/1.1)
+[2025.09.01-13.12.18:012][192]LogHttp: Warning: 00000B2BFEB50E00: libcurl info message cache 34 (necessary data rewind wasn't possible)
+[2025.09.01-13.12.18:012][192]LogHttp: Warning: 00000B2BFEB50E00: libcurl info message cache 35 (Closing connection)
+[2025.09.01-13.12.18:012][192]LogHttp: Warning: 00000B2BFEB50E00: libcurl info message cache 36 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.09.01-13.12.21:491][288]Cmd: EDIT COPY
+[2025.09.01-13.12.21:959][302]Cmd: EDIT PASTE
+[2025.09.01-13.13.04:522][538]Cmd: EDIT COPY
+[2025.09.01-13.13.05:022][553]Cmd: EDIT PASTE
+[2025.09.01-13.13.08:966][670]Cmd: EDIT COPY
+[2025.09.01-13.13.09:505][686]Cmd: EDIT PASTE
+[2025.09.01-13.13.16:148][879]Cmd: EDIT COPY
+[2025.09.01-13.13.16:648][894]Cmd: EDIT PASTE
+[2025.09.01-13.13.34:284][419]Cmd: EDIT COPY
+[2025.09.01-13.13.34:784][434]Cmd: EDIT PASTE
+[2025.09.01-13.13.45:051][740]Cmd: EDIT COPY
+[2025.09.01-13.13.45:451][752]Cmd: EDIT PASTE
+[2025.09.01-13.14.01:836][231]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2025.09.01-13.14.02:676][231]LogSlate: Window 'Save Content' being destroyed
+[2025.09.01-13.14.02:685][231]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.01-13.14.02:773][231]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2025.09.01-13.14.02:816][231]LogSavePackage: Moving output files for package: /Game/Maps/Minimal_Default_2
+[2025.09.01-13.14.02:817][231]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Minimal_Default_2DE3E140443B422EABA4F268E1FCAB1A7.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Maps/Minimal_Default_2.umap'
+[2025.09.01-13.14.02:837][231]LogFileHelpers: Saving map 'Minimal_Default_2' took 0.120
+[2025.09.01-13.14.02:845][231]LogFileHelpers: InternalPromptForCheckoutAndSave took 159.364 ms (total: 754.550 ms)
+[2025.09.01-13.14.02:881][231]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.01-13.14.02:881][231]LogContentValidation: Enabled validators:
+[2025.09.01-13.14.02:881][231]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.01-13.14.02:881][231]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.01-13.14.02:881][231]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.01-13.14.02:881][231]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.01-13.14.02:881][231]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.01-13.14.02:881][231]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.01-13.14.02:881][231]AssetCheck: /Game/Maps/Minimal_Default_2 Validating asset
+[2025.09.01-13.14.12:183][510]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 961.228943
+[2025.09.01-13.14.12:417][517]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.01-13.14.12:418][517]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 961.429565, Update Interval: 341.681580
+[2025.09.01-13.14.16:887][651]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.01-13.14.16:914][651]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.01-13.14.16:930][651]LogOnline: OSS: Created online subsystem instance for: NULL
+[2025.09.01-13.14.16:931][651]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2025.09.01-13.14.16:935][651]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Minimal_Default_2
+[2025.09.01-13.14.16:943][651]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007235s)
+[2025.09.01-13.14.16:943][651]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Minimal_Default_2.Minimal_Default_2 to /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 (0.007421s)
+[2025.09.01-13.14.16:968][651]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2025.09.01-13.14.16:970][651]LogChaosDD: Creating Chaos Debug Draw Scene for world Minimal_Default_2
+[2025.09.01-13.14.16:974][651]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2'.
+[2025.09.01-13.14.16:975][651]LogPlayLevel: PIE: World Init took: (0.005203s)
+[2025.09.01-13.14.16:977][651]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2025.09.01-13.14.16:981][651]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.01-13.14.16:981][651]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.01-13.14.16:981][651]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.01-13.14.16:981][651]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.01-13.14.16:981][651]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.01-13.14.16:981][651]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.01-13.14.16:981][651]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.01-13.14.16:981][651]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.01-13.14.16:981][651]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.01-13.14.16:981][651]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.01-13.14.16:981][651]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.01-13.14.16:983][651]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.01-13.14.17:000][651]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.09.01-13.14.17:000][651]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.01-13.14.17:000][651]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.01-13.14.17:000][651]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.01-13.14.17:001][651]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2025.09.01-13.14.17:001][651]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2025.09.01-13.14.17:003][651]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2025.09.01-13.14.17:003][651]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2025.09.01-13.14.17:003][651]LogInit: FAudioDevice initialized with ID 2.
+[2025.09.01-13.14.17:003][651]LogAudio: Display: Audio Device (ID: 2) registered with world 'Minimal_Default_2'.
+[2025.09.01-13.14.17:004][651]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2025.09.01-13.14.17:019][651]LogLoad: Game class is 'BP_GameMode_C'
+[2025.09.01-13.14.17:025][651]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Echo'
+[2025.09.01-13.14.17:028][651]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 up for play (max tick rate 60) at 2025.09.01-15.14.17
+[2025.09.01-13.14.17:037][651]LogWorld: Bringing up level for play took: 0.017842
+[2025.09.01-13.14.17:041][651]LogOnline: OSS: Created online subsystem instance for: :Context_7
+[2025.09.01-13.14.17:083][651]PIE: Server logged in
+[2025.09.01-13.14.17:084][651]PIE: Play in editor total start time 0.184 seconds.
+[2025.09.01-13.14.20:422][680]LogMetaSound: Display: Auto-Updating '/Game/AncientContent/Audio/MetaSounds/sfx_Char_Echo_Foley_Pouch_Heavy_nl_meta.sfx_Char_Echo_Foley_Pouch_Heavy_nl_meta' node class 'UE.Wave Player.Stereo (v1.0)': Interface change detected.
+[2025.09.01-13.14.20:423][680]LogMetaSound: Display: Auto-Updating '/Game/AncientContent/Audio/MetaSounds/sfx_Char_Echo_Foley_Pouch_Heavy_nl_meta.sfx_Char_Echo_Foley_Pouch_Heavy_nl_meta' node class 'UE.RandomFloat': Newer version 'v1.1' found.
+[2025.09.01-13.14.20:423][680]LogMetaSound: Display: Auto-Updating '/Game/AncientContent/Audio/MetaSounds/sfx_Char_Echo_Foley_Pouch_Heavy_nl_meta.sfx_Char_Echo_Foley_Pouch_Heavy_nl_meta' node class 'UE.RandomFloat': Newer version 'v1.1' found.
+[2025.09.01-13.14.20:423][680]LogMetaSound: Display: Auto-Updating '/Game/AncientContent/Audio/MetaSounds/sfx_Char_Echo_Foley_Pouch_Heavy_nl_meta.sfx_Char_Echo_Foley_Pouch_Heavy_nl_meta' node class 'UE.Multiply.Audio by Float': Newer version 'v1.1' found.
+[2025.09.01-13.14.20:451][680]LogMetaSound: Display: Auto-Updating '/Game/AncientContent/Audio/MetaSounds/sfx_Char_Echo_Foley_Cloth_Run_nl_meta.sfx_Char_Echo_Foley_Cloth_Run_nl_meta' node class 'UE.Wave Player.Stereo (v1.0)': Interface change detected.
+[2025.09.01-13.14.20:451][680]LogMetaSound: Display: Auto-Updating '/Game/AncientContent/Audio/MetaSounds/sfx_Char_Echo_Foley_Cloth_Run_nl_meta.sfx_Char_Echo_Foley_Cloth_Run_nl_meta' node class 'UE.RandomFloat': Newer version 'v1.1' found.
+[2025.09.01-13.14.20:451][680]LogMetaSound: Display: Auto-Updating '/Game/AncientContent/Audio/MetaSounds/sfx_Char_Echo_Foley_Cloth_Run_nl_meta.sfx_Char_Echo_Foley_Cloth_Run_nl_meta' node class 'UE.RandomFloat': Newer version 'v1.1' found.
+[2025.09.01-13.14.20:451][680]LogMetaSound: Display: Auto-Updating '/Game/AncientContent/Audio/MetaSounds/sfx_Char_Echo_Foley_Cloth_Run_nl_meta.sfx_Char_Echo_Foley_Cloth_Run_nl_meta' node class 'UE.Multiply.Audio by Float': Newer version 'v1.1' found.
+[2025.09.01-13.14.21:122][688]LogMetaSound: Display: Auto-Updating '/Game/AncientContent/Audio/MetaSounds/sfx_Char_Echo_Foley_FS_Rock_Run_nl_meta.sfx_Char_Echo_Foley_FS_Rock_Run_nl_meta' node class 'UE.Wave Player.Stereo (v1.0)': Interface change detected.
+[2025.09.01-13.14.21:122][688]LogMetaSound: Display: Auto-Updating '/Game/AncientContent/Audio/MetaSounds/sfx_Char_Echo_Foley_FS_Rock_Run_nl_meta.sfx_Char_Echo_Foley_FS_Rock_Run_nl_meta' node class 'UE.RandomFloat': Newer version 'v1.1' found.
+[2025.09.01-13.14.21:122][688]LogMetaSound: Display: Auto-Updating '/Game/AncientContent/Audio/MetaSounds/sfx_Char_Echo_Foley_FS_Rock_Run_nl_meta.sfx_Char_Echo_Foley_FS_Rock_Run_nl_meta' node class 'UE.RandomFloat': Newer version 'v1.1' found.
+[2025.09.01-13.14.21:122][688]LogMetaSound: Display: Auto-Updating '/Game/AncientContent/Audio/MetaSounds/sfx_Char_Echo_Foley_FS_Rock_Run_nl_meta.sfx_Char_Echo_Foley_FS_Rock_Run_nl_meta' node class 'UE.Multiply.Audio by Float': Newer version 'v1.1' found.
+[2025.09.01-13.14.27:263][772]LogMetaSound: Display: Auto-Updating '/Game/AncientContent/Audio/MetaSounds/sfx_Char_Echo_Foley_Cloth_Walk_nl_meta.sfx_Char_Echo_Foley_Cloth_Walk_nl_meta' node class 'UE.Wave Player.Stereo (v1.0)': Interface change detected.
+[2025.09.01-13.14.27:263][772]LogMetaSound: Display: Auto-Updating '/Game/AncientContent/Audio/MetaSounds/sfx_Char_Echo_Foley_Cloth_Walk_nl_meta.sfx_Char_Echo_Foley_Cloth_Walk_nl_meta' node class 'UE.RandomFloat': Newer version 'v1.1' found.
+[2025.09.01-13.14.27:263][772]LogMetaSound: Display: Auto-Updating '/Game/AncientContent/Audio/MetaSounds/sfx_Char_Echo_Foley_Cloth_Walk_nl_meta.sfx_Char_Echo_Foley_Cloth_Walk_nl_meta' node class 'UE.RandomFloat': Newer version 'v1.1' found.
+[2025.09.01-13.14.27:263][772]LogMetaSound: Display: Auto-Updating '/Game/AncientContent/Audio/MetaSounds/sfx_Char_Echo_Foley_Cloth_Walk_nl_meta.sfx_Char_Echo_Foley_Cloth_Walk_nl_meta' node class 'UE.Multiply.Audio by Float': Newer version 'v1.1' found.
+[2025.09.01-13.14.32:969][942]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.01-13.14.32:970][942]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Minimal_Default_2
+[2025.09.01-13.14.32:974][942]LogWorld: UWorld::CleanupWorld for Minimal_Default_2, bSessionEnded=true, bCleanupResources=true
+[2025.09.01-13.14.32:976][942]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.01-13.14.32:988][942]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.01-13.14.32:995][942]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.01-13.14.33:018][942]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.01-13.14.33:019][942]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2025.09.01-13.14.33:022][942]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.09.01-13.14.33:029][942]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.09.01-13.14.33:049][942]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2025.09.01-13.14.33:614][945]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2025.09.01-13.14.36:732][ 13]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.01-13.14.36:743][ 13]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.01-13.14.36:744][ 13]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Minimal_Default_2
+[2025.09.01-13.14.36:748][ 13]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004222s)
+[2025.09.01-13.14.36:748][ 13]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Minimal_Default_2.Minimal_Default_2 to /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 (0.004256s)
+[2025.09.01-13.14.36:794][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2025.09.01-13.14.36:796][ 13]LogChaosDD: Creating Chaos Debug Draw Scene for world Minimal_Default_2
+[2025.09.01-13.14.36:797][ 13]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2'.
+[2025.09.01-13.14.36:799][ 13]LogPlayLevel: PIE: World Init took: (0.002932s)
+[2025.09.01-13.14.36:800][ 13]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2025.09.01-13.14.36:800][ 13]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.01-13.14.36:800][ 13]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.01-13.14.36:800][ 13]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.01-13.14.36:800][ 13]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.01-13.14.36:800][ 13]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.01-13.14.36:800][ 13]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.01-13.14.36:800][ 13]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.01-13.14.36:800][ 13]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.01-13.14.36:800][ 13]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.01-13.14.36:800][ 13]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.01-13.14.36:800][ 13]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.01-13.14.36:802][ 13]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.01-13.14.36:817][ 13]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.09.01-13.14.36:818][ 13]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.01-13.14.36:818][ 13]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.01-13.14.36:818][ 13]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.01-13.14.36:819][ 13]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2025.09.01-13.14.36:819][ 13]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2025.09.01-13.14.36:821][ 13]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2025.09.01-13.14.36:821][ 13]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2025.09.01-13.14.36:821][ 13]LogInit: FAudioDevice initialized with ID 3.
+[2025.09.01-13.14.36:821][ 13]LogAudio: Display: Audio Device (ID: 3) registered with world 'Minimal_Default_2'.
+[2025.09.01-13.14.36:821][ 13]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2025.09.01-13.14.36:824][ 13]LogLoad: Game class is 'BP_GameMode_C'
+[2025.09.01-13.14.36:829][ 13]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Echo'
+[2025.09.01-13.14.36:831][ 13]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 up for play (max tick rate 60) at 2025.09.01-15.14.36
+[2025.09.01-13.14.36:832][ 13]LogWorld: Bringing up level for play took: 0.007439
+[2025.09.01-13.14.36:834][ 13]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2025.09.01-13.14.36:836][ 13]PIE: Server logged in
+[2025.09.01-13.14.36:837][ 13]PIE: Play in editor total start time 0.099 seconds.
+[2025.09.01-13.14.42:899][142]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.01-13.14.42:899][142]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Minimal_Default_2
+[2025.09.01-13.14.42:899][142]LogWorld: UWorld::CleanupWorld for Minimal_Default_2, bSessionEnded=true, bCleanupResources=true
+[2025.09.01-13.14.42:900][142]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.01-13.14.42:903][142]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.01-13.14.42:909][142]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.01-13.14.42:928][142]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.01-13.14.42:928][142]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2025.09.01-13.14.42:928][142]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.09.01-13.14.42:970][142]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.09.01-13.14.42:984][142]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.09.01-13.14.43:694][145]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2025.09.01-13.15.08:932][879]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.01-13.15.08:943][879]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.01-13.15.08:944][879]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Minimal_Default_2
+[2025.09.01-13.15.08:948][879]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004426s)
+[2025.09.01-13.15.08:948][879]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Minimal_Default_2.Minimal_Default_2 to /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 (0.004474s)
+[2025.09.01-13.15.08:971][879]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2025.09.01-13.15.08:973][879]LogChaosDD: Creating Chaos Debug Draw Scene for world Minimal_Default_2
+[2025.09.01-13.15.08:974][879]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2'.
+[2025.09.01-13.15.08:974][879]LogPlayLevel: PIE: World Init took: (0.001530s)
+[2025.09.01-13.15.08:975][879]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2025.09.01-13.15.08:975][879]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.01-13.15.08:975][879]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.01-13.15.08:975][879]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.01-13.15.08:975][879]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.01-13.15.08:975][879]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.01-13.15.08:975][879]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.01-13.15.08:975][879]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.01-13.15.08:975][879]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.01-13.15.08:975][879]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.01-13.15.08:975][879]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.01-13.15.08:975][879]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.01-13.15.08:977][879]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.01-13.15.08:992][879]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.09.01-13.15.08:992][879]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.01-13.15.08:992][879]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.01-13.15.08:992][879]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.01-13.15.08:993][879]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2025.09.01-13.15.08:993][879]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2025.09.01-13.15.08:995][879]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2025.09.01-13.15.08:995][879]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2025.09.01-13.15.08:995][879]LogInit: FAudioDevice initialized with ID 4.
+[2025.09.01-13.15.08:995][879]LogAudio: Display: Audio Device (ID: 4) registered with world 'Minimal_Default_2'.
+[2025.09.01-13.15.08:995][879]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2025.09.01-13.15.08:998][879]LogLoad: Game class is 'BP_GameMode_C'
+[2025.09.01-13.15.09:004][879]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Echo'
+[2025.09.01-13.15.09:006][879]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 up for play (max tick rate 60) at 2025.09.01-15.15.09
+[2025.09.01-13.15.09:006][879]LogWorld: Bringing up level for play took: 0.007659
+[2025.09.01-13.15.09:009][879]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2025.09.01-13.15.09:011][879]PIE: Server logged in
+[2025.09.01-13.15.09:012][879]PIE: Play in editor total start time 0.071 seconds.
+[2025.09.01-13.15.16:179][ 36]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.01-13.15.16:179][ 36]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Minimal_Default_2
+[2025.09.01-13.15.16:180][ 36]LogWorld: UWorld::CleanupWorld for Minimal_Default_2, bSessionEnded=true, bCleanupResources=true
+[2025.09.01-13.15.16:180][ 36]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.01-13.15.16:184][ 36]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.01-13.15.16:190][ 36]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.01-13.15.16:211][ 36]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.01-13.15.16:211][ 36]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2025.09.01-13.15.16:211][ 36]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.09.01-13.15.16:213][ 36]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.09.01-13.15.16:220][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2025.09.01-13.15.16:375][ 39]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2025.09.01-13.15.39:857][699]LogEditorClassViewer: Warning: AssetRegistry Blueprint /Game/AncientContent/Blueprints/Abilities/GameplayAbilityUtils.GameplayAbilityUtils is missing tag value for GeneratedClass. Blueprint will not be available to ClassViewer when unloaded.
+[2025.09.01-13.15.39:887][699]LogEditorClassViewer: Warning: Class /Game/AncientContent/Blueprints/Character/BP_VaultingTriggerComponent.BP_VaultingTriggerComponent_C has parent /Script/AncientGame.AncientGameBoxComponentBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.09.01-13.15.39:888][699]LogEditorClassViewer: Warning: Class /Game/AncientContent/Blueprints/Character/BP_EchoCharacter.BP_EchoCharacter_C has parent /Script/ModularGameplayActors.ModularCharacter, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.09.01-13.15.39:888][699]LogEditorClassViewer: Warning: Class /Game/AncientContent/Blueprints/Camera/BP_ThirdPersonCameraMode.BP_ThirdPersonCameraMode_C has parent /Script/AncientGame.SpringArmCameraMode, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.09.01-13.15.39:888][699]LogEditorClassViewer: Warning: Class /Game/AncientContent/Blueprints/Abilities/GA_Vault.GA_Vault_C has parent /Script/GameplayAbilities.GameplayAbility, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.09.01-13.15.39:888][699]LogEditorClassViewer: Warning: Class /Game/AncientContent/Blueprints/Abilities/GA_SitStand.GA_SitStand_C has parent /Script/GameplayAbilities.GameplayAbility, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.09.01-13.15.39:888][699]LogEditorClassViewer: Warning: Class /Game/Clinic/Demo/FirstPersonBP/FirstPersonOverview.FirstPersonOverview_C has parent /Script/IntroTutorials.EditorTutorial, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.09.01-13.15.39:888][699]LogEditorClassViewer: Warning: Class /Game/AncientContent/Characters/Echo/Echo_AnimBP.Echo_AnimBP_C has parent /Script/AncientGame.AncientGameAnimInstance, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.09.01-13.16.04:679][438]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/AncientContent/Characters/Echo/Animations/Idle.Idle
+[2025.09.01-13.16.04:684][438]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2025.09.01-13.16.04:685][438]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_6'.
+[2025.09.01-13.16.04:695][438]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'DebugSkelMeshComponent_0' with 'Echo'
+[2025.09.01-13.16.04:697][438]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.01-13.16.05:034][438]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2025.09.01-13.16.05:035][438]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_7'.
+[2025.09.01-13.16.05:486][438]LogUObjectGlobals: Warning: Failed to find object 'Class /Script/ApexDestruction.DestructibleMesh'
+[2025.09.01-13.16.05:494][438]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2025.09.01-13.16.05:494][438]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_8'.
+[2025.09.01-13.16.05:733][439]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2025.09.01-13.16.05:733][439]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_9'.
+[2025.09.01-13.16.11:540][604]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.01-13.16.11:550][604]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.01-13.16.11:550][604]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Minimal_Default_2
+[2025.09.01-13.16.11:555][604]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004484s)
+[2025.09.01-13.16.11:555][604]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Minimal_Default_2.Minimal_Default_2 to /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 (0.004520s)
+[2025.09.01-13.16.11:616][604]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.09.01-13.16.11:618][604]LogChaosDD: Creating Chaos Debug Draw Scene for world Minimal_Default_2
+[2025.09.01-13.16.11:619][604]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2'.
+[2025.09.01-13.16.11:620][604]LogPlayLevel: PIE: World Init took: (0.001658s)
+[2025.09.01-13.16.11:621][604]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2025.09.01-13.16.11:621][604]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.01-13.16.11:621][604]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.01-13.16.11:621][604]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.01-13.16.11:621][604]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.01-13.16.11:621][604]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.01-13.16.11:621][604]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.01-13.16.11:621][604]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.01-13.16.11:621][604]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.01-13.16.11:621][604]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.01-13.16.11:621][604]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.01-13.16.11:621][604]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.01-13.16.11:623][604]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.01-13.16.11:638][604]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.09.01-13.16.11:638][604]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.01-13.16.11:638][604]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.01-13.16.11:638][604]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.01-13.16.11:638][604]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2025.09.01-13.16.11:638][604]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2025.09.01-13.16.11:641][604]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2025.09.01-13.16.11:641][604]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2025.09.01-13.16.11:641][604]LogInit: FAudioDevice initialized with ID 5.
+[2025.09.01-13.16.11:641][604]LogAudio: Display: Audio Device (ID: 5) registered with world 'Minimal_Default_2'.
+[2025.09.01-13.16.11:641][604]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2025.09.01-13.16.11:644][604]LogLoad: Game class is 'BP_GameMode_C'
+[2025.09.01-13.16.11:648][604]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Echo'
+[2025.09.01-13.16.11:650][604]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 up for play (max tick rate 60) at 2025.09.01-15.16.11
+[2025.09.01-13.16.11:651][604]LogWorld: Bringing up level for play took: 0.006752
+[2025.09.01-13.16.11:654][604]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2025.09.01-13.16.11:656][604]PIE: Server logged in
+[2025.09.01-13.16.11:657][604]PIE: Play in editor total start time 0.11 seconds.
+[2025.09.01-13.16.58:220][834]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.01-13.16.58:220][834]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Minimal_Default_2
+[2025.09.01-13.16.58:220][834]LogWorld: UWorld::CleanupWorld for Minimal_Default_2, bSessionEnded=true, bCleanupResources=true
+[2025.09.01-13.16.58:221][834]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.01-13.16.58:224][834]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.01-13.16.58:231][834]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.01-13.16.58:250][834]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.09.01-13.16.58:251][834]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2025.09.01-13.16.58:251][834]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.09.01-13.16.58:253][834]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.09.01-13.16.58:265][834]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.01-13.16.58:268][834]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2025.09.01-13.16.58:416][837]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2025.09.01-13.19.34:957][324]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.09.01-13.19.34:957][324]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.01-13.19.34:971][324]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.09.01-13.19.34:971][324]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.01-13.19.35:052][324]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.09.01-13.19.35:052][324]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.01-13.19.35:093][324]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2025.09.01-13.19.44:580][607]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/AncientContent/Characters/Echo/Animations/Jump_Idle_Fall.Jump_Idle_Fall
+[2025.09.01-13.19.44:580][607]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_10
+[2025.09.01-13.19.44:581][607]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_10'.
+[2025.09.01-13.19.44:591][607]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'DebugSkelMeshComponent_0' with 'Echo'
+[2025.09.01-13.19.44:592][607]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.01-13.19.44:887][607]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_11
+[2025.09.01-13.19.44:887][607]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_11'.
+[2025.09.01-13.19.45:243][607]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_12
+[2025.09.01-13.19.45:243][607]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_12'.
+[2025.09.01-13.19.51:475][782]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2025.09.01-13.19.51:475][782]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.01-13.19.51:510][782]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2025.09.01-13.19.51:510][782]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.01-13.19.51:619][782]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2025.09.01-13.19.51:619][782]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.01-13.19.51:667][782]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.09.01-13.20.05:142][186]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1314.189453
+[2025.09.01-13.20.05:376][193]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.01-13.20.05:376][193]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1314.389893, Update Interval: 355.110931
+[2025.09.01-13.21.49:729][190]LogEditorTransaction: Undo Delete current selection
+[2025.09.01-13.21.49:950][190]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.01-13.21.59:104][455]LogStreaming: Display: FlushAsyncLoading(518): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.01-13.21.59:266][455]LogAudioDerivedData: Display: Building compressed audio format PCM hash PCM_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave sfx_Char_Echo_Foley_Cloth_Heavy_nl_02...
+[2025.09.01-13.21.59:267][455]LogAudioDerivedData: Display: Building compressed audio format PCM hash PCM_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave sfx_Char_Echo_Foley_Cloth_Heavy_nl_03...
+[2025.09.01-13.21.59:267][455]LogAudioDerivedData: Display: Building compressed audio format PCM hash PCM_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave sfx_Char_Echo_Foley_Footfall_Land_nl_02...
+[2025.09.01-13.21.59:267][455]LogAudioDerivedData: Display: Building compressed audio format PCM hash PCM_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave sfx_Char_Echo_Foley_Footfall_Land_nl_03...
+[2025.09.01-13.21.59:267][455]LogAudioDerivedData: Display: Building compressed audio format PCM hash PCM_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave sfx_Char_Echo_Foley_Cloth_Heavy_nl_01...
+[2025.09.01-13.21.59:267][455]LogAudioDerivedData: Display: Building compressed audio format PCM hash PCM_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave sfx_Char_Echo_Foley_Footfall_Land_nl_04...
+[2025.09.01-13.21.59:267][455]LogAudioDerivedData: Display: Building compressed audio format PCM hash PCM_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave sfx_Char_Echo_Foley_Cloth_Heavy_nl_05...
+[2025.09.01-13.21.59:267][455]LogAudioDerivedData: Display: Building compressed audio format PCM hash PCM_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave sfx_Char_Echo_Foley_Cloth_Heavy_nl_04...
+[2025.09.01-13.21.59:267][455]LogAudioDerivedData: Display: Building compressed audio format PCM hash PCM_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave sfx_Char_Echo_Foley_Footfall_Land_nl_05...
+[2025.09.01-13.21.59:268][455]LogAudioDerivedData: Display: sfx_Char_Echo_Foley_Cloth_Heavy_nl_02 compressed to 100.00% (from 182KB to 182KB) with PCM at Quality 100 with Quality Modifier 1.00
+[2025.09.01-13.21.59:268][455]LogAudioDerivedData: Display: sfx_Char_Echo_Foley_Footfall_Land_nl_04 compressed to 100.00% (from 101KB to 101KB) with PCM at Quality 100 with Quality Modifier 1.00
+[2025.09.01-13.21.59:268][455]LogAudioDerivedData: Display: sfx_Char_Echo_Foley_Footfall_Land_nl_03 compressed to 100.00% (from 83KB to 83KB) with PCM at Quality 100 with Quality Modifier 1.00
+[2025.09.01-13.21.59:268][455]LogAudioDerivedData: Display: sfx_Char_Echo_Foley_Cloth_Heavy_nl_04 compressed to 100.00% (from 157KB to 157KB) with PCM at Quality 100 with Quality Modifier 1.00
+[2025.09.01-13.21.59:268][455]LogAudioDerivedData: Display: sfx_Char_Echo_Foley_Cloth_Heavy_nl_05 compressed to 100.00% (from 180KB to 180KB) with PCM at Quality 100 with Quality Modifier 1.00
+[2025.09.01-13.21.59:268][455]LogAudioDerivedData: Display: sfx_Char_Echo_Foley_Footfall_Land_nl_05 compressed to 100.00% (from 102KB to 102KB) with PCM at Quality 100 with Quality Modifier 1.00
+[2025.09.01-13.21.59:268][455]LogAudioDerivedData: Display: sfx_Char_Echo_Foley_Cloth_Heavy_nl_03 compressed to 100.00% (from 212KB to 212KB) with PCM at Quality 100 with Quality Modifier 1.00
+[2025.09.01-13.21.59:268][455]LogAudioDerivedData: Display: sfx_Char_Echo_Foley_Footfall_Land_nl_02 compressed to 100.00% (from 98KB to 98KB) with PCM at Quality 100 with Quality Modifier 1.00
+[2025.09.01-13.21.59:268][455]LogAudioDerivedData: Display: sfx_Char_Echo_Foley_Cloth_Heavy_nl_01 compressed to 100.00% (from 175KB to 175KB) with PCM at Quality 100 with Quality Modifier 1.00
+[2025.09.01-13.21.59:269][455]LogAudioDerivedData: Display: Building compressed audio format PCM hash PCM_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave sfx_Char_Echo_Foley_Footfall_Land_nl_06...
+[2025.09.01-13.21.59:269][455]LogAudioDerivedData: Display: Building compressed audio format PCM hash PCM_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave sfx_Char_Echo_Foley_Footfall_Land_nl_07...
+[2025.09.01-13.21.59:269][455]LogAudioDerivedData: Display: Building compressed audio format PCM hash PCM_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave sfx_Char_Echo_Foley_Footfall_Land_nl_08...
+[2025.09.01-13.21.59:269][455]LogAudio: Display: Chunk stats for (SoundWave /Game/AncientContent/Audio/SoundWaves/Echo/Foley/sfx_Char_Echo_Foley_Cloth_Heavy_nl_05.sfx_Char_Echo_Foley_Cloth_Heavy_nl_05: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=46 bytes, Chunk1=184320 bytes, ChunkN=0)
+[2025.09.01-13.21.59:269][455]LogAudioDerivedData: Display: sfx_Char_Echo_Foley_Footfall_Land_nl_08 compressed to 100.00% (from 83KB to 83KB) with PCM at Quality 100 with Quality Modifier 1.00
+[2025.09.01-13.21.59:269][455]LogAudio: Display: Chunk stats for (SoundWave /Game/AncientContent/Audio/SoundWaves/Echo/Foley/sfx_Char_Echo_Foley_Cloth_Heavy_nl_02.sfx_Char_Echo_Foley_Cloth_Heavy_nl_02: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=46 bytes, Chunk1=186812 bytes, ChunkN=0)
+[2025.09.01-13.21.59:269][455]LogAudio: Display: Chunk stats for (SoundWave /Game/AncientContent/Audio/SoundWaves/Echo/Foley/sfx_Char_Echo_Foley_Cloth_Heavy_nl_04.sfx_Char_Echo_Foley_Cloth_Heavy_nl_04: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=46 bytes, Chunk1=160960 bytes, ChunkN=0)
+[2025.09.01-13.21.59:270][455]LogAudioDerivedData: Display: sfx_Char_Echo_Foley_Footfall_Land_nl_07 compressed to 100.00% (from 122KB to 122KB) with PCM at Quality 100 with Quality Modifier 1.00
+[2025.09.01-13.21.59:270][455]LogAudioDerivedData: Display: Building compressed audio format PCM hash PCM_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave sfx_Char_Echo_Foley_Cloth_Heavy_nl_06...
+[2025.09.01-13.21.59:270][455]LogAudio: Display: Chunk stats for (SoundWave /Game/AncientContent/Audio/SoundWaves/Echo/Foley/sfx_Char_Echo_Foley_Cloth_Heavy_nl_03.sfx_Char_Echo_Foley_Cloth_Heavy_nl_03: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=46 bytes, Chunk1=217956 bytes, ChunkN=0)
+[2025.09.01-13.21.59:270][455]LogAudioDerivedData: Display: sfx_Char_Echo_Foley_Footfall_Land_nl_06 compressed to 100.00% (from 106KB to 106KB) with PCM at Quality 100 with Quality Modifier 1.00
+[2025.09.01-13.21.59:270][455]LogAudio: Display: Chunk stats for (SoundWave /Game/AncientContent/Audio/SoundWaves/Echo/Foley/sfx_Char_Echo_Foley_Cloth_Heavy_nl_01.sfx_Char_Echo_Foley_Cloth_Heavy_nl_01: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=46 bytes, Chunk1=180116 bytes, ChunkN=0)
+[2025.09.01-13.21.59:270][455]LogAudioDerivedData: Display: sfx_Char_Echo_Foley_Cloth_Heavy_nl_06 compressed to 100.00% (from 159KB to 159KB) with PCM at Quality 100 with Quality Modifier 1.00
+[2025.09.01-13.21.59:270][455]LogAudioDerivedData: Display: Building compressed audio format PCM hash PCM_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave sfx_Char_Echo_Foley_Footfall_Land_nl_01...
+[2025.09.01-13.21.59:271][455]LogAudioDerivedData: Display: Building compressed audio format PCM hash PCM_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave sfx_Char_Echo_Foley_Cloth_Heavy_nl_07...
+[2025.09.01-13.21.59:272][455]LogAudioDerivedData: Display: sfx_Char_Echo_Foley_Footfall_Land_nl_01 compressed to 100.00% (from 114KB to 114KB) with PCM at Quality 100 with Quality Modifier 1.00
+[2025.09.01-13.21.59:272][455]LogAudioDerivedData: Display: sfx_Char_Echo_Foley_Cloth_Heavy_nl_07 compressed to 100.00% (from 222KB to 222KB) with PCM at Quality 100 with Quality Modifier 1.00
+[2025.09.01-13.21.59:274][455]LogAudio: Display: Chunk stats for (SoundWave /Game/AncientContent/Audio/SoundWaves/Echo/Foley/sfx_Char_Echo_Foley_Cloth_Heavy_nl_06.sfx_Char_Echo_Foley_Cloth_Heavy_nl_06: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=46 bytes, Chunk1=163780 bytes, ChunkN=0)
+[2025.09.01-13.21.59:275][455]LogAudio: Display: Chunk stats for (SoundWave /Game/AncientContent/Audio/SoundWaves/Echo/Foley/sfx_Char_Echo_Foley_Cloth_Heavy_nl_07.sfx_Char_Echo_Foley_Cloth_Heavy_nl_07: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=46 bytes, Chunk1=227740 bytes, ChunkN=0)
+[2025.09.01-13.21.59:275][455]LogAudio: Display: Chunk stats for (SoundWave /Game/AncientContent/Audio/SoundWaves/Echo/Foley/sfx_Char_Echo_Foley_Footfall_Land_nl_02.sfx_Char_Echo_Foley_Footfall_Land_nl_02: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=46 bytes, Chunk1=100520 bytes, ChunkN=0)
+[2025.09.01-13.21.59:275][455]LogAudio: Display: Chunk stats for (SoundWave /Game/AncientContent/Audio/SoundWaves/Echo/Foley/sfx_Char_Echo_Foley_Footfall_Land_nl_03.sfx_Char_Echo_Foley_Footfall_Land_nl_03: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=46 bytes, Chunk1=85376 bytes, ChunkN=0)
+[2025.09.01-13.21.59:275][455]LogAudio: Display: Chunk stats for (SoundWave /Game/AncientContent/Audio/SoundWaves/Echo/Foley/sfx_Char_Echo_Foley_Footfall_Land_nl_01.sfx_Char_Echo_Foley_Footfall_Land_nl_01: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=46 bytes, Chunk1=117260 bytes, ChunkN=0)
+[2025.09.01-13.21.59:277][455]LogAudio: Display: Chunk stats for (SoundWave /Game/AncientContent/Audio/SoundWaves/Echo/Foley/sfx_Char_Echo_Foley_Footfall_Land_nl_04.sfx_Char_Echo_Foley_Footfall_Land_nl_04: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=46 bytes, Chunk1=103668 bytes, ChunkN=0)
+[2025.09.01-13.21.59:278][455]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/AncientContent/Characters/Echo/Animations/Jump_Idle_Land.Jump_Idle_Land (Required Memory Estimate: 36.81 MB)
+[2025.09.01-13.21.59:278][455]LogAudio: Display: Chunk stats for (SoundWave /Game/AncientContent/Audio/SoundWaves/Echo/Foley/sfx_Char_Echo_Foley_Footfall_Land_nl_05.sfx_Char_Echo_Foley_Footfall_Land_nl_05: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=46 bytes, Chunk1=105032 bytes, ChunkN=0)
+[2025.09.01-13.21.59:281][455]LogAudio: Display: Chunk stats for (SoundWave /Game/AncientContent/Audio/SoundWaves/Echo/Foley/sfx_Char_Echo_Foley_Footfall_Land_nl_06.sfx_Char_Echo_Foley_Footfall_Land_nl_06: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=46 bytes, Chunk1=109124 bytes, ChunkN=0)
+[2025.09.01-13.21.59:281][455]LogAudio: Display: Chunk stats for (SoundWave /Game/AncientContent/Audio/SoundWaves/Echo/Foley/sfx_Char_Echo_Foley_Footfall_Land_nl_07.sfx_Char_Echo_Foley_Footfall_Land_nl_07: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=46 bytes, Chunk1=125496 bytes, ChunkN=0)
+[2025.09.01-13.21.59:281][455]LogAudio: Display: Chunk stats for (SoundWave /Game/AncientContent/Audio/SoundWaves/Echo/Foley/sfx_Char_Echo_Foley_Footfall_Land_nl_08.sfx_Char_Echo_Foley_Footfall_Land_nl_08: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=46 bytes, Chunk1=85936 bytes, ChunkN=0)
+[2025.09.01-13.21.59:314][455]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_13
+[2025.09.01-13.21.59:314][455]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_13'.
+[2025.09.01-13.21.59:557][461]LogAnimationCompression: Display: Storing compressed animation data for /Game/AncientContent/Characters/Echo/Animations/Jump_Idle_Land.Jump_Idle_Land, at AnimationSequence/f969c22395e909eb2220d60f7fb34ea4b56c3c5c
+[2025.09.01-13.22.03:291][566]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2025.09.01-13.22.16:551][957]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2025.09.01-13.22.19:731][ 50]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.01-13.22.19:740][ 50]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.01-13.22.19:740][ 50]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Minimal_Default_2
+[2025.09.01-13.22.19:745][ 50]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004527s)
+[2025.09.01-13.22.19:745][ 50]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Minimal_Default_2.Minimal_Default_2 to /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 (0.004569s)
+[2025.09.01-13.22.19:769][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2025.09.01-13.22.19:771][ 50]LogChaosDD: Creating Chaos Debug Draw Scene for world Minimal_Default_2
+[2025.09.01-13.22.19:772][ 50]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2'.
+[2025.09.01-13.22.19:773][ 50]LogPlayLevel: PIE: World Init took: (0.001784s)
+[2025.09.01-13.22.19:774][ 50]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2025.09.01-13.22.19:774][ 50]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.01-13.22.19:774][ 50]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.01-13.22.19:774][ 50]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.01-13.22.19:774][ 50]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.01-13.22.19:774][ 50]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.01-13.22.19:774][ 50]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.01-13.22.19:774][ 50]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.01-13.22.19:774][ 50]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.01-13.22.19:774][ 50]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.01-13.22.19:774][ 50]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.01-13.22.19:774][ 50]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.01-13.22.19:777][ 50]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.01-13.22.19:791][ 50]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.09.01-13.22.19:792][ 50]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.01-13.22.19:792][ 50]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.01-13.22.19:792][ 50]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.01-13.22.19:793][ 50]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2025.09.01-13.22.19:793][ 50]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2025.09.01-13.22.19:795][ 50]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2025.09.01-13.22.19:795][ 50]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2025.09.01-13.22.19:795][ 50]LogInit: FAudioDevice initialized with ID 6.
+[2025.09.01-13.22.19:795][ 50]LogAudio: Display: Audio Device (ID: 6) registered with world 'Minimal_Default_2'.
+[2025.09.01-13.22.19:795][ 50]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2025.09.01-13.22.19:798][ 50]LogLoad: Game class is 'BP_GameMode_C'
+[2025.09.01-13.22.19:802][ 50]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Echo'
+[2025.09.01-13.22.19:804][ 50]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 up for play (max tick rate 60) at 2025.09.01-15.22.19
+[2025.09.01-13.22.19:805][ 50]LogWorld: Bringing up level for play took: 0.006832
+[2025.09.01-13.22.19:807][ 50]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2025.09.01-13.22.19:809][ 50]PIE: Server logged in
+[2025.09.01-13.22.19:810][ 50]PIE: Play in editor total start time 0.073 seconds.
+[2025.09.01-13.22.24:115][ 93]LogMetaSound: Display: Auto-Updating '/Game/AncientContent/Audio/MetaSounds/sfx_Char_Echo_Foley_Footfall_Land_nl_meta.sfx_Char_Echo_Foley_Footfall_Land_nl_meta' node class 'UE.Wave Player.Stereo (v1.0)': Interface change detected.
+[2025.09.01-13.22.24:115][ 93]LogMetaSound: Display: Auto-Updating '/Game/AncientContent/Audio/MetaSounds/sfx_Char_Echo_Foley_Footfall_Land_nl_meta.sfx_Char_Echo_Foley_Footfall_Land_nl_meta' node class 'UE.RandomFloat': Newer version 'v1.1' found.
+[2025.09.01-13.22.24:115][ 93]LogMetaSound: Display: Auto-Updating '/Game/AncientContent/Audio/MetaSounds/sfx_Char_Echo_Foley_Footfall_Land_nl_meta.sfx_Char_Echo_Foley_Footfall_Land_nl_meta' node class 'UE.RandomFloat': Newer version 'v1.1' found.
+[2025.09.01-13.22.24:115][ 93]LogMetaSound: Display: Auto-Updating '/Game/AncientContent/Audio/MetaSounds/sfx_Char_Echo_Foley_Footfall_Land_nl_meta.sfx_Char_Echo_Foley_Footfall_Land_nl_meta' node class 'UE.Multiply.Audio by Float': Newer version 'v1.1' found.
+[2025.09.01-13.22.24:117][ 93]LogMetaSound: Display: Auto-Updating '/Game/AncientContent/Audio/MetaSounds/sfx_Char_Echo_Foley_Cloth_Heavy_nl_meta.sfx_Char_Echo_Foley_Cloth_Heavy_nl_meta' node class 'UE.Wave Player.Stereo (v1.0)': Interface change detected.
+[2025.09.01-13.22.24:117][ 93]LogMetaSound: Display: Auto-Updating '/Game/AncientContent/Audio/MetaSounds/sfx_Char_Echo_Foley_Cloth_Heavy_nl_meta.sfx_Char_Echo_Foley_Cloth_Heavy_nl_meta' node class 'UE.RandomFloat': Newer version 'v1.1' found.
+[2025.09.01-13.22.24:117][ 93]LogMetaSound: Display: Auto-Updating '/Game/AncientContent/Audio/MetaSounds/sfx_Char_Echo_Foley_Cloth_Heavy_nl_meta.sfx_Char_Echo_Foley_Cloth_Heavy_nl_meta' node class 'UE.RandomFloat': Newer version 'v1.1' found.
+[2025.09.01-13.22.24:117][ 93]LogMetaSound: Display: Auto-Updating '/Game/AncientContent/Audio/MetaSounds/sfx_Char_Echo_Foley_Cloth_Heavy_nl_meta.sfx_Char_Echo_Foley_Cloth_Heavy_nl_meta' node class 'UE.Multiply.Audio by Float': Newer version 'v1.1' found.
+[2025.09.01-13.22.28:430][194]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.01-13.22.28:430][194]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Minimal_Default_2
+[2025.09.01-13.22.28:430][194]LogWorld: UWorld::CleanupWorld for Minimal_Default_2, bSessionEnded=true, bCleanupResources=true
+[2025.09.01-13.22.28:431][194]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.01-13.22.28:434][194]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.01-13.22.28:441][194]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.01-13.22.28:461][194]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.09.01-13.22.28:462][194]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2025.09.01-13.22.28:462][194]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2025.09.01-13.22.28:464][194]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2025.09.01-13.22.28:469][194]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.01-13.22.28:472][194]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2025.09.01-13.22.29:141][197]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2025.09.01-13.22.29:881][208]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2025.09.01-13.22.30:836][208]LogSlate: Window 'Save Content' being destroyed
+[2025.09.01-13.22.30:846][208]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.01-13.22.30:908][208]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Characters/ABP_Echo] ([2] browsable assets)...
+[2025.09.01-13.22.30:948][208]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Blueprints/Characters/ABP_Echo.ABP_Echo]
+[2025.09.01-13.22.30:948][208]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/ABP_Echo]
+[2025.09.01-13.22.30:979][208]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/ABP_Echo
+[2025.09.01-13.22.30:981][208]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/ABP_Echo6E4588F2420D38FF14BDB28397549C4E.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Characters/ABP_Echo.uasset'
+[2025.09.01-13.22.30:993][208]LogFileHelpers: InternalPromptForCheckoutAndSave took 146.977 ms (total: 901.528 ms)
+[2025.09.01-13.22.31:035][208]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.01-13.22.31:035][208]LogContentValidation: Enabled validators:
+[2025.09.01-13.22.31:035][208]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.01-13.22.31:035][208]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.01-13.22.31:035][208]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.01-13.22.31:035][208]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.01-13.22.31:035][208]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.01-13.22.31:035][208]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.01-13.22.31:035][208]AssetCheck: /Game/Blueprints/Characters/ABP_Echo Validating asset
+[2025.09.01-13.24.51:359][357]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2025.09.01-14.10.37:184][357]LogShaderCompilers: Warning: Distributed compilation controller didn't receive a completed task in 2744.477857 seconds!
+[2025.09.01-14.10.38:992][358]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.09.01-14.10.38:995][358]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=14612
+[2025.09.01-14.10.39:088][358]LogHttp: Warning: 00000B2C002E2300: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.09.01-14.10.39:088][358]LogHttp: Warning: 00000B2C002E2300: libcurl info message cache 0 (Too old connection (2786 seconds idle), disconnect it)
+[2025.09.01-14.10.39:088][358]LogHttp: Warning: 00000B2C002E2300: libcurl info message cache 1 (Connection 2 seems to be dead)
+[2025.09.01-14.10.39:088][358]LogHttp: Warning: 00000B2C002E2300: libcurl info message cache 2 (Closing connection)
+[2025.09.01-14.10.39:089][358]LogHttp: Warning: 00000B2C002E2300: libcurl info message cache 3 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.09.01-14.10.39:089][358]LogHttp: Warning: 00000B2C002E2300: libcurl info message cache 4 (Could not resolve host: datarouter.ol.epicgames.com)
+[2025.09.01-14.10.39:089][358]LogHttp: Warning: 00000B2C002E2300: libcurl info message cache 5 (Closing connection)
+[2025.09.01-14.10.39:091][358]LogEOSSDK: Warning: LogHttp: 00000B2BE6D7D800: invalid HTTP response code received. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7BCCA51BC6-45B5-3205-3E15-9A843D51FECE%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.16.4-36651368%20-%20%2B%2BEOSSDK%2BRelease-1.16.4-CL-36651368&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.09.01-14.10.39:091][358]LogEOSSDK: Warning: LogHttp: 00000B2BE6D7D800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.09.01-14.10.39:091][358]LogEOSSDK: Warning: LogHttp: 00000B2BE6D7D800: libcurl info message cache 0 (Too old connection (2786 seconds idle), disconnect it)
+[2025.09.01-14.10.39:091][358]LogEOSSDK: Warning: LogHttp: 00000B2BE6D7D800: libcurl info message cache 1 (Connection 12 seems to be dead)
+[2025.09.01-14.10.39:091][358]LogEOSSDK: Warning: LogHttp: 00000B2BE6D7D800: libcurl info message cache 2 (Closing connection)
+[2025.09.01-14.10.39:091][358]LogEOSSDK: Warning: LogHttp: 00000B2BE6D7D800: libcurl info message cache 3 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.09.01-14.10.39:091][358]LogEOSSDK: Warning: LogHttp: 00000B2BE6D7D800: libcurl info message cache 4 (Could not resolve host: api.epicgames.dev)
+[2025.09.01-14.10.39:091][359]LogEOSSDK: Warning: LogHttp: 00000B2BE6D7D800: libcurl info message cache 5 (Closing connection)
+[2025.09.01-14.10.39:092][359]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7BCCA51BC6-45B5-3205-3E15-9A843D51FECE%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.16.4-36651368%20-%20%2B%2BEOSSDK%2BRelease-1.16.4-CL-36651368&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2025.09.01-14.10.39:187][361]LogEOSSDK: Warning: LogHttp: 00000B2BE6D75400: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.09.01-14.10.39:187][362]LogEOSSDK: Warning: LogHttp: 00000B2BE6D75400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.09.01-14.10.39:187][362]LogEOSSDK: Warning: LogHttp: 00000B2BE6D75400: libcurl info message cache 0 (Could not resolve host: api.epicgames.dev)
+[2025.09.01-14.10.39:187][362]LogEOSSDK: Warning: LogHttp: 00000B2BE6D75400: libcurl info message cache 1 (Closing connection)
+[2025.09.01-14.10.39:187][362]LogEOSSDK: Warning: LogHttp: 00000B2BE6D76C00: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=8709B7E64B77EB15B71C3BA088173F44, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.09.01-14.10.39:187][362]LogEOSSDK: Warning: LogHttp: 00000B2BE6D76C00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.09.01-14.10.39:187][362]LogEOSSDK: Warning: LogHttp: 00000B2BE6D76C00: libcurl info message cache 0 (Found bundle for host: 0xb2bab080060 [serially])
+[2025.09.01-14.10.39:187][362]LogEOSSDK: Warning: LogHttp: 00000B2BE6D76C00: libcurl info message cache 1 (Could not resolve host: api.epicgames.dev)
+[2025.09.01-14.10.39:188][362]LogEOSSDK: Warning: LogHttp: 00000B2BE6D76C00: libcurl info message cache 2 (Closing connection)
+[2025.09.01-14.10.39:188][362]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.09.01-14.10.39:188][362]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=8709B7E64B77EB15B71C3BA088173F44
+[2025.09.01-14.10.39:544][366]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.09.01-14.10.39:551][366]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{58ea4715-9790-4598-9427-e0f8b9d39fd0}, Name=Altavoces (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=444.89
+[2025.09.01-14.10.39:551][366]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.09.01-14.10.39:558][366]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.09.01-14.10.47:237][374]LogEOSSDK: Warning: LogHttp: Retry 1 on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.09.01-14.10.47:237][374]LogEOSSDK: Warning: LogHttp: Retry 1 on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=8709B7E64B77EB15B71C3BA088173F44
+[2025.09.01-14.10.48:015][395]LogEOSSDK: Warning: LogHttp: Success on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.09.01-14.10.48:311][404]LogEOSSDK: Warning: LogHttp: Success on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=8709B7E64B77EB15B71C3BA088173F44
+[2025.09.01-14.11.05:171][908]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4374.263672
+[2025.09.01-14.11.05:406][915]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.01-14.11.05:406][915]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4374.463867, Update Interval: 341.351959
+[2025.09.01-14.17.36:054][624]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4765.140625
+[2025.09.01-14.17.36:289][631]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.01-14.17.36:289][632]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4765.341797, Update Interval: 345.422516
+[2025.09.01-14.24.03:595][983]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5152.673828
+[2025.09.01-14.24.04:001][995]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.01-14.24.04:001][995]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5153.052246, Update Interval: 357.357697
+[2025.09.01-14.24.40:637][995]LogSlate: Window 'ABP_Echo' being destroyed
+[2025.09.01-14.24.40:653][995]LogSlate: Window 'ABP_Echo' being destroyed
+[2025.09.01-14.24.40:690][995]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.09.01-14.24.40:690][995]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.01-14.24.40:752][995]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.09.01-14.24.40:753][995]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.01-14.24.40:854][995]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.09.01-14.24.40:854][995]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.01-14.24.40:904][995]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2025.09.01-14.24.51:013][247]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_14
+[2025.09.01-14.24.51:013][247]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_14'.
+[2025.09.01-14.24.54:036][288]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.09.01-14.24.54:048][288]LogContentBrowser: Creating deferred item: NewFolder
+[2025.09.01-14.24.54:075][289]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.09.01-14.24.57:791][400]LogContentBrowser: Attempting asset rename: NewFolder -> Rigs
+[2025.09.01-14.24.57:847][400]LogContentBrowser: End creating deferred item NewFolder
+[2025.09.01-14.25.10:554][618]LogEditorClassViewer: Warning: AssetRegistry Blueprint /Game/AncientContent/Blueprints/Abilities/GameplayAbilityUtils.GameplayAbilityUtils is missing tag value for GeneratedClass. Blueprint will not be available to ClassViewer when unloaded.
+[2025.09.01-14.25.10:584][618]LogEditorClassViewer: Warning: Class /Game/AncientContent/Blueprints/Character/BP_VaultingTriggerComponent.BP_VaultingTriggerComponent_C has parent /Script/AncientGame.AncientGameBoxComponentBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.09.01-14.25.10:584][618]LogEditorClassViewer: Warning: Class /Game/AncientContent/Blueprints/Character/BP_EchoCharacter.BP_EchoCharacter_C has parent /Script/ModularGameplayActors.ModularCharacter, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.09.01-14.25.10:584][618]LogEditorClassViewer: Warning: Class /Game/AncientContent/Blueprints/Camera/BP_ThirdPersonCameraMode.BP_ThirdPersonCameraMode_C has parent /Script/AncientGame.SpringArmCameraMode, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.09.01-14.25.10:584][618]LogEditorClassViewer: Warning: Class /Game/AncientContent/Blueprints/Abilities/GA_Vault.GA_Vault_C has parent /Script/GameplayAbilities.GameplayAbility, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.09.01-14.25.10:584][618]LogEditorClassViewer: Warning: Class /Game/AncientContent/Blueprints/Abilities/GA_SitStand.GA_SitStand_C has parent /Script/GameplayAbilities.GameplayAbility, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.09.01-14.25.10:584][618]LogEditorClassViewer: Warning: Class /Game/Clinic/Demo/FirstPersonBP/FirstPersonOverview.FirstPersonOverview_C has parent /Script/IntroTutorials.EditorTutorial, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.09.01-14.25.10:584][618]LogEditorClassViewer: Warning: Class /Game/AncientContent/Characters/Echo/Echo_AnimBP.Echo_AnimBP_C has parent /Script/AncientGame.AncientGameAnimInstance, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.09.01-14.25.18:779][618]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.09.01-14.25.18:869][618]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.09.01-14.25.18:884][618]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.09.01-14.25.18:949][620]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.09.01-14.25.32:568][ 29]LogContentBrowser: Attempting asset rename: NewBlueprint -> CR_EchoFootIK
+[2025.09.01-14.25.32:640][ 29]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.09.01-14.25.36:086][108]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Characters/Rigs/CR_EchoFootIK.CR_EchoFootIK
+[2025.09.01-14.25.36:089][108]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_15
+[2025.09.01-14.25.36:090][108]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_15'.
+[2025.09.01-14.25.44:481][291]LogSlate: Window 'CR_EchoFootIK' being destroyed
+[2025.09.01-14.25.44:680][291]LogSlate: Window 'CR_EchoFootIK' being destroyed
+[2025.09.01-14.25.44:688][291]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2025.09.01-14.25.44:688][291]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.01-14.25.44:791][291]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2025.09.01-14.26.09:229][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2025.09.01-14.26.09:230][ 18]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Minimal_Default_2' took 0.028
+[2025.09.01-14.26.09:232][ 18]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/Rigs/CR_EchoFootIK] ([2] browsable assets)...
+[2025.09.01-14.26.09:233][ 18]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/Rigs/CR_EchoFootIK]
+[2025.09.01-14.26.09:237][ 18]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Characters/Rigs/CR_EchoFootIK_Auto1
+[2025.09.01-14.26.09:237][ 18]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/CR_EchoFootIK_Auto12E1760F646101C8DAEAA56893B332BD7.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Autosaves/Game/Blueprints/Characters/Rigs/CR_EchoFootIK_Auto1.uasset'
+[2025.09.01-14.26.09:238][ 18]LogFileHelpers: Auto-saving content packages took 0.008
+[2025.09.01-14.26.19:445][316]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Characters/Rigs/CR_EchoFootIK.CR_EchoFootIK
+[2025.09.01-14.26.19:448][316]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_16
+[2025.09.01-14.26.19:449][316]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_16'.
+[2025.09.01-14.26.21:940][344]LogSlate: Window 'CR_EchoFootIK' being destroyed
+[2025.09.01-14.26.22:093][344]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2025.09.01-14.26.22:093][344]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.01-14.26.22:129][344]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Characters/Rigs/CR_EchoFootIK.CR_EchoFootIK
+[2025.09.01-14.26.22:129][344]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_17
+[2025.09.01-14.26.22:129][344]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_17'.
+[2025.09.01-14.26.22:581][344]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2025.09.01-14.26.29:690][501]LogSlate: Window 'CR_EchoFootIK' being destroyed
+[2025.09.01-14.26.29:754][501]LogSlate: Window 'CR_EchoFootIK' being destroyed
+[2025.09.01-14.26.29:760][501]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2025.09.01-14.26.29:760][501]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.01-14.26.29:836][501]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2025.09.01-14.26.37:366][677]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2025.09.01-14.26.38:772][677]LogSlate: Window 'Delete Assets' being destroyed
+[2025.09.01-14.26.38:920][677]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2025.09.01-14.26.38:949][677]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2025.09.01-14.26.38:977][677]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.09.01-14.26.56:163][847]LogEditorClassViewer: Warning: AssetRegistry Blueprint /Game/AncientContent/Blueprints/Abilities/GameplayAbilityUtils.GameplayAbilityUtils is missing tag value for GeneratedClass. Blueprint will not be available to ClassViewer when unloaded.
+[2025.09.01-14.26.56:196][847]LogEditorClassViewer: Warning: Class /Game/AncientContent/Blueprints/Character/BP_VaultingTriggerComponent.BP_VaultingTriggerComponent_C has parent /Script/AncientGame.AncientGameBoxComponentBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.09.01-14.26.56:196][847]LogEditorClassViewer: Warning: Class /Game/AncientContent/Blueprints/Character/BP_EchoCharacter.BP_EchoCharacter_C has parent /Script/ModularGameplayActors.ModularCharacter, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.09.01-14.26.56:196][847]LogEditorClassViewer: Warning: Class /Game/AncientContent/Blueprints/Camera/BP_ThirdPersonCameraMode.BP_ThirdPersonCameraMode_C has parent /Script/AncientGame.SpringArmCameraMode, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.09.01-14.26.56:196][847]LogEditorClassViewer: Warning: Class /Game/AncientContent/Blueprints/Abilities/GA_Vault.GA_Vault_C has parent /Script/GameplayAbilities.GameplayAbility, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.09.01-14.26.56:196][847]LogEditorClassViewer: Warning: Class /Game/AncientContent/Blueprints/Abilities/GA_SitStand.GA_SitStand_C has parent /Script/GameplayAbilities.GameplayAbility, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.09.01-14.26.56:196][847]LogEditorClassViewer: Warning: Class /Game/Clinic/Demo/FirstPersonBP/FirstPersonOverview.FirstPersonOverview_C has parent /Script/IntroTutorials.EditorTutorial, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.09.01-14.26.56:196][847]LogEditorClassViewer: Warning: Class /Game/AncientContent/Characters/Echo/Echo_AnimBP.Echo_AnimBP_C has parent /Script/AncientGame.AncientGameAnimInstance, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.09.01-14.26.59:757][847]LogSlate: Window 'Create Control Rig Blueprint' being destroyed
+[2025.09.01-14.26.59:810][847]LogContentBrowser: Deferred new asset file creation: NewControlRigBlueprint
+[2025.09.01-14.26.59:822][847]LogContentBrowser: Creating deferred item: NewControlRigBlueprint
+[2025.09.01-14.26.59:873][849]LogContentBrowser: Renaming the item being created (Deferred Item: NewControlRigBlueprint).
+[2025.09.01-14.27.08:468][102]LogContentBrowser: Attempting asset rename: NewControlRigBlueprint -> CR_EchoFootIK
+[2025.09.01-14.27.08:544][102]LogContentBrowser: End creating deferred item NewControlRigBlueprint
+[2025.09.01-14.27.08:547][102]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_18
+[2025.09.01-14.27.08:547][102]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_18'.
+[2025.09.01-14.27.11:074][164]LogAssetEditorSubsystem: Opening Asset editor for ControlRigBlueprint /Game/Blueprints/Characters/Rigs/CR_EchoFootIK.CR_EchoFootIK
+[2025.09.01-14.27.11:075][164]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_19
+[2025.09.01-14.27.11:076][164]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_19'.
+[2025.09.01-14.27.11:356][164]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_20
+[2025.09.01-14.27.11:356][164]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_20'.
+[2025.09.01-14.27.11:538][164]LogStreaming: Display: FlushAsyncLoading(519): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.01-14.27.11:606][164]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2025.09.01-14.27.12:252][164]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SGraphPanel [SGraphEditorImpl.cpp(734)].
+[2025.09.01-14.27.54:739][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2025.09.01-14.27.55:747][ 37]LogSlate: Window 'Save Content' being destroyed
+[2025.09.01-14.27.55:782][ 37]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.01-14.27.55:841][ 37]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Characters/Rigs/CR_EchoFootIK] ([2] browsable assets)...
+[2025.09.01-14.27.55:870][ 37]OBJ SavePackage:     Rendered thumbnail for [ControlRigBlueprint /Game/Blueprints/Characters/Rigs/CR_EchoFootIK.CR_EchoFootIK]
+[2025.09.01-14.27.55:870][ 37]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/Rigs/CR_EchoFootIK]
+[2025.09.01-14.27.55:876][ 37]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/Rigs/CR_EchoFootIK
+[2025.09.01-14.27.55:876][ 37]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/CR_EchoFootIK967046B2413E4B6810D9A698E62AD85D.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Characters/Rigs/CR_EchoFootIK.uasset'
+[2025.09.01-14.27.55:973][ 37]LogFileHelpers: InternalPromptForCheckoutAndSave took 190.396 ms (total: 1.09 sec)
+[2025.09.01-14.27.56:044][ 37]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.01-14.27.56:044][ 37]LogContentValidation: Enabled validators:
+[2025.09.01-14.27.56:044][ 37]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.01-14.27.56:044][ 37]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.01-14.27.56:044][ 37]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.01-14.27.56:044][ 37]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.01-14.27.56:044][ 37]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.01-14.27.56:044][ 37]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.01-14.27.56:044][ 37]AssetCheck: /Game/Blueprints/Characters/Rigs/CR_EchoFootIK Validating asset
