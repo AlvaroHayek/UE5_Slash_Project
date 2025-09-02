@@ -1451,3 +1451,41 @@ Skipped package /AudioModulation/Volume was expected to be found in plugin Audio
 [2025.09.02-00.13.34:757][340]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.09.02-00.13.34:757][340]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.09.02-00.13.34:757][340]AssetCheck: /Game/Blueprints/Items/BP_Item Validating asset
+[2025.09.02-00.13.51:332][806]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2025.09.02-00.13.54:250][831]LogDerivedDataCache: C:/Users/Usuario/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.09.02-00.14.28:199][761]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2025.09.02-00.14.29:101][761]LogSlate: Window 'Save Content' being destroyed
+[2025.09.02-00.14.29:136][761]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.02-00.14.29:197][761]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Items/BP_Item] ([2] browsable assets)...
+[2025.09.02-00.14.29:323][761]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Items/BP_Item.BP_Item]
+[2025.09.02-00.14.29:323][761]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Items/BP_Item]
+[2025.09.02-00.14.29:334][761]LogSavePackage: Moving output files for package: /Game/Blueprints/Items/BP_Item
+[2025.09.02-00.14.29:335][761]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/BP_Item064F0C8A46AE7DC83280428BE8544124.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Items/BP_Item.uasset'
+[2025.09.02-00.14.29:367][761]LogFileHelpers: InternalPromptForCheckoutAndSave took 230.586 ms (total: 525.048 ms)
+[2025.09.02-00.14.29:413][761]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.02-00.14.29:413][761]LogContentValidation: Enabled validators:
+[2025.09.02-00.14.29:413][761]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.02-00.14.29:413][761]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.02-00.14.29:413][761]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.02-00.14.29:413][761]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.02-00.14.29:413][761]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.02-00.14.29:413][761]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.02-00.14.29:414][761]AssetCheck: /Game/Blueprints/Items/BP_Item Validating asset
+[2025.09.02-00.14.42:843][ 27]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.09.02-00.14.42:855][ 27]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.09.02-00.14.46:333][ 28]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.09.02-00.14.46:343][ 28]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.09.02-00.14.46:358][ 28]LogAutomationController: Ignoring very large delta of 3.49 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.09.02-00.14.46:363][ 29]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.09.02-00.14.46:372][ 29]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.09.02-00.14.59:477][ 30]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.09.02-00.15.08:817][ 30]LogAutomationController: Ignoring very large delta of 22.43 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.09.02-00.18.03:156][190]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 339.476929
+[2025.09.02-00.18.03:403][198]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.02-00.18.03:404][198]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 339.743469, Update Interval: 355.733521
+[2025.09.02-00.24.01:703][905]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 698.082214
+[2025.09.02-00.24.01:941][912]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.02-00.24.01:941][913]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 698.283875, Update Interval: 336.136963
+[2025.09.02-00.29.44:129][145]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1040.504028
+[2025.09.02-00.29.45:031][172]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.02-00.29.45:032][173]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1041.374268, Update Interval: 316.870026

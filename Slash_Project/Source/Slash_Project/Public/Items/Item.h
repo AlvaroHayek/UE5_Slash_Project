@@ -6,6 +6,8 @@
 #include "GameFramework/Actor.h"
 #include "Item.generated.h"
 
+class USphereComponent;
+
 UCLASS()
 class SLASH_PROJECT_API AItem : public AActor
 {
@@ -38,6 +40,9 @@ private:
 	
 	UPROPERTY(VisibleAnywhere)
 	UStaticMeshComponent* ItemMesh;
+
+	UPROPERTY(VisibleAnywhere)
+	USphereComponent* Sphere;
 };
 
 template<typename T>
