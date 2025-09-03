@@ -18,6 +18,7 @@ struct FHitResult;
 #define SLASH_PROJECT_Item_generated_h
 
 #define FID_Users_Usuario_Desktop_UnrealEngineUnity_UE5_Slash_Project_Slash_Project_Source_Slash_Project_Public_Items_Item_h_14_RPC_WRAPPERS_NO_PURE_DECLS \
+	DECLARE_FUNCTION(execOnSphereEndOverlap); \
 	DECLARE_FUNCTION(execOnSphereOverlap); \
 	DECLARE_FUNCTION(execTransformedCos); \
 	DECLARE_FUNCTION(execTransformedSin);
