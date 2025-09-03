@@ -65,6 +65,12 @@
     <ClCompile Include="..\..\Source\Slash_Project\Private\Items\Item.cpp">
       <Filter>Source\Slash_Project\Private\Items</Filter>
     </ClCompile>
+    <Filter Include="Source\Slash_Project\Private\Items\Weapons">
+      <UniqueIdentifier>{4DC60201-3F28-3EB8-AE13-D113ECCF3F02}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Slash_Project\Private\Items\Weapons\Weapon.cpp">
+      <Filter>Source\Slash_Project\Private\Items\Weapons</Filter>
+    </ClCompile>
     <Filter Include="Source\Slash_Project\Private\Pawns">
       <UniqueIdentifier>{50DF1310-4A8B-35D2-8DDA-B3ECF89C8DC3}</UniqueIdentifier>
     </Filter>
@@ -88,6 +94,12 @@
     </Filter>
     <ClCompile Include="..\..\Source\Slash_Project\Public\Items\Item.h">
       <Filter>Source\Slash_Project\Public\Items</Filter>
+    </ClCompile>
+    <Filter Include="Source\Slash_Project\Public\Items\Weapons">
+      <UniqueIdentifier>{D8BC9AD7-8C05-34FA-834A-24900544286B}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Slash_Project\Public\Items\Weapons\Weapon.h">
+      <Filter>Source\Slash_Project\Public\Items\Weapons</Filter>
     </ClCompile>
     <Filter Include="Source\Slash_Project\Public\Pawns">
       <UniqueIdentifier>{A896E7D2-938F-347F-80FB-1ED651ADE5F0}</UniqueIdentifier>
