@@ -2328,3 +2328,94 @@ Skipped package /AudioModulation/Volume was expected to be found in plugin Audio
 [2025.09.03-21.37.38:539][446]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15003.021484
 [2025.09.03-21.37.38:774][453]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.09.03-21.37.38:774][453]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15003.222656, Update Interval: 348.868683
+[2025.09.03-21.40.55:237][201]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.09.03-21.40.55:322][201]LogContentBrowser: Creating deferred item: NewFolder
+[2025.09.03-21.40.55:425][202]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.09.03-21.40.58:130][248]LogContentBrowser: Attempting asset rename: NewFolder -> Rigs
+[2025.09.03-21.40.58:131][248]LogContentBrowser: End creating deferred item NewFolder
+[2025.09.03-21.42.21:414][934]LogContentBrowser: Deferred new asset file creation: IK_NewIKRig
+[2025.09.03-21.42.21:430][934]LogContentBrowser: Creating deferred item: IK_NewIKRig
+[2025.09.03-21.42.21:503][936]LogContentBrowser: Renaming the item being created (Deferred Item: IK_NewIKRig).
+[2025.09.03-21.42.34:045][234]LogContentBrowser: Attempting asset rename: IK_NewIKRig -> IK_NewIKRig
+[2025.09.03-21.42.34:102][234]LogContentBrowser: End creating deferred item IK_NewIKRig
+[2025.09.03-21.42.45:183][455]LogContentBrowser: Attempting asset rename: IK_NewIKRig -> IK_T-pose
+[2025.09.03-21.42.45:420][455]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.03-21.42.45:421][455]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AncientContent/Characters/Echo/Mixamo_Animations/Rigs/IK_T-pose] ([1] browsable assets)...
+[2025.09.03-21.42.45:421][455]OBJ SavePackage: Finished generating thumbnails for package [/Game/AncientContent/Characters/Echo/Mixamo_Animations/Rigs/IK_T-pose]
+[2025.09.03-21.42.45:425][455]LogSavePackage: Moving output files for package: /Game/AncientContent/Characters/Echo/Mixamo_Animations/Rigs/IK_T-pose
+[2025.09.03-21.42.45:425][455]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/IK_T-poseACD24A5641F64FAAE0E11CB2CADD3E49.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/AncientContent/Characters/Echo/Mixamo_Animations/Rigs/IK_T-pose.uasset'
+[2025.09.03-21.42.45:428][455]LogFileHelpers: InternalPromptForCheckoutAndSave took 8.197 ms (total: 1.67 sec)
+[2025.09.03-21.42.45:488][455]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2025.09.03-21.42.45:522][455]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2025.09.03-21.42.45:553][455]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.09.03-21.42.45:660][455]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.03-21.42.45:661][455]LogContentValidation: Enabled validators:
+[2025.09.03-21.42.45:661][455]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.03-21.42.45:661][455]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.03-21.42.45:661][455]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.03-21.42.45:662][455]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.03-21.42.45:662][455]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.03-21.42.45:662][455]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.03-21.42.45:662][455]AssetCheck: /Game/AncientContent/Characters/Echo/Mixamo_Animations/Rigs/IK_T-pose Validating asset
+[2025.09.03-21.43.17:345][135]LogAssetEditorSubsystem: Opening Asset editor for IKRigDefinition /Game/AncientContent/Characters/Echo/Mixamo_Animations/Rigs/IK_T-pose.IK_T-pose
+[2025.09.03-21.43.17:377][135]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_25
+[2025.09.03-21.43.17:421][135]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_25'.
+[2025.09.03-21.43.29:345][296]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SkeletalMesh_64.svg'. File could not be found
+[2025.09.03-21.43.29:989][306]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_26
+[2025.09.03-21.43.29:990][306]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_26'.
+[2025.09.03-21.43.34:913][367]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.03-21.43.34:944][367]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_27
+[2025.09.03-21.43.34:945][367]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_27'.
+[2025.09.03-21.44.18:488][518]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15402.924805
+[2025.09.03-21.44.18:771][526]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.03-21.44.18:771][526]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15403.176758, Update Interval: 315.066376
+[2025.09.03-21.46.27:597][548]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2025.09.03-21.49.07:519][150]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2025.09.03-21.50.22:789][317]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15765.099609
+[2025.09.03-21.50.23:156][328]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.03-21.50.23:156][328]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15765.433594, Update Interval: 328.189941
+[2025.09.03-21.51.14:396][537]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2025.09.03-21.51.30:031][719]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2025.09.03-21.52.35:893][537]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2025.09.03-21.52.50:353][770]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2025.09.03-21.53.10:013][ 74]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2025.09.03-21.54.59:305][160]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2025.09.03-21.54.59:308][160]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Minimal_Default_2' took 0.074
+[2025.09.03-21.54.59:310][160]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AncientContent/Characters/Echo/Mixamo_Animations/Rigs/IK_T-pose] ([1] browsable assets)...
+[2025.09.03-21.54.59:325][160]OBJ SavePackage:     Rendered thumbnail for [IKRigDefinition /Game/AncientContent/Characters/Echo/Mixamo_Animations/Rigs/IK_T-pose.IK_T-pose]
+[2025.09.03-21.54.59:325][160]OBJ SavePackage: Finished generating thumbnails for package [/Game/AncientContent/Characters/Echo/Mixamo_Animations/Rigs/IK_T-pose]
+[2025.09.03-21.54.59:341][160]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AncientContent/Characters/Echo/Mixamo_Animations/Rigs/IK_T-pose_Auto2
+[2025.09.03-21.54.59:341][160]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/IK_T-pose_Auto2692D625E4C3C07E9900061883E847F85.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Autosaves/Game/AncientContent/Characters/Echo/Mixamo_Animations/Rigs/IK_T-pose_Auto2.uasset'
+[2025.09.03-21.54.59:344][160]LogFileHelpers: Auto-saving content packages took 0.036
+[2025.09.03-21.55.16:340][311]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2025.09.03-21.55.35:010][532]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2025.09.03-21.56.51:707][543]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2025.09.03-21.56.52:245][543]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16154.534180
+[2025.09.03-21.56.52:683][547]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.03-21.56.52:683][547]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16154.819336, Update Interval: 347.978760
+[2025.09.03-21.57.03:587][659]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2025.09.03-21.57.16:266][792]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2025.09.03-21.57.38:751][173]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2025.09.03-21.57.59:144][519]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2025.09.03-21.58.10:963][627]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2025.09.03-21.58.24:742][802]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2025.09.03-21.58.35:199][890]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2025.09.03-22.01.10:942][275]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2025.09.03-22.01.17:067][394]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2025.09.03-22.02.27:633][480]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.09.03-22.02.28:656][480]LogSlate: Window 'Save Content' being destroyed
+[2025.09.03-22.02.28:667][480]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.03-22.02.28:704][480]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AncientContent/Characters/Echo/Mixamo_Animations/Rigs/IK_T-pose] ([1] browsable assets)...
+[2025.09.03-22.02.28:704][480]OBJ SavePackage: Finished generating thumbnails for package [/Game/AncientContent/Characters/Echo/Mixamo_Animations/Rigs/IK_T-pose]
+[2025.09.03-22.02.28:716][480]LogSavePackage: Moving output files for package: /Game/AncientContent/Characters/Echo/Mixamo_Animations/Rigs/IK_T-pose
+[2025.09.03-22.02.28:717][480]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/IK_T-poseFF4A13AE4FCFA3535E7479B9225821AF.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/AncientContent/Characters/Echo/Mixamo_Animations/Rigs/IK_T-pose.uasset'
+[2025.09.03-22.02.28:729][480]LogFileHelpers: InternalPromptForCheckoutAndSave took 61.944 ms (total: 1.73 sec)
+[2025.09.03-22.02.28:764][480]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.03-22.02.28:764][480]LogContentValidation: Enabled validators:
+[2025.09.03-22.02.28:764][480]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.03-22.02.28:764][480]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.03-22.02.28:764][480]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.03-22.02.28:764][480]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.03-22.02.28:764][480]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.03-22.02.28:764][480]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.03-22.02.28:764][480]AssetCheck: /Game/AncientContent/Characters/Echo/Mixamo_Animations/Rigs/IK_T-pose Validating asset
