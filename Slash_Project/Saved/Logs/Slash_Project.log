@@ -2419,3 +2419,205 @@ Skipped package /AudioModulation/Volume was expected to be found in plugin Audio
 [2025.09.03-22.02.28:764][480]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.09.03-22.02.28:764][480]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.09.03-22.02.28:764][480]AssetCheck: /Game/AncientContent/Characters/Echo/Mixamo_Animations/Rigs/IK_T-pose Validating asset
+[2025.09.03-22.03.14:394][846]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16536.660156
+[2025.09.03-22.03.14:626][853]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.03-22.03.14:626][854]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16536.859375, Update Interval: 304.099854
+[2025.09.03-22.03.54:672][887]LogAssetEditorSubsystem: Opening Asset editor for ControlRigBlueprint /Game/AncientContent/Characters/Echo/Rig/Echo_Twist_CtrlRig.Echo_Twist_CtrlRig
+[2025.09.03-22.03.54:676][887]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_28
+[2025.09.03-22.03.54:677][887]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_28'.
+[2025.09.03-22.03.54:903][887]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_29
+[2025.09.03-22.03.54:908][887]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_29'.
+[2025.09.03-22.03.54:965][887]LogStreaming: Display: FlushAsyncLoading(551): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.03-22.03.55:033][887]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'ControlRigSkeletalMeshComponent_0' with 'Echo'
+[2025.09.03-22.03.55:053][887]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.ControlRigSkeletalMeshComponent_0) Already registered. Aborting.
+[2025.09.03-22.03.55:060][887]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.ControlRigSkeletalMeshComponent_0) Already registered. Aborting.
+[2025.09.03-22.03.55:661][887]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2025.09.03-22.03.56:407][887]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SGraphPanel [SGraphEditorImpl.cpp(734)].
+[2025.09.03-22.04.03:517][963]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2025.09.03-22.04.07:117][ 27]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2025.09.03-22.04.07:123][ 27]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.03-22.04.07:178][ 27]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2025.09.03-22.04.07:179][ 27]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.03-22.04.07:704][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2025.09.03-22.04.11:411][ 78]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2025.09.03-22.04.11:411][ 78]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.03-22.04.11:772][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2025.09.03-22.04.14:057][124]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.09.03-22.04.14:057][124]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.03-22.04.14:288][124]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.09.03-22.04.14:777][138]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.09.03-22.04.14:777][138]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.09.03-22.04.14:777][138]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.03-22.04.15:029][138]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.09.03-22.04.15:575][146]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2025.09.03-22.04.15:576][146]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.03-22.04.15:698][146]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2025.09.03-22.04.16:470][161]LogSlate: Window 'IK_T-pose' being destroyed
+[2025.09.03-22.04.16:585][161]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2025.09.03-22.04.16:585][161]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.03-22.04.16:681][161]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2025.09.03-22.04.45:714][706]LogAssetEditorSubsystem: Opening Asset editor for ControlRigBlueprint /Game/AncientContent/Characters/Echo/Rig/Echo_Twist_CtrlRig.Echo_Twist_CtrlRig
+[2025.09.03-22.04.45:715][706]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_30
+[2025.09.03-22.04.45:716][706]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_30'.
+[2025.09.03-22.04.45:828][706]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_31
+[2025.09.03-22.04.45:829][706]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_31'.
+[2025.09.03-22.04.45:879][706]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'ControlRigSkeletalMeshComponent_0' with 'Echo'
+[2025.09.03-22.04.45:881][706]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_31:PersistentLevel.AnimationEditorPreviewActor_0.ControlRigSkeletalMeshComponent_0) Already registered. Aborting.
+[2025.09.03-22.04.45:883][706]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_31:PersistentLevel.AnimationEditorPreviewActor_0.ControlRigSkeletalMeshComponent_0) Already registered. Aborting.
+[2025.09.03-22.04.46:110][706]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2025.09.03-22.04.46:587][706]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SGraphPanel [SGraphEditorImpl.cpp(734)].
+[2025.09.03-22.04.51:027][761]LogSlate: Window 'Echo_Twist_CtrlRig' being destroyed
+[2025.09.03-22.04.51:123][761]LogSlate: Window 'Echo_Twist_CtrlRig' being destroyed
+[2025.09.03-22.04.51:131][761]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2025.09.03-22.04.51:132][761]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.03-22.04.51:174][761]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2025.09.03-22.04.51:174][761]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.03-22.04.51:497][761]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2025.09.03-22.05.46:840][350]LogContentBrowser: Deferred new asset file creation: IK_NewIKRig
+[2025.09.03-22.05.46:852][350]LogContentBrowser: Creating deferred item: IK_NewIKRig
+[2025.09.03-22.05.46:877][351]LogContentBrowser: Renaming the item being created (Deferred Item: IK_NewIKRig).
+[2025.09.03-22.05.50:328][442]LogContentBrowser: End creating deferred item IK_NewIKRig
+[2025.09.03-22.06.01:140][737]LogContentBrowser: Attempting asset rename: IK_NewIKRig -> IK_Echo
+[2025.09.03-22.06.01:273][737]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.03-22.06.01:273][737]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AncientContent/Characters/Echo/Rig/IK_Echo] ([1] browsable assets)...
+[2025.09.03-22.06.01:273][737]OBJ SavePackage: Finished generating thumbnails for package [/Game/AncientContent/Characters/Echo/Rig/IK_Echo]
+[2025.09.03-22.06.01:274][737]LogSavePackage: Moving output files for package: /Game/AncientContent/Characters/Echo/Rig/IK_Echo
+[2025.09.03-22.06.01:274][737]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/IK_Echo4A2A4F4440DDA95B0EA1118722AADA62.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/AncientContent/Characters/Echo/Rig/IK_Echo.uasset'
+[2025.09.03-22.06.01:276][737]LogFileHelpers: InternalPromptForCheckoutAndSave took 3.274 ms (total: 1.73 sec)
+[2025.09.03-22.06.01:380][737]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.09.03-22.06.01:410][737]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2025.09.03-22.06.01:431][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2025.09.03-22.06.01:478][737]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.03-22.06.01:479][737]LogContentValidation: Enabled validators:
+[2025.09.03-22.06.01:479][737]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.03-22.06.01:479][737]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.03-22.06.01:479][737]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.03-22.06.01:479][737]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.03-22.06.01:479][737]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.03-22.06.01:479][737]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.03-22.06.01:479][737]AssetCheck: /Game/AncientContent/Characters/Echo/Rig/IK_Echo Validating asset
+[2025.09.03-22.06.05:540][858]LogAssetEditorSubsystem: Opening Asset editor for IKRigDefinition /Game/AncientContent/Characters/Echo/Rig/IK_Echo.IK_Echo
+[2025.09.03-22.06.05:542][858]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_32
+[2025.09.03-22.06.05:542][858]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_32'.
+[2025.09.03-22.06.13:784][ 53]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'DebugSkelMeshComponent_0' with 'Echo'
+[2025.09.03-22.06.13:788][ 53]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_32:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.03-22.06.13:798][ 53]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_33
+[2025.09.03-22.06.13:798][ 53]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_33'.
+[2025.09.03-22.07.37:947][541]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2025.09.03-22.07.37:951][541]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Minimal_Default_2' took 0.037
+[2025.09.03-22.07.37:951][541]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AncientContent/Characters/Echo/Rig/IK_Echo] ([1] browsable assets)...
+[2025.09.03-22.07.37:976][541]OBJ SavePackage:     Rendered thumbnail for [IKRigDefinition /Game/AncientContent/Characters/Echo/Rig/IK_Echo.IK_Echo]
+[2025.09.03-22.07.37:976][541]OBJ SavePackage: Finished generating thumbnails for package [/Game/AncientContent/Characters/Echo/Rig/IK_Echo]
+[2025.09.03-22.07.37:987][541]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AncientContent/Characters/Echo/Rig/IK_Echo_Auto3
+[2025.09.03-22.07.37:988][541]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/IK_Echo_Auto30D84D3BF4BEC0A613BC20DB0A87A77BF.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Autosaves/Game/AncientContent/Characters/Echo/Rig/IK_Echo_Auto3.uasset'
+[2025.09.03-22.07.37:989][541]LogFileHelpers: Auto-saving content packages took 0.038
+[2025.09.03-22.07.54:123][943]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2025.09.03-22.09.02:689][868]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16884.855469
+[2025.09.03-22.09.02:920][875]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.03-22.09.02:920][876]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16885.054688, Update Interval: 314.086731
+[2025.09.03-22.09.15:440][162]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2025.09.03-22.10.09:198][494]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2025.09.03-22.10.10:598][515]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.09.03-22.10.11:638][515]LogSlate: Window 'Save Content' being destroyed
+[2025.09.03-22.10.11:647][515]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.03-22.10.11:676][515]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AncientContent/Characters/Echo/Rig/IK_Echo] ([1] browsable assets)...
+[2025.09.03-22.10.11:676][515]OBJ SavePackage: Finished generating thumbnails for package [/Game/AncientContent/Characters/Echo/Rig/IK_Echo]
+[2025.09.03-22.10.11:688][515]LogSavePackage: Moving output files for package: /Game/AncientContent/Characters/Echo/Rig/IK_Echo
+[2025.09.03-22.10.11:689][515]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/IK_Echo62096B264FC31324CF441BB81D88F49D.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/AncientContent/Characters/Echo/Rig/IK_Echo.uasset'
+[2025.09.03-22.10.11:701][515]LogFileHelpers: InternalPromptForCheckoutAndSave took 54.990 ms (total: 1.79 sec)
+[2025.09.03-22.10.11:735][515]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.03-22.10.11:735][515]LogContentValidation: Enabled validators:
+[2025.09.03-22.10.11:735][515]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.03-22.10.11:735][515]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.03-22.10.11:735][515]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.03-22.10.11:735][515]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.03-22.10.11:735][515]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.03-22.10.11:735][515]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.03-22.10.11:735][515]AssetCheck: /Game/AncientContent/Characters/Echo/Rig/IK_Echo Validating asset
+[2025.09.03-22.11.54:075][238]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2025.09.03-22.12.07:928][385]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2025.09.03-22.14.59:663][503]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17241.732422
+[2025.09.03-22.14.59:932][511]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.03-22.14.59:932][512]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17241.964844, Update Interval: 300.216064
+[2025.09.03-22.16.43:038][303]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2025.09.03-22.17.16:366][114]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2025.09.03-22.18.10:127][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.09.03-22.18.11:444][ 61]LogSlate: Window 'Save Content' being destroyed
+[2025.09.03-22.18.11:456][ 61]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.03-22.18.11:485][ 61]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AncientContent/Characters/Echo/Rig/IK_Echo] ([1] browsable assets)...
+[2025.09.03-22.18.11:485][ 61]OBJ SavePackage: Finished generating thumbnails for package [/Game/AncientContent/Characters/Echo/Rig/IK_Echo]
+[2025.09.03-22.18.11:496][ 61]LogSavePackage: Moving output files for package: /Game/AncientContent/Characters/Echo/Rig/IK_Echo
+[2025.09.03-22.18.11:498][ 61]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/IK_EchoA4264A164138ACE6EB9D329C710DC5CD.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/AncientContent/Characters/Echo/Rig/IK_Echo.uasset'
+[2025.09.03-22.18.11:512][ 61]LogFileHelpers: InternalPromptForCheckoutAndSave took 56.593 ms (total: 1.84 sec)
+[2025.09.03-22.18.11:551][ 61]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.03-22.18.11:551][ 61]LogContentValidation: Enabled validators:
+[2025.09.03-22.18.11:551][ 61]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.03-22.18.11:552][ 61]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.03-22.18.11:552][ 61]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.03-22.18.11:552][ 61]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.03-22.18.11:552][ 61]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.03-22.18.11:552][ 61]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.03-22.18.11:552][ 61]AssetCheck: /Game/AncientContent/Characters/Echo/Rig/IK_Echo Validating asset
+[2025.09.03-22.20.43:817][359]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17585.826172
+[2025.09.03-22.20.44:052][366]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.03-22.20.44:052][366]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17586.025391, Update Interval: 312.909332
+[2025.09.03-22.22.01:024][673]LogDerivedDataCache: C:/Users/Usuario/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.09.03-22.24.15:428][450]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2025.09.03-22.24.26:481][597]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2025.09.03-22.24.34:229][688]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2025.09.03-22.24.40:614][765]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2025.09.03-22.24.46:972][838]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2025.09.03-22.24.54:920][938]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2025.09.03-22.25.28:302][453]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2025.09.03-22.25.33:943][568]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2025.09.03-22.25.39:120][672]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2025.09.03-22.25.45:441][805]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2025.09.03-22.25.49:937][900]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2025.09.03-22.25.54:682][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.09.03-22.25.55:851][ 33]LogSlate: Window 'Save Content' being destroyed
+[2025.09.03-22.25.55:863][ 33]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.03-22.25.55:896][ 33]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AncientContent/Characters/Echo/Rig/IK_Echo] ([1] browsable assets)...
+[2025.09.03-22.25.55:896][ 33]OBJ SavePackage: Finished generating thumbnails for package [/Game/AncientContent/Characters/Echo/Rig/IK_Echo]
+[2025.09.03-22.25.55:909][ 33]LogSavePackage: Moving output files for package: /Game/AncientContent/Characters/Echo/Rig/IK_Echo
+[2025.09.03-22.25.55:911][ 33]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/IK_EchoACCCC6564D4792B0EBE2CBA30FB5E660.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/AncientContent/Characters/Echo/Rig/IK_Echo.uasset'
+[2025.09.03-22.25.55:924][ 33]LogFileHelpers: InternalPromptForCheckoutAndSave took 60.397 ms (total: 1.90 sec)
+[2025.09.03-22.25.55:965][ 33]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.03-22.25.55:965][ 33]LogContentValidation: Enabled validators:
+[2025.09.03-22.25.55:965][ 33]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.03-22.25.55:965][ 33]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.03-22.25.55:965][ 33]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.03-22.25.55:965][ 33]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.03-22.25.55:965][ 33]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.03-22.25.55:966][ 33]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.03-22.25.55:966][ 33]AssetCheck: /Game/AncientContent/Characters/Echo/Rig/IK_Echo Validating asset
+[2025.09.03-22.26.44:723][493]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17946.660156
+[2025.09.03-22.26.44:958][500]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.03-22.26.44:958][500]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17946.859375, Update Interval: 348.222290
+[2025.09.03-22.27.21:035][450]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2025.09.03-22.27.23:708][450]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2025.09.03-22.27.25:476][450]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2025.09.03-22.28.37:405][521]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.09.03-22.28.37:407][521]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Minimal_Default_2' took 0.029
+[2025.09.03-22.28.37:408][521]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AncientContent/Characters/Echo/Rig/IK_Echo] ([1] browsable assets)...
+[2025.09.03-22.28.37:408][521]OBJ SavePackage: Finished generating thumbnails for package [/Game/AncientContent/Characters/Echo/Rig/IK_Echo]
+[2025.09.03-22.28.37:420][521]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AncientContent/Characters/Echo/Rig/IK_Echo_Auto4
+[2025.09.03-22.28.37:420][521]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/IK_Echo_Auto4610A4C06467983510B144EB54B9BF31C.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Autosaves/Game/AncientContent/Characters/Echo/Rig/IK_Echo_Auto4.uasset'
+[2025.09.03-22.28.37:421][521]LogFileHelpers: Auto-saving content packages took 0.014
+[2025.09.03-22.28.55:066][859]LogSlate: Window 'Add New Retarget Chain' being destroyed
+[2025.09.03-22.29.31:978][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.09.03-22.29.33:356][840]LogSlate: Window 'Save Content' being destroyed
+[2025.09.03-22.29.33:366][840]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.03-22.29.33:403][840]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AncientContent/Characters/Echo/Rig/IK_Echo] ([1] browsable assets)...
+[2025.09.03-22.29.33:403][840]OBJ SavePackage: Finished generating thumbnails for package [/Game/AncientContent/Characters/Echo/Rig/IK_Echo]
+[2025.09.03-22.29.33:418][840]LogSavePackage: Moving output files for package: /Game/AncientContent/Characters/Echo/Rig/IK_Echo
+[2025.09.03-22.29.33:419][840]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/IK_Echo88192A22435C45EB3F0127872439A333.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/AncientContent/Characters/Echo/Rig/IK_Echo.uasset'
+[2025.09.03-22.29.33:431][840]LogFileHelpers: InternalPromptForCheckoutAndSave took 65.967 ms (total: 1.97 sec)
+[2025.09.03-22.29.33:470][840]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.03-22.29.33:470][840]LogContentValidation: Enabled validators:
+[2025.09.03-22.29.33:470][840]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.03-22.29.33:470][840]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.03-22.29.33:470][840]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.03-22.29.33:470][840]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.03-22.29.33:470][840]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.03-22.29.33:470][840]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.03-22.29.33:471][840]AssetCheck: /Game/AncientContent/Characters/Echo/Rig/IK_Echo Validating asset
