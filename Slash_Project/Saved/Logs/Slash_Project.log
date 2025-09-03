@@ -1894,3 +1894,341 @@ Skipped package /AudioModulation/Volume was expected to be found in plugin Audio
 [2025.09.03-18.06.26:125][798]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
 [2025.09.03-18.06.26:138][798]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
 [2025.09.03-18.06.26:329][801]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2025.09.03-18.09.12:258][672]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2496.696777
+[2025.09.03-18.09.12:525][680]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.03-18.09.12:525][680]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2496.931152, Update Interval: 311.697144
+[2025.09.03-18.12.42:075][893]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.09.03-18.12.42:107][893]LogContentBrowser: Creating deferred item: NewFolder
+[2025.09.03-18.12.42:123][894]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.09.03-18.12.48:775][ 94]LogContentBrowser: Attempting asset rename: NewFolder -> Mixamo_Animations
+[2025.09.03-18.12.48:780][ 94]LogContentBrowser: End creating deferred item NewFolder
+[2025.09.03-18.15.11:037][351]LogStreaming: Display: FlushAsyncLoading(520): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.03-18.15.16:298][351]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Usuario/Downloads/T-Pose.fbx]
+[2025.09.03-18.15.16:557][351]LogInterchangePipeline: Warning: UInterchangeGenericAnimationPipeline: Cannot execute pre-import pipeline because importing animation only requires a valid skeleton.
+[2025.09.03-18.15.16:602][351]LogInterchangePipeline: Warning: UInterchangeGenericAnimationPipeline: Cannot execute pre-import pipeline because importing animation only requires a valid skeleton.
+[2025.09.03-18.15.21:403][351]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_14
+[2025.09.03-18.15.21:404][351]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_14'.
+[2025.09.03-18.15.26:635][351]LogSlate: Window 'Import Content' being destroyed
+[2025.09.03-18.15.26:697][351]LogInterchangeEngine: [Pending] Importing
+[2025.09.03-18.15.26:735][351]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2871.179443
+[2025.09.03-18.15.27:391][354]LogStreaming: Display: FlushAsyncLoading(530): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.03-18.15.27:394][354]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.03-18.15.27:394][354]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2871.802490, Update Interval: 310.911591
+[2025.09.03-18.15.27:430][355]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/AncientContent/Characters/Echo/Mixamo_Animations/T-Pose.T-Pose (Required Memory Estimate: 0.10 MB)
+[2025.09.03-18.15.27:444][355]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/AncientContent/Characters/Echo/Mixamo_Animations/T-Pose.T-Pose (Required Memory Estimate: 0.10 MB)
+[2025.09.03-18.15.27:448][355]LogAnimationCompression: Display: Storing compressed animation data for /Game/AncientContent/Characters/Echo/Mixamo_Animations/T-Pose.T-Pose, at AnimationSequence/6199474bbdef8292fd7bd5754e24f557c0319ee9
+[2025.09.03-18.15.27:483][355]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Usuario/Downloads/T-Pose.fbx]
+[2025.09.03-18.15.27:494][355]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.09.03-18.15.27:494][355]LogInterchangeEngine: [Success] Import Done
+[2025.09.03-18.15.31:780][404]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/AncientContent/Characters/Echo/Mixamo_Animations/T-Pose.T-Pose
+[2025.09.03-18.15.31:787][404]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_15
+[2025.09.03-18.15.31:787][404]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_15'.
+[2025.09.03-18.15.32:195][404]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'DebugSkelMeshComponent_0' with 'Echo'
+[2025.09.03-18.15.32:196][404]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.03-18.15.32:653][404]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_16
+[2025.09.03-18.15.32:654][404]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_16'.
+[2025.09.03-18.15.33:291][404]LogUObjectGlobals: Warning: Failed to find object 'Class /Script/ApexDestruction.DestructibleMesh'
+[2025.09.03-18.15.33:306][404]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_17
+[2025.09.03-18.15.33:307][404]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_17'.
+[2025.09.03-18.15.46:907][536]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2025.09.03-18.15.46:907][536]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.03-18.15.46:920][536]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2025.09.03-18.15.46:920][536]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.03-18.15.47:033][536]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2025.09.03-18.15.47:033][536]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.03-18.15.47:125][536]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2025.09.03-18.15.53:748][608]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2025.09.03-18.15.55:041][608]LogSlate: Window 'Delete Assets' being destroyed
+[2025.09.03-18.15.55:095][608]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/AncientContent/Characters/Echo/Mixamo_Animations/T-Pose.T-Pose
+	Asset Type: AnimSequence
+[2025.09.03-18.15.55:863][608]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.09.03-18.15.55:888][608]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.09.03-18.15.55:913][608]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.09.03-18.16.54:804][247]LogStreaming: Display: FlushAsyncLoading(531): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.03-18.16.54:829][247]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Usuario/Downloads/T-Pose.fbx]
+[2025.09.03-18.16.54:925][247]LogInterchangePipeline: Warning: UInterchangeGenericAnimationPipeline: Cannot execute pre-import pipeline because importing animation only requires a valid skeleton.
+[2025.09.03-18.16.54:946][247]LogInterchangePipeline: Warning: UInterchangeGenericAnimationPipeline: Cannot execute pre-import pipeline because importing animation only requires a valid skeleton.
+[2025.09.03-18.17.07:018][247]LogSlate: Window 'Import Content' being destroyed
+[2025.09.03-18.17.07:048][247]LogInterchangeEngine: [Pending] Importing
+[2025.09.03-18.17.07:192][248]Interchange: Error: [C:/Users/Usuario/Downloads/T-Pose.fbx : '', Unknown] There was no data to import in the provided source data.
+[2025.09.03-18.17.07:387][248]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.09.03-18.17.07:387][248]LogInterchangeEngine: Error: [Failure] Import Failed
+[2025.09.03-18.17.18:590][525]LogSlate: Window 'Message Log' being destroyed
+[2025.09.03-18.17.18:669][525]LogSlate: Window 'Message Log' being destroyed
+[2025.09.03-18.17.30:521][750]LogStreaming: Display: FlushAsyncLoading(532): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.03-18.17.30:549][750]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Usuario/Downloads/T-Pose.fbx]
+[2025.09.03-18.17.30:639][750]LogInterchangePipeline: Warning: UInterchangeGenericAnimationPipeline: Cannot execute pre-import pipeline because importing animation only requires a valid skeleton.
+[2025.09.03-18.17.30:659][750]LogInterchangePipeline: Warning: UInterchangeGenericAnimationPipeline: Cannot execute pre-import pipeline because importing animation only requires a valid skeleton.
+[2025.09.03-18.17.43:748][750]LogInterchangePipeline: Warning: UInterchangeGenericAnimationPipeline: Cannot execute pre-import pipeline because importing animation only requires a valid skeleton.
+[2025.09.03-18.17.46:938][750]LogInterchangePipeline: Warning: UInterchangeGenericAnimationPipeline: Cannot execute pre-import pipeline because importing animation only requires a valid skeleton.
+[2025.09.03-18.17.54:252][750]LogSlate: Window 'Import Content' being destroyed
+[2025.09.03-18.17.54:278][750]LogInterchangeEngine: [Pending] Importing
+[2025.09.03-18.17.54:448][751]Interchange: Error: [C:/Users/Usuario/Downloads/T-Pose.fbx : '', Unknown] There was no data to import in the provided source data.
+[2025.09.03-18.17.54:614][751]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.09.03-18.17.54:615][752]LogInterchangeEngine: Error: [Failure] Import Failed
+[2025.09.03-18.20.00:994][315]LogStreaming: Display: FlushAsyncLoading(533): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.03-18.20.01:032][315]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Usuario/Downloads/T-Pose.fbx]
+[2025.09.03-18.20.11:117][315]LogSlate: Window 'Import Content' being destroyed
+[2025.09.03-18.20.11:144][315]LogInterchangeEngine: [Pending] Importing
+[2025.09.03-18.20.11:305][316]LogStreaming: Display: FlushAsyncLoading(534): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.03-18.20.11:469][317]LogStreaming: Display: FlushAsyncLoading(540): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.03-18.20.11:469][317]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2025.09.03-18.20.11:523][318]LogStreaming: Display: FlushAsyncLoading(541): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.03-18.20.11:624][320]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2025.09.03-18.20.11:651][320]LogStreaming: Display: FlushAsyncLoading(543): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.03-18.20.11:690][321]LogStreaming: Display: FlushAsyncLoading(544): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.03-18.20.11:801][323]LogStreaming: Display: FlushAsyncLoading(545): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.03-18.20.12:222][333]LogStreaming: Display: FlushAsyncLoading(546): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.03-18.20.12:260][334]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/AncientContent/Characters/Echo/Mixamo_Animations/T-Pose_Anim.T-Pose_Anim (Required Memory Estimate: 0.14 MB)
+[2025.09.03-18.20.12:261][334]LogAnimationCompression: Display: Storing compressed animation data for /Game/AncientContent/Characters/Echo/Mixamo_Animations/T-Pose_Anim.T-Pose_Anim, at AnimationSequence/3b4829978f7dc2a34b4d51d9d31df6f7e9a30b81
+[2025.09.03-18.20.12:452][334]LogSkeletalMesh: Building Skeletal Mesh T-Pose...
+[2025.09.03-18.20.12:960][343]LogSkeletalMesh: Built Skeletal Mesh [0.51s] /Game/AncientContent/Characters/Echo/Mixamo_Animations/T-Pose.T-Pose
+[2025.09.03-18.20.13:059][343]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_18
+[2025.09.03-18.20.13:059][343]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_18'.
+[2025.09.03-18.20.13:107][343]LogMaterial: Display: Material /Game/AncientContent/Characters/Echo/Mixamo_Animations/EyeSpec_MAT.EyeSpec_MAT needed to have new flag set bUsedWithSkeletalMesh !
+[2025.09.03-18.20.13:116][343]LogMaterial: Display: Material /Game/AncientContent/Characters/Echo/Mixamo_Animations/Akai_MAT.Akai_MAT needed to have new flag set bUsedWithSkeletalMesh !
+[2025.09.03-18.20.13:139][343]LogMaterial: Display: Material /Game/AncientContent/Characters/Echo/Mixamo_Animations/eyelash_MAT.eyelash_MAT needed to have new flag set bUsedWithSkeletalMesh !
+[2025.09.03-18.20.13:155][343]LogMaterial: Display: Material /Game/AncientContent/Characters/Echo/Mixamo_Animations/Body_MAT.Body_MAT needed to have new flag set bUsedWithSkeletalMesh !
+[2025.09.03-18.20.13:162][343]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2025.09.03-18.20.13:163][343]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.03-18.20.13:232][344]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2025.09.03-18.20.13:319][344]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Usuario/Downloads/T-Pose.fbx]
+[2025.09.03-18.20.13:320][344]Interchange: Warning: [ : '', Texture2D] FemaleFitA_eyelash_diffuse is being used as both Color and Scalar which aren't compatible.
+[2025.09.03-18.20.13:320][344]Interchange: Warning: [C:/Users/Usuario/Downloads/T-Pose.fbx : 'T-Pose', SkeletalMesh] Imported skeletal mesh has some invalid bind poses. Skeletal mesh skinning has been rebind using the time zero pose.
+[2025.09.03-18.20.13:320][344]Interchange: Warning: [C:/Users/Usuario/Downloads/T-Pose.fbx : 'T-Pose', SkeletalMesh] No smoothing group information was found for this mesh 'Erika_Archer_Eyes_Mesh' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2025.09.03-18.20.13:320][344]Interchange: Warning: [C:/Users/Usuario/Downloads/T-Pose.fbx : 'T-Pose', SkeletalMesh] No smoothing group information was found for this mesh 'Erika_Archer_Body_Mesh' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2025.09.03-18.20.13:320][344]Interchange: Warning: [C:/Users/Usuario/Downloads/T-Pose.fbx : 'T-Pose', SkeletalMesh] No smoothing group information was found for this mesh 'Erika_Archer_Clothes_Mesh' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2025.09.03-18.20.13:320][344]Interchange: Warning: [C:/Users/Usuario/Downloads/T-Pose.fbx : 'T-Pose', SkeletalMesh] No smoothing group information was found for this mesh 'Erika_Archer_Eyelashes_Mesh' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2025.09.03-18.20.13:595][344]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.09.03-18.20.13:595][344]LogInterchangeEngine: [Success] Import Done
+[2025.09.03-18.20.16:476][365]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_19
+[2025.09.03-18.20.16:476][365]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_19'.
+[2025.09.03-18.20.17:061][368]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_20
+[2025.09.03-18.20.17:061][368]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_20'.
+[2025.09.03-18.20.17:643][370]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_21
+[2025.09.03-18.20.17:643][370]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_21'.
+[2025.09.03-18.20.51:935][127]LogSlate: Window 'Message Log' being destroyed
+[2025.09.03-18.20.52:053][127]LogSlate: Window 'Message Log' being destroyed
+[2025.09.03-18.21.05:308][439]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.09.03-18.21.05:365][439]LogContentBrowser: Creating deferred item: NewFolder
+[2025.09.03-18.21.05:391][440]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.09.03-18.21.08:538][521]LogContentBrowser: Attempting asset rename: NewFolder -> Materials
+[2025.09.03-18.21.08:540][521]LogContentBrowser: End creating deferred item NewFolder
+[2025.09.03-18.21.12:776][618]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3217.215820
+[2025.09.03-18.21.13:031][624]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.03-18.21.13:031][624]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3217.433594, Update Interval: 346.316101
+[2025.09.03-18.21.15:990][684]LogMetaData: Removing '/Game/AncientContent/Characters/Echo/Mixamo_Animations/Materials/Body_MAT.Body_MAT' ref from Metadata '/Game/AncientContent/Characters/Echo/Mixamo_Animations/Body_MAT.PackageMetaData'
+[2025.09.03-18.21.16:002][684]LogMetaData: Removing '/Game/AncientContent/Characters/Echo/Mixamo_Animations/Materials/Akai_MAT.Akai_MAT' ref from Metadata '/Game/AncientContent/Characters/Echo/Mixamo_Animations/Akai_MAT.PackageMetaData'
+[2025.09.03-18.21.16:012][684]LogMetaData: Removing '/Game/AncientContent/Characters/Echo/Mixamo_Animations/Materials/EyeSpec_MAT.EyeSpec_MAT' ref from Metadata '/Game/AncientContent/Characters/Echo/Mixamo_Animations/EyeSpec_MAT.PackageMetaData'
+[2025.09.03-18.21.16:016][684]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.03-18.21.16:016][684]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AncientContent/Characters/Echo/Mixamo_Animations/Materials/Body_MAT] ([1] browsable assets)...
+[2025.09.03-18.21.16:029][684]OBJ SavePackage:     Rendered thumbnail for [Material /Game/AncientContent/Characters/Echo/Mixamo_Animations/Materials/Body_MAT.Body_MAT]
+[2025.09.03-18.21.16:029][684]OBJ SavePackage: Finished generating thumbnails for package [/Game/AncientContent/Characters/Echo/Mixamo_Animations/Materials/Body_MAT]
+[2025.09.03-18.21.16:037][684]LogSavePackage: Moving output files for package: /Game/AncientContent/Characters/Echo/Mixamo_Animations/Materials/Body_MAT
+[2025.09.03-18.21.16:037][684]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Body_MAT6F960EC54B730D485B9CD4A6CEB1EEB0.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/AncientContent/Characters/Echo/Mixamo_Animations/Materials/Body_MAT.uasset'
+[2025.09.03-18.21.16:047][684]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AncientContent/Characters/Echo/Mixamo_Animations/Materials/Akai_MAT] ([1] browsable assets)...
+[2025.09.03-18.21.16:055][684]OBJ SavePackage:     Rendered thumbnail for [Material /Game/AncientContent/Characters/Echo/Mixamo_Animations/Materials/Akai_MAT.Akai_MAT]
+[2025.09.03-18.21.16:055][684]OBJ SavePackage: Finished generating thumbnails for package [/Game/AncientContent/Characters/Echo/Mixamo_Animations/Materials/Akai_MAT]
+[2025.09.03-18.21.16:059][684]LogSavePackage: Moving output files for package: /Game/AncientContent/Characters/Echo/Mixamo_Animations/Materials/Akai_MAT
+[2025.09.03-18.21.16:059][684]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Akai_MATEDF6C72A443D8FFDEE279D9F188A906A.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/AncientContent/Characters/Echo/Mixamo_Animations/Materials/Akai_MAT.uasset'
+[2025.09.03-18.21.16:061][684]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AncientContent/Characters/Echo/Mixamo_Animations/Materials/eyelash_MAT] ([1] browsable assets)...
+[2025.09.03-18.21.16:069][684]OBJ SavePackage:     Rendered thumbnail for [Material /Game/AncientContent/Characters/Echo/Mixamo_Animations/Materials/eyelash_MAT.eyelash_MAT]
+[2025.09.03-18.21.16:069][684]OBJ SavePackage: Finished generating thumbnails for package [/Game/AncientContent/Characters/Echo/Mixamo_Animations/Materials/eyelash_MAT]
+[2025.09.03-18.21.16:073][684]LogSavePackage: Moving output files for package: /Game/AncientContent/Characters/Echo/Mixamo_Animations/Materials/eyelash_MAT
+[2025.09.03-18.21.16:073][684]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/eyelash_MAT995107C34251EF6AEAF1FE94FAD615E0.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/AncientContent/Characters/Echo/Mixamo_Animations/Materials/eyelash_MAT.uasset'
+[2025.09.03-18.21.16:075][684]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AncientContent/Characters/Echo/Mixamo_Animations/Materials/EyeSpec_MAT] ([1] browsable assets)...
+[2025.09.03-18.21.16:082][684]OBJ SavePackage:     Rendered thumbnail for [Material /Game/AncientContent/Characters/Echo/Mixamo_Animations/Materials/EyeSpec_MAT.EyeSpec_MAT]
+[2025.09.03-18.21.16:082][684]OBJ SavePackage: Finished generating thumbnails for package [/Game/AncientContent/Characters/Echo/Mixamo_Animations/Materials/EyeSpec_MAT]
+[2025.09.03-18.21.16:086][684]LogSavePackage: Moving output files for package: /Game/AncientContent/Characters/Echo/Mixamo_Animations/Materials/EyeSpec_MAT
+[2025.09.03-18.21.16:086][684]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/EyeSpec_MATDC16C6B440B3DAA32D9415BF764DC5AA.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/AncientContent/Characters/Echo/Mixamo_Animations/Materials/EyeSpec_MAT.uasset'
+[2025.09.03-18.21.16:089][684]LogFileHelpers: InternalPromptForCheckoutAndSave took 73.160 ms (total: 722.372 ms)
+[2025.09.03-18.21.16:172][684]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.09.03-18.21.16:197][684]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.09.03-18.21.16:218][684]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.09.03-18.21.16:243][684]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.09.03-18.21.16:244][684]LogContentValidation: Display: Starting to validate 4 assets
+[2025.09.03-18.21.16:244][684]LogContentValidation: Enabled validators:
+[2025.09.03-18.21.16:244][684]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.03-18.21.16:244][684]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.03-18.21.16:244][684]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.03-18.21.16:244][684]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.03-18.21.16:244][684]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.03-18.21.16:244][684]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.03-18.21.16:244][684]AssetCheck: /Game/AncientContent/Characters/Echo/Mixamo_Animations/Materials/Body_MAT Validating asset
+[2025.09.03-18.21.16:244][684]AssetCheck: /Game/AncientContent/Characters/Echo/Mixamo_Animations/Materials/Akai_MAT Validating asset
+[2025.09.03-18.21.16:244][684]AssetCheck: /Game/AncientContent/Characters/Echo/Mixamo_Animations/Materials/eyelash_MAT Validating asset
+[2025.09.03-18.21.16:244][684]AssetCheck: /Game/AncientContent/Characters/Echo/Mixamo_Animations/Materials/EyeSpec_MAT Validating asset
+[2025.09.03-18.21.19:645][763]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.09.03-18.21.19:702][763]LogContentBrowser: Creating deferred item: NewFolder
+[2025.09.03-18.21.19:815][764]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.09.03-18.21.22:425][832]LogContentBrowser: Attempting asset rename: NewFolder -> Textures
+[2025.09.03-18.21.22:426][832]LogContentBrowser: End creating deferred item NewFolder
+[2025.09.03-18.21.28:076][957]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.03-18.21.28:076][957]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AncientContent/Characters/Echo/Mixamo_Animations/Materials/Body_MAT] ([1] browsable assets)...
+[2025.09.03-18.21.28:076][957]OBJ SavePackage: Finished generating thumbnails for package [/Game/AncientContent/Characters/Echo/Mixamo_Animations/Materials/Body_MAT]
+[2025.09.03-18.21.28:080][957]LogSavePackage: Moving output files for package: /Game/AncientContent/Characters/Echo/Mixamo_Animations/Materials/Body_MAT
+[2025.09.03-18.21.28:081][957]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Body_MATDE4B8A664D9B22BC5AC7EDA2108454FF.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/AncientContent/Characters/Echo/Mixamo_Animations/Materials/Body_MAT.uasset'
+[2025.09.03-18.21.28:083][957]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AncientContent/Characters/Echo/Mixamo_Animations/Materials/EyeSpec_MAT] ([1] browsable assets)...
+[2025.09.03-18.21.28:083][957]OBJ SavePackage: Finished generating thumbnails for package [/Game/AncientContent/Characters/Echo/Mixamo_Animations/Materials/EyeSpec_MAT]
+[2025.09.03-18.21.28:086][957]LogSavePackage: Moving output files for package: /Game/AncientContent/Characters/Echo/Mixamo_Animations/Materials/EyeSpec_MAT
+[2025.09.03-18.21.28:087][957]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/EyeSpec_MAT321B799846C8AB28964E748A93CAC0BE.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/AncientContent/Characters/Echo/Mixamo_Animations/Materials/EyeSpec_MAT.uasset'
+[2025.09.03-18.21.28:089][957]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AncientContent/Characters/Echo/Mixamo_Animations/Materials/eyelash_MAT] ([1] browsable assets)...
+[2025.09.03-18.21.28:089][957]OBJ SavePackage: Finished generating thumbnails for package [/Game/AncientContent/Characters/Echo/Mixamo_Animations/Materials/eyelash_MAT]
+[2025.09.03-18.21.28:092][957]LogSavePackage: Moving output files for package: /Game/AncientContent/Characters/Echo/Mixamo_Animations/Materials/eyelash_MAT
+[2025.09.03-18.21.28:093][957]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/eyelash_MATCE62A0624270F91754BC25AB6CB3159A.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/AncientContent/Characters/Echo/Mixamo_Animations/Materials/eyelash_MAT.uasset'
+[2025.09.03-18.21.28:095][957]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AncientContent/Characters/Echo/Mixamo_Animations/Materials/Akai_MAT] ([1] browsable assets)...
+[2025.09.03-18.21.28:095][957]OBJ SavePackage: Finished generating thumbnails for package [/Game/AncientContent/Characters/Echo/Mixamo_Animations/Materials/Akai_MAT]
+[2025.09.03-18.21.28:099][957]LogSavePackage: Moving output files for package: /Game/AncientContent/Characters/Echo/Mixamo_Animations/Materials/Akai_MAT
+[2025.09.03-18.21.28:100][957]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Akai_MATB95A297849D7DCCF77A8DD9FA8857939.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/AncientContent/Characters/Echo/Mixamo_Animations/Materials/Akai_MAT.uasset'
+[2025.09.03-18.21.28:102][957]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AncientContent/Characters/Echo/Mixamo_Animations/Textures/FemaleFitA_StdNM] ([1] browsable assets)...
+[2025.09.03-18.21.28:105][957]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/AncientContent/Characters/Echo/Mixamo_Animations/Textures/FemaleFitA_StdNM.FemaleFitA_StdNM]
+[2025.09.03-18.21.28:105][957]OBJ SavePackage: Finished generating thumbnails for package [/Game/AncientContent/Characters/Echo/Mixamo_Animations/Textures/FemaleFitA_StdNM]
+[2025.09.03-18.21.28:165][957]LogSavePackage: Moving output files for package: /Game/AncientContent/Characters/Echo/Mixamo_Animations/Textures/FemaleFitA_StdNM
+[2025.09.03-18.21.28:165][957]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/FemaleFitA_StdNM20E3C04E4AEBA23B9127C5BF0912729F.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/AncientContent/Characters/Echo/Mixamo_Animations/Textures/FemaleFitA_StdNM.uasset'
+[2025.09.03-18.21.28:176][957]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AncientContent/Characters/Echo/Mixamo_Animations/Textures/FemaleFitA_eyelash_diffuse] ([1] browsable assets)...
+[2025.09.03-18.21.28:178][957]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/AncientContent/Characters/Echo/Mixamo_Animations/Textures/FemaleFitA_eyelash_diffuse.FemaleFitA_eyelash_diffuse]
+[2025.09.03-18.21.28:178][957]OBJ SavePackage: Finished generating thumbnails for package [/Game/AncientContent/Characters/Echo/Mixamo_Animations/Textures/FemaleFitA_eyelash_diffuse]
+[2025.09.03-18.21.28:247][957]LogSavePackage: Moving output files for package: /Game/AncientContent/Characters/Echo/Mixamo_Animations/Textures/FemaleFitA_eyelash_diffuse
+[2025.09.03-18.21.28:247][957]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/FemaleFitA_eyelash_diffuse8FA79BDB4B884678FA9F2D9D83DC09E5.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/AncientContent/Characters/Echo/Mixamo_Animations/Textures/FemaleFitA_eyelash_diffuse.uasset'
+[2025.09.03-18.21.28:249][957]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AncientContent/Characters/Echo/Mixamo_Animations/Textures/FemaleFitA_Body_diffuse] ([1] browsable assets)...
+[2025.09.03-18.21.28:250][957]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/AncientContent/Characters/Echo/Mixamo_Animations/Textures/FemaleFitA_Body_diffuse.FemaleFitA_Body_diffuse]
+[2025.09.03-18.21.28:250][957]OBJ SavePackage: Finished generating thumbnails for package [/Game/AncientContent/Characters/Echo/Mixamo_Animations/Textures/FemaleFitA_Body_diffuse]
+[2025.09.03-18.21.28:318][957]LogSavePackage: Moving output files for package: /Game/AncientContent/Characters/Echo/Mixamo_Animations/Textures/FemaleFitA_Body_diffuse
+[2025.09.03-18.21.28:319][957]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/FemaleFitA_Body_diffuseBECFBB7F4523320FE2BB79928BDE53B3.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/AncientContent/Characters/Echo/Mixamo_Animations/Textures/FemaleFitA_Body_diffuse.uasset'
+[2025.09.03-18.21.28:321][957]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AncientContent/Characters/Echo/Mixamo_Animations/Textures/Erika_Archer_Clothes_normal] ([1] browsable assets)...
+[2025.09.03-18.21.28:323][957]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/AncientContent/Characters/Echo/Mixamo_Animations/Textures/Erika_Archer_Clothes_normal.Erika_Archer_Clothes_normal]
+[2025.09.03-18.21.28:323][957]OBJ SavePackage: Finished generating thumbnails for package [/Game/AncientContent/Characters/Echo/Mixamo_Animations/Textures/Erika_Archer_Clothes_normal]
+[2025.09.03-18.21.28:377][957]LogSavePackage: Moving output files for package: /Game/AncientContent/Characters/Echo/Mixamo_Animations/Textures/Erika_Archer_Clothes_normal
+[2025.09.03-18.21.28:377][957]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Erika_Archer_Clothes_normalC367C781408FAA125908B1ACD37C27B9.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/AncientContent/Characters/Echo/Mixamo_Animations/Textures/Erika_Archer_Clothes_normal.uasset'
+[2025.09.03-18.21.28:380][957]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AncientContent/Characters/Echo/Mixamo_Animations/Textures/Erika_Archer_Clothes_diffuse] ([1] browsable assets)...
+[2025.09.03-18.21.28:382][957]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/AncientContent/Characters/Echo/Mixamo_Animations/Textures/Erika_Archer_Clothes_diffuse.Erika_Archer_Clothes_diffuse]
+[2025.09.03-18.21.28:382][957]OBJ SavePackage: Finished generating thumbnails for package [/Game/AncientContent/Characters/Echo/Mixamo_Animations/Textures/Erika_Archer_Clothes_diffuse]
+[2025.09.03-18.21.28:441][957]LogSavePackage: Moving output files for package: /Game/AncientContent/Characters/Echo/Mixamo_Animations/Textures/Erika_Archer_Clothes_diffuse
+[2025.09.03-18.21.28:441][957]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Erika_Archer_Clothes_diffuse0BEFEFC94BBA90C86C886E81F30979A4.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/AncientContent/Characters/Echo/Mixamo_Animations/Textures/Erika_Archer_Clothes_diffuse.uasset'
+[2025.09.03-18.21.28:446][957]LogFileHelpers: InternalPromptForCheckoutAndSave took 369.858 ms (total: 1.09 sec)
+[2025.09.03-18.21.28:539][957]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.09.03-18.21.28:562][957]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2025.09.03-18.21.28:582][957]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.09.03-18.21.28:610][957]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.09.03-18.21.28:610][957]LogContentValidation: Display: Starting to validate 9 assets
+[2025.09.03-18.21.28:610][957]LogContentValidation: Enabled validators:
+[2025.09.03-18.21.28:610][957]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.03-18.21.28:610][957]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.03-18.21.28:610][957]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.03-18.21.28:610][957]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.03-18.21.28:610][957]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.03-18.21.28:610][957]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.03-18.21.28:611][957]AssetCheck: /Game/AncientContent/Characters/Echo/Mixamo_Animations/Materials/Body_MAT Validating asset
+[2025.09.03-18.21.28:611][957]AssetCheck: /Game/AncientContent/Characters/Echo/Mixamo_Animations/Materials/EyeSpec_MAT Validating asset
+[2025.09.03-18.21.28:611][957]AssetCheck: /Game/AncientContent/Characters/Echo/Mixamo_Animations/Materials/eyelash_MAT Validating asset
+[2025.09.03-18.21.28:611][957]AssetCheck: /Game/AncientContent/Characters/Echo/Mixamo_Animations/Materials/Akai_MAT Validating asset
+[2025.09.03-18.21.28:611][957]AssetCheck: /Game/AncientContent/Characters/Echo/Mixamo_Animations/Textures/FemaleFitA_StdNM Validating asset
+[2025.09.03-18.21.28:611][957]AssetCheck: /Game/AncientContent/Characters/Echo/Mixamo_Animations/Textures/FemaleFitA_eyelash_diffuse Validating asset
+[2025.09.03-18.21.28:611][957]AssetCheck: /Game/AncientContent/Characters/Echo/Mixamo_Animations/Textures/FemaleFitA_Body_diffuse Validating asset
+[2025.09.03-18.21.28:611][957]AssetCheck: /Game/AncientContent/Characters/Echo/Mixamo_Animations/Textures/Erika_Archer_Clothes_normal Validating asset
+[2025.09.03-18.21.28:611][957]AssetCheck: /Game/AncientContent/Characters/Echo/Mixamo_Animations/Textures/Erika_Archer_Clothes_diffuse Validating asset
+[2025.09.03-18.21.30:400][998]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/AncientContent/Characters/Echo/Mixamo_Animations/T-Pose.T-Pose
+[2025.09.03-18.21.30:401][998]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_22
+[2025.09.03-18.21.30:402][998]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_22'.
+[2025.09.03-18.21.30:416][998]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.03-18.24.17:392][924]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2025.09.03-18.24.18:262][924]LogSlate: Window 'Save Content' being destroyed
+[2025.09.03-18.24.18:278][924]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.03-18.24.18:301][924]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AncientContent/Characters/Echo/Mixamo_Animations/T-Pose] ([1] browsable assets)...
+[2025.09.03-18.24.18:345][924]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/AncientContent/Characters/Echo/Mixamo_Animations/T-Pose.T-Pose]
+[2025.09.03-18.24.18:345][924]OBJ SavePackage: Finished generating thumbnails for package [/Game/AncientContent/Characters/Echo/Mixamo_Animations/T-Pose]
+[2025.09.03-18.24.18:370][924]LogSavePackage: Moving output files for package: /Game/AncientContent/Characters/Echo/Mixamo_Animations/T-Pose
+[2025.09.03-18.24.18:370][924]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/T-PoseBE7EBD9744B7130586BC96B15F1B32E3.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/AncientContent/Characters/Echo/Mixamo_Animations/T-Pose.uasset'
+[2025.09.03-18.24.18:385][924]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AncientContent/Characters/Echo/Mixamo_Animations/T-Pose_Anim] ([1] browsable assets)...
+[2025.09.03-18.24.18:395][924]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/AncientContent/Characters/Echo/Mixamo_Animations/T-Pose_Anim.T-Pose_Anim]
+[2025.09.03-18.24.18:395][924]OBJ SavePackage: Finished generating thumbnails for package [/Game/AncientContent/Characters/Echo/Mixamo_Animations/T-Pose_Anim]
+[2025.09.03-18.24.18:415][924]LogSavePackage: Moving output files for package: /Game/AncientContent/Characters/Echo/Mixamo_Animations/T-Pose_Anim
+[2025.09.03-18.24.18:415][924]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/T-Pose_Anim2B23AD534016CF92AF538687874A93E5.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/AncientContent/Characters/Echo/Mixamo_Animations/T-Pose_Anim.uasset'
+[2025.09.03-18.24.18:428][924]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AncientContent/Characters/Echo/Mixamo_Animations/T-Pose_PhysicsAsset] ([1] browsable assets)...
+[2025.09.03-18.24.18:438][924]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/AncientContent/Characters/Echo/Mixamo_Animations/T-Pose_PhysicsAsset.T-Pose_PhysicsAsset]
+[2025.09.03-18.24.18:438][924]OBJ SavePackage: Finished generating thumbnails for package [/Game/AncientContent/Characters/Echo/Mixamo_Animations/T-Pose_PhysicsAsset]
+[2025.09.03-18.24.18:444][924]LogSavePackage: Moving output files for package: /Game/AncientContent/Characters/Echo/Mixamo_Animations/T-Pose_PhysicsAsset
+[2025.09.03-18.24.18:444][924]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/T-Pose_PhysicsAsset19B8DC0B4D875CA5B7B92FACD18F5E52.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/AncientContent/Characters/Echo/Mixamo_Animations/T-Pose_PhysicsAsset.uasset'
+[2025.09.03-18.24.18:453][924]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AncientContent/Characters/Echo/Mixamo_Animations/T-Pose_Skeleton] ([1] browsable assets)...
+[2025.09.03-18.24.18:463][924]OBJ SavePackage:     Rendered thumbnail for [Skeleton /Game/AncientContent/Characters/Echo/Mixamo_Animations/T-Pose_Skeleton.T-Pose_Skeleton]
+[2025.09.03-18.24.18:463][924]OBJ SavePackage: Finished generating thumbnails for package [/Game/AncientContent/Characters/Echo/Mixamo_Animations/T-Pose_Skeleton]
+[2025.09.03-18.24.18:465][924]LogSavePackage: Moving output files for package: /Game/AncientContent/Characters/Echo/Mixamo_Animations/T-Pose_Skeleton
+[2025.09.03-18.24.18:465][924]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/T-Pose_Skeleton7C56892445DDBFB7EA6E059A053B6832.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/AncientContent/Characters/Echo/Mixamo_Animations/T-Pose_Skeleton.uasset'
+[2025.09.03-18.24.18:484][924]LogFileHelpers: InternalPromptForCheckoutAndSave took 206.435 ms (total: 1.29 sec)
+[2025.09.03-18.24.18:520][924]LogContentValidation: Display: Starting to validate 4 assets
+[2025.09.03-18.24.18:520][924]LogContentValidation: Enabled validators:
+[2025.09.03-18.24.18:520][924]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.03-18.24.18:520][924]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.03-18.24.18:520][924]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.03-18.24.18:520][924]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.03-18.24.18:520][924]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.03-18.24.18:520][924]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.03-18.24.18:520][924]AssetCheck: /Game/AncientContent/Characters/Echo/Mixamo_Animations/T-Pose Validating asset
+[2025.09.03-18.24.18:520][924]AssetCheck: /Game/AncientContent/Characters/Echo/Mixamo_Animations/T-Pose_Anim Validating asset
+[2025.09.03-18.24.18:520][924]AssetCheck: /Game/AncientContent/Characters/Echo/Mixamo_Animations/T-Pose_PhysicsAsset Validating asset
+[2025.09.03-18.24.18:520][924]AssetCheck: /Game/AncientContent/Characters/Echo/Mixamo_Animations/T-Pose_Skeleton Validating asset
+[2025.09.03-18.24.39:374][425]LogContentBrowser: Attempting asset rename: T-Pose_Skeleton -> SK_T-Pose
+[2025.09.03-18.24.39:546][425]LogMetaData: Removing '/Game/AncientContent/Characters/Echo/Mixamo_Animations/SK_T-Pose.SK_T-Pose' ref from Metadata '/Game/AncientContent/Characters/Echo/Mixamo_Animations/T-Pose_Skeleton.PackageMetaData'
+[2025.09.03-18.24.39:552][425]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.03-18.24.39:553][425]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AncientContent/Characters/Echo/Mixamo_Animations/T-Pose] ([1] browsable assets)...
+[2025.09.03-18.24.39:553][425]OBJ SavePackage: Finished generating thumbnails for package [/Game/AncientContent/Characters/Echo/Mixamo_Animations/T-Pose]
+[2025.09.03-18.24.39:575][425]LogSavePackage: Moving output files for package: /Game/AncientContent/Characters/Echo/Mixamo_Animations/T-Pose
+[2025.09.03-18.24.39:576][425]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/T-Pose9FD283BF49D98E6154C47BA82589F50A.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/AncientContent/Characters/Echo/Mixamo_Animations/T-Pose.uasset'
+[2025.09.03-18.24.39:579][425]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AncientContent/Characters/Echo/Mixamo_Animations/T-Pose_Anim] ([1] browsable assets)...
+[2025.09.03-18.24.39:579][425]OBJ SavePackage: Finished generating thumbnails for package [/Game/AncientContent/Characters/Echo/Mixamo_Animations/T-Pose_Anim]
+[2025.09.03-18.24.39:587][425]LogSavePackage: Moving output files for package: /Game/AncientContent/Characters/Echo/Mixamo_Animations/T-Pose_Anim
+[2025.09.03-18.24.39:588][425]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/T-Pose_Anim39A64CC045A5D26101A2F69E3DED2213.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/AncientContent/Characters/Echo/Mixamo_Animations/T-Pose_Anim.uasset'
+[2025.09.03-18.24.39:590][425]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AncientContent/Characters/Echo/Mixamo_Animations/SK_T-Pose] ([1] browsable assets)...
+[2025.09.03-18.24.39:590][425]OBJ SavePackage: Finished generating thumbnails for package [/Game/AncientContent/Characters/Echo/Mixamo_Animations/SK_T-Pose]
+[2025.09.03-18.24.39:592][425]LogSavePackage: Moving output files for package: /Game/AncientContent/Characters/Echo/Mixamo_Animations/SK_T-Pose
+[2025.09.03-18.24.39:592][425]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/SK_T-Pose6023BFDC420DBC7B61E5E3880659E250.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/AncientContent/Characters/Echo/Mixamo_Animations/SK_T-Pose.uasset'
+[2025.09.03-18.24.39:602][425]LogFileHelpers: InternalPromptForCheckoutAndSave took 49.541 ms (total: 1.34 sec)
+[2025.09.03-18.24.39:638][425]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.09.03-18.24.39:661][425]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.09.03-18.24.39:682][425]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2025.09.03-18.24.39:730][425]LogContentValidation: Display: Starting to validate 3 assets
+[2025.09.03-18.24.39:730][425]LogContentValidation: Enabled validators:
+[2025.09.03-18.24.39:730][425]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.03-18.24.39:730][425]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.03-18.24.39:730][425]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.03-18.24.39:730][425]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.03-18.24.39:730][425]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.03-18.24.39:730][425]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.03-18.24.39:730][425]AssetCheck: /Game/AncientContent/Characters/Echo/Mixamo_Animations/T-Pose Validating asset
+[2025.09.03-18.24.39:730][425]AssetCheck: /Game/AncientContent/Characters/Echo/Mixamo_Animations/T-Pose_Anim Validating asset
+[2025.09.03-18.24.39:730][425]AssetCheck: /Game/AncientContent/Characters/Echo/Mixamo_Animations/SK_T-Pose Validating asset
+[2025.09.03-18.24.39:740][425]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_23
+[2025.09.03-18.24.39:740][425]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_23'.
+[2025.09.03-18.24.49:287][665]LogContentBrowser: Attempting asset rename: T-Pose -> SKM_T-Pose
+[2025.09.03-18.24.49:463][665]LogMetaData: Removing '/Game/AncientContent/Characters/Echo/Mixamo_Animations/SKM_T-Pose.SKM_T-Pose' ref from Metadata '/Game/AncientContent/Characters/Echo/Mixamo_Animations/T-Pose.PackageMetaData'
+[2025.09.03-18.24.49:513][665]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.03-18.24.49:513][665]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AncientContent/Characters/Echo/Mixamo_Animations/T-Pose_PhysicsAsset] ([1] browsable assets)...
+[2025.09.03-18.24.49:513][665]OBJ SavePackage: Finished generating thumbnails for package [/Game/AncientContent/Characters/Echo/Mixamo_Animations/T-Pose_PhysicsAsset]
+[2025.09.03-18.24.49:518][665]LogSavePackage: Moving output files for package: /Game/AncientContent/Characters/Echo/Mixamo_Animations/T-Pose_PhysicsAsset
+[2025.09.03-18.24.49:519][665]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/T-Pose_PhysicsAsset072FFDD04E704B6C9F56D689AB06814B.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/AncientContent/Characters/Echo/Mixamo_Animations/T-Pose_PhysicsAsset.uasset'
+[2025.09.03-18.24.49:521][665]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AncientContent/Characters/Echo/Mixamo_Animations/SK_T-Pose] ([1] browsable assets)...
+[2025.09.03-18.24.49:521][665]OBJ SavePackage: Finished generating thumbnails for package [/Game/AncientContent/Characters/Echo/Mixamo_Animations/SK_T-Pose]
+[2025.09.03-18.24.49:523][665]LogSavePackage: Moving output files for package: /Game/AncientContent/Characters/Echo/Mixamo_Animations/SK_T-Pose
+[2025.09.03-18.24.49:524][665]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/SK_T-PoseE31D0001481366BACF0E0085505C9E87.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/AncientContent/Characters/Echo/Mixamo_Animations/SK_T-Pose.uasset'
+[2025.09.03-18.24.49:527][665]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AncientContent/Characters/Echo/Mixamo_Animations/SKM_T-Pose] ([1] browsable assets)...
+[2025.09.03-18.24.49:527][665]OBJ SavePackage: Finished generating thumbnails for package [/Game/AncientContent/Characters/Echo/Mixamo_Animations/SKM_T-Pose]
+[2025.09.03-18.24.49:551][665]LogSavePackage: Moving output files for package: /Game/AncientContent/Characters/Echo/Mixamo_Animations/SKM_T-Pose
+[2025.09.03-18.24.49:551][665]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/SKM_T-Pose4F3264BE4A8E50B7197288BA6AF35267.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/AncientContent/Characters/Echo/Mixamo_Animations/SKM_T-Pose.uasset'
+[2025.09.03-18.24.49:561][665]LogFileHelpers: InternalPromptForCheckoutAndSave took 47.571 ms (total: 1.39 sec)
+[2025.09.03-18.24.49:598][665]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.09.03-18.24.49:620][665]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.09.03-18.24.49:639][665]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.09.03-18.24.49:688][665]LogContentValidation: Display: Starting to validate 3 assets
+[2025.09.03-18.24.49:689][665]LogContentValidation: Enabled validators:
+[2025.09.03-18.24.49:689][665]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.03-18.24.49:689][665]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.03-18.24.49:689][665]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.03-18.24.49:689][665]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.03-18.24.49:689][665]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.03-18.24.49:689][665]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.03-18.24.49:689][665]AssetCheck: /Game/AncientContent/Characters/Echo/Mixamo_Animations/T-Pose_PhysicsAsset Validating asset
+[2025.09.03-18.24.49:689][665]AssetCheck: /Game/AncientContent/Characters/Echo/Mixamo_Animations/SK_T-Pose Validating asset
+[2025.09.03-18.24.49:689][665]AssetCheck: /Game/AncientContent/Characters/Echo/Mixamo_Animations/SKM_T-Pose Validating asset
+[2025.09.03-18.24.49:697][665]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_24
+[2025.09.03-18.24.49:697][665]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_24'.
