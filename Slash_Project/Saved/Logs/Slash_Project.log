@@ -2232,3 +2232,99 @@ Skipped package /AudioModulation/Volume was expected to be found in plugin Audio
 [2025.09.03-18.24.49:689][665]AssetCheck: /Game/AncientContent/Characters/Echo/Mixamo_Animations/SKM_T-Pose Validating asset
 [2025.09.03-18.24.49:697][665]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_24
 [2025.09.03-18.24.49:697][665]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_24'.
+[2025.09.03-18.25.53:967][500]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2025.09.03-21.18.29:676][500]LogShaderCompilers: Warning: Distributed compilation controller didn't receive a completed task in 10353.383560 seconds!
+[2025.09.03-21.18.32:424][501]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.09.03-21.18.32:436][501]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=13484
+[2025.09.03-21.18.34:497][505]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.09.03-21.18.34:595][505]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{58ea4715-9790-4598-9427-e0f8b9d39fd0}, Name=Altavoces (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=2067.34
+[2025.09.03-21.18.34:605][505]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.09.03-21.18.34:619][505]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.09.03-21.19.07:089][472]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13891.567383
+[2025.09.03-21.19.07:416][482]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.03-21.19.07:417][483]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13891.864258, Update Interval: 316.533112
+[2025.09.03-21.21.58:912][343]LogDerivedDataCache: C:/Users/Usuario/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.003 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.09.03-21.25.14:843][120]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14259.342773
+[2025.09.03-21.25.15:079][127]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.03-21.25.15:079][127]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14259.541016, Update Interval: 338.821381
+[2025.09.03-21.29.11:344][990]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.09.03-21.29.11:415][990]LogContentBrowser: Creating deferred item: NewFolder
+[2025.09.03-21.29.11:459][991]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.09.03-21.29.14:153][ 48]LogContentBrowser: Attempting asset rename: NewFolder -> Animations
+[2025.09.03-21.29.14:209][ 48]LogContentBrowser: End creating deferred item NewFolder
+[2025.09.03-21.29.20:614][125]LogMetaData: Removing '/Game/AncientContent/Characters/Echo/Mixamo_Animations/Animations/T-Pose_Anim.T-Pose_Anim' ref from Metadata '/Game/AncientContent/Characters/Echo/Mixamo_Animations/T-Pose_Anim.PackageMetaData'
+[2025.09.03-21.29.20:636][125]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.03-21.29.20:637][125]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AncientContent/Characters/Echo/Mixamo_Animations/Animations/T-Pose_Anim] ([1] browsable assets)...
+[2025.09.03-21.29.20:637][125]OBJ SavePackage: Finished generating thumbnails for package [/Game/AncientContent/Characters/Echo/Mixamo_Animations/Animations/T-Pose_Anim]
+[2025.09.03-21.29.20:659][125]LogSavePackage: Moving output files for package: /Game/AncientContent/Characters/Echo/Mixamo_Animations/Animations/T-Pose_Anim
+[2025.09.03-21.29.20:660][125]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/T-Pose_Anim68EC39BA428A5474961803AEACD5F0DC.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/AncientContent/Characters/Echo/Mixamo_Animations/Animations/T-Pose_Anim.uasset'
+[2025.09.03-21.29.20:708][125]LogFileHelpers: InternalPromptForCheckoutAndSave took 71.564 ms (total: 1.46 sec)
+[2025.09.03-21.29.20:904][125]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
+[2025.09.03-21.29.20:940][125]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2025.09.03-21.29.20:967][125]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.09.03-21.29.21:039][125]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.09.03-21.29.21:039][125]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.03-21.29.21:039][125]LogContentValidation: Enabled validators:
+[2025.09.03-21.29.21:039][125]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.03-21.29.21:039][125]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.03-21.29.21:040][125]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.03-21.29.21:040][125]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.03-21.29.21:040][125]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.03-21.29.21:040][125]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.03-21.29.21:040][125]AssetCheck: /Game/AncientContent/Characters/Echo/Mixamo_Animations/Animations/T-Pose_Anim Validating asset
+[2025.09.03-21.29.32:208][239]LogStreaming: Display: FlushAsyncLoading(547): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.03-21.29.32:287][239]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Usuario/Downloads/Standing Idle.fbx]
+[2025.09.03-21.29.32:664][239]LogInterchangePipeline: Warning: UInterchangeGenericAnimationPipeline: Cannot execute pre-import pipeline because importing animation only requires a valid skeleton.
+[2025.09.03-21.29.32:807][239]LogInterchangePipeline: Warning: UInterchangeGenericAnimationPipeline: Cannot execute pre-import pipeline because importing animation only requires a valid skeleton.
+[2025.09.03-21.29.52:218][239]LogSlate: Window 'Import Content' being destroyed
+[2025.09.03-21.29.52:276][239]LogInterchangeEngine: [Pending] Importing
+[2025.09.03-21.29.53:213][242]LogStreaming: Display: FlushAsyncLoading(548): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.03-21.29.53:351][244]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/AncientContent/Characters/Echo/Mixamo_Animations/Animations/Standing_Idle.Standing_Idle (Required Memory Estimate: 0.83 MB)
+[2025.09.03-21.29.53:395][245]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/AncientContent/Characters/Echo/Mixamo_Animations/Animations/Standing_Idle.Standing_Idle (Required Memory Estimate: 0.83 MB)
+[2025.09.03-21.29.53:432][245]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/AncientContent/Characters/Echo/Mixamo_Animations/Animations/Standing_Idle.Standing_Idle (Required Memory Estimate: 0.83 MB)
+[2025.09.03-21.29.53:462][245]LogAnimationCompression: Display: Storing compressed animation data for /Game/AncientContent/Characters/Echo/Mixamo_Animations/Animations/Standing_Idle.Standing_Idle, at AnimationSequence/3c5d3252cb1ce109b9fe8f46bdfda68e834c4f0b
+[2025.09.03-21.29.53:474][245]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Usuario/Downloads/Standing Idle.fbx]
+[2025.09.03-21.29.53:495][245]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.09.03-21.29.53:496][245]LogInterchangeEngine: [Success] Import Done
+[2025.09.03-21.30.01:060][285]LogStreaming: Display: FlushAsyncLoading(549): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.03-21.30.01:217][285]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Usuario/Downloads/Standing Melee Attack Horizontal.fbx]
+[2025.09.03-21.30.01:434][285]LogInterchangePipeline: Warning: UInterchangeGenericAnimationPipeline: Cannot execute pre-import pipeline because importing animation only requires a valid skeleton.
+[2025.09.03-21.30.01:459][285]LogInterchangePipeline: Warning: UInterchangeGenericAnimationPipeline: Cannot execute pre-import pipeline because importing animation only requires a valid skeleton.
+[2025.09.03-21.30.10:033][285]LogSlate: Window 'Import Content' being destroyed
+[2025.09.03-21.30.10:093][285]LogInterchangeEngine: [Pending] Importing
+[2025.09.03-21.30.10:857][288]LogStreaming: Display: FlushAsyncLoading(550): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.03-21.30.10:886][289]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/AncientContent/Characters/Echo/Mixamo_Animations/Animations/Standing_Melee_Attack_Horizontal.Standing_Melee_Attack_Horizontal (Required Memory Estimate: 1.05 MB)
+[2025.09.03-21.30.10:952][289]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Usuario/Downloads/Standing Melee Attack Horizontal.fbx]
+[2025.09.03-21.30.10:966][289]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.09.03-21.30.10:966][289]LogInterchangeEngine: [Success] Import Done
+[2025.09.03-21.30.10:997][290]LogAnimationCompression: Display: Storing compressed animation data for /Game/AncientContent/Characters/Echo/Mixamo_Animations/Animations/Standing_Melee_Attack_Horizontal.Standing_Melee_Attack_Horizontal, at AnimationSequence/909cf8c591a5a42c74ae806a26d3fc700b98da87
+[2025.09.03-21.30.22:878][562]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2025.09.03-21.30.23:782][562]LogSlate: Window 'Save Content' being destroyed
+[2025.09.03-21.30.23:815][562]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.03-21.30.23:876][562]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AncientContent/Characters/Echo/Mixamo_Animations/Animations/Standing_Idle] ([1] browsable assets)...
+[2025.09.03-21.30.23:902][562]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/AncientContent/Characters/Echo/Mixamo_Animations/Animations/Standing_Idle.Standing_Idle]
+[2025.09.03-21.30.23:902][562]OBJ SavePackage: Finished generating thumbnails for package [/Game/AncientContent/Characters/Echo/Mixamo_Animations/Animations/Standing_Idle]
+[2025.09.03-21.30.23:913][562]LogSavePackage: Moving output files for package: /Game/AncientContent/Characters/Echo/Mixamo_Animations/Animations/Standing_Idle
+[2025.09.03-21.30.23:913][562]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Standing_Idle217003C3447DD6CBC26DFFA33520D6E8.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/AncientContent/Characters/Echo/Mixamo_Animations/Animations/Standing_Idle.uasset'
+[2025.09.03-21.30.23:930][562]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AncientContent/Characters/Echo/Mixamo_Animations/Animations/Standing_Melee_Attack_Horizontal] ([1] browsable assets)...
+[2025.09.03-21.30.23:943][562]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/AncientContent/Characters/Echo/Mixamo_Animations/Animations/Standing_Melee_Attack_Horizontal.Standing_Melee_Attack_Horizontal]
+[2025.09.03-21.30.23:943][562]OBJ SavePackage: Finished generating thumbnails for package [/Game/AncientContent/Characters/Echo/Mixamo_Animations/Animations/Standing_Melee_Attack_Horizontal]
+[2025.09.03-21.30.23:960][562]LogSavePackage: Moving output files for package: /Game/AncientContent/Characters/Echo/Mixamo_Animations/Animations/Standing_Melee_Attack_Horizontal
+[2025.09.03-21.30.23:960][562]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Standing_Melee_Attack_Horizontal695F875946865F8BF61A53ABFED6038E.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/AncientContent/Characters/Echo/Mixamo_Animations/Animations/Standing_Melee_Attack_Horizontal.uasset'
+[2025.09.03-21.30.24:009][562]LogFileHelpers: InternalPromptForCheckoutAndSave took 194.580 ms (total: 1.66 sec)
+[2025.09.03-21.30.24:078][562]LogContentValidation: Display: Starting to validate 2 assets
+[2025.09.03-21.30.24:078][562]LogContentValidation: Enabled validators:
+[2025.09.03-21.30.24:078][562]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.03-21.30.24:078][562]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.03-21.30.24:078][562]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.03-21.30.24:078][562]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.03-21.30.24:078][562]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.03-21.30.24:078][562]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.03-21.30.24:078][562]AssetCheck: /Game/AncientContent/Characters/Echo/Mixamo_Animations/Animations/Standing_Idle Validating asset
+[2025.09.03-21.30.24:079][562]AssetCheck: /Game/AncientContent/Characters/Echo/Mixamo_Animations/Animations/Standing_Melee_Attack_Horizontal Validating asset
+[2025.09.03-21.31.43:641][858]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14648.090820
+[2025.09.03-21.31.43:974][868]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.03-21.31.43:974][868]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14648.392578, Update Interval: 309.886169
+[2025.09.03-21.37.38:539][446]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15003.021484
+[2025.09.03-21.37.38:774][453]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.03-21.37.38:774][453]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15003.222656, Update Interval: 348.868683
