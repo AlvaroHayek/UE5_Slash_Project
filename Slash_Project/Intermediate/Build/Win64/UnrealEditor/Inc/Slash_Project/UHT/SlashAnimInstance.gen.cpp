@@ -16,6 +16,7 @@ ENGINE_API UClass* Z_Construct_UClass_UCharacterMovementComponent_NoRegister();
 SLASH_PROJECT_API UClass* Z_Construct_UClass_ASlashCharacter_NoRegister();
 SLASH_PROJECT_API UClass* Z_Construct_UClass_USlashAnimInstance();
 SLASH_PROJECT_API UClass* Z_Construct_UClass_USlashAnimInstance_NoRegister();
+SLASH_PROJECT_API UEnum* Z_Construct_UEnum_Slash_Project_ECharacterState();
 UPackage* Z_Construct_UPackage__Script_Slash_Project();
 // End Cross Module References
 
@@ -56,12 +57,18 @@ struct Z_Construct_UClass_USlashAnimInstance_Statics
 		{ "Category", "Movement" },
 		{ "ModuleRelativePath", "Public/Characters/SlashAnimInstance.h" },
 	};
+	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_CharacterState_MetaData[] = {
+		{ "Category", "Movement | Character State" },
+		{ "ModuleRelativePath", "Public/Characters/SlashAnimInstance.h" },
+	};
 #endif // WITH_METADATA
 	static const UECodeGen_Private::FObjectPropertyParams NewProp_SlashCharacter;
 	static const UECodeGen_Private::FObjectPropertyParams NewProp_SlashCharacterMovement;
 	static const UECodeGen_Private::FFloatPropertyParams NewProp_GroundSpeed;
 	static void NewProp_IsFalling_SetBit(void* Obj);
 	static const UECodeGen_Private::FBoolPropertyParams NewProp_IsFalling;
+	static const UECodeGen_Private::FBytePropertyParams NewProp_CharacterState_Underlying;
+	static const UECodeGen_Private::FEnumPropertyParams NewProp_CharacterState;
 	static const UECodeGen_Private::FPropertyParamsBase* const PropPointers[];
 	static UObject* (*const DependentSingletons[])();
 	static constexpr FCppClassTypeInfoStatic StaticCppClassTypeInfo = {
@@ -77,11 +84,15 @@ void Z_Construct_UClass_USlashAnimInstance_Statics::NewProp_IsFalling_SetBit(voi
 	((USlashAnimInstance*)Obj)->IsFalling = 1;
 }
 const UECodeGen_Private::FBoolPropertyParams Z_Construct_UClass_USlashAnimInstance_Statics::NewProp_IsFalling = { "IsFalling", nullptr, (EPropertyFlags)0x0010000000000014, UECodeGen_Private::EPropertyGenFlags::Bool | UECodeGen_Private::EPropertyGenFlags::NativeBool, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, sizeof(bool), sizeof(USlashAnimInstance), &Z_Construct_UClass_USlashAnimInstance_Statics::NewProp_IsFalling_SetBit, METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_IsFalling_MetaData), NewProp_IsFalling_MetaData) };
+const UECodeGen_Private::FBytePropertyParams Z_Construct_UClass_USlashAnimInstance_Statics::NewProp_CharacterState_Underlying = { "UnderlyingType", nullptr, (EPropertyFlags)0x0000000000000000, UECodeGen_Private::EPropertyGenFlags::Byte, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, 0, nullptr, METADATA_PARAMS(0, nullptr) };
+const UECodeGen_Private::FEnumPropertyParams Z_Construct_UClass_USlashAnimInstance_Statics::NewProp_CharacterState = { "CharacterState", nullptr, (EPropertyFlags)0x0010000000000014, UECodeGen_Private::EPropertyGenFlags::Enum, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(USlashAnimInstance, CharacterState), Z_Construct_UEnum_Slash_Project_ECharacterState, METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_CharacterState_MetaData), NewProp_CharacterState_MetaData) }; // 1933495170
 const UECodeGen_Private::FPropertyParamsBase* const Z_Construct_UClass_USlashAnimInstance_Statics::PropPointers[] = {
 	(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_USlashAnimInstance_Statics::NewProp_SlashCharacter,
 	(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_USlashAnimInstance_Statics::NewProp_SlashCharacterMovement,
 	(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_USlashAnimInstance_Statics::NewProp_GroundSpeed,
 	(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_USlashAnimInstance_Statics::NewProp_IsFalling,
+	(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_USlashAnimInstance_Statics::NewProp_CharacterState_Underlying,
+	(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_USlashAnimInstance_Statics::NewProp_CharacterState,
 };
 static_assert(UE_ARRAY_COUNT(Z_Construct_UClass_USlashAnimInstance_Statics::PropPointers) < 2048);
 UObject* (*const Z_Construct_UClass_USlashAnimInstance_Statics::DependentSingletons[])() = {
@@ -125,10 +136,10 @@ USlashAnimInstance::~USlashAnimInstance() {}
 struct Z_CompiledInDeferFile_FID_Users_Usuario_Desktop_UnrealEngineUnity_UE5_Slash_Project_Slash_Project_Source_Slash_Project_Public_Characters_SlashAnimInstance_h_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
-		{ Z_Construct_UClass_USlashAnimInstance, USlashAnimInstance::StaticClass, TEXT("USlashAnimInstance"), &Z_Registration_Info_UClass_USlashAnimInstance, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(USlashAnimInstance), 3810471740U) },
+		{ Z_Construct_UClass_USlashAnimInstance, USlashAnimInstance::StaticClass, TEXT("USlashAnimInstance"), &Z_Registration_Info_UClass_USlashAnimInstance, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(USlashAnimInstance), 4269004558U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_Usuario_Desktop_UnrealEngineUnity_UE5_Slash_Project_Slash_Project_Source_Slash_Project_Public_Characters_SlashAnimInstance_h_2504932240(TEXT("/Script/Slash_Project"),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_Usuario_Desktop_UnrealEngineUnity_UE5_Slash_Project_Slash_Project_Source_Slash_Project_Public_Characters_SlashAnimInstance_h_3659187262(TEXT("/Script/Slash_Project"),
 	Z_CompiledInDeferFile_FID_Users_Usuario_Desktop_UnrealEngineUnity_UE5_Slash_Project_Slash_Project_Source_Slash_Project_Public_Characters_SlashAnimInstance_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_Usuario_Desktop_UnrealEngineUnity_UE5_Slash_Project_Slash_Project_Source_Slash_Project_Public_Characters_SlashAnimInstance_h_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);

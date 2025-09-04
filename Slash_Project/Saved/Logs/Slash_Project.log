@@ -1887,3 +1887,167 @@ Skipped package /AudioModulation/Volume was expected to be found in plugin Audio
 [2025.09.04-16.54.53:862][307]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13121.339844
 [2025.09.04-16.54.54:564][328]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.09.04-16.54.54:564][329]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13122.011719, Update Interval: 306.852020
+[2025.09.04-16.57.19:107][627]Candidate modules for hot reload:
+[2025.09.04-16.57.19:107][627]  Slash_Project
+[2025.09.04-16.57.19:120][627]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_5.5/Engine/Build/BatchFiles/Build.bat  -ModuleWithSuffix=Slash_Project,9825 Slash_ProjectEditor Win64 Development -Project="C:/Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Slash_Project.uproject" "C:/Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Slash_Project.uproject"  -IgnoreJunk]
+[2025.09.04-16.57.19:148][627]Warning: Starting HotReload took  0.2s.
+[2025.09.04-16.57.40:272][255]CompilerResultsLog: Using bundled DotNet SDK version: 8.0.300
+[2025.09.04-16.57.40:272][255]CompilerResultsLog: Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" -ModuleWithSuffix=Slash_Project,9825 Slash_ProjectEditor Win64 Development -Project="C:/Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Slash_Project.uproject" "C:/Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Slash_Project.uproject"  -IgnoreJunk
+[2025.09.04-16.57.40:272][255]CompilerResultsLog: Log file: C:\Users\Usuario\AppData\Local\UnrealBuildTool\Log.txt
+[2025.09.04-16.57.40:272][255]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project).
+[2025.09.04-16.57.40:272][255]CompilerResultsLog: Invalidating makefile for Slash_ProjectEditor (working set of source files changed)
+[2025.09.04-16.57.40:272][255]CompilerResultsLog: Warning: C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Slash_Project.uproject does not list plugin 'HairStrands' as a dependency, but module 'Slash_Project' depends on 'HairStrandsCore'.
+[2025.09.04-16.57.40:272][255]CompilerResultsLog: Building Slash_ProjectEditor...
+[2025.09.04-16.57.40:272][255]CompilerResultsLog: Using Visual Studio 2022 14.38.33145 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130) and Windows 10.0.22621.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2025.09.04-16.57.40:272][255]CompilerResultsLog: [Upgrade]
+[2025.09.04-16.57.40:272][255]CompilerResultsLog: [Upgrade] Using backward-compatible include order. The latest version of UE has changed the order of includes, which may require code changes. The current setting is:
+[2025.09.04-16.57.40:272][255]CompilerResultsLog: [Upgrade]     IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_3
+[2025.09.04-16.57.40:272][255]CompilerResultsLog: [Upgrade] Suppress this message by setting 'IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_5;' in Slash_ProjectEditor.Target.cs.
+[2025.09.04-16.57.40:272][255]CompilerResultsLog: [Upgrade] Alternatively you can set this to 'EngineIncludeOrderVersion.Latest' to always use the latest include order. This will potentially cause compile errors when integrating new versions of the engine.
+[2025.09.04-16.57.40:272][255]CompilerResultsLog: [Upgrade]
+[2025.09.04-16.57.40:272][255]CompilerResultsLog: Determining max actions to execute in parallel (6 physical cores, 12 logical cores)
+[2025.09.04-16.57.40:272][255]CompilerResultsLog:   Executing up to 6 processes, one per physical core
+[2025.09.04-16.57.40:272][255]CompilerResultsLog:   Requested 1.5 GB memory per action, 3.02 GB available: limiting max parallel actions to 2
+[2025.09.04-16.57.40:272][255]CompilerResultsLog: Using XGE executor to run 6 action(s)
+[2025.09.04-16.57.40:272][255]CompilerResultsLog: Distributing 6 actions to XGE
+[2025.09.04-16.57.40:272][255]CompilerResultsLog: UnrealBuildTool Compile
+[2025.09.04-16.57.40:272][255]CompilerResultsLog: 
+[2025.09.04-16.57.40:272][255]CompilerResultsLog: --------------------Build System Warning---------------------------------------
+[2025.09.04-16.57.40:272][255]CompilerResultsLog: License not activated:
+[2025.09.04-16.57.40:273][255]CompilerResultsLog:     License is not activated. Please activate the license in the coordinator.
+[2025.09.04-16.57.40:273][255]CompilerResultsLog:     This build will run in standalone mode.
+[2025.09.04-16.57.40:273][255]CompilerResultsLog: 
+[2025.09.04-16.57.40:273][255]CompilerResultsLog: -------------------------------------------------------------------------------
+[2025.09.04-16.57.40:273][255]CompilerResultsLog: 
+[2025.09.04-16.57.40:273][255]CompilerResultsLog: Build ID: {B101DDE9-C340-4B81-A384-153F1DB386DD}
+[2025.09.04-16.57.40:273][255]CompilerResultsLog: 
+[2025.09.04-16.57.40:273][255]CompilerResultsLog: --------------------Project: Default-------------------------------------------
+[2025.09.04-16.57.40:273][255]CompilerResultsLog: [1/6] Compile [x64] Slash_Project.init.gen.cpp (0:12.26 at +0:00)
+[2025.09.04-16.57.40:273][255]CompilerResultsLog: [2/6] Compile [x64] SlashAnimInstance.gen.cpp (0:12.53 at +0:00)
+[2025.09.04-16.57.40:273][255]CompilerResultsLog: [3/6] Compile [x64] SlashAnimInstance.cpp (0:12.54 at +0:00)
+[2025.09.04-16.57.40:273][255]CompilerResultsLog: [4/6] Link [x64] UnrealEditor-Slash_Project-9825.lib (0:00.07 at +0:12)
+[2025.09.04-16.57.40:273][255]CompilerResultsLog:    Creating library C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Intermediate\Build\Win64\x64\UnrealEditor\Development\Slash_Project\UnrealEditor-Slash_Project-9825.lib and object C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Intermediate\Build\Win64\x64\UnrealEditor\Development\Slash_Project\UnrealEditor-Slash_Project-9825.exp
+[2025.09.04-16.57.40:273][255]CompilerResultsLog: [5/6] Link [x64] UnrealEditor-Slash_Project-9825.dll (0:01.20 at +0:12)
+[2025.09.04-16.57.40:273][255]CompilerResultsLog:    Creating object C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Binaries\Win64\UnrealEditor-Slash_Project-9825.exp
+[2025.09.04-16.57.40:273][255]CompilerResultsLog: [6/6] WriteMetadata Slash_ProjectEditor.target (0:00.46 at +0:13)
+[2025.09.04-16.57.40:273][255]CompilerResultsLog: ---------------------- Done ----------------------
+[2025.09.04-16.57.40:273][255]CompilerResultsLog: 
+[2025.09.04-16.57.40:273][255]CompilerResultsLog:     Rebuild All: 1 succeeded, 0 failed, 0 skipped
+[2025.09.04-16.57.40:273][255]CompilerResultsLog: 
+[2025.09.04-16.57.40:273][255]CompilerResultsLog: 1 build system warning(s):
+[2025.09.04-16.57.40:273][255]CompilerResultsLog:    - License not activated
+[2025.09.04-16.57.40:273][255]CompilerResultsLog: 
+[2025.09.04-16.57.40:273][255]CompilerResultsLog: Total time in XGE executor: 16.63 seconds
+[2025.09.04-16.57.40:273][255]CompilerResultsLog: Total execution time: 20.87 seconds
+[2025.09.04-16.57.40:273][255]LogMainFrame: MainFrame: Module compiling took 21.258 seconds
+[2025.09.04-16.57.40:570][255]LogUObjectHash: Compacting FUObjectHashTables data took  12.72ms
+[2025.09.04-16.57.40:618][255]LogClass: UPackage /Script/Slash_Project Reload.
+[2025.09.04-16.57.40:618][255]LogClass: UClass SlashAnimInstance Reload.
+[2025.09.04-16.57.40:629][255]LogClass: Could not find existing class SlashAnimInstance in package /Script/Slash_Project for reload, assuming new or modified class
+[2025.09.04-16.57.40:698][255]Re-instancing SlashAnimInstance after reload.
+[2025.09.04-16.57.41:191][255]LogProperty: Warning: Serialized Class /Script/Engine.SpringArmComponent for a property of Class /Script/Engine.CameraComponent. Reference will be nulled.
+    ReferencingObject = Package /Engine/Transient
+    Property = ObjectProperty /Script/Slash_Project.SlashCharacter:ViewCamera
+    Item = SpringArmComponent /Script/Slash_Project.Default__SlashCharacter:CameraBoom
+[2025.09.04-16.57.41:191][255]LogProperty: Warning: Serialized Class /Script/Engine.CameraComponent for a property of Class /Script/HairStrandsCore.GroomComponent. Reference will be nulled.
+    ReferencingObject = Package /Engine/Transient
+    Property = ObjectProperty /Script/Slash_Project.SlashCharacter:Hair
+    Item = CameraComponent /Script/Slash_Project.Default__SlashCharacter:ViewCamera
+[2025.09.04-16.57.41:191][255]LogProperty: Warning: Serialized Class /Script/HairStrandsCore.GroomComponent for a property of Class /Script/Slash_Project.Item. Reference will be nulled.
+    ReferencingObject = Package /Engine/Transient
+    Property = ObjectProperty /Script/Slash_Project.SlashCharacter:OverlappingItem
+    Item = GroomComponent /Script/Slash_Project.Default__SlashCharacter:Eyebrows
+[2025.09.04-16.57.41:191][255]LogProperty: Warning: Serialized Class /Script/Engine.SpringArmComponent for a property of Class /Script/Engine.CameraComponent. Reference will be nulled.
+    ReferencingObject = Package /Engine/Transient
+    Property = ObjectProperty /Script/Slash_Project.SlashCharacter:ViewCamera
+    Item = SpringArmComponent /Script/Slash_Project.Default__SlashCharacter:CameraBoom
+[2025.09.04-16.57.41:191][255]LogProperty: Warning: Serialized Class /Script/Engine.CameraComponent for a property of Class /Script/HairStrandsCore.GroomComponent. Reference will be nulled.
+    ReferencingObject = Package /Engine/Transient
+    Property = ObjectProperty /Script/Slash_Project.SlashCharacter:Hair
+    Item = CameraComponent /Script/Slash_Project.Default__SlashCharacter:ViewCamera
+[2025.09.04-16.57.41:191][255]LogProperty: Warning: Serialized Class /Script/HairStrandsCore.GroomComponent for a property of Class /Script/Slash_Project.Item. Reference will be nulled.
+    ReferencingObject = Package /Engine/Transient
+    Property = ObjectProperty /Script/Slash_Project.SlashCharacter:OverlappingItem
+    Item = GroomComponent /Script/Slash_Project.Default__SlashCharacter:Eyebrows
+[2025.09.04-16.57.41:204][255]LogProperty: Warning: Serialized Class /Script/Engine.SpringArmComponent for a property of Class /Script/Engine.CameraComponent. Reference will be nulled.
+    ReferencingObject = Package /Engine/Transient
+    Property = ObjectProperty /Script/Slash_Project.SlashCharacter:ViewCamera
+    Item = SpringArmComponent /Script/Slash_Project.Default__SlashCharacter:CameraBoom
+[2025.09.04-16.57.41:204][255]LogProperty: Warning: Serialized Class /Script/Engine.CameraComponent for a property of Class /Script/HairStrandsCore.GroomComponent. Reference will be nulled.
+    ReferencingObject = Package /Engine/Transient
+    Property = ObjectProperty /Script/Slash_Project.SlashCharacter:Hair
+    Item = CameraComponent /Script/Slash_Project.Default__SlashCharacter:ViewCamera
+[2025.09.04-16.57.41:204][255]LogProperty: Warning: Serialized Class /Script/HairStrandsCore.GroomComponent for a property of Class /Script/Slash_Project.Item. Reference will be nulled.
+    ReferencingObject = Package /Engine/Transient
+    Property = ObjectProperty /Script/Slash_Project.SlashCharacter:OverlappingItem
+    Item = GroomComponent /Script/Slash_Project.Default__SlashCharacter:Eyebrows
+[2025.09.04-16.57.41:279][255]LogProperty: Warning: Serialized Class /Script/Engine.SpringArmComponent for a property of Class /Script/Engine.CameraComponent. Reference will be nulled.
+    ReferencingObject = Package /Engine/Transient
+    Property = ObjectProperty /Script/Slash_Project.SlashCharacter:ViewCamera
+    Item = SpringArmComponent /Script/Slash_Project.Default__SlashCharacter:CameraBoom
+[2025.09.04-16.57.41:279][255]LogProperty: Warning: Serialized Class /Script/Engine.CameraComponent for a property of Class /Script/HairStrandsCore.GroomComponent. Reference will be nulled.
+    ReferencingObject = Package /Engine/Transient
+    Property = ObjectProperty /Script/Slash_Project.SlashCharacter:Hair
+    Item = CameraComponent /Script/Slash_Project.Default__SlashCharacter:ViewCamera
+[2025.09.04-16.57.41:279][255]LogProperty: Warning: Serialized Class /Script/HairStrandsCore.GroomComponent for a property of Class /Script/Slash_Project.Item. Reference will be nulled.
+    ReferencingObject = Package /Engine/Transient
+    Property = ObjectProperty /Script/Slash_Project.SlashCharacter:OverlappingItem
+    Item = GroomComponent /Script/Slash_Project.Default__SlashCharacter:Eyebrows
+[2025.09.04-16.57.41:463][255]LogUObjectHash: Compacting FUObjectHashTables data took   9.36ms
+[2025.09.04-16.57.41:478][255]LogBlueprint: Warning: Blueprint /Game/AncientContent/Blueprints/Abilities/GameplayAbilityUtils is missing GeneratedClass asset tag
+[2025.09.04-16.57.41:495][255]Display: HotReload took 22.5s.
+[2025.09.04-16.57.41:495][255]Display: Reload/Re-instancing Complete: 1 package changed, 1 class changed, 4 classes unchanged, 1 enum unchanged, 4 functions remapped
+[2025.09.04-17.00.53:778][983]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13481.202148
+[2025.09.04-17.00.54:012][990]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.04-17.00.54:012][990]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13481.402344, Update Interval: 331.374237
+[2025.09.04-17.01.56:884][809]LogUObjectHash: Compacting FUObjectHashTables data took   4.76ms
+[2025.09.04-17.01.59:802][874]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.09.04-17.03.17:408][106]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2025.09.04-17.03.42:669][849]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.09.04-17.04.10:258][663]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2025.09.04-17.04.25:667][120]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2025.09.04-17.04.26:741][120]LogSlate: Window 'Save Content' being destroyed
+[2025.09.04-17.04.26:755][120]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.04-17.04.26:789][120]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Characters/ABP_Echo] ([2] browsable assets)...
+[2025.09.04-17.04.27:030][120]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Blueprints/Characters/ABP_Echo.ABP_Echo]
+[2025.09.04-17.04.27:030][120]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/ABP_Echo]
+[2025.09.04-17.04.27:081][120]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/ABP_Echo
+[2025.09.04-17.04.27:082][120]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/ABP_Echo9BA68D8E47718FF14EAE5D91BDCC5A5D.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Characters/ABP_Echo.uasset'
+[2025.09.04-17.04.27:095][120]LogFileHelpers: InternalPromptForCheckoutAndSave took 340.427 ms (total: 558.191 ms)
+[2025.09.04-17.04.27:129][120]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.04-17.04.27:129][120]LogContentValidation: Enabled validators:
+[2025.09.04-17.04.27:129][120]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.04-17.04.27:129][120]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.04-17.04.27:129][120]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.04-17.04.27:129][120]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.04-17.04.27:129][120]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.04-17.04.27:129][120]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.04-17.04.27:129][120]AssetCheck: /Game/Blueprints/Characters/ABP_Echo Validating asset
+[2025.09.04-17.04.52:368][724]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2025.09.04-17.05.17:351][463]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2025.09.04-17.05.17:354][463]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Minimal_Default_2' took 0.026
+[2025.09.04-17.05.17:355][463]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Characters/ABP_Echo] ([2] browsable assets)...
+[2025.09.04-17.05.17:550][463]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Blueprints/Characters/ABP_Echo.ABP_Echo]
+[2025.09.04-17.05.17:550][463]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/ABP_Echo]
+[2025.09.04-17.05.17:587][463]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Characters/ABP_Echo_Auto2
+[2025.09.04-17.05.17:587][463]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/ABP_Echo_Auto2F28B49D046664AD4F6FD1A8DE6B809A3.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Autosaves/Game/Blueprints/Characters/ABP_Echo_Auto2.uasset'
+[2025.09.04-17.05.17:589][463]LogFileHelpers: Auto-saving content packages took 0.234
+[2025.09.04-17.06.21:200][344]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2025.09.04-17.06.22:682][384]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2025.09.04-17.06.23:765][384]LogSlate: Window 'Save Content' being destroyed
+[2025.09.04-17.06.23:777][384]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.04-17.06.23:814][384]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Characters/ABP_Echo] ([2] browsable assets)...
+[2025.09.04-17.06.23:982][384]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Blueprints/Characters/ABP_Echo.ABP_Echo]
+[2025.09.04-17.06.23:982][384]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/ABP_Echo]
+[2025.09.04-17.06.24:020][384]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/ABP_Echo
+[2025.09.04-17.06.24:021][384]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/ABP_Echo480FDD164D7DF784F6A8ABB29FBB744F.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Characters/ABP_Echo.uasset'
+[2025.09.04-17.06.24:034][384]LogFileHelpers: InternalPromptForCheckoutAndSave took 256.868 ms (total: 815.060 ms)
+[2025.09.04-17.06.24:073][384]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.04-17.06.24:073][384]LogContentValidation: Enabled validators:
+[2025.09.04-17.06.24:073][384]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.04-17.06.24:073][384]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.04-17.06.24:073][384]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.04-17.06.24:073][384]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.04-17.06.24:073][384]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.04-17.06.24:073][384]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.04-17.06.24:073][384]AssetCheck: /Game/Blueprints/Characters/ABP_Echo Validating asset
