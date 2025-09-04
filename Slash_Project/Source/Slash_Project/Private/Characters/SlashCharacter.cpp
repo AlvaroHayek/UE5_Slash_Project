@@ -55,6 +55,7 @@ void ASlashCharacter::SetupPlayerInputComponent(UInputComponent* PlayerInputComp
 	PlayerInputComponent->BindAxis(FName("LookUp"), this, &ASlashCharacter::LookUp);
 
 	PlayerInputComponent->BindAction(FName("Jump"), IE_Pressed, this, &ACharacter::Jump);
+	PlayerInputComponent->BindAction(FName("Equip"), IE_Pressed, this, &ASlashCharacter::EKeyPressed);
 }
 
 void ASlashCharacter::MoveForward(float Value)
@@ -91,6 +92,10 @@ void ASlashCharacter::Turn(float Value)
 void ASlashCharacter::LookUp(float Value)
 {
 	AddControllerPitchInput(Value);
+}
+
+void ASlashCharacter::EKeyPressed()
+{
 }
 
 
