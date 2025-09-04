@@ -2051,3 +2051,433 @@ Skipped package /AudioModulation/Volume was expected to be found in plugin Audio
 [2025.09.04-17.06.24:073][384]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.09.04-17.06.24:073][384]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.09.04-17.06.24:073][384]AssetCheck: /Game/Blueprints/Characters/ABP_Echo Validating asset
+[2025.09.04-17.07.14:937][889]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13862.313477
+[2025.09.04-17.07.15:170][896]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.04-17.07.15:170][896]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13862.512695, Update Interval: 357.720276
+[2025.09.04-17.12.44:819][712]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2025.09.04-17.12.44:825][712]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.09.04-17.12.44:827][712]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=18248
+[2025.09.04-17.12.44:893][714]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.09.04-17.12.44:902][714]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{58ea4715-9790-4598-9427-e0f8b9d39fd0}, Name=Altavoces (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=37.46
+[2025.09.04-17.12.44:903][714]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.09.04-17.12.44:909][714]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.09.04-20.14.14:149][718]LogEOSSDK: Warning: LogHttp: 00000B91D5683600: invalid HTTP response code received. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B2954A637-4FB4-3D25-C352-E5B3E1E021B7%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.16.4-36651368%20-%20%2B%2BEOSSDK%2BRelease-1.16.4-CL-36651368&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.09.04-20.14.14:150][718]LogEOSSDK: Warning: LogHttp: 00000B91D5683600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.09.04-20.14.14:150][718]LogEOSSDK: Warning: LogHttp: 00000B91D5683600: libcurl info message cache 0 (Too old connection (10922 seconds idle), disconnect it)
+[2025.09.04-20.14.14:150][718]LogEOSSDK: Warning: LogHttp: 00000B91D5683600: libcurl info message cache 1 (Connection 32 seems to be dead)
+[2025.09.04-20.14.14:150][718]LogEOSSDK: Warning: LogHttp: 00000B91D5683600: libcurl info message cache 2 (Closing connection)
+[2025.09.04-20.14.14:150][718]LogEOSSDK: Warning: LogHttp: 00000B91D5683600: libcurl info message cache 3 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.09.04-20.14.14:150][718]LogEOSSDK: Warning: LogHttp: 00000B91D5683600: libcurl info message cache 4 (Could not resolve host: api.epicgames.dev)
+[2025.09.04-20.14.14:150][718]LogEOSSDK: Warning: LogHttp: 00000B91D5683600: libcurl info message cache 5 (Closing connection)
+[2025.09.04-20.14.14:150][718]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B2954A637-4FB4-3D25-C352-E5B3E1E021B7%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.16.4-36651368%20-%20%2B%2BEOSSDK%2BRelease-1.16.4-CL-36651368&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2025.09.04-21.19.37:783][975]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 29016.156250
+[2025.09.04-21.19.40:065][993]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.04-21.19.40:065][993]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 29018.394531, Update Interval: 340.883209
+[2025.09.04-21.26.18:611][911]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 29416.994141
+[2025.09.04-21.26.18:916][920]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.04-21.26.18:916][920]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 29417.265625, Update Interval: 310.968353
+[2025.09.04-21.32.14:648][553]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 29772.955078
+[2025.09.04-21.32.14:914][561]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.04-21.32.14:914][561]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 29773.189453, Update Interval: 344.860382
+[2025.09.04-21.38.34:197][904]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 30152.517578
+[2025.09.04-21.38.34:466][912]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.04-21.38.34:466][913]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 30152.757812, Update Interval: 323.026215
+[2025.09.04-21.39.24:516][410]LogDerivedDataCache: C:/Users/Usuario/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.008 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.09.04-21.44.53:318][250]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 30531.638672
+[2025.09.04-21.44.54:222][277]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.04-21.44.54:222][277]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 30532.509766, Update Interval: 356.172974
+[2025.09.04-21.51.38:423][379]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 30936.644531
+[2025.09.04-21.51.38:690][387]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.04-21.51.38:690][387]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 30936.878906, Update Interval: 345.094757
+[2025.09.04-21.58.06:056][971]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 31324.250000
+[2025.09.04-21.58.06:321][979]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.04-21.58.06:321][979]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 31324.480469, Update Interval: 329.442413
+[2025.09.04-22.04.10:345][881]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 31688.562500
+[2025.09.04-22.04.10:581][888]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.04-22.04.10:581][889]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 31688.763672, Update Interval: 350.791351
+[2025.09.04-22.10.52:111][729]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 32090.386719
+[2025.09.04-22.10.52:378][737]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.04-22.10.52:378][737]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 32090.621094, Update Interval: 336.263306
+[2025.09.04-22.16.59:643][731]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 32457.531250
+[2025.09.04-22.17.00:544][758]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.04-22.17.00:544][759]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 32458.392578, Update Interval: 337.733704
+[2025.09.04-22.23.25:543][280]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 32843.871094
+[2025.09.04-22.23.26:077][296]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.04-22.23.26:077][297]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 32844.386719, Update Interval: 353.816345
+[2025.09.04-22.30.00:163][ 92]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 33241.683594
+[2025.09.04-22.30.00:397][ 99]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.04-22.30.00:397][ 99]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 33241.886719, Update Interval: 333.007599
+[2025.09.04-22.36.13:928][272]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 33618.953125
+[2025.09.04-22.36.14:194][280]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.04-22.36.14:194][281]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 33619.191406, Update Interval: 336.327393
+[2025.09.04-22.39.24:509][975]LogDerivedDataCache: C:/Users/Usuario/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.09.04-22.42.28:535][482]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 33996.503906
+[2025.09.04-22.42.28:802][490]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.04-22.42.28:802][490]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 33996.742188, Update Interval: 323.434540
+[2025.09.04-22.48.25:499][171]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 34355.335938
+[2025.09.04-22.48.25:733][178]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.04-22.48.25:733][178]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 34355.539062, Update Interval: 355.136566
+[2025.09.04-22.55.08:428][232]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 34760.628906
+[2025.09.04-22.55.08:663][239]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.04-22.55.08:664][239]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 34760.828125, Update Interval: 321.107208
+[2025.09.04-23.01.27:243][578]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 35139.812500
+[2025.09.04-23.01.27:508][586]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.04-23.01.27:510][587]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 35140.050781, Update Interval: 327.902466
+[2025.09.04-23.05.31:719][895]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Auriculares (Vieta Pro Calm 2 Stereo), InstanceID=1
+[2025.09.04-23.05.31:732][895]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.09.04-23.05.31:733][895]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=18248
+[2025.09.04-23.05.31:860][899]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.09.04-23.05.31:869][899]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=44100, DeviceID={0.0.0.00000000}.{a6cfb85f-2618-431e-bd23-0177754ea7a2}, Name=Auriculares (Vieta Pro Calm 2 Stereo)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=124.72
+[2025.09.04-23.05.31:870][899]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.09.04-23.05.31:874][899]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.09.04-23.06.02:590][444]LogSlate: Window 'ABP_Echo' being destroyed
+[2025.09.04-23.06.02:616][444]LogSlate: Window 'ABP_Echo' being destroyed
+[2025.09.04-23.06.02:895][444]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.09.04-23.06.02:938][444]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.04-23.06.03:396][444]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.09.04-23.06.03:396][444]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.04-23.06.04:115][444]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2025.09.04-23.06.04:115][444]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.04-23.06.04:810][444]LogUObjectHash: Compacting FUObjectHashTables data took   8.58ms
+[2025.09.04-23.06.13:545][633]LogStreaming: Display: FlushAsyncLoading(513): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.04-23.06.13:768][633]LogAssetEditorSubsystem: Opening Asset editor for IKRetargeter /Game/Blueprints/Characters/Rigs/RTG_T-pose.RTG_T-pose
+[2025.09.04-23.06.13:931][633]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_11
+[2025.09.04-23.06.14:017][633]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_11'.
+[2025.09.04-23.06.14:830][633]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SKM_T-Pose) ...
+[2025.09.04-23.06.14:961][633]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.04-23.06.15:059][633]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'DebugSkelMeshComponent_1' with 'Echo'
+[2025.09.04-23.06.17:365][633]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_12
+[2025.09.04-23.06.17:366][633]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_12'.
+[2025.09.04-23.06.20:296][637]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_13
+[2025.09.04-23.06.20:297][637]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_13'.
+[2025.09.04-23.06.20:380][638]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_14
+[2025.09.04-23.06.20:380][638]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_14'.
+[2025.09.04-23.06.20:472][639]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_15
+[2025.09.04-23.06.20:474][639]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_15'.
+[2025.09.04-23.07.28:596][528]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 35503.167969
+[2025.09.04-23.07.28:930][538]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.04-23.07.28:930][538]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 35503.460938, Update Interval: 348.202148
+[2025.09.04-23.11.06:867][927]LogStreaming: Display: FlushAsyncLoading(517): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.04-23.11.10:485][927]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Usuario/Downloads/Standing Run Forward.fbx]
+[2025.09.04-23.11.10:775][927]LogInterchangePipeline: Warning: UInterchangeGenericAnimationPipeline: Cannot execute pre-import pipeline because importing animation only requires a valid skeleton.
+[2025.09.04-23.11.10:872][927]LogInterchangePipeline: Warning: UInterchangeGenericAnimationPipeline: Cannot execute pre-import pipeline because importing animation only requires a valid skeleton.
+[2025.09.04-23.11.19:397][927]LogSlate: Took 0.011284 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.09.04-23.11.19:514][927]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_16
+[2025.09.04-23.11.19:515][927]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_16'.
+[2025.09.04-23.11.19:688][927]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_17
+[2025.09.04-23.11.19:688][927]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_17'.
+[2025.09.04-23.11.19:766][927]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_18
+[2025.09.04-23.11.19:766][927]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_18'.
+[2025.09.04-23.11.35:590][927]LogSlate: Window 'Import Content' being destroyed
+[2025.09.04-23.11.35:634][927]LogInterchangeEngine: [Pending] Importing
+[2025.09.04-23.11.37:191][930]LogStreaming: Display: FlushAsyncLoading(526): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.04-23.11.37:214][931]LogRHI: Error: GpuProfiler's scratch buffer is out of space for this frame (current size : 32 kB). Dropping this frame. The size can be increased dynamically with the console variable r.GpuProfilerMaxEventBufferSizeKB
+[2025.09.04-23.11.37:297][932]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Blueprints/Characters/Animations/Standing_Run_Forward.Standing_Run_Forward (Required Memory Estimate: 0.41 MB)
+[2025.09.04-23.11.37:325][932]LogAnimationCompression: Display: Storing compressed animation data for /Game/Blueprints/Characters/Animations/Standing_Run_Forward.Standing_Run_Forward, at AnimationSequence/a5dc8d5bd3111700027bf2c16667a0e42d0f2b5d
+[2025.09.04-23.11.37:397][932]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Usuario/Downloads/Standing Run Forward.fbx]
+[2025.09.04-23.11.37:404][932]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.09.04-23.11.37:404][932]LogInterchangeEngine: [Success] Import Done
+[2025.09.04-23.11.38:431][937]LogStreaming: Display: FlushAsyncLoading(527): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.04-23.11.38:485][937]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Blueprints/Characters/Animations/Standing_Melee_Attack_Horizontal.Standing_Melee_Attack_Horizontal
+[2025.09.04-23.11.38:499][937]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_19
+[2025.09.04-23.11.38:501][937]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_19'.
+[2025.09.04-23.11.38:528][937]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'DebugSkelMeshComponent_0' with 'Echo'
+[2025.09.04-23.11.38:529][937]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.04-23.11.39:153][937]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_20
+[2025.09.04-23.11.39:153][937]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_20'.
+[2025.09.04-23.11.39:403][937]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.04-23.12.01:943][232]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2025.09.04-23.12.03:035][232]LogSlate: Window 'Delete Assets' being destroyed
+[2025.09.04-23.12.03:161][232]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Blueprints/Characters/Animations/Standing_Run_Forward.Standing_Run_Forward
+	Asset Type: AnimSequence
+[2025.09.04-23.12.04:879][232]LogUObjectHash: Compacting FUObjectHashTables data took   8.54ms
+[2025.09.04-23.12.04:924][232]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2025.09.04-23.12.04:948][232]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.09.04-23.12.24:373][483]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SkeletalMesh_64.svg'. File could not be found
+[2025.09.04-23.12.24:508][484]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_21
+[2025.09.04-23.12.24:508][484]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_21'.
+[2025.09.04-23.12.33:849][564]LogStreaming: Display: FlushAsyncLoading(528): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.04-23.12.33:911][564]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Usuario/Downloads/Standing Run Forward.fbx]
+[2025.09.04-23.12.34:038][564]LogInterchangePipeline: Warning: UInterchangeGenericAnimationPipeline: Cannot execute pre-import pipeline because importing animation only requires a valid skeleton.
+[2025.09.04-23.12.34:068][564]LogInterchangePipeline: Warning: UInterchangeGenericAnimationPipeline: Cannot execute pre-import pipeline because importing animation only requires a valid skeleton.
+[2025.09.04-23.12.39:912][564]LogSlate: Window 'Import Content' being destroyed
+[2025.09.04-23.12.39:953][564]LogInterchangeEngine: [Pending] Importing
+[2025.09.04-23.12.41:182][567]LogStreaming: Display: FlushAsyncLoading(529): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.04-23.12.41:252][568]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Usuario/Downloads/Standing Run Forward.fbx]
+[2025.09.04-23.12.41:254][568]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.09.04-23.12.41:254][568]LogInterchangeEngine: [Success] Import Done
+[2025.09.04-23.12.43:837][606]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2025.09.04-23.12.44:789][606]LogSlate: Window 'Save Content' being destroyed
+[2025.09.04-23.12.44:807][606]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.04-23.12.44:842][606]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AncientContent/Characters/Echo/Mixamo_Animations/Animations/Standing_Run_Forward] ([1] browsable assets)...
+[2025.09.04-23.12.44:857][606]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/AncientContent/Characters/Echo/Mixamo_Animations/Animations/Standing_Run_Forward.Standing_Run_Forward]
+[2025.09.04-23.12.44:857][606]OBJ SavePackage: Finished generating thumbnails for package [/Game/AncientContent/Characters/Echo/Mixamo_Animations/Animations/Standing_Run_Forward]
+[2025.09.04-23.12.44:895][606]LogSavePackage: Moving output files for package: /Game/AncientContent/Characters/Echo/Mixamo_Animations/Animations/Standing_Run_Forward
+[2025.09.04-23.12.44:895][606]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Standing_Run_Forward86CD3D0D4F95D1FEB8BB52BDD5E8CBB7.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/AncientContent/Characters/Echo/Mixamo_Animations/Animations/Standing_Run_Forward.uasset'
+[2025.09.04-23.12.44:954][606]LogFileHelpers: InternalPromptForCheckoutAndSave took 146.137 ms (total: 961.197 ms)
+[2025.09.04-23.12.45:013][606]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.04-23.12.45:013][606]LogContentValidation: Enabled validators:
+[2025.09.04-23.12.45:013][606]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.04-23.12.45:013][606]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.04-23.12.45:013][606]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.04-23.12.45:013][606]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.04-23.12.45:013][606]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.04-23.12.45:013][606]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.04-23.12.45:015][606]AssetCheck: /Game/AncientContent/Characters/Echo/Mixamo_Animations/Animations/Standing_Run_Forward Validating asset
+[2025.09.04-23.13.30:612][886]LogContentBrowser: Attempting asset rename: Standing_Run_Forward -> Standing_Run_Forward
+[2025.09.04-23.13.31:531][904]LogStreaming: Display: FlushAsyncLoading(530): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.04-23.13.39:079][ 41]LogContentBrowser: Attempting asset rename: Standing_Run_Forward -> Standing_Run_Forward
+[2025.09.04-23.13.54:607][154]LogSlate: Window 'Export Animations' being destroyed
+[2025.09.04-23.13.56:808][154]LogSlate: Window 'Batch Export Options' being destroyed
+[2025.09.04-23.13.56:974][154]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Blueprints/Characters/Animations/Standing_Run_Forward.Standing_Run_Forward (Required Memory Estimate: 0.73 MB)
+[2025.09.04-23.13.57:000][154]LogAnimationCompression: Display: Storing compressed animation data for /Game/Blueprints/Characters/Animations/Standing_Run_Forward.Standing_Run_Forward, at AnimationSequence/69fdec359309c5975b18bfe08312d9422905f9e8
+[2025.09.04-23.13.57:014][154]LogTemp: Display: Duplicate and Retarget - New Asset Created: Standing_Run_Forward
+[2025.09.04-23.14.09:208][393]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 35904.000000
+[2025.09.04-23.14.09:471][398]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.04-23.14.09:471][398]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 35904.210938, Update Interval: 344.827423
+[2025.09.04-23.14.11:875][427]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Blueprints/Characters/Animations/Standing_Run_Forward.Standing_Run_Forward
+[2025.09.04-23.14.11:938][427]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.04-23.15.16:221][636]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2025.09.04-23.15.17:213][636]LogSlate: Window 'Save Content' being destroyed
+[2025.09.04-23.15.17:229][636]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.04-23.15.17:283][636]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Characters/Animations/Standing_Run_Forward] ([1] browsable assets)...
+[2025.09.04-23.15.17:317][636]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Blueprints/Characters/Animations/Standing_Run_Forward.Standing_Run_Forward]
+[2025.09.04-23.15.17:317][636]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/Animations/Standing_Run_Forward]
+[2025.09.04-23.15.17:337][636]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/Animations/Standing_Run_Forward
+[2025.09.04-23.15.17:338][636]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Standing_Run_Forward2342B9DE43E6B1DF461E6BB1965C93FB.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Characters/Animations/Standing_Run_Forward.uasset'
+[2025.09.04-23.15.17:363][636]LogFileHelpers: InternalPromptForCheckoutAndSave took 132.671 ms (total: 1.09 sec)
+[2025.09.04-23.15.17:395][636]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.04-23.15.17:395][636]LogContentValidation: Enabled validators:
+[2025.09.04-23.15.17:395][636]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.04-23.15.17:395][636]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.04-23.15.17:395][636]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.04-23.15.17:395][636]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.04-23.15.17:395][636]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.04-23.15.17:395][636]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.04-23.15.17:395][636]AssetCheck: /Game/Blueprints/Characters/Animations/Standing_Run_Forward Validating asset
+[2025.09.04-23.15.46:129][ 95]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Blueprints/Characters/ABP_Echo.ABP_Echo
+[2025.09.04-23.15.46:133][ 95]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_22
+[2025.09.04-23.15.46:134][ 95]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_22'.
+[2025.09.04-23.15.46:195][ 95]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_23
+[2025.09.04-23.15.46:196][ 95]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_23'.
+[2025.09.04-23.15.46:219][ 95]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'DebugSkelMeshComponent_0' with 'Echo'
+[2025.09.04-23.15.46:220][ 95]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.04-23.15.46:816][ 95]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_24
+[2025.09.04-23.15.46:819][ 95]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_24'.
+[2025.09.04-23.15.53:548][170]LogAssetEditorSubsystem: Opening Asset editor for ControlRigBlueprint /Game/Blueprints/Characters/Rigs/CR_EchoFootIK.CR_EchoFootIK
+[2025.09.04-23.15.53:552][170]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_25
+[2025.09.04-23.15.53:553][170]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_25'.
+[2025.09.04-23.15.53:960][170]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_26
+[2025.09.04-23.15.53:961][170]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_26'.
+[2025.09.04-23.15.54:037][170]LogStreaming: Display: FlushAsyncLoading(531): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.04-23.15.54:072][170]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'ControlRigSkeletalMeshComponent_0' with 'Echo'
+[2025.09.04-23.15.54:075][170]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.ControlRigSkeletalMeshComponent_0) Already registered. Aborting.
+[2025.09.04-23.15.54:080][170]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.ControlRigSkeletalMeshComponent_0) Already registered. Aborting.
+[2025.09.04-23.15.54:564][170]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2025.09.04-23.15.55:095][170]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SGraphPanel [SGraphEditorImpl.cpp(734)].
+[2025.09.04-23.15.58:764][208]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2025.09.04-23.15.58:764][208]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.04-23.15.58:794][208]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2025.09.04-23.15.58:794][208]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.04-23.15.59:134][208]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2025.09.04-23.16.48:644][952]LogStreaming: Display: FlushAsyncLoading(532): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.04-23.19.55:176][886]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2025.09.04-23.19.55:176][886]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.04-23.19.55:191][886]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2025.09.04-23.19.55:191][886]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.04-23.19.55:237][886]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2025.09.04-23.20.08:681][101]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Blueprints/Characters/Animations/Standing_Run_Forward.Standing_Run_Forward
+[2025.09.04-23.20.08:681][101]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_27
+[2025.09.04-23.20.08:682][101]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_27'.
+[2025.09.04-23.20.09:057][101]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'DebugSkelMeshComponent_0' with 'Echo'
+[2025.09.04-23.20.09:058][101]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.04-23.20.09:425][101]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_28
+[2025.09.04-23.20.09:427][101]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_28'.
+[2025.09.04-23.20.09:516][101]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.04-23.20.30:811][471]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 36285.703125
+[2025.09.04-23.20.31:228][477]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.04-23.20.31:228][477]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 36286.070312, Update Interval: 313.980530
+[2025.09.04-23.22.51:360][863]Cmd: TRANSACTION UNDO
+[2025.09.04-23.22.51:361][863]LogEditorTransaction: Undo Rotate Bone
+[2025.09.04-23.22.52:012][863]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.04-23.22.52:075][863]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.04-23.22.52:089][863]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.04-23.26.16:068][269]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 36631.371094
+[2025.09.04-23.26.16:289][276]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.04-23.26.16:289][276]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 36631.574219, Update Interval: 328.451782
+[2025.09.04-23.26.55:126][381]Cmd: TRANSACTION UNDO
+[2025.09.04-23.26.55:126][381]LogEditorTransaction: Undo Translate Bone
+[2025.09.04-23.26.55:800][381]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.04-23.26.55:867][381]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.04-23.26.55:876][381]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.04-23.27.41:431][652]Cmd: TRANSACTION UNDO
+[2025.09.04-23.27.41:432][652]LogEditorTransaction: Undo Rotate Bone
+[2025.09.04-23.27.42:111][652]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.04-23.27.42:176][652]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.04-23.27.42:186][652]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.04-23.27.45:740][745]Cmd: TRANSACTION UNDO
+[2025.09.04-23.27.45:740][745]LogEditorTransaction: Undo Rotate Bone
+[2025.09.04-23.27.46:390][745]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.04-23.27.46:448][745]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.04-23.27.46:457][745]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.04-23.29.04:608][980]Cmd: TRANSACTION UNDO
+[2025.09.04-23.29.04:609][980]LogEditorTransaction: Undo Translate Bone
+[2025.09.04-23.29.05:249][980]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.04-23.29.05:313][980]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.04-23.29.05:322][980]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.04-23.29.42:317][  6]Cmd: TRANSACTION UNDO
+[2025.09.04-23.29.42:317][  6]LogEditorTransaction: Undo Translate Bone
+[2025.09.04-23.29.43:000][  6]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.04-23.29.43:061][  6]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.04-23.29.43:070][  6]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.04-23.29.56:390][370]Cmd: TRANSACTION UNDO
+[2025.09.04-23.29.56:390][370]LogEditorTransaction: Undo Translate Bone
+[2025.09.04-23.29.57:033][370]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.04-23.29.57:094][370]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.04-23.29.57:103][370]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.04-23.30.00:708][458]Cmd: TRANSACTION UNDO
+[2025.09.04-23.30.00:708][458]LogEditorTransaction: Undo Translate Bone
+[2025.09.04-23.30.01:341][458]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.04-23.30.01:398][458]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.04-23.30.01:406][458]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.04-23.30.02:472][481]Cmd: TRANSACTION UNDO
+[2025.09.04-23.30.02:473][481]LogEditorTransaction: Undo Translate Bone
+[2025.09.04-23.30.03:133][481]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.04-23.30.03:191][481]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.04-23.30.03:200][481]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.04-23.30.12:279][725]Cmd: TRANSACTION UNDO
+[2025.09.04-23.30.12:279][725]LogEditorTransaction: Undo Translate Bone
+[2025.09.04-23.30.12:912][725]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.04-23.30.12:977][725]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.04-23.30.12:988][725]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.04-23.30.23:399][ 15]Cmd: TRANSACTION UNDO
+[2025.09.04-23.30.23:399][ 15]LogEditorTransaction: Undo Translate Bone
+[2025.09.04-23.30.24:047][ 15]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.04-23.30.24:107][ 15]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.04-23.30.24:117][ 15]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.04-23.32.44:214][ 20]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 37019.343750
+[2025.09.04-23.32.44:522][ 26]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.04-23.32.44:522][ 27]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 37019.597656, Update Interval: 318.871429
+[2025.09.04-23.34.38:754][247]Cmd: TRANSACTION UNDO
+[2025.09.04-23.34.38:754][247]LogEditorTransaction: Undo Translate Bone
+[2025.09.04-23.34.39:393][247]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.04-23.34.39:456][247]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.04-23.34.39:465][247]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.04-23.34.51:330][572]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Blueprints/Characters/Animations/Standing_Run_Forward.Standing_Run_Forward (Required Memory Estimate: 0.73 MB)
+[2025.09.04-23.34.51:362][572]LogAnimationCompression: Display: Storing compressed animation data for /Game/Blueprints/Characters/Animations/Standing_Run_Forward.Standing_Run_Forward, at AnimationSequence/0c61f082da7aa0f5b4cb0f34fc51edfa144d794f
+[2025.09.04-23.35.02:642][905]Cmd: MODE SCALEGRID=0
+[2025.09.04-23.35.03:765][936]Cmd: MODE SCALEGRID=1
+[2025.09.04-23.37.25:535][947]Cmd: TRANSACTION UNDO
+[2025.09.04-23.37.25:535][947]LogEditorTransaction: Undo Translate Bone
+[2025.09.04-23.37.26:168][947]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.04-23.37.26:228][947]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.04-23.37.26:237][947]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.04-23.37.27:455][969]Cmd: TRANSACTION UNDO
+[2025.09.04-23.37.27:455][969]LogEditorTransaction: Undo Translate Bone
+[2025.09.04-23.37.28:088][969]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.04-23.37.28:144][969]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.04-23.37.28:153][969]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.04-23.38.38:155][925]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 37373.460938
+[2025.09.04-23.38.38:420][933]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.04-23.38.38:420][933]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 37373.691406, Update Interval: 332.650543
+[2025.09.04-23.39.02:899][604]Cmd: TRANSACTION UNDO
+[2025.09.04-23.39.02:900][604]LogEditorTransaction: Undo Translate Bone
+[2025.09.04-23.39.03:535][604]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.04-23.39.03:596][604]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.04-23.39.03:606][604]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.04-23.39.04:213][615]Cmd: TRANSACTION UNDO
+[2025.09.04-23.39.04:213][615]LogEditorTransaction: Undo Translate Bone
+[2025.09.04-23.39.04:831][615]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.04-23.39.04:887][615]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.04-23.39.04:897][615]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.04-23.39.07:218][675]Cmd: TRANSACTION UNDO
+[2025.09.04-23.39.07:218][675]LogEditorTransaction: Undo Rotate Bone
+[2025.09.04-23.39.07:834][675]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.04-23.39.07:895][675]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.04-23.39.07:904][675]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.04-23.39.08:529][688]Cmd: TRANSACTION UNDO
+[2025.09.04-23.39.08:529][688]LogEditorTransaction: Undo Translate Bone
+[2025.09.04-23.39.09:160][688]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.04-23.39.09:217][688]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.04-23.39.09:227][688]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.04-23.39.09:935][703]Cmd: TRANSACTION UNDO
+[2025.09.04-23.39.09:935][703]LogEditorTransaction: Undo Rotate Bone
+[2025.09.04-23.39.10:562][703]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.04-23.39.10:620][703]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.04-23.39.10:629][703]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.04-23.39.11:258][717]Cmd: TRANSACTION UNDO
+[2025.09.04-23.39.11:258][717]LogEditorTransaction: Undo Rotate Bone
+[2025.09.04-23.39.11:888][717]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.04-23.39.11:946][717]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.04-23.39.11:955][717]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.04-23.39.13:752][766]Cmd: TRANSACTION UNDO
+[2025.09.04-23.39.13:752][766]LogEditorTransaction: Undo Translate Bone
+[2025.09.04-23.39.14:380][766]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.04-23.39.14:437][766]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.04-23.39.14:446][766]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.04-23.39.16:484][820]Cmd: TRANSACTION REDO
+[2025.09.04-23.39.16:485][820]LogEditorTransaction: Redo Translate Bone
+[2025.09.04-23.39.17:116][820]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.04-23.39.17:173][820]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.04-23.39.17:178][820]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.04-23.39.24:510][ 22]LogDerivedDataCache: C:/Users/Usuario/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.09.04-23.39.43:870][549]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2025.09.04-23.39.44:803][549]LogSlate: Window 'Save Content' being destroyed
+[2025.09.04-23.39.44:816][549]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.04-23.39.44:855][549]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/Animations/Standing_Run_Forward] ([1] browsable assets)...
+[2025.09.04-23.39.44:855][549]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/Animations/Standing_Run_Forward]
+[2025.09.04-23.39.44:887][549]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/Animations/Standing_Run_Forward
+[2025.09.04-23.39.44:888][549]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Standing_Run_Forward08FE04FA402A84FEBCEBAD8F964360C4.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Characters/Animations/Standing_Run_Forward.uasset'
+[2025.09.04-23.39.44:904][549]LogFileHelpers: InternalPromptForCheckoutAndSave took 88.094 ms (total: 1.18 sec)
+[2025.09.04-23.39.44:946][549]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.04-23.39.44:946][549]LogContentValidation: Enabled validators:
+[2025.09.04-23.39.44:946][549]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.04-23.39.44:946][549]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.04-23.39.44:946][549]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.04-23.39.44:946][549]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.04-23.39.44:946][549]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.04-23.39.44:946][549]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.04-23.39.44:947][549]AssetCheck: /Game/Blueprints/Characters/Animations/Standing_Run_Forward Validating asset
+[2025.09.04-23.40.11:476][104]Cmd: TRANSACTION UNDO
+[2025.09.04-23.40.11:476][104]LogEditorTransaction: Undo Rotate Bone
+[2025.09.04-23.40.12:143][104]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.04-23.40.12:203][104]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.04-23.40.12:213][104]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.04-23.40.30:916][479]Cmd: TRANSACTION UNDO
+[2025.09.04-23.40.30:916][479]LogEditorTransaction: Undo Rotate Bone
+[2025.09.04-23.40.31:553][479]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.04-23.40.31:698][479]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.04-23.40.31:708][479]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.04-23.45.05:278][110]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2025.09.04-23.45.07:035][136]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 37763.960938
+[2025.09.04-23.45.07:278][142]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.04-23.45.07:278][142]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 37764.164062, Update Interval: 345.048981
+[2025.09.04-23.45.29:695][767]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2025.09.04-23.45.29:699][767]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Minimal_Default_2' took 0.035
+[2025.09.04-23.45.29:700][767]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Characters/ABP_Echo] ([2] browsable assets)...
+[2025.09.04-23.45.29:868][767]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Blueprints/Characters/ABP_Echo.ABP_Echo]
+[2025.09.04-23.45.29:868][767]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/ABP_Echo]
+[2025.09.04-23.45.29:925][767]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Characters/ABP_Echo_Auto3
+[2025.09.04-23.45.29:925][767]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/ABP_Echo_Auto34FF369654814234D9B5A57B8C0E21FAD.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Autosaves/Game/Blueprints/Characters/ABP_Echo_Auto3.uasset'
+[2025.09.04-23.45.29:926][767]LogFileHelpers: Auto-saving content packages took 0.226
+[2025.09.04-23.46.36:733][636]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2025.09.04-23.46.47:665][939]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.09.04-23.46.49:536][990]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.09.04-23.46.50:439][990]LogSlate: Window 'Save Content' being destroyed
+[2025.09.04-23.46.50:458][990]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.04-23.46.50:492][990]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Characters/ABP_Echo] ([2] browsable assets)...
+[2025.09.04-23.46.50:600][990]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Blueprints/Characters/ABP_Echo.ABP_Echo]
+[2025.09.04-23.46.50:601][990]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/ABP_Echo]
+[2025.09.04-23.46.50:642][990]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/ABP_Echo
+[2025.09.04-23.46.50:643][990]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/ABP_Echo7316BBD541F9BBE35A31CDB1BEDB0AB8.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Characters/ABP_Echo.uasset'
+[2025.09.04-23.46.50:662][990]LogFileHelpers: InternalPromptForCheckoutAndSave took 204.277 ms (total: 1.38 sec)
+[2025.09.04-23.46.50:700][990]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.04-23.46.50:700][990]LogContentValidation: Enabled validators:
+[2025.09.04-23.46.50:700][990]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.04-23.46.50:700][990]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.04-23.46.50:700][990]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.04-23.46.50:700][990]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.04-23.46.50:700][990]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.04-23.46.50:700][990]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.04-23.46.50:701][990]AssetCheck: /Game/Blueprints/Characters/ABP_Echo Validating asset
