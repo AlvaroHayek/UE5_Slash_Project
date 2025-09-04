@@ -1629,3 +1629,261 @@ Skipped package /AudioModulation/Volume was expected to be found in plugin Audio
 [2025.09.04-15.46.34:396][713]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
 [2025.09.04-15.46.34:463][713]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
 [2025.09.04-15.46.35:008][716]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2025.09.04-15.52.14:170][830]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9362.800781
+[2025.09.04-15.52.14:437][838]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.04-15.52.14:437][839]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9363.033203, Update Interval: 336.821808
+[2025.09.04-15.58.22:282][837]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9730.638672
+[2025.09.04-15.58.22:550][845]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.04-15.58.22:550][846]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9730.872070, Update Interval: 344.929962
+[2025.09.04-16.01.11:852][846]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2025.09.04-16.01.11:852][846]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_4'.
+[2025.09.04-16.01.12:015][847]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2025.09.04-16.01.12:015][847]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_5'.
+[2025.09.04-16.01.14:589][892]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2025.09.04-16.01.14:589][892]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_6'.
+[2025.09.04-16.01.20:877][ 31]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Blueprints/Characters/ABP_Echo.ABP_Echo
+[2025.09.04-16.01.20:883][ 31]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2025.09.04-16.01.20:884][ 31]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_7'.
+[2025.09.04-16.01.21:140][ 31]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2025.09.04-16.01.21:142][ 31]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_8'.
+[2025.09.04-16.01.21:148][ 31]LogStreaming: Display: FlushAsyncLoading(346): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.04-16.01.21:347][ 31]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'DebugSkelMeshComponent_0' with 'Echo'
+[2025.09.04-16.01.21:348][ 31]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.04-16.01.21:906][ 31]LogLinker: Warning: [AssetLog] C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Content\AncientContent\Blueprints\Abilities\GameplayAbilityUtils.uasset: VerifyImport: Failed to find script package for import object 'Package /Script/GameplayAbilities'
+[2025.09.04-16.01.21:907][ 31]LogLinker: Warning: [AssetLog] C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Content\AncientContent\Blueprints\Abilities\GameplayAbilityUtils.uasset: CreateExport: Failed to load Class /Script/GameplayAbilities.GameplayAbility as Parent for BlueprintGeneratedClass /Game/AncientContent/Blueprints/Abilities/GameplayAbilityUtils.GameplayAbilityUtils_C - both will fail to load
+[2025.09.04-16.01.21:907][ 31]LogLinker: Warning: [AssetLog] C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Content\AncientContent\Blueprints\Abilities\GameplayAbilityUtils.uasset: CreateExport: Failed to load Class /Script/GameplayAbilities.GameplayAbility as Parent for BlueprintGeneratedClass /Game/AncientContent/Blueprints/Abilities/GameplayAbilityUtils.GameplayAbilityUtils_C - both will fail to load
+[2025.09.04-16.01.21:907][ 31]LogLinker: Warning: Unable to load Default__GameplayAbilityUtils_C with outer Package /Game/AncientContent/Blueprints/Abilities/GameplayAbilityUtils because its class (GameplayAbilityUtils_C) does not exist
+[2025.09.04-16.01.21:907][ 31]LogLinker: Warning: [AssetLog] C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Content\AncientContent\Blueprints\Abilities\GameplayAbilityUtils.uasset: CreateExport: Failed to load Class /Script/GameplayAbilities.GameplayAbility as Parent for BlueprintGeneratedClass /Game/AncientContent/Blueprints/Abilities/GameplayAbilityUtils.GameplayAbilityUtils_C - both will fail to load
+[2025.09.04-16.01.21:912][ 31]LogBlueprint: Warning: FMemberReference::ResolveMember (GetActorInfo) bSelfContext == true, but no scope supplied!
+[2025.09.04-16.01.21:912][ 31]LogBlueprint: Warning: FMemberReference::ResolveMember (GetActorInfo) bSelfContext == true, but no scope supplied!
+[2025.09.04-16.01.22:225][ 31]LogBlueprintEditor: Perf: 0.6 total seconds to load all 7 blueprint libraries in project. Avoid references to content in blueprint libraries to shorten this time.
+[2025.09.04-16.01.22:225][ 31]LogBlueprintEditor: Perf: 0.3 seconds loading: /Game/AncientContent/Blueprints/Character/BP_VaultingUtilLib
+[2025.09.04-16.01.25:684][ 31]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2025.09.04-16.01.25:684][ 31]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_9'.
+[2025.09.04-16.01.26:281][ 31]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_10
+[2025.09.04-16.01.26:282][ 31]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_10'.
+[2025.09.04-16.01.26:315][ 31]LogBlueprint: Warning: Blueprint /Game/AncientContent/Blueprints/Abilities/GameplayAbilityUtils is missing GeneratedClass asset tag
+[2025.09.04-16.01.26:411][ 31]LogSlate: Took 0.010008 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.09.04-16.01.26:423][ 31]LogSlate: Took 0.008330 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.09.04-16.01.38:197][301]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'Graph.Node.Comment.TextColor'.'
+[2025.09.04-16.02.00:236][934]LogStreaming: Display: FlushAsyncLoading(512): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.04-16.02.07:777][120]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.09.04-16.02.11:150][213]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.04-16.02.11:175][213]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.04-16.02.11:175][213]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Minimal_Default_2
+[2025.09.04-16.02.11:181][213]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006132s)
+[2025.09.04-16.02.11:181][213]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Minimal_Default_2.Minimal_Default_2 to /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 (0.006176s)
+[2025.09.04-16.02.11:205][213]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.09.04-16.02.11:206][213]LogChaosDD: Creating Chaos Debug Draw Scene for world Minimal_Default_2
+[2025.09.04-16.02.11:208][213]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2'.
+[2025.09.04-16.02.11:209][213]LogPlayLevel: PIE: World Init took: (0.002648s)
+[2025.09.04-16.02.11:210][213]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2025.09.04-16.02.11:210][213]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.04-16.02.11:210][213]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.04-16.02.11:210][213]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.04-16.02.11:210][213]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.04-16.02.11:210][213]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.04-16.02.11:210][213]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.04-16.02.11:210][213]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.04-16.02.11:210][213]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.04-16.02.11:210][213]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.04-16.02.11:210][213]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.04-16.02.11:210][213]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.04-16.02.11:214][213]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.04-16.02.11:231][213]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.09.04-16.02.11:231][213]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.04-16.02.11:231][213]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.04-16.02.11:231][213]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.04-16.02.11:231][213]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2025.09.04-16.02.11:231][213]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2025.09.04-16.02.11:236][213]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2025.09.04-16.02.11:236][213]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2025.09.04-16.02.11:236][213]LogInit: FAudioDevice initialized with ID 3.
+[2025.09.04-16.02.11:236][213]LogAudio: Display: Audio Device (ID: 3) registered with world 'Minimal_Default_2'.
+[2025.09.04-16.02.11:236][213]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2025.09.04-16.02.11:239][213]LogLoad: Game class is 'BP_GameMode_C'
+[2025.09.04-16.02.11:245][213]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Echo'
+[2025.09.04-16.02.11:247][213]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 up for play (max tick rate 60) at 2025.09.04-18.02.11
+[2025.09.04-16.02.11:249][213]LogWorld: Bringing up level for play took: 0.009391
+[2025.09.04-16.02.11:253][213]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2025.09.04-16.02.11:255][213]PIE: Server logged in
+[2025.09.04-16.02.11:256][213]PIE: Play in editor total start time 0.095 seconds.
+[2025.09.04-16.02.16:537][258]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.04-16.02.16:538][258]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Minimal_Default_2
+[2025.09.04-16.02.16:538][258]LogWorld: UWorld::CleanupWorld for Minimal_Default_2, bSessionEnded=true, bCleanupResources=true
+[2025.09.04-16.02.16:539][258]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.04-16.02.16:646][258]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.04-16.02.16:657][258]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.04-16.02.16:682][258]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.09.04-16.02.16:683][258]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2025.09.04-16.02.16:683][258]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.09.04-16.02.16:691][258]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.09.04-16.02.16:697][258]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.04-16.02.16:702][258]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2025.09.04-16.02.16:989][261]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2025.09.04-16.02.43:062][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2025.09.04-16.02.43:063][ 23]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Minimal_Default_2' took 0.023
+[2025.09.04-16.02.43:070][ 23]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Characters/ABP_Echo] ([2] browsable assets)...
+[2025.09.04-16.02.43:261][ 23]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Blueprints/Characters/ABP_Echo.ABP_Echo]
+[2025.09.04-16.02.43:261][ 23]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/ABP_Echo]
+[2025.09.04-16.02.43:336][ 23]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Characters/ABP_Echo_Auto1
+[2025.09.04-16.02.43:337][ 23]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/ABP_Echo_Auto1A6ECF37041EC6668B0DB528653B113B5.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Autosaves/Game/Blueprints/Characters/ABP_Echo_Auto1.uasset'
+[2025.09.04-16.02.43:355][ 23]LogFileHelpers: Auto-saving content packages took 0.291
+[2025.09.04-16.04.54:342][934]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10122.520508
+[2025.09.04-16.04.54:713][945]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.04-16.04.54:713][946]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10122.867188, Update Interval: 319.893188
+[2025.09.04-16.10.58:999][809]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10487.103516
+[2025.09.04-16.10.59:401][821]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.04-16.10.59:401][821]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10487.471680, Update Interval: 331.886963
+[2025.09.04-16.17.02:570][659]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10850.560547
+[2025.09.04-16.17.03:274][680]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.04-16.17.03:274][680]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10851.231445, Update Interval: 332.738434
+[2025.09.04-16.23.18:530][835]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11226.461914
+[2025.09.04-16.23.18:764][842]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.04-16.23.18:764][842]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11226.661133, Update Interval: 353.708313
+[2025.09.04-16.30.05:464][ 10]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11633.254883
+[2025.09.04-16.30.05:730][ 18]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.04-16.30.05:730][ 18]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11633.488281, Update Interval: 336.147949
+[2025.09.04-16.32.49:662][922]LogDerivedDataCache: C:/Users/Usuario/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.001 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.09.04-16.36.36:317][696]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12023.986328
+[2025.09.04-16.36.36:586][704]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.04-16.36.36:586][705]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12024.221680, Update Interval: 307.377533
+[2025.09.04-16.37.54:314][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   5.94ms
+[2025.09.04-16.37.55:912][ 21]LogSlate: Window 'Save Content' being destroyed
+[2025.09.04-16.37.55:984][ 21]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.04-16.37.56:124][ 21]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Characters/ABP_Echo] ([2] browsable assets)...
+[2025.09.04-16.37.56:125][ 21]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/ABP_Echo]
+[2025.09.04-16.37.56:170][ 21]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/ABP_Echo
+[2025.09.04-16.37.56:173][ 21]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/ABP_EchoD10533AF48FF59B1744E28A6AA6D5D22.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Characters/ABP_Echo.uasset'
+[2025.09.04-16.37.56:203][ 21]LogFileHelpers: InternalPromptForCheckoutAndSave took 217.764 ms
+[2025.09.04-16.37.56:286][ 21]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.04-16.37.56:286][ 21]LogContentValidation: Enabled validators:
+[2025.09.04-16.37.56:287][ 21]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.04-16.37.56:287][ 21]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.04-16.37.56:287][ 21]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.04-16.37.56:287][ 21]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.04-16.37.56:287][ 21]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.04-16.37.56:287][ 21]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.04-16.37.56:290][ 21]AssetCheck: /Game/Blueprints/Characters/ABP_Echo Validating asset
+[2025.09.04-16.37.58:467][ 82]Candidate modules for hot reload:
+[2025.09.04-16.37.58:467][ 82]  Slash_Project
+[2025.09.04-16.37.58:478][ 82]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_5.5/Engine/Build/BatchFiles/Build.bat  -ModuleWithSuffix=Slash_Project,2426 Slash_ProjectEditor Win64 Development -Project="C:/Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Slash_Project.uproject" "C:/Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Slash_Project.uproject"  -IgnoreJunk]
+[2025.09.04-16.37.58:508][ 82]Warning: Starting HotReload took  0.1s.
+[2025.09.04-16.39.02:417][984]CompilerResultsLog: Using bundled DotNet SDK version: 8.0.300
+[2025.09.04-16.39.02:417][984]CompilerResultsLog: Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" -ModuleWithSuffix=Slash_Project,2426 Slash_ProjectEditor Win64 Development -Project="C:/Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Slash_Project.uproject" "C:/Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Slash_Project.uproject"  -IgnoreJunk
+[2025.09.04-16.39.02:417][984]CompilerResultsLog: Log file: C:\Users\Usuario\AppData\Local\UnrealBuildTool\Log.txt
+[2025.09.04-16.39.02:417][984]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project).
+[2025.09.04-16.39.02:418][984]CompilerResultsLog: Invalidating makefile for Slash_ProjectEditor (UHT files changed)
+[2025.09.04-16.39.02:419][984]CompilerResultsLog: Warning: C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Slash_Project.uproject does not list plugin 'HairStrands' as a dependency, but module 'Slash_Project' depends on 'HairStrandsCore'.
+[2025.09.04-16.39.02:420][984]CompilerResultsLog: Building Slash_ProjectEditor...
+[2025.09.04-16.39.02:420][984]CompilerResultsLog: Using Visual Studio 2022 14.38.33145 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130) and Windows 10.0.22621.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2025.09.04-16.39.02:420][984]CompilerResultsLog: [Upgrade]
+[2025.09.04-16.39.02:420][984]CompilerResultsLog: [Upgrade] Using backward-compatible include order. The latest version of UE has changed the order of includes, which may require code changes. The current setting is:
+[2025.09.04-16.39.02:421][984]CompilerResultsLog: [Upgrade]     IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_3
+[2025.09.04-16.39.02:421][984]CompilerResultsLog: [Upgrade] Suppress this message by setting 'IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_5;' in Slash_ProjectEditor.Target.cs.
+[2025.09.04-16.39.02:421][984]CompilerResultsLog: [Upgrade] Alternatively you can set this to 'EngineIncludeOrderVersion.Latest' to always use the latest include order. This will potentially cause compile errors when integrating new versions of the engine.
+[2025.09.04-16.39.02:421][984]CompilerResultsLog: [Upgrade]
+[2025.09.04-16.39.02:421][984]CompilerResultsLog: [Adaptive Build] Excluded from Slash_Project unity file: SlashAnimInstance.cpp, SlashCharacter.cpp
+[2025.09.04-16.39.02:421][984]CompilerResultsLog: Determining max actions to execute in parallel (6 physical cores, 12 logical cores)
+[2025.09.04-16.39.02:421][984]CompilerResultsLog:   Executing up to 6 processes, one per physical core
+[2025.09.04-16.39.02:421][984]CompilerResultsLog:   Requested 1.5 GB memory per action, 3.02 GB available: limiting max parallel actions to 2
+[2025.09.04-16.39.02:421][984]CompilerResultsLog: Using XGE executor to run 11 action(s)
+[2025.09.04-16.39.02:421][984]CompilerResultsLog: Distributing 11 actions to XGE
+[2025.09.04-16.39.02:421][984]CompilerResultsLog: UnrealBuildTool Compile
+[2025.09.04-16.39.02:421][984]CompilerResultsLog: 
+[2025.09.04-16.39.02:421][984]CompilerResultsLog: --------------------Build System Warning---------------------------------------
+[2025.09.04-16.39.02:421][984]CompilerResultsLog: License not activated:
+[2025.09.04-16.39.02:421][984]CompilerResultsLog:     License is not activated. Please activate the license in the coordinator.
+[2025.09.04-16.39.02:421][984]CompilerResultsLog:     This build will run in standalone mode.
+[2025.09.04-16.39.02:421][984]CompilerResultsLog: 
+[2025.09.04-16.39.02:421][984]CompilerResultsLog: -------------------------------------------------------------------------------
+[2025.09.04-16.39.02:423][984]CompilerResultsLog: 
+[2025.09.04-16.39.02:423][984]CompilerResultsLog: Build ID: {5BD2DD4B-9335-44C2-90C3-2DE4B47AAE98}
+[2025.09.04-16.39.02:423][984]CompilerResultsLog: 
+[2025.09.04-16.39.02:423][984]CompilerResultsLog: --------------------Project: Default-------------------------------------------
+[2025.09.04-16.39.02:423][984]CompilerResultsLog: [1/11] Compile [x64] CharacterTypes.gen.cpp (0:27.26 at +0:00)
+[2025.09.04-16.39.02:423][984]CompilerResultsLog: [2/11] Compile [x64] Slash_Project.init.gen.cpp (0:27.20 at +0:00)
+[2025.09.04-16.39.02:423][984]CompilerResultsLog: [3/11] Compile [x64] Weapon.cpp (0:27.20 at +0:00)
+[2025.09.04-16.39.02:423][984]CompilerResultsLog: [4/11] Compile [x64] SlashAnimInstance.gen.cpp (0:27.25 at +0:00)
+[2025.09.04-16.39.02:423][984]CompilerResultsLog: [5/11] Compile [x64] SlashAnimInstance.cpp (0:27.29 at +0:00)
+[2025.09.04-16.39.02:423][984]CompilerResultsLog: [6/11] Compile [x64] SlashCharacter.gen.cpp (0:27.28 at +0:00)
+[2025.09.04-16.39.02:423][984]CompilerResultsLog: [7/11] Compile [x64] Item.cpp (0:27.68 at +0:00)
+[2025.09.04-16.39.02:423][984]CompilerResultsLog: [8/11] Compile [x64] SlashCharacter.cpp (0:51.45 at +0:00)
+[2025.09.04-16.39.02:423][984]CompilerResultsLog: [9/11] Link [x64] UnrealEditor-Slash_Project-2426.lib (0:00.48 at +0:51)
+[2025.09.04-16.39.02:423][984]CompilerResultsLog:    Creating library C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Intermediate\Build\Win64\x64\UnrealEditor\Development\Slash_Project\UnrealEditor-Slash_Project-2426.lib and object C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Intermediate\Build\Win64\x64\UnrealEditor\Development\Slash_Project\UnrealEditor-Slash_Project-2426.exp
+[2025.09.04-16.39.02:426][984]CompilerResultsLog: [10/11] Link [x64] UnrealEditor-Slash_Project-2426.dll (0:01.75 at +0:51)
+[2025.09.04-16.39.02:426][984]CompilerResultsLog:    Creating object C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Binaries\Win64\UnrealEditor-Slash_Project-2426.exp
+[2025.09.04-16.39.02:426][984]CompilerResultsLog: [11/11] WriteMetadata Slash_ProjectEditor.target (0:00.46 at +0:53)
+[2025.09.04-16.39.02:426][984]CompilerResultsLog: ---------------------- Done ----------------------
+[2025.09.04-16.39.02:426][984]CompilerResultsLog: 
+[2025.09.04-16.39.02:426][984]CompilerResultsLog:     Rebuild All: 1 succeeded, 0 failed, 0 skipped
+[2025.09.04-16.39.02:426][984]CompilerResultsLog: 
+[2025.09.04-16.39.02:426][984]CompilerResultsLog: 1 build system warning(s):
+[2025.09.04-16.39.02:426][984]CompilerResultsLog:    - License not activated
+[2025.09.04-16.39.02:426][984]CompilerResultsLog: 
+[2025.09.04-16.39.02:426][984]CompilerResultsLog: Total time in XGE executor: 59.08 seconds
+[2025.09.04-16.39.02:426][984]CompilerResultsLog: Total execution time: 63.59 seconds
+[2025.09.04-16.39.02:426][984]LogMainFrame: MainFrame: Module compiling took 63.966 seconds
+[2025.09.04-16.39.02:456][984]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.09.04-16.39.02:761][984]LogClass: UPackage /Script/Slash_Project Reload.
+[2025.09.04-16.39.03:077][984]LogProperty: Warning: Serialized Class /Script/Engine.SpringArmComponent for a property of Class /Script/Engine.CameraComponent. Reference will be nulled.
+    ReferencingObject = Package /Engine/Transient
+    Property = ObjectProperty /Script/Slash_Project.SlashCharacter:ViewCamera
+    Item = SpringArmComponent /Script/Slash_Project.Default__SlashCharacter:CameraBoom
+[2025.09.04-16.39.03:077][984]LogProperty: Warning: Serialized Class /Script/Engine.CameraComponent for a property of Class /Script/HairStrandsCore.GroomComponent. Reference will be nulled.
+    ReferencingObject = Package /Engine/Transient
+    Property = ObjectProperty /Script/Slash_Project.SlashCharacter:Hair
+    Item = CameraComponent /Script/Slash_Project.Default__SlashCharacter:ViewCamera
+[2025.09.04-16.39.03:077][984]LogProperty: Warning: Serialized Class /Script/HairStrandsCore.GroomComponent for a property of Class /Script/Slash_Project.Item. Reference will be nulled.
+    ReferencingObject = Package /Engine/Transient
+    Property = ObjectProperty /Script/Slash_Project.SlashCharacter:OverlappingItem
+    Item = GroomComponent /Script/Slash_Project.Default__SlashCharacter:Eyebrows
+[2025.09.04-16.39.03:085][984]LogProperty: Warning: Serialized Class /Script/Engine.SpringArmComponent for a property of Class /Script/Engine.CameraComponent. Reference will be nulled.
+    ReferencingObject = Package /Engine/Transient
+    Property = ObjectProperty /Script/Slash_Project.SlashCharacter:ViewCamera
+    Item = SpringArmComponent /Script/Slash_Project.Default__SlashCharacter:CameraBoom
+[2025.09.04-16.39.03:085][984]LogProperty: Warning: Serialized Class /Script/Engine.CameraComponent for a property of Class /Script/HairStrandsCore.GroomComponent. Reference will be nulled.
+    ReferencingObject = Package /Engine/Transient
+    Property = ObjectProperty /Script/Slash_Project.SlashCharacter:Hair
+    Item = CameraComponent /Script/Slash_Project.Default__SlashCharacter:ViewCamera
+[2025.09.04-16.39.03:085][984]LogProperty: Warning: Serialized Class /Script/HairStrandsCore.GroomComponent for a property of Class /Script/Slash_Project.Item. Reference will be nulled.
+    ReferencingObject = Package /Engine/Transient
+    Property = ObjectProperty /Script/Slash_Project.SlashCharacter:OverlappingItem
+    Item = GroomComponent /Script/Slash_Project.Default__SlashCharacter:Eyebrows
+[2025.09.04-16.39.03:108][984]LogProperty: Warning: Serialized Class /Script/Engine.SpringArmComponent for a property of Class /Script/Engine.CameraComponent. Reference will be nulled.
+    ReferencingObject = Package /Engine/Transient
+    Property = ObjectProperty /Script/Slash_Project.SlashCharacter:ViewCamera
+    Item = SpringArmComponent /Script/Slash_Project.Default__SlashCharacter:CameraBoom
+[2025.09.04-16.39.03:108][984]LogProperty: Warning: Serialized Class /Script/Engine.CameraComponent for a property of Class /Script/HairStrandsCore.GroomComponent. Reference will be nulled.
+    ReferencingObject = Package /Engine/Transient
+    Property = ObjectProperty /Script/Slash_Project.SlashCharacter:Hair
+    Item = CameraComponent /Script/Slash_Project.Default__SlashCharacter:ViewCamera
+[2025.09.04-16.39.03:108][984]LogProperty: Warning: Serialized Class /Script/HairStrandsCore.GroomComponent for a property of Class /Script/Slash_Project.Item. Reference will be nulled.
+    ReferencingObject = Package /Engine/Transient
+    Property = ObjectProperty /Script/Slash_Project.SlashCharacter:OverlappingItem
+    Item = GroomComponent /Script/Slash_Project.Default__SlashCharacter:Eyebrows
+[2025.09.04-16.39.03:204][984]LogProperty: Warning: Serialized Class /Script/Engine.SpringArmComponent for a property of Class /Script/Engine.CameraComponent. Reference will be nulled.
+    ReferencingObject = Package /Engine/Transient
+    Property = ObjectProperty /Script/Slash_Project.SlashCharacter:ViewCamera
+    Item = SpringArmComponent /Script/Slash_Project.Default__SlashCharacter:CameraBoom
+[2025.09.04-16.39.03:204][984]LogProperty: Warning: Serialized Class /Script/Engine.CameraComponent for a property of Class /Script/HairStrandsCore.GroomComponent. Reference will be nulled.
+    ReferencingObject = Package /Engine/Transient
+    Property = ObjectProperty /Script/Slash_Project.SlashCharacter:Hair
+    Item = CameraComponent /Script/Slash_Project.Default__SlashCharacter:ViewCamera
+[2025.09.04-16.39.03:204][984]LogProperty: Warning: Serialized Class /Script/HairStrandsCore.GroomComponent for a property of Class /Script/Slash_Project.Item. Reference will be nulled.
+    ReferencingObject = Package /Engine/Transient
+    Property = ObjectProperty /Script/Slash_Project.SlashCharacter:OverlappingItem
+    Item = GroomComponent /Script/Slash_Project.Default__SlashCharacter:Eyebrows
+[2025.09.04-16.39.03:245][984]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2025.09.04-16.39.03:278][984]LogBlueprint: Warning: Blueprint /Game/AncientContent/Blueprints/Abilities/GameplayAbilityUtils is missing GeneratedClass asset tag
+[2025.09.04-16.39.03:391][984]Display: HotReload took 65.0s.
+[2025.09.04-16.39.03:391][984]Display: Reload/Re-instancing Complete: 1 package changed, 5 classes unchanged, 1 enum new, 4 functions remapped
+[2025.09.04-16.42.35:317][271]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12382.909180
+[2025.09.04-16.42.35:584][279]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.04-16.42.35:584][279]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12383.143555, Update Interval: 348.017212
+[2025.09.04-16.48.55:938][620]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12763.472656
+[2025.09.04-16.48.56:639][641]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.04-16.48.56:640][641]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12764.137695, Update Interval: 326.770844
+[2025.09.04-16.54.53:862][307]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13121.339844
+[2025.09.04-16.54.54:564][328]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.04-16.54.54:564][329]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13122.011719, Update Interval: 306.852020

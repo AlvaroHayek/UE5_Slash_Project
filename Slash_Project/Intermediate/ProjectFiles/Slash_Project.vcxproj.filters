@@ -108,4 +108,9 @@
       <Filter>Source\Slash_Project\Public\Pawns</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\Slash_Project\Public\Characters\CharacterTypes.h">
+      <Filter>Source\Slash_Project\Public\Characters</Filter>
+    </ClInclude>
+  </ItemGroup>
 </Project>
