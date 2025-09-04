@@ -2621,3 +2621,812 @@ Skipped package /AudioModulation/Volume was expected to be found in plugin Audio
 [2025.09.03-22.29.33:470][840]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.09.03-22.29.33:470][840]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.09.03-22.29.33:471][840]AssetCheck: /Game/AncientContent/Characters/Echo/Rig/IK_Echo Validating asset
+[2025.09.03-22.33.04:522][137]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18326.351562
+[2025.09.03-22.33.04:789][145]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.03-22.33.04:789][145]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18326.582031, Update Interval: 312.090820
+[2025.09.03-22.38.56:493][687]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18678.154297
+[2025.09.03-22.38.56:719][694]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.03-22.38.56:719][694]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18678.347656, Update Interval: 321.325104
+[2025.09.03-22.44.59:992][579]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19041.697266
+[2025.09.03-22.45.00:261][587]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.03-22.45.00:261][588]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19041.935547, Update Interval: 341.201813
+[2025.09.03-22.51.39:145][541]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19440.728516
+[2025.09.03-22.51.39:379][548]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.03-22.51.39:379][548]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19440.929688, Update Interval: 338.048645
+[2025.09.03-22.57.53:664][610]LogHttp: Warning: 00000657E0F0E000: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2025.09.03-22.57.53:664][610]LogHttp: Warning: 00000657E0F0E000: libcurl info message cache 0 (Found bundle for host: 0x656f10405d0 [serially])
+[2025.09.03-22.57.53:664][610]LogHttp: Warning: 00000657E0F0E000: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2025.09.03-22.57.53:664][610]LogHttp: Warning: 00000657E0F0E000: libcurl info message cache 2 (We are completely uploaded and fine)
+[2025.09.03-22.57.53:664][610]LogHttp: Warning: 00000657E0F0E000: libcurl info message cache 3 (TLSv1.3 (IN), TLS alert, close notify (256):)
+[2025.09.03-22.57.53:664][610]LogHttp: Warning: 00000657E0F0E000: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2025.09.03-22.57.53:664][610]LogHttp: Warning: 00000657E0F0E000: libcurl info message cache 5 (state.rewindbeforesend = TRUE)
+[2025.09.03-22.57.53:664][610]LogHttp: Warning: 00000657E0F0E000: libcurl info message cache 6 (Closing connection)
+[2025.09.03-22.57.53:664][610]LogHttp: Warning: 00000657E0F0E000: libcurl info message cache 7 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.09.03-22.57.53:664][610]LogHttp: Warning: 00000657E0F0E000: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B933320FC-404D-6A48-BD62-7DBF876103EF%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.3-39772772%2B%2B%2BUE5%2BRelease-5.5&UserID=9ffb585a415f8b5ea3099583a3a7266d%7C8558b0f0649c41fd8c81a81c61794009%7C7a8c91b2-78e4-4ba2-9615-51435d5b763c&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2025.09.03-22.57.53:664][610]LogHttp: Warning: 00000657E0F0E000: libcurl info message cache 9 (  Trying 34.237.197.97:443...)
+[2025.09.03-22.57.53:664][610]LogHttp: Warning: 00000657E0F0E000: libcurl info message cache 10 (Connected to datarouter.ol.epicgames.com (34.237.197.97) port 443)
+[2025.09.03-22.57.53:664][610]LogHttp: Warning: 00000657E0F0E000: libcurl info message cache 11 (ALPN: curl offers http/1.1)
+[2025.09.03-22.57.53:664][610]LogHttp: Warning: 00000657E0F0E000: libcurl info message cache 12 (SSL reusing session ID)
+[2025.09.03-22.57.53:664][610]LogHttp: Warning: 00000657E0F0E000: libcurl info message cache 13 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2025.09.03-22.57.53:664][610]LogHttp: Warning: 00000657E0F0E000: libcurl info message cache 14 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2025.09.03-22.57.53:664][610]LogHttp: Warning: 00000657E0F0E000: libcurl info message cache 15 (TLSv1.3 (IN), TLS handshake, Encrypted Extensions (8):)
+[2025.09.03-22.57.53:664][610]LogHttp: Warning: 00000657E0F0E000: libcurl info message cache 16 (TLSv1.3 (IN), TLS handshake, Certificate (11):)
+[2025.09.03-22.57.53:664][610]LogHttp: Warning: 00000657E0F0E000: libcurl info message cache 17 (TLSv1.3 (IN), TLS handshake, CERT verify (15):)
+[2025.09.03-22.57.53:664][610]LogHttp: Warning: 00000657E0F0E000: libcurl info message cache 18 (TLSv1.3 (IN), TLS handshake, Finished (20):)
+[2025.09.03-22.57.53:664][610]LogHttp: Warning: 00000657E0F0E000: libcurl info message cache 19 (TLSv1.3 (OUT), TLS change cipher, Change cipher spec (1):)
+[2025.09.03-22.57.53:664][610]LogHttp: Warning: 00000657E0F0E000: libcurl info message cache 20 (TLSv1.3 (OUT), TLS handshake, Finished (20):)
+[2025.09.03-22.57.53:664][610]LogHttp: Warning: 00000657E0F0E000: libcurl info message cache 21 (SSL connection using TLSv1.3 / TLS_AES_128_GCM_SHA256)
+[2025.09.03-22.57.53:664][610]LogHttp: Warning: 00000657E0F0E000: libcurl info message cache 22 (ALPN: server accepted http/1.1)
+[2025.09.03-22.57.53:664][610]LogHttp: Warning: 00000657E0F0E000: libcurl info message cache 23 (Server certificate:)
+[2025.09.03-22.57.53:664][610]LogHttp: Warning: 00000657E0F0E000: libcurl info message cache 24 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2025.09.03-22.57.53:664][610]LogHttp: Warning: 00000657E0F0E000: libcurl info message cache 25 ( start date: Feb  2 00:00:00 2025 GMT)
+[2025.09.03-22.57.53:664][610]LogHttp: Warning: 00000657E0F0E000: libcurl info message cache 26 ( expire date: Mar  3 23:59:59 2026 GMT)
+[2025.09.03-22.57.53:664][610]LogHttp: Warning: 00000657E0F0E000: libcurl info message cache 27 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2025.09.03-22.57.53:664][610]LogHttp: Warning: 00000657E0F0E000: libcurl info message cache 28 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M03)
+[2025.09.03-22.57.53:664][610]LogHttp: Warning: 00000657E0F0E000: libcurl info message cache 29 ( SSL certificate verify ok.)
+[2025.09.03-22.57.53:664][610]LogHttp: Warning: 00000657E0F0E000: libcurl info message cache 30 (using HTTP/1.1)
+[2025.09.03-22.57.53:664][610]LogHttp: Warning: 00000657E0F0E000: libcurl info message cache 31 (necessary data rewind wasn't possible)
+[2025.09.03-22.57.53:664][610]LogHttp: Warning: 00000657E0F0E000: libcurl info message cache 32 (Closing connection)
+[2025.09.03-22.57.53:664][610]LogHttp: Warning: 00000657E0F0E000: libcurl info message cache 33 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.09.03-22.58.11:100][122]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19832.431641
+[2025.09.03-22.58.11:499][126]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.03-22.58.11:499][126]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19832.808594, Update Interval: 341.617493
+[2025.09.03-22.58.14:047][192]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_34
+[2025.09.03-22.58.14:049][192]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_34'.
+[2025.09.03-22.58.27:656][519]LogContentBrowser: Deferred new asset file creation: RTG_NewRetargeter
+[2025.09.03-22.58.27:675][519]LogContentBrowser: Creating deferred item: RTG_NewRetargeter
+[2025.09.03-22.58.27:708][520]LogContentBrowser: Renaming the item being created (Deferred Item: RTG_NewRetargeter).
+[2025.09.03-22.58.39:042][816]LogContentBrowser: Attempting asset rename: RTG_NewRetargeter -> RTG_T-pose
+[2025.09.03-22.58.39:114][816]LogContentBrowser: End creating deferred item RTG_NewRetargeter
+[2025.09.03-22.59.05:241][486]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2025.09.03-22.59.05:245][486]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Minimal_Default_2' took 0.049
+[2025.09.03-22.59.05:246][486]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/Rigs/RTG_T-pose] ([1] browsable assets)...
+[2025.09.03-22.59.05:246][486]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/Rigs/RTG_T-pose]
+[2025.09.03-22.59.05:247][486]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Characters/Rigs/RTG_T-pose_Auto5
+[2025.09.03-22.59.05:247][486]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/RTG_T-pose_Auto5D74C212844016B06DE34AD8F6765252F.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Autosaves/Game/Blueprints/Characters/Rigs/RTG_T-pose_Auto5.uasset'
+[2025.09.03-22.59.05:250][486]LogFileHelpers: Auto-saving content packages took 0.005
+[2025.09.03-22.59.09:685][601]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.09.03-22.59.10:966][601]LogSlate: Window 'Save Content' being destroyed
+[2025.09.03-22.59.10:980][601]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.03-22.59.11:016][601]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/Rigs/RTG_T-pose] ([1] browsable assets)...
+[2025.09.03-22.59.11:016][601]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/Rigs/RTG_T-pose]
+[2025.09.03-22.59.11:017][601]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/Rigs/RTG_T-pose
+[2025.09.03-22.59.11:017][601]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/RTG_T-pose2136FD3D4DE5B3FA1A7A158A9197D9F1.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Characters/Rigs/RTG_T-pose.uasset'
+[2025.09.03-22.59.11:097][601]LogFileHelpers: InternalPromptForCheckoutAndSave took 116.892 ms (total: 2.09 sec)
+[2025.09.03-22.59.11:133][601]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.03-22.59.11:133][601]LogContentValidation: Enabled validators:
+[2025.09.03-22.59.11:133][601]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.03-22.59.11:133][601]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.03-22.59.11:133][601]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.03-22.59.11:133][601]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.03-22.59.11:133][601]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.03-22.59.11:134][601]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.03-22.59.11:134][601]AssetCheck: /Game/Blueprints/Characters/Rigs/RTG_T-pose Validating asset
+[2025.09.03-22.59.14:517][688]LogAssetEditorSubsystem: Opening Asset editor for IKRetargeter /Game/Blueprints/Characters/Rigs/RTG_T-pose.RTG_T-pose
+[2025.09.03-22.59.14:579][688]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_35
+[2025.09.03-22.59.14:579][688]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_35'.
+[2025.09.03-22.59.24:738][927]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.03-22.59.24:810][927]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_36
+[2025.09.03-22.59.24:810][927]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_36'.
+[2025.09.03-22.59.42:585][387]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'DebugSkelMeshComponent_1' with 'Echo'
+[2025.09.03-23.03.33:455][883]LogSlate: Window 'Create New Retarget Pose' being destroyed
+[2025.09.03-23.04.34:358][656]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 20215.621094
+[2025.09.03-23.04.34:721][667]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.03-23.04.34:721][667]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 20215.951172, Update Interval: 325.245514
+[2025.09.03-23.10.40:083][653]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 20581.386719
+[2025.09.03-23.10.40:480][665]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.03-23.10.40:480][665]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 20581.753906, Update Interval: 316.042358
+[2025.09.03-23.10.51:363][988]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2025.09.03-23.10.51:372][988]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Minimal_Default_2' took 0.053
+[2025.09.03-23.10.51:372][988]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Characters/Rigs/RTG_T-pose] ([1] browsable assets)...
+[2025.09.03-23.10.51:395][988]OBJ SavePackage:     Rendered thumbnail for [IKRetargeter /Game/Blueprints/Characters/Rigs/RTG_T-pose.RTG_T-pose]
+[2025.09.03-23.10.51:395][988]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/Rigs/RTG_T-pose]
+[2025.09.03-23.10.51:397][988]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Characters/Rigs/RTG_T-pose_Auto6
+[2025.09.03-23.10.51:397][988]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/RTG_T-pose_Auto621ED4AAB4DFA354D12DAD4BB79CA091D.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Autosaves/Game/Blueprints/Characters/Rigs/RTG_T-pose_Auto6.uasset'
+[2025.09.03-23.10.51:399][988]LogFileHelpers: Auto-saving content packages took 0.028
+[2025.09.03-23.11.34:718][226]LogTemp: Warning: UI Min (1.0) >= UI Max (.01) for Ranged Numeric property /Script/Engine.PostProcessSettings:LumenDiffuseColorBoost
+[2025.09.03-23.13.52:293][789]Cmd: TRANSACTION UNDO
+[2025.09.03-23.13.52:293][789]LogEditorTransaction: Undo Rotate Retarget Pose Bone
+[2025.09.03-23.13.52:863][789]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_32:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.03-23.13.52:882][789]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.03-23.13.53:308][792]Cmd: TRANSACTION UNDO
+[2025.09.03-23.13.53:308][792]LogEditorTransaction: Undo Set Current Pose
+[2025.09.03-23.13.53:836][792]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_32:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.03-23.13.53:856][792]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.03-23.16.15:347][310]Cmd: TRANSACTION UNDO
+[2025.09.03-23.16.15:348][310]LogEditorTransaction: Undo Rotate Retarget Pose Bone
+[2025.09.03-23.16.15:878][310]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_32:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.03-23.16.15:907][310]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.03-23.16.35:386][770]Cmd: TRANSACTION UNDO
+[2025.09.03-23.16.35:386][770]LogEditorTransaction: Undo Rotate Retarget Pose Bone
+[2025.09.03-23.16.35:931][770]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_32:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.03-23.16.35:974][770]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.03-23.16.48:965][147]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 20950.208984
+[2025.09.03-23.16.49:331][158]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.03-23.16.49:331][159]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 20950.542969, Update Interval: 303.775757
+[2025.09.03-23.17.25:663][212]LogHttp: Warning: 00000657894A3100: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2025.09.03-23.17.25:663][212]LogHttp: Warning: 00000657894A3100: libcurl info message cache 0 (Found bundle for host: 0x656f1040f00 [serially])
+[2025.09.03-23.17.25:663][212]LogHttp: Warning: 00000657894A3100: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2025.09.03-23.17.25:664][212]LogHttp: Warning: 00000657894A3100: libcurl info message cache 2 (We are completely uploaded and fine)
+[2025.09.03-23.17.25:664][212]LogHttp: Warning: 00000657894A3100: libcurl info message cache 3 (TLSv1.3 (IN), TLS alert, close notify (256):)
+[2025.09.03-23.17.25:664][212]LogHttp: Warning: 00000657894A3100: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2025.09.03-23.17.25:664][212]LogHttp: Warning: 00000657894A3100: libcurl info message cache 5 (state.rewindbeforesend = TRUE)
+[2025.09.03-23.17.25:664][213]LogHttp: Warning: 00000657894A3100: libcurl info message cache 6 (Closing connection)
+[2025.09.03-23.17.25:664][213]LogHttp: Warning: 00000657894A3100: libcurl info message cache 7 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.09.03-23.17.25:664][213]LogHttp: Warning: 00000657894A3100: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B933320FC-404D-6A48-BD62-7DBF876103EF%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.3-39772772%2B%2B%2BUE5%2BRelease-5.5&UserID=9ffb585a415f8b5ea3099583a3a7266d%7C8558b0f0649c41fd8c81a81c61794009%7C7a8c91b2-78e4-4ba2-9615-51435d5b763c&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2025.09.03-23.17.25:664][213]LogHttp: Warning: 00000657894A3100: libcurl info message cache 9 (  Trying 52.70.24.64:443...)
+[2025.09.03-23.17.25:664][213]LogHttp: Warning: 00000657894A3100: libcurl info message cache 10 (Connected to datarouter.ol.epicgames.com (52.70.24.64) port 443)
+[2025.09.03-23.17.25:664][213]LogHttp: Warning: 00000657894A3100: libcurl info message cache 11 (ALPN: curl offers http/1.1)
+[2025.09.03-23.17.25:664][213]LogHttp: Warning: 00000657894A3100: libcurl info message cache 12 (SSL reusing session ID)
+[2025.09.03-23.17.25:664][213]LogHttp: Warning: 00000657894A3100: libcurl info message cache 13 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2025.09.03-23.17.25:664][213]LogHttp: Warning: 00000657894A3100: libcurl info message cache 14 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2025.09.03-23.17.25:664][213]LogHttp: Warning: 00000657894A3100: libcurl info message cache 15 (TLSv1.3 (IN), TLS handshake, Encrypted Extensions (8):)
+[2025.09.03-23.17.25:664][213]LogHttp: Warning: 00000657894A3100: libcurl info message cache 16 (TLSv1.3 (IN), TLS handshake, Certificate (11):)
+[2025.09.03-23.17.25:664][213]LogHttp: Warning: 00000657894A3100: libcurl info message cache 17 (TLSv1.3 (IN), TLS handshake, CERT verify (15):)
+[2025.09.03-23.17.25:664][213]LogHttp: Warning: 00000657894A3100: libcurl info message cache 18 (TLSv1.3 (IN), TLS handshake, Finished (20):)
+[2025.09.03-23.17.25:664][213]LogHttp: Warning: 00000657894A3100: libcurl info message cache 19 (TLSv1.3 (OUT), TLS change cipher, Change cipher spec (1):)
+[2025.09.03-23.17.25:664][213]LogHttp: Warning: 00000657894A3100: libcurl info message cache 20 (TLSv1.3 (OUT), TLS handshake, Finished (20):)
+[2025.09.03-23.17.25:664][213]LogHttp: Warning: 00000657894A3100: libcurl info message cache 21 (SSL connection using TLSv1.3 / TLS_AES_128_GCM_SHA256)
+[2025.09.03-23.17.25:664][213]LogHttp: Warning: 00000657894A3100: libcurl info message cache 22 (ALPN: server accepted http/1.1)
+[2025.09.03-23.17.25:664][213]LogHttp: Warning: 00000657894A3100: libcurl info message cache 23 (Server certificate:)
+[2025.09.03-23.17.25:664][213]LogHttp: Warning: 00000657894A3100: libcurl info message cache 24 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2025.09.03-23.17.25:664][213]LogHttp: Warning: 00000657894A3100: libcurl info message cache 25 ( start date: Feb  2 00:00:00 2025 GMT)
+[2025.09.03-23.17.25:664][213]LogHttp: Warning: 00000657894A3100: libcurl info message cache 26 ( expire date: Mar  3 23:59:59 2026 GMT)
+[2025.09.03-23.17.25:664][213]LogHttp: Warning: 00000657894A3100: libcurl info message cache 27 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2025.09.03-23.17.25:664][213]LogHttp: Warning: 00000657894A3100: libcurl info message cache 28 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M03)
+[2025.09.03-23.17.25:664][213]LogHttp: Warning: 00000657894A3100: libcurl info message cache 29 ( SSL certificate verify ok.)
+[2025.09.03-23.17.25:664][213]LogHttp: Warning: 00000657894A3100: libcurl info message cache 30 (using HTTP/1.1)
+[2025.09.03-23.17.25:664][213]LogHttp: Warning: 00000657894A3100: libcurl info message cache 31 (necessary data rewind wasn't possible)
+[2025.09.03-23.17.25:664][213]LogHttp: Warning: 00000657894A3100: libcurl info message cache 32 (Closing connection)
+[2025.09.03-23.17.25:664][213]LogHttp: Warning: 00000657894A3100: libcurl info message cache 33 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.09.03-23.17.42:337][683]Cmd: TRANSACTION UNDO
+[2025.09.03-23.17.42:337][683]LogEditorTransaction: Undo Edit Retarget Pose Rotation
+[2025.09.03-23.17.42:885][683]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_32:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.03-23.17.42:916][683]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.03-23.17.43:380][687]Cmd: TRANSACTION UNDO
+[2025.09.03-23.17.43:380][687]LogEditorTransaction: Undo Edit Retarget Pose Rotation
+[2025.09.03-23.17.43:890][687]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_32:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.03-23.17.43:919][687]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.03-23.17.44:953][703]Cmd: TRANSACTION UNDO
+[2025.09.03-23.17.44:953][703]LogEditorTransaction: Undo Edit Retarget Pose Rotation
+[2025.09.03-23.17.45:499][703]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_32:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.03-23.17.45:528][703]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.03-23.17.46:286][716]Cmd: TRANSACTION UNDO
+[2025.09.03-23.17.46:286][716]LogEditorTransaction: Undo Rotate Retarget Pose Bone
+[2025.09.03-23.17.46:817][716]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_32:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.03-23.17.46:847][716]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.03-23.19.59:507][971]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2025.09.03-23.20.00:597][971]LogSlate: Window 'Save Content' being destroyed
+[2025.09.03-23.20.00:607][971]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.03-23.20.00:645][971]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Characters/Rigs/RTG_T-pose] ([1] browsable assets)...
+[2025.09.03-23.20.00:661][971]OBJ SavePackage:     Rendered thumbnail for [IKRetargeter /Game/Blueprints/Characters/Rigs/RTG_T-pose.RTG_T-pose]
+[2025.09.03-23.20.00:662][971]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/Rigs/RTG_T-pose]
+[2025.09.03-23.20.00:664][971]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/Rigs/RTG_T-pose
+[2025.09.03-23.20.00:665][971]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/RTG_T-pose1445FAC548455ED90285F9A4E89A426E.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Characters/Rigs/RTG_T-pose.uasset'
+[2025.09.03-23.20.00:675][971]LogFileHelpers: InternalPromptForCheckoutAndSave took 67.842 ms (total: 2.15 sec)
+[2025.09.03-23.20.00:712][971]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.03-23.20.00:712][971]LogContentValidation: Enabled validators:
+[2025.09.03-23.20.00:712][971]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.03-23.20.00:712][971]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.03-23.20.00:712][971]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.03-23.20.00:712][971]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.03-23.20.00:712][971]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.03-23.20.00:712][971]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.03-23.20.00:712][971]AssetCheck: /Game/Blueprints/Characters/Rigs/RTG_T-pose Validating asset
+[2025.09.03-23.21.31:149][ 58]LogTemp: Warning: UI Min (1.0) >= UI Max (.01) for Ranged Numeric property /Script/Engine.PostProcessSettings:LumenDiffuseColorBoost
+[2025.09.03-23.21.34:006][107]LogTemp: Warning: UI Min (1.0) >= UI Max (.01) for Ranged Numeric property /Script/Engine.PostProcessSettings:LumenDiffuseColorBoost
+[2025.09.03-23.22.01:026][558]LogDerivedDataCache: C:/Users/Usuario/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.001 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.09.03-23.22.24:959][955]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 21286.197266
+[2025.09.03-23.22.25:285][960]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.03-23.22.25:285][960]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 21286.457031, Update Interval: 357.267975
+[2025.09.03-23.23.54:243][682]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.09.03-23.23.55:294][682]LogSlate: Window 'Save Content' being destroyed
+[2025.09.03-23.23.55:306][682]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.03-23.23.55:336][682]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Characters/Rigs/RTG_T-pose] ([1] browsable assets)...
+[2025.09.03-23.23.55:352][682]OBJ SavePackage:     Rendered thumbnail for [IKRetargeter /Game/Blueprints/Characters/Rigs/RTG_T-pose.RTG_T-pose]
+[2025.09.03-23.23.55:352][682]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/Rigs/RTG_T-pose]
+[2025.09.03-23.23.55:355][682]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/Rigs/RTG_T-pose
+[2025.09.03-23.23.55:356][682]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/RTG_T-pose809525EB42745476447FCFA0785CCCD0.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Characters/Rigs/RTG_T-pose.uasset'
+[2025.09.03-23.23.55:367][682]LogFileHelpers: InternalPromptForCheckoutAndSave took 61.736 ms (total: 2.21 sec)
+[2025.09.03-23.23.55:394][682]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.03-23.23.55:394][682]LogContentValidation: Enabled validators:
+[2025.09.03-23.23.55:394][682]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.03-23.23.55:394][682]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.03-23.23.55:394][682]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.03-23.23.55:394][682]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.03-23.23.55:394][682]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.03-23.23.55:394][682]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.03-23.23.55:394][682]AssetCheck: /Game/Blueprints/Characters/Rigs/RTG_T-pose Validating asset
+[2025.09.03-23.24.31:209][709]Cmd: TRANSACTION UNDO
+[2025.09.03-23.24.31:209][709]LogEditorTransaction: Undo Rotate Retarget Pose Bone
+[2025.09.03-23.24.31:734][709]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_32:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.03-23.24.31:774][709]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.03-23.24.43:270][ 34]Cmd: TRANSACTION UNDO
+[2025.09.03-23.24.43:270][ 34]LogEditorTransaction: Undo Rotate Retarget Pose Bone
+[2025.09.03-23.24.43:810][ 34]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_32:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.03-23.24.43:870][ 34]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.03-23.24.44:493][ 46]Cmd: TRANSACTION UNDO
+[2025.09.03-23.24.44:493][ 46]LogEditorTransaction: Undo Rotate Retarget Pose Bone
+[2025.09.03-23.24.45:003][ 46]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_32:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.03-23.24.45:033][ 46]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.03-23.24.56:643][368]Cmd: TRANSACTION UNDO
+[2025.09.03-23.24.56:644][368]LogEditorTransaction: Undo Rotate Retarget Pose Bone
+[2025.09.03-23.24.57:158][368]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_32:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.03-23.24.57:187][368]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.03-23.24.57:833][382]Cmd: TRANSACTION UNDO
+[2025.09.03-23.24.57:833][382]LogEditorTransaction: Undo Rotate Retarget Pose Bone
+[2025.09.03-23.24.58:349][382]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_32:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.03-23.24.58:384][382]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.03-23.25.21:267][ 36]Cmd: TRANSACTION UNDO
+[2025.09.03-23.25.21:267][ 36]LogEditorTransaction: Undo Rotate Retarget Pose Bone
+[2025.09.03-23.25.21:787][ 36]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_32:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.03-23.25.21:817][ 36]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.03-23.25.23:656][ 81]Cmd: TRANSACTION UNDO
+[2025.09.03-23.25.23:656][ 81]LogEditorTransaction: Undo Rotate Retarget Pose Bone
+[2025.09.03-23.25.24:178][ 81]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_32:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.03-23.25.24:213][ 81]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.03-23.26.19:491][663]Cmd: TRANSACTION UNDO
+[2025.09.03-23.26.19:491][663]LogEditorTransaction: Undo Rotate Retarget Pose Bone
+[2025.09.03-23.26.20:011][663]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_32:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.03-23.26.20:042][663]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.03-23.26.25:352][810]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2025.09.03-23.26.26:373][810]LogSlate: Window 'Save Content' being destroyed
+[2025.09.03-23.26.26:383][810]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.03-23.26.26:418][810]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Characters/Rigs/RTG_T-pose] ([1] browsable assets)...
+[2025.09.03-23.26.26:434][810]OBJ SavePackage:     Rendered thumbnail for [IKRetargeter /Game/Blueprints/Characters/Rigs/RTG_T-pose.RTG_T-pose]
+[2025.09.03-23.26.26:434][810]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/Rigs/RTG_T-pose]
+[2025.09.03-23.26.26:437][810]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/Rigs/RTG_T-pose
+[2025.09.03-23.26.26:438][810]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/RTG_T-poseDF1C7CB54F8ECEBFB5393D818662D007.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Characters/Rigs/RTG_T-pose.uasset'
+[2025.09.03-23.26.26:450][810]LogFileHelpers: InternalPromptForCheckoutAndSave took 67.213 ms (total: 2.28 sec)
+[2025.09.03-23.26.26:486][810]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.03-23.26.26:486][810]LogContentValidation: Enabled validators:
+[2025.09.03-23.26.26:486][810]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.03-23.26.26:486][810]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.03-23.26.26:486][810]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.03-23.26.26:486][810]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.03-23.26.26:486][810]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.03-23.26.26:486][810]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.03-23.26.26:486][810]AssetCheck: /Game/Blueprints/Characters/Rigs/RTG_T-pose Validating asset
+[2025.09.03-23.27.33:983][706]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.09.03-23.27.34:001][706]LogContentBrowser: Creating deferred item: NewFolder
+[2025.09.03-23.27.34:026][707]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.09.03-23.27.37:285][755]LogContentBrowser: Attempting asset rename: NewFolder -> Animation
+[2025.09.03-23.27.37:342][755]LogContentBrowser: End creating deferred item NewFolder
+[2025.09.03-23.27.47:399][898]LogContentBrowser: Attempting asset rename: Animation -> Animations
+[2025.09.03-23.28.42:308][898]LogSlate: Window 'Export Animations' being destroyed
+[2025.09.03-23.28.45:392][898]LogSlate: Window 'Batch Export Options' being destroyed
+[2025.09.03-23.28.45:604][898]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Blueprints/Characters/Animations/Standing_Melee_Attack_Horizontal.Standing_Melee_Attack_Horizontal (Required Memory Estimate: 2.04 MB)
+[2025.09.03-23.28.45:622][898]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle (Required Memory Estimate: 1.59 MB)
+[2025.09.03-23.28.45:648][898]LogTemp: Display: Duplicate and Retarget - New Asset Created: Standing_Melee_Attack_Horizontal
+[2025.09.03-23.28.45:648][898]LogTemp: Display: Duplicate and Retarget - New Asset Created: Standing_Idle
+[2025.09.03-23.28.45:676][898]LogAnimationCompression: Display: Storing compressed animation data for /Game/Blueprints/Characters/Animations/Standing_Melee_Attack_Horizontal.Standing_Melee_Attack_Horizontal, at AnimationSequence/dea5076a5b8f061742a019d292353d6f7a91cbd8
+[2025.09.03-23.28.45:682][898]LogAnimationCompression: Display: Storing compressed animation data for /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle, at AnimationSequence/c2acd81f24a36221238e97007b0354dac04da48c
+[2025.09.03-23.28.53:675][100]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle
+[2025.09.03-23.28.53:682][100]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_37
+[2025.09.03-23.28.53:684][100]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_37'.
+[2025.09.03-23.28.53:708][100]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'DebugSkelMeshComponent_0' with 'Echo'
+[2025.09.03-23.28.53:708][100]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.03-23.28.54:109][100]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_38
+[2025.09.03-23.28.54:110][100]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_38'.
+[2025.09.03-23.28.54:337][100]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.03-23.28.54:764][100]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_39
+[2025.09.03-23.28.54:765][100]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_39'.
+[2025.09.03-23.29.15:841][535]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 21697.160156
+[2025.09.03-23.29.16:075][542]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.03-23.29.16:075][542]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 21697.361328, Update Interval: 335.942871
+[2025.09.03-23.30.05:211][912]Cmd: MODE GRID=0
+[2025.09.03-23.30.32:784][698]Cmd: MODE ROTGRID=0
+[2025.09.03-23.32.22:959][841]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.09.03-23.32.24:207][841]LogSlate: Window 'Save Content' being destroyed
+[2025.09.03-23.32.24:224][841]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.03-23.32.24:261][841]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AncientContent/Characters/Echo/Meshes/Echo_Skeleton] ([1] browsable assets)...
+[2025.09.03-23.32.24:261][841]OBJ SavePackage: Finished generating thumbnails for package [/Game/AncientContent/Characters/Echo/Meshes/Echo_Skeleton]
+[2025.09.03-23.32.24:275][841]LogSavePackage: Moving output files for package: /Game/AncientContent/Characters/Echo/Meshes/Echo_Skeleton
+[2025.09.03-23.32.24:276][841]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Echo_Skeleton7F114EA84056E99FC7C33EB8530AF9A2.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/AncientContent/Characters/Echo/Meshes/Echo_Skeleton.uasset'
+[2025.09.03-23.32.24:278][841]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Characters/Animations/Standing_Idle] ([1] browsable assets)...
+[2025.09.03-23.32.24:334][841]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle]
+[2025.09.03-23.32.24:334][841]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/Animations/Standing_Idle]
+[2025.09.03-23.32.24:358][841]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/Animations/Standing_Idle
+[2025.09.03-23.32.24:358][841]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Standing_Idle72BF46DF4FBC837D871105A546FDDB70.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Characters/Animations/Standing_Idle.uasset'
+[2025.09.03-23.32.24:368][841]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Characters/Animations/Standing_Melee_Attack_Horizontal] ([1] browsable assets)...
+[2025.09.03-23.32.24:388][841]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Blueprints/Characters/Animations/Standing_Melee_Attack_Horizontal.Standing_Melee_Attack_Horizontal]
+[2025.09.03-23.32.24:388][841]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/Animations/Standing_Melee_Attack_Horizontal]
+[2025.09.03-23.32.24:406][841]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/Animations/Standing_Melee_Attack_Horizontal
+[2025.09.03-23.32.24:406][841]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Standing_Melee_Attack_Horizontal1AC4A26649FF36A157AA95BAAFBB60EC.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Characters/Animations/Standing_Melee_Attack_Horizontal.uasset'
+[2025.09.03-23.32.24:428][841]LogFileHelpers: InternalPromptForCheckoutAndSave took 203.531 ms (total: 2.49 sec)
+[2025.09.03-23.32.24:469][841]LogContentValidation: Display: Starting to validate 3 assets
+[2025.09.03-23.32.24:469][841]LogContentValidation: Enabled validators:
+[2025.09.03-23.32.24:469][841]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.03-23.32.24:469][841]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.03-23.32.24:469][841]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.03-23.32.24:469][841]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.03-23.32.24:469][841]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.03-23.32.24:469][841]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.03-23.32.24:469][841]AssetCheck: /Game/AncientContent/Characters/Echo/Meshes/Echo_Skeleton Validating asset
+[2025.09.03-23.32.24:469][841]AssetCheck: /Game/Blueprints/Characters/Animations/Standing_Idle Validating asset
+[2025.09.03-23.32.24:469][841]AssetCheck: /Game/Blueprints/Characters/Animations/Standing_Melee_Attack_Horizontal Validating asset
+[2025.09.03-23.34.05:272][745]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.03-23.35.08:241][726]Cmd: TRANSACTION UNDO
+[2025.09.03-23.35.08:241][726]LogEditorTransaction: Undo Translate Socket
+[2025.09.03-23.35.09:035][726]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_32:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.03-23.35.09:051][726]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.03-23.35.09:055][726]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.03-23.35.39:386][227]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 22080.625000
+[2025.09.03-23.35.39:627][232]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.03-23.35.39:627][232]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 22080.814453, Update Interval: 316.238281
+[2025.09.03-23.37.19:193][854]Cmd: TRANSACTION UNDO
+[2025.09.03-23.37.19:193][854]LogEditorTransaction: Undo Rotate Socket
+[2025.09.03-23.37.20:098][854]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_32:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.03-23.37.20:124][854]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.03-23.37.20:138][854]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.03-23.38.13:120][715]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2025.09.03-23.38.14:052][715]LogSlate: Window 'Save Content' being destroyed
+[2025.09.03-23.38.14:063][715]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.03-23.38.14:099][715]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AncientContent/Characters/Echo/Meshes/Echo_Skeleton] ([1] browsable assets)...
+[2025.09.03-23.38.14:099][715]OBJ SavePackage: Finished generating thumbnails for package [/Game/AncientContent/Characters/Echo/Meshes/Echo_Skeleton]
+[2025.09.03-23.38.14:111][715]LogSavePackage: Moving output files for package: /Game/AncientContent/Characters/Echo/Meshes/Echo_Skeleton
+[2025.09.03-23.38.14:112][715]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Echo_SkeletonAE98456F4E34BB8021556982313C7154.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/AncientContent/Characters/Echo/Meshes/Echo_Skeleton.uasset'
+[2025.09.03-23.38.14:125][715]LogFileHelpers: InternalPromptForCheckoutAndSave took 62.122 ms (total: 2.55 sec)
+[2025.09.03-23.38.14:161][715]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.03-23.38.14:161][715]LogContentValidation: Enabled validators:
+[2025.09.03-23.38.14:161][715]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.03-23.38.14:161][715]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.03-23.38.14:161][715]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.03-23.38.14:161][715]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.03-23.38.14:161][715]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.03-23.38.14:161][715]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.03-23.38.14:162][715]AssetCheck: /Game/AncientContent/Characters/Echo/Meshes/Echo_Skeleton Validating asset
+[2025.09.03-23.38.48:129][236]Cmd: TRANSACTION UNDO
+[2025.09.03-23.38.48:129][236]LogEditorTransaction: Undo Rotate Bone
+[2025.09.03-23.38.48:860][236]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_32:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.03-23.38.48:877][236]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.03-23.38.48:880][236]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.03-23.39.16:276][661]Cmd: TRANSACTION UNDO
+[2025.09.03-23.39.16:276][661]LogEditorTransaction: Undo Rotate Bone
+[2025.09.03-23.39.17:000][661]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_32:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.03-23.39.17:016][661]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.03-23.39.17:020][661]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.03-23.39.57:360][296]Cmd: TRANSACTION UNDO
+[2025.09.03-23.39.57:360][296]LogEditorTransaction: Undo Rotate Bone
+[2025.09.03-23.39.58:168][296]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_32:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.03-23.39.58:185][296]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.03-23.39.58:188][296]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.03-23.41.06:318][352]Cmd: TRANSACTION UNDO
+[2025.09.03-23.41.06:318][352]LogEditorTransaction: Undo Rotate Bone
+[2025.09.03-23.41.07:044][352]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_32:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.03-23.41.07:061][352]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.03-23.41.07:064][352]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.03-23.41.07:993][363]Cmd: TRANSACTION UNDO
+[2025.09.03-23.41.07:993][363]LogEditorTransaction: Undo Rotate Bone
+[2025.09.03-23.41.08:696][363]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_32:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.03-23.41.08:711][363]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.03-23.41.08:715][363]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.03-23.41.12:918][426]Cmd: TRANSACTION UNDO
+[2025.09.03-23.41.12:918][426]LogEditorTransaction: Undo Rotate Bone
+[2025.09.03-23.41.13:618][426]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_32:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.03-23.41.13:634][426]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.03-23.41.13:638][426]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.03-23.41.38:682][827]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 22439.916016
+[2025.09.03-23.41.38:952][832]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.03-23.41.38:952][832]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 22440.134766, Update Interval: 336.210205
+[2025.09.03-23.43.15:968][361]Cmd: TRANSACTION UNDO
+[2025.09.03-23.43.15:968][361]LogEditorTransaction: Undo Translate Bone
+[2025.09.03-23.43.16:708][361]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_32:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.03-23.43.16:724][361]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.03-23.43.16:727][361]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.03-23.45.32:230][541]Cmd: TRANSACTION UNDO
+[2025.09.03-23.45.32:230][541]LogEditorTransaction: Undo Rotate Bone
+[2025.09.03-23.45.33:009][541]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_32:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.03-23.45.33:026][541]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.03-23.45.33:030][541]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.03-23.46.17:707][254]Cmd: TRANSACTION UNDO
+[2025.09.03-23.46.17:707][254]LogEditorTransaction: Undo Rotate Bone
+[2025.09.03-23.46.18:445][254]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_32:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.03-23.46.18:461][254]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.03-23.46.18:464][254]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.03-23.46.56:760][834]Cmd: TRANSACTION UNDO
+[2025.09.03-23.46.56:760][834]LogEditorTransaction: Undo Translate Bone
+[2025.09.03-23.46.57:475][834]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_32:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.03-23.46.57:492][834]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.03-23.46.57:495][834]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.03-23.47.52:695][691]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 22813.837891
+[2025.09.03-23.47.53:626][705]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.03-23.47.53:627][705]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 22814.593750, Update Interval: 301.225006
+[2025.09.03-23.48.54:826][664]Cmd: TRANSACTION UNDO
+[2025.09.03-23.48.54:826][664]LogEditorTransaction: Undo Translate Bone
+[2025.09.03-23.48.55:552][664]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_32:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.03-23.48.55:568][664]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.03-23.48.55:571][664]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.03-23.50.10:341][872]Cmd: TRANSACTION UNDO
+[2025.09.03-23.50.10:341][872]LogEditorTransaction: Undo Set Rotation
+[2025.09.03-23.50.11:067][872]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_32:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.03-23.50.11:083][872]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.03-23.50.11:087][872]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.03-23.50.19:016][998]Cmd: TRANSACTION UNDO
+[2025.09.03-23.50.19:016][998]LogEditorTransaction: Undo Set Rotation
+[2025.09.03-23.50.19:760][998]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_32:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.03-23.50.19:777][998]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.03-23.50.19:783][998]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.03-23.51.19:863][945]Cmd: TRANSACTION UNDO
+[2025.09.03-23.51.19:863][945]LogEditorTransaction: Undo Rotate Bone
+[2025.09.03-23.51.20:636][945]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_32:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.03-23.51.20:653][945]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.03-23.51.20:671][945]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.03-23.52.49:377][280]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2025.09.03-23.52.50:425][280]LogSlate: Window 'Save Content' being destroyed
+[2025.09.03-23.52.50:436][280]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.03-23.52.50:473][280]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AncientContent/Characters/Echo/Meshes/Echo_Skeleton] ([1] browsable assets)...
+[2025.09.03-23.52.50:473][280]OBJ SavePackage: Finished generating thumbnails for package [/Game/AncientContent/Characters/Echo/Meshes/Echo_Skeleton]
+[2025.09.03-23.52.50:487][280]LogSavePackage: Moving output files for package: /Game/AncientContent/Characters/Echo/Meshes/Echo_Skeleton
+[2025.09.03-23.52.50:488][280]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Echo_Skeleton404F89574093A7BC6E7AD28692879CE2.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/AncientContent/Characters/Echo/Meshes/Echo_Skeleton.uasset'
+[2025.09.03-23.52.50:501][280]LogFileHelpers: InternalPromptForCheckoutAndSave took 65.729 ms (total: 2.61 sec)
+[2025.09.03-23.52.50:530][280]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.03-23.52.50:530][280]LogContentValidation: Enabled validators:
+[2025.09.03-23.52.50:530][280]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.03-23.52.50:530][280]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.03-23.52.50:530][280]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.03-23.52.50:530][280]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.03-23.52.50:530][280]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.03-23.52.50:531][280]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.03-23.52.50:531][280]AssetCheck: /Game/AncientContent/Characters/Echo/Meshes/Echo_Skeleton Validating asset
+[2025.09.03-23.53.45:058][874]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 23166.179688
+[2025.09.03-23.53.45:692][893]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.03-23.53.45:693][893]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 23166.779297, Update Interval: 330.130920
+[2025.09.03-23.54.28:145][102]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2025.09.03-23.54.33:145][102]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2025.09.04-00.09.09:035][102]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [876 Seconds] waiting for h/w. InstanceID=1
+[2025.09.04-00.09.14:035][102]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2025.09.04-00.09.17:301][103]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.09.04-00.09.17:304][103]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=13484
+[2025.09.04-00.09.18:739][105]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.09.04-00.09.18:746][105]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{58ea4715-9790-4598-9427-e0f8b9d39fd0}, Name=Altavoces (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=1212.23
+[2025.09.04-00.09.18:747][105]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.09.04-00.09.18:753][105]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.09.04-00.09.49:384][963]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 24130.484375
+[2025.09.04-00.09.49:617][970]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.04-00.09.49:617][970]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 24130.681641, Update Interval: 319.221161
+[2025.09.04-00.16.02:838][134]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 24503.951172
+[2025.09.04-00.16.03:200][145]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.04-00.16.03:200][145]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 24504.279297, Update Interval: 330.592377
+[2025.09.04-00.22.19:557][398]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 24880.750000
+[2025.09.04-00.22.19:923][409]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.04-00.22.19:923][409]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 24881.083984, Update Interval: 338.832367
+[2025.09.04-00.46.55:752][430]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [1411 Seconds] waiting for h/w. InstanceID=1
+[2025.09.04-00.46.58:489][431]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.09.04-00.46.58:489][431]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=13484
+[2025.09.04-00.46.58:583][433]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.09.04-00.46.58:590][433]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{58ea4715-9790-4598-9427-e0f8b9d39fd0}, Name=Altavoces (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=89.46
+[2025.09.04-00.46.58:591][433]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.09.04-00.46.58:595][433]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.09.04-00.47.54:014][826]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 26415.294922
+[2025.09.04-00.47.54:246][833]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.04-00.47.54:246][833]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 26415.492188, Update Interval: 318.917206
+[2025.09.04-00.53.43:520][275]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 26764.794922
+[2025.09.04-00.53.43:815][284]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.04-00.53.43:815][284]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 26765.058594, Update Interval: 336.021606
+[2025.09.04-00.55.35:885][377]LogSlate: Window 'Standing_Melee_Attack_Horizontal' being destroyed
+[2025.09.04-00.55.35:947][377]LogSlate: Window 'Standing_Melee_Attack_Horizontal' being destroyed
+[2025.09.04-00.55.36:346][377]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2025.09.04-00.55.36:382][377]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.04-00.55.37:046][377]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2025.09.04-00.55.37:047][377]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.04-00.55.37:454][377]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2025.09.04-00.55.37:454][377]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.04-00.55.37:522][377]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2025.09.04-00.55.37:523][377]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.04-00.55.37:740][377]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2025.09.04-00.55.37:740][377]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.04-00.55.38:106][377]LogUObjectHash: Compacting FUObjectHashTables data took  10.74ms
+[2025.09.04-00.55.38:796][382]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.09.04-00.55.52:016][624]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Items/Weapons/BP_Weapon.BP_Weapon
+[2025.09.04-00.55.52:059][624]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_40
+[2025.09.04-00.55.52:104][624]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_40'.
+[2025.09.04-00.56.38:375][195]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2025.09.04-00.57.00:669][728]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2025.09.04-00.57.01:766][728]LogSlate: Window 'Save Content' being destroyed
+[2025.09.04-00.57.01:776][728]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.04-00.57.01:799][728]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Items/Weapons/BP_Weapon] ([2] browsable assets)...
+[2025.09.04-00.57.01:858][728]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Items/Weapons/BP_Weapon.BP_Weapon]
+[2025.09.04-00.57.01:858][728]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Items/Weapons/BP_Weapon]
+[2025.09.04-00.57.01:890][728]LogSavePackage: Moving output files for package: /Game/Blueprints/Items/Weapons/BP_Weapon
+[2025.09.04-00.57.01:891][728]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/BP_Weapon53EBA45647C9CAD3305D489165B119CA.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Items/Weapons/BP_Weapon.uasset'
+[2025.09.04-00.57.01:913][728]LogFileHelpers: InternalPromptForCheckoutAndSave took 137.722 ms (total: 2.75 sec)
+[2025.09.04-00.57.01:958][728]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.04-00.57.01:958][728]LogContentValidation: Enabled validators:
+[2025.09.04-00.57.01:960][728]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.04-00.57.01:960][728]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.04-00.57.01:960][728]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.04-00.57.01:960][728]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.04-00.57.01:960][728]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.04-00.57.01:960][728]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.04-00.57.01:961][728]AssetCheck: /Game/Blueprints/Items/Weapons/BP_Weapon Validating asset
+[2025.09.04-00.58.01:824][139]LogBlueprint: Error: [AssetLog] C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Content\Blueprints\Items\Weapons\BP_Weapon.uasset: [Compiler] Item.ItemMesh is not blueprint visible (BlueprintReadOnly or BlueprintReadWrite). Please fix mark up or cease accessing as this will be made an error in a future release.  Get ItemMesh
+[2025.09.04-00.58.01:940][139]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2025.09.04-00.58.31:741][981]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2025.09.04-00.58.32:990][981]LogSlate: Window 'Save Content' being destroyed
+[2025.09.04-00.58.32:998][981]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.04-00.58.33:027][981]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Items/Weapons/BP_Weapon] ([2] browsable assets)...
+[2025.09.04-00.58.33:082][981]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Items/Weapons/BP_Weapon.BP_Weapon]
+[2025.09.04-00.58.33:082][981]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Items/Weapons/BP_Weapon]
+[2025.09.04-00.58.33:092][981]LogSavePackage: Moving output files for package: /Game/Blueprints/Items/Weapons/BP_Weapon
+[2025.09.04-00.58.33:092][981]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/BP_Weapon1888CD3D45B830B0C06169995AAAC344.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Items/Weapons/BP_Weapon.uasset'
+[2025.09.04-00.58.33:103][981]LogFileHelpers: InternalPromptForCheckoutAndSave took 105.035 ms (total: 2.86 sec)
+[2025.09.04-00.58.33:126][981]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.04-00.58.33:127][981]LogContentValidation: Enabled validators:
+[2025.09.04-00.58.33:127][981]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.04-00.58.33:127][981]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.04-00.58.33:127][981]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.04-00.58.33:127][981]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.04-00.58.33:127][981]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.04-00.58.33:127][981]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.04-00.58.33:127][981]AssetCheck: /Game/Blueprints/Items/Weapons/BP_Weapon Validating asset
+[2025.09.04-00.58.57:635][703]LogBlueprint: Error: [AssetLog] C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Content\Blueprints\Items\Weapons\BP_Weapon.uasset: [Compiler] Item.ItemMesh is not blueprint visible (BlueprintReadOnly or BlueprintReadWrite). Please fix mark up or cease accessing as this will be made an error in a future release.  Get ItemMesh
+[2025.09.04-00.58.57:802][703]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2025.09.04-00.59.57:171][461]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 27138.414062
+[2025.09.04-00.59.57:405][468]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.04-00.59.57:405][468]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 27138.615234, Update Interval: 343.190399
+[2025.09.04-00.59.57:936][483]LogDerivedDataCache: C:/Users/Usuario/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.001 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.09.04-01.00.06:639][742]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2025.09.04-01.00.06:645][742]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Minimal_Default_2' took 0.034
+[2025.09.04-01.00.06:646][742]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Items/Weapons/BP_Weapon] ([2] browsable assets)...
+[2025.09.04-01.00.06:759][742]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Items/Weapons/BP_Weapon.BP_Weapon]
+[2025.09.04-01.00.06:759][742]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Items/Weapons/BP_Weapon]
+[2025.09.04-01.00.06:765][742]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Items/Weapons/BP_Weapon_Auto7
+[2025.09.04-01.00.06:765][742]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/BP_Weapon_Auto7A621E804428118576CAB2DA91708C71D.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Autosaves/Game/Blueprints/Items/Weapons/BP_Weapon_Auto7.uasset'
+[2025.09.04-01.00.06:772][742]LogFileHelpers: Auto-saving content packages took 0.126
+[2025.09.04-01.01.26:076][101]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2025.09.04-01.01.27:470][101]LogSlate: Window 'Save Content' being destroyed
+[2025.09.04-01.01.27:481][101]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.04-01.01.27:511][101]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Items/Weapons/BP_Weapon] ([2] browsable assets)...
+[2025.09.04-01.01.27:512][101]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Items/Weapons/BP_Weapon]
+[2025.09.04-01.01.27:518][101]LogSavePackage: Moving output files for package: /Game/Blueprints/Items/Weapons/BP_Weapon
+[2025.09.04-01.01.27:519][101]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/BP_Weapon7F6378F04A814BC8C0FDF2B4DCC82241.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Items/Weapons/BP_Weapon.uasset'
+[2025.09.04-01.01.27:530][101]LogFileHelpers: InternalPromptForCheckoutAndSave took 49.166 ms (total: 2.91 sec)
+[2025.09.04-01.01.27:561][101]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.04-01.01.27:561][101]LogContentValidation: Enabled validators:
+[2025.09.04-01.01.27:561][101]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.04-01.01.27:561][101]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.04-01.01.27:561][101]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.04-01.01.27:561][101]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.04-01.01.27:561][101]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.04-01.01.27:561][101]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.04-01.01.27:561][101]AssetCheck: /Game/Blueprints/Items/Weapons/BP_Weapon Validating asset
+[2025.09.04-01.01.33:671][276]LogLiveCoding: Error: Unable to start live coding session. Some modules have already been hot reloaded.
+[2025.09.04-01.01.35:482][276]LogSlate: Window 'Message' being destroyed
+[2025.09.04-01.01.35:490][276]Message dialog closed, result: Ok, title: Message, text: Live Coding cannot be enabled while hot-reloaded modules are active. Please close the editor and build from your IDE before restarting.
+[2025.09.04-01.01.35:499][276]LogLiveCoding: Error: Unable to start live coding session. Some modules have already been hot reloaded.
+[2025.09.04-01.01.36:766][276]LogSlate: Window 'Message' being destroyed
+[2025.09.04-01.01.36:773][277]Message dialog closed, result: Ok, title: Message, text: Live Coding cannot be enabled while hot-reloaded modules are active. Please close the editor and build from your IDE before restarting.
+[2025.09.04-01.01.38:112][302]LogLiveCoding: Error: Unable to start live coding session. Some modules have already been hot reloaded.
+[2025.09.04-01.01.40:903][302]LogSlate: Window 'Message' being destroyed
+[2025.09.04-01.01.40:909][302]Message dialog closed, result: Ok, title: Message, text: Live Coding cannot be enabled while hot-reloaded modules are active. Please close the editor and build from your IDE before restarting.
+[2025.09.04-01.01.44:607][400]Candidate modules for hot reload:
+[2025.09.04-01.01.44:607][400]  Slash_Project
+[2025.09.04-01.01.44:622][400]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_5.5/Engine/Build/BatchFiles/Build.bat  -ModuleWithSuffix=Slash_Project,4764 Slash_ProjectEditor Win64 Development -Project="C:/Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Slash_Project.uproject" "C:/Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Slash_Project.uproject"  -IgnoreJunk]
+[2025.09.04-01.01.44:657][400]Warning: Starting HotReload took  0.1s.
+[2025.09.04-01.02.10:595][176]CompilerResultsLog: Using bundled DotNet SDK version: 8.0.300
+[2025.09.04-01.02.10:595][176]CompilerResultsLog: Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" -ModuleWithSuffix=Slash_Project,4764 Slash_ProjectEditor Win64 Development -Project="C:/Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Slash_Project.uproject" "C:/Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Slash_Project.uproject"  -IgnoreJunk
+[2025.09.04-01.02.10:595][176]CompilerResultsLog: Log file: C:\Users\Usuario\AppData\Local\UnrealBuildTool\Log.txt
+[2025.09.04-01.02.10:595][176]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project).
+[2025.09.04-01.02.10:595][176]CompilerResultsLog: Building Slash_ProjectEditor...
+[2025.09.04-01.02.10:595][176]CompilerResultsLog: Using Visual Studio 2022 14.38.33145 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130) and Windows 10.0.22621.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2025.09.04-01.02.10:595][176]CompilerResultsLog: [Upgrade]
+[2025.09.04-01.02.10:595][176]CompilerResultsLog: [Upgrade] Using backward-compatible include order. The latest version of UE has changed the order of includes, which may require code changes. The current setting is:
+[2025.09.04-01.02.10:596][176]CompilerResultsLog: [Upgrade]     IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_3
+[2025.09.04-01.02.10:596][176]CompilerResultsLog: [Upgrade] Suppress this message by setting 'IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_5;' in Slash_ProjectEditor.Target.cs.
+[2025.09.04-01.02.10:596][176]CompilerResultsLog: [Upgrade] Alternatively you can set this to 'EngineIncludeOrderVersion.Latest' to always use the latest include order. This will potentially cause compile errors when integrating new versions of the engine.
+[2025.09.04-01.02.10:596][176]CompilerResultsLog: [Upgrade]
+[2025.09.04-01.02.10:596][176]CompilerResultsLog: [Adaptive Build] Excluded from Slash_Project unity file: Item.cpp, Weapon.cpp
+[2025.09.04-01.02.10:596][176]CompilerResultsLog: Determining max actions to execute in parallel (6 physical cores, 12 logical cores)
+[2025.09.04-01.02.10:596][176]CompilerResultsLog:   Executing up to 6 processes, one per physical core
+[2025.09.04-01.02.10:596][176]CompilerResultsLog:   Requested 1.5 GB memory per action, 1.91 GB available: limiting max parallel actions to 1
+[2025.09.04-01.02.10:596][176]CompilerResultsLog: Using XGE executor to run 8 action(s)
+[2025.09.04-01.02.10:596][176]CompilerResultsLog: Distributing 8 actions to XGE
+[2025.09.04-01.02.10:596][176]CompilerResultsLog: UnrealBuildTool Compile
+[2025.09.04-01.02.10:596][176]CompilerResultsLog: 
+[2025.09.04-01.02.10:596][176]CompilerResultsLog: --------------------Build System Warning---------------------------------------
+[2025.09.04-01.02.10:596][176]CompilerResultsLog: License not activated:
+[2025.09.04-01.02.10:596][176]CompilerResultsLog:     License is not activated. Please activate the license in the coordinator.
+[2025.09.04-01.02.10:596][176]CompilerResultsLog:     This build will run in standalone mode.
+[2025.09.04-01.02.10:596][176]CompilerResultsLog: 
+[2025.09.04-01.02.10:596][176]CompilerResultsLog: -------------------------------------------------------------------------------
+[2025.09.04-01.02.10:597][176]CompilerResultsLog: 
+[2025.09.04-01.02.10:597][176]CompilerResultsLog: Build ID: {6AC6F78B-770F-4F7E-A34F-157C55D5F356}
+[2025.09.04-01.02.10:597][176]CompilerResultsLog: 
+[2025.09.04-01.02.10:597][176]CompilerResultsLog: --------------------Project: Default-------------------------------------------
+[2025.09.04-01.02.10:597][176]CompilerResultsLog: [1/8] Compile [x64] Slash_Project.init.gen.cpp (0:17.26 at +0:00)
+[2025.09.04-01.02.10:597][176]CompilerResultsLog: [2/8] Compile [x64] Weapon.cpp (0:17.28 at +0:00)
+[2025.09.04-01.02.10:597][176]CompilerResultsLog: [3/8] Compile [x64] Item.gen.cpp (0:17.56 at +0:00)
+[2025.09.04-01.02.10:597][176]CompilerResultsLog: [4/8] Compile [x64] Weapon.gen.cpp (0:17.54 at +0:00)
+[2025.09.04-01.02.10:597][176]CompilerResultsLog: [5/8] Compile [x64] Item.cpp (0:17.62 at +0:00)
+[2025.09.04-01.02.10:597][176]CompilerResultsLog: [6/8] Link [x64] UnrealEditor-Slash_Project-4764.lib (0:00.12 at +0:17)
+[2025.09.04-01.02.10:597][176]CompilerResultsLog:    Creating library C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Intermediate\Build\Win64\x64\UnrealEditor\Development\Slash_Project\UnrealEditor-Slash_Project-4764.lib and object C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Intermediate\Build\Win64\x64\UnrealEditor\Development\Slash_Project\UnrealEditor-Slash_Project-4764.exp
+[2025.09.04-01.02.10:597][176]CompilerResultsLog: [7/8] Link [x64] UnrealEditor-Slash_Project-4764.dll (0:01.18 at +0:17)
+[2025.09.04-01.02.10:597][176]CompilerResultsLog:    Creating object C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Binaries\Win64\UnrealEditor-Slash_Project-4764.exp
+[2025.09.04-01.02.10:597][176]CompilerResultsLog: [8/8] WriteMetadata Slash_ProjectEditor.target (0:00.39 at +0:19)
+[2025.09.04-01.02.10:598][176]CompilerResultsLog: ---------------------- Done ----------------------
+[2025.09.04-01.02.10:598][176]CompilerResultsLog: 
+[2025.09.04-01.02.10:598][176]CompilerResultsLog:     Rebuild All: 1 succeeded, 0 failed, 0 skipped
+[2025.09.04-01.02.10:598][176]CompilerResultsLog: 
+[2025.09.04-01.02.10:598][176]CompilerResultsLog: 1 build system warning(s):
+[2025.09.04-01.02.10:598][176]CompilerResultsLog:    - License not activated
+[2025.09.04-01.02.10:598][176]CompilerResultsLog: 
+[2025.09.04-01.02.10:598][176]CompilerResultsLog: Total time in XGE executor: 23.54 seconds
+[2025.09.04-01.02.10:598][176]CompilerResultsLog: Total execution time: 25.71 seconds
+[2025.09.04-01.02.10:598][176]LogMainFrame: MainFrame: Module compiling took 26.022 seconds
+[2025.09.04-01.02.10:633][176]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2025.09.04-01.02.10:854][176]LogClass: UPackage /Script/Slash_Project Reload.
+[2025.09.04-01.02.10:855][176]LogClass: UClass Item Reload.
+[2025.09.04-01.02.10:856][176]LogClass: UClass Weapon Reload.
+[2025.09.04-01.02.10:860][176]LogClass: Could not find existing class Item in package /Script/Slash_Project for reload, assuming new or modified class
+[2025.09.04-01.02.10:860][176]LogClass: Function OnSphereEndOverlap is new or belongs to a modified class.
+[2025.09.04-01.02.10:860][176]LogClass: Function OnSphereOverlap is new or belongs to a modified class.
+[2025.09.04-01.02.10:860][176]LogClass: Function TransformedCos is new or belongs to a modified class.
+[2025.09.04-01.02.10:860][176]LogClass: Function TransformedSin is new or belongs to a modified class.
+[2025.09.04-01.02.10:866][176]LogClass: Could not find existing class Weapon in package /Script/Slash_Project for reload, assuming new or modified class
+[2025.09.04-01.02.10:941][176]Re-instancing Item after reload.
+[2025.09.04-01.02.11:077][176]Re-instancing Weapon after reload.
+[2025.09.04-01.02.11:737][176]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2025.09.04-01.02.11:757][176]LogBlueprint: Warning: Blueprint /Game/AncientContent/Blueprints/Abilities/GameplayAbilityUtils is missing GeneratedClass asset tag
+[2025.09.04-01.02.11:820][176]Display: HotReload took 27.3s.
+[2025.09.04-01.02.11:820][176]Display: Reload/Re-instancing Complete: 1 package changed, 2 classes changed, 3 classes unchanged
+[2025.09.04-01.03.36:558][657]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.04-01.03.36:739][657]LogPlayLevel: [PlayLevel] Compiling Echo_PostProcess_AnimBP before play...
+[2025.09.04-01.03.36:743][657]LogPlayLevel: [PlayLevel]   Compiling Echo_Twist_CtrlRig as a dependent...
+[2025.09.04-01.03.37:163][657]LogUObjectHash: Compacting FUObjectHashTables data took   4.46ms
+[2025.09.04-01.03.37:167][657]LogPlayLevel: PlayLevel: Blueprint regeneration took 438 ms (2 blueprints)
+[2025.09.04-01.03.37:175][657]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Minimal_Default_2
+[2025.09.04-01.03.37:229][657]LogPlayLevel: PIE: StaticDuplicateObject took: (0.053735s)
+[2025.09.04-01.03.37:229][657]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Minimal_Default_2.Minimal_Default_2 to /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 (0.054301s)
+[2025.09.04-01.03.37:341][657]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2025.09.04-01.03.37:354][657]LogChaosDD: Creating Chaos Debug Draw Scene for world Minimal_Default_2
+[2025.09.04-01.03.37:370][657]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2'.
+[2025.09.04-01.03.37:382][657]LogPlayLevel: PIE: World Init took: (0.027977s)
+[2025.09.04-01.03.37:387][657]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2025.09.04-01.03.37:389][657]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.04-01.03.37:389][657]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.04-01.03.37:389][657]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.04-01.03.37:389][657]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.04-01.03.37:389][657]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.04-01.03.37:389][657]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.04-01.03.37:389][657]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.04-01.03.37:389][657]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.04-01.03.37:392][657]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.04-01.03.37:392][657]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.04-01.03.37:392][657]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.04-01.03.37:396][657]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.04-01.03.37:413][657]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.09.04-01.03.37:415][657]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.04-01.03.37:415][657]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.04-01.03.37:416][657]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.04-01.03.37:429][657]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2025.09.04-01.03.37:429][657]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2025.09.04-01.03.37:431][657]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2025.09.04-01.03.37:431][657]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2025.09.04-01.03.37:432][657]LogInit: FAudioDevice initialized with ID 5.
+[2025.09.04-01.03.37:432][657]LogAudio: Display: Audio Device (ID: 5) registered with world 'Minimal_Default_2'.
+[2025.09.04-01.03.37:433][657]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2025.09.04-01.03.37:467][657]LogLoad: Game class is 'BP_GameMode_C'
+[2025.09.04-01.03.37:493][657]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Echo'
+[2025.09.04-01.03.37:517][657]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 up for play (max tick rate 60) at 2025.09.04-03.03.37
+[2025.09.04-01.03.37:529][657]LogWorld: Bringing up level for play took: 0.058987
+[2025.09.04-01.03.37:551][657]LogOnline: OSS: Created online subsystem instance for: :Context_45
+[2025.09.04-01.03.37:595][657]PIE: Server logged in
+[2025.09.04-01.03.37:597][657]PIE: Play in editor total start time 0.969 seconds.
+[2025.09.04-01.03.45:834][746]LogCharacterMovement: BP_SlashCharacter_C_1 is stuck and failed to move! Velocity: X=-39.10 Y=265.82 Z=0.00 Location: X=473.85 Y=73.29 Z=114.03 Normal: X=-0.16 Y=-0.80 Z=-0.58 PenetrationDepth:14.235 Actor:BP_Weapon_C_1 Component:ItemMeshComponent BoneName:None (0 other events since notify)
+[2025.09.04-01.03.47:221][787]LogCharacterMovement: BP_SlashCharacter_C_1 is stuck and failed to move! Velocity: X=-588.22 Y=118.30 Z=0.00 Location: X=537.93 Y=293.68 Z=114.27 Normal: X=0.69 Y=-0.47 Z=-0.54 PenetrationDepth:13.846 Actor:BP_Weapon_C_1 Component:ItemMeshComponent BoneName:None (3 other events since notify)
+[2025.09.04-01.03.48:589][828]LogCharacterMovement: BP_SlashCharacter_C_1 is stuck and failed to move! Velocity: X=77.03 Y=-251.99 Z=0.00 Location: X=517.69 Y=226.29 Z=114.21 Normal: X=0.06 Y=0.84 Z=-0.54 PenetrationDepth:13.846 Actor:BP_Weapon_C_1 Component:ItemMeshComponent BoneName:None (8 other events since notify)
+[2025.09.04-01.03.49:989][870]LogCharacterMovement: BP_SlashCharacter_C_1 is stuck and failed to move! Velocity: X=-6.70 Y=189.41 Z=0.00 Location: X=520.13 Y=434.24 Z=114.03 Normal: X=0.04 Y=-0.96 Z=-0.28 PenetrationDepth:0.213 Actor:BP_Weapon_C_1 Component:ItemMeshComponent BoneName:None (5 other events since notify)
+[2025.09.04-01.03.51:823][925]LogCharacterMovement: BP_SlashCharacter_C_1 is stuck and failed to move! Velocity: X=583.40 Y=-140.15 Z=0.00 Location: X=671.06 Y=356.31 Z=114.17 Normal: X=-0.68 Y=0.50 Z=-0.54 PenetrationDepth:13.846 Actor:BP_Weapon_C_1 Component:ItemMeshComponent BoneName:None (1 other events since notify)
+[2025.09.04-01.03.53:204][966]LogMetaSound: Display: Auto-Updating '/Game/AncientContent/Audio/MetaSounds/sfx_Char_Echo_Foley_Cloth_Walk_nl_meta.sfx_Char_Echo_Foley_Cloth_Walk_nl_meta' node class 'UE.Wave Player.Stereo (v1.0)': Interface change detected.
+[2025.09.04-01.03.53:204][966]LogMetaSound: Display: Auto-Updating '/Game/AncientContent/Audio/MetaSounds/sfx_Char_Echo_Foley_Cloth_Walk_nl_meta.sfx_Char_Echo_Foley_Cloth_Walk_nl_meta' node class 'UE.RandomFloat': Newer version 'v1.1' found.
+[2025.09.04-01.03.53:204][966]LogMetaSound: Display: Auto-Updating '/Game/AncientContent/Audio/MetaSounds/sfx_Char_Echo_Foley_Cloth_Walk_nl_meta.sfx_Char_Echo_Foley_Cloth_Walk_nl_meta' node class 'UE.RandomFloat': Newer version 'v1.1' found.
+[2025.09.04-01.03.53:204][966]LogMetaSound: Display: Auto-Updating '/Game/AncientContent/Audio/MetaSounds/sfx_Char_Echo_Foley_Cloth_Walk_nl_meta.sfx_Char_Echo_Foley_Cloth_Walk_nl_meta' node class 'UE.Multiply.Audio by Float': Newer version 'v1.1' found.
+[2025.09.04-01.03.53:893][987]LogMetaSound: Display: Auto-Updating '/Game/AncientContent/Audio/MetaSounds/sfx_Char_Echo_Foley_Footfall_Land_nl_meta.sfx_Char_Echo_Foley_Footfall_Land_nl_meta' node class 'UE.Wave Player.Stereo (v1.0)': Interface change detected.
+[2025.09.04-01.03.53:893][987]LogMetaSound: Display: Auto-Updating '/Game/AncientContent/Audio/MetaSounds/sfx_Char_Echo_Foley_Footfall_Land_nl_meta.sfx_Char_Echo_Foley_Footfall_Land_nl_meta' node class 'UE.RandomFloat': Newer version 'v1.1' found.
+[2025.09.04-01.03.53:893][987]LogMetaSound: Display: Auto-Updating '/Game/AncientContent/Audio/MetaSounds/sfx_Char_Echo_Foley_Footfall_Land_nl_meta.sfx_Char_Echo_Foley_Footfall_Land_nl_meta' node class 'UE.RandomFloat': Newer version 'v1.1' found.
+[2025.09.04-01.03.53:893][987]LogMetaSound: Display: Auto-Updating '/Game/AncientContent/Audio/MetaSounds/sfx_Char_Echo_Foley_Footfall_Land_nl_meta.sfx_Char_Echo_Foley_Footfall_Land_nl_meta' node class 'UE.Multiply.Audio by Float': Newer version 'v1.1' found.
+[2025.09.04-01.03.53:897][987]LogMetaSound: Display: Auto-Updating '/Game/AncientContent/Audio/MetaSounds/sfx_Char_Echo_Foley_Cloth_Heavy_nl_meta.sfx_Char_Echo_Foley_Cloth_Heavy_nl_meta' node class 'UE.Wave Player.Stereo (v1.0)': Interface change detected.
+[2025.09.04-01.03.53:897][987]LogMetaSound: Display: Auto-Updating '/Game/AncientContent/Audio/MetaSounds/sfx_Char_Echo_Foley_Cloth_Heavy_nl_meta.sfx_Char_Echo_Foley_Cloth_Heavy_nl_meta' node class 'UE.RandomFloat': Newer version 'v1.1' found.
+[2025.09.04-01.03.53:897][987]LogMetaSound: Display: Auto-Updating '/Game/AncientContent/Audio/MetaSounds/sfx_Char_Echo_Foley_Cloth_Heavy_nl_meta.sfx_Char_Echo_Foley_Cloth_Heavy_nl_meta' node class 'UE.RandomFloat': Newer version 'v1.1' found.
+[2025.09.04-01.03.53:898][987]LogMetaSound: Display: Auto-Updating '/Game/AncientContent/Audio/MetaSounds/sfx_Char_Echo_Foley_Cloth_Heavy_nl_meta.sfx_Char_Echo_Foley_Cloth_Heavy_nl_meta' node class 'UE.Multiply.Audio by Float': Newer version 'v1.1' found.
+[2025.09.04-01.03.55:243][ 26]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.04-01.03.55:243][ 26]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Minimal_Default_2
+[2025.09.04-01.03.55:249][ 26]LogWorld: UWorld::CleanupWorld for Minimal_Default_2, bSessionEnded=true, bCleanupResources=true
+[2025.09.04-01.03.55:252][ 26]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.04-01.03.55:275][ 26]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.04-01.03.55:284][ 26]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.04-01.03.55:309][ 26]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.04-01.03.55:311][ 26]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2025.09.04-01.03.55:311][ 26]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.09.04-01.03.55:313][ 26]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.09.04-01.03.55:335][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.09.04-01.03.56:187][ 29]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2025.09.04-01.04.14:955][557]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2025.09.04-01.04.16:046][557]LogSlate: Window 'Save Content' being destroyed
+[2025.09.04-01.04.16:070][557]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.04-01.04.16:165][557]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.09.04-01.04.16:195][557]LogSavePackage: Moving output files for package: /Game/Maps/Minimal_Default_2
+[2025.09.04-01.04.16:196][557]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Minimal_Default_23CA263F741E0752247DE3492B84C8A1F.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Maps/Minimal_Default_2.umap'
+[2025.09.04-01.04.16:230][557]LogFileHelpers: Saving map 'Minimal_Default_2' took 0.132
+[2025.09.04-01.04.16:238][557]LogFileHelpers: InternalPromptForCheckoutAndSave took 168.389 ms (total: 3.07 sec)
+[2025.09.04-01.04.16:278][557]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.04-01.04.16:278][557]LogContentValidation: Enabled validators:
+[2025.09.04-01.04.16:278][557]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.04-01.04.16:278][557]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.04-01.04.16:278][557]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.04-01.04.16:278][557]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.04-01.04.16:278][557]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.04-01.04.16:278][557]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.04-01.04.16:278][557]AssetCheck: /Game/Maps/Minimal_Default_2 Validating asset
+[2025.09.04-01.04.17:673][598]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.04-01.04.17:743][598]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.04-01.04.17:743][598]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Minimal_Default_2
+[2025.09.04-01.04.17:747][598]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004540s)
+[2025.09.04-01.04.17:747][598]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Minimal_Default_2.Minimal_Default_2 to /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 (0.004576s)
+[2025.09.04-01.04.17:770][598]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2025.09.04-01.04.17:771][598]LogChaosDD: Creating Chaos Debug Draw Scene for world Minimal_Default_2
+[2025.09.04-01.04.17:772][598]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2'.
+[2025.09.04-01.04.17:774][598]LogPlayLevel: PIE: World Init took: (0.002957s)
+[2025.09.04-01.04.17:775][598]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2025.09.04-01.04.17:775][598]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.04-01.04.17:775][598]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.04-01.04.17:775][598]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.04-01.04.17:775][598]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.04-01.04.17:775][598]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.04-01.04.17:776][598]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.04-01.04.17:776][598]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.04-01.04.17:776][598]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.04-01.04.17:776][598]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.04-01.04.17:776][598]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.04-01.04.17:776][598]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.04-01.04.17:779][598]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.04-01.04.17:794][598]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.09.04-01.04.17:795][598]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.04-01.04.17:795][598]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.04-01.04.17:795][598]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.04-01.04.17:799][598]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2025.09.04-01.04.17:799][598]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2025.09.04-01.04.17:801][598]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2025.09.04-01.04.17:801][598]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2025.09.04-01.04.17:801][598]LogInit: FAudioDevice initialized with ID 6.
+[2025.09.04-01.04.17:801][598]LogAudio: Display: Audio Device (ID: 6) registered with world 'Minimal_Default_2'.
+[2025.09.04-01.04.17:801][598]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2025.09.04-01.04.17:804][598]LogLoad: Game class is 'BP_GameMode_C'
+[2025.09.04-01.04.17:821][598]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Echo'
+[2025.09.04-01.04.17:823][598]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 up for play (max tick rate 60) at 2025.09.04-03.04.17
+[2025.09.04-01.04.17:824][598]LogWorld: Bringing up level for play took: 0.019528
+[2025.09.04-01.04.17:826][598]LogOnline: OSS: Created online subsystem instance for: :Context_46
+[2025.09.04-01.04.17:828][598]PIE: Server logged in
+[2025.09.04-01.04.17:829][598]PIE: Play in editor total start time 0.148 seconds.
+[2025.09.04-01.05.08:920][ 78]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.04-01.05.08:920][ 78]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Minimal_Default_2
+[2025.09.04-01.05.08:920][ 78]LogWorld: UWorld::CleanupWorld for Minimal_Default_2, bSessionEnded=true, bCleanupResources=true
+[2025.09.04-01.05.08:920][ 78]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.04-01.05.08:926][ 78]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.04-01.05.08:932][ 78]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.04-01.05.08:954][ 78]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.04-01.05.08:955][ 78]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2025.09.04-01.05.08:955][ 78]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2025.09.04-01.05.08:957][ 78]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2025.09.04-01.05.08:987][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2025.09.04-01.05.10:036][ 81]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2025.09.04-01.05.41:493][914]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2025.09.04-01.05.43:821][978]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2025.09.04-01.05.44:747][978]LogSlate: Window 'Save Content' being destroyed
+[2025.09.04-01.05.44:755][978]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.04-01.05.44:788][978]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Items/Weapons/BP_Weapon] ([2] browsable assets)...
+[2025.09.04-01.05.44:842][978]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Items/Weapons/BP_Weapon.BP_Weapon]
+[2025.09.04-01.05.44:842][978]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Items/Weapons/BP_Weapon]
+[2025.09.04-01.05.44:848][978]LogSavePackage: Moving output files for package: /Game/Blueprints/Items/Weapons/BP_Weapon
+[2025.09.04-01.05.44:849][978]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/BP_Weapon05C75C3F46A7DE0A082E8DA034EF1A02.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Items/Weapons/BP_Weapon.uasset'
+[2025.09.04-01.05.44:874][978]LogFileHelpers: InternalPromptForCheckoutAndSave took 118.528 ms (total: 3.19 sec)
+[2025.09.04-01.05.44:896][978]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.04-01.05.44:896][978]LogContentValidation: Enabled validators:
+[2025.09.04-01.05.44:896][978]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.04-01.05.44:896][978]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.04-01.05.44:897][978]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.04-01.05.44:897][978]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.04-01.05.44:897][978]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.04-01.05.44:897][978]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.04-01.05.44:897][978]AssetCheck: /Game/Blueprints/Items/Weapons/BP_Weapon Validating asset
