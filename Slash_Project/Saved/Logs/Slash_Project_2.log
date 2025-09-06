@@ -2562,3 +2562,162 @@ Skipped package /AudioModulation/Volume was expected to be found in plugin Audio
 [2025.09.06-01.45.12:323][204]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.09.06-01.45.12:323][204]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.09.06-01.45.12:323][204]AssetCheck: /Game/Blueprints/Characters/BP_SlashCharacter Validating asset
+[2025.09.06-01.46.22:106][273]LogSlate: Window 'BP_SlashCharacter' being destroyed
+[2025.09.06-01.46.22:117][273]LogSlate: Window 'BP_SlashCharacter' being destroyed
+[2025.09.06-01.46.22:164][273]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2025.09.06-01.46.22:164][273]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.06-01.46.22:232][273]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2025.09.06-01.46.22:232][273]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.06-01.46.22:267][273]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2025.09.06-01.46.22:267][273]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.06-01.46.22:309][273]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2025.09.06-01.46.22:309][273]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.06-01.46.22:380][273]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2025.09.06-01.46.22:380][273]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.06-01.46.22:397][273]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2025.09.06-01.46.22:397][273]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.06-01.46.22:482][273]LogUObjectHash: Compacting FUObjectHashTables data took   4.82ms
+[2025.09.06-01.46.23:956][317]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2025.09.06-01.46.24:806][317]LogSlate: Window 'Save Content' being destroyed
+[2025.09.06-01.46.24:823][317]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.06-01.46.24:867][317]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Characters/BP_SlashCharacter] ([2] browsable assets)...
+[2025.09.06-01.46.24:999][317]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Characters/BP_SlashCharacter.BP_SlashCharacter]
+[2025.09.06-01.46.24:999][317]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/BP_SlashCharacter]
+[2025.09.06-01.46.25:010][317]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/BP_SlashCharacter
+[2025.09.06-01.46.25:012][317]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/BP_SlashCharacterB013CD554FFA266A1C1B0DA48AE6B4E6.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Characters/BP_SlashCharacter.uasset'
+[2025.09.06-01.46.25:025][317]LogFileHelpers: InternalPromptForCheckoutAndSave took 201.781 ms (total: 2.38 sec)
+[2025.09.06-01.46.25:069][317]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.06-01.46.25:069][317]LogContentValidation: Enabled validators:
+[2025.09.06-01.46.25:069][317]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.06-01.46.25:069][317]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.06-01.46.25:069][317]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.06-01.46.25:069][317]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.06-01.46.25:069][317]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.06-01.46.25:069][317]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.06-01.46.25:070][317]AssetCheck: /Game/Blueprints/Characters/BP_SlashCharacter Validating asset
+[2025.09.06-01.50.31:123][690]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4085.972656
+[2025.09.06-01.50.31:356][697]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.06-01.50.31:356][697]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4086.171875, Update Interval: 336.252319
+[2025.09.06-01.56.54:093][172]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4468.753906
+[2025.09.06-01.56.54:294][178]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.06-01.56.54:294][178]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4468.920410, Update Interval: 324.353760
+[2025.09.06-02.03.04:433][274]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4839.036133
+[2025.09.06-02.03.04:700][282]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.06-02.03.04:700][282]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4839.269531, Update Interval: 337.279572
+[2025.09.06-02.09.30:324][844]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5224.822266
+[2025.09.06-02.09.30:557][851]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.06-02.09.30:557][852]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5225.021973, Update Interval: 312.414917
+[2025.09.06-02.10.07:004][929]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/Blueprints/Characters/Animations/AM_AttackMontage.AM_AttackMontage
+[2025.09.06-02.10.07:005][929]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_40
+[2025.09.06-02.10.07:006][929]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_40'.
+[2025.09.06-02.10.07:054][929]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'DebugSkelMeshComponent_0' with 'Echo'
+[2025.09.06-02.10.07:055][929]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_40:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.06-02.10.07:563][929]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_41
+[2025.09.06-02.10.07:564][929]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_41'.
+[2025.09.06-02.11.32:698][451]LogStreaming: Display: FlushAsyncLoading(522): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.06-02.11.32:777][451]Candidate modules for hot reload:
+[2025.09.06-02.11.32:777][451]  Slash_Project
+[2025.09.06-02.11.32:794][451]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_5.5/Engine/Build/BatchFiles/Build.bat  -ModuleWithSuffix=Slash_Project,2572 Slash_ProjectEditor Win64 Development -Project="C:/Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Slash_Project.uproject" "C:/Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Slash_Project.uproject"  -IgnoreJunk]
+[2025.09.06-02.11.32:837][451]Warning: Starting HotReload took  0.2s.
+[2025.09.06-02.11.58:639][220]CompilerResultsLog: Using bundled DotNet SDK version: 8.0.300
+[2025.09.06-02.11.58:639][220]CompilerResultsLog: Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" -ModuleWithSuffix=Slash_Project,2572 Slash_ProjectEditor Win64 Development -Project="C:/Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Slash_Project.uproject" "C:/Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Slash_Project.uproject"  -IgnoreJunk
+[2025.09.06-02.11.58:639][220]CompilerResultsLog: Log file: C:\Users\Usuario\AppData\Local\UnrealBuildTool\Log.txt
+[2025.09.06-02.11.58:639][220]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project).
+[2025.09.06-02.11.58:639][220]CompilerResultsLog: Invalidating makefile for Slash_ProjectEditor (working set of source files changed)
+[2025.09.06-02.11.58:639][220]CompilerResultsLog: Warning: C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Slash_Project.uproject does not list plugin 'HairStrands' as a dependency, but module 'Slash_Project' depends on 'HairStrandsCore'.
+[2025.09.06-02.11.58:639][220]CompilerResultsLog: Building Slash_ProjectEditor...
+[2025.09.06-02.11.58:639][220]CompilerResultsLog: Using Visual Studio 2022 14.38.33145 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130) and Windows 10.0.22621.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2025.09.06-02.11.58:639][220]CompilerResultsLog: [Upgrade]
+[2025.09.06-02.11.58:639][220]CompilerResultsLog: [Upgrade] Using backward-compatible include order. The latest version of UE has changed the order of includes, which may require code changes. The current setting is:
+[2025.09.06-02.11.58:640][220]CompilerResultsLog: [Upgrade]     IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_3
+[2025.09.06-02.11.58:640][220]CompilerResultsLog: [Upgrade] Suppress this message by setting 'IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_5;' in Slash_ProjectEditor.Target.cs.
+[2025.09.06-02.11.58:640][220]CompilerResultsLog: [Upgrade] Alternatively you can set this to 'EngineIncludeOrderVersion.Latest' to always use the latest include order. This will potentially cause compile errors when integrating new versions of the engine.
+[2025.09.06-02.11.58:640][220]CompilerResultsLog: [Upgrade]
+[2025.09.06-02.11.58:640][220]CompilerResultsLog: [Adaptive Build] Excluded from Slash_Project unity file: SlashCharacter.cpp
+[2025.09.06-02.11.58:640][220]CompilerResultsLog: Determining max actions to execute in parallel (6 physical cores, 12 logical cores)
+[2025.09.06-02.11.58:640][220]CompilerResultsLog:   Executing up to 6 processes, one per physical core
+[2025.09.06-02.11.58:640][220]CompilerResultsLog:   Requested 1.5 GB memory per action, 2.86 GB available: limiting max parallel actions to 1
+[2025.09.06-02.11.58:640][220]CompilerResultsLog: Using XGE executor to run 9 action(s)
+[2025.09.06-02.11.58:640][220]CompilerResultsLog: Distributing 9 actions to XGE
+[2025.09.06-02.11.58:640][220]CompilerResultsLog: UnrealBuildTool Compile
+[2025.09.06-02.11.58:640][220]CompilerResultsLog: 
+[2025.09.06-02.11.58:640][220]CompilerResultsLog: --------------------Build System Warning---------------------------------------
+[2025.09.06-02.11.58:640][220]CompilerResultsLog: License not activated:
+[2025.09.06-02.11.58:640][220]CompilerResultsLog:     License is not activated. Please activate the license in the coordinator.
+[2025.09.06-02.11.58:640][220]CompilerResultsLog:     This build will run in standalone mode.
+[2025.09.06-02.11.58:640][220]CompilerResultsLog: 
+[2025.09.06-02.11.58:640][220]CompilerResultsLog: -------------------------------------------------------------------------------
+[2025.09.06-02.11.58:640][220]CompilerResultsLog: 
+[2025.09.06-02.11.58:640][220]CompilerResultsLog: Build ID: {A65DABFE-F937-465A-A205-DC595E6535D6}
+[2025.09.06-02.11.58:640][220]CompilerResultsLog: 
+[2025.09.06-02.11.58:640][220]CompilerResultsLog: --------------------Project: Default-------------------------------------------
+[2025.09.06-02.11.58:640][220]CompilerResultsLog: [1/9] Compile [x64] Slash_Project.init.gen.cpp (0:17.12 at +0:00)
+[2025.09.06-02.11.58:640][220]CompilerResultsLog: [2/9] Compile [x64] Weapon.cpp (0:17.14 at +0:00)
+[2025.09.06-02.11.58:640][220]CompilerResultsLog: [3/9] Compile [x64] SlashAnimInstance.cpp (0:17.18 at +0:00)
+[2025.09.06-02.11.58:640][220]CompilerResultsLog: [4/9] Compile [x64] SlashCharacter.gen.cpp (0:17.43 at +0:00)
+[2025.09.06-02.11.58:640][220]CompilerResultsLog: [5/9] Compile [x64] Item.cpp (0:17.46 at +0:00)
+[2025.09.06-02.11.58:640][220]LogMainFrame: MainFrame: Module compiling took 25.941 seconds
+[2025.09.06-02.11.58:640][220]LogStreaming: Display: FlushAsyncLoading(523): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.06-02.11.58:662][220]Warning: HotReload failed, recompile failed
+[2025.09.06-02.12.19:307][791]Candidate modules for hot reload:
+[2025.09.06-02.12.19:307][791]  Slash_Project
+[2025.09.06-02.12.19:316][791]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_5.5/Engine/Build/BatchFiles/Build.bat  -ModuleWithSuffix=Slash_Project,8024 Slash_ProjectEditor Win64 Development -Project="C:/Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Slash_Project.uproject" "C:/Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Slash_Project.uproject"  -IgnoreJunk]
+[2025.09.06-02.12.19:323][791]Warning: Starting HotReload took  0.1s.
+[2025.09.06-02.12.23:268][884]LogSlate: Window 'Message Log' being destroyed
+[2025.09.06-02.12.23:278][884]LogSlate: Window 'Message Log' being destroyed
+[2025.09.06-02.12.36:650][285]CompilerResultsLog: Using bundled DotNet SDK version: 8.0.300
+[2025.09.06-02.12.36:650][285]CompilerResultsLog: Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" -ModuleWithSuffix=Slash_Project,8024 Slash_ProjectEditor Win64 Development -Project="C:/Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Slash_Project.uproject" "C:/Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Slash_Project.uproject"  -IgnoreJunk
+[2025.09.06-02.12.36:650][285]CompilerResultsLog: Log file: C:\Users\Usuario\AppData\Local\UnrealBuildTool\Log.txt
+[2025.09.06-02.12.36:650][285]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project).
+[2025.09.06-02.12.36:650][285]CompilerResultsLog: Building Slash_ProjectEditor...
+[2025.09.06-02.12.36:650][285]CompilerResultsLog: Using Visual Studio 2022 14.38.33145 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130) and Windows 10.0.22621.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2025.09.06-02.12.36:650][285]CompilerResultsLog: [Upgrade]
+[2025.09.06-02.12.36:650][285]CompilerResultsLog: [Upgrade] Using backward-compatible include order. The latest version of UE has changed the order of includes, which may require code changes. The current setting is:
+[2025.09.06-02.12.36:650][285]CompilerResultsLog: [Upgrade]     IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_3
+[2025.09.06-02.12.36:650][285]CompilerResultsLog: [Upgrade] Suppress this message by setting 'IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_5;' in Slash_ProjectEditor.Target.cs.
+[2025.09.06-02.12.36:650][285]CompilerResultsLog: [Upgrade] Alternatively you can set this to 'EngineIncludeOrderVersion.Latest' to always use the latest include order. This will potentially cause compile errors when integrating new versions of the engine.
+[2025.09.06-02.12.36:650][285]CompilerResultsLog: [Upgrade]
+[2025.09.06-02.12.36:650][285]CompilerResultsLog: [Adaptive Build] Excluded from Slash_Project unity file: SlashCharacter.cpp
+[2025.09.06-02.12.36:650][285]CompilerResultsLog: Determining max actions to execute in parallel (6 physical cores, 12 logical cores)
+[2025.09.06-02.12.36:650][285]CompilerResultsLog:   Executing up to 6 processes, one per physical core
+[2025.09.06-02.12.36:651][285]CompilerResultsLog:   Requested 1.5 GB memory per action, 4.45 GB available: limiting max parallel actions to 2
+[2025.09.06-02.12.36:651][285]CompilerResultsLog: Using XGE executor to run 4 action(s)
+[2025.09.06-02.12.36:651][285]CompilerResultsLog: Distributing 4 actions to XGE
+[2025.09.06-02.12.36:651][285]CompilerResultsLog: UnrealBuildTool Compile
+[2025.09.06-02.12.36:651][285]CompilerResultsLog: 
+[2025.09.06-02.12.36:651][285]CompilerResultsLog: --------------------Build System Warning---------------------------------------
+[2025.09.06-02.12.36:651][285]CompilerResultsLog: License not activated:
+[2025.09.06-02.12.36:651][285]CompilerResultsLog:     License is not activated. Please activate the license in the coordinator.
+[2025.09.06-02.12.36:651][285]CompilerResultsLog:     This build will run in standalone mode.
+[2025.09.06-02.12.36:651][285]CompilerResultsLog: 
+[2025.09.06-02.12.36:651][285]CompilerResultsLog: -------------------------------------------------------------------------------
+[2025.09.06-02.12.36:651][285]CompilerResultsLog: 
+[2025.09.06-02.12.36:651][285]CompilerResultsLog: Build ID: {A1F11CD2-B067-4B67-BA23-738D29853621}
+[2025.09.06-02.12.36:651][285]CompilerResultsLog: 
+[2025.09.06-02.12.36:651][285]CompilerResultsLog: --------------------Project: Default-------------------------------------------
+[2025.09.06-02.12.36:651][285]CompilerResultsLog: [1/4] Compile [x64] SlashCharacter.cpp (0:11.53 at +0:00)
+[2025.09.06-02.12.36:651][285]CompilerResultsLog: [2/4] Link [x64] UnrealEditor-Slash_Project-8024.lib (0:00.23 at +0:11)
+[2025.09.06-02.12.36:651][285]CompilerResultsLog:    Creating library C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Intermediate\Build\Win64\x64\UnrealEditor\Development\Slash_Project\UnrealEditor-Slash_Project-8024.lib and object C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Intermediate\Build\Win64\x64\UnrealEditor\Development\Slash_Project\UnrealEditor-Slash_Project-8024.exp
+[2025.09.06-02.12.36:651][285]CompilerResultsLog: [3/4] Link [x64] UnrealEditor-Slash_Project-8024.dll (0:01.32 at +0:11)
+[2025.09.06-02.12.36:651][285]CompilerResultsLog:    Creating object C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Binaries\Win64\UnrealEditor-Slash_Project-8024.exp
+[2025.09.06-02.12.36:651][285]CompilerResultsLog: [4/4] WriteMetadata Slash_ProjectEditor.target (0:00.48 at +0:12)
+[2025.09.06-02.12.36:651][285]CompilerResultsLog: ---------------------- Done ----------------------
+[2025.09.06-02.12.36:651][285]CompilerResultsLog: 
+[2025.09.06-02.12.36:651][285]CompilerResultsLog:     Rebuild All: 1 succeeded, 0 failed, 0 skipped
+[2025.09.06-02.12.36:651][285]CompilerResultsLog: 
+[2025.09.06-02.12.36:651][285]CompilerResultsLog: 1 build system warning(s):
+[2025.09.06-02.12.36:651][285]CompilerResultsLog:    - License not activated
+[2025.09.06-02.12.36:651][285]CompilerResultsLog: 
+[2025.09.06-02.12.36:651][285]CompilerResultsLog: Total time in XGE executor: 15.72 seconds
+[2025.09.06-02.12.36:651][285]CompilerResultsLog: Total execution time: 17.09 seconds
+[2025.09.06-02.12.36:651][285]LogMainFrame: MainFrame: Module compiling took 17.361 seconds
+[2025.09.06-02.12.36:651][285]LogStreaming: Display: FlushAsyncLoading(524): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.06-02.12.36:839][285]LogUObjectHash: Compacting FUObjectHashTables data took   6.17ms
+[2025.09.06-02.12.37:058][285]LogClass: UPackage /Script/Slash_Project Reload.
+[2025.09.06-02.12.37:059][285]LogClass: UClass SlashCharacter Reload.
+[2025.09.06-02.12.37:068][285]LogClass: Could not find existing class SlashCharacter in package /Script/Slash_Project for reload, assuming new or modified class
+[2025.09.06-02.12.37:127][285]Re-instancing SlashCharacter after reload.
+[2025.09.06-02.12.37:917][285]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.09.06-02.12.37:933][285]LogBlueprint: Warning: Blueprint /Game/AncientContent/Blueprints/Abilities/GameplayAbilityUtils is missing GeneratedClass asset tag
+[2025.09.06-02.12.37:980][285]Display: HotReload took 18.8s.
+[2025.09.06-02.12.37:981][285]Display: Reload/Re-instancing Complete: 1 package changed, 1 class changed, 4 classes unchanged, 1 enum unchanged, 4 functions remapped
