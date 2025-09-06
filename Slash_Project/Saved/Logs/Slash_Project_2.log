@@ -2254,3 +2254,311 @@ Skipped package /AudioModulation/Volume was expected to be found in plugin Audio
 [2025.09.06-01.24.59:323][847]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2555.364502
 [2025.09.06-01.24.59:556][854]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.09.06-01.24.59:556][854]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2555.567139, Update Interval: 334.813080
+[2025.09.06-01.27.31:453][379]LogSlate: Took 0.002391 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.09.06-01.27.31:601][379]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_23
+[2025.09.06-01.27.31:602][379]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_23'.
+[2025.09.06-01.27.31:712][379]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_24
+[2025.09.06-01.27.31:712][379]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_24'.
+[2025.09.06-01.27.31:747][379]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_25
+[2025.09.06-01.27.31:747][379]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_25'.
+[2025.09.06-01.27.33:092][379]LogSlate: Window 'Pick Skeleton' being destroyed
+[2025.09.06-01.27.33:145][379]LogContentBrowser: Deferred new asset file creation: NewAnimMontage
+[2025.09.06-01.27.33:277][379]LogContentBrowser: Creating deferred item: NewAnimMontage
+[2025.09.06-01.27.33:297][380]LogContentBrowser: Renaming the item being created (Deferred Item: NewAnimMontage).
+[2025.09.06-01.27.38:779][543]LogContentBrowser: Attempting asset rename: NewAnimMontage -> AttackMontage
+[2025.09.06-01.27.38:860][543]LogContentBrowser: End creating deferred item NewAnimMontage
+[2025.09.06-01.28.00:944][197]LogContentBrowser: Attempting asset rename: AttackMontage -> AM_AttackMontage
+[2025.09.06-01.28.02:083][197]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.06-01.28.02:083][197]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Characters/Animations/AM_AttackMontage] ([1] browsable assets)...
+[2025.09.06-01.28.02:178][197]OBJ SavePackage:     Rendered thumbnail for [AnimMontage /Game/Blueprints/Characters/Animations/AM_AttackMontage.AM_AttackMontage]
+[2025.09.06-01.28.02:178][197]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/Animations/AM_AttackMontage]
+[2025.09.06-01.28.02:180][197]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/Animations/AM_AttackMontage
+[2025.09.06-01.28.02:180][197]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/AM_AttackMontage7D9D3D7B4279C5C9139ECFA19FE3CAAE.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Characters/Animations/AM_AttackMontage.uasset'
+[2025.09.06-01.28.02:186][197]LogFileHelpers: InternalPromptForCheckoutAndSave took 103.913 ms (total: 1.52 sec)
+[2025.09.06-01.28.02:254][197]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.09.06-01.28.02:281][197]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.09.06-01.28.02:302][197]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.09.06-01.28.02:353][197]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.06-01.28.02:353][197]LogContentValidation: Enabled validators:
+[2025.09.06-01.28.02:353][197]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.06-01.28.02:353][197]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.06-01.28.02:353][197]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.06-01.28.02:353][197]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.06-01.28.02:353][197]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.06-01.28.02:353][197]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.06-01.28.02:353][197]AssetCheck: /Game/Blueprints/Characters/Animations/AM_AttackMontage Validating asset
+[2025.09.06-01.29.31:454][862]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/Blueprints/Characters/Animations/AM_AttackMontage.AM_AttackMontage
+[2025.09.06-01.29.31:454][862]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_26
+[2025.09.06-01.29.31:456][862]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_26'.
+[2025.09.06-01.29.31:486][862]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'DebugSkelMeshComponent_0' with 'Echo'
+[2025.09.06-01.29.31:487][862]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.06-01.29.31:945][862]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_27
+[2025.09.06-01.29.31:945][862]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_27'.
+[2025.09.06-01.30.33:578][677]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_28
+[2025.09.06-01.30.33:579][677]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_28'.
+[2025.09.06-01.30.40:489][878]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2025.09.06-01.30.40:489][878]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.06-01.30.40:568][879]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2025.09.06-01.30.48:416][107]LogContentBrowser: Attempting asset rename: Standing_Melee_Attack_Horizontal -> Standing_Melee_Attack_Horizontal
+[2025.09.06-01.30.56:213][339]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_29
+[2025.09.06-01.30.56:214][339]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_29'.
+[2025.09.06-01.30.56:806][355]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2025.09.06-01.30.56:806][355]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.06-01.30.56:858][356]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.09.06-01.31.10:845][771]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2926.898193
+[2025.09.06-01.31.11:077][778]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.06-01.31.11:077][778]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2927.097656, Update Interval: 340.414429
+[2025.09.06-01.31.52:429][ 15]LogSlate: Took 0.029631 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2025.09.06-01.31.52:429][ 15]LogSlate: Last resort fallback font was requested. Font: '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf', Character: ' (U+f061)'
+[2025.09.06-01.31.52:457][ 15]LogSlate: Took 0.025664 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2025.09.06-01.32.30:654][157]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_30
+[2025.09.06-01.32.30:655][157]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_30'.
+[2025.09.06-01.32.34:772][277]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2025.09.06-01.32.34:772][277]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.06-01.32.34:858][278]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2025.09.06-01.32.37:339][349]Cmd: TRANSACTION UNDO
+[2025.09.06-01.32.37:339][349]LogEditorTransaction: Undo Edit Section Start Time
+[2025.09.06-01.32.37:593][349]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.06-01.32.39:350][399]Cmd: TRANSACTION REDO
+[2025.09.06-01.32.39:350][399]LogEditorTransaction: Redo Edit Section Start Time
+[2025.09.06-01.32.39:596][399]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.06-01.35.16:479][ 58]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_31
+[2025.09.06-01.35.16:480][ 58]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_31'.
+[2025.09.06-01.35.16:695][ 59]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_32
+[2025.09.06-01.35.16:697][ 59]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_32'.
+[2025.09.06-01.35.16:748][ 60]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_33
+[2025.09.06-01.35.16:748][ 60]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_33'.
+[2025.09.06-01.35.16:802][ 61]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_34
+[2025.09.06-01.35.16:803][ 61]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_34'.
+[2025.09.06-01.35.18:483][107]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Blueprints/Characters/ABP_Echo.ABP_Echo
+[2025.09.06-01.35.18:536][107]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_35
+[2025.09.06-01.35.18:538][107]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_35'.
+[2025.09.06-01.35.18:550][107]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_36
+[2025.09.06-01.35.18:550][107]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_36'.
+[2025.09.06-01.35.18:565][107]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'DebugSkelMeshComponent_0' with 'Echo'
+[2025.09.06-01.35.18:566][107]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_36:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.06-01.35.19:206][107]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_37
+[2025.09.06-01.35.19:209][107]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_37'.
+[2025.09.06-01.35.41:433][729]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2025.09.06-01.35.49:462][959]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Characters/BP_SlashCharacter.BP_SlashCharacter
+[2025.09.06-01.35.49:463][959]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_38
+[2025.09.06-01.35.49:463][959]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_38'.
+[2025.09.06-01.35.49:638][959]LogStreaming: Display: FlushAsyncLoading(520): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.06-01.35.50:942][959]LogMeshUtilities: Finished distance field build in 1.0s - 126x126x21 sparse distance field, 0.6Mb total, 0.0Mb always loaded, 100% occupied, 4 triangles, PhAT_FloorBox
+[2025.09.06-01.35.53:093][978]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2025.09.06-01.35.53:093][978]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.06-01.35.53:142][978]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Characters/BP_SlashCharacter.BP_SlashCharacter
+[2025.09.06-01.35.53:143][978]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_39
+[2025.09.06-01.35.53:143][978]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_39'.
+[2025.09.06-01.35.54:089][978]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2025.09.06-01.36.23:847][843]LogDerivedDataCache: C:/Users/Usuario/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.002 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.09.06-01.37.27:528][750]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3302.385986
+[2025.09.06-01.37.27:754][757]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.06-01.37.27:754][757]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3302.580811, Update Interval: 339.198578
+[2025.09.06-01.38.57:258][270]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2025.09.06-01.38.58:261][270]LogSlate: Window 'Save Content' being destroyed
+[2025.09.06-01.38.58:274][270]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.06-01.38.58:316][270]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Characters/ABP_Echo] ([2] browsable assets)...
+[2025.09.06-01.38.58:427][270]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Blueprints/Characters/ABP_Echo.ABP_Echo]
+[2025.09.06-01.38.58:427][270]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/ABP_Echo]
+[2025.09.06-01.38.58:462][270]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/ABP_Echo
+[2025.09.06-01.38.58:463][270]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/ABP_Echo278CA8E74CE6B7637DE3059F631C55EF.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Characters/ABP_Echo.uasset'
+[2025.09.06-01.38.58:467][270]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Characters/Animations/AM_AttackMontage] ([1] browsable assets)...
+[2025.09.06-01.38.58:502][270]OBJ SavePackage:     Rendered thumbnail for [AnimMontage /Game/Blueprints/Characters/Animations/AM_AttackMontage.AM_AttackMontage]
+[2025.09.06-01.38.58:502][270]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/Animations/AM_AttackMontage]
+[2025.09.06-01.38.58:504][270]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/Animations/AM_AttackMontage
+[2025.09.06-01.38.58:505][270]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/AM_AttackMontage8F11AE38483312033B3DFEAEB5FFD8DD.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Characters/Animations/AM_AttackMontage.uasset'
+[2025.09.06-01.38.58:509][270]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Characters/BP_SlashCharacter] ([2] browsable assets)...
+[2025.09.06-01.38.58:627][270]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Characters/BP_SlashCharacter.BP_SlashCharacter]
+[2025.09.06-01.38.58:628][270]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/BP_SlashCharacter]
+[2025.09.06-01.38.58:662][270]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/BP_SlashCharacter
+[2025.09.06-01.38.58:663][270]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/BP_SlashCharacter531C1ACC481457BDED674CA65AAAF651.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Characters/BP_SlashCharacter.uasset'
+[2025.09.06-01.38.58:684][270]LogFileHelpers: InternalPromptForCheckoutAndSave took 410.811 ms (total: 1.93 sec)
+[2025.09.06-01.38.58:741][270]LogContentValidation: Display: Starting to validate 3 assets
+[2025.09.06-01.38.58:742][270]LogContentValidation: Enabled validators:
+[2025.09.06-01.38.58:742][270]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.06-01.38.58:742][270]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.06-01.38.58:742][270]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.06-01.38.58:742][270]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.06-01.38.58:742][270]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.06-01.38.58:742][270]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.06-01.38.58:742][270]AssetCheck: /Game/Blueprints/Characters/ABP_Echo Validating asset
+[2025.09.06-01.38.58:742][270]AssetCheck: /Game/Blueprints/Characters/Animations/AM_AttackMontage Validating asset
+[2025.09.06-01.38.58:742][270]AssetCheck: /Game/Blueprints/Characters/BP_SlashCharacter Validating asset
+[2025.09.06-01.40.15:647][558]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2025.09.06-01.40.16:962][558]LogSlate: Window 'Save Content' being destroyed
+[2025.09.06-01.40.16:973][558]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.06-01.40.17:004][558]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Characters/Animations/AM_AttackMontage] ([1] browsable assets)...
+[2025.09.06-01.40.17:029][558]OBJ SavePackage:     Rendered thumbnail for [AnimMontage /Game/Blueprints/Characters/Animations/AM_AttackMontage.AM_AttackMontage]
+[2025.09.06-01.40.17:030][558]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/Animations/AM_AttackMontage]
+[2025.09.06-01.40.17:032][558]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/Animations/AM_AttackMontage
+[2025.09.06-01.40.17:033][558]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/AM_AttackMontage7D09DB5145909F3D0F53A09168893B9F.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Characters/Animations/AM_AttackMontage.uasset'
+[2025.09.06-01.40.17:035][558]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Characters/BP_SlashCharacter] ([2] browsable assets)...
+[2025.09.06-01.40.17:143][558]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Characters/BP_SlashCharacter.BP_SlashCharacter]
+[2025.09.06-01.40.17:143][558]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/BP_SlashCharacter]
+[2025.09.06-01.40.17:149][558]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/BP_SlashCharacter
+[2025.09.06-01.40.17:151][558]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/BP_SlashCharacter8F44A90641EE574A101264B59DE3EBDD.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Characters/BP_SlashCharacter.uasset'
+[2025.09.06-01.40.17:165][558]LogFileHelpers: InternalPromptForCheckoutAndSave took 191.040 ms (total: 2.12 sec)
+[2025.09.06-01.40.17:205][558]LogContentValidation: Display: Starting to validate 2 assets
+[2025.09.06-01.40.17:205][558]LogContentValidation: Enabled validators:
+[2025.09.06-01.40.17:205][558]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.06-01.40.17:205][558]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.06-01.40.17:205][558]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.06-01.40.17:205][558]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.06-01.40.17:205][558]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.06-01.40.17:206][558]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.06-01.40.17:206][558]AssetCheck: /Game/Blueprints/Characters/Animations/AM_AttackMontage Validating asset
+[2025.09.06-01.40.17:206][558]AssetCheck: /Game/Blueprints/Characters/BP_SlashCharacter Validating asset
+[2025.09.06-01.40.40:776][242]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.09.06-01.40.43:209][312]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.06-01.40.43:296][312]LogPlayLevel: [PlayLevel] Compiling ABP_Echo_IK before play...
+[2025.09.06-01.40.43:314][312]LogPlayLevel: [PlayLevel]   Compiling CR_EchoFootIK as a dependent...
+[2025.09.06-01.40.43:532][312]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2025.09.06-01.40.43:535][312]LogPlayLevel: PlayLevel: Blueprint regeneration took 256 ms (2 blueprints)
+[2025.09.06-01.40.43:651][312]LogOnline: OSS: Created online subsystem instance for: NULL
+[2025.09.06-01.40.43:654][312]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2025.09.06-01.40.43:660][312]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Minimal_Default_2
+[2025.09.06-01.40.43:713][312]LogPlayLevel: PIE: StaticDuplicateObject took: (0.053273s)
+[2025.09.06-01.40.43:713][312]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Minimal_Default_2.Minimal_Default_2 to /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 (0.053362s)
+[2025.09.06-01.40.43:737][312]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2025.09.06-01.40.43:746][312]LogChaosDD: Creating Chaos Debug Draw Scene for world Minimal_Default_2
+[2025.09.06-01.40.43:771][312]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2'.
+[2025.09.06-01.40.43:789][312]LogPlayLevel: PIE: World Init took: (0.043778s)
+[2025.09.06-01.40.43:793][312]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2025.09.06-01.40.43:798][312]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.06-01.40.43:798][312]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.06-01.40.43:798][312]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.06-01.40.43:798][312]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.06-01.40.43:798][312]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.06-01.40.43:798][312]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.06-01.40.43:798][312]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.06-01.40.43:798][312]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.06-01.40.43:802][312]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.06-01.40.43:802][312]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.06-01.40.43:802][312]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.06-01.40.43:815][312]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.06-01.40.43:840][312]LogAudioMixer: Display: Using Audio Hardware Device Auriculares (Vieta Pro Calm 2 Stereo)
+[2025.09.06-01.40.43:845][312]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.06-01.40.43:845][312]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.06-01.40.43:847][312]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.06-01.40.43:853][312]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2025.09.06-01.40.43:853][312]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2025.09.06-01.40.43:855][312]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2025.09.06-01.40.43:855][312]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2025.09.06-01.40.43:856][312]LogInit: FAudioDevice initialized with ID 2.
+[2025.09.06-01.40.43:857][312]LogAudio: Display: Audio Device (ID: 2) registered with world 'Minimal_Default_2'.
+[2025.09.06-01.40.43:858][312]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2025.09.06-01.40.43:904][312]LogLoad: Game class is 'BP_GameMode_C'
+[2025.09.06-01.40.43:922][312]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Echo'
+[2025.09.06-01.40.43:926][312]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 up for play (max tick rate 60) at 2025.09.06-03.40.43
+[2025.09.06-01.40.43:948][312]LogWorld: Bringing up level for play took: 0.041413
+[2025.09.06-01.40.43:956][312]LogOnline: OSS: Created online subsystem instance for: :Context_41
+[2025.09.06-01.40.44:094][312]PIE: Server logged in
+[2025.09.06-01.40.44:096][312]PIE: Play in editor total start time 0.86 seconds.
+[2025.09.06-01.40.47:542][408]LogMetaSound: Display: Auto-Updating '/Game/AncientContent/Audio/MetaSounds/sfx_Char_Echo_Foley_Pouch_Heavy_nl_meta.sfx_Char_Echo_Foley_Pouch_Heavy_nl_meta' node class 'UE.Wave Player.Stereo (v1.0)': Interface change detected.
+[2025.09.06-01.40.47:545][408]LogMetaSound: Display: Auto-Updating '/Game/AncientContent/Audio/MetaSounds/sfx_Char_Echo_Foley_Pouch_Heavy_nl_meta.sfx_Char_Echo_Foley_Pouch_Heavy_nl_meta' node class 'UE.RandomFloat': Newer version 'v1.1' found.
+[2025.09.06-01.40.47:546][408]LogMetaSound: Display: Auto-Updating '/Game/AncientContent/Audio/MetaSounds/sfx_Char_Echo_Foley_Pouch_Heavy_nl_meta.sfx_Char_Echo_Foley_Pouch_Heavy_nl_meta' node class 'UE.RandomFloat': Newer version 'v1.1' found.
+[2025.09.06-01.40.47:548][408]LogMetaSound: Display: Auto-Updating '/Game/AncientContent/Audio/MetaSounds/sfx_Char_Echo_Foley_Pouch_Heavy_nl_meta.sfx_Char_Echo_Foley_Pouch_Heavy_nl_meta' node class 'UE.Multiply.Audio by Float': Newer version 'v1.1' found.
+[2025.09.06-01.40.47:620][408]LogMetaSound: Display: Auto-Updating '/Game/AncientContent/Audio/MetaSounds/sfx_Char_Echo_Foley_Cloth_Run_nl_meta.sfx_Char_Echo_Foley_Cloth_Run_nl_meta' node class 'UE.Wave Player.Stereo (v1.0)': Interface change detected.
+[2025.09.06-01.40.47:620][408]LogMetaSound: Display: Auto-Updating '/Game/AncientContent/Audio/MetaSounds/sfx_Char_Echo_Foley_Cloth_Run_nl_meta.sfx_Char_Echo_Foley_Cloth_Run_nl_meta' node class 'UE.RandomFloat': Newer version 'v1.1' found.
+[2025.09.06-01.40.47:620][408]LogMetaSound: Display: Auto-Updating '/Game/AncientContent/Audio/MetaSounds/sfx_Char_Echo_Foley_Cloth_Run_nl_meta.sfx_Char_Echo_Foley_Cloth_Run_nl_meta' node class 'UE.RandomFloat': Newer version 'v1.1' found.
+[2025.09.06-01.40.47:620][408]LogMetaSound: Display: Auto-Updating '/Game/AncientContent/Audio/MetaSounds/sfx_Char_Echo_Foley_Cloth_Run_nl_meta.sfx_Char_Echo_Foley_Cloth_Run_nl_meta' node class 'UE.Multiply.Audio by Float': Newer version 'v1.1' found.
+[2025.09.06-01.40.47:931][416]LogMetaSound: Display: Auto-Updating '/Game/AncientContent/Audio/MetaSounds/sfx_Char_Echo_Foley_FS_Rock_Run_nl_meta.sfx_Char_Echo_Foley_FS_Rock_Run_nl_meta' node class 'UE.Wave Player.Stereo (v1.0)': Interface change detected.
+[2025.09.06-01.40.47:931][416]LogMetaSound: Display: Auto-Updating '/Game/AncientContent/Audio/MetaSounds/sfx_Char_Echo_Foley_FS_Rock_Run_nl_meta.sfx_Char_Echo_Foley_FS_Rock_Run_nl_meta' node class 'UE.RandomFloat': Newer version 'v1.1' found.
+[2025.09.06-01.40.47:931][416]LogMetaSound: Display: Auto-Updating '/Game/AncientContent/Audio/MetaSounds/sfx_Char_Echo_Foley_FS_Rock_Run_nl_meta.sfx_Char_Echo_Foley_FS_Rock_Run_nl_meta' node class 'UE.RandomFloat': Newer version 'v1.1' found.
+[2025.09.06-01.40.47:932][416]LogMetaSound: Display: Auto-Updating '/Game/AncientContent/Audio/MetaSounds/sfx_Char_Echo_Foley_FS_Rock_Run_nl_meta.sfx_Char_Echo_Foley_FS_Rock_Run_nl_meta' node class 'UE.Multiply.Audio by Float': Newer version 'v1.1' found.
+[2025.09.06-01.40.49:489][454]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=2
+[2025.09.06-01.40.59:669][753]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.06-01.40.59:670][753]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Minimal_Default_2
+[2025.09.06-01.40.59:676][753]LogWorld: UWorld::CleanupWorld for Minimal_Default_2, bSessionEnded=true, bCleanupResources=true
+[2025.09.06-01.40.59:679][753]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.06-01.40.59:696][753]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.06-01.40.59:703][753]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.06-01.40.59:733][753]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.06-01.40.59:734][753]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2025.09.06-01.40.59:734][753]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.09.06-01.40.59:757][753]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.09.06-01.40.59:784][753]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2025.09.06-01.41.00:089][756]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2025.09.06-01.41.06:350][938]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2025.09.06-01.41.08:719][  6]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.06-01.41.08:735][  6]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.06-01.41.08:735][  6]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Minimal_Default_2
+[2025.09.06-01.41.08:740][  6]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004303s)
+[2025.09.06-01.41.08:740][  6]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Minimal_Default_2.Minimal_Default_2 to /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 (0.004340s)
+[2025.09.06-01.41.08:767][  6]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2025.09.06-01.41.08:769][  6]LogChaosDD: Creating Chaos Debug Draw Scene for world Minimal_Default_2
+[2025.09.06-01.41.08:770][  6]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2'.
+[2025.09.06-01.41.08:772][  6]LogPlayLevel: PIE: World Init took: (0.002379s)
+[2025.09.06-01.41.08:772][  6]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2025.09.06-01.41.08:773][  6]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.06-01.41.08:773][  6]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.06-01.41.08:773][  6]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.06-01.41.08:773][  6]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.06-01.41.08:773][  6]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.06-01.41.08:773][  6]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.06-01.41.08:773][  6]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.06-01.41.08:773][  6]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.06-01.41.08:773][  6]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.06-01.41.08:773][  6]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.06-01.41.08:773][  6]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.06-01.41.08:775][  6]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.06-01.41.08:794][  6]LogAudioMixer: Display: Using Audio Hardware Device Auriculares (Vieta Pro Calm 2 Stereo)
+[2025.09.06-01.41.08:794][  6]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.06-01.41.08:794][  6]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.06-01.41.08:794][  6]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.06-01.41.08:795][  6]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2025.09.06-01.41.08:795][  6]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2025.09.06-01.41.08:798][  6]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2025.09.06-01.41.08:798][  6]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2025.09.06-01.41.08:798][  6]LogInit: FAudioDevice initialized with ID 3.
+[2025.09.06-01.41.08:798][  6]LogAudio: Display: Audio Device (ID: 3) registered with world 'Minimal_Default_2'.
+[2025.09.06-01.41.08:798][  6]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2025.09.06-01.41.08:801][  6]LogLoad: Game class is 'BP_GameMode_C'
+[2025.09.06-01.41.08:807][  6]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Echo'
+[2025.09.06-01.41.08:809][  6]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 up for play (max tick rate 60) at 2025.09.06-03.41.08
+[2025.09.06-01.41.08:810][  6]LogWorld: Bringing up level for play took: 0.009107
+[2025.09.06-01.41.08:813][  6]LogOnline: OSS: Created online subsystem instance for: :Context_42
+[2025.09.06-01.41.08:815][  6]PIE: Server logged in
+[2025.09.06-01.41.08:816][  6]PIE: Play in editor total start time 0.084 seconds.
+[2025.09.06-01.41.15:129][185]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.06-01.41.15:129][185]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Minimal_Default_2
+[2025.09.06-01.41.15:129][185]LogWorld: UWorld::CleanupWorld for Minimal_Default_2, bSessionEnded=true, bCleanupResources=true
+[2025.09.06-01.41.15:129][185]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.06-01.41.15:134][185]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.06-01.41.15:141][185]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.06-01.41.15:160][185]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.09.06-01.41.15:161][185]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2025.09.06-01.41.15:161][185]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.09.06-01.41.15:163][185]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.09.06-01.41.15:191][185]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.06-01.41.15:194][185]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2025.09.06-01.41.15:475][188]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2025.09.06-01.41.39:933][919]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2025.09.06-01.41.39:935][919]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Minimal_Default_2' took 0.025
+[2025.09.06-01.41.39:936][919]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Characters/BP_SlashCharacter] ([2] browsable assets)...
+[2025.09.06-01.41.40:137][919]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Characters/BP_SlashCharacter.BP_SlashCharacter]
+[2025.09.06-01.41.40:137][919]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/BP_SlashCharacter]
+[2025.09.06-01.41.40:145][919]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Characters/BP_SlashCharacter_Auto1
+[2025.09.06-01.41.40:146][919]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/BP_SlashCharacter_Auto11456C3C64C06E6CE78FB6986841448E3.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Autosaves/Game/Blueprints/Characters/BP_SlashCharacter_Auto1.uasset'
+[2025.09.06-01.41.40:148][919]LogFileHelpers: Auto-saving content packages took 0.212
+[2025.09.06-01.43.44:525][634]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3679.367432
+[2025.09.06-01.43.44:766][641]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.06-01.43.44:767][641]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3679.567871, Update Interval: 355.546753
+[2025.09.06-01.45.10:387][204]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.09.06-01.45.12:203][204]LogSlate: Window 'Save Content' being destroyed
+[2025.09.06-01.45.12:232][204]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.06-01.45.12:265][204]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/BP_SlashCharacter] ([2] browsable assets)...
+[2025.09.06-01.45.12:265][204]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/BP_SlashCharacter]
+[2025.09.06-01.45.12:272][204]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/BP_SlashCharacter
+[2025.09.06-01.45.12:273][204]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/BP_SlashCharacter5D8148E641CA3641297D41A458DD1012.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Characters/BP_SlashCharacter.uasset'
+[2025.09.06-01.45.12:285][204]LogFileHelpers: InternalPromptForCheckoutAndSave took 52.446 ms (total: 2.18 sec)
+[2025.09.06-01.45.12:322][204]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.06-01.45.12:322][204]LogContentValidation: Enabled validators:
+[2025.09.06-01.45.12:322][204]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.06-01.45.12:322][204]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.06-01.45.12:322][204]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.06-01.45.12:323][204]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.06-01.45.12:323][204]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.06-01.45.12:323][204]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.06-01.45.12:323][204]AssetCheck: /Game/Blueprints/Characters/BP_SlashCharacter Validating asset
