@@ -1135,3 +1135,1011 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.09.06-00.37.32:434][  0]LogShaderCompilers: Display: Job FTSRRejectShadingCS(permutation 56, format PCD3D_SM6) compile time exceeded threshold (61.249s)
 [2025.09.06-00.37.33:041][  0]LogShaderCompilers: Display: Job FTSRRejectShadingCS(permutation 57, format PCD3D_SM6) compile time exceeded threshold (62.346s)
 [2025.09.06-00.37.41:908][  0]LogShaderCompilers: Display: Job FTSRRejectShadingCS(permutation 54, format PCD3D_SM6) compile time exceeded threshold (42.003s)
+[2025.09.06-00.38.08:194][  0]LogShaderCompilers: Display: Job FTSRRejectShadingCS(permutation 49, format PCD3D_SM6) compile time exceeded threshold (51.526s)
+[2025.09.06-00.38.13:585][  0]LogShaderCompilers: Display: Job FTSRRejectShadingCS(permutation 52, format PCD3D_SM6) compile time exceeded threshold (102.599s)
+[2025.09.06-00.38.51:281][  0]LogShaderCompilers: Display: Job FTSRRejectShadingCS(permutation 53, format PCD3D_SM6) compile time exceeded threshold (98.706s)
+[2025.09.06-00.42.12:905][  0]LogMaterial: Display: Missing cached shadermap for DefaultPostProcessMaterial in PCD3D_SM6, Default, SM6, Editor (DDC key hash: 22e2a3dbfd7db9d3a821d1f8451edb2340863971), compiling. 
+[2025.09.06-00.42.12:909][  0]LogTurnkeySupport: Turnkey Device: Win64@DESKTOP-68OM3DR: (Name=DESKTOP-68OM3DR, Type=Computer, Status=Valid, MinAllowed=10.0.19041.0, MaxAllowed=, Current=10.0.19045.0, Flags="Device_InstallSoftwareValid")
+[2025.09.06-00.42.13:314][  0]LogMeshReduction: Display: Using QuadricMeshReduction for automatic static mesh reduction
+[2025.09.06-00.42.13:314][  0]LogMeshReduction: Display: Using SkeletalMeshReduction for automatic skeletal mesh reduction
+[2025.09.06-00.42.13:314][  0]LogMeshReduction: Display: Using ProxyLODMeshReduction for automatic mesh merging
+[2025.09.06-00.42.13:314][  0]LogMeshReduction: Display: No distributed automatic mesh merging module available
+[2025.09.06-00.42.13:314][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2025.09.06-00.42.13:671][  0]LogConfig: Branch 'PIEPreviewSettings' had been unloaded. Reloading on-demand took 2.68ms
+[2025.09.06-00.42.13:737][  0]LogConfig: Branch 'GameplayTagsList' had been unloaded. Reloading on-demand took 2.96ms
+[2025.09.06-00.42.13:835][  0]LogConfig: Branch 'TemplateDefs' had been unloaded. Reloading on-demand took 3.14ms
+[2025.09.06-00.42.13:841][  0]LogConfig: Branch 'TemplateCategories' had been unloaded. Reloading on-demand took 2.66ms
+[2025.09.06-00.42.14:354][  0]LogVirtualization: Display: VirtualizationSystem name found in ini file: None
+[2025.09.06-00.42.14:354][  0]LogVirtualization: Display: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2025.09.06-00.42.14:461][  0]LogSlate: Border
+[2025.09.06-00.42.14:461][  0]LogSlate: BreadcrumbButton
+[2025.09.06-00.42.14:461][  0]LogSlate: Brushes.Title
+[2025.09.06-00.42.14:461][  0]LogSlate: Default
+[2025.09.06-00.42.14:461][  0]LogSlate: Icons.Save
+[2025.09.06-00.42.14:461][  0]LogSlate: Icons.Toolbar.Settings
+[2025.09.06-00.42.14:461][  0]LogSlate: ListView
+[2025.09.06-00.42.14:461][  0]LogSlate: SoftwareCursor_CardinalCross
+[2025.09.06-00.42.14:461][  0]LogSlate: SoftwareCursor_Grab
+[2025.09.06-00.42.14:461][  0]LogSlate: TableView.DarkRow
+[2025.09.06-00.42.14:461][  0]LogSlate: TableView.Row
+[2025.09.06-00.42.14:461][  0]LogSlate: TreeView
+[2025.09.06-00.42.14:852][  0]LogWorldPartition: Display: FWorldPartitionClassDescRegistry::Initialize started...
+[2025.09.06-00.42.14:858][  0]LogWorldPartition: Display: FWorldPartitionClassDescRegistry::Initialize took 6.502 ms
+[2025.09.06-00.42.14:912][  0]LogConfig: Branch 'Mass' had been unloaded. Reloading on-demand took 2.84ms
+[2025.09.06-00.42.14:989][  0]LogInit: XR: Instanced Stereo Rendering is Disabled
+[2025.09.06-00.42.14:990][  0]LogInit: XR: MultiViewport is Disabled
+[2025.09.06-00.42.14:990][  0]LogInit: XR: Mobile Multiview is Disabled
+[2025.09.06-00.42.15:299][  0]LogNNERuntimeORT: Available graphics and compute adapters:
+[2025.09.06-00.42.15:299][  0]LogNNERuntimeORT: 0: NVIDIA GeForce GTX 1650 Ti (Compute, Graphics)
+[2025.09.06-00.42.15:299][  0]LogNNERuntimeORT: 1: Microsoft Basic Render Driver (Compute, Graphics)
+[2025.09.06-00.42.15:299][  0]LogNNERuntimeORT: No NPU adapter found!
+[2025.09.06-00.42.15:510][  0]LogConfig: Branch 'TranslationPickerSettings' had been unloaded. Reloading on-demand took 2.76ms
+[2025.09.06-00.42.16:288][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2025.09.06-00.42.16:304][  0]LogUdpMessaging: Display: Work queue size set to 1024.
+[2025.09.06-00.42.16:305][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2025.09.06-00.42.16:307][  0]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:55999'.
+[2025.09.06-00.42.16:313][  0]LogUdpMessaging: Display: Added local interface '192.168.1.33' to multicast group '230.0.0.1:6666'
+[2025.09.06-00.42.17:145][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: AB37CD085BD0437E800000000000A300 | Instance: 5F857A474EB3D49AF723FBAA89CD4901 (DESKTOP-68OM3DR-24232).
+[2025.09.06-00.42.19:056][  0]LogMetaSound: Display: MetaSound Page Target Initialized to 'Default'
+[2025.09.06-00.42.19:059][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2025.09.06-00.42.19:101][  0]LogMetaSound: MetaSound Engine Initialized
+[2025.09.06-00.42.20:290][  0]LogConfig: Applying CVar settings from Section [/Script/NNEDenoiser.NNEDenoiserSettings] File [Engine]
+[2025.09.06-00.42.21:683][  0]SourceControl: Revision control is disabled
+[2025.09.06-00.42.21:743][  0]SourceControl: Revision control is disabled
+[2025.09.06-00.42.21:898][  0]LogConfig: Branch 'ObjectMixerSerializedData' had been unloaded. Reloading on-demand took 2.77ms
+[2025.09.06-00.42.21:945][  0]LogConfig: Branch 'Crypto' had been unloaded. Reloading on-demand took 2.69ms
+[2025.09.06-00.42.22:687][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Plugins/Interchange/Editor/Content/Old/Tiles/Outer/alertSolid.png' error.
+[2025.09.06-00.42.22:687][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Plugins/Interchange/Editor/Content/Old/Tiles/Outer/alertSolid.png
+[2025.09.06-00.42.22:883][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2025.09.06-00.42.22:924][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2025.09.06-00.42.22:924][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2025.09.06-00.42.23:132][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/glf/resources/plugInfo.json'
+[2025.09.06-00.42.23:134][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/hdx/resources/plugInfo.json'
+[2025.09.06-00.42.23:136][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdVol/resources/plugInfo.json'
+[2025.09.06-00.42.23:143][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdHydra/resources/plugInfo.json'
+[2025.09.06-00.42.23:145][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdProc/resources/plugInfo.json'
+[2025.09.06-00.42.23:152][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdMedia/resources/plugInfo.json'
+[2025.09.06-00.42.23:159][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdShaders/resources/plugInfo.json'
+[2025.09.06-00.42.23:161][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/ndr/resources/plugInfo.json'
+[2025.09.06-00.42.23:164][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/hd/resources/plugInfo.json'
+[2025.09.06-00.42.23:172][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/hdSt/resources/plugInfo.json'
+[2025.09.06-00.42.23:174][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdRender/resources/plugInfo.json'
+[2025.09.06-00.42.23:184][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdGeom/resources/plugInfo.json'
+[2025.09.06-00.42.23:186][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdVolImaging/resources/plugInfo.json'
+[2025.09.06-00.42.23:196][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdImaging/resources/plugInfo.json'
+[2025.09.06-00.42.23:203][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/hdStorm/resources/plugInfo.json'
+[2025.09.06-00.42.23:206][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdRi/resources/plugInfo.json'
+[2025.09.06-00.42.23:207][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/hgiGL/resources/plugInfo.json'
+[2025.09.06-00.42.23:210][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdShade/resources/plugInfo.json'
+[2025.09.06-00.42.23:217][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdImagingGL/resources/plugInfo.json'
+[2025.09.06-00.42.23:219][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdProcImaging/resources/plugInfo.json'
+[2025.09.06-00.42.23:220][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/sdf/resources/plugInfo.json'
+[2025.09.06-00.42.23:222][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdSkelImaging/resources/plugInfo.json'
+[2025.09.06-00.42.23:224][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usd/resources/plugInfo.json'
+[2025.09.06-00.42.23:226][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdLux/resources/plugInfo.json'
+[2025.09.06-00.42.23:234][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/sdrGlslfx/resources/plugInfo.json'
+[2025.09.06-00.42.23:235][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdAbc/resources/plugInfo.json'
+[2025.09.06-00.42.23:238][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdPhysics/resources/plugInfo.json'
+[2025.09.06-00.42.23:239][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdRiPxrImaging/resources/plugInfo.json'
+[2025.09.06-00.42.23:248][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdSkel/resources/plugInfo.json'
+[2025.09.06-00.42.23:249][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdMtlx/resources/plugInfo.json'
+[2025.09.06-00.42.23:251][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdUI/resources/plugInfo.json'
+[2025.09.06-00.42.23:253][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/ar/resources/plugInfo.json'
+[2025.09.06-00.42.23:255][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/hdGp/resources/plugInfo.json'
+[2025.09.06-00.42.23:258][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/hio/resources/plugInfo.json'
+[2025.09.06-00.42.23:259][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usd/resources/codegenTemplates/plugInfo.json'
+[2025.09.06-00.42.23:547][  0]LogCollectionManager: Loaded 0 collections in 0.002925 seconds
+[2025.09.06-00.42.23:549][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Collections/' took 0.00s
+[2025.09.06-00.42.23:555][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Developers/Usuario/Collections/' took 0.01s
+[2025.09.06-00.42.23:558][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Collections/' took 0.00s
+[2025.09.06-00.42.23:779][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Plugins/Developer/PlasticSourceControl/Resources/Icon128.png' error.
+[2025.09.06-00.42.23:779][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Plugins/Developer/PlasticSourceControl/Resources/Icon128.png
+[2025.09.06-00.42.23:782][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Platforms/VisionOS/Content/Editor/Slate/Launcher/Platform_VisionOS_24x.png' error.
+[2025.09.06-00.42.23:782][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Platforms/VisionOS/Content/Editor/Slate/Launcher/Platform_VisionOS_24x.png
+[2025.09.06-00.42.23:782][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Platforms/VisionOS/Content/Editor/Slate/Launcher/Platform_VisionOS_128x.png' error.
+[2025.09.06-00.42.23:782][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Platforms/VisionOS/Content/Editor/Slate/Launcher/Platform_VisionOS_128x.png
+[2025.09.06-00.42.23:820][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Plugins/Interchange/Editor/Content/Old/Tiles/Outer/alertSolid.png' error.
+[2025.09.06-00.42.23:820][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Plugins/Interchange/Editor/Content/Old/Tiles/Outer/alertSolid.png
+[2025.09.06-00.42.23:847][  0]LogEOSSDK: LogEOS: [Boot] EOSSDK Version 1.16.4-36651368 booting at 2025-09-06T00:42:23.844Z using C
+[2025.09.06-00.42.23:849][  0]LogEOSSDK: LogEOS: [Boot] EOSSDK Platform Properties [OS=Windows/10.0.19041.5915.64bit, ClientId=xyza7891REBVsEqSJRRNXmlS7EQHM459, ProductId=86f32f1151354e7cb39c12f8ab2c22a3, SandboxId=a01927f7421a4d4995673fe30ef46945, DeploymentId=a652a72ea1664dcab3a467891eea5f30, ProductName=Slash_Project, ProductVersion=++UE5+Release-5.5-CL-39772772, IsServer=false, Flags=DisableOverlay]
+[2025.09.06-00.42.23:862][  0]LogEOSSDK: LogEOSAnalytics: Start Session (User: ...)
+[2025.09.06-00.42.23:876][  0]LogEOSSDK: LogEOSOverlay: Overlay will not load, because it was explicitly disabled when creating the platform
+[2025.09.06-00.42.23:932][  0]LogEOSSDK: LogEOSAntiCheat: [AntiCheatClient] Anti-cheat client not available. Verify that the game was started using the anti-cheat bootstrapper if you intend to use it.
+[2025.09.06-00.42.23:949][  0]LogEOSSDK: LogEOS: SetApplicationStatus - OldStatus: EOS_AS_Foreground, NewStatus: EOS_AS_Foreground, Current Time: 0001.01.01-00.00.00
+[2025.09.06-00.42.23:949][  0]LogEOSSDK: LogEOS: SetNetworkStatus - OldStatus: EOS_NS_Online, NewStatus: EOS_NS_Online
+[2025.09.06-00.42.23:950][  0]LogEOSSDK: LogEOS: Updating Platform SDK Config, Time: 0.001717
+[2025.09.06-00.42.23:953][  0]LogFab: Display: Logging in using persist
+[2025.09.06-00.42.23:954][  0]LogEOSSDK: Warning: LogEOSAuth: No existing persistent auth credentials were found for automatic login.
+[2025.09.06-00.42.24:019][  0]LogUObjectArray: 43637 objects as part of root set at end of initial load.
+[2025.09.06-00.42.24:019][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2025.09.06-00.42.24:031][  0]LogStreaming: Display: AsyncLoading2 - NotifyRegistrationComplete: Registered 36327 public script object entries (984.98 KB)
+[2025.09.06-00.42.24:031][  0]LogStreaming: Display: AsyncLoading2 - Thread Started: false, IsInitialLoad: false
+[2025.09.06-00.42.24:167][  0]LogClass: Display: AttemptToFindUninitializedScriptStructMembers took more than 1ms to process ScriptStruct /Script/AIModule.EnvQueryInstanceCache. Time(ms): 1.8
+[2025.09.06-00.42.24:171][  0]LogClass: Display: AttemptToFindUninitializedScriptStructMembers took more than 1ms to process ScriptStruct /Script/EditorConfig.EditorConfigTestComplexMap. Time(ms): 1.2
+[2025.09.06-00.42.24:186][  0]LogClass: Display: AttemptToFindUninitializedScriptStructMembers took more than 1ms to process ScriptStruct /Script/Persona.PhysicsAssetRenderSettings. Time(ms): 1.0
+[2025.09.06-00.42.24:197][  0]LogClass: Display: AttemptToFindUninitializedScriptStructMembers took more than 1ms to process ScriptStruct /Script/Serialization.StructSerializerBuiltinTestStruct. Time(ms): 1.6
+[2025.09.06-00.42.24:200][  0]LogClass: Display: AttemptToFindUninitializedScriptStructMembers took more than 1ms to process ScriptStruct /Script/Serialization.StructSerializerLWCTypesTest. Time(ms): 3.2
+[2025.09.06-00.42.24:202][  0]LogClass: Display: AttemptToFindUninitializedScriptStructMembers took more than 1ms to process ScriptStruct /Script/TemplateSequence.TemplateSectionPropertyScale. Time(ms): 1.0
+[2025.09.06-00.42.24:204][  0]LogClass: Display: AttemptToFindUninitializedScriptStructMembers took more than 1ms to process ScriptStruct /Script/NiagaraEditor.NiagaraSchemaAction_NewNode. Time(ms): 1.2
+[2025.09.06-00.42.24:206][  0]LogClass: Display: AttemptToFindUninitializedScriptStructMembers took more than 1ms to process ScriptStruct /Script/NiagaraEditor.NiagaraGraphScriptUsageInfo. Time(ms): 1.2
+[2025.09.06-00.42.24:208][  0]LogClass: Display: AttemptToFindUninitializedScriptStructMembers took more than 1ms to process ScriptStruct /Script/NiagaraEditor.NiagaraScriptVariableData. Time(ms): 1.6
+[2025.09.06-00.42.24:210][  0]LogClass: Display: AttemptToFindUninitializedScriptStructMembers took more than 1ms to process ScriptStruct /Script/VariantManager.CapturableProperty. Time(ms): 1.0
+[2025.09.06-00.42.24:211][  0]LogClass: Display: AttemptToFindUninitializedScriptStructMembers took more than 1ms to process ScriptStruct /Script/MetasoundFrontend.MetaSoundFrontendDocumentBuilder. Time(ms): 1.0
+[2025.09.06-00.42.24:214][  0]LogClass: Display: AttemptToFindUninitializedScriptStructMembers took more than 1ms to process ScriptStruct /Script/MetasoundEditor.MetasoundEditorGraphMemberNodeBreadcrumb. Time(ms): 1.4
+[2025.09.06-00.42.24:216][  0]LogClass: Display: AttemptToFindUninitializedScriptStructMembers took more than 1ms to process ScriptStruct /Script/MetasoundEditor.MetasoundGraphSchemaAction_NewInput. Time(ms): 1.5
+[2025.09.06-00.42.24:217][  0]LogClass: Display: AttemptToFindUninitializedScriptStructMembers took more than 1ms to process ScriptStruct /Script/StateTreeEditorModule.StateTreeCompilerLog. Time(ms): 1.1
+[2025.09.06-00.42.24:223][  0]LogClass: Display: AttemptToFindUninitializedScriptStructMembers took more than 1ms to process ScriptStruct /Script/GeometryCollectionNodes.SetVisibilityInCollectionDataflowNode. Time(ms): 1.3
+[2025.09.06-00.42.24:225][  0]LogClass: Display: AttemptToFindUninitializedScriptStructMembers took more than 1ms to process ScriptStruct /Script/GeometryCollectionNodes.GridScatterPointsDataflowNode. Time(ms): 1.6
+[2025.09.06-00.42.24:227][  0]LogClass: Display: AttemptToFindUninitializedScriptStructMembers took more than 1ms to process ScriptStruct /Script/GeometryCollectionNodes.AppendCollectionAssetsDataflowNode. Time(ms): 1.5
+[2025.09.06-00.42.24:232][  0]LogClass: Display: AttemptToFindUninitializedScriptStructMembers took more than 1ms to process ScriptStruct /Script/LiveLinkEditor.LiveLinkTestFrameDataInternal. Time(ms): 1.1
+[2025.09.06-00.42.24:287][  0]LogEngine: Initializing Engine...
+[2025.09.06-00.42.24:297][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2025.09.06-00.42.24:299][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2025.09.06-00.42.24:493][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.11.dll
+[2025.09.06-00.42.24:530][  0]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled
+[2025.09.06-00.42.24:557][  0]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Temp/Untitled_0.Untitled'.
+[2025.09.06-00.42.24:566][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2025.09.06-00.42.24:566][  0]LogInit: Texture streaming: Enabled
+[2025.09.06-00.42.24:588][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data. AppVersion = 5.5.3-39772772+++UE5+Release-5.5
+[2025.09.06-00.42.24:604][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2025.09.06-00.42.24:626][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2025.09.06-00.42.24:626][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2025.09.06-00.42.24:627][  0]LogAudio: Display: Audio Device Manager Initialized
+[2025.09.06-00.42.24:627][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2025.09.06-00.42.24:629][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.06-00.42.24:629][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.06-00.42.24:629][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.06-00.42.24:629][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.06-00.42.24:629][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.06-00.42.24:629][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.06-00.42.24:629][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.06-00.42.24:629][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.06-00.42.24:629][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.06-00.42.24:629][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.06-00.42.24:629][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.06-00.42.24:654][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.06-00.42.24:683][  0]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.09.06-00.42.24:684][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.06-00.42.24:687][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.06-00.42.24:687][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.06-00.42.24:688][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2025.09.06-00.42.24:688][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.09.06-00.42.24:690][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.09.06-00.42.24:690][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2025.09.06-00.42.24:690][  0]LogInit: FAudioDevice initialized with ID 1.
+[2025.09.06-00.42.24:690][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2025.09.06-00.42.24:690][  0]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 1
+[2025.09.06-00.42.24:727][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2025.09.06-00.42.24:731][  0]LogInit: Undo buffer set to 256 MB
+[2025.09.06-00.42.24:731][  0]LogInit: Transaction tracking system initialized
+[2025.09.06-00.42.24:792][  0]LogSourceControl: Display: Uncontrolled Changelist persistency file loaded ../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/SourceControl/UncontrolledChangelists.json
+[2025.09.06-00.42.25:132][  0]LogConfig: Branch 'LocalizationServiceSettings' had been unloaded. Reloading on-demand took 2.79ms
+[2025.09.06-00.42.25:139][  0]LocalizationService: Localization service is disabled
+[2025.09.06-00.42.25:229][  0]LogTimingProfiler: Initialize
+[2025.09.06-00.42.25:236][  0]LogTimingProfiler: OnSessionChanged
+[2025.09.06-00.42.25:236][  0]LoadingProfiler: Initialize
+[2025.09.06-00.42.25:236][  0]LoadingProfiler: OnSessionChanged
+[2025.09.06-00.42.25:238][  0]LogNetworkingProfiler: Initialize
+[2025.09.06-00.42.25:241][  0]LogNetworkingProfiler: OnSessionChanged
+[2025.09.06-00.42.25:241][  0]LogMemoryProfiler: Initialize
+[2025.09.06-00.42.25:241][  0]LogMemoryProfiler: OnSessionChanged
+[2025.09.06-00.42.25:783][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/' took 0.03s
+[2025.09.06-00.42.25:866][  0]LogNNEDenoiser: Ray Tracing is not enabled, therefore NNEDenoiser is not registered!
+[2025.09.06-00.42.25:903][  0]LogPython: Using Python 3.11.8
+[2025.09.06-00.42.27:245][  0]LogPython: Display: No enabled plugins with python dependencies found, skipping
+[2025.09.06-00.42.27:329][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2025.09.06-00.42.27:741][  0]LogStreaming: Warning: Failed to read file 'Common/Selector.png' error.
+[2025.09.06-00.42.27:741][  0]LogSlate: Could not find file for Slate resource: Common/Selector.png
+[2025.09.06-00.42.27:960][  0]LogEditorDataStorage: Initializing
+[2025.09.06-00.42.27:967][  0]LogEditorDataStorage: Initialized
+[2025.09.06-00.42.28:020][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2025.09.06-00.42.28:023][  0]SourceControl: Revision control is disabled
+[2025.09.06-00.42.28:023][  0]LogUnrealEdMisc: Loading editor; pre map load, took 488.743
+[2025.09.06-00.42.28:032][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Maps/Minimal_Default_2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.09.06-00.42.28:035][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2025.09.06-00.42.28:036][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.06-00.42.28:052][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.09.06-00.42.28:056][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.09.06-00.42.28:058][  0]LogAssetRegistry: Display: Triggering cache save on discovery complete
+[2025.09.06-00.42.28:705][  0]LogStreaming: Display: ImportPackages: SkipPackage: /Game/AncientContent/Audio/AudioModulation/Patches/SFX_Foley_Echo_Patch (0xA4C2E2A43B5CFF3) /Game/AncientContent/Audio/AudioModulation/Patches/SFX_Foley_Echo_Patch (0xA4C2E2A43B5CFF3) - Skipping non mounted imported package /AudioModulation/Volume (0xEB7582CB3977CA8D)
+[2025.09.06-00.42.28:706][  0]LogStreaming: Display: ImportPackages: SkipPackage: /Game/AncientContent/Audio/AudioModulation/Patches/SFX_FS_Echo_Patch (0x603EFC99CA0B0076) /Game/AncientContent/Audio/AudioModulation/Patches/SFX_FS_Echo_Patch (0x603EFC99CA0B0076) - Skipping non mounted imported package /AudioModulation/Volume (0xEB7582CB3977CA8D)
+[2025.09.06-00.42.28:902][  0]LogAssetRegistry: Display: Asset registry cache written as 39.7 MiB to ../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Intermediate/CachedAssetRegistry_*.bin
+[2025.09.06-00.42.28:966][  0]LogStreaming: Display: ImportPackages: SkipPackage: /Game/AncientContent/Audio/AudioModulation/ControlBuses/Echo_ControlBus (0x36A040309F10B6F0) /Game/AncientContent/Audio/AudioModulation/ControlBuses/Echo_ControlBus (0x36A040309F10B6F0) - Skipping non mounted imported package /AudioModulation/Volume (0xEB7582CB3977CA8D)
+[2025.09.06-00.42.28:967][  0]LogStreaming: Display: ImportPackages: SkipPackage: /Game/AncientContent/Audio/AudioModulation/ControlBuses/Foley_ControlBus (0x36E3FA315AA935E0) /Game/AncientContent/Audio/AudioModulation/ControlBuses/Foley_ControlBus (0x36E3FA315AA935E0) - Skipping non mounted imported package /AudioModulation/Volume (0xEB7582CB3977CA8D)
+[2025.09.06-00.42.28:967][  0]LogStreaming: Display: ImportPackages: SkipPackage: /Game/AncientContent/Audio/AudioModulation/ControlBuses/SFX_ControlBus (0xDCDD05A2051628D7) /Game/AncientContent/Audio/AudioModulation/ControlBuses/SFX_ControlBus (0xDCDD05A2051628D7) - Skipping non mounted imported package /AudioModulation/Volume (0xEB7582CB3977CA8D)
+[2025.09.06-00.42.28:967][  0]LogStreaming: Display: ImportPackages: SkipPackage: /Game/AncientContent/Audio/AudioModulation/ControlBuses/FS_ControlBus (0xC6EBB2B8DE74AFC5) /Game/AncientContent/Audio/AudioModulation/ControlBuses/FS_ControlBus (0xC6EBB2B8DE74AFC5) - Skipping non mounted imported package /AudioModulation/Volume (0xEB7582CB3977CA8D)
+[2025.09.06-00.42.29:054][  0]LogLinker: Warning: [AssetLog] C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Content\AncientContent\Audio\AudioModulation\ControlBuses\Echo_ControlBus.uasset: VerifyImport: Failed to find script package for import object 'Package /Script/AudioModulation'
+[2025.09.06-00.42.29:054][  0]LogLinker: Warning: Unable to load Echo_ControlBus with outer Package /Game/AncientContent/Audio/AudioModulation/ControlBuses/Echo_ControlBus because its class (SoundControlBus) does not exist
+[2025.09.06-00.42.29:054][  0]LogLinker: Warning: Unable to load Foley_ControlBus with outer Package /Game/AncientContent/Audio/AudioModulation/ControlBuses/Foley_ControlBus because its class (SoundControlBus) does not exist
+[2025.09.06-00.42.29:054][  0]LogLinker: Warning: Unable to load SFX_ControlBus with outer Package /Game/AncientContent/Audio/AudioModulation/ControlBuses/SFX_ControlBus because its class (SoundControlBus) does not exist
+[2025.09.06-00.42.29:054][  0]LogLinker: Warning: Unable to load SFX_Foley_Echo_Patch with outer Package /Game/AncientContent/Audio/AudioModulation/Patches/SFX_Foley_Echo_Patch because its class (SoundModulationPatch) does not exist
+[2025.09.06-00.42.29:055][  0]LogLinker: Warning: Unable to load FS_ControlBus with outer Package /Game/AncientContent/Audio/AudioModulation/ControlBuses/FS_ControlBus because its class (SoundControlBus) does not exist
+[2025.09.06-00.42.29:055][  0]LogLinker: Warning: Unable to load SFX_FS_Echo_Patch with outer Package /Game/AncientContent/Audio/AudioModulation/Patches/SFX_FS_Echo_Patch because its class (SoundModulationPatch) does not exist
+[2025.09.06-00.42.29:958][  0]LogStaticMesh: Display: Building static mesh Floor_400x400 (Required Memory Estimate: 0.026896 MB)...
+[2025.09.06-00.42.29:970][  0]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2025.09.06-00.42.29:999][  0]LogStaticMesh: Display: Building static mesh Banquet_Lamb_Rack_of_Ribs_wktpfaks_High (Required Memory Estimate: 36.990333 MB)...
+[2025.09.06-00.42.30:004][  0]LogStaticMesh: Display: Building static mesh Sandstone_Boulder_vmjjfdm_Low (Required Memory Estimate: 0.848504 MB)...
+[2025.09.06-00.42.30:007][  0]LogStaticMesh: Display: Building static mesh Stone_Structure_scnv2_Mid (Required Memory Estimate: 15.923856 MB)...
+[2025.09.06-00.42.30:011][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Stone/Sandstone_Boulder_vmjjfdm_Low.Sandstone_Boulder_vmjjfdm_Low
+[2025.09.06-00.42.30:011][  0]LogStaticMesh: Display: Building static mesh Rusty_Metal_Workbench_ukkiejiaw_Mid (Required Memory Estimate: 11.89335 MB)...
+[2025.09.06-00.42.30:078][  0]LogStaticMesh: Adjacency [0.01s], tris: 7732, UVs 1
+[2025.09.06-00.42.30:078][  0]LogStaticMesh: Adjacency [0.00s], tris: 10413, UVs 1
+[2025.09.06-00.42.30:091][  0]LogStaticMesh: Clustering [0.01s]. Ratio: 1.000000
+[2025.09.06-00.42.30:091][  0]LogStaticMesh: Clustering [0.01s]. Ratio: 1.012195
+[2025.09.06-00.42.30:093][  0]LogStaticMesh: Leaves [0.00s]
+[2025.09.06-00.42.30:093][  0]LogStaticMesh: Leaves [0.00s]
+[2025.09.06-00.42.30:206][  0]LogStaticMesh: Adjacency [0.00s], tris: 24208, UVs 1
+[2025.09.06-00.42.30:227][  0]LogStaticMesh: Clustering [0.02s]. Ratio: 1.010526
+[2025.09.06-00.42.30:230][  0]LogStaticMesh: Leaves [0.00s]
+[2025.09.06-00.42.30:436][  0]LogStaticMesh: Reduce [0.34s]
+[2025.09.06-00.42.30:477][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.7.dll
+[2025.09.06-00.42.30:504][  0]LogStaticMesh: Display: Building static mesh Sword_uitlbiaga_Low (Required Memory Estimate: 0.478128 MB)...
+[2025.09.06-00.42.30:508][  0]LogStaticMesh: Adjacency [0.00s], tris: 302, UVs 1
+[2025.09.06-00.42.30:508][  0]LogStaticMesh: Clustering [0.00s]. Ratio: 1.333333
+[2025.09.06-00.42.30:508][  0]LogStaticMesh: Leaves [0.00s]
+[2025.09.06-00.42.30:521][  0]LogStaticMesh: Reduce [0.43s]
+[2025.09.06-00.42.30:523][  0]LogStaticMesh: Reduce [0.02s]
+[2025.09.06-00.42.30:530][  0]LogStaticMesh: Fallback [0.01s], num tris: 258
+[2025.09.06-00.42.30:531][  0]LogStaticMesh: ConstrainClusters:
+[2025.09.06-00.42.30:531][  0]LogStaticMesh:   Input: 7 Clusters, 680 Triangles and 820 Vertices
+[2025.09.06-00.42.30:531][  0]LogStaticMesh:   Output without splits: 7 Clusters, 680 Triangles and 820 Vertices
+[2025.09.06-00.42.30:531][  0]LogStaticMesh:   Output with splits: 7 Clusters, 680 Triangles and 820 Vertices
+[2025.09.06-00.42.30:531][  0]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 7, Slow Path Clusters: 0, 1 Material: 7, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.09.06-00.42.30:531][  0]LogStaticMesh: WritePages:
+[2025.09.06-00.42.30:531][  0]LogStaticMesh:   Root: GPU size: 9384 bytes. 1 Pages. 9384.000 bytes per page (28.638% utilization).
+[2025.09.06-00.42.30:531][  0]LogStaticMesh:   Streaming: 0 bytes.
+[2025.09.06-00.42.30:531][  0]LogStaticMesh:   Page data disk size: 8408 bytes. Fixup data size: 56 bytes.
+[2025.09.06-00.42.30:531][  0]LogStaticMesh:   Total GPU size: 9384 bytes, Total disk size: 8464 bytes.
+[2025.09.06-00.42.30:531][  0]LogStaticMesh: Encode [0.00s]
+[2025.09.06-00.42.30:531][  0]LogStaticMesh: Nanite build [0.02s]
+
+[2025.09.06-00.42.30:533][  0]LogStaticMesh: Built static mesh [0.03s] /Game/Sword/Sword_uitlbiaga_Low.Sword_uitlbiaga_Low
+[2025.09.06-00.42.30:570][  0]LogStaticMesh: Fallback [0.13s], num tris: 1913
+[2025.09.06-00.42.30:574][  0]LogStaticMesh: ConstrainClusters:
+[2025.09.06-00.42.30:574][  0]LogStaticMesh:   Input: 171 Clusters, 21496 Triangles and 14895 Vertices
+[2025.09.06-00.42.30:574][  0]LogStaticMesh:   Output without splits: 171 Clusters, 21496 Triangles and 15266 Vertices
+[2025.09.06-00.42.30:574][  0]LogStaticMesh:   Output with splits: 171 Clusters, 21496 Triangles and 15266 Vertices
+[2025.09.06-00.42.30:575][  0]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 171, Slow Path Clusters: 0, 1 Material: 171, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.09.06-00.42.30:580][  0]LogStaticMesh: WritePages:
+[2025.09.06-00.42.30:580][  0]LogStaticMesh:   Root: GPU size: 32692 bytes. 1 Pages. 32692.000 bytes per page (99.768% utilization).
+[2025.09.06-00.42.30:580][  0]LogStaticMesh:   Streaming: GPU size: 166712 bytes. 2 Pages (2 with relative encoding). 83356.000 bytes per page (63.596% utilization).
+[2025.09.06-00.42.30:580][  0]LogStaticMesh:   Page data disk size: 176004 bytes. Fixup data size: 752 bytes.
+[2025.09.06-00.42.30:580][  0]LogStaticMesh:   Total GPU size: 199404 bytes, Total disk size: 176756 bytes.
+[2025.09.06-00.42.30:580][  0]LogStaticMesh: Encode [0.01s]
+[2025.09.06-00.42.30:580][  0]LogStaticMesh: Nanite build [0.50s]
+
+[2025.09.06-00.42.30:589][  0]LogStaticMesh: Built static mesh [0.58s] /Game/Stone/Stone_Structure_scnv2_Mid.Stone_Structure_scnv2_Mid
+[2025.09.06-00.42.30:680][  0]LogStaticMesh: Fallback [0.16s], num tris: 1704
+[2025.09.06-00.42.30:684][  0]LogStaticMesh: ConstrainClusters:
+[2025.09.06-00.42.30:684][  0]LogStaticMesh:   Input: 124 Clusters, 15668 Triangles and 14563 Vertices
+[2025.09.06-00.42.30:684][  0]LogStaticMesh:   Output without splits: 124 Clusters, 15668 Triangles and 14616 Vertices
+[2025.09.06-00.42.30:684][  0]LogStaticMesh:   Output with splits: 124 Clusters, 15668 Triangles and 14616 Vertices
+[2025.09.06-00.42.30:685][  0]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 124, Slow Path Clusters: 0, 1 Material: 124, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.09.06-00.42.30:688][  0]LogStaticMesh: WritePages:
+[2025.09.06-00.42.30:688][  0]LogStaticMesh:   Root: GPU size: 31476 bytes. 1 Pages. 31476.000 bytes per page (96.057% utilization).
+[2025.09.06-00.42.30:688][  0]LogStaticMesh:   Streaming: GPU size: 148608 bytes. 2 Pages (2 with relative encoding). 74304.000 bytes per page (56.689% utilization).
+[2025.09.06-00.42.30:688][  0]LogStaticMesh:   Page data disk size: 159348 bytes. Fixup data size: 568 bytes.
+[2025.09.06-00.42.30:688][  0]LogStaticMesh:   Total GPU size: 180084 bytes, Total disk size: 159916 bytes.
+[2025.09.06-00.42.30:689][  0]LogStaticMesh: Encode [0.01s]
+[2025.09.06-00.42.30:689][  0]LogStaticMesh: Nanite build [0.62s]
+
+[2025.09.06-00.42.30:696][  0]LogStaticMesh: Built static mesh [0.68s] /Game/Workbench/Rusty_Metal_Workbench_ukkiejiaw_Mid.Rusty_Metal_Workbench_ukkiejiaw_Mid
+[2025.09.06-00.42.30:775][  0]LogStaticMesh: Reduce [0.55s]
+[2025.09.06-00.42.30:888][  0]LogStaticMesh: Fallback [0.11s], num tris: 5528
+[2025.09.06-00.42.30:894][  0]LogStaticMesh: ConstrainClusters:
+[2025.09.06-00.42.30:894][  0]LogStaticMesh:   Input: 395 Clusters, 49772 Triangles and 35793 Vertices
+[2025.09.06-00.42.30:894][  0]LogStaticMesh:   Output without splits: 395 Clusters, 49772 Triangles and 36662 Vertices
+[2025.09.06-00.42.30:894][  0]LogStaticMesh:   Output with splits: 395 Clusters, 49772 Triangles and 36662 Vertices
+[2025.09.06-00.42.30:895][  0]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 395, Slow Path Clusters: 0, 1 Material: 395, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.09.06-00.42.30:900][  0]LogStaticMesh: WritePages:
+[2025.09.06-00.42.30:900][  0]LogStaticMesh:   Root: GPU size: 31440 bytes. 1 Pages. 31440.000 bytes per page (95.947% utilization).
+[2025.09.06-00.42.30:900][  0]LogStaticMesh:   Streaming: GPU size: 430192 bytes. 4 Pages (4 with relative encoding). 107548.000 bytes per page (82.053% utilization).
+[2025.09.06-00.42.30:900][  0]LogStaticMesh:   Page data disk size: 381852 bytes. Fixup data size: 2080 bytes.
+[2025.09.06-00.42.30:900][  0]LogStaticMesh:   Total GPU size: 461632 bytes, Total disk size: 383932 bytes.
+[2025.09.06-00.42.30:900][  0]LogStaticMesh: Encode [0.01s]
+[2025.09.06-00.42.30:900][  0]LogStaticMesh: Nanite build [0.70s]
+
+[2025.09.06-00.42.30:917][  0]LogStaticMesh: Built static mesh [0.92s] /Game/Banquet/Banquet_Lamb_Rack_of_Ribs_wktpfaks_High.Banquet_Lamb_Rack_of_Ribs_wktpfaks_High
+[2025.09.06-00.42.31:402][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Minimal_Default_2'.
+[2025.09.06-00.42.31:402][  0]LogChaosDD: Creating Chaos Debug Draw Scene for world Minimal_Default_2
+[2025.09.06-00.42.31:404][  0]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/Maps/Minimal_Default_2.Minimal_Default_2'.
+[2025.09.06-00.42.31:436][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.09.06-00.42.31:458][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2025.09.06-00.42.31:458][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.09.06-00.42.31:459][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.046ms to complete.
+[2025.09.06-00.42.31:491][  0]LogUnrealEdMisc: Total Editor Startup Time, took 492.211
+[2025.09.06-00.42.31:495][  0]LogShaderCompilers: Display: ================================================
+[2025.09.06-00.42.31:495][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.09.06-00.42.31:495][  0]LogShaderCompilers: Display: Total job queries 8,336, among them cache hits 216 (2.59%), DDC hits 1,707 (20.48%), Duplicates 1,177 (14.12%)
+[2025.09.06-00.42.31:495][  0]LogShaderCompilers: Display: Tracking 6,943 distinct input hashes that result in 6,462 distinct outputs (93.07%)
+[2025.09.06-00.42.31:495][  0]LogShaderCompilers: Display: RAM used: 4.72 MiB of 819.20 MiB budget. Usage: 0.58%
+[2025.09.06-00.42.31:495][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.09.06-00.42.31:495][  0]LogShaderCompilers: Display: Shaders Compiled: 5,236
+[2025.09.06-00.42.31:495][  0]LogShaderCompilers: Display: Jobs assigned 5,236, completed 5,236 (100%)
+[2025.09.06-00.42.31:495][  0]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2025.09.06-00.42.31:495][  0]LogShaderCompilers: Display: Time job spent in pending queue: average 0.63 s, longest 3.01 s
+[2025.09.06-00.42.31:495][  0]LogShaderCompilers: Display: Job execution time: average 246.33 s, max 451.58 s
+[2025.09.06-00.42.31:495][  0]LogShaderCompilers: Display: Job life time (pending + execution): average 246.96 s, max 452.98
+[2025.09.06-00.42.31:495][  0]LogShaderCompilers: Display: Shader code size: average 12.725 KiB, min 1.16 KiB, max 305.938 KiB
+[2025.09.06-00.42.31:495][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 466.93 s
+[2025.09.06-00.42.31:495][  0]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.61%
+[2025.09.06-00.42.31:495][  0]LogShaderCompilers: Display: Jobs were issued in 2,281 batches (20 local, 2,261 distributed), average 2.30 jobs/batch (6.10 jobs/local batch. 2.26 jobs/distributed batch)
+[2025.09.06-00.42.31:495][  0]LogShaderCompilers: Display: Average processing rate: 11.21 jobs/sec
+[2025.09.06-00.42.31:495][  0]LogShaderCompilers: Display: Total thread time: 4,208.578 s
+[2025.09.06-00.42.31:495][  0]LogShaderCompilers: Display: Total thread preprocess time: 128.878 s
+[2025.09.06-00.42.31:495][  0]LogShaderCompilers: Display: Percentage time preprocessing: 3.06%
+[2025.09.06-00.42.31:495][  0]LogShaderCompilers: Display: Effective parallelization: 9.01 (times faster than compiling all shaders on one thread). Distributed compilation was used.
+[2025.09.06-00.42.31:495][  0]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.09.06-00.42.31:495][  0]LogShaderCompilers: Display:                                          FTSRRejectShadingCS (compiled   27 times, average 33.32 sec, max 102.60 sec, min 2.17 sec)
+[2025.09.06-00.42.31:495][  0]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 16.14 sec, max 17.73 sec, min 12.70 sec)
+[2025.09.06-00.42.31:495][  0]LogShaderCompilers: Display:                                   FLumenSceneLightingStatsCS (compiled    1 times, average 7.67 sec, max 7.67 sec, min 7.67 sec)
+[2025.09.06-00.42.31:495][  0]LogShaderCompilers: Display:                 FResampleLightingHistoryToCardCaptureAtlasCS (compiled    1 times, average 5.84 sec, max 5.84 sec, min 5.84 sec)
+[2025.09.06-00.42.31:495][  0]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled   32 times, average 5.53 sec, max 12.80 sec, min 1.94 sec)
+[2025.09.06-00.42.31:495][  0]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.09.06-00.42.31:495][  0]LogShaderCompilers: Display:                                             FDeferredLightPS - 23.68% of total time (compiled  454 times, average 2.20 sec, max 3.09 sec, min 1.66 sec)
+[2025.09.06-00.42.31:495][  0]LogShaderCompilers: Display:                                          FTSRRejectShadingCS - 21.37% of total time (compiled   27 times, average 33.32 sec, max 102.60 sec, min 2.17 sec)
+[2025.09.06-00.42.31:495][  0]LogShaderCompilers: Display:                              FVolumetricFogLightScatteringCS - 6.77% of total time (compiled  240 times, average 1.19 sec, max 1.98 sec, min 0.53 sec)
+[2025.09.06-00.42.31:495][  0]LogShaderCompilers: Display:                                      FScreenProbeIntegrateCS - 5.81% of total time (compiled  256 times, average 0.95 sec, max 6.42 sec, min 0.68 sec)
+[2025.09.06-00.42.31:495][  0]LogShaderCompilers: Display:                      FRenderSingleScatteringWithPreshadingCS - 4.87% of total time (compiled  144 times, average 1.42 sec, max 2.15 sec, min 0.52 sec)
+[2025.09.06-00.42.31:496][  0]LogShaderCompilers: Display: === Material stats ===
+[2025.09.06-00.42.31:496][  0]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.09.06-00.42.31:496][  0]LogShaderCompilers: Display: Materials Translated:    158
+[2025.09.06-00.42.31:496][  0]LogShaderCompilers: Display: Material Total Translate Time: 0.19 s
+[2025.09.06-00.42.31:496][  0]LogShaderCompilers: Display: Material Translation Only: 0.07 s (36%)
+[2025.09.06-00.42.31:496][  0]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.09.06-00.42.31:496][  0]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2025.09.06-00.42.31:496][  0]LogShaderCompilers: Display: ================================================
+[2025.09.06-00.42.31:648][  0]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2025.09.06-00.42.31:860][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.06-00.42.31:950][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.06-00.42.32:040][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.06-00.42.32:125][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.06-00.42.32:226][  0]LogPakFile: Initializing PakPlatformFile
+[2025.09.06-00.42.32:238][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2025.09.06-00.42.32:239][  0]LogPakFile: Initializing PakPlatformFile
+[2025.09.06-00.42.32:254][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2025.09.06-00.42.32:255][  0]LogPakFile: Initializing PakPlatformFile
+[2025.09.06-00.42.32:271][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2025.09.06-00.42.32:272][  0]LogPakFile: Initializing PakPlatformFile
+[2025.09.06-00.42.32:288][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2025.09.06-00.42.32:289][  0]LogPakFile: Initializing PakPlatformFile
+[2025.09.06-00.42.32:301][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2025.09.06-00.42.32:301][  0]LogPakFile: Initializing PakPlatformFile
+[2025.09.06-00.42.32:314][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2025.09.06-00.42.32:315][  0]LogPakFile: Initializing PakPlatformFile
+[2025.09.06-00.42.32:329][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2025.09.06-00.42.32:330][  0]LogPakFile: Initializing PakPlatformFile
+[2025.09.06-00.42.32:343][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2025.09.06-00.42.32:344][  0]LogPakFile: Initializing PakPlatformFile
+[2025.09.06-00.42.32:359][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2025.09.06-00.42.32:360][  0]LogPakFile: Initializing PakPlatformFile
+[2025.09.06-00.42.32:372][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2025.09.06-00.42.32:801][  0]LogSlate: Took 0.008926 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2025.09.06-00.42.34:316][  0]LogSlate: External Image Picker: DecompressImage failed
+[2025.09.06-00.42.34:599][  0]LogStall: Startup...
+[2025.09.06-00.42.34:603][  0]LogStall: Startup complete.
+[2025.09.06-00.42.34:630][  0]LogLoad: (Engine Initialization) Total time: 495.35 seconds
+[2025.09.06-00.42.34:917][  0]LogShaderCompilers: Display: ================================================
+[2025.09.06-00.42.34:917][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.09.06-00.42.34:917][  0]LogShaderCompilers: Display: Total job queries 8,336, among them cache hits 216 (2.59%), DDC hits 1,707 (20.48%), Duplicates 1,177 (14.12%)
+[2025.09.06-00.42.34:917][  0]LogShaderCompilers: Display: Tracking 6,943 distinct input hashes that result in 6,462 distinct outputs (93.07%)
+[2025.09.06-00.42.34:917][  0]LogShaderCompilers: Display: RAM used: 4.72 MiB of 819.20 MiB budget. Usage: 0.58%
+[2025.09.06-00.42.34:917][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.09.06-00.42.34:917][  0]LogShaderCompilers: Display: Shaders Compiled: 5,236
+[2025.09.06-00.42.34:917][  0]LogShaderCompilers: Display: Jobs assigned 5,236, completed 5,236 (100%)
+[2025.09.06-00.42.34:917][  0]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2025.09.06-00.42.34:917][  0]LogShaderCompilers: Display: Time job spent in pending queue: average 0.63 s, longest 3.01 s
+[2025.09.06-00.42.34:917][  0]LogShaderCompilers: Display: Job execution time: average 246.33 s, max 451.58 s
+[2025.09.06-00.42.34:917][  0]LogShaderCompilers: Display: Job life time (pending + execution): average 246.96 s, max 452.98
+[2025.09.06-00.42.34:917][  0]LogShaderCompilers: Display: Shader code size: average 12.725 KiB, min 1.16 KiB, max 305.938 KiB
+[2025.09.06-00.42.34:917][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 466.93 s
+[2025.09.06-00.42.34:917][  0]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.61%
+[2025.09.06-00.42.34:917][  0]LogShaderCompilers: Display: Jobs were issued in 2,281 batches (20 local, 2,261 distributed), average 2.30 jobs/batch (6.10 jobs/local batch. 2.26 jobs/distributed batch)
+[2025.09.06-00.42.34:917][  0]LogShaderCompilers: Display: Average processing rate: 11.21 jobs/sec
+[2025.09.06-00.42.34:918][  0]LogShaderCompilers: Display: Total thread time: 4,208.578 s
+[2025.09.06-00.42.34:918][  0]LogShaderCompilers: Display: Total thread preprocess time: 128.878 s
+[2025.09.06-00.42.34:918][  0]LogShaderCompilers: Display: Percentage time preprocessing: 3.06%
+[2025.09.06-00.42.34:918][  0]LogShaderCompilers: Display: Effective parallelization: 9.01 (times faster than compiling all shaders on one thread). Distributed compilation was used.
+[2025.09.06-00.42.34:918][  0]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.09.06-00.42.34:918][  0]LogShaderCompilers: Display:                                          FTSRRejectShadingCS (compiled   27 times, average 33.32 sec, max 102.60 sec, min 2.17 sec)
+[2025.09.06-00.42.34:918][  0]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 16.14 sec, max 17.73 sec, min 12.70 sec)
+[2025.09.06-00.42.34:918][  0]LogShaderCompilers: Display:                                   FLumenSceneLightingStatsCS (compiled    1 times, average 7.67 sec, max 7.67 sec, min 7.67 sec)
+[2025.09.06-00.42.34:918][  0]LogShaderCompilers: Display:                 FResampleLightingHistoryToCardCaptureAtlasCS (compiled    1 times, average 5.84 sec, max 5.84 sec, min 5.84 sec)
+[2025.09.06-00.42.34:918][  0]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled   32 times, average 5.53 sec, max 12.80 sec, min 1.94 sec)
+[2025.09.06-00.42.34:918][  0]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.09.06-00.42.34:918][  0]LogShaderCompilers: Display:                                             FDeferredLightPS - 23.68% of total time (compiled  454 times, average 2.20 sec, max 3.09 sec, min 1.66 sec)
+[2025.09.06-00.42.34:918][  0]LogShaderCompilers: Display:                                          FTSRRejectShadingCS - 21.37% of total time (compiled   27 times, average 33.32 sec, max 102.60 sec, min 2.17 sec)
+[2025.09.06-00.42.34:918][  0]LogShaderCompilers: Display:                              FVolumetricFogLightScatteringCS - 6.77% of total time (compiled  240 times, average 1.19 sec, max 1.98 sec, min 0.53 sec)
+[2025.09.06-00.42.34:918][  0]LogShaderCompilers: Display:                                      FScreenProbeIntegrateCS - 5.81% of total time (compiled  256 times, average 0.95 sec, max 6.42 sec, min 0.68 sec)
+[2025.09.06-00.42.34:918][  0]LogShaderCompilers: Display:                      FRenderSingleScatteringWithPreshadingCS - 4.87% of total time (compiled  144 times, average 1.42 sec, max 2.15 sec, min 0.52 sec)
+[2025.09.06-00.42.34:918][  0]LogShaderCompilers: Display: === Material stats ===
+[2025.09.06-00.42.34:918][  0]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.09.06-00.42.34:918][  0]LogShaderCompilers: Display: Materials Translated:    158
+[2025.09.06-00.42.34:918][  0]LogShaderCompilers: Display: Material Total Translate Time: 0.19 s
+[2025.09.06-00.42.34:918][  0]LogShaderCompilers: Display: Material Translation Only: 0.07 s (36%)
+[2025.09.06-00.42.34:918][  0]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.09.06-00.42.34:918][  0]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2025.09.06-00.42.34:918][  0]LogShaderCompilers: Display: ================================================
+[2025.09.06-00.42.34:927][  0]LogMeshUtilities: Finished distance field build in 2.2s - 126x126x126 sparse distance field, 1.9Mb total, 0.1Mb always loaded, 52% occupied, 1322 triangles, EditorSkySphere
+[2025.09.06-00.42.35:055][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2025.09.06-00.42.35:055][  0]LogCsvProfiler: Display: Metadata set : streamingpoolsizemb="1000"
+[2025.09.06-00.42.35:103][  0]LogSlate: Took 0.011370 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.09.06-00.42.35:120][  0]LogSlate: Took 0.012018 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2025.09.06-00.42.35:221][  0]LogSlate: Took 0.008709 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2025.09.06-00.42.35:289][  0]LogStreaming: Display: FlushAsyncLoading(340): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.06-00.42.35:461][  0]LogSlate: Took 0.000292 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.09.06-00.42.35:549][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.06-00.42.35:567][  0]LogFab: Error: Login failed - error code: EOS_InvalidAuth
+[2025.09.06-00.42.35:567][  0]LogFab: Display: Logging in using exchange code
+[2025.09.06-00.42.35:567][  0]LogFab: Display: Reading exchange code from commandline
+[2025.09.06-00.42.35:567][  0]LogEOSSDK: Error: LogEOSAuth: Invalid parameter EOS_Auth_Credentials.Token reason: must not be null or empty
+[2025.09.06-00.42.35:571][  0]LogPython: Display: Running start-up script C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/ControlRig/Content/Python/init_unreal.py... started...
+[2025.09.06-00.42.35:763][  0]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.09.06-00.42.36:053][  0]LogPython: registering <class 'ControlRigWorkflows.workflow_deformation_rig_preset.provider'>
+
+[2025.09.06-00.42.36:063][  0]LogPython: Display: Running start-up script C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/ControlRig/Content/Python/init_unreal.py... took 492.910 ms
+[2025.09.06-00.42.36:140][  0]LoadErrors: Warning: While trying to load package /Game/AncientContent/Audio/AudioModulation/Patches/SFX_Foley_Echo_Patch, a dependent package /AudioModulation/Volume was not available. Additional explanatory information follows:
+FPackageName: Unable to identify a valid mount point associated with skipped package /AudioModulation/Volume. The package root is unknown.
+Skipped package /AudioModulation/Volume was expected to be found in plugin Audio Modulation, however that plugin is not mounted. [ExplicitlyLoaded = FALSE, Enabled = FALSE].
+[2025.09.06-00.42.36:140][  0]LoadErrors: Warning: While trying to load package /Game/AncientContent/Audio/AudioModulation/Patches/SFX_FS_Echo_Patch, a dependent package /AudioModulation/Volume was not available. Additional explanatory information follows:
+FPackageName: Unable to identify a valid mount point associated with skipped package /AudioModulation/Volume. The package root is unknown.
+Skipped package /AudioModulation/Volume was expected to be found in plugin Audio Modulation, however that plugin is not mounted. [ExplicitlyLoaded = FALSE, Enabled = FALSE].
+[2025.09.06-00.42.36:140][  0]LoadErrors: Warning: While trying to load package /Game/AncientContent/Audio/AudioModulation/ControlBuses/Echo_ControlBus, a dependent package /AudioModulation/Volume was not available. Additional explanatory information follows:
+FPackageName: Unable to identify a valid mount point associated with skipped package /AudioModulation/Volume. The package root is unknown.
+Skipped package /AudioModulation/Volume was expected to be found in plugin Audio Modulation, however that plugin is not mounted. [ExplicitlyLoaded = FALSE, Enabled = FALSE].
+[2025.09.06-00.42.36:140][  0]LoadErrors: Warning: While trying to load package /Game/AncientContent/Audio/AudioModulation/ControlBuses/Foley_ControlBus, a dependent package /AudioModulation/Volume was not available. Additional explanatory information follows:
+FPackageName: Unable to identify a valid mount point associated with skipped package /AudioModulation/Volume. The package root is unknown.
+Skipped package /AudioModulation/Volume was expected to be found in plugin Audio Modulation, however that plugin is not mounted. [ExplicitlyLoaded = FALSE, Enabled = FALSE].
+[2025.09.06-00.42.36:140][  0]LoadErrors: Warning: While trying to load package /Game/AncientContent/Audio/AudioModulation/ControlBuses/SFX_ControlBus, a dependent package /AudioModulation/Volume was not available. Additional explanatory information follows:
+FPackageName: Unable to identify a valid mount point associated with skipped package /AudioModulation/Volume. The package root is unknown.
+Skipped package /AudioModulation/Volume was expected to be found in plugin Audio Modulation, however that plugin is not mounted. [ExplicitlyLoaded = FALSE, Enabled = FALSE].
+[2025.09.06-00.42.36:140][  0]LoadErrors: Warning: While trying to load package /Game/AncientContent/Audio/AudioModulation/ControlBuses/FS_ControlBus, a dependent package /AudioModulation/Volume was not available. Additional explanatory information follows:
+FPackageName: Unable to identify a valid mount point associated with skipped package /AudioModulation/Volume. The package root is unknown.
+Skipped package /AudioModulation/Volume was expected to be found in plugin Audio Modulation, however that plugin is not mounted. [ExplicitlyLoaded = FALSE, Enabled = FALSE].
+[2025.09.06-00.42.36:388][  1]LogAssetRegistry: AssetRegistryGather time 1.3414s: AssetDataDiscovery 1.0864s, AssetDataGather 0.0365s, StoreResults 0.2185s. Wall time 491.2150s.
+	NumCachedDirectories 0. NumUncachedDirectories 1810. NumCachedFiles 8971. NumUncachedFiles 1.
+	BackgroundTickInterruptions 0.
+[2025.09.06-00.42.36:435][  1]LogSourceControl: Uncontrolled asset enumeration started...
+[2025.09.06-00.42.36:436][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000000 seconds (updated 0 objects)
+[2025.09.06-00.42.36:659][  1]LogFab: Error: Login failed - error code: EOS_InvalidParameters
+[2025.09.06-00.42.36:703][  2]LogEOSSDK: LogEOS: SDK Config Platform Update Request Successful, Time: 12.711894
+[2025.09.06-00.42.36:705][  2]LogEOSSDK: LogEOSAnalytics: EOS SDK Analytics disabled for route [1].
+[2025.09.06-00.42.36:708][  2]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12.756004
+[2025.09.06-00.42.37:446][  7]LogEOSSDK: LogEOSAnalytics: Start Session (User: ...)
+[2025.09.06-00.42.37:462][  8]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_0
+[2025.09.06-00.42.37:462][  8]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_0'.
+[2025.09.06-00.42.38:057][ 15]LogSourceControl: Uncontrolled asset enumeration finished in 1.621597 seconds (Found 8948 uncontrolled assets)
+[2025.09.06-00.42.38:530][ 17]LogEOSSDK: LogEOS: SDK Config Product Update Request Successful, Time: 14.410856
+[2025.09.06-00.42.38:533][ 17]LogEOSSDK: LogEOS: SDK Config Data - Watermark: 1566107338
+[2025.09.06-00.42.38:533][ 17]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14.410856, Update Interval: 335.507080
+[2025.09.06-00.42.40:969][ 30]LogSlate: External Image Picker: DecompressImage failed
+[2025.09.06-00.42.45:641][101]LogStreaming: Display: FlushAsyncLoading(343): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.06-00.42.45:646][101]LogAssetEditorSubsystem: Opening Asset editor for IKRetargeter /Game/Blueprints/Characters/Rigs/RTG_T-pose.RTG_T-pose
+[2025.09.06-00.42.45:671][101]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
+[2025.09.06-00.42.45:672][101]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_1'.
+[2025.09.06-00.42.45:730][101]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/EditorMeshes/AssetViewer/Floor_Mesh) ...
+[2025.09.06-00.42.45:829][101]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SKM_T-Pose) ...
+[2025.09.06-00.42.46:313][101]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.06-00.42.46:319][101]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'DebugSkelMeshComponent_1' with 'Echo'
+[2025.09.06-00.42.47:103][101]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle
+[2025.09.06-00.42.47:153][101]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2025.09.06-00.42.47:154][101]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_2'.
+[2025.09.06-00.42.47:168][101]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'DebugSkelMeshComponent_0' with 'Echo'
+[2025.09.06-00.42.47:169][101]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.06-00.42.47:548][101]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2025.09.06-00.42.47:548][101]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_3'.
+[2025.09.06-00.42.47:708][101]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.06-00.42.47:743][101]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Blueprints/Characters/ABP_Echo.ABP_Echo
+[2025.09.06-00.42.47:745][101]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2025.09.06-00.42.47:745][101]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_4'.
+[2025.09.06-00.42.47:766][101]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2025.09.06-00.42.47:767][101]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_5'.
+[2025.09.06-00.42.47:779][101]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'DebugSkelMeshComponent_0' with 'Echo'
+[2025.09.06-00.42.47:780][101]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.06-00.42.48:199][101]LogLinker: Warning: [AssetLog] C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Content\AncientContent\Blueprints\Abilities\GameplayAbilityUtils.uasset: VerifyImport: Failed to find script package for import object 'Package /Script/GameplayAbilities'
+[2025.09.06-00.42.48:199][101]LogLinker: Warning: [AssetLog] C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Content\AncientContent\Blueprints\Abilities\GameplayAbilityUtils.uasset: CreateExport: Failed to load Class /Script/GameplayAbilities.GameplayAbility as Parent for BlueprintGeneratedClass /Game/AncientContent/Blueprints/Abilities/GameplayAbilityUtils.GameplayAbilityUtils_C - both will fail to load
+[2025.09.06-00.42.48:199][101]LogLinker: Warning: [AssetLog] C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Content\AncientContent\Blueprints\Abilities\GameplayAbilityUtils.uasset: CreateExport: Failed to load Class /Script/GameplayAbilities.GameplayAbility as Parent for BlueprintGeneratedClass /Game/AncientContent/Blueprints/Abilities/GameplayAbilityUtils.GameplayAbilityUtils_C - both will fail to load
+[2025.09.06-00.42.48:199][101]LogLinker: Warning: Unable to load Default__GameplayAbilityUtils_C with outer Package /Game/AncientContent/Blueprints/Abilities/GameplayAbilityUtils because its class (GameplayAbilityUtils_C) does not exist
+[2025.09.06-00.42.48:199][101]LogLinker: Warning: [AssetLog] C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Content\AncientContent\Blueprints\Abilities\GameplayAbilityUtils.uasset: CreateExport: Failed to load Class /Script/GameplayAbilities.GameplayAbility as Parent for BlueprintGeneratedClass /Game/AncientContent/Blueprints/Abilities/GameplayAbilityUtils.GameplayAbilityUtils_C - both will fail to load
+[2025.09.06-00.42.48:199][101]LogBlueprint: Warning: FMemberReference::ResolveMember (GetActorInfo) bSelfContext == true, but no scope supplied!
+[2025.09.06-00.42.48:199][101]LogBlueprint: Warning: FMemberReference::ResolveMember (GetActorInfo) bSelfContext == true, but no scope supplied!
+[2025.09.06-00.42.48:200][101]LogBlueprintEditor: Perf: 0.3 total seconds to load all 7 blueprint libraries in project. Avoid references to content in blueprint libraries to shorten this time.
+[2025.09.06-00.42.48:200][101]LogBlueprintEditor: Perf: 0.2 seconds loading: /Game/AncientContent/Blueprints/Character/BP_VaultingUtilLib
+[2025.09.06-00.42.49:698][101]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2025.09.06-00.42.49:699][101]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_6'.
+[2025.09.06-00.42.49:817][101]LogAssetEditorSubsystem: Opening Asset editor for ControlRigBlueprint /Game/Blueprints/Characters/Rigs/CR_EchoFootIK.CR_EchoFootIK
+[2025.09.06-00.42.49:818][101]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2025.09.06-00.42.49:818][101]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_7'.
+[2025.09.06-00.42.49:946][101]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2025.09.06-00.42.49:948][101]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_8'.
+[2025.09.06-00.42.49:985][101]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'ControlRigSkeletalMeshComponent_0' with 'Echo'
+[2025.09.06-00.42.49:991][101]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.ControlRigSkeletalMeshComponent_0) Already registered. Aborting.
+[2025.09.06-00.42.49:995][101]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.ControlRigSkeletalMeshComponent_0) Already registered. Aborting.
+[2025.09.06-00.42.50:201][101]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2025.09.06-00.42.50:824][101]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/AncientContent/Characters/Echo/Meshes/Echo_Skeleton.Echo_Skeleton
+[2025.09.06-00.42.50:826][101]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2025.09.06-00.42.50:826][101]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_9'.
+[2025.09.06-00.42.50:865][101]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'DebugSkelMeshComponent_0' with 'Echo'
+[2025.09.06-00.42.50:866][101]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.06-00.42.51:381][101]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_10
+[2025.09.06-00.42.51:382][101]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_10'.
+[2025.09.06-00.42.51:524][101]LogSlate: Window 'Project Settings' being destroyed
+[2025.09.06-00.42.51:527][101]LogSlate: Window 'Project Settings' being destroyed
+[2025.09.06-00.42.51:962][101]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_11
+[2025.09.06-00.42.51:963][101]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_11'.
+[2025.09.06-00.42.52:001][101]LogBlueprint: Warning: Blueprint /Game/AncientContent/Blueprints/Abilities/GameplayAbilityUtils is missing GeneratedClass asset tag
+[2025.09.06-00.42.52:499][101]LogSlate: Took 0.008024 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.09.06-00.43.13:469][303]LogSlate: Took 0.011028 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.09.06-00.43.22:075][365]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2025.09.06-00.43.22:075][365]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.06-00.43.22:167][365]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2025.09.06-00.43.22:167][365]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.06-00.43.22:248][365]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2025.09.06-00.44.40:383][337]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle (Required Memory Estimate: 1.59 MB)
+[2025.09.06-00.44.40:449][338]LogAnimationCompression: Display: Storing compressed animation data for /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle, at AnimationSequence/a4a0a5fe41b05a629fb64a94903f3a8e52ee257a
+[2025.09.06-00.44.42:904][372]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle (Required Memory Estimate: 1.59 MB)
+[2025.09.06-00.44.42:955][372]LogAnimationCompression: Display: Storing compressed animation data for /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle, at AnimationSequence/04e62305a06063297ac3065ce6558fa4c7d6c805
+[2025.09.06-00.45.16:398][868]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle (Required Memory Estimate: 1.59 MB)
+[2025.09.06-00.45.16:410][868]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle (Required Memory Estimate: 1.59 MB)
+[2025.09.06-00.45.16:461][869]LogAnimationCompression: Display: Storing compressed animation data for /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle, at AnimationSequence/0b0767c579b69e8a582ff169965a78f89b98919b
+[2025.09.06-00.45.27:907][ 40]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle (Required Memory Estimate: 1.59 MB)
+[2025.09.06-00.45.27:919][ 40]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle (Required Memory Estimate: 1.59 MB)
+[2025.09.06-00.45.27:977][ 41]LogAnimationCompression: Display: Storing compressed animation data for /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle, at AnimationSequence/5123c18b26851cc32970f93806e9c3dfebdcb51d
+[2025.09.06-00.45.36:216][157]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle (Required Memory Estimate: 1.59 MB)
+[2025.09.06-00.45.36:272][158]LogAnimationCompression: Display: Storing compressed animation data for /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle, at AnimationSequence/f948e08c802637dc2ff4e21547cba1b5777d3ad4
+[2025.09.06-00.45.38:470][191]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle (Required Memory Estimate: 1.59 MB)
+[2025.09.06-00.45.38:519][191]LogAnimationCompression: Display: Storing compressed animation data for /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle, at AnimationSequence/8223f39635e6f154e5356e3e3aa2cc241f6a9ea6
+[2025.09.06-00.45.41:356][234]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle (Required Memory Estimate: 1.59 MB)
+[2025.09.06-00.45.41:405][234]LogAnimationCompression: Display: Storing compressed animation data for /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle, at AnimationSequence/ada1be079cc8018cbcc516de81e827ceb6dc38c1
+[2025.09.06-00.45.44:897][292]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle (Required Memory Estimate: 1.59 MB)
+[2025.09.06-00.45.44:947][292]LogAnimationCompression: Display: Storing compressed animation data for /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle, at AnimationSequence/1d402f6a29d70d1321187f577eef0b189ab582ea
+[2025.09.06-00.45.47:044][324]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle (Required Memory Estimate: 1.59 MB)
+[2025.09.06-00.45.47:093][324]LogAnimationCompression: Display: Storing compressed animation data for /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle, at AnimationSequence/48004af8c2394bc5fee0c73d7f64e58f6ff0999f
+[2025.09.06-00.45.48:813][351]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle (Required Memory Estimate: 1.59 MB)
+[2025.09.06-00.45.48:875][351]LogAnimationCompression: Display: Storing compressed animation data for /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle, at AnimationSequence/dc0b8c81aae73b69c3c6d1c279f93108dd91661e
+[2025.09.06-00.45.55:203][446]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle (Required Memory Estimate: 1.59 MB)
+[2025.09.06-00.45.55:254][446]LogAnimationCompression: Display: Storing compressed animation data for /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle, at AnimationSequence/d71419a345e793226bccb5fe4f87d556c6aeea14
+[2025.09.06-00.46.02:160][536]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2025.09.06-00.46.03:306][536]LogSlate: Window 'Save Content' being destroyed
+[2025.09.06-00.46.03:319][536]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.06-00.46.03:360][536]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Characters/Animations/Standing_Idle] ([1] browsable assets)...
+[2025.09.06-00.46.03:362][536]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_12
+[2025.09.06-00.46.03:362][536]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_12'.
+[2025.09.06-00.46.03:409][536]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle]
+[2025.09.06-00.46.03:409][536]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/Animations/Standing_Idle]
+[2025.09.06-00.46.03:470][536]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/Animations/Standing_Idle
+[2025.09.06-00.46.03:472][536]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Standing_Idle8545EF72486940D5E226269690E87858.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Characters/Animations/Standing_Idle.uasset'
+[2025.09.06-00.46.03:494][536]LogFileHelpers: InternalPromptForCheckoutAndSave took 174.436 ms
+[2025.09.06-00.46.03:528][536]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.06-00.46.03:528][536]LogContentValidation: Enabled validators:
+[2025.09.06-00.46.03:529][536]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.06-00.46.03:529][536]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.06-00.46.03:529][536]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.06-00.46.03:529][536]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.06-00.46.03:529][536]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.06-00.46.03:529][536]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.06-00.46.03:531][536]AssetCheck: /Game/Blueprints/Characters/Animations/Standing_Idle Validating asset
+[2025.09.06-00.46.40:182][486]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle (Required Memory Estimate: 1.59 MB)
+[2025.09.06-00.46.40:193][486]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle (Required Memory Estimate: 1.59 MB)
+[2025.09.06-00.46.40:254][488]LogAnimationCompression: Display: Storing compressed animation data for /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle, at AnimationSequence/43c76234cdc0a71ea683a95c58c62ff3de665e20
+[2025.09.06-00.46.58:284][994]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle (Required Memory Estimate: 1.59 MB)
+[2025.09.06-00.46.58:333][994]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle (Required Memory Estimate: 1.59 MB)
+[2025.09.06-00.46.58:398][996]LogAnimationCompression: Display: Storing compressed animation data for /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle, at AnimationSequence/333b41ff7f6c9290457b87cd628ee5e442be76d0
+[2025.09.06-00.47.15:860][516]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle (Required Memory Estimate: 1.59 MB)
+[2025.09.06-00.47.15:872][516]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle (Required Memory Estimate: 1.59 MB)
+[2025.09.06-00.47.15:933][518]LogAnimationCompression: Display: Storing compressed animation data for /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle, at AnimationSequence/3d1875965b76ec26eac2f08de74147174ad86289
+[2025.09.06-00.47.31:884][990]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2025.09.06-00.47.32:903][990]LogSlate: Window 'Save Content' being destroyed
+[2025.09.06-00.47.32:915][990]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.06-00.47.32:946][990]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Characters/Animations/Standing_Idle] ([1] browsable assets)...
+[2025.09.06-00.47.32:976][990]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle]
+[2025.09.06-00.47.32:976][990]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/Animations/Standing_Idle]
+[2025.09.06-00.47.33:016][990]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/Animations/Standing_Idle
+[2025.09.06-00.47.33:017][990]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Standing_Idle92871A64435216C67ADEB89CC365A5AA.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Characters/Animations/Standing_Idle.uasset'
+[2025.09.06-00.47.33:030][990]LogFileHelpers: InternalPromptForCheckoutAndSave took 115.404 ms (total: 289.840 ms)
+[2025.09.06-00.47.33:071][990]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.06-00.47.33:071][990]LogContentValidation: Enabled validators:
+[2025.09.06-00.47.33:071][990]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.06-00.47.33:071][990]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.06-00.47.33:071][990]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.06-00.47.33:071][990]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.06-00.47.33:071][990]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.06-00.47.33:071][990]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.06-00.47.33:071][990]AssetCheck: /Game/Blueprints/Characters/Animations/Standing_Idle Validating asset
+[2025.09.06-00.47.57:073][190]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle (Required Memory Estimate: 1.59 MB)
+[2025.09.06-00.47.57:121][190]LogAnimationCompression: Display: Storing compressed animation data for /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle, at AnimationSequence/9d4065e813fd2e900c1295a5b08cd2fff16e0940
+[2025.09.06-00.48.08:761][280]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle (Required Memory Estimate: 1.59 MB)
+[2025.09.06-00.48.08:772][280]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle (Required Memory Estimate: 1.59 MB)
+[2025.09.06-00.48.08:826][280]LogAnimationCompression: Display: Storing compressed animation data for /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle, at AnimationSequence/8ecd8560d776f02115418f52186f2718aed6b63e
+[2025.09.06-00.48.11:630][301]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2025.09.06-00.48.13:141][301]LogSlate: Window 'Save Content' being destroyed
+[2025.09.06-00.48.13:154][301]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.06-00.48.13:182][301]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Characters/Animations/Standing_Idle] ([1] browsable assets)...
+[2025.09.06-00.48.13:222][301]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle]
+[2025.09.06-00.48.13:222][301]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/Animations/Standing_Idle]
+[2025.09.06-00.48.13:262][301]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/Animations/Standing_Idle
+[2025.09.06-00.48.13:263][301]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Standing_IdleC8842FDA4522D1E4413950962AA600E6.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Characters/Animations/Standing_Idle.uasset'
+[2025.09.06-00.48.13:276][301]LogFileHelpers: InternalPromptForCheckoutAndSave took 121.373 ms (total: 411.213 ms)
+[2025.09.06-00.48.13:308][301]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.06-00.48.13:308][301]LogContentValidation: Enabled validators:
+[2025.09.06-00.48.13:309][301]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.06-00.48.13:309][301]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.06-00.48.13:309][301]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.06-00.48.13:309][301]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.06-00.48.13:309][301]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.06-00.48.13:309][301]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.06-00.48.13:309][301]AssetCheck: /Game/Blueprints/Characters/Animations/Standing_Idle Validating asset
+[2025.09.06-00.48.13:991][309]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 350.043671
+[2025.09.06-00.48.14:392][313]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.06-00.48.14:392][313]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 350.324951, Update Interval: 320.561554
+[2025.09.06-00.48.16:190][334]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle (Required Memory Estimate: 1.59 MB)
+[2025.09.06-00.48.16:242][334]LogAnimationCompression: Display: Storing compressed animation data for /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle, at AnimationSequence/310df93743696a8c5f316ce772db141a5fec4959
+[2025.09.06-00.48.27:093][419]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle (Required Memory Estimate: 1.59 MB)
+[2025.09.06-00.48.27:104][419]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle (Required Memory Estimate: 1.59 MB)
+[2025.09.06-00.48.27:154][419]LogAnimationCompression: Display: Storing compressed animation data for /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle, at AnimationSequence/d08c8c357fab974ed5d4a0986c017796aaf91481
+[2025.09.06-00.49.32:992][928]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle (Required Memory Estimate: 1.59 MB)
+[2025.09.06-00.49.33:039][928]LogAnimationCompression: Display: Storing compressed animation data for /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle, at AnimationSequence/7ce40809b24d1e685a8004ba2842a3228a668eb5
+[2025.09.06-00.49.35:861][949]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle (Required Memory Estimate: 1.59 MB)
+[2025.09.06-00.49.35:911][949]LogAnimationCompression: Display: Storing compressed animation data for /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle, at AnimationSequence/524a6ec1a6ffd41045bd630f371975521e3d96c7
+[2025.09.06-00.49.37:638][962]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle (Required Memory Estimate: 1.59 MB)
+[2025.09.06-00.49.37:686][962]LogAnimationCompression: Display: Storing compressed animation data for /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle, at AnimationSequence/895ef62e761c4b86808f96471b04cd5bdb15ddbe
+[2025.09.06-00.49.45:138][ 19]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle (Required Memory Estimate: 1.59 MB)
+[2025.09.06-00.49.45:188][ 19]LogAnimationCompression: Display: Storing compressed animation data for /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle, at AnimationSequence/161aa7f8948a27b157cac47e4318c1ca43bff32f
+[2025.09.06-00.49.47:128][ 34]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle (Required Memory Estimate: 1.59 MB)
+[2025.09.06-00.49.47:176][ 34]LogAnimationCompression: Display: Storing compressed animation data for /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle, at AnimationSequence/a11a4898efd433309afab8b0ea31517362a01bc0
+[2025.09.06-00.50.06:916][298]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle (Required Memory Estimate: 1.59 MB)
+[2025.09.06-00.50.06:928][298]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle (Required Memory Estimate: 1.59 MB)
+[2025.09.06-00.50.06:975][298]LogAnimationCompression: Display: Storing compressed animation data for /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle, at AnimationSequence/51ee0cfeff637c113228e6bb632144ae81e6bb2c
+[2025.09.06-00.50.17:124][396]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle (Required Memory Estimate: 1.59 MB)
+[2025.09.06-00.50.17:133][396]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle (Required Memory Estimate: 1.59 MB)
+[2025.09.06-00.50.17:180][396]LogAnimationCompression: Display: Storing compressed animation data for /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle, at AnimationSequence/33076019ff068b18303d3e40e7ab298d9f5dd09f
+[2025.09.06-00.50.20:148][425]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle (Required Memory Estimate: 1.59 MB)
+[2025.09.06-00.50.20:197][425]LogAnimationCompression: Display: Storing compressed animation data for /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle, at AnimationSequence/ae47fb3898941caf9d0f8507f1b1a4fe59445fb8
+[2025.09.06-00.50.29:989][521]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle (Required Memory Estimate: 1.59 MB)
+[2025.09.06-00.50.30:043][521]LogAnimationCompression: Display: Storing compressed animation data for /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle, at AnimationSequence/7b1a91669ada3e25683876ce4825a4fca324494e
+[2025.09.06-00.50.47:074][759]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle (Required Memory Estimate: 1.59 MB)
+[2025.09.06-00.50.47:087][759]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle (Required Memory Estimate: 1.59 MB)
+[2025.09.06-00.50.47:138][759]LogAnimationCompression: Display: Storing compressed animation data for /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle, at AnimationSequence/0d9b97d3a2729ebb3d996cb2513f9751b92b6d58
+[2025.09.06-00.51.03:141][966]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle (Required Memory Estimate: 1.59 MB)
+[2025.09.06-00.51.03:155][966]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle (Required Memory Estimate: 1.59 MB)
+[2025.09.06-00.51.03:204][966]LogAnimationCompression: Display: Storing compressed animation data for /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle, at AnimationSequence/db80741a2468cefc7c9669eccd3f44ef8400b50a
+[2025.09.06-00.51.09:989][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.09.06-00.51.11:047][ 30]LogSlate: Window 'Save Content' being destroyed
+[2025.09.06-00.51.11:061][ 30]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.06-00.51.11:103][ 30]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Characters/Animations/Standing_Idle] ([1] browsable assets)...
+[2025.09.06-00.51.11:127][ 30]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle]
+[2025.09.06-00.51.11:127][ 30]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/Animations/Standing_Idle]
+[2025.09.06-00.51.11:165][ 30]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/Animations/Standing_Idle
+[2025.09.06-00.51.11:166][ 30]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Standing_IdleEB7B41DC4E5565F76991B9A60FA1542F.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Characters/Animations/Standing_Idle.uasset'
+[2025.09.06-00.51.11:189][ 30]LogFileHelpers: InternalPromptForCheckoutAndSave took 126.739 ms (total: 537.953 ms)
+[2025.09.06-00.51.11:217][ 30]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.06-00.51.11:217][ 30]LogContentValidation: Enabled validators:
+[2025.09.06-00.51.11:217][ 30]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.06-00.51.11:217][ 30]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.06-00.51.11:217][ 30]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.06-00.51.11:217][ 30]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.06-00.51.11:217][ 30]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.06-00.51.11:217][ 30]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.06-00.51.11:217][ 30]AssetCheck: /Game/Blueprints/Characters/Animations/Standing_Idle Validating asset
+[2025.09.06-00.51.37:569][394]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle (Required Memory Estimate: 1.59 MB)
+[2025.09.06-00.51.37:579][394]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle (Required Memory Estimate: 1.59 MB)
+[2025.09.06-00.51.37:626][394]LogAnimationCompression: Display: Storing compressed animation data for /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle, at AnimationSequence/b849a010bfda59807d3c52be9fba8a95b03be72b
+[2025.09.06-00.51.40:276][421]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle (Required Memory Estimate: 1.59 MB)
+[2025.09.06-00.51.40:323][421]LogAnimationCompression: Display: Storing compressed animation data for /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle, at AnimationSequence/38af6f49b3e3be719bfeb232c42da22618784d3d
+[2025.09.06-00.51.52:010][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.09.06-00.51.53:445][603]LogSlate: Window 'Save Content' being destroyed
+[2025.09.06-00.51.53:458][603]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.06-00.51.53:495][603]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Characters/Animations/Standing_Idle] ([1] browsable assets)...
+[2025.09.06-00.51.53:518][603]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle]
+[2025.09.06-00.51.53:518][603]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/Animations/Standing_Idle]
+[2025.09.06-00.51.53:559][603]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/Animations/Standing_Idle
+[2025.09.06-00.51.53:560][603]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Standing_Idle10C3054142CF108DB46B1CA7110A4F00.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Characters/Animations/Standing_Idle.uasset'
+[2025.09.06-00.51.53:574][603]LogFileHelpers: InternalPromptForCheckoutAndSave took 115.738 ms (total: 653.691 ms)
+[2025.09.06-00.51.53:611][603]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.06-00.51.53:611][603]LogContentValidation: Enabled validators:
+[2025.09.06-00.51.53:611][603]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.06-00.51.53:611][603]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.06-00.51.53:611][603]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.06-00.51.53:611][603]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.06-00.51.53:611][603]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.06-00.51.53:611][603]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.06-00.51.53:611][603]AssetCheck: /Game/Blueprints/Characters/Animations/Standing_Idle Validating asset
+[2025.09.06-00.52.28:256][ 23]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle (Required Memory Estimate: 1.59 MB)
+[2025.09.06-00.52.28:268][ 23]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle (Required Memory Estimate: 1.59 MB)
+[2025.09.06-00.52.28:315][ 23]LogAnimationCompression: Display: Storing compressed animation data for /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle, at AnimationSequence/a7fb2451b265b3216c44d4e2bab4e93d45697696
+[2025.09.06-00.52.31:246][ 51]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle (Required Memory Estimate: 1.59 MB)
+[2025.09.06-00.52.31:298][ 51]LogAnimationCompression: Display: Storing compressed animation data for /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle, at AnimationSequence/97a2e90f5a7df7b3a6efee55105cf1689523c3b5
+[2025.09.06-00.52.59:349][470]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle (Required Memory Estimate: 1.59 MB)
+[2025.09.06-00.52.59:361][470]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle (Required Memory Estimate: 1.59 MB)
+[2025.09.06-00.52.59:409][470]LogAnimationCompression: Display: Storing compressed animation data for /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle, at AnimationSequence/da267df2b7397328fbcd6e804703ea4955d9c6ce
+[2025.09.06-00.53.09:986][584]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle (Required Memory Estimate: 1.59 MB)
+[2025.09.06-00.53.09:998][584]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle (Required Memory Estimate: 1.59 MB)
+[2025.09.06-00.53.10:043][584]LogAnimationCompression: Display: Storing compressed animation data for /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle, at AnimationSequence/4a4182b156674876bc8c8f981b781d98f78089e4
+[2025.09.06-00.53.18:066][663]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle (Required Memory Estimate: 1.59 MB)
+[2025.09.06-00.53.18:115][663]LogAnimationCompression: Display: Storing compressed animation data for /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle, at AnimationSequence/9ce3656d3d8f481f30ba301fbf1a8bb79c848450
+[2025.09.06-00.53.22:415][705]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle (Required Memory Estimate: 1.59 MB)
+[2025.09.06-00.53.22:466][705]LogAnimationCompression: Display: Storing compressed animation data for /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle, at AnimationSequence/8f2de89b83e08b72bc349e0b6921a58c9b236b15
+[2025.09.06-00.53.25:632][737]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle (Required Memory Estimate: 1.59 MB)
+[2025.09.06-00.53.25:682][737]LogAnimationCompression: Display: Storing compressed animation data for /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle, at AnimationSequence/bb36dc10a5996ee3b9f58186c6bbb93ef1bda1b4
+[2025.09.06-00.53.28:742][766]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle (Required Memory Estimate: 1.59 MB)
+[2025.09.06-00.53.28:754][766]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle (Required Memory Estimate: 1.59 MB)
+[2025.09.06-00.53.28:803][766]LogAnimationCompression: Display: Storing compressed animation data for /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle, at AnimationSequence/620b1e240c2b159579e00c817b99a48f8c64e710
+[2025.09.06-00.53.38:103][893]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 674.156128
+[2025.09.06-00.53.38:470][897]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.06-00.53.38:470][897]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 674.421326, Update Interval: 341.963562
+[2025.09.06-00.54.21:765][507]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle (Required Memory Estimate: 1.59 MB)
+[2025.09.06-00.54.21:813][507]LogAnimationCompression: Display: Storing compressed animation data for /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle, at AnimationSequence/66b0f51cdf997b967c896babe3b2ea48390ceb79
+[2025.09.06-00.54.24:128][530]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle (Required Memory Estimate: 1.59 MB)
+[2025.09.06-00.54.24:177][530]LogAnimationCompression: Display: Storing compressed animation data for /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle, at AnimationSequence/f1bfdc2e594e2033e21e634779baf200866bfbe5
+[2025.09.06-00.54.27:613][563]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle (Required Memory Estimate: 1.59 MB)
+[2025.09.06-00.54.27:661][563]LogAnimationCompression: Display: Storing compressed animation data for /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle, at AnimationSequence/4352103c232e3f0345737350abcc62545fce5dff
+[2025.09.06-00.54.30:725][594]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle (Required Memory Estimate: 1.59 MB)
+[2025.09.06-00.54.30:776][594]LogAnimationCompression: Display: Storing compressed animation data for /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle, at AnimationSequence/76b5881959f645e3def8b384b13c1431d1be3cdd
+[2025.09.06-00.54.48:125][809]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle (Required Memory Estimate: 1.59 MB)
+[2025.09.06-00.54.48:137][809]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle (Required Memory Estimate: 1.59 MB)
+[2025.09.06-00.54.48:186][809]LogAnimationCompression: Display: Storing compressed animation data for /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle, at AnimationSequence/c9213d5fa429d46a8b1a23352ba075c62c2b71f7
+[2025.09.06-00.54.55:438][893]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle (Required Memory Estimate: 1.59 MB)
+[2025.09.06-00.54.55:487][893]LogAnimationCompression: Display: Storing compressed animation data for /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle, at AnimationSequence/b1fdea62f29900cd90589258a490cb74b0f6b479
+[2025.09.06-00.54.57:213][911]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle (Required Memory Estimate: 1.59 MB)
+[2025.09.06-00.54.57:261][911]LogAnimationCompression: Display: Storing compressed animation data for /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle, at AnimationSequence/08f78ddc9d8b7169cd4281694f82471eafeb1acb
+[2025.09.06-00.54.59:110][929]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle (Required Memory Estimate: 1.59 MB)
+[2025.09.06-00.54.59:159][929]LogAnimationCompression: Display: Storing compressed animation data for /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle, at AnimationSequence/3672083d8cf5112206141be806381bdc5f2d9b26
+[2025.09.06-00.55.09:906][ 35]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle (Required Memory Estimate: 1.59 MB)
+[2025.09.06-00.55.09:919][ 35]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle (Required Memory Estimate: 1.59 MB)
+[2025.09.06-00.55.09:966][ 35]LogAnimationCompression: Display: Storing compressed animation data for /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle, at AnimationSequence/2ec19b23705ee874bbeb9658f89eacdfc86f0c08
+[2025.09.06-00.55.11:715][ 52]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle (Required Memory Estimate: 1.59 MB)
+[2025.09.06-00.55.11:763][ 52]LogAnimationCompression: Display: Storing compressed animation data for /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle, at AnimationSequence/21fa4c061e848353bf4567e99e60c4db868d9908
+[2025.09.06-00.55.20:716][143]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle (Required Memory Estimate: 1.59 MB)
+[2025.09.06-00.55.20:765][143]LogAnimationCompression: Display: Storing compressed animation data for /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle, at AnimationSequence/e54f77a40f83b60dcd0c7447f210868d6ee0586d
+[2025.09.06-00.55.22:927][165]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle (Required Memory Estimate: 1.59 MB)
+[2025.09.06-00.55.22:980][165]LogAnimationCompression: Display: Storing compressed animation data for /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle, at AnimationSequence/79f05da827addec0e65085c3cd8bbbcbd3143483
+[2025.09.06-00.55.43:034][477]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle (Required Memory Estimate: 1.59 MB)
+[2025.09.06-00.55.43:092][478]LogAnimationCompression: Display: Storing compressed animation data for /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle, at AnimationSequence/22ebde28030eff05cf2fe913384918deb5136948
+[2025.09.06-00.55.47:057][542]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2025.09.06-00.55.48:123][542]LogSlate: Window 'Save Content' being destroyed
+[2025.09.06-00.55.48:135][542]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.06-00.55.48:169][542]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Characters/Animations/Standing_Idle] ([1] browsable assets)...
+[2025.09.06-00.55.48:191][542]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle]
+[2025.09.06-00.55.48:191][542]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/Animations/Standing_Idle]
+[2025.09.06-00.55.48:229][542]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/Animations/Standing_Idle
+[2025.09.06-00.55.48:230][542]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Standing_IdleF1BC64BF4A00137FD485AA91FCA10BBC.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Characters/Animations/Standing_Idle.uasset'
+[2025.09.06-00.55.48:251][542]LogFileHelpers: InternalPromptForCheckoutAndSave took 115.957 ms (total: 769.649 ms)
+[2025.09.06-00.55.48:277][542]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.06-00.55.48:277][542]LogContentValidation: Enabled validators:
+[2025.09.06-00.55.48:277][542]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.06-00.55.48:277][542]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.06-00.55.48:277][542]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.06-00.55.48:277][542]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.06-00.55.48:277][542]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.06-00.55.48:277][542]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.06-00.55.48:277][542]AssetCheck: /Game/Blueprints/Characters/Animations/Standing_Idle Validating asset
+[2025.09.06-00.58.32:260][144]LogScript: Warning: Script Msg: /Game/Blueprints/Characters/Animations/Standing_Idle : Curve with name thumb_01_r and type RCT_Transform (2) already exists
+[2025.09.06-00.58.32:261][144]LogScript: Warning: Script Msg: /Game/Blueprints/Characters/Animations/Standing_Idle : Curve with name thumb_02_r and type RCT_Transform (2) already exists
+[2025.09.06-00.58.32:261][144]LogScript: Warning: Script Msg: /Game/Blueprints/Characters/Animations/Standing_Idle : Curve with name thumb_03_r and type RCT_Transform (2) already exists
+[2025.09.06-00.58.32:264][144]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle (Required Memory Estimate: 1.59 MB)
+[2025.09.06-00.58.32:313][145]LogAnimationCompression: Display: Storing compressed animation data for /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle, at AnimationSequence/e40792308278018ccc3c691def75e4ee9d7b215a
+[2025.09.06-00.58.43:473][248]LogEditorTransaction: Undo Set Key
+[2025.09.06-00.58.44:249][248]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.06-00.58.44:254][248]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.06-00.58.44:356][248]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.06-00.58.58:641][373]LogScript: Warning: Script Msg: /Game/Blueprints/Characters/Animations/Standing_Idle : Curve with name thumb_01_r and type RCT_Transform (2) already exists
+[2025.09.06-00.58.58:641][373]LogScript: Warning: Script Msg: /Game/Blueprints/Characters/Animations/Standing_Idle : Curve with name thumb_02_r and type RCT_Transform (2) already exists
+[2025.09.06-00.58.58:641][373]LogScript: Warning: Script Msg: /Game/Blueprints/Characters/Animations/Standing_Idle : Curve with name thumb_03_r and type RCT_Transform (2) already exists
+[2025.09.06-00.59.09:831][475]LogEditorTransaction: Undo Set Key
+[2025.09.06-00.59.10:547][475]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.06-00.59.10:551][475]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.06-00.59.10:649][475]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.06-00.59.16:454][515]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.09.06-00.59.16:454][515]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.06-00.59.16:532][515]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.09.06-00.59.16:532][515]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.06-00.59.16:569][515]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2025.09.06-00.59.16:779][515]LogPSOHitching: Encountered 50 PSO creation hitches so far (24 graphics, 26 compute). 0 of them were precached.
+[2025.09.06-00.59.16:799][516]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_13
+[2025.09.06-00.59.16:799][516]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_13'.
+[2025.09.06-00.59.16:985][517]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_14
+[2025.09.06-00.59.16:985][517]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_14'.
+[2025.09.06-00.59.17:309][520]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_15
+[2025.09.06-00.59.17:310][520]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_15'.
+[2025.09.06-00.59.18:615][531]LogSlate: Took 0.009148 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.09.06-00.59.20:034][543]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle
+[2025.09.06-00.59.20:034][543]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_16
+[2025.09.06-00.59.20:034][543]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_16'.
+[2025.09.06-00.59.20:322][543]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'DebugSkelMeshComponent_0' with 'Echo'
+[2025.09.06-00.59.20:322][543]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.06-00.59.20:778][543]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_17
+[2025.09.06-00.59.20:779][543]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_17'.
+[2025.09.06-00.59.20:940][543]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.06-00.59.26:232][582]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1022.282349
+[2025.09.06-00.59.26:640][586]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.06-00.59.26:640][586]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1022.667175, Update Interval: 342.064270
+[2025.09.06-01.00.19:092][199]Cmd: TRANSACTION UNDO
+[2025.09.06-01.00.19:092][199]LogEditorTransaction: Undo Translate Bone
+[2025.09.06-01.00.20:030][199]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.06-01.00.20:034][199]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.06-01.00.20:075][199]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.06-01.00.36:456][355]Cmd: TRANSACTION UNDO
+[2025.09.06-01.00.36:457][355]LogEditorTransaction: Undo Rotate Bone
+[2025.09.06-01.00.37:586][355]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.06-01.00.37:590][355]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.06-01.00.37:638][355]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.06-01.01.13:478][727]Cmd: TRANSACTION UNDO
+[2025.09.06-01.01.13:478][727]LogEditorTransaction: Undo Translate Bone
+[2025.09.06-01.01.14:368][727]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.06-01.01.14:372][727]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.06-01.01.14:406][727]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.06-01.01.51:567][108]Cmd: TRANSACTION UNDO
+[2025.09.06-01.01.51:567][108]LogEditorTransaction: Undo Rotate Bone
+[2025.09.06-01.01.52:431][108]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.06-01.01.52:434][108]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.06-01.01.52:468][108]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.06-01.02.40:438][608]Cmd: TRANSACTION UNDO
+[2025.09.06-01.02.40:438][608]LogEditorTransaction: Undo Rotate Bone
+[2025.09.06-01.02.41:372][608]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.06-01.02.41:376][608]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.06-01.02.41:408][608]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.06-01.02.42:893][622]Cmd: TRANSACTION UNDO
+[2025.09.06-01.02.42:893][622]LogEditorTransaction: Undo Rotate Bone
+[2025.09.06-01.02.43:829][622]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.06-01.02.43:833][622]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.06-01.02.43:867][622]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.06-01.02.43:887][622]Cmd: TRANSACTION UNDO
+[2025.09.06-01.02.43:887][622]LogEditorTransaction: Undo Translate Bone
+[2025.09.06-01.02.44:732][622]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.06-01.02.44:736][622]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.06-01.02.44:768][622]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.06-01.02.44:788][622]Cmd: TRANSACTION UNDO
+[2025.09.06-01.02.44:788][622]LogEditorTransaction: Undo Translate Bone
+[2025.09.06-01.02.45:625][622]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.06-01.02.45:630][622]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.06-01.02.45:663][622]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.06-01.02.47:331][632]Cmd: TRANSACTION UNDO
+[2025.09.06-01.02.47:331][632]LogEditorTransaction: Undo Translate Bone
+[2025.09.06-01.02.48:148][632]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.06-01.02.48:151][632]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.06-01.02.48:183][632]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.06-01.02.49:003][640]Cmd: TRANSACTION UNDO
+[2025.09.06-01.02.49:003][640]LogEditorTransaction: Undo Translate Bone
+[2025.09.06-01.02.49:907][640]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.06-01.02.49:911][640]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.06-01.02.49:941][640]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.06-01.02.50:687][649]Cmd: TRANSACTION UNDO
+[2025.09.06-01.02.50:687][649]LogEditorTransaction: Undo Translate Bone
+[2025.09.06-01.02.51:579][649]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.06-01.02.51:583][649]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.06-01.02.51:614][649]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.06-01.02.52:333][658]Cmd: TRANSACTION UNDO
+[2025.09.06-01.02.52:334][658]LogEditorTransaction: Undo Rotate Bone
+[2025.09.06-01.02.53:245][658]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.06-01.02.53:249][658]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.06-01.02.53:281][658]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.06-01.02.53:993][665]Cmd: TRANSACTION UNDO
+[2025.09.06-01.02.53:993][665]LogEditorTransaction: Undo Rotate Bone
+[2025.09.06-01.02.55:064][665]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.06-01.02.55:068][665]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.06-01.02.55:098][665]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.06-01.03.20:892][919]Cmd: TRANSACTION UNDO
+[2025.09.06-01.03.20:892][919]LogEditorTransaction: Undo Rotate Bone
+[2025.09.06-01.03.21:782][919]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.06-01.03.21:786][919]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.06-01.03.21:820][919]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.06-01.04.13:812][473]LogScript: Warning: Script Msg: /Game/Blueprints/Characters/Animations/Standing_Idle : Curve with name thumb_01_r and type RCT_Transform (2) already exists
+[2025.09.06-01.04.13:812][473]LogScript: Warning: Script Msg: /Game/Blueprints/Characters/Animations/Standing_Idle : Curve with name thumb_02_r and type RCT_Transform (2) already exists
+[2025.09.06-01.04.13:812][473]LogScript: Warning: Script Msg: /Game/Blueprints/Characters/Animations/Standing_Idle : Curve with name thumb_03_r and type RCT_Transform (2) already exists
+[2025.09.06-01.04.13:872][473]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle (Required Memory Estimate: 1.59 MB)
+[2025.09.06-01.04.13:935][475]LogAnimationCompression: Display: Storing compressed animation data for /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle, at AnimationSequence/94914d86d87b7c2daa012f73a714e723c9150478
+[2025.09.06-01.05.10:724][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2025.09.06-01.05.12:149][ 66]LogSlate: Window 'Save Content' being destroyed
+[2025.09.06-01.05.12:212][ 66]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.06-01.05.12:246][ 66]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Characters/Animations/Standing_Idle] ([1] browsable assets)...
+[2025.09.06-01.05.12:301][ 66]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle]
+[2025.09.06-01.05.12:302][ 66]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/Animations/Standing_Idle]
+[2025.09.06-01.05.12:341][ 66]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/Animations/Standing_Idle
+[2025.09.06-01.05.12:343][ 66]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Standing_IdleA374DC3E47648B9314BE3FA33058358A.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Characters/Animations/Standing_Idle.uasset'
+[2025.09.06-01.05.12:356][ 66]LogFileHelpers: InternalPromptForCheckoutAndSave took 144.081 ms (total: 913.730 ms)
+[2025.09.06-01.05.12:395][ 66]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.06-01.05.12:395][ 66]LogContentValidation: Enabled validators:
+[2025.09.06-01.05.12:395][ 66]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.06-01.05.12:395][ 66]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.06-01.05.12:395][ 66]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.06-01.05.12:395][ 66]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.06-01.05.12:395][ 66]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.06-01.05.12:395][ 66]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.06-01.05.12:395][ 66]AssetCheck: /Game/Blueprints/Characters/Animations/Standing_Idle Validating asset
+[2025.09.06-01.05.18:611][152]LogScript: Warning: Script Msg: /Game/Blueprints/Characters/Animations/Standing_Idle : Curve with name thumb_01_r and type RCT_Transform (2) already exists
+[2025.09.06-01.05.18:615][152]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle (Required Memory Estimate: 1.59 MB)
+[2025.09.06-01.05.18:672][154]LogAnimationCompression: Display: Storing compressed animation data for /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle, at AnimationSequence/6438fb70899be211fd9c5add9247db1efb5567be
+[2025.09.06-01.05.24:201][210]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1380.250610
+[2025.09.06-01.05.24:591][213]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.06-01.05.24:591][213]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1380.549438, Update Interval: 326.347839
+[2025.09.06-01.07.02:350][343]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle (Required Memory Estimate: 1.59 MB)
+[2025.09.06-01.07.02:407][343]LogAnimationCompression: Display: Storing compressed animation data for /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle, at AnimationSequence/4a4dcd7a1815c12bd9fadc6f1dee47053741ce29
+[2025.09.06-01.07.05:949][381]LogEditorTransaction: Undo Delete Keys
+[2025.09.06-01.07.06:645][381]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.06-01.07.06:649][381]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.06-01.07.06:746][381]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.06-01.07.16:953][529]LogEditorTransaction: Undo Delete Keys
+[2025.09.06-01.07.17:651][529]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.06-01.07.17:654][529]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.06-01.07.17:755][529]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.06-01.07.32:085][706]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle (Required Memory Estimate: 1.59 MB)
+[2025.09.06-01.07.32:133][706]LogAnimationCompression: Display: Storing compressed animation data for /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle, at AnimationSequence/9de8b91364038114c2826a17015cd82def7ec977
+[2025.09.06-01.07.50:251][929]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle (Required Memory Estimate: 1.59 MB)
+[2025.09.06-01.07.50:300][929]LogAnimationCompression: Display: Storing compressed animation data for /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle, at AnimationSequence/e0472d4bdd7a2e5aef9e27f7f098b2c5188325f1
+[2025.09.06-01.08.05:506][152]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2025.09.06-01.08.06:388][152]LogSlate: Window 'Save Content' being destroyed
+[2025.09.06-01.08.06:399][152]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.06-01.08.06:428][152]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Characters/Animations/Standing_Idle] ([1] browsable assets)...
+[2025.09.06-01.08.06:476][152]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle]
+[2025.09.06-01.08.06:477][152]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/Animations/Standing_Idle]
+[2025.09.06-01.08.06:515][152]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/Animations/Standing_Idle
+[2025.09.06-01.08.06:516][152]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Standing_Idle7ABE5BC94F57661500E9DBB231C27448.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Characters/Animations/Standing_Idle.uasset'
+[2025.09.06-01.08.06:533][152]LogFileHelpers: InternalPromptForCheckoutAndSave took 133.519 ms (total: 1.04 sec)
+[2025.09.06-01.08.06:581][152]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.06-01.08.06:581][152]LogContentValidation: Enabled validators:
+[2025.09.06-01.08.06:581][152]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.06-01.08.06:581][152]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.06-01.08.06:581][152]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.06-01.08.06:581][152]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.06-01.08.06:581][152]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.06-01.08.06:581][152]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.06-01.08.06:581][152]AssetCheck: /Game/Blueprints/Characters/Animations/Standing_Idle Validating asset
+[2025.09.06-01.08.13:366][238]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle (Required Memory Estimate: 1.59 MB)
+[2025.09.06-01.08.13:424][239]LogAnimationCompression: Display: Storing compressed animation data for /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle, at AnimationSequence/04b4635a47141cdd06f934d31e13dd9e43d22084
+[2025.09.06-01.08.15:293][258]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle (Required Memory Estimate: 1.59 MB)
+[2025.09.06-01.08.15:342][258]LogAnimationCompression: Display: Storing compressed animation data for /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle, at AnimationSequence/dacb66add913f226f4719ac0b373c852b90b0d89
+[2025.09.06-01.08.16:957][276]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle (Required Memory Estimate: 1.59 MB)
+[2025.09.06-01.08.17:004][276]LogAnimationCompression: Display: Storing compressed animation data for /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle, at AnimationSequence/efef2ccb50663b2384b7705071dd0562a13d78f3
+[2025.09.06-01.08.34:377][493]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle (Required Memory Estimate: 1.59 MB)
+[2025.09.06-01.08.34:427][493]LogAnimationCompression: Display: Storing compressed animation data for /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle, at AnimationSequence/144d27364d5b50109a378af90d98b1a8921c8a46
+[2025.09.06-01.08.48:962][688]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle (Required Memory Estimate: 1.59 MB)
+[2025.09.06-01.08.49:011][688]LogAnimationCompression: Display: Storing compressed animation data for /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle, at AnimationSequence/272dea94f266dfa1248d88b82d8cf1d640c0130a
+[2025.09.06-01.09.00:045][821]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2025.09.06-01.09.01:083][821]LogSlate: Window 'Save Content' being destroyed
+[2025.09.06-01.09.01:096][821]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.06-01.09.01:133][821]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/Animations/Standing_Idle] ([1] browsable assets)...
+[2025.09.06-01.09.01:133][821]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/Animations/Standing_Idle]
+[2025.09.06-01.09.01:175][821]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/Animations/Standing_Idle
+[2025.09.06-01.09.01:176][821]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Standing_IdleA7D93ECB4551F3B41E0F059FF12752CA.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Characters/Animations/Standing_Idle.uasset'
+[2025.09.06-01.09.01:190][821]LogFileHelpers: InternalPromptForCheckoutAndSave took 94.462 ms (total: 1.14 sec)
+[2025.09.06-01.09.01:225][821]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.06-01.09.01:225][821]LogContentValidation: Enabled validators:
+[2025.09.06-01.09.01:225][821]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.06-01.09.01:225][821]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.06-01.09.01:225][821]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.06-01.09.01:225][821]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.06-01.09.01:225][821]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.06-01.09.01:225][821]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.06-01.09.01:225][821]AssetCheck: /Game/Blueprints/Characters/Animations/Standing_Idle Validating asset
+[2025.09.06-01.09.05:758][879]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2025.09.06-01.09.05:758][879]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.06-01.09.05:831][879]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2025.09.06-01.09.05:831][879]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.06-01.09.05:868][879]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2025.09.06-01.09.09:445][920]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle
+[2025.09.06-01.09.09:445][920]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_18
+[2025.09.06-01.09.09:446][920]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_18'.
+[2025.09.06-01.09.09:495][920]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'DebugSkelMeshComponent_0' with 'Echo'
+[2025.09.06-01.09.09:496][920]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.06-01.09.09:843][920]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_19
+[2025.09.06-01.09.09:843][920]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_19'.
+[2025.09.06-01.09.09:981][920]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.06-01.09.58:656][456]LogSlate: Window 'Standing_Idle' being destroyed
+[2025.09.06-01.09.58:666][456]LogSlate: Window 'Standing_Idle' being destroyed
+[2025.09.06-01.09.58:699][456]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.09.06-01.09.58:699][456]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.06-01.09.58:803][456]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.09.06-01.09.58:803][456]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.06-01.09.58:844][456]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.09.06-01.09.58:844][456]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.06-01.09.58:920][456]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.09.06-01.09.58:920][456]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.06-01.09.58:941][456]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.09.06-01.09.58:941][456]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.06-01.09.58:979][456]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.09.06-01.09.58:979][456]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.06-01.09.59:118][456]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2025.09.06-01.09.59:118][456]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.06-01.09.59:176][456]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2025.09.06-01.09.59:176][456]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.06-01.09.59:399][456]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
