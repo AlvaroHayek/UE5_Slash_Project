@@ -2143,3 +2143,114 @@ Skipped package /AudioModulation/Volume was expected to be found in plugin Audio
 [2025.09.06-01.09.59:176][456]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
 [2025.09.06-01.09.59:176][456]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2025.09.06-01.09.59:399][456]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.09.06-01.10.29:571][256]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_20
+[2025.09.06-01.10.29:572][256]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_20'.
+[2025.09.06-01.11.22:070][821]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1738.120239
+[2025.09.06-01.11.22:306][828]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.06-01.11.22:306][828]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1738.321167, Update Interval: 358.143250
+[2025.09.06-01.11.24:797][874]LogSlate: External Image Picker: DecompressImage failed
+[2025.09.06-01.11.46:844][391]LogSlate: Window 'Project Settings' being destroyed
+[2025.09.06-01.11.46:853][391]LogSlate: Window 'Project Settings' being destroyed
+[2025.09.06-01.12.57:653][508]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Auriculares (Vieta Pro Calm 2 Stereo), InstanceID=1
+[2025.09.06-01.12.57:653][508]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.09.06-01.12.57:657][508]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=2496
+[2025.09.06-01.12.57:783][512]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.09.06-01.12.57:791][512]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=44100, DeviceID={0.0.0.00000000}.{a6cfb85f-2618-431e-bd23-0177754ea7a2}, Name=Auriculares (Vieta Pro Calm 2 Stereo)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=114.41
+[2025.09.06-01.12.57:791][512]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.09.06-01.12.57:798][512]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.09.06-01.18.20:099][144]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2156.147705
+[2025.09.06-01.18.20:363][152]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.06-01.18.20:363][153]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2156.380371, Update Interval: 348.520752
+[2025.09.06-01.18.41:897][741]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle
+[2025.09.06-01.18.41:897][741]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_21
+[2025.09.06-01.18.41:898][741]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_21'.
+[2025.09.06-01.18.41:963][741]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'DebugSkelMeshComponent_0' with 'Echo'
+[2025.09.06-01.18.41:964][741]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.06-01.18.42:382][741]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_22
+[2025.09.06-01.18.42:383][741]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_22'.
+[2025.09.06-01.18.42:583][741]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.06-01.18.52:628][ 29]LogStreaming: Display: FlushAsyncLoading(516): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.06-01.18.52:781][ 29]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Blueprints/Characters/Animations/Standing_Melee_Attack_360_High.Standing_Melee_Attack_360_High
+[2025.09.06-01.18.52:889][ 29]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.06-01.19.11:862][594]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Blueprints/Characters/Animations/Standing_Idle.Standing_Idle
+[2025.09.06-01.19.11:934][594]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.06-01.19.28:411][ 84]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Blueprints/Characters/Animations/Standing_Melee_Attack_360_High.Standing_Melee_Attack_360_High
+[2025.09.06-01.19.28:479][ 84]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.06-01.19.32:985][215]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Blueprints/Characters/Animations/Standing_Melee_Attack_360_High.Standing_Melee_Attack_360_High (Required Memory Estimate: 2.64 MB)
+[2025.09.06-01.19.33:089][218]LogAnimationCompression: Display: Storing compressed animation data for /Game/Blueprints/Characters/Animations/Standing_Melee_Attack_360_High.Standing_Melee_Attack_360_High, at AnimationSequence/d5207d069f1e866fafa6f860cebfd874c7688f6f
+[2025.09.06-01.19.48:939][689]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2025.09.06-01.19.49:972][689]LogSlate: Window 'Save Content' being destroyed
+[2025.09.06-01.19.49:985][689]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.06-01.19.50:032][689]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/Animations/Standing_Melee_Attack_360_High] ([1] browsable assets)...
+[2025.09.06-01.19.50:032][689]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/Animations/Standing_Melee_Attack_360_High]
+[2025.09.06-01.19.50:074][689]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/Animations/Standing_Melee_Attack_360_High
+[2025.09.06-01.19.50:076][689]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Standing_Melee_Attack_360_High46DFA01E48B112F69B017FBAD6F1793A.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Characters/Animations/Standing_Melee_Attack_360_High.uasset'
+[2025.09.06-01.19.50:091][689]LogFileHelpers: InternalPromptForCheckoutAndSave took 106.281 ms (total: 1.24 sec)
+[2025.09.06-01.19.50:135][689]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.06-01.19.50:135][689]LogContentValidation: Enabled validators:
+[2025.09.06-01.19.50:135][689]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.06-01.19.50:135][689]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.06-01.19.50:135][689]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.06-01.19.50:135][689]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.06-01.19.50:135][689]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.06-01.19.50:135][689]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.06-01.19.50:135][689]AssetCheck: /Game/Blueprints/Characters/Animations/Standing_Melee_Attack_360_High Validating asset
+[2025.09.06-01.19.53:347][785]LogStreaming: Display: FlushAsyncLoading(517): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.06-01.19.53:415][785]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Blueprints/Characters/Animations/Standing_Melee_Attack_Downward.Standing_Melee_Attack_Downward
+[2025.09.06-01.19.53:481][785]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.06-01.19.57:804][910]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Blueprints/Characters/Animations/Standing_Melee_Attack_Downward.Standing_Melee_Attack_Downward (Required Memory Estimate: 1.93 MB)
+[2025.09.06-01.19.57:873][912]LogAnimationCompression: Display: Storing compressed animation data for /Game/Blueprints/Characters/Animations/Standing_Melee_Attack_Downward.Standing_Melee_Attack_Downward, at AnimationSequence/ddafdc9f9d549bc69e046c7d888d4e79d7be14b2
+[2025.09.06-01.19.59:656][965]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2025.09.06-01.20.00:704][965]LogSlate: Window 'Save Content' being destroyed
+[2025.09.06-01.20.00:715][965]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.06-01.20.00:739][965]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/Animations/Standing_Melee_Attack_Downward] ([1] browsable assets)...
+[2025.09.06-01.20.00:739][965]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/Animations/Standing_Melee_Attack_Downward]
+[2025.09.06-01.20.00:783][965]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/Animations/Standing_Melee_Attack_Downward
+[2025.09.06-01.20.00:784][965]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Standing_Melee_Attack_Downward036A13FB4CC1F968997455B4756E729B.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Characters/Animations/Standing_Melee_Attack_Downward.uasset'
+[2025.09.06-01.20.00:796][965]LogFileHelpers: InternalPromptForCheckoutAndSave took 80.251 ms (total: 1.32 sec)
+[2025.09.06-01.20.00:834][965]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.06-01.20.00:834][965]LogContentValidation: Enabled validators:
+[2025.09.06-01.20.00:834][965]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.06-01.20.00:834][965]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.06-01.20.00:834][965]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.06-01.20.00:834][965]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.06-01.20.00:834][965]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.06-01.20.00:834][965]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.06-01.20.00:835][965]AssetCheck: /Game/Blueprints/Characters/Animations/Standing_Melee_Attack_Downward Validating asset
+[2025.09.06-01.22.22:274][205]LogStreaming: Display: FlushAsyncLoading(518): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.06-01.22.22:365][205]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Blueprints/Characters/Animations/Standing_Melee_Attack_Horizontal.Standing_Melee_Attack_Horizontal
+[2025.09.06-01.22.22:441][205]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.06-01.22.27:287][348]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Blueprints/Characters/Animations/Standing_Melee_Attack_Horizontal.Standing_Melee_Attack_Horizontal (Required Memory Estimate: 2.04 MB)
+[2025.09.06-01.22.27:360][350]LogAnimationCompression: Display: Storing compressed animation data for /Game/Blueprints/Characters/Animations/Standing_Melee_Attack_Horizontal.Standing_Melee_Attack_Horizontal, at AnimationSequence/569617dc86b27e3190d60ba903c2ec4dc78b9744
+[2025.09.06-01.22.32:030][488]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2025.09.06-01.22.32:994][488]LogSlate: Window 'Save Content' being destroyed
+[2025.09.06-01.22.33:005][488]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.06-01.22.33:045][488]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/Animations/Standing_Melee_Attack_Horizontal] ([1] browsable assets)...
+[2025.09.06-01.22.33:045][488]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/Animations/Standing_Melee_Attack_Horizontal]
+[2025.09.06-01.22.33:085][488]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/Animations/Standing_Melee_Attack_Horizontal
+[2025.09.06-01.22.33:086][488]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Standing_Melee_Attack_Horizontal7A97F4954DC789FB70C9D9B8288B258D.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Characters/Animations/Standing_Melee_Attack_Horizontal.uasset'
+[2025.09.06-01.22.33:099][488]LogFileHelpers: InternalPromptForCheckoutAndSave took 94.065 ms (total: 1.42 sec)
+[2025.09.06-01.22.33:134][488]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.06-01.22.33:134][488]LogContentValidation: Enabled validators:
+[2025.09.06-01.22.33:135][488]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.06-01.22.33:135][488]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.06-01.22.33:135][488]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.06-01.22.33:135][488]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.06-01.22.33:135][488]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.06-01.22.33:135][488]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.06-01.22.33:135][488]AssetCheck: /Game/Blueprints/Characters/Animations/Standing_Melee_Attack_Horizontal Validating asset
+[2025.09.06-01.22.35:444][557]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Blueprints/Characters/Animations/Standing_Run_Forward.Standing_Run_Forward
+[2025.09.06-01.22.35:514][557]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.06-01.22.49:469][973]LogStreaming: Display: FlushAsyncLoading(519): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.06-01.22.49:547][973]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Blueprints/Characters/Animations/Unarmed_Run_Forward.Unarmed_Run_Forward
+[2025.09.06-01.22.49:619][973]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.06-01.24.35:924][157]LogSlate: Window 'Unarmed_Run_Forward' being destroyed
+[2025.09.06-01.24.35:930][157]LogSlate: Window 'Unarmed_Run_Forward' being destroyed
+[2025.09.06-01.24.35:976][157]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2025.09.06-01.24.35:976][157]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.06-01.24.36:046][157]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2025.09.06-01.24.36:046][157]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.06-01.24.36:280][157]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2025.09.06-01.24.59:323][847]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2555.364502
+[2025.09.06-01.24.59:556][854]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.06-01.24.59:556][854]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2555.567139, Update Interval: 334.813080
