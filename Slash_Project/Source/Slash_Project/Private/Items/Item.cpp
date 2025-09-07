@@ -104,11 +104,12 @@ void AItem::OnSphereEndOverlap(UPrimitiveComponent* OverlappedComponent, AActor*
 void AItem::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
+	RunningTime += DeltaTime;
 
 	// Movement rate in units of cm/s
 	//float MovementRate = 50.f;
 	//float RotationRate = 45.f;
-	RunningTime += DeltaTime;
+
 	//float DeltaZ = Amplitude * FMath::Sin(RunningTime * TimeConstant); // period = 2*pi/K
 
 	//AddActorWorldOffset(FVector(0.f, 0.f, DeltaZ));
@@ -133,5 +134,10 @@ void AItem::Tick(float DeltaTime)
 	//DRAW_POINT_SingleFrame(AvgVector);
 	//FRotator AvgRotator = Avg<FRotator>(GetActorRotation(), FRotator::ZeroRotator);
 
+	const float Z = TransformedSin();
+	if (ItemState == EItemState::EIS_Hovering)
+	{
+		AddActorWorldOffset(FVector(0.f, 0.f, TransformedSin()));
+	}
 }
 
