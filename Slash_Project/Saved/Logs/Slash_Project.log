@@ -3471,3 +3471,223 @@ Skipped package /AudioModulation/Volume was expected to be found in plugin Audio
 [2025.09.07-20.29.20:672][660]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
 [2025.09.07-20.29.20:687][660]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
 [2025.09.07-20.29.20:833][663]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2025.09.07-20.33.14:722][648]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.09.07-20.33.14:732][648]LogContentBrowser: Creating deferred item: NewFolder
+[2025.09.07-20.33.14:759][649]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.09.07-20.33.17:117][718]LogContentBrowser: Attempting asset rename: NewFolder -> Audio
+[2025.09.07-20.33.17:175][718]LogContentBrowser: End creating deferred item NewFolder
+[2025.09.07-20.33.24:949][803]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 ../../../../../../Users/Usuario/Downloads/whoosh.wav)
+[2025.09.07-20.33.24:998][803]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave whoosh...
+[2025.09.07-20.33.25:009][803]LogAudioDerivedData: Display: whoosh compressed to 10.15% (from 238KB to 24KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2025.09.07-20.33.25:018][803]LogAudio: Display: Chunk stats for (SoundWave /Game/Audio/whoosh.whoosh: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=24771 bytes, ChunkN=0)
+[2025.09.07-20.33.25:024][803]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave whoosh...
+[2025.09.07-20.33.25:032][803]LogAudioDerivedData: Display: whoosh compressed to 10.15% (from 238KB to 24KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2025.09.07-20.33.25:033][803]LogAudio: Display: Chunk stats for (SoundWave /Game/Audio/whoosh.whoosh: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=24771 bytes, ChunkN=0)
+[2025.09.07-20.34.01:650][896]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.09.07-20.34.01:652][896]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Minimal_Default_2' took 0.037
+[2025.09.07-20.34.01:655][896]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/whoosh] ([1] browsable assets)...
+[2025.09.07-20.34.01:657][896]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/whoosh.whoosh]
+[2025.09.07-20.34.01:658][896]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/whoosh]
+[2025.09.07-20.34.01:681][896]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Audio/whoosh_Auto1
+[2025.09.07-20.34.01:681][896]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/whoosh_Auto1EC14294245075933AB4EFEAE98BD244A.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Autosaves/Game/Audio/whoosh_Auto1.uasset'
+[2025.09.07-20.34.01:690][896]LogFileHelpers: Auto-saving content packages took 0.037
+[2025.09.07-20.34.52:054][406]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4424.034668
+[2025.09.07-20.34.52:287][413]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.07-20.34.52:287][413]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4424.233887, Update Interval: 326.175720
+[2025.09.07-20.36.06:154][473]LogEditorClassViewer: Warning: AssetRegistry Blueprint /Game/AncientContent/Blueprints/Abilities/GameplayAbilityUtils.GameplayAbilityUtils is missing tag value for GeneratedClass. Blueprint will not be available to ClassViewer when unloaded.
+[2025.09.07-20.36.06:210][473]LogEditorClassViewer: Warning: Class /Game/Clinic/Demo/FirstPersonBP/FirstPersonOverview.FirstPersonOverview_C has parent /Script/IntroTutorials.EditorTutorial, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.09.07-20.36.06:210][473]LogEditorClassViewer: Warning: Class /Game/AncientContent/Blueprints/Character/BP_VaultingTriggerComponent.BP_VaultingTriggerComponent_C has parent /Script/AncientGame.AncientGameBoxComponentBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.09.07-20.36.06:210][473]LogEditorClassViewer: Warning: Class /Game/AncientContent/Blueprints/Character/BP_EchoCharacter.BP_EchoCharacter_C has parent /Script/ModularGameplayActors.ModularCharacter, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.09.07-20.36.06:210][473]LogEditorClassViewer: Warning: Class /Game/AncientContent/Blueprints/Camera/BP_ThirdPersonCameraMode.BP_ThirdPersonCameraMode_C has parent /Script/AncientGame.SpringArmCameraMode, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.09.07-20.36.06:210][473]LogEditorClassViewer: Warning: Class /Game/AncientContent/Blueprints/Abilities/GA_Vault.GA_Vault_C has parent /Script/GameplayAbilities.GameplayAbility, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.09.07-20.36.06:210][473]LogEditorClassViewer: Warning: Class /Game/AncientContent/Blueprints/Abilities/GA_SitStand.GA_SitStand_C has parent /Script/GameplayAbilities.GameplayAbility, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.09.07-20.36.06:210][473]LogEditorClassViewer: Warning: Class /Game/AncientContent/Characters/Echo/Echo_AnimBP.Echo_AnimBP_C has parent /Script/AncientGame.AncientGameAnimInstance, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.09.07-20.36.14:508][714]LogSlate: Took 0.009800 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.09.07-20.39.25:103][277]Cmd: r.nanite 0
+[2025.09.07-20.39.25:183][277]r.Nanite = "0"
+[2025.09.07-20.41.06:965][292]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4798.938477
+[2025.09.07-20.41.07:198][299]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.07-20.41.07:198][300]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4799.147949, Update Interval: 343.615234
+[2025.09.07-20.41.14:323][509]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2025.09.07-20.41.15:752][509]LogSlate: Window 'Save Content' being destroyed
+[2025.09.07-20.41.15:765][509]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.07-20.41.15:790][509]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Characters/Animations/AM_AttackMontage] ([1] browsable assets)...
+[2025.09.07-20.41.15:823][509]OBJ SavePackage:     Rendered thumbnail for [AnimMontage /Game/Blueprints/Characters/Animations/AM_AttackMontage.AM_AttackMontage]
+[2025.09.07-20.41.15:823][509]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/Animations/AM_AttackMontage]
+[2025.09.07-20.41.15:827][509]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/Animations/AM_AttackMontage
+[2025.09.07-20.41.15:828][509]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/AM_AttackMontage8F42F3D64D197948BDB17685CB7FC41B.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Characters/Animations/AM_AttackMontage.uasset'
+[2025.09.07-20.41.15:832][509]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Audio/whoosh] ([1] browsable assets)...
+[2025.09.07-20.41.15:832][509]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/whoosh]
+[2025.09.07-20.41.15:832][509]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/whoosh" FILE="../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Audio/whoosh.uasset" SILENT=true
+[2025.09.07-20.41.15:839][509]LogSavePackage: Moving output files for package: /Game/Audio/whoosh
+[2025.09.07-20.41.15:839][509]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/whooshCD9AF4F94CB37571EB804B8E70CA65EB.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Audio/whoosh.uasset'
+[2025.09.07-20.41.15:864][509]LogFileHelpers: InternalPromptForCheckoutAndSave took 99.145 ms (total: 1.22 sec)
+[2025.09.07-20.41.15:898][509]LogContentValidation: Display: Starting to validate 2 assets
+[2025.09.07-20.41.15:898][509]LogContentValidation: Enabled validators:
+[2025.09.07-20.41.15:898][509]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.07-20.41.15:898][509]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.07-20.41.15:898][509]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.07-20.41.15:898][509]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.07-20.41.15:898][509]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.07-20.41.15:898][509]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.07-20.41.15:899][509]AssetCheck: /Game/Blueprints/Characters/Animations/AM_AttackMontage Validating asset
+[2025.09.07-20.41.15:899][509]AssetCheck: /Game/Audio/whoosh Validating asset
+[2025.09.07-20.41.29:476][916]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.07-20.41.29:488][916]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.07-20.41.29:488][916]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Minimal_Default_2
+[2025.09.07-20.41.29:493][916]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004541s)
+[2025.09.07-20.41.29:493][916]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Minimal_Default_2.Minimal_Default_2 to /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 (0.004578s)
+[2025.09.07-20.41.29:517][916]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2025.09.07-20.41.29:518][916]LogChaosDD: Creating Chaos Debug Draw Scene for world Minimal_Default_2
+[2025.09.07-20.41.29:519][916]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2'.
+[2025.09.07-20.41.29:520][916]LogPlayLevel: PIE: World Init took: (0.001653s)
+[2025.09.07-20.41.29:521][916]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2025.09.07-20.41.29:521][916]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.07-20.41.29:521][916]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.07-20.41.29:521][916]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.07-20.41.29:521][916]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.07-20.41.29:521][916]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.07-20.41.29:521][916]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.07-20.41.29:521][916]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.07-20.41.29:521][916]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.07-20.41.29:521][916]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.07-20.41.29:521][916]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.07-20.41.29:521][916]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.07-20.41.29:524][916]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.07-20.41.29:540][916]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.09.07-20.41.29:540][916]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.07-20.41.29:540][916]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.07-20.41.29:540][916]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.07-20.41.29:542][916]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2025.09.07-20.41.29:542][916]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2025.09.07-20.41.29:544][916]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2025.09.07-20.41.29:544][916]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2025.09.07-20.41.29:544][916]LogInit: FAudioDevice initialized with ID 24.
+[2025.09.07-20.41.29:544][916]LogAudio: Display: Audio Device (ID: 24) registered with world 'Minimal_Default_2'.
+[2025.09.07-20.41.29:544][916]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 24
+[2025.09.07-20.41.29:547][916]LogLoad: Game class is 'BP_GameMode_C'
+[2025.09.07-20.41.29:556][916]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Echo'
+[2025.09.07-20.41.29:558][916]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 up for play (max tick rate 60) at 2025.09.07-22.41.29
+[2025.09.07-20.41.29:559][916]LogWorld: Bringing up level for play took: 0.011378
+[2025.09.07-20.41.29:561][916]LogOnline: OSS: Created online subsystem instance for: :Context_39
+[2025.09.07-20.41.29:563][916]PIE: Server logged in
+[2025.09.07-20.41.29:564][916]PIE: Play in editor total start time 0.081 seconds.
+[2025.09.07-20.42.03:004][910]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.07-20.42.03:004][910]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Minimal_Default_2
+[2025.09.07-20.42.03:005][910]LogWorld: UWorld::CleanupWorld for Minimal_Default_2, bSessionEnded=true, bCleanupResources=true
+[2025.09.07-20.42.03:008][910]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.07-20.42.03:058][910]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.07-20.42.03:066][910]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.07-20.42.03:090][910]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.07-20.42.03:090][910]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 24
+[2025.09.07-20.42.03:090][910]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2025.09.07-20.42.03:093][910]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2025.09.07-20.42.03:101][910]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2025.09.07-20.42.03:353][913]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2025.09.07-20.42.45:608][175]LogContentBrowser: Deferred new asset file creation: NewSoundCue
+[2025.09.07-20.42.45:619][175]LogContentBrowser: Creating deferred item: NewSoundCue
+[2025.09.07-20.42.45:690][176]LogContentBrowser: Renaming the item being created (Deferred Item: NewSoundCue).
+[2025.09.07-20.42.51:125][340]LogContentBrowser: Attempting asset rename: NewSoundCue -> SC_Whoosh
+[2025.09.07-20.42.51:159][340]LogContentBrowser: End creating deferred item NewSoundCue
+[2025.09.07-20.42.55:142][459]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/Audio/SC_Whoosh.SC_Whoosh
+[2025.09.07-20.43.01:957][634]LogAudio: Display: Cached duration for Sound Cue SoundCue /Game/Audio/SC_Whoosh.SC_Whoosh was zero and has changed. Consider manually Re-saving the asset
+[2025.09.07-20.43.22:907][259]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2025.09.07-20.43.23:734][259]LogSlate: Window 'Save Content' being destroyed
+[2025.09.07-20.43.23:749][259]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.07-20.43.23:782][259]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Audio/SC_Whoosh] ([1] browsable assets)...
+[2025.09.07-20.43.23:782][259]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/SC_Whoosh]
+[2025.09.07-20.43.23:782][259]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/SC_Whoosh" FILE="../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Audio/SC_Whoosh.uasset" SILENT=true
+[2025.09.07-20.43.23:801][259]LogSavePackage: Moving output files for package: /Game/Audio/SC_Whoosh
+[2025.09.07-20.43.23:802][259]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/SC_Whoosh3E222D694125AB544AD6068BB36DE799.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Audio/SC_Whoosh.uasset'
+[2025.09.07-20.43.23:815][259]LogFileHelpers: InternalPromptForCheckoutAndSave took 66.679 ms (total: 1.28 sec)
+[2025.09.07-20.43.23:847][259]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.07-20.43.23:847][259]LogContentValidation: Enabled validators:
+[2025.09.07-20.43.23:847][259]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.07-20.43.23:847][259]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.07-20.43.23:847][259]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.07-20.43.23:847][259]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.07-20.43.23:847][259]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.07-20.43.23:847][259]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.07-20.43.23:847][259]AssetCheck: /Game/Audio/SC_Whoosh Validating asset
+[2025.09.07-20.44.11:787][680]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.09.07-20.44.12:684][680]LogSlate: Window 'Save Content' being destroyed
+[2025.09.07-20.44.12:697][680]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.07-20.44.12:720][680]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/Animations/AM_AttackMontage] ([1] browsable assets)...
+[2025.09.07-20.44.12:720][680]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/Animations/AM_AttackMontage]
+[2025.09.07-20.44.12:724][680]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/Animations/AM_AttackMontage
+[2025.09.07-20.44.12:725][680]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/AM_AttackMontage5E58F7F94C1C03A69D78F4BCDE9C51DC.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Characters/Animations/AM_AttackMontage.uasset'
+[2025.09.07-20.44.12:736][680]LogFileHelpers: InternalPromptForCheckoutAndSave took 38.864 ms (total: 1.32 sec)
+[2025.09.07-20.44.12:767][680]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.07-20.44.12:767][680]LogContentValidation: Enabled validators:
+[2025.09.07-20.44.12:767][680]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.07-20.44.12:767][680]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.07-20.44.12:767][680]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.07-20.44.12:767][680]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.07-20.44.12:767][680]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.07-20.44.12:767][680]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.07-20.44.12:767][680]AssetCheck: /Game/Blueprints/Characters/Animations/AM_AttackMontage Validating asset
+[2025.09.07-20.44.44:214][621]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.09.07-20.44.45:188][621]LogSlate: Window 'Save Content' being destroyed
+[2025.09.07-20.44.45:198][621]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.07-20.44.45:237][621]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Audio/SC_Whoosh] ([1] browsable assets)...
+[2025.09.07-20.44.45:237][621]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/SC_Whoosh]
+[2025.09.07-20.44.45:237][621]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/SC_Whoosh" FILE="../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Audio/SC_Whoosh.uasset" SILENT=true
+[2025.09.07-20.44.45:239][621]LogSavePackage: Moving output files for package: /Game/Audio/SC_Whoosh
+[2025.09.07-20.44.45:240][621]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/SC_WhooshBB7E179848C00E63ED79728AC02EFBB7.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Audio/SC_Whoosh.uasset'
+[2025.09.07-20.44.45:249][621]LogFileHelpers: InternalPromptForCheckoutAndSave took 50.590 ms (total: 1.37 sec)
+[2025.09.07-20.44.45:285][621]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.07-20.44.45:285][621]LogContentValidation: Enabled validators:
+[2025.09.07-20.44.45:285][621]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.07-20.44.45:285][621]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.07-20.44.45:285][621]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.07-20.44.45:285][621]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.07-20.44.45:285][621]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.07-20.44.45:285][621]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.07-20.44.45:285][621]AssetCheck: /Game/Audio/SC_Whoosh Validating asset
+[2025.09.07-20.44.51:905][815]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.09.07-20.44.51:905][815]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.07-20.44.51:992][815]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.09.07-20.44.51:992][815]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.07-20.44.52:170][815]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.09.07-20.44.52:170][815]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.07-20.44.52:239][815]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2025.09.07-20.44.54:249][870]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2025.09.07-20.44.54:250][870]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.07-20.44.54:532][870]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2025.09.07-20.45.38:064][170]LogUObjectHash: Compacting FUObjectHashTables data took  14.66ms
+[2025.09.07-20.45.38:065][170]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Minimal_Default_2' took 0.039
+[2025.09.07-20.45.38:066][170]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Audio/SC_Whoosh] ([1] browsable assets)...
+[2025.09.07-20.45.38:066][170]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/SC_Whoosh]
+[2025.09.07-20.45.38:068][170]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Audio/SC_Whoosh_Auto2
+[2025.09.07-20.45.38:068][170]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/SC_Whoosh_Auto244CD55074784F5FE3173A1974432A332.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Autosaves/Game/Audio/SC_Whoosh_Auto2.uasset'
+[2025.09.07-20.45.38:069][170]LogFileHelpers: Auto-saving content packages took 0.004
+[2025.09.07-20.46.51:543][371]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.09.07-20.46.52:654][371]LogSlate: Window 'Save Content' being destroyed
+[2025.09.07-20.46.52:665][371]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.07-20.46.52:702][371]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Audio/SC_Whoosh] ([1] browsable assets)...
+[2025.09.07-20.46.52:702][371]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/SC_Whoosh]
+[2025.09.07-20.46.52:702][371]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/SC_Whoosh" FILE="../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Audio/SC_Whoosh.uasset" SILENT=true
+[2025.09.07-20.46.52:703][371]LogSavePackage: Moving output files for package: /Game/Audio/SC_Whoosh
+[2025.09.07-20.46.52:704][371]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/SC_Whoosh6A3890E24861A96B31D198AEF97E2BE6.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Audio/SC_Whoosh.uasset'
+[2025.09.07-20.46.52:715][371]LogFileHelpers: InternalPromptForCheckoutAndSave took 50.291 ms (total: 1.42 sec)
+[2025.09.07-20.46.52:743][371]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.07-20.46.52:743][371]LogContentValidation: Enabled validators:
+[2025.09.07-20.46.52:743][371]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.07-20.46.52:743][371]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.07-20.46.52:743][371]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.07-20.46.52:743][371]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.07-20.46.52:743][371]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.07-20.46.52:743][371]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.07-20.46.52:743][371]AssetCheck: /Game/Audio/SC_Whoosh Validating asset
+[2025.09.07-20.46.54:966][435]LogSlate: Window 'SC_Whoosh' being destroyed
+[2025.09.07-20.46.54:976][435]LogSlate: Window 'SC_Whoosh' being destroyed
+[2025.09.07-20.46.55:037][435]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2025.09.07-20.46.55:037][435]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.07-20.46.55:149][435]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2025.09.07-20.46.55:149][435]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.07-20.46.55:220][435]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2025.09.07-20.47.00:724][513]LogSlate: External Image Picker: DecompressImage failed
+[2025.09.07-20.47.11:742][825]LogSlate: Window 'Project Settings' being destroyed
+[2025.09.07-20.47.11:750][825]LogSlate: Window 'Project Settings' being destroyed
+[2025.09.07-20.47.23:119][156]LogSlate: Window 'Plugins' being destroyed
+[2025.09.07-20.47.23:127][156]LogSlate: Window 'Plugins' being destroyed
