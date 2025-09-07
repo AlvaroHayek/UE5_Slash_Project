@@ -32,10 +32,16 @@ protected:
 	void LookUp(float Value);
 	void EKeyPressed();
 	void Attack();
+	 
+	/**
+	*  Play montage functions
+	*/
+	void PlayAttackMontage();
 
 private:
 
 	ECharacterState CharacterState = ECharacterState::ECS_Unequipped;
+	EActionState ActionState = EActionState::EAS_Unoccupied;
 
 	UPROPERTY(VisibleAnywhere)
 	USpringArmComponent* CameraBoom;
