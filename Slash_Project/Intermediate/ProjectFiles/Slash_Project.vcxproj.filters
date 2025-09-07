@@ -83,6 +83,9 @@
     <Filter Include="Source\Slash_Project\Public\Characters">
       <UniqueIdentifier>{75883F9D-6375-3F94-AA9E-0662BB63D24A}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\Slash_Project\Public\Characters\CharacterTypes.h">
+      <Filter>Source\Slash_Project\Public\Characters</Filter>
+    </ClCompile>
     <ClCompile Include="..\..\Source\Slash_Project\Public\Characters\SlashAnimInstance.h">
       <Filter>Source\Slash_Project\Public\Characters</Filter>
     </ClCompile>
@@ -107,10 +110,5 @@
     <ClCompile Include="..\..\Source\Slash_Project\Public\Pawns\Bird.h">
       <Filter>Source\Slash_Project\Public\Pawns</Filter>
     </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="..\..\Source\Slash_Project\Public\Characters\CharacterTypes.h">
-      <Filter>Source\Slash_Project\Public\Characters</Filter>
-    </ClInclude>
   </ItemGroup>
 </Project>
