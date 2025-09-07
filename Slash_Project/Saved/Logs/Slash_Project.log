@@ -4020,3 +4020,399 @@ Skipped package /AudioModulation/Volume was expected to be found in plugin Audio
 [2025.09.07-21.07.25:897][985]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
 [2025.09.07-21.07.26:144][988]LogPlayLevel: Display: Destroying online subsystem :Context_42
 [2025.09.07-21.08.10:143][299]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SkeletalMesh_64.svg'. File could not be found
+[2025.09.07-21.09.59:635][573]LogContentBrowser: Deferred new asset file creation: NewMetaSoundSource
+[2025.09.07-21.09.59:646][573]LogContentBrowser: Creating deferred item: NewMetaSoundSource
+[2025.09.07-21.09.59:671][574]LogContentBrowser: Renaming the item being created (Deferred Item: NewMetaSoundSource).
+[2025.09.07-21.10.05:356][745]LogContentBrowser: Attempting asset rename: NewMetaSoundSource -> sfx_Exer
+[2025.09.07-21.10.05:358][745]LogContentBrowser: End creating deferred item NewMetaSoundSource
+[2025.09.07-21.10.10:880][910]LogContentBrowser: Attempting asset rename: sfx_Exer -> sfx_Exert
+[2025.09.07-21.10.10:990][910]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.07-21.10.10:990][910]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Audio/MetaSounds/sfx_Exert] ([1] browsable assets)...
+[2025.09.07-21.10.10:990][910]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/MetaSounds/sfx_Exert]
+[2025.09.07-21.10.10:995][910]LogSavePackage: Moving output files for package: /Game/Audio/MetaSounds/sfx_Exert
+[2025.09.07-21.10.10:995][910]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/sfx_Exert4DCC49134F230C10FF23EAA05F23DE31.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Audio/MetaSounds/sfx_Exert.uasset'
+[2025.09.07-21.10.10:997][910]LogFileHelpers: InternalPromptForCheckoutAndSave took 6.908 ms (total: 1.57 sec)
+[2025.09.07-21.10.11:054][910]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2025.09.07-21.10.11:082][910]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2025.09.07-21.10.11:104][910]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.09.07-21.10.11:150][910]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.07-21.10.11:150][910]LogContentValidation: Enabled validators:
+[2025.09.07-21.10.11:150][910]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.07-21.10.11:150][910]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.07-21.10.11:150][910]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.07-21.10.11:150][910]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.07-21.10.11:150][910]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.07-21.10.11:150][910]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.07-21.10.11:150][910]AssetCheck: /Game/Audio/MetaSounds/sfx_Exert Validating asset
+[2025.09.07-21.10.34:930][623]LogAssetEditorSubsystem: Opening Asset editor for MetaSoundSource /Game/Audio/MetaSounds/sfx_Exert.sfx_Exert
+[2025.09.07-21.10.35:004][623]LogSlate: The tab "MetasoundEditor_Pages" attempted to spawn in layout 'Standalone_MetasoundEditor_Layout_v14' but failed for some reason. It will not be displayed.
+[2025.09.07-21.11.03:603][471]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.09.07-21.11.04:321][471]LogSlate: Window 'Save Content' being destroyed
+[2025.09.07-21.11.04:331][471]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.07-21.11.04:364][471]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Audio/MetaSounds/sfx_Exert] ([1] browsable assets)...
+[2025.09.07-21.11.04:364][471]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/MetaSounds/sfx_Exert]
+[2025.09.07-21.11.04:376][471]LogSavePackage: Moving output files for package: /Game/Audio/MetaSounds/sfx_Exert
+[2025.09.07-21.11.04:377][471]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/sfx_Exert8135D6B24485D72390D8FDA17EF79E2A.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Audio/MetaSounds/sfx_Exert.uasset'
+[2025.09.07-21.11.04:393][471]LogFileHelpers: InternalPromptForCheckoutAndSave took 62.516 ms (total: 1.63 sec)
+[2025.09.07-21.11.04:431][471]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.07-21.11.04:431][471]LogContentValidation: Enabled validators:
+[2025.09.07-21.11.04:431][471]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.07-21.11.04:431][471]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.07-21.11.04:431][471]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.07-21.11.04:431][471]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.07-21.11.04:431][471]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.07-21.11.04:431][471]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.07-21.11.04:431][471]AssetCheck: /Game/Audio/MetaSounds/sfx_Exert Validating asset
+[2025.09.07-21.12.41:616][299]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6693.566406
+[2025.09.07-21.12.41:883][307]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.07-21.12.41:883][307]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6693.799316, Update Interval: 352.018188
+[2025.09.07-21.13.24:084][544]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.09.07-21.13.25:184][544]LogSlate: Window 'Save Content' being destroyed
+[2025.09.07-21.13.25:194][544]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.07-21.13.25:232][544]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Audio/MetaSounds/sfx_Exert] ([1] browsable assets)...
+[2025.09.07-21.13.25:232][544]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/MetaSounds/sfx_Exert]
+[2025.09.07-21.13.25:244][544]LogSavePackage: Moving output files for package: /Game/Audio/MetaSounds/sfx_Exert
+[2025.09.07-21.13.25:245][544]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/sfx_Exert376EAB404E57744370158F98E573390E.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Audio/MetaSounds/sfx_Exert.uasset'
+[2025.09.07-21.13.25:259][544]LogFileHelpers: InternalPromptForCheckoutAndSave took 64.937 ms (total: 1.70 sec)
+[2025.09.07-21.13.25:298][544]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.07-21.13.25:298][544]LogContentValidation: Enabled validators:
+[2025.09.07-21.13.25:298][544]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.07-21.13.25:298][544]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.07-21.13.25:298][544]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.07-21.13.25:298][544]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.07-21.13.25:298][544]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.07-21.13.25:298][544]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.07-21.13.25:298][544]AssetCheck: /Game/Audio/MetaSounds/sfx_Exert Validating asset
+[2025.09.07-21.14.04:330][704]LogAssetEditorSubsystem: Opening Asset editor for MetaSoundSource /Game/Audio/MetaSounds/sfx_Whoosh.sfx_Whoosh
+[2025.09.07-21.14.04:373][704]LogSlate: The tab "MetasoundEditor_Pages" attempted to spawn in layout 'Standalone_MetasoundEditor_Layout_v14' but failed for some reason. It will not be displayed.
+[2025.09.07-21.15.54:743][979]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.09.07-21.15.55:899][979]LogSlate: Window 'Save Content' being destroyed
+[2025.09.07-21.15.55:911][979]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.07-21.15.55:940][979]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Audio/MetaSounds/sfx_Exert] ([1] browsable assets)...
+[2025.09.07-21.15.55:940][979]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/MetaSounds/sfx_Exert]
+[2025.09.07-21.15.55:988][979]LogSavePackage: Moving output files for package: /Game/Audio/MetaSounds/sfx_Exert
+[2025.09.07-21.15.55:989][979]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/sfx_Exert8D20B87F433987E2244DBEBC4554431E.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Audio/MetaSounds/sfx_Exert.uasset'
+[2025.09.07-21.15.56:006][979]LogFileHelpers: InternalPromptForCheckoutAndSave took 96.229 ms (total: 1.79 sec)
+[2025.09.07-21.15.56:040][979]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.07-21.15.56:040][979]LogContentValidation: Enabled validators:
+[2025.09.07-21.15.56:040][979]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.07-21.15.56:040][979]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.07-21.15.56:040][979]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.07-21.15.56:040][979]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.07-21.15.56:040][979]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.07-21.15.56:040][979]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.07-21.15.56:040][979]AssetCheck: /Game/Audio/MetaSounds/sfx_Exert Validating asset
+[2025.09.07-21.16.05:650][255]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/Blueprints/Characters/Animations/AM_AttackMontage.AM_AttackMontage
+[2025.09.07-21.16.05:650][255]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_18
+[2025.09.07-21.16.05:651][255]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_18'.
+[2025.09.07-21.16.05:703][255]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'DebugSkelMeshComponent_0' with 'Echo'
+[2025.09.07-21.16.05:704][255]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.07-21.16.06:074][255]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_19
+[2025.09.07-21.16.06:074][255]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_19'.
+[2025.09.07-21.16.27:060][862]LogEditorClassViewer: Warning: AssetRegistry Blueprint /Game/AncientContent/Blueprints/Abilities/GameplayAbilityUtils.GameplayAbilityUtils is missing tag value for GeneratedClass. Blueprint will not be available to ClassViewer when unloaded.
+[2025.09.07-21.16.27:091][862]LogEditorClassViewer: Warning: Class /Game/Clinic/Demo/FirstPersonBP/FirstPersonOverview.FirstPersonOverview_C has parent /Script/IntroTutorials.EditorTutorial, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.09.07-21.16.27:091][862]LogEditorClassViewer: Warning: Class /Game/AncientContent/Blueprints/Character/BP_VaultingTriggerComponent.BP_VaultingTriggerComponent_C has parent /Script/AncientGame.AncientGameBoxComponentBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.09.07-21.16.27:091][862]LogEditorClassViewer: Warning: Class /Game/AncientContent/Blueprints/Character/BP_EchoCharacter.BP_EchoCharacter_C has parent /Script/ModularGameplayActors.ModularCharacter, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.09.07-21.16.27:091][862]LogEditorClassViewer: Warning: Class /Game/AncientContent/Blueprints/Camera/BP_ThirdPersonCameraMode.BP_ThirdPersonCameraMode_C has parent /Script/AncientGame.SpringArmCameraMode, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.09.07-21.16.27:091][862]LogEditorClassViewer: Warning: Class /Game/AncientContent/Blueprints/Abilities/GA_Vault.GA_Vault_C has parent /Script/GameplayAbilities.GameplayAbility, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.09.07-21.16.27:091][862]LogEditorClassViewer: Warning: Class /Game/AncientContent/Blueprints/Abilities/GA_SitStand.GA_SitStand_C has parent /Script/GameplayAbilities.GameplayAbility, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.09.07-21.16.27:091][862]LogEditorClassViewer: Warning: Class /Game/AncientContent/Characters/Echo/Echo_AnimBP.Echo_AnimBP_C has parent /Script/AncientGame.AncientGameAnimInstance, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.09.07-21.16.55:515][619]LogSlate: Window 'Create New Animation Object' being destroyed
+[2025.09.07-21.16.56:800][654]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.09.07-21.16.57:994][654]LogSlate: Window 'Save Content' being destroyed
+[2025.09.07-21.16.58:007][654]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.07-21.16.58:038][654]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Characters/Animations/AM_AttackMontage] ([1] browsable assets)...
+[2025.09.07-21.16.58:056][654]OBJ SavePackage:     Rendered thumbnail for [AnimMontage /Game/Blueprints/Characters/Animations/AM_AttackMontage.AM_AttackMontage]
+[2025.09.07-21.16.58:056][654]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/Animations/AM_AttackMontage]
+[2025.09.07-21.16.58:060][654]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/Animations/AM_AttackMontage
+[2025.09.07-21.16.58:061][654]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/AM_AttackMontageC1351B17416BB9B8186DA5AF9B095412.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Characters/Animations/AM_AttackMontage.uasset'
+[2025.09.07-21.16.58:076][654]LogFileHelpers: InternalPromptForCheckoutAndSave took 69.417 ms (total: 1.86 sec)
+[2025.09.07-21.16.58:113][654]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.07-21.16.58:113][654]LogContentValidation: Enabled validators:
+[2025.09.07-21.16.58:113][654]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.07-21.16.58:113][654]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.07-21.16.58:113][654]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.07-21.16.58:113][654]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.07-21.16.58:113][654]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.07-21.16.58:113][654]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.07-21.16.58:113][654]AssetCheck: /Game/Blueprints/Characters/Animations/AM_AttackMontage Validating asset
+[2025.09.07-21.18.25:290][258]LogEOSSDK: Warning: LogHttp: 00000B29AAB1B400: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.09.07-21.18.25:291][258]LogEOSSDK: Warning: LogHttp: 00000B29AAB1B400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.09.07-21.18.25:291][258]LogEOSSDK: Warning: LogHttp: 00000B29AAB1B400: libcurl info message cache 0 (Found bundle for host: 0xb299d880ab0 [serially])
+[2025.09.07-21.18.25:291][258]LogEOSSDK: Warning: LogHttp: 00000B29AAB1B400: libcurl info message cache 1 (Could not resolve host: api.epicgames.dev)
+[2025.09.07-21.18.25:291][258]LogEOSSDK: Warning: LogHttp: 00000B29AAB1B400: libcurl info message cache 2 (Closing connection)
+[2025.09.07-21.18.25:291][258]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.09.07-21.18.26:304][288]LogEOSSDK: Warning: LogHttp: Retry 1 on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.09.07-21.18.29:681][388]LogEOSSDK: Warning: LogHttp: 00000B299D4E4E00: invalid HTTP response code received. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B648522FB-4941-4BB1-A006-E9A72D916B58%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.16.4-36651368%20-%20%2B%2BEOSSDK%2BRelease-1.16.4-CL-36651368&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.09.07-21.18.29:681][388]LogEOSSDK: Warning: LogHttp: 00000B299D4E4E00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.09.07-21.18.29:681][388]LogEOSSDK: Warning: LogHttp: 00000B299D4E4E00: libcurl info message cache 0 (Found bundle for host: 0xb299d880ab0 [serially])
+[2025.09.07-21.18.29:681][388]LogEOSSDK: Warning: LogHttp: 00000B299D4E4E00: libcurl info message cache 1 (Re-using existing connection with host api.epicgames.dev)
+[2025.09.07-21.18.29:681][388]LogEOSSDK: Warning: LogHttp: 00000B299D4E4E00: libcurl info message cache 2 (We are completely uploaded and fine)
+[2025.09.07-21.18.29:681][388]LogEOSSDK: Warning: LogHttp: 00000B299D4E4E00: libcurl info message cache 3 (Recv failure: Connection was reset)
+[2025.09.07-21.18.29:681][388]LogEOSSDK: Warning: LogHttp: 00000B299D4E4E00: libcurl info message cache 4 (OpenSSL SSL_read: Connection was reset, errno 10054)
+[2025.09.07-21.18.29:681][388]LogEOSSDK: Warning: LogHttp: 00000B299D4E4E00: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2025.09.07-21.18.29:681][389]LogEOSSDK: Warning: LogHttp: 00000B299D4E4E00: libcurl info message cache 6 (state.rewindbeforesend = TRUE)
+[2025.09.07-21.18.29:682][389]LogEOSSDK: Warning: LogHttp: 00000B299D4E4E00: libcurl info message cache 7 (Closing connection)
+[2025.09.07-21.18.29:682][389]LogEOSSDK: Warning: LogHttp: 00000B299D4E4E00: libcurl info message cache 8 (Recv failure: Connection was reset)
+[2025.09.07-21.18.29:682][389]LogEOSSDK: Warning: LogHttp: 00000B299D4E4E00: libcurl info message cache 9 (Send failure: Connection was reset)
+[2025.09.07-21.18.29:682][389]LogEOSSDK: Warning: LogHttp: 00000B299D4E4E00: libcurl info message cache 10 (Recv failure: Connection was reset)
+[2025.09.07-21.18.29:682][389]LogEOSSDK: Warning: LogHttp: 00000B299D4E4E00: libcurl info message cache 11 (Issue another request to this URL: 'https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B648522FB-4941-4BB1-A006-E9A72D916B58%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.16.4-36651368%20-%20%2B%2BEOSSDK%2BRelease-1.16.4-CL-36651368&UserID=&AppEnvironment=Production&UploadType=sdkevents')
+[2025.09.07-21.18.29:682][389]LogEOSSDK: Warning: LogHttp: 00000B299D4E4E00: libcurl info message cache 12 (Found bundle for host: 0xb299d880ab0 [serially])
+[2025.09.07-21.18.29:682][389]LogEOSSDK: Warning: LogHttp: 00000B299D4E4E00: libcurl info message cache 13 (Could not resolve host: api.epicgames.dev)
+[2025.09.07-21.18.29:682][389]LogEOSSDK: Warning: LogHttp: 00000B299D4E4E00: libcurl info message cache 14 (Closing connection)
+[2025.09.07-21.18.29:682][389]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B648522FB-4941-4BB1-A006-E9A72D916B58%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.16.4-36651368%20-%20%2B%2BEOSSDK%2BRelease-1.16.4-CL-36651368&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2025.09.07-21.18.37:394][619]LogEOSSDK: Warning: LogHttp: 00000B29AAB1B400: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.09.07-21.18.37:394][619]LogEOSSDK: Warning: LogHttp: 00000B29AAB1B400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.09.07-21.18.37:394][619]LogEOSSDK: Warning: LogHttp: 00000B29AAB1B400: libcurl info message cache 3 (Found bundle for host: 0xb299d880ab0 [serially])
+[2025.09.07-21.18.37:394][619]LogEOSSDK: Warning: LogHttp: 00000B29AAB1B400: libcurl info message cache 4 (Could not resolve host: api.epicgames.dev)
+[2025.09.07-21.18.37:394][619]LogEOSSDK: Warning: LogHttp: 00000B29AAB1B400: libcurl info message cache 5 (Closing connection)
+[2025.09.07-21.18.37:394][619]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.09.07-21.18.38:426][650]LogEOSSDK: Warning: LogHttp: Retry 2 on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.09.07-21.18.38:460][651]LogEOSSDK: Warning: LogHttp: 00000B29AAB1B400: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.09.07-21.18.38:460][651]LogEOSSDK: Warning: LogHttp: 00000B29AAB1B400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.09.07-21.18.38:460][651]LogEOSSDK: Warning: LogHttp: 00000B29AAB1B400: libcurl info message cache 6 (Could not resolve host: api.epicgames.dev)
+[2025.09.07-21.18.38:460][651]LogEOSSDK: Warning: LogHttp: 00000B29AAB1B400: libcurl info message cache 7 (Closing connection)
+[2025.09.07-21.18.38:460][651]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.09.07-21.18.39:464][681]LogEOSSDK: Warning: LogHttp: Retry 3 on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.09.07-21.18.39:496][682]LogEOSSDK: Warning: LogHttp: 00000B29AAB1B400: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.09.07-21.18.39:496][682]LogEOSSDK: Warning: LogHttp: 00000B29AAB1B400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.09.07-21.18.39:496][682]LogEOSSDK: Warning: LogHttp: 00000B29AAB1B400: libcurl info message cache 8 (Could not resolve host: api.epicgames.dev)
+[2025.09.07-21.18.39:496][682]LogEOSSDK: Warning: LogHttp: 00000B29AAB1B400: libcurl info message cache 9 (Closing connection)
+[2025.09.07-21.18.39:496][682]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.09.07-21.18.40:501][712]LogEOSSDK: Warning: LogHttp: Retry 4 on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.09.07-21.18.40:539][713]LogEOSSDK: Warning: LogHttp: 00000B29AAB1B400: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.09.07-21.18.40:539][713]LogEOSSDK: Warning: LogHttp: 00000B29AAB1B400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.09.07-21.18.40:539][713]LogEOSSDK: Warning: LogHttp: 00000B29AAB1B400: libcurl info message cache 10 (Could not resolve host: api.epicgames.dev)
+[2025.09.07-21.18.40:539][713]LogEOSSDK: Warning: LogHttp: 00000B29AAB1B400: libcurl info message cache 11 (Closing connection)
+[2025.09.07-21.18.40:539][713]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.09.07-21.18.40:539][713]LogEOSSDK: Warning: LogEOS: Failed to connect to the backend. ServiceName=[EOSAuth], OperationName=[TokenGrant], Url=[<Redacted>]
+[2025.09.07-21.18.40:621][715]LogEOSSDK: Warning: LogEOSAnalytics: Unable to get the client auth token. Last result: EOS_NoConnection.
+[2025.09.07-21.18.40:638][716]LogEOSSDK: Warning: LogHttp: 00000B29D0031E00: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.09.07-21.18.40:638][716]LogEOSSDK: Warning: LogHttp: 00000B29D0031E00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.09.07-21.18.40:638][716]LogEOSSDK: Warning: LogHttp: 00000B29D0031E00: libcurl info message cache 0 (Could not resolve host: api.epicgames.dev)
+[2025.09.07-21.18.40:638][716]LogEOSSDK: Warning: LogHttp: 00000B29D0031E00: libcurl info message cache 1 (Closing connection)
+[2025.09.07-21.18.40:638][716]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.09.07-21.18.41:642][746]LogEOSSDK: Warning: LogHttp: Retry 1 on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.09.07-21.18.41:676][747]LogEOSSDK: Warning: LogHttp: 00000B29D0031E00: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.09.07-21.18.41:676][747]LogEOSSDK: Warning: LogHttp: 00000B29D0031E00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.09.07-21.18.41:676][747]LogEOSSDK: Warning: LogHttp: 00000B29D0031E00: libcurl info message cache 2 (Could not resolve host: api.epicgames.dev)
+[2025.09.07-21.18.41:676][747]LogEOSSDK: Warning: LogHttp: 00000B29D0031E00: libcurl info message cache 3 (Closing connection)
+[2025.09.07-21.18.41:676][747]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.09.07-21.18.42:679][777]LogEOSSDK: Warning: LogHttp: Retry 2 on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.09.07-21.18.42:713][778]LogEOSSDK: Warning: LogHttp: 00000B29D0031E00: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.09.07-21.18.42:713][778]LogEOSSDK: Warning: LogHttp: 00000B29D0031E00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.09.07-21.18.42:713][778]LogEOSSDK: Warning: LogHttp: 00000B29D0031E00: libcurl info message cache 4 (Could not resolve host: api.epicgames.dev)
+[2025.09.07-21.18.42:713][778]LogEOSSDK: Warning: LogHttp: 00000B29D0031E00: libcurl info message cache 5 (Closing connection)
+[2025.09.07-21.18.42:713][778]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.09.07-21.18.43:394][798]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.09.07-21.18.44:544][798]LogSlate: Window 'Save Content' being destroyed
+[2025.09.07-21.18.44:558][798]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.07-21.18.44:591][798]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Characters/Animations/AM_AttackMontage] ([1] browsable assets)...
+[2025.09.07-21.18.44:658][798]OBJ SavePackage:     Rendered thumbnail for [AnimMontage /Game/Blueprints/Characters/Animations/AM_AttackMontage.AM_AttackMontage]
+[2025.09.07-21.18.44:658][798]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/Animations/AM_AttackMontage]
+[2025.09.07-21.18.44:663][798]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/Animations/AM_AttackMontage
+[2025.09.07-21.18.44:664][798]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/AM_AttackMontageF8633D484D1D33D0C4E8DEB3B85A7979.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Characters/Animations/AM_AttackMontage.uasset'
+[2025.09.07-21.18.44:666][798]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Audio/MetaSounds/sfx_Whoosh] ([1] browsable assets)...
+[2025.09.07-21.18.44:666][798]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/MetaSounds/sfx_Whoosh]
+[2025.09.07-21.18.44:704][798]LogSavePackage: Moving output files for package: /Game/Audio/MetaSounds/sfx_Whoosh
+[2025.09.07-21.18.44:706][798]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/sfx_Whoosh6BB367AB4C1E8FECAE08C5B311E69E2E.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Audio/MetaSounds/sfx_Whoosh.uasset'
+[2025.09.07-21.18.44:721][798]LogFileHelpers: InternalPromptForCheckoutAndSave took 163.309 ms (total: 2.03 sec)
+[2025.09.07-21.18.44:747][798]LogContentValidation: Display: Starting to validate 2 assets
+[2025.09.07-21.18.44:748][798]LogContentValidation: Enabled validators:
+[2025.09.07-21.18.44:748][798]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.07-21.18.44:748][798]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.07-21.18.44:748][798]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.07-21.18.44:748][798]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.07-21.18.44:748][798]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.07-21.18.44:748][798]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.07-21.18.44:748][798]AssetCheck: /Game/Blueprints/Characters/Animations/AM_AttackMontage Validating asset
+[2025.09.07-21.18.44:748][798]AssetCheck: /Game/Audio/MetaSounds/sfx_Whoosh Validating asset
+[2025.09.07-21.18.44:806][798]LogEOSSDK: Warning: LogHttp: Retry 3 on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.09.07-21.18.44:865][800]LogEOSSDK: Warning: LogHttp: 00000B29D0031E00: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.09.07-21.18.44:865][800]LogEOSSDK: Warning: LogHttp: 00000B29D0031E00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.09.07-21.18.44:865][800]LogEOSSDK: Warning: LogHttp: 00000B29D0031E00: libcurl info message cache 6 (Could not resolve host: api.epicgames.dev)
+[2025.09.07-21.18.44:865][800]LogEOSSDK: Warning: LogHttp: 00000B29D0031E00: libcurl info message cache 7 (Closing connection)
+[2025.09.07-21.18.44:865][800]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.09.07-21.18.45:882][830]LogEOSSDK: Warning: LogHttp: Retry 4 on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.09.07-21.18.51:619][  2]LogEOSSDK: Warning: LogHttp: 00000B29D0031E00: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.09.07-21.18.51:620][  2]LogEOSSDK: Warning: LogHttp: 00000B29D0031E00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.09.07-21.18.51:620][  2]LogEOSSDK: Warning: LogHttp: 00000B29D0031E00: libcurl info message cache 8 (Could not resolve host: api.epicgames.dev)
+[2025.09.07-21.18.51:620][  2]LogEOSSDK: Warning: LogHttp: 00000B29D0031E00: libcurl info message cache 9 (Closing connection)
+[2025.09.07-21.18.51:620][  2]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.09.07-21.18.51:620][  2]LogEOSSDK: Warning: LogEOS: Failed to connect to the backend. ServiceName=[EOSAuth], OperationName=[TokenGrant], Url=[<Redacted>]
+[2025.09.07-21.18.51:685][  4]LogEOSSDK: Warning: LogEOSAnalytics: Unable to get the client auth token. Last result: EOS_NoConnection.
+[2025.09.07-21.18.54:000][ 73]LogEOSSDK: Warning: LogHttp: 00000B29CAF57800: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.09.07-21.18.54:000][ 73]LogEOSSDK: Warning: LogHttp: 00000B29CAF57800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.09.07-21.18.54:000][ 73]LogEOSSDK: Warning: LogHttp: 00000B29CAF57800: libcurl info message cache 0 (Could not resolve host: api.epicgames.dev)
+[2025.09.07-21.18.54:000][ 74]LogEOSSDK: Warning: LogHttp: 00000B29CAF57800: libcurl info message cache 1 (Closing connection)
+[2025.09.07-21.18.54:000][ 74]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.09.07-21.18.55:028][104]LogEOSSDK: Warning: LogHttp: Retry 1 on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.09.07-21.18.55:061][105]LogEOSSDK: Warning: LogHttp: 00000B29CAF57800: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.09.07-21.18.55:061][105]LogEOSSDK: Warning: LogHttp: 00000B29CAF57800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.09.07-21.18.55:061][105]LogEOSSDK: Warning: LogHttp: 00000B29CAF57800: libcurl info message cache 2 (Could not resolve host: api.epicgames.dev)
+[2025.09.07-21.18.55:061][105]LogEOSSDK: Warning: LogHttp: 00000B29CAF57800: libcurl info message cache 3 (Closing connection)
+[2025.09.07-21.18.55:061][105]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.09.07-21.18.56:066][135]LogHttp: Warning: 00000B29A1DF9300: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.09.07-21.18.56:066][135]LogHttp: Warning: 00000B29A1DF9300: libcurl info message cache 0 (Found bundle for host: 0xb290a040c60 [serially])
+[2025.09.07-21.18.56:069][135]LogHttp: Warning: 00000B29A1DF9300: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2025.09.07-21.18.56:069][135]LogHttp: Warning: 00000B29A1DF9300: libcurl info message cache 2 (We are completely uploaded and fine)
+[2025.09.07-21.18.56:069][135]LogHttp: Warning: 00000B29A1DF9300: libcurl info message cache 3 (Recv failure: Connection was reset)
+[2025.09.07-21.18.56:069][135]LogHttp: Warning: 00000B29A1DF9300: libcurl info message cache 4 (OpenSSL SSL_read: Connection was reset, errno 10054)
+[2025.09.07-21.18.56:069][135]LogHttp: Warning: 00000B29A1DF9300: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2025.09.07-21.18.56:070][135]LogHttp: Warning: 00000B29A1DF9300: libcurl info message cache 6 (state.rewindbeforesend = TRUE)
+[2025.09.07-21.18.56:070][135]LogHttp: Warning: 00000B29A1DF9300: libcurl info message cache 7 (Closing connection)
+[2025.09.07-21.18.56:070][135]LogHttp: Warning: 00000B29A1DF9300: libcurl info message cache 8 (Recv failure: Connection was reset)
+[2025.09.07-21.18.56:070][135]LogHttp: Warning: 00000B29A1DF9300: libcurl info message cache 9 (Send failure: Connection was reset)
+[2025.09.07-21.18.56:070][135]LogHttp: Warning: 00000B29A1DF9300: libcurl info message cache 10 (Recv failure: Connection was reset)
+[2025.09.07-21.18.56:070][135]LogHttp: Warning: 00000B29A1DF9300: libcurl info message cache 11 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4D730B05-4E35-58FC-A087-7A80AD96E084%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.3-39772772%2B%2B%2BUE5%2BRelease-5.5&UserID=9ffb585a415f8b5ea3099583a3a7266d%7C8558b0f0649c41fd8c81a81c61794009%7C7a8c91b2-78e4-4ba2-9615-51435d5b763c&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2025.09.07-21.18.56:070][135]LogHttp: Warning: 00000B29A1DF9300: libcurl info message cache 12 (Could not resolve host: datarouter.ol.epicgames.com)
+[2025.09.07-21.18.56:070][135]LogHttp: Warning: 00000B29A1DF9300: libcurl info message cache 13 (Closing connection)
+[2025.09.07-21.18.56:096][135]LogEOSSDK: Warning: LogHttp: Retry 2 on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.09.07-21.18.56:149][137]LogEOSSDK: Warning: LogHttp: 00000B29CAF57800: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.09.07-21.18.56:149][137]LogEOSSDK: Warning: LogHttp: 00000B29CAF57800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.09.07-21.18.56:149][137]LogEOSSDK: Warning: LogHttp: 00000B29CAF57800: libcurl info message cache 4 (Could not resolve host: api.epicgames.dev)
+[2025.09.07-21.18.56:149][137]LogEOSSDK: Warning: LogHttp: 00000B29CAF57800: libcurl info message cache 5 (Closing connection)
+[2025.09.07-21.18.56:149][137]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.09.07-21.18.57:182][168]LogEOSSDK: Warning: LogHttp: Retry 3 on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.09.07-21.18.57:224][169]LogEOSSDK: Warning: LogHttp: 00000B29CAF57800: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.09.07-21.18.57:224][169]LogEOSSDK: Warning: LogHttp: 00000B29CAF57800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.09.07-21.18.57:224][169]LogEOSSDK: Warning: LogHttp: 00000B29CAF57800: libcurl info message cache 6 (Could not resolve host: api.epicgames.dev)
+[2025.09.07-21.18.57:224][169]LogEOSSDK: Warning: LogHttp: 00000B29CAF57800: libcurl info message cache 7 (Closing connection)
+[2025.09.07-21.18.57:224][169]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.09.07-21.18.58:256][200]LogEOSSDK: Warning: LogHttp: Retry 4 on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.09.07-21.18.58:287][201]LogEOSSDK: Warning: LogHttp: 00000B29CAF57800: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.09.07-21.18.58:288][201]LogEOSSDK: Warning: LogHttp: 00000B29CAF57800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.09.07-21.18.58:288][201]LogEOSSDK: Warning: LogHttp: 00000B29CAF57800: libcurl info message cache 8 (Could not resolve host: api.epicgames.dev)
+[2025.09.07-21.18.58:288][201]LogEOSSDK: Warning: LogHttp: 00000B29CAF57800: libcurl info message cache 9 (Closing connection)
+[2025.09.07-21.18.58:288][201]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.09.07-21.18.58:288][201]LogEOSSDK: Warning: LogEOS: Failed to connect to the backend. ServiceName=[EOSAuth], OperationName=[TokenGrant], Url=[<Redacted>]
+[2025.09.07-21.18.58:354][203]LogEOSSDK: Warning: LogEOSAnalytics: Unable to get the client auth token. Last result: EOS_NoConnection.
+[2025.09.07-21.19.05:075][404]LogEOSSDK: Warning: LogHttp: 00000B29CAF53C00: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.09.07-21.19.05:075][404]LogEOSSDK: Warning: LogHttp: 00000B29CAF53C00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.09.07-21.19.05:075][404]LogEOSSDK: Warning: LogHttp: 00000B29CAF53C00: libcurl info message cache 0 (Could not resolve host: api.epicgames.dev)
+[2025.09.07-21.19.05:075][404]LogEOSSDK: Warning: LogHttp: 00000B29CAF53C00: libcurl info message cache 1 (Closing connection)
+[2025.09.07-21.19.05:075][404]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.09.07-21.19.06:109][435]LogEOSSDK: Warning: LogHttp: Retry 1 on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.09.07-21.19.06:142][436]LogEOSSDK: Warning: LogHttp: 00000B29CAF53C00: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.09.07-21.19.06:142][436]LogEOSSDK: Warning: LogHttp: 00000B29CAF53C00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.09.07-21.19.06:142][436]LogEOSSDK: Warning: LogHttp: 00000B29CAF53C00: libcurl info message cache 2 (Could not resolve host: api.epicgames.dev)
+[2025.09.07-21.19.06:142][436]LogEOSSDK: Warning: LogHttp: 00000B29CAF53C00: libcurl info message cache 3 (Closing connection)
+[2025.09.07-21.19.06:142][436]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.09.07-21.19.07:162][464]LogEOSSDK: Warning: LogHttp: Retry 2 on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.09.07-21.19.07:202][465]LogEOSSDK: Warning: LogHttp: 00000B29CAF53C00: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.09.07-21.19.07:202][465]LogEOSSDK: Warning: LogHttp: 00000B29CAF53C00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.09.07-21.19.07:202][465]LogEOSSDK: Warning: LogHttp: 00000B29CAF53C00: libcurl info message cache 4 (Could not resolve host: api.epicgames.dev)
+[2025.09.07-21.19.07:202][465]LogEOSSDK: Warning: LogHttp: 00000B29CAF53C00: libcurl info message cache 5 (Closing connection)
+[2025.09.07-21.19.07:202][465]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.09.07-21.19.07:997][489]LogEOSSDK: Warning: LogHttp: 00000B297D9CF000: invalid HTTP response code received. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B648522FB-4941-4BB1-A006-E9A72D916B58%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.16.4-36651368%20-%20%2B%2BEOSSDK%2BRelease-1.16.4-CL-36651368&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.09.07-21.19.07:997][489]LogEOSSDK: Warning: LogHttp: 00000B297D9CF000: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.09.07-21.19.07:997][489]LogEOSSDK: Warning: LogHttp: 00000B297D9CF000: libcurl info message cache 0 (Could not resolve host: api.epicgames.dev)
+[2025.09.07-21.19.07:997][489]LogEOSSDK: Warning: LogHttp: 00000B297D9CF000: libcurl info message cache 1 (Closing connection)
+[2025.09.07-21.19.08:019][490]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B648522FB-4941-4BB1-A006-E9A72D916B58%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.16.4-36651368%20-%20%2B%2BEOSSDK%2BRelease-1.16.4-CL-36651368&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2025.09.07-21.19.08:222][496]LogEOSSDK: Warning: LogHttp: Retry 3 on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.09.07-21.19.08:259][497]LogEOSSDK: Warning: LogHttp: 00000B29CAF53C00: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.09.07-21.19.08:259][497]LogEOSSDK: Warning: LogHttp: 00000B29CAF53C00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.09.07-21.19.08:259][497]LogEOSSDK: Warning: LogHttp: 00000B29CAF53C00: libcurl info message cache 6 (Could not resolve host: api.epicgames.dev)
+[2025.09.07-21.19.08:259][497]LogEOSSDK: Warning: LogHttp: 00000B29CAF53C00: libcurl info message cache 7 (Closing connection)
+[2025.09.07-21.19.08:259][497]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.09.07-21.19.09:196][525]LogEOSSDK: Warning: LogHttp: 00000B297D9CF600: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=F2FB13854A227EDC048087BAD9370E36, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.09.07-21.19.09:196][525]LogEOSSDK: Warning: LogHttp: 00000B297D9CF600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.09.07-21.19.09:196][525]LogEOSSDK: Warning: LogHttp: 00000B297D9CF600: libcurl info message cache 0 (Could not resolve host: api.epicgames.dev)
+[2025.09.07-21.19.09:196][525]LogEOSSDK: Warning: LogHttp: 00000B297D9CF600: libcurl info message cache 1 (Closing connection)
+[2025.09.07-21.19.09:196][525]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=F2FB13854A227EDC048087BAD9370E36
+[2025.09.07-21.19.09:292][528]LogEOSSDK: Warning: LogHttp: Retry 4 on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.09.07-21.19.09:328][529]LogEOSSDK: Warning: LogHttp: 00000B29CAF53C00: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.09.07-21.19.09:329][529]LogEOSSDK: Warning: LogHttp: 00000B29CAF53C00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.09.07-21.19.09:329][529]LogEOSSDK: Warning: LogHttp: 00000B29CAF53C00: libcurl info message cache 8 (Could not resolve host: api.epicgames.dev)
+[2025.09.07-21.19.09:329][529]LogEOSSDK: Warning: LogHttp: 00000B29CAF53C00: libcurl info message cache 9 (Closing connection)
+[2025.09.07-21.19.09:329][529]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.09.07-21.19.09:329][529]LogEOSSDK: Warning: LogEOS: Failed to connect to the backend. ServiceName=[EOSAuth], OperationName=[TokenGrant], Url=[<Redacted>]
+[2025.09.07-21.19.09:393][531]LogEOSSDK: Warning: LogEOSAnalytics: Unable to get the client auth token. Last result: EOS_NoConnection.
+[2025.09.07-21.19.10:196][555]LogEOSSDK: Warning: LogHttp: Retry 1 on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=F2FB13854A227EDC048087BAD9370E36
+[2025.09.07-21.19.14:266][675]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7086.223145
+[2025.09.07-21.19.21:282][885]LogEOSSDK: Warning: LogHttp: 00000B297D9CF600: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=F2FB13854A227EDC048087BAD9370E36, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.09.07-21.19.21:283][885]LogEOSSDK: Warning: LogHttp: 00000B297D9CF600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.09.07-21.19.21:283][885]LogEOSSDK: Warning: LogHttp: 00000B297D9CF600: libcurl info message cache 2 (Could not resolve host: api.epicgames.dev)
+[2025.09.07-21.19.21:283][885]LogEOSSDK: Warning: LogHttp: 00000B297D9CF600: libcurl info message cache 3 (Closing connection)
+[2025.09.07-21.19.21:283][885]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=F2FB13854A227EDC048087BAD9370E36
+[2025.09.07-21.19.22:286][915]LogEOSSDK: Warning: LogHttp: Retry 2 on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=F2FB13854A227EDC048087BAD9370E36
+[2025.09.07-21.19.22:753][929]LogEOSSDK: Warning: LogHttp: Success on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=F2FB13854A227EDC048087BAD9370E36
+[2025.09.07-21.19.23:901][963]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.07-21.19.23:901][963]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7095.823730, Update Interval: 323.703735
+[2025.09.07-21.22.10:779][958]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.09.07-21.22.11:758][958]LogSlate: Window 'Save Content' being destroyed
+[2025.09.07-21.22.11:771][958]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.07-21.22.11:808][958]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/Animations/AM_AttackMontage] ([1] browsable assets)...
+[2025.09.07-21.22.11:808][958]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/Animations/AM_AttackMontage]
+[2025.09.07-21.22.11:812][958]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/Animations/AM_AttackMontage
+[2025.09.07-21.22.11:813][958]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/AM_AttackMontageB73EF66D4654B14BA3BE7EA576F71D95.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Characters/Animations/AM_AttackMontage.uasset'
+[2025.09.07-21.22.11:823][958]LogFileHelpers: InternalPromptForCheckoutAndSave took 51.774 ms (total: 2.08 sec)
+[2025.09.07-21.22.11:857][958]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.07-21.22.11:857][958]LogContentValidation: Enabled validators:
+[2025.09.07-21.22.11:857][958]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.07-21.22.11:857][958]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.07-21.22.11:857][958]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.07-21.22.11:857][958]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.07-21.22.11:857][958]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.07-21.22.11:857][958]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.07-21.22.11:857][958]AssetCheck: /Game/Blueprints/Characters/Animations/AM_AttackMontage Validating asset
+[2025.09.07-21.22.13:990][ 20]LogSlate: Window 'AM_AttackMontage' being destroyed
+[2025.09.07-21.22.13:999][ 20]LogSlate: Window 'AM_AttackMontage' being destroyed
+[2025.09.07-21.22.14:088][ 20]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2025.09.07-21.22.14:088][ 20]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.07-21.22.14:148][ 20]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2025.09.07-21.22.14:148][ 20]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.07-21.22.14:178][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.09.07-21.22.15:626][ 64]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.07-21.22.15:642][ 64]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.07-21.22.15:643][ 64]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Minimal_Default_2
+[2025.09.07-21.22.15:647][ 64]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004097s)
+[2025.09.07-21.22.15:647][ 64]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Minimal_Default_2.Minimal_Default_2 to /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 (0.004132s)
+[2025.09.07-21.22.15:668][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.09.07-21.22.15:669][ 64]LogChaosDD: Creating Chaos Debug Draw Scene for world Minimal_Default_2
+[2025.09.07-21.22.15:670][ 64]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2'.
+[2025.09.07-21.22.15:671][ 64]LogPlayLevel: PIE: World Init took: (0.001940s)
+[2025.09.07-21.22.15:672][ 64]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2025.09.07-21.22.15:672][ 64]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.07-21.22.15:672][ 64]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.07-21.22.15:672][ 64]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.07-21.22.15:672][ 64]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.07-21.22.15:672][ 64]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.07-21.22.15:672][ 64]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.07-21.22.15:672][ 64]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.07-21.22.15:672][ 64]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.07-21.22.15:672][ 64]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.07-21.22.15:672][ 64]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.07-21.22.15:672][ 64]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.07-21.22.15:675][ 64]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.07-21.22.15:689][ 64]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.09.07-21.22.15:690][ 64]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.07-21.22.15:690][ 64]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.07-21.22.15:690][ 64]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.07-21.22.15:690][ 64]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=26
+[2025.09.07-21.22.15:690][ 64]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=26
+[2025.09.07-21.22.15:693][ 64]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=26
+[2025.09.07-21.22.15:693][ 64]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=26
+[2025.09.07-21.22.15:693][ 64]LogInit: FAudioDevice initialized with ID 26.
+[2025.09.07-21.22.15:693][ 64]LogAudio: Display: Audio Device (ID: 26) registered with world 'Minimal_Default_2'.
+[2025.09.07-21.22.15:693][ 64]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 26
+[2025.09.07-21.22.15:696][ 64]LogLoad: Game class is 'BP_GameMode_C'
+[2025.09.07-21.22.15:702][ 64]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Echo'
+[2025.09.07-21.22.15:704][ 64]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 up for play (max tick rate 60) at 2025.09.07-23.22.15
+[2025.09.07-21.22.15:705][ 64]LogWorld: Bringing up level for play took: 0.008147
+[2025.09.07-21.22.15:707][ 64]LogOnline: OSS: Created online subsystem instance for: :Context_45
+[2025.09.07-21.22.15:710][ 64]PIE: Server logged in
+[2025.09.07-21.22.15:711][ 64]PIE: Play in editor total start time 0.078 seconds.
+[2025.09.07-21.22.30:182][495]LogDerivedDataCache: C:/Users/Usuario/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.09.07-21.22.56:512][283]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.07-21.22.56:512][283]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Minimal_Default_2
+[2025.09.07-21.22.56:512][283]LogWorld: UWorld::CleanupWorld for Minimal_Default_2, bSessionEnded=true, bCleanupResources=true
+[2025.09.07-21.22.56:512][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.07-21.22.56:517][283]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.07-21.22.56:524][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.07-21.22.56:547][283]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.07-21.22.56:547][283]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 26
+[2025.09.07-21.22.56:547][283]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2025.09.07-21.22.56:549][283]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2025.09.07-21.22.56:558][283]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2025.09.07-21.22.56:771][286]LogPlayLevel: Display: Destroying online subsystem :Context_45
