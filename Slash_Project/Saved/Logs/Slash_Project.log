@@ -5280,3 +5280,397 @@ Skipped package /AudioModulation/Volume was expected to be found in plugin Audio
 [2025.09.08-02.24.17:884][ 57]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.09.08-02.24.17:884][ 57]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.09.08-02.24.17:884][ 57]AssetCheck: /Game/Blueprints/Characters/Rigs/CR_EchoFootIK Validating asset
+[2025.09.08-02.27.25:484][679]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 25573.724609
+[2025.09.08-02.27.25:718][686]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.08-02.27.25:718][686]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 25573.921875, Update Interval: 358.088318
+[2025.09.08-02.33.19:220][159]LogSlate: Window 'CR_EchoFootIK' being destroyed
+[2025.09.08-02.33.19:230][159]LogSlate: Window 'CR_EchoFootIK' being destroyed
+[2025.09.08-02.33.19:258][159]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2025.09.08-02.33.19:258][159]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.08-02.33.19:323][159]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2025.09.08-02.33.19:323][159]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.08-02.33.19:409][159]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2025.09.08-02.33.19:409][159]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.08-02.33.19:464][159]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2025.09.08-02.33.19:464][159]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.08-02.33.19:544][159]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2025.09.08-02.33.19:545][159]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.08-02.33.19:700][159]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2025.09.08-02.33.19:700][159]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.08-02.33.19:735][159]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2025.09.08-02.33.19:735][159]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.08-02.33.20:114][159]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2025.09.08-02.33.23:069][225]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.09.08-02.33.23:507][225]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.09.08-02.34.12:412][485]LogStreaming: Display: FlushAsyncLoading(527): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.08-02.34.12:459][485]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Usuario/Downloads/Unarmed Idle.fbx]
+[2025.09.08-02.34.12:729][485]LogInterchangePipeline: Warning: UInterchangeGenericAnimationPipeline: Cannot execute pre-import pipeline because importing animation only requires a valid skeleton.
+[2025.09.08-02.34.12:771][485]LogInterchangePipeline: Warning: UInterchangeGenericAnimationPipeline: Cannot execute pre-import pipeline because importing animation only requires a valid skeleton.
+[2025.09.08-02.34.16:305][485]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_36
+[2025.09.08-02.34.16:305][485]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_36'.
+[2025.09.08-02.34.16:497][485]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_37
+[2025.09.08-02.34.16:498][485]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_37'.
+[2025.09.08-02.34.25:057][485]LogSlate: Window 'Import Content' being destroyed
+[2025.09.08-02.34.25:151][485]LogInterchangeEngine: [Pending] Importing
+[2025.09.08-02.34.25:210][485]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 25993.361328
+[2025.09.08-02.34.25:461][488]LogStreaming: Display: FlushAsyncLoading(535): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.08-02.34.25:551][490]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/AncientContent/Characters/Echo/Mixamo_Animations/Animations/Unarmed_Idle.Unarmed_Idle (Required Memory Estimate: 0.85 MB)
+[2025.09.08-02.34.25:585][490]LogAnimationCompression: Display: Storing compressed animation data for /Game/AncientContent/Characters/Echo/Mixamo_Animations/Animations/Unarmed_Idle.Unarmed_Idle, at AnimationSequence/408203436ad801473a60ebc59ff82da260db7676
+[2025.09.08-02.34.25:621][490]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Usuario/Downloads/Unarmed Idle.fbx]
+[2025.09.08-02.34.25:622][490]LogInterchangeEngine: [Pending] Importing -  (1)
+[2025.09.08-02.34.25:622][490]LogInterchangeEngine: [Pending] Importing -  (1)
+[2025.09.08-02.34.25:622][490]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Usuario/Downloads/Standing Disarm Over Shoulder.fbx]
+[2025.09.08-02.34.25:871][494]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.08-02.34.25:871][494]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 25993.865234, Update Interval: 344.278076
+[2025.09.08-02.34.26:171][497]LogStreaming: Display: FlushAsyncLoading(536): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.08-02.34.26:262][498]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/AncientContent/Characters/Echo/Mixamo_Animations/Animations/Standing_Disarm_Over_Shoulder.Standing_Disarm_Over_Shoulder (Required Memory Estimate: 0.76 MB)
+[2025.09.08-02.34.26:284][498]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Usuario/Downloads/Standing Disarm Over Shoulder.fbx]
+[2025.09.08-02.34.26:287][498]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.09.08-02.34.26:287][498]LogInterchangeEngine: [Success] Import Done
+[2025.09.08-02.34.26:291][499]LogAnimationCompression: Display: Storing compressed animation data for /Game/AncientContent/Characters/Echo/Mixamo_Animations/Animations/Standing_Disarm_Over_Shoulder.Standing_Disarm_Over_Shoulder, at AnimationSequence/756f69d3f8c228b4aeb7a4de82996105a1945adc
+[2025.09.08-02.34.29:758][602]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/AncientContent/Characters/Echo/Mixamo_Animations/Animations/Standing_Disarm_Over_Shoulder.Standing_Disarm_Over_Shoulder
+[2025.09.08-02.34.29:758][602]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_38
+[2025.09.08-02.34.29:759][602]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_38'.
+[2025.09.08-02.34.29:794][602]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_38:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.08-02.34.30:258][602]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_39
+[2025.09.08-02.34.30:258][602]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_39'.
+[2025.09.08-02.34.30:722][602]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_40
+[2025.09.08-02.34.30:723][602]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_40'.
+[2025.09.08-02.34.58:858][434]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2025.09.08-02.34.58:863][434]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Minimal_Default_2' took 0.104
+[2025.09.08-02.34.58:864][434]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AncientContent/Characters/Echo/Mixamo_Animations/Animations/Unarmed_Idle] ([1] browsable assets)...
+[2025.09.08-02.34.58:880][434]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/AncientContent/Characters/Echo/Mixamo_Animations/Animations/Unarmed_Idle.Unarmed_Idle]
+[2025.09.08-02.34.58:880][434]OBJ SavePackage: Finished generating thumbnails for package [/Game/AncientContent/Characters/Echo/Mixamo_Animations/Animations/Unarmed_Idle]
+[2025.09.08-02.34.58:890][434]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AncientContent/Characters/Echo/Mixamo_Animations/Animations/Unarmed_Idle_Auto6
+[2025.09.08-02.34.58:891][434]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Unarmed_Idle_Auto6820228694BA7A8AEA5A0FEAC4928666E.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Autosaves/Game/AncientContent/Characters/Echo/Mixamo_Animations/Animations/Unarmed_Idle_Auto6.uasset'
+[2025.09.08-02.34.58:892][434]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AncientContent/Characters/Echo/Mixamo_Animations/Animations/Standing_Disarm_Over_Shoulder] ([1] browsable assets)...
+[2025.09.08-02.34.58:903][434]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/AncientContent/Characters/Echo/Mixamo_Animations/Animations/Standing_Disarm_Over_Shoulder.Standing_Disarm_Over_Shoulder]
+[2025.09.08-02.34.58:903][434]OBJ SavePackage: Finished generating thumbnails for package [/Game/AncientContent/Characters/Echo/Mixamo_Animations/Animations/Standing_Disarm_Over_Shoulder]
+[2025.09.08-02.34.58:915][434]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AncientContent/Characters/Echo/Mixamo_Animations/Animations/Standing_Disarm_Over_Shoulder_Auto6
+[2025.09.08-02.34.58:915][434]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Standing_Disarm_Over_Shoulder_Au8D05542C4A8E0AEA5E23ABA70C5956E9.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Autosaves/Game/AncientContent/Characters/Echo/Mixamo_Animations/Animations/Standing_Disarm_Over_Shoulder_Auto6.uasset'
+[2025.09.08-02.34.58:916][434]LogFileHelpers: Auto-saving content packages took 0.053
+[2025.09.08-02.35.05:979][645]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.09.08-02.35.06:941][645]LogSlate: Window 'Save Content' being destroyed
+[2025.09.08-02.35.06:954][645]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.08-02.35.06:993][645]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AncientContent/Characters/Echo/Mixamo_Animations/Animations/Standing_Disarm_Over_Shoulder] ([1] browsable assets)...
+[2025.09.08-02.35.06:993][645]OBJ SavePackage: Finished generating thumbnails for package [/Game/AncientContent/Characters/Echo/Mixamo_Animations/Animations/Standing_Disarm_Over_Shoulder]
+[2025.09.08-02.35.07:002][645]LogSavePackage: Moving output files for package: /Game/AncientContent/Characters/Echo/Mixamo_Animations/Animations/Standing_Disarm_Over_Shoulder
+[2025.09.08-02.35.07:002][645]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Standing_Disarm_Over_ShoulderDF0475E1481F75F6CE759A84AD72A136.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/AncientContent/Characters/Echo/Mixamo_Animations/Animations/Standing_Disarm_Over_Shoulder.uasset'
+[2025.09.08-02.35.07:070][645]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AncientContent/Characters/Echo/Mixamo_Animations/Animations/Unarmed_Idle] ([1] browsable assets)...
+[2025.09.08-02.35.07:070][645]OBJ SavePackage: Finished generating thumbnails for package [/Game/AncientContent/Characters/Echo/Mixamo_Animations/Animations/Unarmed_Idle]
+[2025.09.08-02.35.07:079][645]LogSavePackage: Moving output files for package: /Game/AncientContent/Characters/Echo/Mixamo_Animations/Animations/Unarmed_Idle
+[2025.09.08-02.35.07:079][645]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Unarmed_Idle8D8DA24F4E209EAEB44ED1BEC492F7E3.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/AncientContent/Characters/Echo/Mixamo_Animations/Animations/Unarmed_Idle.uasset'
+[2025.09.08-02.35.07:108][645]LogFileHelpers: InternalPromptForCheckoutAndSave took 153.455 ms (total: 4.46 sec)
+[2025.09.08-02.35.07:134][645]LogContentValidation: Display: Starting to validate 2 assets
+[2025.09.08-02.35.07:134][645]LogContentValidation: Enabled validators:
+[2025.09.08-02.35.07:134][645]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.08-02.35.07:134][645]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.08-02.35.07:134][645]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.08-02.35.07:134][645]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.08-02.35.07:134][645]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.08-02.35.07:134][645]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.08-02.35.07:134][645]AssetCheck: /Game/AncientContent/Characters/Echo/Mixamo_Animations/Animations/Standing_Disarm_Over_Shoulder Validating asset
+[2025.09.08-02.35.07:134][645]AssetCheck: /Game/AncientContent/Characters/Echo/Mixamo_Animations/Animations/Unarmed_Idle Validating asset
+[2025.09.08-02.36.28:240][ 58]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_41
+[2025.09.08-02.36.28:240][ 58]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_41'.
+[2025.09.08-02.36.46:423][597]LogContentBrowser: Attempting asset rename: Standing_Disarm_Over_Shoulder -> Disarmed
+[2025.09.08-02.36.46:584][597]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.08-02.36.46:585][597]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AncientContent/Characters/Echo/Mixamo_Animations/Animations/Disarmed] ([1] browsable assets)...
+[2025.09.08-02.36.46:585][597]OBJ SavePackage: Finished generating thumbnails for package [/Game/AncientContent/Characters/Echo/Mixamo_Animations/Animations/Disarmed]
+[2025.09.08-02.36.46:593][597]LogSavePackage: Moving output files for package: /Game/AncientContent/Characters/Echo/Mixamo_Animations/Animations/Disarmed
+[2025.09.08-02.36.46:593][597]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Disarmed13280A6E429F2AF32AEAF2A4D42A70B3.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/AncientContent/Characters/Echo/Mixamo_Animations/Animations/Disarmed.uasset'
+[2025.09.08-02.36.46:602][597]LogFileHelpers: InternalPromptForCheckoutAndSave took 16.609 ms (total: 4.48 sec)
+[2025.09.08-02.36.46:752][597]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.09.08-02.36.46:784][597]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.09.08-02.36.46:808][597]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.09.08-02.36.46:858][597]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.08-02.36.46:858][597]LogContentValidation: Enabled validators:
+[2025.09.08-02.36.46:858][597]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.08-02.36.46:858][597]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.08-02.36.46:858][597]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.08-02.36.46:858][597]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.08-02.36.46:858][597]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.08-02.36.46:858][597]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.08-02.36.46:858][597]AssetCheck: /Game/AncientContent/Characters/Echo/Mixamo_Animations/Animations/Disarmed Validating asset
+[2025.09.08-02.38.07:649][  8]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.09.08-02.38.35:897][687]LogStreaming: Display: FlushAsyncLoading(537): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.08-02.38.35:932][687]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Usuario/Downloads/Unarmed Equip Over Shoulder.fbx]
+[2025.09.08-02.38.36:060][687]LogInterchangePipeline: Warning: UInterchangeGenericAnimationPipeline: Cannot execute pre-import pipeline because importing animation only requires a valid skeleton.
+[2025.09.08-02.38.36:090][687]LogInterchangePipeline: Warning: UInterchangeGenericAnimationPipeline: Cannot execute pre-import pipeline because importing animation only requires a valid skeleton.
+[2025.09.08-02.38.43:969][687]LogSlate: Window 'Import Content' being destroyed
+[2025.09.08-02.38.44:004][687]LogInterchangeEngine: [Pending] Importing
+[2025.09.08-02.38.44:359][690]LogStreaming: Display: FlushAsyncLoading(538): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.08-02.38.44:418][691]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/AncientContent/Characters/Echo/Mixamo_Animations/Animations/Unarmed_Equip_Over_Shoulder.Unarmed_Equip_Over_Shoulder (Required Memory Estimate: 0.76 MB)
+[2025.09.08-02.38.44:439][691]LogAnimationCompression: Display: Storing compressed animation data for /Game/AncientContent/Characters/Echo/Mixamo_Animations/Animations/Unarmed_Equip_Over_Shoulder.Unarmed_Equip_Over_Shoulder, at AnimationSequence/ae27ecccecfc8e435e15b4c78a53662ea3350e31
+[2025.09.08-02.38.44:445][691]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Usuario/Downloads/Unarmed Equip Over Shoulder.fbx]
+[2025.09.08-02.38.44:454][691]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.09.08-02.38.44:454][691]LogInterchangeEngine: [Success] Import Done
+[2025.09.08-02.39.09:764][447]LogContentBrowser: Attempting asset rename: Disarmed -> Unequip
+[2025.09.08-02.39.09:866][447]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.08-02.39.09:867][447]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AncientContent/Characters/Echo/Mixamo_Animations/Animations/Unequip] ([1] browsable assets)...
+[2025.09.08-02.39.09:867][447]OBJ SavePackage: Finished generating thumbnails for package [/Game/AncientContent/Characters/Echo/Mixamo_Animations/Animations/Unequip]
+[2025.09.08-02.39.09:876][447]LogSavePackage: Moving output files for package: /Game/AncientContent/Characters/Echo/Mixamo_Animations/Animations/Unequip
+[2025.09.08-02.39.09:876][447]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/UnequipCAB5C3CB45652F3F3560DBAC8646B76B.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/AncientContent/Characters/Echo/Mixamo_Animations/Animations/Unequip.uasset'
+[2025.09.08-02.39.09:884][447]LogFileHelpers: InternalPromptForCheckoutAndSave took 17.796 ms (total: 4.50 sec)
+[2025.09.08-02.39.09:923][447]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.09.08-02.39.09:949][447]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.09.08-02.39.09:971][447]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.09.08-02.39.10:021][447]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.08-02.39.10:021][447]LogContentValidation: Enabled validators:
+[2025.09.08-02.39.10:021][447]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.08-02.39.10:021][447]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.08-02.39.10:021][447]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.08-02.39.10:021][447]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.08-02.39.10:021][447]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.08-02.39.10:021][447]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.08-02.39.10:021][447]AssetCheck: /Game/AncientContent/Characters/Echo/Mixamo_Animations/Animations/Unequip Validating asset
+[2025.09.08-02.39.18:219][690]LogContentBrowser: Attempting asset rename: Unarmed_Equip_Over_Shoulder -> Equip
+[2025.09.08-02.39.18:316][690]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.08-02.39.18:317][690]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AncientContent/Characters/Echo/Mixamo_Animations/Animations/Equip] ([1] browsable assets)...
+[2025.09.08-02.39.18:330][690]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/AncientContent/Characters/Echo/Mixamo_Animations/Animations/Equip.Equip]
+[2025.09.08-02.39.18:330][690]OBJ SavePackage: Finished generating thumbnails for package [/Game/AncientContent/Characters/Echo/Mixamo_Animations/Animations/Equip]
+[2025.09.08-02.39.18:338][690]LogSavePackage: Moving output files for package: /Game/AncientContent/Characters/Echo/Mixamo_Animations/Animations/Equip
+[2025.09.08-02.39.18:338][690]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/EquipE445983D4B19C5201F16E9AD6267442C.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/AncientContent/Characters/Echo/Mixamo_Animations/Animations/Equip.uasset'
+[2025.09.08-02.39.18:347][690]LogFileHelpers: InternalPromptForCheckoutAndSave took 30.637 ms (total: 4.53 sec)
+[2025.09.08-02.39.18:381][690]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2025.09.08-02.39.18:406][690]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.09.08-02.39.18:430][690]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.09.08-02.39.18:472][690]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.08-02.39.18:472][690]LogContentValidation: Enabled validators:
+[2025.09.08-02.39.18:472][690]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.08-02.39.18:473][690]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.08-02.39.18:473][690]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.08-02.39.18:473][690]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.08-02.39.18:473][690]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.08-02.39.18:473][690]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.08-02.39.18:473][690]AssetCheck: /Game/AncientContent/Characters/Echo/Mixamo_Animations/Animations/Equip Validating asset
+[2025.09.08-02.39.51:262][657]LogStreaming: Display: FlushAsyncLoading(539): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.08-02.39.51:273][657]LogAssetEditorSubsystem: Opening Asset editor for IKRetargeter /Game/Blueprints/Characters/Rigs/RTG_T-pose.RTG_T-pose
+[2025.09.08-02.39.51:341][657]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_42
+[2025.09.08-02.39.51:341][657]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_42'.
+[2025.09.08-02.39.51:399][657]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_42:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.08-02.39.51:402][657]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'DebugSkelMeshComponent_1' with 'Echo'
+[2025.09.08-02.39.52:080][657]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_43
+[2025.09.08-02.39.52:081][657]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_43'.
+[2025.09.08-02.39.52:300][658]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_44
+[2025.09.08-02.39.52:301][658]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_44'.
+[2025.09.08-02.39.52:568][659]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_45
+[2025.09.08-02.39.52:568][659]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_45'.
+[2025.09.08-02.40.44:898][740]LogSlate: Window 'Export Animations' being destroyed
+[2025.09.08-02.40.46:258][740]LogSlate: Window 'Batch Export Options' being destroyed
+[2025.09.08-02.40.46:457][740]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Blueprints/Characters/Animations/Equip.Equip (Required Memory Estimate: 1.46 MB)
+[2025.09.08-02.40.46:494][740]LogTemp: Display: Duplicate and Retarget - New Asset Created: Equip
+[2025.09.08-02.40.46:502][740]LogAnimationCompression: Display: Storing compressed animation data for /Game/Blueprints/Characters/Animations/Equip.Equip, at AnimationSequence/8e999edc4de8d01fbd8485d7ac271109dcc3989c
+[2025.09.08-02.40.52:158][860]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 26380.212891
+[2025.09.08-02.40.52:493][866]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.08-02.40.52:494][866]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 26380.402344, Update Interval: 348.626984
+[2025.09.08-02.41.03:977][126]LogSlate: Window 'Export Animations' being destroyed
+[2025.09.08-02.41.05:679][126]LogSlate: Window 'Batch Export Options' being destroyed
+[2025.09.08-02.41.05:762][126]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Blueprints/Characters/Animations/Unequip.Unequip (Required Memory Estimate: 1.46 MB)
+[2025.09.08-02.41.05:774][126]LogTemp: Display: Duplicate and Retarget - New Asset Created: Unequip
+[2025.09.08-02.41.05:876][127]LogAnimationCompression: Display: Storing compressed animation data for /Game/Blueprints/Characters/Animations/Unequip.Unequip, at AnimationSequence/aff6bd3061f012f96251ddc613922655abf1b784
+[2025.09.08-02.41.14:944][382]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Blueprints/Characters/Animations/Equip.Equip
+[2025.09.08-02.41.14:944][382]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_46
+[2025.09.08-02.41.14:945][382]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_46'.
+[2025.09.08-02.41.14:980][382]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'DebugSkelMeshComponent_0' with 'Echo'
+[2025.09.08-02.41.14:981][382]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_46:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.08-02.41.15:368][382]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_47
+[2025.09.08-02.41.15:370][382]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_47'.
+[2025.09.08-02.41.15:504][382]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_46:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.08-02.41.38:350][ 17]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.09.08-02.42.44:544][873]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Blueprints/Characters/Animations/Standing_Melee_Attack_360_High.Standing_Melee_Attack_360_High
+[2025.09.08-02.42.44:606][873]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_46:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.08-02.43.01:033][359]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Blueprints/Characters/Animations/Unequip.Unequip
+[2025.09.08-02.43.01:087][359]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_46:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.08-02.43.17:704][847]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Blueprints/Characters/Animations/Unequip.Unequip (Required Memory Estimate: 1.46 MB)
+[2025.09.08-02.43.17:810][851]LogAnimationCompression: Display: Storing compressed animation data for /Game/Blueprints/Characters/Animations/Unequip.Unequip, at AnimationSequence/b8f163fb49296cd6a54a10b3592510ab185eb9c6
+[2025.09.08-02.43.24:810][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2025.09.08-02.43.26:077][ 48]LogSlate: Window 'Save Content' being destroyed
+[2025.09.08-02.43.26:090][ 48]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.08-02.43.26:117][ 48]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Characters/Animations/Equip] ([1] browsable assets)...
+[2025.09.08-02.43.26:159][ 48]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Blueprints/Characters/Animations/Equip.Equip]
+[2025.09.08-02.43.26:159][ 48]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/Animations/Equip]
+[2025.09.08-02.43.26:179][ 48]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/Animations/Equip
+[2025.09.08-02.43.26:179][ 48]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Equip1BF0745B453FF33F4C42FB8F06A2DED3.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Characters/Animations/Equip.uasset'
+[2025.09.08-02.43.26:192][ 48]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Characters/Animations/Unequip] ([1] browsable assets)...
+[2025.09.08-02.43.26:211][ 48]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Blueprints/Characters/Animations/Unequip.Unequip]
+[2025.09.08-02.43.26:211][ 48]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/Animations/Unequip]
+[2025.09.08-02.43.26:255][ 48]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/Animations/Unequip
+[2025.09.08-02.43.26:255][ 48]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Unequip3B60D5364EA9AF6DDE472DB195509801.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Characters/Animations/Unequip.uasset'
+[2025.09.08-02.43.26:279][ 48]LogFileHelpers: InternalPromptForCheckoutAndSave took 188.761 ms (total: 4.72 sec)
+[2025.09.08-02.43.26:317][ 48]LogContentValidation: Display: Starting to validate 2 assets
+[2025.09.08-02.43.26:317][ 48]LogContentValidation: Enabled validators:
+[2025.09.08-02.43.26:317][ 48]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.08-02.43.26:317][ 48]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.08-02.43.26:317][ 48]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.08-02.43.26:317][ 48]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.08-02.43.26:317][ 48]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.08-02.43.26:317][ 48]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.08-02.43.26:317][ 48]AssetCheck: /Game/Blueprints/Characters/Animations/Equip Validating asset
+[2025.09.08-02.43.26:317][ 48]AssetCheck: /Game/Blueprints/Characters/Animations/Unequip Validating asset
+[2025.09.08-02.43.30:668][177]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Blueprints/Characters/Animations/Equip.Equip
+[2025.09.08-02.43.30:720][177]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_46:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.08-02.43.40:293][460]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Blueprints/Characters/Animations/Equip.Equip (Required Memory Estimate: 1.46 MB)
+[2025.09.08-02.43.40:345][461]LogAnimationCompression: Display: Storing compressed animation data for /Game/Blueprints/Characters/Animations/Equip.Equip, at AnimationSequence/8036a3c11efd4c5c45aba53c0b9dd4b956cb6767
+[2025.09.08-02.43.49:103][717]Cmd: TRANSACTION UNDO
+[2025.09.08-02.43.49:103][717]LogEditorTransaction: Undo Paste
+[2025.09.08-02.43.49:899][717]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_38:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.08-02.43.49:923][717]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_42:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.08-02.43.49:927][717]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_46:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.08-02.43.50:775][736]Cmd: TRANSACTION UNDO
+[2025.09.08-02.43.50:775][736]LogEditorTransaction: Undo Paste
+[2025.09.08-02.43.51:479][736]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_38:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.08-02.43.51:498][736]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_42:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.08-02.43.51:501][736]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_46:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.08-02.45.11:543][967]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2025.09.08-02.45.11:543][967]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.08-02.45.11:617][967]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2025.09.08-02.45.11:617][967]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.08-02.45.11:694][967]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2025.09.08-02.46.18:935][913]Cmd: MODE ROTGRID=0
+[2025.09.08-02.47.08:422][343]LogScript: Warning: Script Msg: /Game/Blueprints/Characters/Animations/Equip : Curve with name index_01_r and type RCT_Transform (2) already exists
+[2025.09.08-02.47.08:422][343]LogScript: Warning: Script Msg: /Game/Blueprints/Characters/Animations/Equip : Curve with name index_02_r and type RCT_Transform (2) already exists
+[2025.09.08-02.47.08:422][343]LogScript: Warning: Script Msg: /Game/Blueprints/Characters/Animations/Equip : Curve with name index_03_r and type RCT_Transform (2) already exists
+[2025.09.08-02.47.08:422][343]LogScript: Warning: Script Msg: /Game/Blueprints/Characters/Animations/Equip : Curve with name index_metacarpal_r and type RCT_Transform (2) already exists
+[2025.09.08-02.47.08:436][343]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Blueprints/Characters/Animations/Equip.Equip (Required Memory Estimate: 1.46 MB)
+[2025.09.08-02.47.08:506][345]LogAnimationCompression: Display: Storing compressed animation data for /Game/Blueprints/Characters/Animations/Equip.Equip, at AnimationSequence/a072b7b550cbeb69a5d912908d557596c4731f44
+[2025.09.08-02.47.28:811][938]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 26776.865234
+[2025.09.08-02.47.29:046][945]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.08-02.47.29:046][945]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 26777.066406, Update Interval: 348.301025
+[2025.09.08-02.47.47:220][478]Cmd: TRANSACTION UNDO
+[2025.09.08-02.47.47:221][478]LogEditorTransaction: Undo Set Key
+[2025.09.08-02.47.47:737][478]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_42:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.08-02.47.47:742][478]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_46:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.08-02.47.48:536][491]Cmd: TRANSACTION UNDO
+[2025.09.08-02.47.48:536][491]LogEditorTransaction: Undo Rotate Bone
+[2025.09.08-02.47.49:043][491]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_42:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.08-02.47.49:048][491]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_46:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.08-02.47.56:312][696]Cmd: TRANSACTION UNDO
+[2025.09.08-02.47.56:312][696]LogEditorTransaction: Undo Rotate Bone
+[2025.09.08-02.47.56:816][696]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_42:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.08-02.47.56:822][696]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_46:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.08-02.47.57:806][717]Cmd: TRANSACTION UNDO
+[2025.09.08-02.47.57:806][717]LogEditorTransaction: Undo Rotate Bone
+[2025.09.08-02.47.58:316][717]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_42:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.08-02.47.58:321][717]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_46:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.08-02.47.59:219][737]Cmd: TRANSACTION UNDO
+[2025.09.08-02.47.59:219][737]LogEditorTransaction: Undo Rotate Bone
+[2025.09.08-02.47.59:712][737]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_42:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.08-02.47.59:716][737]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_46:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.08-02.52.15:322][982]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2025.09.08-02.52.16:408][982]LogSlate: Window 'Save Content' being destroyed
+[2025.09.08-02.52.16:421][982]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.08-02.52.16:461][982]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Characters/Animations/Equip] ([1] browsable assets)...
+[2025.09.08-02.52.16:518][982]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Blueprints/Characters/Animations/Equip.Equip]
+[2025.09.08-02.52.16:518][982]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/Animations/Equip]
+[2025.09.08-02.52.16:570][982]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/Animations/Equip
+[2025.09.08-02.52.16:571][982]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Equip2EE12EAE43BA590BE5D0B5BAA80D3BC8.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Characters/Animations/Equip.uasset'
+[2025.09.08-02.52.16:587][982]LogFileHelpers: InternalPromptForCheckoutAndSave took 165.526 ms (total: 4.88 sec)
+[2025.09.08-02.52.16:646][982]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.08-02.52.16:646][982]LogContentValidation: Enabled validators:
+[2025.09.08-02.52.16:646][982]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.08-02.52.16:646][982]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.08-02.52.16:646][982]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.08-02.52.16:646][982]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.08-02.52.16:646][982]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.08-02.52.16:646][982]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.08-02.52.16:646][982]AssetCheck: /Game/Blueprints/Characters/Animations/Equip Validating asset
+[2025.09.08-02.52.38:674][602]Cmd: TRANSACTION UNDO
+[2025.09.08-02.52.38:674][602]LogEditorTransaction: Undo Translate Bone
+[2025.09.08-02.52.39:176][602]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_42:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.08-02.52.39:181][602]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_46:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.08-02.53.48:716][619]LogScript: Warning: Script Msg: /Game/Blueprints/Characters/Animations/Equip : Curve with name index_01_r and type RCT_Transform (2) already exists
+[2025.09.08-02.53.48:716][619]LogScript: Warning: Script Msg: /Game/Blueprints/Characters/Animations/Equip : Curve with name index_02_r and type RCT_Transform (2) already exists
+[2025.09.08-02.53.48:717][619]LogScript: Warning: Script Msg: /Game/Blueprints/Characters/Animations/Equip : Curve with name thumb_01_r and type RCT_Transform (2) already exists
+[2025.09.08-02.53.48:717][619]LogScript: Warning: Script Msg: /Game/Blueprints/Characters/Animations/Equip : Curve with name middle_01_r and type RCT_Transform (2) already exists
+[2025.09.08-02.53.48:717][619]LogScript: Warning: Script Msg: /Game/Blueprints/Characters/Animations/Equip : Curve with name middle_02_r and type RCT_Transform (2) already exists
+[2025.09.08-02.53.48:717][619]LogScript: Warning: Script Msg: /Game/Blueprints/Characters/Animations/Equip : Curve with name middle_03_r and type RCT_Transform (2) already exists
+[2025.09.08-02.53.48:717][619]LogScript: Warning: Script Msg: /Game/Blueprints/Characters/Animations/Equip : Curve with name index_03_r and type RCT_Transform (2) already exists
+[2025.09.08-02.53.48:717][619]LogScript: Warning: Script Msg: /Game/Blueprints/Characters/Animations/Equip : Curve with name ring_01_r and type RCT_Transform (2) already exists
+[2025.09.08-02.53.48:717][619]LogScript: Warning: Script Msg: /Game/Blueprints/Characters/Animations/Equip : Curve with name ring_02_r and type RCT_Transform (2) already exists
+[2025.09.08-02.53.48:717][619]LogScript: Warning: Script Msg: /Game/Blueprints/Characters/Animations/Equip : Curve with name pinky_01_r and type RCT_Transform (2) already exists
+[2025.09.08-02.53.48:717][619]LogScript: Warning: Script Msg: /Game/Blueprints/Characters/Animations/Equip : Curve with name pinky_02_r and type RCT_Transform (2) already exists
+[2025.09.08-02.53.48:722][619]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Blueprints/Characters/Animations/Equip.Equip (Required Memory Estimate: 1.46 MB)
+[2025.09.08-02.53.48:780][620]LogAnimationCompression: Display: Storing compressed animation data for /Game/Blueprints/Characters/Animations/Equip.Equip, at AnimationSequence/ae8a0e91909f239f917a89167d220e2172641ef3
+[2025.09.08-02.54.00:174][959]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 27168.251953
+[2025.09.08-02.54.00:407][966]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.08-02.54.00:408][966]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 27168.455078, Update Interval: 329.374664
+[2025.09.08-02.54.17:316][460]LogScript: Warning: Script Msg: /Game/Blueprints/Characters/Animations/Equip : Curve with name thumb_03_r and type RCT_Transform (2) already exists
+[2025.09.08-02.54.17:319][460]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Blueprints/Characters/Animations/Equip.Equip (Required Memory Estimate: 1.46 MB)
+[2025.09.08-02.54.17:375][461]LogAnimationCompression: Display: Storing compressed animation data for /Game/Blueprints/Characters/Animations/Equip.Equip, at AnimationSequence/ee1c1e4ec7182b21f8cff2951c7985e0d27b33c7
+[2025.09.08-02.54.18:233][487]LogScript: Warning: Script Msg: /Game/Blueprints/Characters/Animations/Equip : Curve with name thumb_03_r and type RCT_Transform (2) already exists
+[2025.09.08-02.54.25:446][700]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2025.09.08-02.54.25:446][700]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.08-02.54.25:518][700]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
+[2025.09.08-02.54.25:518][700]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.08-02.54.25:558][700]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2025.09.08-02.54.27:941][742]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2025.09.08-02.54.28:904][742]LogSlate: Window 'Save Content' being destroyed
+[2025.09.08-02.54.28:928][742]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.08-02.54.28:960][742]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/Animations/Equip] ([1] browsable assets)...
+[2025.09.08-02.54.28:960][742]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/Animations/Equip]
+[2025.09.08-02.54.29:005][742]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/Animations/Equip
+[2025.09.08-02.54.29:006][742]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Equip3E95D9EB4DA41031636D3E95558ABEF1.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Characters/Animations/Equip.uasset'
+[2025.09.08-02.54.29:020][742]LogFileHelpers: InternalPromptForCheckoutAndSave took 92.209 ms (total: 4.98 sec)
+[2025.09.08-02.54.29:057][742]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.08-02.54.29:057][742]LogContentValidation: Enabled validators:
+[2025.09.08-02.54.29:057][742]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.08-02.54.29:057][742]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.08-02.54.29:057][742]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.08-02.54.29:057][742]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.08-02.54.29:057][742]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.08-02.54.29:057][742]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.08-02.54.29:057][742]AssetCheck: /Game/Blueprints/Characters/Animations/Equip Validating asset
+[2025.09.08-02.54.31:069][779]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Blueprints/Characters/Animations/Equip.Equip
+[2025.09.08-02.54.31:069][779]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_48
+[2025.09.08-02.54.31:069][779]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_48'.
+[2025.09.08-02.54.31:115][779]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'DebugSkelMeshComponent_0' with 'Echo'
+[2025.09.08-02.54.31:116][779]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_48:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.08-02.54.31:446][779]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_49
+[2025.09.08-02.54.31:446][779]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_49'.
+[2025.09.08-02.54.31:579][779]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_48:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.08-02.55.57:139][240]LogContentBrowser: Deferred new asset file creation: Equip_Montage
+[2025.09.08-02.55.57:186][240]LogContentBrowser: Creating deferred item: Equip_Montage
+[2025.09.08-02.55.57:257][241]LogContentBrowser: Renaming the item being created (Deferred Item: Equip_Montage).
+[2025.09.08-02.56.01:135][358]LogContentBrowser: Attempting asset rename: Equip_Montage -> AM_Equip
+[2025.09.08-02.56.01:148][358]LogContentBrowser: End creating deferred item Equip_Montage
+[2025.09.08-02.56.06:212][502]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/Blueprints/Characters/Animations/AM_Equip.AM_Equip
+[2025.09.08-02.57.19:208][569]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2025.09.08-02.57.20:020][569]LogSlate: Window 'Save Content' being destroyed
+[2025.09.08-02.57.20:031][569]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.08-02.57.20:065][569]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Characters/Animations/AM_Equip] ([1] browsable assets)...
+[2025.09.08-02.57.20:105][569]OBJ SavePackage:     Rendered thumbnail for [AnimMontage /Game/Blueprints/Characters/Animations/AM_Equip.AM_Equip]
+[2025.09.08-02.57.20:105][569]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/Animations/AM_Equip]
+[2025.09.08-02.57.20:107][569]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/Animations/AM_Equip
+[2025.09.08-02.57.20:107][569]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/AM_EquipBA14265540D3EF26D67E859E6FB33ACB.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Characters/Animations/AM_Equip.uasset'
+[2025.09.08-02.57.20:136][569]LogFileHelpers: InternalPromptForCheckoutAndSave took 104.541 ms (total: 5.08 sec)
+[2025.09.08-02.57.20:175][569]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.08-02.57.20:175][569]LogContentValidation: Enabled validators:
+[2025.09.08-02.57.20:175][569]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.08-02.57.20:175][569]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.08-02.57.20:175][569]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.08-02.57.20:175][569]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.08-02.57.20:175][569]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.08-02.57.20:175][569]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.08-02.57.20:175][569]AssetCheck: /Game/Blueprints/Characters/Animations/AM_Equip Validating asset
+[2025.09.08-03.00.18:514][888]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 27546.494141
+[2025.09.08-03.00.18:752][895]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.08-03.00.18:752][895]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 27546.697266, Update Interval: 333.075348
+[2025.09.08-03.00.22:834][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.09.08-03.00.23:916][ 17]LogSlate: Window 'Save Content' being destroyed
+[2025.09.08-03.00.23:930][ 17]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.08-03.00.23:954][ 17]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Characters/Animations/AM_Equip] ([1] browsable assets)...
+[2025.09.08-03.00.23:988][ 17]OBJ SavePackage:     Rendered thumbnail for [AnimMontage /Game/Blueprints/Characters/Animations/AM_Equip.AM_Equip]
+[2025.09.08-03.00.23:988][ 17]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/Animations/AM_Equip]
+[2025.09.08-03.00.23:990][ 17]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/Animations/AM_Equip
+[2025.09.08-03.00.23:991][ 17]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/AM_EquipB858E8604AB75C61B79853998AD45EE0.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Characters/Animations/AM_Equip.uasset'
+[2025.09.08-03.00.24:006][ 17]LogFileHelpers: InternalPromptForCheckoutAndSave took 75.826 ms (total: 5.16 sec)
+[2025.09.08-03.00.24:047][ 17]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.08-03.00.24:047][ 17]LogContentValidation: Enabled validators:
+[2025.09.08-03.00.24:047][ 17]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.08-03.00.24:047][ 17]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.08-03.00.24:047][ 17]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.08-03.00.24:047][ 17]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.08-03.00.24:047][ 17]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.08-03.00.24:047][ 17]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.08-03.00.24:047][ 17]AssetCheck: /Game/Blueprints/Characters/Animations/AM_Equip Validating asset
