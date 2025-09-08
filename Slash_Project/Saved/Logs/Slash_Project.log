@@ -4416,3 +4416,176 @@ Skipped package /AudioModulation/Volume was expected to be found in plugin Audio
 [2025.09.07-21.22.56:549][283]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
 [2025.09.07-21.22.56:558][283]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
 [2025.09.07-21.22.56:771][286]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2025.09.07-21.25.26:894][781]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7458.854980
+[2025.09.07-21.25.27:127][787]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.07-21.25.27:127][788]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7459.055664, Update Interval: 344.303711
+[2025.09.07-21.31.50:233][249]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7842.145996
+[2025.09.07-21.31.50:500][256]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.07-21.31.50:500][256]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7842.379395, Update Interval: 319.561768
+[2025.09.07-21.37.03:042][580]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2025.09.08-00.27.39:211][580]LogShaderCompilers: Warning: Distributed compilation controller didn't receive a completed task in 10234.580244 seconds!
+[2025.09.08-00.27.40:273][580]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.09.08-00.27.40:275][580]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=13012
+[2025.09.08-00.27.41:613][586]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.09.08-00.27.41:620][586]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{58ea4715-9790-4598-9427-e0f8b9d39fd0}, Name=Altavoces (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=1333.53
+[2025.09.08-00.27.41:620][586]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.09.08-00.27.41:648][586]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.09.08-00.28.15:085][546]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18426.960938
+[2025.09.08-00.28.15:317][553]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.08-00.28.15:317][554]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18427.166016, Update Interval: 320.777618
+[2025.09.08-00.34.25:652][651]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18797.345703
+[2025.09.08-00.34.25:887][658]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.08-00.34.25:887][659]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18797.548828, Update Interval: 300.281982
+[2025.09.08-00.36.54:362][960]LogContentBrowser: Deferred new asset file creation: NewMetaSoundSource
+[2025.09.08-00.36.54:373][960]LogContentBrowser: Creating deferred item: NewMetaSoundSource
+[2025.09.08-00.36.54:393][961]LogContentBrowser: Renaming the item being created (Deferred Item: NewMetaSoundSource).
+[2025.09.08-00.37.01:510][175]LogContentBrowser: Attempting asset rename: NewMetaSoundSource -> sfx_Rock_Run
+[2025.09.08-00.37.01:517][175]LogContentBrowser: End creating deferred item NewMetaSoundSource
+[2025.09.08-00.37.03:662][229]LogAssetEditorSubsystem: Opening Asset editor for MetaSoundSource /Game/Audio/MetaSounds/sfx_Rock_Run.sfx_Rock_Run
+[2025.09.08-00.37.03:786][229]LogSlate: The tab "MetasoundEditor_Pages" attempted to spawn in layout 'Standalone_MetasoundEditor_Layout_v14' but failed for some reason. It will not be displayed.
+[2025.09.08-00.37.45:545][283]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2025.09.08-00.37.46:618][283]LogSlate: Window 'Save Content' being destroyed
+[2025.09.08-00.37.46:673][283]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.08-00.37.46:759][283]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Audio/MetaSounds/sfx_Rock_Run] ([1] browsable assets)...
+[2025.09.08-00.37.46:759][283]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/MetaSounds/sfx_Rock_Run]
+[2025.09.08-00.37.46:800][283]LogSavePackage: Moving output files for package: /Game/Audio/MetaSounds/sfx_Rock_Run
+[2025.09.08-00.37.46:800][283]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/sfx_Rock_RunCE445487400EB4BE9C393EB348D52187.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Audio/MetaSounds/sfx_Rock_Run.uasset'
+[2025.09.08-00.37.46:873][283]LogFileHelpers: InternalPromptForCheckoutAndSave took 200.453 ms (total: 2.28 sec)
+[2025.09.08-00.37.46:979][283]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.08-00.37.46:979][283]LogContentValidation: Enabled validators:
+[2025.09.08-00.37.46:979][283]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.08-00.37.46:979][283]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.08-00.37.46:979][283]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.08-00.37.46:979][283]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.08-00.37.46:979][283]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.08-00.37.46:979][283]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.08-00.37.46:980][283]AssetCheck: /Game/Audio/MetaSounds/sfx_Rock_Run Validating asset
+[2025.09.08-00.40.03:929][338]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19135.378906
+[2025.09.08-00.40.04:196][346]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.08-00.40.04:196][346]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19135.613281, Update Interval: 316.099121
+[2025.09.08-00.43.11:328][136]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2025.09.08-00.43.12:372][136]LogSlate: Window 'Save Content' being destroyed
+[2025.09.08-00.43.12:402][136]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.08-00.43.12:467][136]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Audio/MetaSounds/sfx_Rock_Run] ([1] browsable assets)...
+[2025.09.08-00.43.12:467][136]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/MetaSounds/sfx_Rock_Run]
+[2025.09.08-00.43.12:493][136]LogSavePackage: Moving output files for package: /Game/Audio/MetaSounds/sfx_Rock_Run
+[2025.09.08-00.43.12:494][136]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/sfx_Rock_RunAA76897141CBBDC91F57A492B1D0EDFC.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Audio/MetaSounds/sfx_Rock_Run.uasset'
+[2025.09.08-00.43.12:536][136]LogFileHelpers: InternalPromptForCheckoutAndSave took 134.163 ms (total: 2.41 sec)
+[2025.09.08-00.43.12:609][136]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.08-00.43.12:609][136]LogContentValidation: Enabled validators:
+[2025.09.08-00.43.12:609][136]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.08-00.43.12:609][136]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.08-00.43.12:609][136]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.08-00.43.12:609][136]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.08-00.43.12:609][136]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.08-00.43.12:609][136]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.08-00.43.12:610][136]AssetCheck: /Game/Audio/MetaSounds/sfx_Rock_Run Validating asset
+[2025.09.08-00.46.03:439][215]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19494.816406
+[2025.09.08-00.46.03:705][223]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.08-00.46.03:705][223]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19495.048828, Update Interval: 358.154236
+[2025.09.08-00.52.35:977][892]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19886.601562
+[2025.09.08-00.52.36:942][921]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.08-00.52.36:943][921]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19887.531250, Update Interval: 310.301819
+[2025.09.08-00.58.33:149][416]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 20242.990234
+[2025.09.08-00.58.33:406][424]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.08-00.58.33:406][424]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 20243.220703, Update Interval: 319.120453
+[2025.09.08-00.58.38:507][554]LogAssetEditorSubsystem: Opening Asset editor for MetaSoundSource /Game/Audio/MetaSounds/sfx_Exert.sfx_Exert
+[2025.09.08-00.58.38:587][554]LogSlate: The tab "MetasoundEditor_Pages" attempted to spawn in layout 'Standalone_MetasoundEditor_Layout_v14' but failed for some reason. It will not be displayed.
+[2025.09.08-01.00.54:644][897]LogUObjectHash: Compacting FUObjectHashTables data took   4.77ms
+[2025.09.08-01.00.55:751][897]LogSlate: Window 'Save Content' being destroyed
+[2025.09.08-01.00.55:788][897]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.08-01.00.55:851][897]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Audio/MetaSounds/sfx_Rock_Run] ([1] browsable assets)...
+[2025.09.08-01.00.55:851][897]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/MetaSounds/sfx_Rock_Run]
+[2025.09.08-01.00.55:905][897]LogSavePackage: Moving output files for package: /Game/Audio/MetaSounds/sfx_Rock_Run
+[2025.09.08-01.00.55:906][897]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/sfx_Rock_RunADF08F854AAE82B319341B93C4865E75.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Audio/MetaSounds/sfx_Rock_Run.uasset'
+[2025.09.08-01.00.55:945][897]LogFileHelpers: InternalPromptForCheckoutAndSave took 156.491 ms (total: 2.57 sec)
+[2025.09.08-01.00.56:019][897]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.08-01.00.56:019][897]LogContentValidation: Enabled validators:
+[2025.09.08-01.00.56:019][897]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.08-01.00.56:019][897]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.08-01.00.56:019][897]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.08-01.00.56:019][897]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.08-01.00.56:019][897]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.08-01.00.56:020][897]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.08-01.00.56:020][897]AssetCheck: /Game/Audio/MetaSounds/sfx_Rock_Run Validating asset
+[2025.09.08-01.04.04:038][663]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Blueprints/Characters/Animations/Sword_And_Shield_Run.Sword_And_Shield_Run
+[2025.09.08-01.04.04:039][663]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_20
+[2025.09.08-01.04.04:042][663]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_20'.
+[2025.09.08-01.04.04:126][663]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'DebugSkelMeshComponent_0' with 'Echo'
+[2025.09.08-01.04.04:127][663]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.08-01.04.04:636][663]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_21
+[2025.09.08-01.04.04:637][663]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_21'.
+[2025.09.08-01.04.04:875][663]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.08-01.04.31:025][392]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 20601.117188
+[2025.09.08-01.04.31:995][421]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.08-01.04.31:995][421]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 20602.050781, Update Interval: 315.038910
+[2025.09.08-01.06.52:612][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2025.09.08-01.06.53:456][ 56]LogSlate: Window 'Save Content' being destroyed
+[2025.09.08-01.06.53:491][ 56]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.08-01.06.53:562][ 56]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Characters/Animations/Sword_And_Shield_Run] ([1] browsable assets)...
+[2025.09.08-01.06.53:588][ 56]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Blueprints/Characters/Animations/Sword_And_Shield_Run.Sword_And_Shield_Run]
+[2025.09.08-01.06.53:588][ 56]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/Animations/Sword_And_Shield_Run]
+[2025.09.08-01.06.53:634][ 56]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/Animations/Sword_And_Shield_Run
+[2025.09.08-01.06.53:635][ 56]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Sword_And_Shield_Run32AFBE434C913B5F4F3087B0F82809BB.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Characters/Animations/Sword_And_Shield_Run.uasset'
+[2025.09.08-01.06.53:678][ 56]LogFileHelpers: InternalPromptForCheckoutAndSave took 186.645 ms (total: 2.76 sec)
+[2025.09.08-01.06.53:748][ 56]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.08-01.06.53:748][ 56]LogContentValidation: Enabled validators:
+[2025.09.08-01.06.53:748][ 56]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.08-01.06.53:748][ 56]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.08-01.06.53:748][ 56]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.08-01.06.53:748][ 56]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.08-01.06.53:748][ 56]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.08-01.06.53:748][ 56]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.08-01.06.53:748][ 56]AssetCheck: /Game/Blueprints/Characters/Animations/Sword_And_Shield_Run Validating asset
+[2025.09.08-01.06.55:573][106]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.08-01.06.55:605][106]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.08-01.06.55:606][106]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Minimal_Default_2
+[2025.09.08-01.06.55:616][106]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009350s)
+[2025.09.08-01.06.55:616][106]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Minimal_Default_2.Minimal_Default_2 to /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 (0.009423s)
+[2025.09.08-01.06.55:647][106]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2025.09.08-01.06.55:648][106]LogChaosDD: Creating Chaos Debug Draw Scene for world Minimal_Default_2
+[2025.09.08-01.06.55:649][106]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2'.
+[2025.09.08-01.06.55:650][106]LogPlayLevel: PIE: World Init took: (0.002337s)
+[2025.09.08-01.06.55:652][106]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2025.09.08-01.06.55:653][106]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.08-01.06.55:653][106]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.08-01.06.55:653][106]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.08-01.06.55:653][106]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.08-01.06.55:653][106]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.08-01.06.55:653][106]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.08-01.06.55:653][106]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.08-01.06.55:653][106]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.08-01.06.55:653][106]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.08-01.06.55:653][106]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.08-01.06.55:653][106]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.08-01.06.55:656][106]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.08-01.06.55:679][106]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.09.08-01.06.55:680][106]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.08-01.06.55:680][106]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.08-01.06.55:680][106]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.08-01.06.55:681][106]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=27
+[2025.09.08-01.06.55:681][106]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=27
+[2025.09.08-01.06.55:684][106]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=27
+[2025.09.08-01.06.55:684][106]LogInit: FAudioDevice initialized with ID 27.
+[2025.09.08-01.06.55:684][106]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=27
+[2025.09.08-01.06.55:684][106]LogAudio: Display: Audio Device (ID: 27) registered with world 'Minimal_Default_2'.
+[2025.09.08-01.06.55:684][106]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 27
+[2025.09.08-01.06.55:693][106]LogLoad: Game class is 'BP_GameMode_C'
+[2025.09.08-01.06.55:703][106]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Echo'
+[2025.09.08-01.06.55:706][106]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 up for play (max tick rate 60) at 2025.09.08-03.06.55
+[2025.09.08-01.06.55:707][106]LogWorld: Bringing up level for play took: 0.014083
+[2025.09.08-01.06.55:711][106]LogOnline: OSS: Created online subsystem instance for: :Context_48
+[2025.09.08-01.06.55:714][106]PIE: Server logged in
+[2025.09.08-01.06.55:715][106]PIE: Play in editor total start time 0.133 seconds.
+[2025.09.08-01.07.12:353][588]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.08-01.07.12:353][588]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Minimal_Default_2
+[2025.09.08-01.07.12:354][588]LogWorld: UWorld::CleanupWorld for Minimal_Default_2, bSessionEnded=true, bCleanupResources=true
+[2025.09.08-01.07.12:354][588]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.08-01.07.12:364][588]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.08-01.07.12:373][588]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.08-01.07.12:403][588]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.08-01.07.12:405][588]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 27
+[2025.09.08-01.07.12:406][588]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2025.09.08-01.07.12:409][588]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2025.09.08-01.07.12:426][588]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2025.09.08-01.07.12:680][591]LogPlayLevel: Display: Destroying online subsystem :Context_48
