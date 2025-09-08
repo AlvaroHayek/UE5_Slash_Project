@@ -108,6 +108,10 @@ void ASlashCharacter::EKeyPressed()
 		OverlappingWeapon->Equip(GetMesh(), FName("RightHandSocket"));
 		CharacterState = ECharacterState::ECS_EquippedOneHandedWeapon;
 	}
+	else 
+	{
+		if (CanDisarm())
+	}
 }
 
 void ASlashCharacter::Attack()
@@ -124,6 +128,13 @@ bool ASlashCharacter::CanAttack()
 {
 	return ActionState == EActionState::EAS_Unoccupied &&
 		CharacterState != ECharacterState::ECS_Unequipped;
+}
+
+bool ASlashCharacter::CanDisarm()
+{
+	return ActionState == EActionState::EAS_Unoccupied && 
+		CharacterState != ECharacterState::ECS_Unequipped && 
+		EquipMontage;
 }
 
 void ASlashCharacter::PlayAttackMontage()

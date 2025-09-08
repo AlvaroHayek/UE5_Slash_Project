@@ -40,8 +40,8 @@ protected:
 
 	UFUNCTION(BlueprintCallable)
 	void AttackEnd();
-
 	bool CanAttack();
+	bool CanDisarm();
 
 private:
 
@@ -70,6 +70,9 @@ private:
 	*/
 	UPROPERTY(EditDefaultsOnly, Category = Montages)
 	UAnimMontage* AttackMontage;
+
+	UPROPERTY(EditDefaultsOnly, Category = Montages)
+	UAnimMontage* EquipMontage;
 
 public:
 	FORCEINLINE void SetOverlappingItem(AItem* Item) { OverlappingItem = Item; }
