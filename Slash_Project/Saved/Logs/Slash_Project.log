@@ -1427,3 +1427,127 @@ Skipped package /AudioModulation/Volume was expected to be found in plugin Audio
 [2025.09.08-18.09.45:316][385]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4286.145020
 [2025.09.08-18.09.45:548][392]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.09.08-18.09.45:549][392]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4286.344727, Update Interval: 337.235626
+[2025.09.08-18.16.11:736][914]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4672.559082
+[2025.09.08-18.16.11:970][921]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.08-18.16.11:970][921]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4672.761230, Update Interval: 332.449097
+[2025.09.08-18.22.24:182][ 22]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5044.981934
+[2025.09.08-18.22.24:419][ 29]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.08-18.22.24:419][ 29]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5045.185059, Update Interval: 332.055420
+[2025.09.08-18.25.00:500][645]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2025.09.08-21.26.27:292][645]LogShaderCompilers: Warning: Distributed compilation controller didn't receive a completed task in 10884.503934 seconds!
+[2025.09.08-21.26.28:239][645]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.09.08-21.26.28:243][645]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=13744
+[2025.09.08-21.26.29:026][650]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.09.08-21.26.29:034][650]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{58ea4715-9790-4598-9427-e0f8b9d39fd0}, Name=Altavoces (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=766.81
+[2025.09.08-21.26.29:035][650]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.09.08-21.26.29:042][650]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.09.08-23.03.47:455][784]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 21942.769531
+[2025.09.08-23.03.49:556][812]LogEOSSDK: LogEOS: SDK Config Product Update Request Successful, Time: 21944.107422
+[2025.09.08-23.03.49:734][812]LogEOSSDK: LogEOS: SDK Config Data - Watermark: 1878490361
+[2025.09.08-23.03.49:734][812]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 21944.107422, Update Interval: 301.344025
+[2025.09.08-23.04.52:007][677]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Auriculares (Vieta Pro Calm 2 Stereo), InstanceID=1
+[2025.09.08-23.04.52:024][677]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.09.08-23.04.52:026][677]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=13744
+[2025.09.08-23.04.52:325][686]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.09.08-23.04.52:328][686]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=44100, DeviceID={0.0.0.00000000}.{a6cfb85f-2618-431e-bd23-0177754ea7a2}, Name=Auriculares (Vieta Pro Calm 2 Stereo)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=272.96
+[2025.09.08-23.04.52:328][686]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.09.08-23.04.52:348][686]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.09.08-23.08.50:166][812]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 22245.427734
+[2025.09.08-23.08.50:432][820]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.08-23.08.50:433][821]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 22245.660156, Update Interval: 338.506409
+[2025.09.08-23.14.32:672][ 76]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 22587.869141
+[2025.09.08-23.14.32:903][ 83]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.08-23.14.32:903][ 84]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 22588.066406, Update Interval: 357.410797
+[2025.09.08-23.20.35:094][910]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 22950.152344
+[2025.09.08-23.20.35:360][918]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.08-23.20.35:360][919]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 22950.386719, Update Interval: 349.341095
+[2025.09.08-23.26.36:483][742]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 23311.492188
+[2025.09.08-23.26.36:842][752]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.08-23.26.36:842][752]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 23311.818359, Update Interval: 309.126251
+[2025.09.08-23.32.14:699][877]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 23649.669922
+[2025.09.08-23.32.14:976][885]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.08-23.32.14:977][885]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 23649.906250, Update Interval: 324.469116
+[2025.09.08-23.38.25:025][977]LogDerivedDataCache: C:/Users/Usuario/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.004 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.09.08-23.38.30:267][133]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 24025.263672
+[2025.09.08-23.38.31:138][159]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.08-23.38.31:138][159]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 24026.099609, Update Interval: 307.890259
+[2025.09.08-23.44.17:050][525]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 24372.021484
+[2025.09.08-23.44.17:316][533]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.08-23.44.17:316][534]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 24372.261719, Update Interval: 355.982544
+[2025.09.08-23.50.55:358][455]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 24770.302734
+[2025.09.08-23.50.55:659][464]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.08-23.50.55:659][464]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 24770.568359, Update Interval: 308.082520
+[2025.09.08-23.56.34:220][607]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 25109.244141
+[2025.09.08-23.56.34:484][615]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.08-23.56.34:485][616]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 25109.474609, Update Interval: 323.725708
+[2025.09.09-00.00.58:227][447]LogStreaming: Display: FlushAsyncLoading(343): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.09-00.00.58:513][447]Candidate modules for hot reload:
+[2025.09.09-00.00.58:513][447]  Slash_Project
+[2025.09.09-00.00.58:568][447]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_5.5/Engine/Build/BatchFiles/Build.bat  -ModuleWithSuffix=Slash_Project,1283 Slash_ProjectEditor Win64 Development -Project="C:/Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Slash_Project.uproject" "C:/Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Slash_Project.uproject"  -IgnoreJunk]
+[2025.09.09-00.00.58:603][447]Warning: Starting HotReload took  0.5s.
+[2025.09.09-00.01.45:740][830]CompilerResultsLog: Using bundled DotNet SDK version: 8.0.300
+[2025.09.09-00.01.45:740][830]CompilerResultsLog: Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" -ModuleWithSuffix=Slash_Project,1283 Slash_ProjectEditor Win64 Development -Project="C:/Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Slash_Project.uproject" "C:/Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Slash_Project.uproject"  -IgnoreJunk
+[2025.09.09-00.01.45:740][830]CompilerResultsLog: Log file: C:\Users\Usuario\AppData\Local\UnrealBuildTool\Log.txt
+[2025.09.09-00.01.45:740][830]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project).
+[2025.09.09-00.01.45:740][830]CompilerResultsLog: Creating makefile for Slash_ProjectEditor (command line arguments changed)
+[2025.09.09-00.01.45:740][830]CompilerResultsLog: Warning: C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Slash_Project.uproject does not list plugin 'HairStrands' as a dependency, but module 'Slash_Project' depends on 'HairStrandsCore'.
+[2025.09.09-00.01.45:741][830]CompilerResultsLog: Building Slash_ProjectEditor...
+[2025.09.09-00.01.45:741][830]CompilerResultsLog: Using Visual Studio 2022 14.38.33145 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130) and Windows 10.0.22621.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2025.09.09-00.01.45:741][830]CompilerResultsLog: [Upgrade]
+[2025.09.09-00.01.45:741][830]CompilerResultsLog: [Upgrade] Using backward-compatible include order. The latest version of UE has changed the order of includes, which may require code changes. The current setting is:
+[2025.09.09-00.01.45:741][830]CompilerResultsLog: [Upgrade]     IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_3
+[2025.09.09-00.01.45:741][830]CompilerResultsLog: [Upgrade] Suppress this message by setting 'IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_5;' in Slash_ProjectEditor.Target.cs.
+[2025.09.09-00.01.45:741][830]CompilerResultsLog: [Upgrade] Alternatively you can set this to 'EngineIncludeOrderVersion.Latest' to always use the latest include order. This will potentially cause compile errors when integrating new versions of the engine.
+[2025.09.09-00.01.45:741][830]CompilerResultsLog: [Upgrade]
+[2025.09.09-00.01.45:741][830]CompilerResultsLog: [Adaptive Build] Excluded from Slash_Project unity file: SlashCharacter.cpp
+[2025.09.09-00.01.45:741][830]CompilerResultsLog: Determining max actions to execute in parallel (6 physical cores, 12 logical cores)
+[2025.09.09-00.01.45:741][830]CompilerResultsLog:   Executing up to 6 processes, one per physical core
+[2025.09.09-00.01.45:741][830]CompilerResultsLog:   Requested 1.5 GB memory per action, 3.34 GB available: limiting max parallel actions to 2
+[2025.09.09-00.01.45:741][830]CompilerResultsLog: Using XGE executor to run 9 action(s)
+[2025.09.09-00.01.45:741][830]CompilerResultsLog: Distributing 9 actions to XGE
+[2025.09.09-00.01.45:741][830]CompilerResultsLog: UnrealBuildTool Compile
+[2025.09.09-00.01.45:741][830]CompilerResultsLog: 
+[2025.09.09-00.01.45:741][830]CompilerResultsLog: --------------------Build System Warning---------------------------------------
+[2025.09.09-00.01.45:741][830]CompilerResultsLog: License not activated:
+[2025.09.09-00.01.45:741][830]CompilerResultsLog:     License is not activated. Please activate the license in the coordinator.
+[2025.09.09-00.01.45:741][830]CompilerResultsLog:     This build will run in standalone mode.
+[2025.09.09-00.01.45:741][830]CompilerResultsLog: 
+[2025.09.09-00.01.45:741][830]CompilerResultsLog: -------------------------------------------------------------------------------
+[2025.09.09-00.01.45:741][830]CompilerResultsLog: 
+[2025.09.09-00.01.45:741][830]CompilerResultsLog: Build ID: {94250558-0858-454B-B8CF-77103B1BFD28}
+[2025.09.09-00.01.45:742][830]CompilerResultsLog: 
+[2025.09.09-00.01.45:742][830]CompilerResultsLog: --------------------Project: Default-------------------------------------------
+[2025.09.09-00.01.45:742][830]CompilerResultsLog: [1/9] Compile [x64] Slash_Project.init.gen.cpp (0:18.50 at +0:00)
+[2025.09.09-00.01.45:742][830]CompilerResultsLog: [2/9] Compile [x64] Weapon.cpp (0:18.51 at +0:00)
+[2025.09.09-00.01.45:742][830]CompilerResultsLog: [3/9] Compile [x64] SlashAnimInstance.cpp (0:18.57 at +0:00)
+[2025.09.09-00.01.45:742][830]CompilerResultsLog: [4/9] Compile [x64] SlashCharacter.gen.cpp (0:18.57 at +0:00)
+[2025.09.09-00.01.45:742][830]CompilerResultsLog: [5/9] Compile [x64] Item.cpp (0:19.03 at +0:00)
+[2025.09.09-00.01.45:742][830]CompilerResultsLog: [6/9] Compile [x64] SlashCharacter.cpp (0:34.89 at +0:00)
+[2025.09.09-00.01.45:742][830]CompilerResultsLog: [7/9] Link [x64] UnrealEditor-Slash_Project-1283.lib (0:00.14 at +0:35)
+[2025.09.09-00.01.45:742][830]CompilerResultsLog:    Creating library C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Intermediate\Build\Win64\x64\UnrealEditor\Development\Slash_Project\UnrealEditor-Slash_Project-1283.lib and object C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Intermediate\Build\Win64\x64\UnrealEditor\Development\Slash_Project\UnrealEditor-Slash_Project-1283.exp
+[2025.09.09-00.01.45:742][830]CompilerResultsLog: [8/9] Link [x64] UnrealEditor-Slash_Project-1283.dll (0:01.34 at +0:35)
+[2025.09.09-00.01.45:742][830]CompilerResultsLog:    Creating object C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Binaries\Win64\UnrealEditor-Slash_Project-1283.exp
+[2025.09.09-00.01.45:742][830]CompilerResultsLog: [9/9] WriteMetadata Slash_ProjectEditor.target (0:00.50 at +0:36)
+[2025.09.09-00.01.45:742][830]CompilerResultsLog: ---------------------- Done ----------------------
+[2025.09.09-00.01.45:742][830]CompilerResultsLog: 
+[2025.09.09-00.01.45:742][830]CompilerResultsLog:     Rebuild All: 1 succeeded, 0 failed, 0 skipped
+[2025.09.09-00.01.45:742][830]CompilerResultsLog: 
+[2025.09.09-00.01.45:742][830]CompilerResultsLog: 1 build system warning(s):
+[2025.09.09-00.01.45:742][830]CompilerResultsLog:    - License not activated
+[2025.09.09-00.01.45:742][830]CompilerResultsLog: 
+[2025.09.09-00.01.45:742][830]CompilerResultsLog: Total time in XGE executor: 41.24 seconds
+[2025.09.09-00.01.45:742][830]CompilerResultsLog: Total execution time: 46.84 seconds
+[2025.09.09-00.01.45:742][830]LogMainFrame: MainFrame: Module compiling took 47.522 seconds
+[2025.09.09-00.01.45:743][830]LogStreaming: Display: FlushAsyncLoading(344): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.09-00.01.46:939][830]LogUObjectHash: Compacting FUObjectHashTables data took  51.67ms
+[2025.09.09-00.01.47:002][830]LogClass: UPackage /Script/Slash_Project Reload.
+[2025.09.09-00.01.47:002][830]LogClass: UClass SlashCharacter Reload.
+[2025.09.09-00.01.47:007][830]LogClass: Could not find existing class SlashCharacter in package /Script/Slash_Project for reload, assuming new or modified class
+[2025.09.09-00.01.47:007][830]LogClass: Function AttackEnd is new or belongs to a modified class.
+[2025.09.09-00.01.47:063][830]Re-instancing SlashCharacter after reload.
+[2025.09.09-00.01.47:795][830]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2025.09.09-00.01.47:890][830]Display: HotReload took 49.8s.
+[2025.09.09-00.01.47:891][830]Display: Reload/Re-instancing Complete: 1 package changed, 1 class changed, 4 classes unchanged, 2 enums unchanged, 4 functions remapped
+[2025.09.09-00.02.57:723][916]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 25492.458984
+[2025.09.09-00.02.57:990][924]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.09-00.02.57:990][924]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 25492.691406, Update Interval: 342.375549
