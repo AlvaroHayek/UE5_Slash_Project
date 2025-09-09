@@ -45,6 +45,12 @@ protected:
 	void PlayEquipMontage(FName SectionName);
 	bool CanDisarm();
 	bool CanArm();
+	
+	UFUNCTION(BlueprintCallable)
+	void Disarm();
+
+	UFUNCTION(BlueprintCallable)
+	void Arm();
 
 private:
 

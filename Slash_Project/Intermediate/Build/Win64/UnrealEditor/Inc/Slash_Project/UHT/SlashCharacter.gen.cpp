@@ -23,6 +23,35 @@ SLASH_PROJECT_API UEnum* Z_Construct_UEnum_Slash_Project_EActionState();
 UPackage* Z_Construct_UPackage__Script_Slash_Project();
 // End Cross Module References
 
+// Begin Class ASlashCharacter Function Arm
+struct Z_Construct_UFunction_ASlashCharacter_Arm_Statics
+{
+#if WITH_METADATA
+	static constexpr UECodeGen_Private::FMetaDataPairParam Function_MetaDataParams[] = {
+		{ "ModuleRelativePath", "Public/Characters/SlashCharacter.h" },
+	};
+#endif // WITH_METADATA
+	static const UECodeGen_Private::FFunctionParams FuncParams;
+};
+const UECodeGen_Private::FFunctionParams Z_Construct_UFunction_ASlashCharacter_Arm_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_ASlashCharacter, nullptr, "Arm", nullptr, nullptr, nullptr, 0, 0, RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x04080401, 0, 0, METADATA_PARAMS(UE_ARRAY_COUNT(Z_Construct_UFunction_ASlashCharacter_Arm_Statics::Function_MetaDataParams), Z_Construct_UFunction_ASlashCharacter_Arm_Statics::Function_MetaDataParams) };
+UFunction* Z_Construct_UFunction_ASlashCharacter_Arm()
+{
+	static UFunction* ReturnFunction = nullptr;
+	if (!ReturnFunction)
+	{
+		UECodeGen_Private::ConstructUFunction(&ReturnFunction, Z_Construct_UFunction_ASlashCharacter_Arm_Statics::FuncParams);
+	}
+	return ReturnFunction;
+}
+DEFINE_FUNCTION(ASlashCharacter::execArm)
+{
+	P_FINISH;
+	P_NATIVE_BEGIN;
+	P_THIS->Arm();
+	P_NATIVE_END;
+}
+// End Class ASlashCharacter Function Arm
+
 // Begin Class ASlashCharacter Function AttackEnd
 struct Z_Construct_UFunction_ASlashCharacter_AttackEnd_Statics
 {
@@ -52,12 +81,43 @@ DEFINE_FUNCTION(ASlashCharacter::execAttackEnd)
 }
 // End Class ASlashCharacter Function AttackEnd
 
+// Begin Class ASlashCharacter Function Disarm
+struct Z_Construct_UFunction_ASlashCharacter_Disarm_Statics
+{
+#if WITH_METADATA
+	static constexpr UECodeGen_Private::FMetaDataPairParam Function_MetaDataParams[] = {
+		{ "ModuleRelativePath", "Public/Characters/SlashCharacter.h" },
+	};
+#endif // WITH_METADATA
+	static const UECodeGen_Private::FFunctionParams FuncParams;
+};
+const UECodeGen_Private::FFunctionParams Z_Construct_UFunction_ASlashCharacter_Disarm_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_ASlashCharacter, nullptr, "Disarm", nullptr, nullptr, nullptr, 0, 0, RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x04080401, 0, 0, METADATA_PARAMS(UE_ARRAY_COUNT(Z_Construct_UFunction_ASlashCharacter_Disarm_Statics::Function_MetaDataParams), Z_Construct_UFunction_ASlashCharacter_Disarm_Statics::Function_MetaDataParams) };
+UFunction* Z_Construct_UFunction_ASlashCharacter_Disarm()
+{
+	static UFunction* ReturnFunction = nullptr;
+	if (!ReturnFunction)
+	{
+		UECodeGen_Private::ConstructUFunction(&ReturnFunction, Z_Construct_UFunction_ASlashCharacter_Disarm_Statics::FuncParams);
+	}
+	return ReturnFunction;
+}
+DEFINE_FUNCTION(ASlashCharacter::execDisarm)
+{
+	P_FINISH;
+	P_NATIVE_BEGIN;
+	P_THIS->Disarm();
+	P_NATIVE_END;
+}
+// End Class ASlashCharacter Function Disarm
+
 // Begin Class ASlashCharacter
 void ASlashCharacter::StaticRegisterNativesASlashCharacter()
 {
 	UClass* Class = ASlashCharacter::StaticClass();
 	static const FNameNativePtrPair Funcs[] = {
+		{ "Arm", &ASlashCharacter::execArm },
 		{ "AttackEnd", &ASlashCharacter::execAttackEnd },
+		{ "Disarm", &ASlashCharacter::execDisarm },
 	};
 	FNativeFunctionRegistrar::RegisterFunctions(Class, Funcs, UE_ARRAY_COUNT(Funcs));
 }
@@ -135,7 +195,9 @@ struct Z_Construct_UClass_ASlashCharacter_Statics
 	static const UECodeGen_Private::FPropertyParamsBase* const PropPointers[];
 	static UObject* (*const DependentSingletons[])();
 	static constexpr FClassFunctionLinkInfo FuncInfo[] = {
+		{ &Z_Construct_UFunction_ASlashCharacter_Arm, "Arm" }, // 1501482038
 		{ &Z_Construct_UFunction_ASlashCharacter_AttackEnd, "AttackEnd" }, // 1329791502
+		{ &Z_Construct_UFunction_ASlashCharacter_Disarm, "Disarm" }, // 162861635
 	};
 	static_assert(UE_ARRAY_COUNT(FuncInfo) < 2048);
 	static constexpr FCppClassTypeInfoStatic StaticCppClassTypeInfo = {
@@ -206,10 +268,10 @@ ASlashCharacter::~ASlashCharacter() {}
 struct Z_CompiledInDeferFile_FID_Users_Usuario_Desktop_UnrealEngineUnity_UE5_Slash_Project_Slash_Project_Source_Slash_Project_Public_Characters_SlashCharacter_h_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
-		{ Z_Construct_UClass_ASlashCharacter, ASlashCharacter::StaticClass, TEXT("ASlashCharacter"), &Z_Registration_Info_UClass_ASlashCharacter, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(ASlashCharacter), 3652360923U) },
+		{ Z_Construct_UClass_ASlashCharacter, ASlashCharacter::StaticClass, TEXT("ASlashCharacter"), &Z_Registration_Info_UClass_ASlashCharacter, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(ASlashCharacter), 2124589392U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_Usuario_Desktop_UnrealEngineUnity_UE5_Slash_Project_Slash_Project_Source_Slash_Project_Public_Characters_SlashCharacter_h_2533830043(TEXT("/Script/Slash_Project"),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_Usuario_Desktop_UnrealEngineUnity_UE5_Slash_Project_Slash_Project_Source_Slash_Project_Public_Characters_SlashCharacter_h_2883831862(TEXT("/Script/Slash_Project"),
 	Z_CompiledInDeferFile_FID_Users_Usuario_Desktop_UnrealEngineUnity_UE5_Slash_Project_Slash_Project_Source_Slash_Project_Public_Characters_SlashCharacter_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_Usuario_Desktop_UnrealEngineUnity_UE5_Slash_Project_Slash_Project_Source_Slash_Project_Public_Characters_SlashCharacter_h_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
