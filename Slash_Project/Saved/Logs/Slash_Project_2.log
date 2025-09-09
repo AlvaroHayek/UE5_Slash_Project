@@ -1654,3 +1654,412 @@ Skipped package /AudioModulation/Volume was expected to be found in plugin Audio
 [2025.09.09-00.20.46:187][ 18]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 25512.130859
 [2025.09.09-00.20.46:420][ 25]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.09.09-00.20.46:420][ 26]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 25512.330078, Update Interval: 325.265656
+[2025.09.09-00.22.25:843][997]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.09-00.22.25:863][997]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.09-00.22.25:863][997]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Minimal_Default_2
+[2025.09.09-00.22.25:868][997]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004466s)
+[2025.09.09-00.22.25:868][997]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Minimal_Default_2.Minimal_Default_2 to /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 (0.004508s)
+[2025.09.09-00.22.25:974][997]LogUObjectHash: Compacting FUObjectHashTables data took   4.66ms
+[2025.09.09-00.22.25:975][997]LogChaosDD: Creating Chaos Debug Draw Scene for world Minimal_Default_2
+[2025.09.09-00.22.25:977][997]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2'.
+[2025.09.09-00.22.25:979][997]LogPlayLevel: PIE: World Init took: (0.003608s)
+[2025.09.09-00.22.25:980][997]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2025.09.09-00.22.25:980][997]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.09-00.22.25:980][997]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.09-00.22.25:980][997]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.09-00.22.25:980][997]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.09-00.22.25:980][997]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.09-00.22.25:980][997]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.09-00.22.25:980][997]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.09-00.22.25:980][997]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.09-00.22.25:980][997]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.09-00.22.25:980][997]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.09-00.22.25:980][997]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.09-00.22.25:983][997]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.09-00.22.26:002][997]LogAudioMixer: Display: Using Audio Hardware Device Auriculares (Vieta Pro Calm 2 Stereo)
+[2025.09.09-00.22.26:003][997]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.09-00.22.26:003][997]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.09-00.22.26:003][997]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.09-00.22.26:003][997]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2025.09.09-00.22.26:004][997]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2025.09.09-00.22.26:007][997]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2025.09.09-00.22.26:007][997]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2025.09.09-00.22.26:007][997]LogInit: FAudioDevice initialized with ID 3.
+[2025.09.09-00.22.26:007][997]LogAudio: Display: Audio Device (ID: 3) registered with world 'Minimal_Default_2'.
+[2025.09.09-00.22.26:007][997]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2025.09.09-00.22.26:010][997]LogLoad: Game class is 'BP_GameMode_C'
+[2025.09.09-00.22.26:020][997]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Echo'
+[2025.09.09-00.22.26:022][997]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 up for play (max tick rate 0) at 2025.09.09-02.22.26
+[2025.09.09-00.22.26:022][997]LogWorld: Bringing up level for play took: 0.012555
+[2025.09.09-00.22.26:025][997]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2025.09.09-00.22.26:028][997]PIE: Server logged in
+[2025.09.09-00.22.26:029][997]PIE: Play in editor total start time 0.177 seconds.
+[2025.09.09-00.22.42:470][490]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=3
+[2025.09.09-00.22.55:421][877]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.09-00.22.55:421][877]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Minimal_Default_2
+[2025.09.09-00.22.55:421][877]LogWorld: UWorld::CleanupWorld for Minimal_Default_2, bSessionEnded=true, bCleanupResources=true
+[2025.09.09-00.22.55:422][877]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.09-00.22.55:425][877]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.09-00.22.55:432][877]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.09-00.22.55:468][877]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.09-00.22.55:469][877]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2025.09.09-00.22.55:469][877]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.09.09-00.22.55:489][877]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.09.09-00.22.55:542][877]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2025.09.09-00.22.55:644][880]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2025.09.09-00.23.59:552][765]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SkeletalMesh_64.svg'. File could not be found
+[2025.09.09-00.24.01:072][810]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2025.09.09-00.24.01:072][810]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_8'.
+[2025.09.09-00.24.02:269][844]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/AncientContent/Characters/Echo/Meshes/Echo.Echo
+[2025.09.09-00.24.02:564][844]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2025.09.09-00.24.02:564][844]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_9'.
+[2025.09.09-00.24.02:574][844]LogStreaming: Display: FlushAsyncLoading(512): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.09-00.24.02:720][844]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'DebugSkelMeshComponent_0' with 'Echo'
+[2025.09.09-00.24.02:721][844]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.09-00.24.03:763][844]LogSlate: Took 0.007345 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.09.09-00.24.14:085][101]LogStreaming: Display: FlushAsyncLoading(516): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.09-00.26.20:263][809]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SkeletalMesh_64.svg'. File could not be found
+[2025.09.09-00.26.20:862][827]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_10
+[2025.09.09-00.26.20:863][827]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_10'.
+[2025.09.09-00.26.20:935][829]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_11
+[2025.09.09-00.26.20:936][829]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_11'.
+[2025.09.09-00.26.20:994][830]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_12
+[2025.09.09-00.26.20:995][830]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_12'.
+[2025.09.09-00.26.26:962][  1]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_13
+[2025.09.09-00.26.26:963][  1]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_13'.
+[2025.09.09-00.26.31:423][128]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_14
+[2025.09.09-00.26.31:423][128]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_14'.
+[2025.09.09-00.26.43:831][492]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/AncientContent/Characters/Echo/Meshes/Echo_Skeleton.Echo_Skeleton
+[2025.09.09-00.26.43:831][492]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_15
+[2025.09.09-00.26.43:832][492]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_15'.
+[2025.09.09-00.26.43:847][492]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'DebugSkelMeshComponent_0' with 'Echo'
+[2025.09.09-00.26.43:847][492]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.09-00.26.44:178][492]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_16
+[2025.09.09-00.26.44:179][492]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_16'.
+[2025.09.09-00.27.10:604][261]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 25896.121094
+[2025.09.09-00.27.10:838][268]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.09-00.27.10:838][269]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 25896.320312, Update Interval: 334.875336
+[2025.09.09-00.27.29:995][838]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_17
+[2025.09.09-00.27.29:996][838]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_17'.
+[2025.09.09-00.27.47:902][369]LogShaderCompilers: Display: ================================================
+[2025.09.09-00.27.47:903][369]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.09.09-00.27.47:903][369]LogShaderCompilers: Display: Total job queries 376, among them cache hits 28 (7.45%), DDC hits 337 (89.63%), Duplicates 4 (1.06%)
+[2025.09.09-00.27.47:903][369]LogShaderCompilers: Display: Tracking 344 distinct input hashes that result in 243 distinct outputs (70.64%)
+[2025.09.09-00.27.47:905][369]LogShaderCompilers: Display: RAM used: 152.55 KiB of 819.20 MiB budget. Usage: 0.02%
+[2025.09.09-00.27.47:905][369]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.09.09-00.27.47:905][369]LogShaderCompilers: Display: Shaders Compiled: 7
+[2025.09.09-00.27.47:905][369]LogShaderCompilers: Display: Jobs assigned 7, completed 7 (100%)
+[2025.09.09-00.27.47:905][369]LogShaderCompilers: Display: Average time worker was idle: 2.58 s
+[2025.09.09-00.27.47:905][369]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.05 s
+[2025.09.09-00.27.47:905][369]LogShaderCompilers: Display: Job execution time: average 1.38 s, max 2.36 s
+[2025.09.09-00.27.47:905][369]LogShaderCompilers: Display: Job life time (pending + execution): average 1.43 s, max 2.40
+[2025.09.09-00.27.47:905][369]LogShaderCompilers: Display: Shader code size: average 6.861 KiB, min 4.148 KiB, max 9.785 KiB
+[2025.09.09-00.27.47:905][369]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 3.49 s
+[2025.09.09-00.27.47:905][369]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2025.09.09-00.27.47:906][369]LogShaderCompilers: Display: Jobs were issued in 7 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.09.09-00.27.47:906][369]LogShaderCompilers: Display: Average processing rate: 2.01 jobs/sec
+[2025.09.09-00.27.47:906][369]LogShaderCompilers: Display: Total thread time: 3.413 s
+[2025.09.09-00.27.47:906][369]LogShaderCompilers: Display: Total thread preprocess time: 10.482 s
+[2025.09.09-00.27.47:906][369]LogShaderCompilers: Display: Percentage time preprocessing: 307.12%
+[2025.09.09-00.27.47:906][369]LogShaderCompilers: Display: Effective parallelization: 0.98 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.09.09-00.27.47:906][369]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.09.09-00.27.47:906][369]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 0.63 sec, max 0.70 sec, min 0.56 sec)
+[2025.09.09-00.27.47:906][369]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    2 times, average 0.47 sec, max 0.53 sec, min 0.42 sec)
+[2025.09.09-00.27.47:907][369]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    2 times, average 0.41 sec, max 0.44 sec, min 0.38 sec)
+[2025.09.09-00.27.47:907][369]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.37 sec, max 0.37 sec, min 0.37 sec)
+[2025.09.09-00.27.47:907][369]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.09.09-00.27.47:907][369]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.09.09-00.27.47:907][369]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 37.19% of total time (compiled    2 times, average 0.63 sec, max 0.70 sec, min 0.56 sec)
+[2025.09.09-00.27.47:907][369]LogShaderCompilers: Display:                                                 FLumenCardPS - 27.79% of total time (compiled    2 times, average 0.47 sec, max 0.53 sec, min 0.42 sec)
+[2025.09.09-00.27.47:907][369]LogShaderCompilers: Display:                                                 FLumenCardVS - 24.14% of total time (compiled    2 times, average 0.41 sec, max 0.44 sec, min 0.38 sec)
+[2025.09.09-00.27.47:907][369]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 10.87% of total time (compiled    1 times, average 0.37 sec, max 0.37 sec, min 0.37 sec)
+[2025.09.09-00.27.47:907][369]LogShaderCompilers: Display:                                                 FDepthOnlyPS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.09.09-00.27.47:907][369]LogShaderCompilers: Display: === Material stats ===
+[2025.09.09-00.27.47:907][369]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.09.09-00.27.47:907][369]LogShaderCompilers: Display: Materials Translated:    166
+[2025.09.09-00.27.47:907][369]LogShaderCompilers: Display: Material Total Translate Time: 0.14 s
+[2025.09.09-00.27.47:907][369]LogShaderCompilers: Display: Material Translation Only: 0.07 s (51%)
+[2025.09.09-00.27.47:907][369]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2025.09.09-00.27.47:907][369]LogShaderCompilers: Display: Material Cache Hits: 43 (26%)
+[2025.09.09-00.27.47:907][369]LogShaderCompilers: Display: ================================================
+[2025.09.09-00.27.58:212][671]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2025.09.09-00.27.58:216][671]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Minimal_Default_2' took 0.116
+[2025.09.09-00.27.58:217][671]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AncientContent/Characters/Echo/Meshes/Echo_Skeleton] ([1] browsable assets)...
+[2025.09.09-00.27.58:239][671]OBJ SavePackage:     Rendered thumbnail for [Skeleton /Game/AncientContent/Characters/Echo/Meshes/Echo_Skeleton.Echo_Skeleton]
+[2025.09.09-00.27.58:239][671]OBJ SavePackage: Finished generating thumbnails for package [/Game/AncientContent/Characters/Echo/Meshes/Echo_Skeleton]
+[2025.09.09-00.27.58:255][671]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AncientContent/Characters/Echo/Meshes/Echo_Skeleton_Auto1
+[2025.09.09-00.27.58:255][671]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Echo_Skeleton_Auto13A946643487B5CD2A3CD7CB4959A97D5.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Autosaves/Game/AncientContent/Characters/Echo/Meshes/Echo_Skeleton_Auto1.uasset'
+[2025.09.09-00.27.58:256][671]LogFileHelpers: Auto-saving content packages took 0.040
+[2025.09.09-00.28.32:713][689]Cmd: TRANSACTION UNDO
+[2025.09.09-00.28.32:713][689]LogEditorTransaction: Undo Rotate Socket
+[2025.09.09-00.28.33:140][689]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.09-00.28.33:196][689]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.09-00.31.45:524][345]Cmd: TRANSACTION UNDO
+[2025.09.09-00.31.45:525][345]LogEditorTransaction: Undo Rotate Socket
+[2025.09.09-00.31.45:952][345]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.09-00.31.45:957][345]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.09-00.32.35:313][800]Cmd: TRANSACTION UNDO
+[2025.09.09-00.32.35:313][800]LogEditorTransaction: Undo Translate Socket
+[2025.09.09-00.32.35:742][800]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.09-00.32.35:748][800]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.09-00.33.44:999][832]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 26290.519531
+[2025.09.09-00.33.45:225][839]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.09-00.33.45:225][839]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 26290.718750, Update Interval: 305.251617
+[2025.09.09-00.33.57:827][210]Cmd: TRANSACTION UNDO
+[2025.09.09-00.33.57:827][210]LogEditorTransaction: Undo Translate Socket
+[2025.09.09-00.33.58:253][210]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.09-00.33.58:260][210]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.09-00.34.03:805][362]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.09.09-00.34.04:576][362]LogSlate: Window 'Save Content' being destroyed
+[2025.09.09-00.34.04:585][362]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.09-00.34.04:610][362]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AncientContent/Characters/Echo/Meshes/Echo_Skeleton] ([1] browsable assets)...
+[2025.09.09-00.34.04:610][362]OBJ SavePackage: Finished generating thumbnails for package [/Game/AncientContent/Characters/Echo/Meshes/Echo_Skeleton]
+[2025.09.09-00.34.04:623][362]LogSavePackage: Moving output files for package: /Game/AncientContent/Characters/Echo/Meshes/Echo_Skeleton
+[2025.09.09-00.34.04:624][362]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Echo_Skeleton351D4FC74A26886E889CF2AAEC08694D.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/AncientContent/Characters/Echo/Meshes/Echo_Skeleton.uasset'
+[2025.09.09-00.34.04:636][362]LogFileHelpers: InternalPromptForCheckoutAndSave took 50.501 ms (total: 249.466 ms)
+[2025.09.09-00.34.04:667][362]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.09-00.34.04:667][362]LogContentValidation: Enabled validators:
+[2025.09.09-00.34.04:667][362]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.09-00.34.04:667][362]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.09-00.34.04:667][362]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.09-00.34.04:667][362]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.09-00.34.04:667][362]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.09-00.34.04:667][362]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.09-00.34.04:667][362]AssetCheck: /Game/AncientContent/Characters/Echo/Meshes/Echo_Skeleton Validating asset
+[2025.09.09-00.34.08:750][478]LogSlate: Window 'Echo_Skeleton' being destroyed
+[2025.09.09-00.34.08:760][478]LogSlate: Window 'Echo_Skeleton' being destroyed
+[2025.09.09-00.34.08:776][478]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.09.09-00.34.08:777][478]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.09-00.34.08:939][478]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2025.09.09-00.34.08:939][478]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.09-00.34.08:948][478]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: World_9, Actor: /Engine/Transient.World_9:PersistentLevel.PreviewGeometryActor_0
+[2025.09.09-00.34.08:948][478]LogActorComponent: UnregisterComponent: (/Engine/Transient.World_9:PersistentLevel.PreviewMeshActor_0.DynamicMeshComponent_0) Not registered. Aborting.
+[2025.09.09-00.34.08:948][478]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: World_9, Actor: /Engine/Transient.World_9:PersistentLevel.PreviewMeshActor_0
+[2025.09.09-00.34.09:119][478]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2025.09.09-00.34.09:119][478]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.09-00.34.09:177][478]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2025.09.09-00.34.09:177][478]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.09-00.34.09:282][478]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2025.09.09-00.34.21:293][837]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/Blueprints/Characters/Animations/AM_Equip.AM_Equip
+[2025.09.09-00.34.21:357][837]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_18
+[2025.09.09-00.34.21:359][837]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_18'.
+[2025.09.09-00.34.21:391][837]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'DebugSkelMeshComponent_0' with 'Echo'
+[2025.09.09-00.34.21:392][837]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.09-00.34.21:772][837]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_19
+[2025.09.09-00.34.21:773][837]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_19'.
+[2025.09.09-00.39.27:999][989]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 26633.380859
+[2025.09.09-00.39.28:800][ 13]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.09-00.39.28:800][ 14]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 26634.146484, Update Interval: 336.501343
+[2025.09.09-00.45.39:495][106]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 27004.640625
+[2025.09.09-00.45.39:729][113]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.09-00.45.39:729][113]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 27004.839844, Update Interval: 356.954865
+[2025.09.09-00.52.25:144][220]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 27410.109375
+[2025.09.09-00.52.25:377][227]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.09-00.52.25:377][228]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 27410.310547, Update Interval: 353.422638
+[2025.09.09-00.53.00:315][270]LogEditorClassViewer: Warning: AssetRegistry Blueprint /Game/AncientContent/Blueprints/Abilities/GameplayAbilityUtils.GameplayAbilityUtils is missing tag value for GeneratedClass. Blueprint will not be available to ClassViewer when unloaded.
+[2025.09.09-00.53.00:418][270]LogEditorClassViewer: Warning: Class /Game/Clinic/Demo/FirstPersonBP/FirstPersonOverview.FirstPersonOverview_C has parent /Script/IntroTutorials.EditorTutorial, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.09.09-00.53.00:418][270]LogEditorClassViewer: Warning: Class /Game/AncientContent/Blueprints/Character/BP_VaultingTriggerComponent.BP_VaultingTriggerComponent_C has parent /Script/AncientGame.AncientGameBoxComponentBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.09.09-00.53.00:418][270]LogEditorClassViewer: Warning: Class /Game/AncientContent/Blueprints/Character/BP_EchoCharacter.BP_EchoCharacter_C has parent /Script/ModularGameplayActors.ModularCharacter, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.09.09-00.53.00:418][270]LogEditorClassViewer: Warning: Class /Game/AncientContent/Blueprints/Camera/BP_ThirdPersonCameraMode.BP_ThirdPersonCameraMode_C has parent /Script/AncientGame.SpringArmCameraMode, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.09.09-00.53.00:418][270]LogEditorClassViewer: Warning: Class /Game/AncientContent/Blueprints/Abilities/GA_Vault.GA_Vault_C has parent /Script/GameplayAbilities.GameplayAbility, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.09.09-00.53.00:418][270]LogEditorClassViewer: Warning: Class /Game/AncientContent/Blueprints/Abilities/GA_SitStand.GA_SitStand_C has parent /Script/GameplayAbilities.GameplayAbility, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.09.09-00.53.00:418][270]LogEditorClassViewer: Warning: Class /Game/AncientContent/Characters/Echo/Echo_AnimBP.Echo_AnimBP_C has parent /Script/AncientGame.AncientGameAnimInstance, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.09.09-00.53.56:069][928]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_20
+[2025.09.09-00.53.56:069][928]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_20'.
+[2025.09.09-00.54.07:207][260]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Blueprints/Characters/ABP_Echo.ABP_Echo
+[2025.09.09-00.54.07:208][260]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_21
+[2025.09.09-00.54.07:209][260]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_21'.
+[2025.09.09-00.54.07:235][260]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_22
+[2025.09.09-00.54.07:236][260]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_22'.
+[2025.09.09-00.54.07:248][260]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'DebugSkelMeshComponent_0' with 'Echo'
+[2025.09.09-00.54.07:249][260]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.09-00.54.07:824][260]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_23
+[2025.09.09-00.54.07:824][260]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_23'.
+[2025.09.09-00.54.18:336][555]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.09.09-00.54.19:194][555]LogSlate: Window 'Save Content' being destroyed
+[2025.09.09-00.54.19:206][555]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.09-00.54.19:261][555]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Characters/ABP_Echo] ([2] browsable assets)...
+[2025.09.09-00.54.19:261][555]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/ABP_Echo]
+[2025.09.09-00.54.19:281][555]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/ABP_Echo
+[2025.09.09-00.54.19:283][555]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/ABP_Echo0160799B4C502A2069EC649BB6793ECD.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Characters/ABP_Echo.uasset'
+[2025.09.09-00.54.19:284][555]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Characters/Animations/AM_Equip] ([1] browsable assets)...
+[2025.09.09-00.54.19:306][555]OBJ SavePackage:     Rendered thumbnail for [AnimMontage /Game/Blueprints/Characters/Animations/AM_Equip.AM_Equip]
+[2025.09.09-00.54.19:306][555]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/Animations/AM_Equip]
+[2025.09.09-00.54.19:309][555]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/Animations/AM_Equip
+[2025.09.09-00.54.19:310][555]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/AM_EquipED3D528C4C68B18BEE0CA587CE66C78E.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Characters/Animations/AM_Equip.uasset'
+[2025.09.09-00.54.19:324][555]LogFileHelpers: InternalPromptForCheckoutAndSave took 118.248 ms (total: 367.714 ms)
+[2025.09.09-00.54.19:366][555]LogContentValidation: Display: Starting to validate 2 assets
+[2025.09.09-00.54.19:366][555]LogContentValidation: Enabled validators:
+[2025.09.09-00.54.19:366][555]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.09-00.54.19:367][555]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.09-00.54.19:367][555]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.09-00.54.19:367][555]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.09-00.54.19:367][555]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.09-00.54.19:367][555]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.09-00.54.19:367][555]AssetCheck: /Game/Blueprints/Characters/ABP_Echo Validating asset
+[2025.09.09-00.54.19:367][555]AssetCheck: /Game/Blueprints/Characters/Animations/AM_Equip Validating asset
+[2025.09.09-00.54.43:470][246]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.09.09-00.54.44:455][246]LogSlate: Window 'Save Content' being destroyed
+[2025.09.09-00.54.44:464][246]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.09-00.54.44:499][246]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Characters/ABP_Echo] ([2] browsable assets)...
+[2025.09.09-00.54.44:530][246]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Blueprints/Characters/ABP_Echo.ABP_Echo]
+[2025.09.09-00.54.44:530][246]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/ABP_Echo]
+[2025.09.09-00.54.44:542][246]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/ABP_Echo
+[2025.09.09-00.54.44:543][246]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/ABP_Echo66E805FA41639259238E61B38CED5232.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Characters/ABP_Echo.uasset'
+[2025.09.09-00.54.44:551][246]LogFileHelpers: InternalPromptForCheckoutAndSave took 86.487 ms (total: 454.201 ms)
+[2025.09.09-00.54.44:578][246]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.09-00.54.44:578][246]LogContentValidation: Enabled validators:
+[2025.09.09-00.54.44:578][246]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.09-00.54.44:578][246]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.09-00.54.44:578][246]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.09-00.54.44:578][246]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.09-00.54.44:578][246]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.09-00.54.44:578][246]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.09-00.54.44:578][246]AssetCheck: /Game/Blueprints/Characters/ABP_Echo Validating asset
+[2025.09.09-00.55.38:065][850]LogBlueprint: Error: [AssetLog] C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Content\Blueprints\Characters\ABP_Echo.uasset: [Compiler] COMPILER ERROR: failed building connection with 'HOTRELOAD Slash Character 0 Object Reference is not compatible with Slash Character Object Reference.' at  Get
+[2025.09.09-00.55.38:066][850]LogBlueprint: Error: [AssetLog] C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Content\Blueprints\Characters\ABP_Echo.uasset: [Compiler] This blueprint (self) is not a SlashCharacter, therefore ' Target ' must have a connection.
+[2025.09.09-00.55.38:067][850]LogBlueprint: Error: [AssetLog] C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Content\Blueprints\Characters\ABP_Echo.uasset: [Compiler] Class for pin  Slash Character  is invalid! It has likely been deleted.
+[2025.09.09-00.55.38:134][850]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.09.09-00.56.02:885][584]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2025.09.09-00.56.02:886][584]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2025.09.09-00.56.08:079][736]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2025.09.09-00.56.08:079][736]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.09-00.56.08:108][736]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2025.09.09-00.56.08:108][736]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.09-00.56.08:170][736]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2025.09.09-00.56.08:170][736]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.09-00.56.08:208][736]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.09.09-00.56.11:577][834]LogSlate: Window 'AM_Equip' being destroyed
+[2025.09.09-00.56.11:583][834]LogSlate: Window 'AM_Equip' being destroyed
+[2025.09.09-00.56.11:662][834]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2025.09.09-00.56.11:662][834]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.09-00.56.11:678][834]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2025.09.09-00.56.11:678][834]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.09-00.56.11:732][834]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2025.09.09-00.56.11:732][834]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.09-00.56.11:769][835]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.09.09-00.56.13:646][892]LogDerivedDataCache: C:/Users/Usuario/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.001 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.09.09-00.56.15:350][943]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.09-00.56.15:361][943]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.09-00.56.15:361][943]BlueprintLog: Warning: Blueprint failed to compile:  ABP_Echo
+[2025.09.09-00.56.18:987][943]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Blueprints/Characters/ABP_Echo.ABP_Echo
+[2025.09.09-00.56.18:987][943]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_24
+[2025.09.09-00.56.18:987][943]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_24'.
+[2025.09.09-00.56.18:997][943]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_25
+[2025.09.09-00.56.18:997][943]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_25'.
+[2025.09.09-00.56.19:012][943]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'DebugSkelMeshComponent_0' with 'Echo'
+[2025.09.09-00.56.19:012][943]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.09-00.56.19:435][943]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_26
+[2025.09.09-00.56.19:436][943]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_26'.
+[2025.09.09-00.56.19:520][943]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2025.09.09-00.56.40:180][500]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.09.09-00.56.40:268][500]LogStall: Shutdown...
+[2025.09.09-00.56.40:269][500]LogStall: Shutdown complete.
+[2025.09.09-00.56.40:318][500]LogSlate: Window 'ABP_Echo' being destroyed
+[2025.09.09-00.56.40:376][500]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2025.09.09-00.56.40:376][500]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.09-00.56.40:388][500]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2025.09.09-00.56.40:388][500]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.09-00.56.40:407][500]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2025.09.09-00.56.40:407][500]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.09-00.56.40:490][500]LogSlate: Window 'Message Log' being destroyed
+[2025.09.09-00.56.40:495][500]LogSlate: Window 'Slash_Project - Unreal Editor' being destroyed
+[2025.09.09-00.56.40:812][500]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2025.09.09-00.56.40:827][500]Cmd: QUIT_EDITOR
+[2025.09.09-00.56.40:829][500]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.09.09-00.56.40:855][501]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.09.09-00.56.40:857][501]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.09.09-00.56.40:858][501]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.09.09-00.56.40:870][501]LogWorld: UWorld::CleanupWorld for Minimal_Default_2, bSessionEnded=true, bCleanupResources=true
+[2025.09.09-00.56.40:871][501]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.09-00.56.40:971][501]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.09.09-00.56.40:994][501]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.09.09-00.56.41:013][501]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2025.09.09-00.56.41:013][501]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.09-00.56.41:016][501]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2025.09.09-00.56.41:016][501]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.09-00.56.41:019][501]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2025.09.09-00.56.41:019][501]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.09-00.56.41:023][501]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.09.09-00.56.41:023][501]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.09-00.56.41:026][501]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.09.09-00.56.41:026][501]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.09-00.56.41:030][501]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.09.09-00.56.41:030][501]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.09-00.56.41:033][501]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2025.09.09-00.56.41:033][501]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.09-00.56.41:036][501]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.09.09-00.56.41:036][501]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.09-00.56.41:039][501]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.09.09-00.56.41:039][501]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.09-00.56.41:043][501]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.09.09-00.56.41:043][501]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.09-00.56.41:046][501]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.09.09-00.56.41:047][501]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.09-00.56.41:050][501]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.09.09-00.56.41:050][501]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.09-00.56.41:055][501]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2025.09.09-00.56.41:055][501]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.09-00.56.41:059][501]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2025.09.09-00.56.41:059][501]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.09-00.56.41:087][501]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.09.09-00.56.41:105][501]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2025.09.09-00.56.41:105][501]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2025.09.09-00.56.41:105][501]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2025.09.09-00.56.41:583][501]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.09.09-00.56.41:583][501]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.09.09-00.56.41:583][501]LogAudio: Display: Audio Device unregistered from world 'Minimal_Default_2'.
+[2025.09.09-00.56.41:583][501]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.09.09-00.56.41:583][501]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.09.09-00.56.41:586][501]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.09.09-00.56.41:611][501]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.09.09-00.56.41:611][501]LogAudio: Display: Audio Device Manager Shutdown
+[2025.09.09-00.56.41:614][501]LogWindowsTextInputMethodSystem: Activated input method: Español (España, internacional) - (Keyboard).
+[2025.09.09-00.56.41:623][501]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.09.09-00.56.41:625][501]LogExit: Preparing to exit.
+[2025.09.09-00.56.41:709][501]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2025.09.09-00.56.41:714][501]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.09-00.56.41:715][501]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.09-00.56.41:728][501]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.09-00.56.41:731][501]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.09-00.56.41:731][501]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.09-00.56.41:731][501]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.09-00.56.41:731][501]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.09-00.56.41:732][501]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.09-00.56.41:732][501]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.09-00.56.41:732][501]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.09-00.56.41:732][501]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.09-00.56.41:732][501]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.09-00.56.41:733][501]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.09-00.56.41:733][501]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.09-00.56.41:733][501]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.09-00.56.41:733][501]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.09-00.56.41:733][501]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.09-00.56.41:733][501]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.09-00.56.41:736][501]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.09-00.56.41:736][501]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.09-00.56.41:736][501]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.09.09-00.56.42:276][501]LogEditorDataStorage: Deinitializing
+[2025.09.09-00.56.42:796][501]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.09.09-00.56.43:090][501]LogExit: Editor shut down
+[2025.09.09-00.56.43:156][501]LogExit: Transaction tracking system shut down
+[2025.09.09-00.56.44:700][501]LogExit: Object subsystem successfully closed.
+[2025.09.09-00.56.44:727][501]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.09.09-00.56.44:840][501]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.09.09-00.56.45:917][501]LogMemoryProfiler: Shutdown
+[2025.09.09-00.56.45:918][501]LogNetworkingProfiler: Shutdown
+[2025.09.09-00.56.45:919][501]LoadingProfiler: Shutdown
+[2025.09.09-00.56.45:920][501]LogTimingProfiler: Shutdown
+[2025.09.09-00.56.47:301][501]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.09.09-00.56.47:305][501]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2025.09.09-00.56.47:305][501]LogNFORDenoise: NFORDenoise function shutting down
+[2025.09.09-00.56.47:309][501]RenderDocPlugin: plugin has been unloaded.
+[2025.09.09-00.56.47:368][501]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.09.09-00.56.47:368][501]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0E95D939-4AB0-E167-9D5E-DEA60A6CDD0F%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.3-39772772%2B%2B%2BUE5%2BRelease-5.5&UserID=9ffb585a415f8b5ea3099583a3a7266d%7C8558b0f0649c41fd8c81a81c61794009%7C7a8c91b2-78e4-4ba2-9615-51435d5b763c&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.09.09-00.56.48:027][501]LogEOSSDK: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.09.09-00.56.48:074][501]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.09.09-00.56.48:074][501]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.09.09-00.56.48:076][501]LogPakFile: Destroying PakPlatformFile
+[2025.09.09-00.56.48:538][501]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.09.09-00.56.48:594][501]LogExit: Exiting.
+[2025.09.09-00.56.48:630][501]Log file closed, 09/09/25 02:56:48
