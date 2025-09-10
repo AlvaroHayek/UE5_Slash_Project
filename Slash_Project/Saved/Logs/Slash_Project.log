@@ -2126,3 +2126,63 @@ Skipped package /AudioModulation/Volume was expected to be found in plugin Audio
 [2025.09.10-12.56.43:204][781]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1355.123047
 [2025.09.10-12.56.43:436][788]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.09.10-12.56.43:436][788]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1355.322021, Update Interval: 337.261261
+[2025.09.10-13.00.57:015][350]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2025.09.10-13.00.58:245][350]LogSlate: Window 'Save Content' being destroyed
+[2025.09.10-13.00.58:254][350]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.10-13.00.58:284][350]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Items/Weapons/BP_Weapon] ([2] browsable assets)...
+[2025.09.10-13.00.58:349][350]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Items/Weapons/BP_Weapon.BP_Weapon]
+[2025.09.10-13.00.58:349][350]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Items/Weapons/BP_Weapon]
+[2025.09.10-13.00.58:361][350]LogSavePackage: Moving output files for package: /Game/Blueprints/Items/Weapons/BP_Weapon
+[2025.09.10-13.00.58:362][350]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/BP_Weapon36DB35784B463E86957D479620E0D54A.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Items/Weapons/BP_Weapon.uasset'
+[2025.09.10-13.00.58:371][350]LogFileHelpers: InternalPromptForCheckoutAndSave took 116.536 ms (total: 1.71 sec)
+[2025.09.10-13.00.58:457][350]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.10-13.00.58:457][350]LogContentValidation: Enabled validators:
+[2025.09.10-13.00.58:457][350]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.10-13.00.58:457][350]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.10-13.00.58:458][350]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.10-13.00.58:458][350]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.10-13.00.58:458][350]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.10-13.00.58:458][350]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.10-13.00.58:458][350]AssetCheck: /Game/Blueprints/Items/Weapons/BP_Weapon Validating asset
+[2025.09.10-13.02.36:747][286]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1708.667969
+[2025.09.10-13.02.36:981][293]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.10-13.02.36:981][293]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1708.868530, Update Interval: 323.705566
+[2025.09.10-13.08.54:229][537]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2086.150879
+[2025.09.10-13.08.54:464][544]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.10-13.08.54:464][544]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2086.353271, Update Interval: 348.852203
+[2025.09.10-13.10.51:683][ 29]LogEditorClassViewer: Warning: AssetRegistry Blueprint /Game/AncientContent/Blueprints/Abilities/GameplayAbilityUtils.GameplayAbilityUtils is missing tag value for GeneratedClass. Blueprint will not be available to ClassViewer when unloaded.
+[2025.09.10-13.10.51:751][ 29]LogEditorClassViewer: Warning: Class /Game/Clinic/Demo/FirstPersonBP/FirstPersonOverview.FirstPersonOverview_C has parent /Script/IntroTutorials.EditorTutorial, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.09.10-13.10.51:751][ 29]LogEditorClassViewer: Warning: Class /Game/AncientContent/Blueprints/Character/BP_VaultingTriggerComponent.BP_VaultingTriggerComponent_C has parent /Script/AncientGame.AncientGameBoxComponentBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.09.10-13.10.51:751][ 29]LogEditorClassViewer: Warning: Class /Game/AncientContent/Blueprints/Character/BP_EchoCharacter.BP_EchoCharacter_C has parent /Script/ModularGameplayActors.ModularCharacter, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.09.10-13.10.51:752][ 29]LogEditorClassViewer: Warning: Class /Game/AncientContent/Blueprints/Camera/BP_ThirdPersonCameraMode.BP_ThirdPersonCameraMode_C has parent /Script/AncientGame.SpringArmCameraMode, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.09.10-13.10.51:752][ 29]LogEditorClassViewer: Warning: Class /Game/AncientContent/Blueprints/Abilities/GA_Vault.GA_Vault_C has parent /Script/GameplayAbilities.GameplayAbility, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.09.10-13.10.51:752][ 29]LogEditorClassViewer: Warning: Class /Game/AncientContent/Blueprints/Abilities/GA_SitStand.GA_SitStand_C has parent /Script/GameplayAbilities.GameplayAbility, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.09.10-13.10.51:752][ 29]LogEditorClassViewer: Warning: Class /Game/AncientContent/Characters/Echo/Echo_AnimBP.Echo_AnimBP_C has parent /Script/AncientGame.AncientGameAnimInstance, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.09.10-13.11.29:498][ 47]Running C:/Program Files/Epic Games/UE_5.5/Engine/Build/BatchFiles/Build.bat  -projectfiles -project="C:/Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Slash_Project.uproject" -game -rocket -progress
+[2025.09.10-13.11.29:645][ 47]Using bundled DotNet SDK version: 8.0.300
+[2025.09.10-13.11.29:645][ 47]Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" -projectfiles -project="C:/Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Slash_Project.uproject" -game -rocket -progress
+[2025.09.10-13.11.30:251][ 47]Log file: C:\Users\Usuario\AppData\Local\UnrealBuildTool\Log_GPF.txt
+[2025.09.10-13.11.33:175][ 47]
+[2025.09.10-13.11.33:175][ 47]Generating VisualStudio project files:
+[2025.09.10-13.11.33:175][ 47]Discovering modules, targets and source code for project...
+[2025.09.10-13.11.39:025][ 47]Binding IntelliSense data...
+[2025.09.10-13.11.40:337][ 47]Exception while generating include data for UnrealEditor: System.ArgumentNullException: Value cannot be null. (Parameter 'element')
+[2025.09.10-13.11.40:337][ 47]   at System.ArgumentNullException.Throw(String paramName)
+[2025.09.10-13.11.40:337][ 47]   at System.Attribute.GetCustomAttributes(MemberInfo element, Type attributeType, Boolean inherit)
+[2025.09.10-13.11.40:337][ 47]   at System.Reflection.CustomAttributeExtensions.GetCustomAttributes[T](MemberInfo element)
+[2025.09.10-13.11.40:337][ 47]   at UnrealBuildTool.ModuleRules.IsValidForTarget(Type moduleType, ReadOnlyTargetRules targetRules, String& invalidReason) in C:\Program Files\Epic Games\UE_5.5\Engine\Source\Programs\UnrealBuildTool\Configuration\ModuleRules.cs:line 1680
+[2025.09.10-13.11.40:337][ 47]   at UnrealBuildTool.UEBuildTarget.AddAllValidModulesToTarget(ILogger Logger) in C:\Program Files\Epic Games\UE_5.5\Engine\Source\Programs\UnrealBuildTool\Configuration\UEBuildTarget.cs:line 4266
+[2025.09.10-13.11.40:337][ 47]   at UnrealBuildTool.UEBuildTarget.PreBuildSetup(ILogger Logger) in C:\Program Files\Epic Games\UE_5.5\Engine\Source\Programs\UnrealBuildTool\Configuration\UEBuildTarget.cs:line 3720
+[2025.09.10-13.11.40:337][ 47]   at UnrealBuildTool.UEBuildTarget.Create(TargetDescriptor Descriptor, Boolean bSkipRulesCompile, Boolean bForceRulesCompile, Boolean bUsePrecompiled, UnrealIntermediateEnvironment IntermediateEnvironment, ILogger Logger) in C:\Program Files\Epic Games\UE_5.5\Engine\Source\Programs\UnrealBuildTool\Configuration\UEBuildTarget.cs:line 1390
+[2025.09.10-13.11.40:338][ 47]   at UnrealBuildTool.ProjectFileGenerator.GenerateIntelliSenseData(String[] Arguments, List`1 Targets, ILogger Logger) in C:\Program Files\Epic Games\UE_5.5\Engine\Source\Programs\UnrealBuildTool\ProjectFiles\ProjectFileGenerator.cs:line 2176
+[2025.09.10-13.11.41:348][ 47]Warning: C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Slash_Project.uproject does not list plugin 'HairStrands' as a dependency, but module 'Slash_Project' depends on 'HairStrandsCore'.
+[2025.09.10-13.11.42:560][ 47]Binding IntelliSense data... 100%
+[2025.09.10-13.11.42:661][ 47]Writing project files...
+[2025.09.10-13.11.44:994][ 47]Writing project files... 100%
+[2025.09.10-13.11.44:995][ 47]
+[2025.09.10-13.11.44:995][ 47]Generating QueryTargets data for editor...
+[2025.09.10-13.11.44:995][ 47]Total execution time: 15.13 seconds
+[2025.09.10-13.11.45:217][ 47]LogStreaming: Display: FlushAsyncLoading(513): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.10-13.11.45:251][ 47]Candidate modules for hot reload:
+[2025.09.10-13.11.45:251][ 47]  Slash_Project
+[2025.09.10-13.11.45:260][ 47]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_5.5/Engine/Build/BatchFiles/Build.bat  -ModuleWithSuffix=Slash_Project,9536 Slash_ProjectEditor Win64 Development -Project="C:/Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Slash_Project.uproject" "C:/Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Slash_Project.uproject"  -IgnoreJunk]

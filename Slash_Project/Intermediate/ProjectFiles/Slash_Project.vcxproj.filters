@@ -59,6 +59,12 @@
     <ClCompile Include="..\..\Source\Slash_Project\Private\Characters\SlashCharacter.cpp">
       <Filter>Source\Slash_Project\Private\Characters</Filter>
     </ClCompile>
+    <Filter Include="Source\Slash_Project\Private\Interfaces">
+      <UniqueIdentifier>{46BE9237-4C2F-32E2-87A4-95FFB5222DB2}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Slash_Project\Private\Interfaces\HitInterface.cpp">
+      <Filter>Source\Slash_Project\Private\Interfaces</Filter>
+    </ClCompile>
     <Filter Include="Source\Slash_Project\Private\Items">
       <UniqueIdentifier>{B5ABFF33-EF40-3A20-8924-52FD06A882A6}</UniqueIdentifier>
     </Filter>
@@ -91,6 +97,12 @@
     </ClCompile>
     <ClCompile Include="..\..\Source\Slash_Project\Public\Characters\SlashCharacter.h">
       <Filter>Source\Slash_Project\Public\Characters</Filter>
+    </ClCompile>
+    <Filter Include="Source\Slash_Project\Public\Interfaces">
+      <UniqueIdentifier>{38480C40-8164-3928-B754-AA8293745698}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Slash_Project\Public\Interfaces\HitInterface.h">
+      <Filter>Source\Slash_Project\Public\Interfaces</Filter>
     </ClCompile>
     <Filter Include="Source\Slash_Project\Public\Items">
       <UniqueIdentifier>{71A1109C-7BB5-3049-A640-C7E6DBB3768D}</UniqueIdentifier>
