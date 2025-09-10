@@ -3904,3 +3904,129 @@ Skipped package /AudioModulation/Volume was expected to be found in plugin Audio
 [2025.09.10-01.29.33:786][487]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 33266.570312
 [2025.09.10-01.29.34:021][494]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.09.10-01.29.34:021][494]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 33266.769531, Update Interval: 346.718964
+[2025.09.10-01.36.14:765][510]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 33672.480469
+[2025.09.10-01.36.14:999][517]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.10-01.36.14:999][517]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 33672.683594, Update Interval: 327.175507
+[2025.09.10-01.42.12:904][245]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 34033.878906
+[2025.09.10-01.42.13:138][252]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.10-01.42.13:138][252]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 34034.082031, Update Interval: 303.914917
+[2025.09.10-01.43.05:787][820]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2025.09.10-01.43.50:049][141]LogUObjectHash: Compacting FUObjectHashTables data took  40.32ms
+[2025.09.10-01.43.50:052][141]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Minimal_Default_2' took 0.065
+[2025.09.10-01.43.50:053][141]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Items/Weapons/BP_Weapon] ([2] browsable assets)...
+[2025.09.10-01.43.50:151][141]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Items/Weapons/BP_Weapon.BP_Weapon]
+[2025.09.10-01.43.50:151][141]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Items/Weapons/BP_Weapon]
+[2025.09.10-01.43.50:161][141]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Items/Weapons/BP_Weapon_Auto5
+[2025.09.10-01.43.50:162][141]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/BP_Weapon_Auto5015BB3E24D810D5FFF730BA2BBB5F0D5.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Autosaves/Game/Blueprints/Items/Weapons/BP_Weapon_Auto5.uasset'
+[2025.09.10-01.43.50:163][141]LogFileHelpers: Auto-saving content packages took 0.111
+[2025.09.10-01.47.48:214][268]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 34371.804688
+[2025.09.10-01.47.48:448][275]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.10-01.47.48:448][276]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 34372.007812, Update Interval: 355.609009
+[2025.09.10-01.53.43:145][891]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2025.09.10-01.53.44:452][891]LogSlate: Window 'Save Content' being destroyed
+[2025.09.10-01.53.44:461][891]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.10-01.53.44:486][891]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Items/Weapons/BP_Weapon] ([2] browsable assets)...
+[2025.09.10-01.53.44:486][891]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Items/Weapons/BP_Weapon]
+[2025.09.10-01.53.44:496][891]LogSavePackage: Moving output files for package: /Game/Blueprints/Items/Weapons/BP_Weapon
+[2025.09.10-01.53.44:497][891]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/BP_Weapon1D45864D4D72A67A2F793E9BEADE1CD1.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Items/Weapons/BP_Weapon.uasset'
+[2025.09.10-01.53.44:506][891]LogFileHelpers: InternalPromptForCheckoutAndSave took 44.360 ms (total: 2.99 sec)
+[2025.09.10-01.53.44:543][891]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.10-01.53.44:543][891]LogContentValidation: Enabled validators:
+[2025.09.10-01.53.44:543][891]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.10-01.53.44:543][891]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.10-01.53.44:543][891]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.10-01.53.44:544][891]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.10-01.53.44:544][891]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.10-01.53.44:544][891]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.10-01.53.44:544][891]AssetCheck: /Game/Blueprints/Items/Weapons/BP_Weapon Validating asset
+[2025.09.10-01.53.56:043][232]Candidate modules for hot reload:
+[2025.09.10-01.53.56:043][232]  Slash_Project
+[2025.09.10-01.53.56:052][232]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_5.5/Engine/Build/BatchFiles/Build.bat  -ModuleWithSuffix=Slash_Project,1259 Slash_ProjectEditor Win64 Development -Project="C:/Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Slash_Project.uproject" "C:/Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Slash_Project.uproject"  -IgnoreJunk]
+[2025.09.10-01.53.56:081][232]Warning: Starting HotReload took  0.1s.
+[2025.09.10-01.54.43:176][641]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 34789.820312
+[2025.09.10-01.54.43:409][648]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.10-01.54.43:409][648]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 34790.023438, Update Interval: 329.132965
+[2025.09.10-01.54.47:014][756]CompilerResultsLog: Using bundled DotNet SDK version: 8.0.300
+[2025.09.10-01.54.47:014][756]CompilerResultsLog: Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" -ModuleWithSuffix=Slash_Project,1259 Slash_ProjectEditor Win64 Development -Project="C:/Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Slash_Project.uproject" "C:/Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Slash_Project.uproject"  -IgnoreJunk
+[2025.09.10-01.54.47:014][756]CompilerResultsLog: Log file: C:\Users\Usuario\AppData\Local\UnrealBuildTool\Log.txt
+[2025.09.10-01.54.47:014][756]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project).
+[2025.09.10-01.54.47:014][756]CompilerResultsLog: Creating makefile for Slash_ProjectEditor (command line arguments changed)
+[2025.09.10-01.54.47:014][756]CompilerResultsLog: Warning: C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Slash_Project.uproject does not list plugin 'HairStrands' as a dependency, but module 'Slash_Project' depends on 'HairStrandsCore'.
+[2025.09.10-01.54.47:014][756]CompilerResultsLog: Building Slash_ProjectEditor...
+[2025.09.10-01.54.47:014][756]CompilerResultsLog: Using Visual Studio 2022 14.38.33145 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130) and Windows 10.0.22621.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2025.09.10-01.54.47:014][756]CompilerResultsLog: [Upgrade]
+[2025.09.10-01.54.47:014][756]CompilerResultsLog: [Upgrade] Using backward-compatible include order. The latest version of UE has changed the order of includes, which may require code changes. The current setting is:
+[2025.09.10-01.54.47:014][756]CompilerResultsLog: [Upgrade]     IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_3
+[2025.09.10-01.54.47:014][756]CompilerResultsLog: [Upgrade] Suppress this message by setting 'IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_5;' in Slash_ProjectEditor.Target.cs.
+[2025.09.10-01.54.47:014][756]CompilerResultsLog: [Upgrade] Alternatively you can set this to 'EngineIncludeOrderVersion.Latest' to always use the latest include order. This will potentially cause compile errors when integrating new versions of the engine.
+[2025.09.10-01.54.47:014][756]CompilerResultsLog: [Upgrade]
+[2025.09.10-01.54.47:014][756]CompilerResultsLog: [Adaptive Build] Excluded from Slash_Project unity file: Weapon.cpp
+[2025.09.10-01.54.47:014][756]CompilerResultsLog: Determining max actions to execute in parallel (6 physical cores, 12 logical cores)
+[2025.09.10-01.54.47:014][756]CompilerResultsLog:   Executing up to 6 processes, one per physical core
+[2025.09.10-01.54.47:014][756]CompilerResultsLog:   Requested 1.5 GB memory per action, 2.55 GB available: limiting max parallel actions to 1
+[2025.09.10-01.54.47:014][756]CompilerResultsLog: Using XGE executor to run 7 action(s)
+[2025.09.10-01.54.47:014][756]CompilerResultsLog: Distributing 7 actions to XGE
+[2025.09.10-01.54.47:014][756]CompilerResultsLog: UnrealBuildTool Compile
+[2025.09.10-01.54.47:014][756]CompilerResultsLog: 
+[2025.09.10-01.54.47:014][756]CompilerResultsLog: --------------------Build System Warning---------------------------------------
+[2025.09.10-01.54.47:014][756]CompilerResultsLog: License not activated:
+[2025.09.10-01.54.47:014][756]CompilerResultsLog:     License is not activated. Please activate the license in the coordinator.
+[2025.09.10-01.54.47:014][756]CompilerResultsLog:     This build will run in standalone mode.
+[2025.09.10-01.54.47:014][756]CompilerResultsLog: 
+[2025.09.10-01.54.47:014][756]CompilerResultsLog: -------------------------------------------------------------------------------
+[2025.09.10-01.54.47:014][756]CompilerResultsLog: 
+[2025.09.10-01.54.47:014][756]CompilerResultsLog: Build ID: {B8FBCBC5-9ECB-4FA6-985D-3F6AFD4FBB9E}
+[2025.09.10-01.54.47:014][756]CompilerResultsLog: 
+[2025.09.10-01.54.47:014][756]CompilerResultsLog: --------------------Project: Default-------------------------------------------
+[2025.09.10-01.54.47:014][756]CompilerResultsLog: [1/7] Compile [x64] Slash_Project.init.gen.cpp (0:19.21 at +0:00)
+[2025.09.10-01.54.47:015][756]CompilerResultsLog: [2/7] Compile [x64] Weapon.gen.cpp (0:19.23 at +0:00)
+[2025.09.10-01.54.47:015][756]CompilerResultsLog: [3/7] Compile [x64] Weapon.cpp (0:19.37 at +0:00)
+[2025.09.10-01.54.47:015][756]CompilerResultsLog: [4/7] Compile [x64] SlashCharacter.cpp (0:38.84 at +0:00)
+[2025.09.10-01.54.47:015][756]CompilerResultsLog: [5/7] Link [x64] UnrealEditor-Slash_Project-1259.lib (0:00.75 at +0:39)
+[2025.09.10-01.54.47:015][756]CompilerResultsLog:    Creating library C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Intermediate\Build\Win64\x64\UnrealEditor\Development\Slash_Project\UnrealEditor-Slash_Project-1259.lib and object C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Intermediate\Build\Win64\x64\UnrealEditor\Development\Slash_Project\UnrealEditor-Slash_Project-1259.exp
+[2025.09.10-01.54.47:015][756]CompilerResultsLog: [6/7] Link [x64] UnrealEditor-Slash_Project-1259.dll (0:01.57 at +0:39)
+[2025.09.10-01.54.47:015][756]CompilerResultsLog:    Creating object C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Binaries\Win64\UnrealEditor-Slash_Project-1259.exp
+[2025.09.10-01.54.47:015][756]CompilerResultsLog: [7/7] WriteMetadata Slash_ProjectEditor.target (0:00.42 at +0:40)
+[2025.09.10-01.54.47:015][756]CompilerResultsLog: ---------------------- Done ----------------------
+[2025.09.10-01.54.47:015][756]CompilerResultsLog: 
+[2025.09.10-01.54.47:015][756]CompilerResultsLog:     Rebuild All: 1 succeeded, 0 failed, 0 skipped
+[2025.09.10-01.54.47:015][756]CompilerResultsLog: 
+[2025.09.10-01.54.47:015][756]CompilerResultsLog: 1 build system warning(s):
+[2025.09.10-01.54.47:015][756]CompilerResultsLog:    - License not activated
+[2025.09.10-01.54.47:015][756]CompilerResultsLog: 
+[2025.09.10-01.54.47:015][756]CompilerResultsLog: Total time in XGE executor: 46.14 seconds
+[2025.09.10-01.54.47:015][756]CompilerResultsLog: Total execution time: 50.44 seconds
+[2025.09.10-01.54.47:023][756]LogMainFrame: MainFrame: Module compiling took 50.989 seconds
+[2025.09.10-01.54.47:054][756]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.09.10-01.54.47:753][756]LogClass: UPackage /Script/Slash_Project Reload.
+[2025.09.10-01.54.47:754][756]LogClass: UClass Weapon Reload.
+[2025.09.10-01.54.47:764][756]LogClass: Could not find existing class Weapon in package /Script/Slash_Project for reload, assuming new or modified class
+[2025.09.10-01.54.47:766][756]LogClass: Function OnBoxOverlap is new or belongs to a modified class.
+[2025.09.10-01.54.47:852][756]Re-instancing Weapon after reload.
+[2025.09.10-01.54.48:636][756]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2025.09.10-01.54.48:913][756]LogBlueprint: Warning: Blueprint /Game/AncientContent/Blueprints/Abilities/GameplayAbilityUtils is missing GeneratedClass asset tag
+[2025.09.10-01.54.48:977][756]Display: HotReload took 53.0s.
+[2025.09.10-01.54.48:978][756]Display: Reload/Re-instancing Complete: 1 package changed, 1 class changed, 4 classes unchanged, 2 enums unchanged, 8 functions remapped
+[2025.09.10-01.55.58:638][688]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2025.09.10-01.56.00:133][688]LogSlate: Window 'Save Content' being destroyed
+[2025.09.10-01.56.00:141][688]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.10-01.56.00:304][688]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2025.09.10-01.56.00:328][688]LogSavePackage: Moving output files for package: /Game/Maps/Minimal_Default_2
+[2025.09.10-01.56.00:329][688]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Minimal_Default_217F978B349445C2EAF409992BE1FA0EB.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Maps/Minimal_Default_2.umap'
+[2025.09.10-01.56.00:352][688]LogFileHelpers: Saving map 'Minimal_Default_2' took 0.173
+[2025.09.10-01.56.00:352][688]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Items/Weapons/BP_Weapon] ([2] browsable assets)...
+[2025.09.10-01.56.00:380][688]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Items/Weapons/BP_Weapon.BP_Weapon]
+[2025.09.10-01.56.00:380][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Items/Weapons/BP_Weapon]
+[2025.09.10-01.56.00:393][688]LogSavePackage: Moving output files for package: /Game/Blueprints/Items/Weapons/BP_Weapon
+[2025.09.10-01.56.00:394][688]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/BP_Weapon2FAB8A984E8FD79B4EE5159E0D0B3A57.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Items/Weapons/BP_Weapon.uasset'
+[2025.09.10-01.56.00:402][688]LogFileHelpers: InternalPromptForCheckoutAndSave took 261.341 ms (total: 3.25 sec)
+[2025.09.10-01.56.00:428][688]LogContentValidation: Display: Starting to validate 2 assets
+[2025.09.10-01.56.00:428][688]LogContentValidation: Enabled validators:
+[2025.09.10-01.56.00:428][688]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.10-01.56.00:428][688]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.10-01.56.00:428][688]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.10-01.56.00:428][688]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.10-01.56.00:428][688]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.10-01.56.00:428][688]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.10-01.56.00:428][688]AssetCheck: /Game/Maps/Minimal_Default_2 Validating asset
+[2025.09.10-01.56.00:429][688]AssetCheck: /Game/Blueprints/Items/Weapons/BP_Weapon Validating asset
