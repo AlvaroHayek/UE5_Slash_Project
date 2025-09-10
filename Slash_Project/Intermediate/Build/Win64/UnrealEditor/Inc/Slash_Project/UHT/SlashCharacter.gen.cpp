@@ -14,6 +14,7 @@ ENGINE_API UClass* Z_Construct_UClass_ACharacter();
 ENGINE_API UClass* Z_Construct_UClass_UAnimMontage_NoRegister();
 ENGINE_API UClass* Z_Construct_UClass_UCameraComponent_NoRegister();
 ENGINE_API UClass* Z_Construct_UClass_USpringArmComponent_NoRegister();
+ENGINE_API UEnum* Z_Construct_UEnum_Engine_ECollisionEnabled();
 HAIRSTRANDSCORE_API UClass* Z_Construct_UClass_UGroomComponent_NoRegister();
 SLASH_PROJECT_API UClass* Z_Construct_UClass_AItem_NoRegister();
 SLASH_PROJECT_API UClass* Z_Construct_UClass_ASlashCharacter();
@@ -139,6 +140,48 @@ DEFINE_FUNCTION(ASlashCharacter::execFinishEquipping)
 }
 // End Class ASlashCharacter Function FinishEquipping
 
+// Begin Class ASlashCharacter Function SetWeaponCollisionEnabled
+struct Z_Construct_UFunction_ASlashCharacter_SetWeaponCollisionEnabled_Statics
+{
+	struct SlashCharacter_eventSetWeaponCollisionEnabled_Parms
+	{
+		TEnumAsByte<ECollisionEnabled::Type> CollisionEnabled;
+	};
+#if WITH_METADATA
+	static constexpr UECodeGen_Private::FMetaDataPairParam Function_MetaDataParams[] = {
+		{ "ModuleRelativePath", "Public/Characters/SlashCharacter.h" },
+	};
+#endif // WITH_METADATA
+	static const UECodeGen_Private::FBytePropertyParams NewProp_CollisionEnabled;
+	static const UECodeGen_Private::FPropertyParamsBase* const PropPointers[];
+	static const UECodeGen_Private::FFunctionParams FuncParams;
+};
+const UECodeGen_Private::FBytePropertyParams Z_Construct_UFunction_ASlashCharacter_SetWeaponCollisionEnabled_Statics::NewProp_CollisionEnabled = { "CollisionEnabled", nullptr, (EPropertyFlags)0x0010000000000080, UECodeGen_Private::EPropertyGenFlags::Byte, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(SlashCharacter_eventSetWeaponCollisionEnabled_Parms, CollisionEnabled), Z_Construct_UEnum_Engine_ECollisionEnabled, METADATA_PARAMS(0, nullptr) }; // 2362857466
+const UECodeGen_Private::FPropertyParamsBase* const Z_Construct_UFunction_ASlashCharacter_SetWeaponCollisionEnabled_Statics::PropPointers[] = {
+	(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UFunction_ASlashCharacter_SetWeaponCollisionEnabled_Statics::NewProp_CollisionEnabled,
+};
+static_assert(UE_ARRAY_COUNT(Z_Construct_UFunction_ASlashCharacter_SetWeaponCollisionEnabled_Statics::PropPointers) < 2048);
+const UECodeGen_Private::FFunctionParams Z_Construct_UFunction_ASlashCharacter_SetWeaponCollisionEnabled_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_ASlashCharacter, nullptr, "SetWeaponCollisionEnabled", nullptr, nullptr, Z_Construct_UFunction_ASlashCharacter_SetWeaponCollisionEnabled_Statics::PropPointers, UE_ARRAY_COUNT(Z_Construct_UFunction_ASlashCharacter_SetWeaponCollisionEnabled_Statics::PropPointers), sizeof(Z_Construct_UFunction_ASlashCharacter_SetWeaponCollisionEnabled_Statics::SlashCharacter_eventSetWeaponCollisionEnabled_Parms), RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x04020401, 0, 0, METADATA_PARAMS(UE_ARRAY_COUNT(Z_Construct_UFunction_ASlashCharacter_SetWeaponCollisionEnabled_Statics::Function_MetaDataParams), Z_Construct_UFunction_ASlashCharacter_SetWeaponCollisionEnabled_Statics::Function_MetaDataParams) };
+static_assert(sizeof(Z_Construct_UFunction_ASlashCharacter_SetWeaponCollisionEnabled_Statics::SlashCharacter_eventSetWeaponCollisionEnabled_Parms) < MAX_uint16);
+UFunction* Z_Construct_UFunction_ASlashCharacter_SetWeaponCollisionEnabled()
+{
+	static UFunction* ReturnFunction = nullptr;
+	if (!ReturnFunction)
+	{
+		UECodeGen_Private::ConstructUFunction(&ReturnFunction, Z_Construct_UFunction_ASlashCharacter_SetWeaponCollisionEnabled_Statics::FuncParams);
+	}
+	return ReturnFunction;
+}
+DEFINE_FUNCTION(ASlashCharacter::execSetWeaponCollisionEnabled)
+{
+	P_GET_PROPERTY(FByteProperty,Z_Param_CollisionEnabled);
+	P_FINISH;
+	P_NATIVE_BEGIN;
+	P_THIS->SetWeaponCollisionEnabled(ECollisionEnabled::Type(Z_Param_CollisionEnabled));
+	P_NATIVE_END;
+}
+// End Class ASlashCharacter Function SetWeaponCollisionEnabled
+
 // Begin Class ASlashCharacter
 void ASlashCharacter::StaticRegisterNativesASlashCharacter()
 {
@@ -148,6 +191,7 @@ void ASlashCharacter::StaticRegisterNativesASlashCharacter()
 		{ "AttackEnd", &ASlashCharacter::execAttackEnd },
 		{ "Disarm", &ASlashCharacter::execDisarm },
 		{ "FinishEquipping", &ASlashCharacter::execFinishEquipping },
+		{ "SetWeaponCollisionEnabled", &ASlashCharacter::execSetWeaponCollisionEnabled },
 	};
 	FNativeFunctionRegistrar::RegisterFunctions(Class, Funcs, UE_ARRAY_COUNT(Funcs));
 }
@@ -229,6 +273,7 @@ struct Z_Construct_UClass_ASlashCharacter_Statics
 		{ &Z_Construct_UFunction_ASlashCharacter_AttackEnd, "AttackEnd" }, // 1329791502
 		{ &Z_Construct_UFunction_ASlashCharacter_Disarm, "Disarm" }, // 162861635
 		{ &Z_Construct_UFunction_ASlashCharacter_FinishEquipping, "FinishEquipping" }, // 1291965759
+		{ &Z_Construct_UFunction_ASlashCharacter_SetWeaponCollisionEnabled, "SetWeaponCollisionEnabled" }, // 3637259585
 	};
 	static_assert(UE_ARRAY_COUNT(FuncInfo) < 2048);
 	static constexpr FCppClassTypeInfoStatic StaticCppClassTypeInfo = {
@@ -299,10 +344,10 @@ ASlashCharacter::~ASlashCharacter() {}
 struct Z_CompiledInDeferFile_FID_Users_Usuario_Desktop_UnrealEngineUnity_UE5_Slash_Project_Slash_Project_Source_Slash_Project_Public_Characters_SlashCharacter_h_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
-		{ Z_Construct_UClass_ASlashCharacter, ASlashCharacter::StaticClass, TEXT("ASlashCharacter"), &Z_Registration_Info_UClass_ASlashCharacter, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(ASlashCharacter), 3713354912U) },
+		{ Z_Construct_UClass_ASlashCharacter, ASlashCharacter::StaticClass, TEXT("ASlashCharacter"), &Z_Registration_Info_UClass_ASlashCharacter, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(ASlashCharacter), 737492072U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_Usuario_Desktop_UnrealEngineUnity_UE5_Slash_Project_Slash_Project_Source_Slash_Project_Public_Characters_SlashCharacter_h_1628661580(TEXT("/Script/Slash_Project"),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_Usuario_Desktop_UnrealEngineUnity_UE5_Slash_Project_Slash_Project_Source_Slash_Project_Public_Characters_SlashCharacter_h_2329433147(TEXT("/Script/Slash_Project"),
 	Z_CompiledInDeferFile_FID_Users_Usuario_Desktop_UnrealEngineUnity_UE5_Slash_Project_Slash_Project_Source_Slash_Project_Public_Characters_SlashCharacter_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_Usuario_Desktop_UnrealEngineUnity_UE5_Slash_Project_Slash_Project_Source_Slash_Project_Public_Characters_SlashCharacter_h_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
