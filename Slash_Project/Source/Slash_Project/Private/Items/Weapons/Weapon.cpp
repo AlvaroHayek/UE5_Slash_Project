@@ -77,14 +77,20 @@ void AWeapon::OnBoxOverlap(UPrimitiveComponent* OverlappedComponent, AActor* Oth
 	const FVector Start = BoxTraceStart->GetComponentLocation();
 	const FVector End = BoxTraceEnd->GetComponentLocation();
 
+	TArray<AActor*> ActorsToIgnore;
+	ActorsToIgnore.Add(this);
+	FHitResult BoxHit;
 	UKismetSystemLibrary::BoxTraceSingle(
 		this,
 		Start,
 		End,
-		FVector(5.f,5.f,5.f),
+		FVector(5.f, 5.f, 5.f),
 		BoxTraceStart->GetComponentRotation(),
 		ETraceTypeQuery::TraceTypeQuery1,
 		false,
-
-	)
+		ActorsToIgnore,
+		EDrawDebugTrace::ForDuration,
+		BoxHit,
+		true
+	);
 }
