@@ -3237,3 +3237,44 @@ Skipped package /AudioModulation/Volume was expected to be found in plugin Audio
 [2025.09.11-22.55.04:065][628]AssetCheck: /Game/AncientContent/Characters/Vampire/Root_Bone/Animations/ReactFromFront Validating asset
 [2025.09.11-22.55.04:065][628]AssetCheck: /Game/AncientContent/Characters/Vampire/Root_Bone/Animations/ReactFromRight Validating asset
 [2025.09.11-22.55.04:090][628]LogAutomationController: Ignoring very large delta of 2.09 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.09.11-23.00.39:388][656]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 20196.001953
+[2025.09.11-23.00.39:598][661]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Altavoces (Realtek(R) Audio), InstanceID=1
+[2025.09.11-23.00.40:925][661]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2025.09.11-23.13.46:619][661]LogEOSSDK: Warning: LogHttp: 00000A9A06125A00: HTTP request timed out after 784.10 seconds URL=https://api.epicgames.dev/sdk/v1/product/86f32f1151354e7cb39c12f8ab2c22a3?platformId=WIN&deploymentId=a652a72ea1664dcab3a467891eea5f30
+[2025.09.11-23.13.46:619][661]LogEOSSDK: Warning: LogHttp: 00000A9A06125A00: request failed, libcurl error: 0 (No error)
+[2025.09.11-23.13.46:619][661]LogEOSSDK: Warning: LogHttp: 00000A9A06125A00: libcurl info message cache 0 (Found bundle for host: 0xa99f40809c0 [serially])
+[2025.09.11-23.13.46:620][661]LogEOSSDK: Warning: LogHttp: 00000A9A06125A00: libcurl info message cache 1 (Re-using existing connection with host api.epicgames.dev)
+[2025.09.11-23.13.46:620][661]LogEOSSDK: Warning: LogHttp: 00000A9A06125A00: libcurl info message cache 2 (Closing connection)
+[2025.09.11-23.13.46:620][661]LogEOSSDK: Warning: LogHttp: 00000A9A06125A00: libcurl info message cache 3 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.09.11-23.13.46:620][661]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/sdk/v1/product/86f32f1151354e7cb39c12f8ab2c22a3?platformId=WIN&deploymentId=a652a72ea1664dcab3a467891eea5f30
+[2025.09.11-23.13.46:621][661]LogEOSSDK: Warning: LogEOS: Failed to connect to the backend. ServiceName=[SDKConfig], OperationName=[GetProductConfigRoute], Url=[<Redacted>]
+[2025.09.11-23.13.47:127][662]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.09.11-23.13.47:129][662]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=17000
+[2025.09.11-23.13.47:178][662]LogAutomationController: Ignoring very large delta of 787.66 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.09.11-23.13.47:180][662]LogEOSSDK: Warning: LogEOS: SDK Config Product Update Request Failed, Result Code: EOS_NoConnection, Retrying after 39.326763 seconds
+[2025.09.11-23.13.47:350][665]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.09.11-23.13.47:357][665]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{58ea4715-9790-4598-9427-e0f8b9d39fd0}, Name=Altavoces (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=206.50
+[2025.09.11-23.13.47:357][665]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.09.11-23.13.47:362][665]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.09.11-23.14.25:957][803]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 21022.587891
+[2025.09.11-23.14.26:223][811]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.11-23.14.26:224][811]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 21022.820312, Update Interval: 356.782745
+[2025.09.11-23.17.30:629][308]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Auriculares (Vieta Pro Calm 2 Stereo), InstanceID=1
+[2025.09.11-23.17.30:661][309]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.09.11-23.17.30:661][309]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=17000
+[2025.09.11-23.17.30:796][313]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.09.11-23.17.30:799][313]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=44100, DeviceID={0.0.0.00000000}.{a6cfb85f-2618-431e-bd23-0177754ea7a2}, Name=Auriculares (Vieta Pro Calm 2 Stereo)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=111.90
+[2025.09.11-23.17.30:799][313]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.09.11-23.17.30:807][313]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.09.11-23.21.02:494][656]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 21418.824219
+[2025.09.11-23.21.02:795][665]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.11-23.21.02:795][665]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 21419.091797, Update Interval: 300.651886
+[2025.09.11-23.26.59:162][342]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 21775.269531
+[2025.09.11-23.26.59:395][349]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.11-23.26.59:395][349]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 21775.470703, Update Interval: 334.824066
+[2025.09.11-23.33.20:228][762]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 22156.230469
+[2025.09.11-23.33.20:463][769]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.11-23.33.20:464][769]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 22156.429688, Update Interval: 330.846893
+[2025.09.11-23.39.31:936][903]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 22527.724609
+[2025.09.11-23.39.32:171][910]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.11-23.39.32:171][910]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 22527.923828, Update Interval: 322.973114
