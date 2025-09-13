@@ -2062,3 +2062,47 @@ Skipped package /AudioModulation/Volume was expected to be found in plugin Audio
 [2025.09.13-19.55.54:569][637]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2126.519287
 [2025.09.13-19.55.54:835][645]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.09.13-19.55.54:835][645]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2126.752686, Update Interval: 339.216888
+[2025.09.13-20.01.22:727][435]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2025.09.13-20.01.22:754][435]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.09.13-20.01.22:755][435]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=19996
+[2025.09.13-20.01.22:786][436]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.09.13-20.01.22:793][436]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{58ea4715-9790-4598-9427-e0f8b9d39fd0}, Name=Altavoces (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=31.52
+[2025.09.13-20.01.22:794][436]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.09.13-20.01.22:797][436]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.09.13-21.47.12:165][438]LogShaderCompilers: Warning: Distributed compilation controller didn't receive a completed task in 6347.110383 seconds!
+[2025.09.13-21.47.15:272][439]LogAutomationController: Ignoring very large delta of 6352.45 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.09.13-21.47.27:298][757]LogHttp: Warning: 000005B426888C00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.09.13-21.47.27:299][757]LogHttp: Warning: 000005B426888C00: libcurl info message cache 0 (Too old connection (6406 seconds idle), disconnect it)
+[2025.09.13-21.47.27:299][757]LogHttp: Warning: 000005B426888C00: libcurl info message cache 1 (Connection 0 seems to be dead)
+[2025.09.13-21.47.27:299][757]LogHttp: Warning: 000005B426888C00: libcurl info message cache 2 (Closing connection)
+[2025.09.13-21.47.27:299][757]LogHttp: Warning: 000005B426888C00: libcurl info message cache 3 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.09.13-21.47.27:299][757]LogHttp: Warning: 000005B426888C00: libcurl info message cache 4 (Could not resolve host: datarouter.ol.epicgames.com)
+[2025.09.13-21.47.27:299][757]LogHttp: Warning: 000005B426888C00: libcurl info message cache 5 (Closing connection)
+[2025.09.13-21.47.27:308][757]LogEOSSDK: Warning: LogHttp: 000005B40B590C00: invalid HTTP response code received. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7BF79F6D66-4D54-FFE3-95D6-0AA28A40C497%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.16.4-36651368%20-%20%2B%2BEOSSDK%2BRelease-1.16.4-CL-36651368&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.09.13-21.47.27:309][757]LogEOSSDK: Warning: LogHttp: 000005B40B590C00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.09.13-21.47.27:309][757]LogEOSSDK: Warning: LogHttp: 000005B40B590C00: libcurl info message cache 0 (Too old connection (6406 seconds idle), disconnect it)
+[2025.09.13-21.47.27:309][757]LogEOSSDK: Warning: LogHttp: 000005B40B590C00: libcurl info message cache 1 (Connection 16 seems to be dead)
+[2025.09.13-21.47.27:309][757]LogEOSSDK: Warning: LogHttp: 000005B40B590C00: libcurl info message cache 2 (Closing connection)
+[2025.09.13-21.47.27:309][757]LogEOSSDK: Warning: LogHttp: 000005B40B590C00: libcurl info message cache 3 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.09.13-21.47.27:309][757]LogEOSSDK: Warning: LogHttp: 000005B40B590C00: libcurl info message cache 4 (Too old connection (6406 seconds idle), disconnect it)
+[2025.09.13-21.47.27:309][757]LogEOSSDK: Warning: LogHttp: 000005B40B590C00: libcurl info message cache 5 (Connection 17 seems to be dead)
+[2025.09.13-21.47.27:309][757]LogEOSSDK: Warning: LogHttp: 000005B40B590C00: libcurl info message cache 6 (Closing connection)
+[2025.09.13-21.47.27:309][757]LogEOSSDK: Warning: LogHttp: 000005B40B590C00: libcurl info message cache 7 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.09.13-21.47.27:309][757]LogEOSSDK: Warning: LogHttp: 000005B40B590C00: libcurl info message cache 8 (Hostname in DNS cache was stale, zapped)
+[2025.09.13-21.47.27:309][757]LogEOSSDK: Warning: LogHttp: 000005B40B590C00: libcurl info message cache 9 (Could not resolve host: api.epicgames.dev)
+[2025.09.13-21.47.27:309][757]LogEOSSDK: Warning: LogHttp: 000005B40B590C00: libcurl info message cache 10 (Closing connection)
+[2025.09.13-21.47.27:309][757]LogEOSSDK: Warning: LogHttp: 000005B40B593C00: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=564BAAA8483E980BE2E254B3A94014EB, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.09.13-21.47.27:309][757]LogEOSSDK: Warning: LogHttp: 000005B40B593C00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.09.13-21.47.27:309][757]LogEOSSDK: Warning: LogHttp: 000005B40B593C00: libcurl info message cache 0 (Found bundle for host: 0x5b3ee080900 [serially])
+[2025.09.13-21.47.27:309][757]LogEOSSDK: Warning: LogHttp: 000005B40B593C00: libcurl info message cache 1 (Could not resolve host: api.epicgames.dev)
+[2025.09.13-21.47.27:309][757]LogEOSSDK: Warning: LogHttp: 000005B40B593C00: libcurl info message cache 2 (Closing connection)
+[2025.09.13-21.47.27:309][757]LogEOSSDK: Warning: LogHttp: 000005B40B591800: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.09.13-21.47.27:309][757]LogEOSSDK: Warning: LogHttp: 000005B40B591800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.09.13-21.47.27:309][757]LogEOSSDK: Warning: LogHttp: 000005B40B591800: libcurl info message cache 0 (Found bundle for host: 0x5b3ee080900 [serially])
+[2025.09.13-21.47.27:309][757]LogEOSSDK: Warning: LogHttp: 000005B40B591800: libcurl info message cache 1 (Could not resolve host: api.epicgames.dev)
+[2025.09.13-21.47.27:309][757]LogEOSSDK: Warning: LogHttp: 000005B40B591800: libcurl info message cache 2 (Closing connection)
+[2025.09.13-21.47.27:309][757]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.09.13-21.47.27:318][757]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=564BAAA8483E980BE2E254B3A94014EB
+[2025.09.13-21.47.27:334][758]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7BF79F6D66-4D54-FFE3-95D6-0AA28A40C497%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.16.4-36651368%20-%20%2B%2BEOSSDK%2BRelease-1.16.4-CL-36651368&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2025.09.13-21.47.28:334][788]LogEOSSDK: Warning: LogHttp: Retry 1 on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.09.13-21.47.28:334][789]LogEOSSDK: Warning: LogHttp: Retry 1 on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=564BAAA8483E980BE2E254B3A94014EB
