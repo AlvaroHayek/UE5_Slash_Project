@@ -1277,3 +1277,440 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.09.13-16.45.53:778][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
 [2025.09.13-16.45.53:795][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
 [2025.09.13-16.45.54:533][  0]LogAssetRegistry: Display: Asset registry cache written as 39.8 MiB to ../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Intermediate/CachedAssetRegistry_*.bin
+[2025.09.13-16.45.56:181][  0]LogStreaming: Display: ImportPackages: SkipPackage: /Game/AncientContent/Audio/AudioModulation/Patches/SFX_Foley_Echo_Patch (0xA4C2E2A43B5CFF3) /Game/AncientContent/Audio/AudioModulation/Patches/SFX_Foley_Echo_Patch (0xA4C2E2A43B5CFF3) - Skipping non mounted imported package /AudioModulation/Volume (0xEB7582CB3977CA8D)
+[2025.09.13-16.45.57:950][  0]LogStreaming: Display: ImportPackages: SkipPackage: /Game/AncientContent/Audio/AudioModulation/ControlBuses/Echo_ControlBus (0x36A040309F10B6F0) /Game/AncientContent/Audio/AudioModulation/ControlBuses/Echo_ControlBus (0x36A040309F10B6F0) - Skipping non mounted imported package /AudioModulation/Volume (0xEB7582CB3977CA8D)
+[2025.09.13-16.45.57:960][  0]LogStreaming: Display: ImportPackages: SkipPackage: /Game/AncientContent/Audio/AudioModulation/ControlBuses/Foley_ControlBus (0x36E3FA315AA935E0) /Game/AncientContent/Audio/AudioModulation/ControlBuses/Foley_ControlBus (0x36E3FA315AA935E0) - Skipping non mounted imported package /AudioModulation/Volume (0xEB7582CB3977CA8D)
+[2025.09.13-16.45.57:968][  0]LogStreaming: Display: ImportPackages: SkipPackage: /Game/AncientContent/Audio/AudioModulation/ControlBuses/SFX_ControlBus (0xDCDD05A2051628D7) /Game/AncientContent/Audio/AudioModulation/ControlBuses/SFX_ControlBus (0xDCDD05A2051628D7) - Skipping non mounted imported package /AudioModulation/Volume (0xEB7582CB3977CA8D)
+[2025.09.13-16.45.58:020][  0]LogStreaming: Display: ImportPackages: SkipPackage: /Game/AncientContent/Audio/AudioModulation/Patches/SFX_FS_Echo_Patch (0x603EFC99CA0B0076) /Game/AncientContent/Audio/AudioModulation/Patches/SFX_FS_Echo_Patch (0x603EFC99CA0B0076) - Skipping non mounted imported package /AudioModulation/Volume (0xEB7582CB3977CA8D)
+[2025.09.13-16.45.58:632][  0]LogStreaming: Display: ImportPackages: SkipPackage: /Game/AncientContent/Audio/AudioModulation/ControlBuses/FS_ControlBus (0xC6EBB2B8DE74AFC5) /Game/AncientContent/Audio/AudioModulation/ControlBuses/FS_ControlBus (0xC6EBB2B8DE74AFC5) - Skipping non mounted imported package /AudioModulation/Volume (0xEB7582CB3977CA8D)
+[2025.09.13-16.45.58:730][  0]LogLinker: Warning: [AssetLog] C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Content\AncientContent\Audio\AudioModulation\ControlBuses\Echo_ControlBus.uasset: VerifyImport: Failed to find script package for import object 'Package /Script/AudioModulation'
+[2025.09.13-16.45.58:730][  0]LogLinker: Warning: Unable to load Echo_ControlBus with outer Package /Game/AncientContent/Audio/AudioModulation/ControlBuses/Echo_ControlBus because its class (SoundControlBus) does not exist
+[2025.09.13-16.45.58:730][  0]LogLinker: Warning: Unable to load Foley_ControlBus with outer Package /Game/AncientContent/Audio/AudioModulation/ControlBuses/Foley_ControlBus because its class (SoundControlBus) does not exist
+[2025.09.13-16.45.58:730][  0]LogLinker: Warning: Unable to load SFX_ControlBus with outer Package /Game/AncientContent/Audio/AudioModulation/ControlBuses/SFX_ControlBus because its class (SoundControlBus) does not exist
+[2025.09.13-16.45.58:730][  0]LogLinker: Warning: Unable to load SFX_Foley_Echo_Patch with outer Package /Game/AncientContent/Audio/AudioModulation/Patches/SFX_Foley_Echo_Patch because its class (SoundModulationPatch) does not exist
+[2025.09.13-16.45.58:800][  0]LogLinker: Warning: Unable to load FS_ControlBus with outer Package /Game/AncientContent/Audio/AudioModulation/ControlBuses/FS_ControlBus because its class (SoundControlBus) does not exist
+[2025.09.13-16.45.58:800][  0]LogLinker: Warning: Unable to load SFX_FS_Echo_Patch with outer Package /Game/AncientContent/Audio/AudioModulation/Patches/SFX_FS_Echo_Patch because its class (SoundModulationPatch) does not exist
+[2025.09.13-16.46.00:678][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.7.dll
+[2025.09.13-16.46.01:290][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Minimal_Default_2'.
+[2025.09.13-16.46.01:290][  0]LogChaosDD: Creating Chaos Debug Draw Scene for world Minimal_Default_2
+[2025.09.13-16.46.01:291][  0]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/Maps/Minimal_Default_2.Minimal_Default_2'.
+[2025.09.13-16.46.01:376][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.09.13-16.46.01:402][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.09.13-16.46.01:403][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.09.13-16.46.01:403][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.05ms to complete.
+[2025.09.13-16.46.01:445][  0]LogUnrealEdMisc: Total Editor Startup Time, took 56.343
+[2025.09.13-16.46.01:589][  0]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2025.09.13-16.46.01:840][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.13-16.46.01:911][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.13-16.46.01:977][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.13-16.46.02:038][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.13-16.46.02:146][  0]LogPakFile: Initializing PakPlatformFile
+[2025.09.13-16.46.02:156][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2025.09.13-16.46.02:160][  0]LogPakFile: Initializing PakPlatformFile
+[2025.09.13-16.46.02:172][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2025.09.13-16.46.02:173][  0]LogPakFile: Initializing PakPlatformFile
+[2025.09.13-16.46.02:185][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2025.09.13-16.46.02:186][  0]LogPakFile: Initializing PakPlatformFile
+[2025.09.13-16.46.02:198][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2025.09.13-16.46.02:200][  0]LogPakFile: Initializing PakPlatformFile
+[2025.09.13-16.46.02:212][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2025.09.13-16.46.02:212][  0]LogPakFile: Initializing PakPlatformFile
+[2025.09.13-16.46.02:223][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2025.09.13-16.46.02:224][  0]LogPakFile: Initializing PakPlatformFile
+[2025.09.13-16.46.02:236][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2025.09.13-16.46.02:237][  0]LogPakFile: Initializing PakPlatformFile
+[2025.09.13-16.46.02:249][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2025.09.13-16.46.02:250][  0]LogPakFile: Initializing PakPlatformFile
+[2025.09.13-16.46.02:265][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2025.09.13-16.46.02:266][  0]LogPakFile: Initializing PakPlatformFile
+[2025.09.13-16.46.02:274][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2025.09.13-16.46.02:797][  0]LogSlate: Took 0.006956 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2025.09.13-16.46.03:280][  0]LogStall: Startup...
+[2025.09.13-16.46.03:283][  0]LogStall: Startup complete.
+[2025.09.13-16.46.03:303][  0]LogLoad: (Engine Initialization) Total time: 58.20 seconds
+[2025.09.13-16.46.03:608][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2025.09.13-16.46.03:608][  0]LogCsvProfiler: Display: Metadata set : streamingpoolsizemb="1000"
+[2025.09.13-16.46.03:641][  0]LogSlate: Took 0.007964 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.09.13-16.46.03:657][  0]LogSlate: Took 0.008668 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2025.09.13-16.46.03:720][  0]LogSlate: Took 0.008236 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2025.09.13-16.46.03:773][  0]LogStreaming: Display: FlushAsyncLoading(340): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.13-16.46.04:023][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.13-16.46.04:031][  0]LogFab: Error: Login failed - error code: EOS_InvalidAuth
+[2025.09.13-16.46.04:031][  0]LogFab: Display: Logging in using exchange code
+[2025.09.13-16.46.04:031][  0]LogFab: Display: Reading exchange code from commandline
+[2025.09.13-16.46.04:031][  0]LogEOSSDK: Error: LogEOSAuth: Invalid parameter EOS_Auth_Credentials.Token reason: must not be null or empty
+[2025.09.13-16.46.04:034][  0]LogPython: Display: Running start-up script C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/ControlRig/Content/Python/init_unreal.py... started...
+[2025.09.13-16.46.04:038][  0]LogSlate: Took 0.000225 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.09.13-16.46.04:606][  0]LogPython: registering <class 'ControlRigWorkflows.workflow_deformation_rig_preset.provider'>
+
+[2025.09.13-16.46.04:629][  0]LogPython: Display: Running start-up script C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/ControlRig/Content/Python/init_unreal.py... took 594.962 ms
+[2025.09.13-16.46.04:697][  0]LoadErrors: Warning: While trying to load package /Game/AncientContent/Audio/AudioModulation/Patches/SFX_Foley_Echo_Patch, a dependent package /AudioModulation/Volume was not available. Additional explanatory information follows:
+FPackageName: Unable to identify a valid mount point associated with skipped package /AudioModulation/Volume. The package root is unknown.
+Skipped package /AudioModulation/Volume was expected to be found in plugin Audio Modulation, however that plugin is not mounted. [ExplicitlyLoaded = FALSE, Enabled = FALSE].
+[2025.09.13-16.46.04:697][  0]LoadErrors: Warning: While trying to load package /Game/AncientContent/Audio/AudioModulation/ControlBuses/Echo_ControlBus, a dependent package /AudioModulation/Volume was not available. Additional explanatory information follows:
+FPackageName: Unable to identify a valid mount point associated with skipped package /AudioModulation/Volume. The package root is unknown.
+Skipped package /AudioModulation/Volume was expected to be found in plugin Audio Modulation, however that plugin is not mounted. [ExplicitlyLoaded = FALSE, Enabled = FALSE].
+[2025.09.13-16.46.04:697][  0]LoadErrors: Warning: While trying to load package /Game/AncientContent/Audio/AudioModulation/ControlBuses/Foley_ControlBus, a dependent package /AudioModulation/Volume was not available. Additional explanatory information follows:
+FPackageName: Unable to identify a valid mount point associated with skipped package /AudioModulation/Volume. The package root is unknown.
+Skipped package /AudioModulation/Volume was expected to be found in plugin Audio Modulation, however that plugin is not mounted. [ExplicitlyLoaded = FALSE, Enabled = FALSE].
+[2025.09.13-16.46.04:697][  0]LoadErrors: Warning: While trying to load package /Game/AncientContent/Audio/AudioModulation/ControlBuses/SFX_ControlBus, a dependent package /AudioModulation/Volume was not available. Additional explanatory information follows:
+FPackageName: Unable to identify a valid mount point associated with skipped package /AudioModulation/Volume. The package root is unknown.
+Skipped package /AudioModulation/Volume was expected to be found in plugin Audio Modulation, however that plugin is not mounted. [ExplicitlyLoaded = FALSE, Enabled = FALSE].
+[2025.09.13-16.46.04:697][  0]LoadErrors: Warning: While trying to load package /Game/AncientContent/Audio/AudioModulation/Patches/SFX_FS_Echo_Patch, a dependent package /AudioModulation/Volume was not available. Additional explanatory information follows:
+FPackageName: Unable to identify a valid mount point associated with skipped package /AudioModulation/Volume. The package root is unknown.
+Skipped package /AudioModulation/Volume was expected to be found in plugin Audio Modulation, however that plugin is not mounted. [ExplicitlyLoaded = FALSE, Enabled = FALSE].
+[2025.09.13-16.46.04:697][  0]LoadErrors: Warning: While trying to load package /Game/AncientContent/Audio/AudioModulation/ControlBuses/FS_ControlBus, a dependent package /AudioModulation/Volume was not available. Additional explanatory information follows:
+FPackageName: Unable to identify a valid mount point associated with skipped package /AudioModulation/Volume. The package root is unknown.
+Skipped package /AudioModulation/Volume was expected to be found in plugin Audio Modulation, however that plugin is not mounted. [ExplicitlyLoaded = FALSE, Enabled = FALSE].
+[2025.09.13-16.46.05:019][  1]LogAssetRegistry: AssetRegistryGather time 0.4870s: AssetDataDiscovery 0.3268s, AssetDataGather 0.0836s, StoreResults 0.0767s. Wall time 30.4130s.
+	NumCachedDirectories 0. NumUncachedDirectories 1820. NumCachedFiles 9008. NumUncachedFiles 12.
+	BackgroundTickInterruptions 1.
+[2025.09.13-16.46.05:097][  1]LogSourceControl: Uncontrolled asset enumeration started...
+[2025.09.13-16.46.05:100][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000000 seconds (updated 0 objects)
+[2025.09.13-16.46.05:266][  1]LogFab: Error: Login failed - error code: EOS_InvalidParameters
+[2025.09.13-16.46.05:318][  2]LogEOSSDK: LogEOS: SDK Config Platform Update Request Successful, Time: 17.025360
+[2025.09.13-16.46.05:321][  2]LogEOSSDK: LogEOSAnalytics: EOS SDK Analytics disabled for route [1].
+[2025.09.13-16.46.05:325][  2]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17.076811
+[2025.09.13-16.46.05:576][ 10]LogEOSSDK: LogEOSAnalytics: Start Session (User: ...)
+[2025.09.13-16.46.05:778][ 16]LogEOSSDK: LogEOS: SDK Config Product Update Request Successful, Time: 17.504431
+[2025.09.13-16.46.05:781][ 16]LogEOSSDK: LogEOS: SDK Config Data - Watermark: 1542370262
+[2025.09.13-16.46.05:781][ 16]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17.504431, Update Interval: 329.850769
+[2025.09.13-16.46.06:718][ 43]LogSourceControl: Uncontrolled asset enumeration finished in 1.621594 seconds (Found 8996 uncontrolled assets)
+[2025.09.13-16.47.22:350][292]LogDerivedDataCache: C:/Users/Usuario/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.001 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.09.13-16.48.52:290][899]LogSlate: Took 0.010535 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.09.13-16.48.52:404][901]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_0
+[2025.09.13-16.48.52:404][901]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_0'.
+[2025.09.13-16.49.01:780][132]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.09.13-16.49.01:787][132]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.09.13-16.49.01:795][133]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.09.13-16.49.01:801][133]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.09.13-16.49.10:371][134]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.09.13-16.51.35:642][250]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 347.400848
+[2025.09.13-16.51.35:910][258]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.13-16.51.35:910][258]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 347.634949, Update Interval: 302.504974
+[2025.09.13-16.55.12:721][739]LogStreaming: Display: FlushAsyncLoading(343): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.13-16.55.12:764][739]Candidate modules for hot reload:
+[2025.09.13-16.55.12:764][739]  Slash_Project
+[2025.09.13-16.55.12:815][739]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_5.5/Engine/Build/BatchFiles/Build.bat  -ModuleWithSuffix=Slash_Project,0154 Slash_ProjectEditor Win64 Development -Project="C:/Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Slash_Project.uproject" "C:/Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Slash_Project.uproject"  -IgnoreJunk]
+[2025.09.13-16.55.12:852][739]Warning: Starting HotReload took  0.2s.
+[2025.09.13-16.55.33:126][341]CompilerResultsLog: Using bundled DotNet SDK version: 8.0.300
+[2025.09.13-16.55.33:127][341]CompilerResultsLog: Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" -ModuleWithSuffix=Slash_Project,0154 Slash_ProjectEditor Win64 Development -Project="C:/Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Slash_Project.uproject" "C:/Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Slash_Project.uproject"  -IgnoreJunk
+[2025.09.13-16.55.33:127][341]CompilerResultsLog: Log file: C:\Users\Usuario\AppData\Local\UnrealBuildTool\Log.txt
+[2025.09.13-16.55.33:127][341]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project).
+[2025.09.13-16.55.33:127][341]CompilerResultsLog: Building Slash_ProjectEditor...
+[2025.09.13-16.55.33:127][341]CompilerResultsLog: Using Visual Studio 2022 14.38.33145 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130) and Windows 10.0.22621.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2025.09.13-16.55.33:127][341]CompilerResultsLog: [Upgrade]
+[2025.09.13-16.55.33:127][341]CompilerResultsLog: [Upgrade] Using backward-compatible include order. The latest version of UE has changed the order of includes, which may require code changes. The current setting is:
+[2025.09.13-16.55.33:127][341]CompilerResultsLog: [Upgrade]     IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_3
+[2025.09.13-16.55.33:127][341]CompilerResultsLog: [Upgrade] Suppress this message by setting 'IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_5;' in Slash_ProjectEditor.Target.cs.
+[2025.09.13-16.55.33:127][341]CompilerResultsLog: [Upgrade] Alternatively you can set this to 'EngineIncludeOrderVersion.Latest' to always use the latest include order. This will potentially cause compile errors when integrating new versions of the engine.
+[2025.09.13-16.55.33:127][341]CompilerResultsLog: [Upgrade]
+[2025.09.13-16.55.33:127][341]CompilerResultsLog: [Adaptive Build] Excluded from Slash_Project unity file: Enemy.cpp
+[2025.09.13-16.55.33:127][341]CompilerResultsLog: Determining max actions to execute in parallel (6 physical cores, 12 logical cores)
+[2025.09.13-16.55.33:127][341]CompilerResultsLog:   Executing up to 6 processes, one per physical core
+[2025.09.13-16.55.33:127][341]CompilerResultsLog:   Requested 1.5 GB memory per action, 2.55 GB available: limiting max parallel actions to 1
+[2025.09.13-16.55.33:127][341]CompilerResultsLog: Using XGE executor to run 4 action(s)
+[2025.09.13-16.55.33:127][341]CompilerResultsLog: Distributing 4 actions to XGE
+[2025.09.13-16.55.33:127][341]CompilerResultsLog: UnrealBuildTool Compile
+[2025.09.13-16.55.33:127][341]CompilerResultsLog: 
+[2025.09.13-16.55.33:127][341]CompilerResultsLog: --------------------Build System Warning---------------------------------------
+[2025.09.13-16.55.33:127][341]CompilerResultsLog: License not activated:
+[2025.09.13-16.55.33:127][341]CompilerResultsLog:     License is not activated. Please activate the license in the coordinator.
+[2025.09.13-16.55.33:127][341]CompilerResultsLog:     This build will run in standalone mode.
+[2025.09.13-16.55.33:127][341]CompilerResultsLog: 
+[2025.09.13-16.55.33:127][341]CompilerResultsLog: -------------------------------------------------------------------------------
+[2025.09.13-16.55.33:127][341]CompilerResultsLog: 
+[2025.09.13-16.55.33:127][341]CompilerResultsLog: Build ID: {7D59E92A-4E32-4EE7-8BC7-32EAD8309F00}
+[2025.09.13-16.55.33:127][341]CompilerResultsLog: 
+[2025.09.13-16.55.33:127][341]CompilerResultsLog: --------------------Project: Default-------------------------------------------
+[2025.09.13-16.55.33:127][341]CompilerResultsLog: [1/4] Compile [x64] Enemy.cpp (0:07.12 at +0:00)
+[2025.09.13-16.55.33:127][341]CompilerResultsLog: Error: C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Source\Slash_Project\Private\Enemy\Enemy.cpp(82) : error C2143: syntax error: missing ';' before '}'
+[2025.09.13-16.55.33:127][341]CompilerResultsLog: Error: C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Source\Slash_Project\Private\Enemy\Enemy.cpp(86) : error C2143: syntax error: missing ';' before '}'
+[2025.09.13-16.55.33:127][341]CompilerResultsLog: 
+[2025.09.13-16.55.33:127][341]CompilerResultsLog: Error executing C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\bin\Hostx64\x64\cl.exe (tool returned code: 2)
+[2025.09.13-16.55.33:127][341]CompilerResultsLog: ---------------------- Done ----------------------
+[2025.09.13-16.55.33:127][341]CompilerResultsLog: 
+[2025.09.13-16.55.33:127][341]CompilerResultsLog:     Rebuild All: 0 succeeded, 1 failed, 0 skipped
+[2025.09.13-16.55.33:127][341]CompilerResultsLog: 
+[2025.09.13-16.55.33:127][341]CompilerResultsLog: 1 build system warning(s):
+[2025.09.13-16.55.33:127][341]CompilerResultsLog:    - License not activated
+[2025.09.13-16.55.33:127][341]CompilerResultsLog: 
+[2025.09.13-16.55.33:127][341]CompilerResultsLog: Total time in XGE executor: 11.01 seconds
+[2025.09.13-16.55.33:127][341]CompilerResultsLog: Total execution time: 19.15 seconds
+[2025.09.13-16.55.33:127][341]LogMainFrame: MainFrame: Module compiling took 20.407 seconds
+[2025.09.13-16.55.33:127][341]LogStreaming: Display: FlushAsyncLoading(344): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.13-16.55.33:145][341]Warning: HotReload failed, recompile failed
+[2025.09.13-16.55.55:920][ 19]Candidate modules for hot reload:
+[2025.09.13-16.55.55:920][ 19]  Slash_Project
+[2025.09.13-16.55.55:929][ 19]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_5.5/Engine/Build/BatchFiles/Build.bat  -ModuleWithSuffix=Slash_Project,4689 Slash_ProjectEditor Win64 Development -Project="C:/Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Slash_Project.uproject" "C:/Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Slash_Project.uproject"  -IgnoreJunk]
+[2025.09.13-16.55.55:935][ 19]Warning: Starting HotReload took  0.0s.
+[2025.09.13-16.56.17:686][670]CompilerResultsLog: Using bundled DotNet SDK version: 8.0.300
+[2025.09.13-16.56.17:686][670]CompilerResultsLog: Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" -ModuleWithSuffix=Slash_Project,4689 Slash_ProjectEditor Win64 Development -Project="C:/Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Slash_Project.uproject" "C:/Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Slash_Project.uproject"  -IgnoreJunk
+[2025.09.13-16.56.17:686][670]CompilerResultsLog: Log file: C:\Users\Usuario\AppData\Local\UnrealBuildTool\Log.txt
+[2025.09.13-16.56.17:687][670]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project).
+[2025.09.13-16.56.17:687][670]CompilerResultsLog: Building Slash_ProjectEditor...
+[2025.09.13-16.56.17:687][670]CompilerResultsLog: Using Visual Studio 2022 14.38.33145 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130) and Windows 10.0.22621.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2025.09.13-16.56.17:687][670]CompilerResultsLog: [Upgrade]
+[2025.09.13-16.56.17:687][670]CompilerResultsLog: [Upgrade] Using backward-compatible include order. The latest version of UE has changed the order of includes, which may require code changes. The current setting is:
+[2025.09.13-16.56.17:687][670]CompilerResultsLog: [Upgrade]     IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_3
+[2025.09.13-16.56.17:687][670]CompilerResultsLog: [Upgrade] Suppress this message by setting 'IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_5;' in Slash_ProjectEditor.Target.cs.
+[2025.09.13-16.56.17:687][670]CompilerResultsLog: [Upgrade] Alternatively you can set this to 'EngineIncludeOrderVersion.Latest' to always use the latest include order. This will potentially cause compile errors when integrating new versions of the engine.
+[2025.09.13-16.56.17:687][670]CompilerResultsLog: [Upgrade]
+[2025.09.13-16.56.17:687][670]CompilerResultsLog: [Adaptive Build] Excluded from Slash_Project unity file: Enemy.cpp
+[2025.09.13-16.56.17:687][670]CompilerResultsLog: Determining max actions to execute in parallel (6 physical cores, 12 logical cores)
+[2025.09.13-16.56.17:687][670]CompilerResultsLog:   Executing up to 6 processes, one per physical core
+[2025.09.13-16.56.17:687][670]CompilerResultsLog:   Requested 1.5 GB memory per action, 3.18 GB available: limiting max parallel actions to 2
+[2025.09.13-16.56.17:687][670]CompilerResultsLog: Using XGE executor to run 4 action(s)
+[2025.09.13-16.56.17:687][670]CompilerResultsLog: Distributing 4 actions to XGE
+[2025.09.13-16.56.17:687][670]CompilerResultsLog: UnrealBuildTool Compile
+[2025.09.13-16.56.17:687][670]CompilerResultsLog: 
+[2025.09.13-16.56.17:687][670]CompilerResultsLog: --------------------Build System Warning---------------------------------------
+[2025.09.13-16.56.17:687][670]CompilerResultsLog: License not activated:
+[2025.09.13-16.56.17:687][670]CompilerResultsLog:     License is not activated. Please activate the license in the coordinator.
+[2025.09.13-16.56.17:687][670]CompilerResultsLog:     This build will run in standalone mode.
+[2025.09.13-16.56.17:687][670]CompilerResultsLog: 
+[2025.09.13-16.56.17:687][670]CompilerResultsLog: -------------------------------------------------------------------------------
+[2025.09.13-16.56.17:687][670]CompilerResultsLog: 
+[2025.09.13-16.56.17:687][670]CompilerResultsLog: Build ID: {8DE8F46B-0887-45AE-BA65-DA9404666E5B}
+[2025.09.13-16.56.17:687][670]CompilerResultsLog: 
+[2025.09.13-16.56.17:687][670]CompilerResultsLog: --------------------Project: Default-------------------------------------------
+[2025.09.13-16.56.17:687][670]CompilerResultsLog: [1/4] Compile [x64] Enemy.cpp (0:15.98 at +0:00)
+[2025.09.13-16.56.17:687][670]CompilerResultsLog: [2/4] Link [x64] UnrealEditor-Slash_Project-4689.lib (0:00.17 at +0:16)
+[2025.09.13-16.56.17:687][670]CompilerResultsLog:    Creating library C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Intermediate\Build\Win64\x64\UnrealEditor\Development\Slash_Project\UnrealEditor-Slash_Project-4689.lib and object C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Intermediate\Build\Win64\x64\UnrealEditor\Development\Slash_Project\UnrealEditor-Slash_Project-4689.exp
+[2025.09.13-16.56.17:687][670]CompilerResultsLog: [3/4] Link [x64] UnrealEditor-Slash_Project-4689.dll (0:01.39 at +0:16)
+[2025.09.13-16.56.17:687][670]CompilerResultsLog:    Creating object C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Binaries\Win64\UnrealEditor-Slash_Project-4689.exp
+[2025.09.13-16.56.17:687][670]CompilerResultsLog: [4/4] WriteMetadata Slash_ProjectEditor.target (0:00.45 at +0:17)
+[2025.09.13-16.56.17:687][670]CompilerResultsLog: ---------------------- Done ----------------------
+[2025.09.13-16.56.17:687][670]CompilerResultsLog: 
+[2025.09.13-16.56.17:687][670]CompilerResultsLog:     Rebuild All: 1 succeeded, 0 failed, 0 skipped
+[2025.09.13-16.56.17:687][670]CompilerResultsLog: 
+[2025.09.13-16.56.17:687][670]CompilerResultsLog: 1 build system warning(s):
+[2025.09.13-16.56.17:687][670]CompilerResultsLog:    - License not activated
+[2025.09.13-16.56.17:687][670]CompilerResultsLog: 
+[2025.09.13-16.56.17:687][670]CompilerResultsLog: Total time in XGE executor: 20.16 seconds
+[2025.09.13-16.56.17:687][670]CompilerResultsLog: Total execution time: 21.55 seconds
+[2025.09.13-16.56.17:687][670]LogMainFrame: MainFrame: Module compiling took 21.781 seconds
+[2025.09.13-16.56.17:687][670]LogStreaming: Display: FlushAsyncLoading(345): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.13-16.56.17:810][670]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2025.09.13-16.56.18:199][670]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2025.09.13-16.56.18:254][670]Display: HotReload took 22.4s.
+[2025.09.13-16.56.18:254][670]Display: Reload/Re-instancing Complete: 1 package changed, 7 classes unchanged, 2 enums unchanged, 10 functions remapped
+[2025.09.13-16.56.38:964][291]LogSlate: Window 'Message Log' being destroyed
+[2025.09.13-16.56.38:968][291]LogSlate: Window 'Message Log' being destroyed
+[2025.09.13-16.56.41:969][381]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 653.730469
+[2025.09.13-16.56.42:236][389]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.13-16.56.42:236][389]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 653.964233, Update Interval: 359.756470
+[2025.09.13-16.56.42:698][403]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.13-16.56.42:731][403]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.13-16.56.42:750][403]LogOnline: OSS: Created online subsystem instance for: NULL
+[2025.09.13-16.56.42:751][403]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2025.09.13-16.56.42:754][403]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Minimal_Default_2
+[2025.09.13-16.56.42:767][403]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011620s)
+[2025.09.13-16.56.42:767][403]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Minimal_Default_2.Minimal_Default_2 to /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 (0.012242s)
+[2025.09.13-16.56.42:779][403]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.09.13-16.56.42:783][403]LogChaosDD: Creating Chaos Debug Draw Scene for world Minimal_Default_2
+[2025.09.13-16.56.42:793][403]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2'.
+[2025.09.13-16.56.42:795][403]LogPlayLevel: PIE: World Init took: (0.012198s)
+[2025.09.13-16.56.42:800][403]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2025.09.13-16.56.42:802][403]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.13-16.56.42:802][403]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.13-16.56.42:802][403]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.13-16.56.42:802][403]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.13-16.56.42:802][403]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.13-16.56.42:802][403]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.13-16.56.42:802][403]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.13-16.56.42:802][403]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.13-16.56.42:802][403]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.13-16.56.42:802][403]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.13-16.56.42:802][403]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.13-16.56.42:804][403]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.13-16.56.42:822][403]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.09.13-16.56.42:822][403]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.13-16.56.42:822][403]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.13-16.56.42:822][403]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.13-16.56.42:823][403]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2025.09.13-16.56.42:823][403]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2025.09.13-16.56.42:826][403]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2025.09.13-16.56.42:826][403]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2025.09.13-16.56.42:826][403]LogInit: FAudioDevice initialized with ID 2.
+[2025.09.13-16.56.42:826][403]LogAudio: Display: Audio Device (ID: 2) registered with world 'Minimal_Default_2'.
+[2025.09.13-16.56.42:827][403]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2025.09.13-16.56.42:843][403]LogLoad: Game class is 'BP_GameMode_C'
+[2025.09.13-16.56.42:905][403]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Echo'
+[2025.09.13-16.56.42:941][403]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 up for play (max tick rate 60) at 2025.09.13-18.56.42
+[2025.09.13-16.56.42:961][403]LogWorld: Bringing up level for play took: 0.117319
+[2025.09.13-16.56.42:966][403]LogOnline: OSS: Created online subsystem instance for: :Context_2
+[2025.09.13-16.56.44:330][403]PIE: Server logged in
+[2025.09.13-16.56.44:332][403]PIE: Play in editor total start time 1.622 seconds.
+[2025.09.13-16.57.27:614][683]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.13-16.57.27:614][683]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Minimal_Default_2
+[2025.09.13-16.57.27:621][683]LogWorld: UWorld::CleanupWorld for Minimal_Default_2, bSessionEnded=true, bCleanupResources=true
+[2025.09.13-16.57.27:626][683]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.13-16.57.27:649][683]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.13-16.57.27:654][683]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.13-16.57.27:673][683]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.13-16.57.27:675][683]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2025.09.13-16.57.27:677][683]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.09.13-16.57.27:681][683]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.09.13-16.57.27:705][683]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.09.13-16.57.27:810][686]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2025.09.13-16.57.33:096][837]Cmd: r.Nanite 0
+[2025.09.13-16.57.33:124][837]r.Nanite = "0"
+[2025.09.13-16.57.34:897][891]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.13-16.57.34:908][891]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.13-16.57.34:909][891]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Minimal_Default_2
+[2025.09.13-16.57.34:913][891]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004349s)
+[2025.09.13-16.57.34:913][891]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Minimal_Default_2.Minimal_Default_2 to /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 (0.004402s)
+[2025.09.13-16.57.34:969][891]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.09.13-16.57.34:970][891]LogChaosDD: Creating Chaos Debug Draw Scene for world Minimal_Default_2
+[2025.09.13-16.57.34:971][891]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2'.
+[2025.09.13-16.57.34:971][891]LogPlayLevel: PIE: World Init took: (0.001489s)
+[2025.09.13-16.57.34:972][891]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2025.09.13-16.57.34:972][891]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.13-16.57.34:972][891]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.13-16.57.34:972][891]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.13-16.57.34:972][891]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.13-16.57.34:972][891]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.13-16.57.34:972][891]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.13-16.57.34:972][891]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.13-16.57.34:972][891]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.13-16.57.34:972][891]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.13-16.57.34:972][891]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.13-16.57.34:972][891]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.13-16.57.34:974][891]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.13-16.57.34:989][891]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.09.13-16.57.34:990][891]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.13-16.57.34:990][891]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.13-16.57.34:990][891]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.13-16.57.34:990][891]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2025.09.13-16.57.34:990][891]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2025.09.13-16.57.34:993][891]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2025.09.13-16.57.34:993][891]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2025.09.13-16.57.34:993][891]LogInit: FAudioDevice initialized with ID 3.
+[2025.09.13-16.57.34:993][891]LogAudio: Display: Audio Device (ID: 3) registered with world 'Minimal_Default_2'.
+[2025.09.13-16.57.34:993][891]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2025.09.13-16.57.34:996][891]LogLoad: Game class is 'BP_GameMode_C'
+[2025.09.13-16.57.35:002][891]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Echo'
+[2025.09.13-16.57.35:004][891]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 up for play (max tick rate 60) at 2025.09.13-18.57.35
+[2025.09.13-16.57.35:005][891]LogWorld: Bringing up level for play took: 0.008985
+[2025.09.13-16.57.35:007][891]LogOnline: OSS: Created online subsystem instance for: :Context_3
+[2025.09.13-16.57.35:009][891]PIE: Server logged in
+[2025.09.13-16.57.35:011][891]PIE: Play in editor total start time 0.106 seconds.
+[2025.09.13-16.58.02:257][706]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.13-16.58.02:257][706]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Minimal_Default_2
+[2025.09.13-16.58.02:257][706]LogWorld: UWorld::CleanupWorld for Minimal_Default_2, bSessionEnded=true, bCleanupResources=true
+[2025.09.13-16.58.02:258][706]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.13-16.58.02:262][706]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.13-16.58.02:265][706]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.13-16.58.02:277][706]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.13-16.58.02:277][706]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2025.09.13-16.58.02:277][706]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.09.13-16.58.02:283][706]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.09.13-16.58.02:291][706]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.09.13-16.58.02:381][709]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2025.09.13-16.58.12:736][ 10]Candidate modules for hot reload:
+[2025.09.13-16.58.12:736][ 10]  Slash_Project
+[2025.09.13-16.58.12:745][ 10]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_5.5/Engine/Build/BatchFiles/Build.bat  -ModuleWithSuffix=Slash_Project,4821 Slash_ProjectEditor Win64 Development -Project="C:/Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Slash_Project.uproject" "C:/Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Slash_Project.uproject"  -IgnoreJunk]
+[2025.09.13-16.58.12:752][ 10]Warning: Starting HotReload took  0.2s.
+[2025.09.13-16.58.23:013][315]CompilerResultsLog: Using bundled DotNet SDK version: 8.0.300
+[2025.09.13-16.58.23:013][315]CompilerResultsLog: Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" -ModuleWithSuffix=Slash_Project,4821 Slash_ProjectEditor Win64 Development -Project="C:/Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Slash_Project.uproject" "C:/Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Slash_Project.uproject"  -IgnoreJunk
+[2025.09.13-16.58.23:013][315]CompilerResultsLog: Log file: C:\Users\Usuario\AppData\Local\UnrealBuildTool\Log.txt
+[2025.09.13-16.58.23:013][315]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project).
+[2025.09.13-16.58.23:013][315]CompilerResultsLog: Building Slash_ProjectEditor...
+[2025.09.13-16.58.23:013][315]CompilerResultsLog: Using Visual Studio 2022 14.38.33145 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130) and Windows 10.0.22621.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2025.09.13-16.58.23:013][315]CompilerResultsLog: [Upgrade]
+[2025.09.13-16.58.23:013][315]CompilerResultsLog: [Upgrade] Using backward-compatible include order. The latest version of UE has changed the order of includes, which may require code changes. The current setting is:
+[2025.09.13-16.58.23:013][315]CompilerResultsLog: [Upgrade]     IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_3
+[2025.09.13-16.58.23:013][315]CompilerResultsLog: [Upgrade] Suppress this message by setting 'IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_5;' in Slash_ProjectEditor.Target.cs.
+[2025.09.13-16.58.23:013][315]CompilerResultsLog: [Upgrade] Alternatively you can set this to 'EngineIncludeOrderVersion.Latest' to always use the latest include order. This will potentially cause compile errors when integrating new versions of the engine.
+[2025.09.13-16.58.23:013][315]CompilerResultsLog: [Upgrade]
+[2025.09.13-16.58.23:013][315]CompilerResultsLog: [Adaptive Build] Excluded from Slash_Project unity file: Enemy.cpp
+[2025.09.13-16.58.23:013][315]CompilerResultsLog: Determining max actions to execute in parallel (6 physical cores, 12 logical cores)
+[2025.09.13-16.58.23:013][315]CompilerResultsLog:   Executing up to 6 processes, one per physical core
+[2025.09.13-16.58.23:013][315]CompilerResultsLog:   Requested 1.5 GB memory per action, 3.34 GB available: limiting max parallel actions to 2
+[2025.09.13-16.58.23:013][315]CompilerResultsLog: Using XGE executor to run 4 action(s)
+[2025.09.13-16.58.23:013][315]CompilerResultsLog: Distributing 4 actions to XGE
+[2025.09.13-16.58.23:013][315]CompilerResultsLog: UnrealBuildTool Compile
+[2025.09.13-16.58.23:013][315]CompilerResultsLog: 
+[2025.09.13-16.58.23:013][315]CompilerResultsLog: --------------------Build System Warning---------------------------------------
+[2025.09.13-16.58.23:013][315]CompilerResultsLog: License not activated:
+[2025.09.13-16.58.23:013][315]CompilerResultsLog:     License is not activated. Please activate the license in the coordinator.
+[2025.09.13-16.58.23:013][315]CompilerResultsLog:     This build will run in standalone mode.
+[2025.09.13-16.58.23:013][315]CompilerResultsLog: 
+[2025.09.13-16.58.23:013][315]CompilerResultsLog: -------------------------------------------------------------------------------
+[2025.09.13-16.58.23:013][315]CompilerResultsLog: 
+[2025.09.13-16.58.23:013][315]CompilerResultsLog: Build ID: {E8164FB9-3223-4D62-9FA3-AE9362156A7A}
+[2025.09.13-16.58.23:013][315]CompilerResultsLog: 
+[2025.09.13-16.58.23:013][315]CompilerResultsLog: --------------------Project: Default-------------------------------------------
+[2025.09.13-16.58.23:013][315]CompilerResultsLog: [1/4] Compile [x64] Enemy.cpp (0:04.67 at +0:00)
+[2025.09.13-16.58.23:013][315]CompilerResultsLog: [2/4] Link [x64] UnrealEditor-Slash_Project-4821.lib (0:00.07 at +0:04)
+[2025.09.13-16.58.23:013][315]CompilerResultsLog:    Creating library C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Intermediate\Build\Win64\x64\UnrealEditor\Development\Slash_Project\UnrealEditor-Slash_Project-4821.lib and object C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Intermediate\Build\Win64\x64\UnrealEditor\Development\Slash_Project\UnrealEditor-Slash_Project-4821.exp
+[2025.09.13-16.58.23:014][315]CompilerResultsLog: [3/4] Link [x64] UnrealEditor-Slash_Project-4821.dll (0:00.95 at +0:04)
+[2025.09.13-16.58.23:014][315]CompilerResultsLog:    Creating object C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Binaries\Win64\UnrealEditor-Slash_Project-4821.exp
+[2025.09.13-16.58.23:014][315]CompilerResultsLog: [4/4] WriteMetadata Slash_ProjectEditor.target (0:00.40 at +0:05)
+[2025.09.13-16.58.23:014][315]CompilerResultsLog: ---------------------- Done ----------------------
+[2025.09.13-16.58.23:014][315]CompilerResultsLog: 
+[2025.09.13-16.58.23:014][315]CompilerResultsLog:     Rebuild All: 1 succeeded, 0 failed, 0 skipped
+[2025.09.13-16.58.23:014][315]CompilerResultsLog: 
+[2025.09.13-16.58.23:014][315]CompilerResultsLog: 1 build system warning(s):
+[2025.09.13-16.58.23:014][315]CompilerResultsLog:    - License not activated
+[2025.09.13-16.58.23:014][315]CompilerResultsLog: 
+[2025.09.13-16.58.23:014][315]CompilerResultsLog: Total time in XGE executor: 8.42 seconds
+[2025.09.13-16.58.23:014][315]CompilerResultsLog: Total execution time: 10.08 seconds
+[2025.09.13-16.58.23:014][315]LogMainFrame: MainFrame: Module compiling took 10.451 seconds
+[2025.09.13-16.58.23:025][315]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.09.13-16.58.23:196][315]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2025.09.13-16.58.23:217][315]Display: HotReload took 10.7s.
+[2025.09.13-16.58.23:217][315]Display: Reload/Re-instancing Complete: 1 package changed, 7 classes unchanged, 2 enums unchanged, 10 functions remapped
+[2025.09.13-16.58.24:478][352]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.13-16.58.24:493][352]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.13-16.58.24:494][352]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Minimal_Default_2
+[2025.09.13-16.58.24:502][352]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007937s)
+[2025.09.13-16.58.24:502][352]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Minimal_Default_2.Minimal_Default_2 to /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 (0.007993s)
+[2025.09.13-16.58.24:514][352]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.09.13-16.58.24:515][352]LogChaosDD: Creating Chaos Debug Draw Scene for world Minimal_Default_2
+[2025.09.13-16.58.24:517][352]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2'.
+[2025.09.13-16.58.24:518][352]LogPlayLevel: PIE: World Init took: (0.002847s)
+[2025.09.13-16.58.24:520][352]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2025.09.13-16.58.24:520][352]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.13-16.58.24:520][352]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.13-16.58.24:520][352]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.13-16.58.24:520][352]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.13-16.58.24:520][352]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.13-16.58.24:520][352]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.13-16.58.24:520][352]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.13-16.58.24:520][352]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.13-16.58.24:520][352]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.13-16.58.24:520][352]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.13-16.58.24:520][352]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.13-16.58.24:523][352]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.13-16.58.24:543][352]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.09.13-16.58.24:544][352]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.13-16.58.24:544][352]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.13-16.58.24:544][352]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.13-16.58.24:545][352]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2025.09.13-16.58.24:545][352]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2025.09.13-16.58.24:548][352]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2025.09.13-16.58.24:548][352]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2025.09.13-16.58.24:548][352]LogInit: FAudioDevice initialized with ID 4.
+[2025.09.13-16.58.24:548][352]LogAudio: Display: Audio Device (ID: 4) registered with world 'Minimal_Default_2'.
+[2025.09.13-16.58.24:549][352]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2025.09.13-16.58.24:553][352]LogLoad: Game class is 'BP_GameMode_C'
+[2025.09.13-16.58.24:562][352]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Echo'
+[2025.09.13-16.58.24:566][352]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 up for play (max tick rate 60) at 2025.09.13-18.58.24
+[2025.09.13-16.58.24:567][352]LogWorld: Bringing up level for play took: 0.014366
+[2025.09.13-16.58.24:571][352]LogOnline: OSS: Created online subsystem instance for: :Context_4
+[2025.09.13-16.58.24:574][352]PIE: Server logged in
+[2025.09.13-16.58.24:576][352]PIE: Play in editor total start time 0.089 seconds.
+[2025.09.13-16.58.55:266][258]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.13-16.58.55:266][258]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Minimal_Default_2
+[2025.09.13-16.58.55:267][258]LogWorld: UWorld::CleanupWorld for Minimal_Default_2, bSessionEnded=true, bCleanupResources=true
+[2025.09.13-16.58.55:268][258]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.13-16.58.55:273][258]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.13-16.58.55:278][258]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.13-16.58.55:292][258]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.13-16.58.55:292][258]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2025.09.13-16.58.55:292][258]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.09.13-16.58.55:295][258]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.09.13-16.58.55:305][258]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.09.13-16.58.55:409][261]LogPlayLevel: Display: Destroying online subsystem :Context_4
