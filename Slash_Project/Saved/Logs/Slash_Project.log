@@ -2060,3 +2060,318 @@ Skipped package /AudioModulation/Volume was expected to be found in plugin Audio
 [2025.09.13-18.13.21:324][542]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Audio/MetaSounds/sfx_HitFlesh_Auto2
 [2025.09.13-18.13.21:324][542]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/sfx_HitFlesh_Auto2439437DB4C6E2C63602B30BA16A63AF5.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Autosaves/Game/Audio/MetaSounds/sfx_HitFlesh_Auto2.uasset'
 [2025.09.13-18.13.21:327][542]LogFileHelpers: Auto-saving content packages took 0.046
+[2025.09.13-18.17.29:501][962]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.09.13-18.17.30:580][962]LogSlate: Window 'Save Content' being destroyed
+[2025.09.13-18.17.30:591][962]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.13-18.17.30:625][962]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Audio/MetaSounds/sfx_HitFlesh] ([1] browsable assets)...
+[2025.09.13-18.17.30:625][962]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/MetaSounds/sfx_HitFlesh]
+[2025.09.13-18.17.30:683][962]LogSavePackage: Moving output files for package: /Game/Audio/MetaSounds/sfx_HitFlesh
+[2025.09.13-18.17.30:684][962]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/sfx_HitFlesh5DED0BB843DBFDB6C2B4B2A66FE3A9F6.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Audio/MetaSounds/sfx_HitFlesh.uasset'
+[2025.09.13-18.17.30:699][962]LogFileHelpers: InternalPromptForCheckoutAndSave took 108.655 ms (total: 338.269 ms)
+[2025.09.13-18.17.30:732][962]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.13-18.17.30:732][962]LogContentValidation: Enabled validators:
+[2025.09.13-18.17.30:732][962]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.13-18.17.30:732][962]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.13-18.17.30:732][962]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.13-18.17.30:732][962]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.13-18.17.30:732][962]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.13-18.17.30:732][962]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.13-18.17.30:732][962]AssetCheck: /Game/Audio/MetaSounds/sfx_HitFlesh Validating asset
+[2025.09.13-18.17.31:660][986]LogSlate: Window 'sfx_HitFlesh' being destroyed
+[2025.09.13-18.17.31:668][986]LogSlate: Window 'sfx_HitFlesh' being destroyed
+[2025.09.13-18.17.33:498][ 36]Candidate modules for hot reload:
+[2025.09.13-18.17.33:498][ 36]  Slash_Project
+[2025.09.13-18.17.33:507][ 36]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_5.5/Engine/Build/BatchFiles/Build.bat  -ModuleWithSuffix=Slash_Project,0688 Slash_ProjectEditor Win64 Development -Project="C:/Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Slash_Project.uproject" "C:/Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Slash_Project.uproject"  -IgnoreJunk]
+[2025.09.13-18.17.33:514][ 36]Warning: Starting HotReload took  0.1s.
+[2025.09.13-18.17.49:448][510]CompilerResultsLog: Using bundled DotNet SDK version: 8.0.300
+[2025.09.13-18.17.49:448][510]CompilerResultsLog: Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" -ModuleWithSuffix=Slash_Project,0688 Slash_ProjectEditor Win64 Development -Project="C:/Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Slash_Project.uproject" "C:/Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Slash_Project.uproject"  -IgnoreJunk
+[2025.09.13-18.17.49:449][510]CompilerResultsLog: Log file: C:\Users\Usuario\AppData\Local\UnrealBuildTool\Log.txt
+[2025.09.13-18.17.49:449][510]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project).
+[2025.09.13-18.17.49:449][510]CompilerResultsLog: Creating makefile for Slash_ProjectEditor (command line arguments changed)
+[2025.09.13-18.17.49:449][510]CompilerResultsLog: Warning: C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Slash_Project.uproject does not list plugin 'HairStrands' as a dependency, but module 'Slash_Project' depends on 'HairStrandsCore'.
+[2025.09.13-18.17.49:449][510]CompilerResultsLog: Building Slash_ProjectEditor...
+[2025.09.13-18.17.49:449][510]CompilerResultsLog: Using Visual Studio 2022 14.38.33145 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130) and Windows 10.0.22621.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2025.09.13-18.17.49:449][510]CompilerResultsLog: [Upgrade]
+[2025.09.13-18.17.49:449][510]CompilerResultsLog: [Upgrade] Using backward-compatible include order. The latest version of UE has changed the order of includes, which may require code changes. The current setting is:
+[2025.09.13-18.17.49:449][510]CompilerResultsLog: [Upgrade]     IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_3
+[2025.09.13-18.17.49:449][510]CompilerResultsLog: [Upgrade] Suppress this message by setting 'IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_5;' in Slash_ProjectEditor.Target.cs.
+[2025.09.13-18.17.49:449][510]CompilerResultsLog: [Upgrade] Alternatively you can set this to 'EngineIncludeOrderVersion.Latest' to always use the latest include order. This will potentially cause compile errors when integrating new versions of the engine.
+[2025.09.13-18.17.49:449][510]CompilerResultsLog: [Upgrade]
+[2025.09.13-18.17.49:449][510]CompilerResultsLog: [Adaptive Build] Excluded from Slash_Project unity file: Enemy.cpp
+[2025.09.13-18.17.49:449][510]CompilerResultsLog: Determining max actions to execute in parallel (6 physical cores, 12 logical cores)
+[2025.09.13-18.17.49:449][510]CompilerResultsLog:   Executing up to 6 processes, one per physical core
+[2025.09.13-18.17.49:449][510]CompilerResultsLog:   Requested 1.5 GB memory per action, 4.14 GB available: limiting max parallel actions to 2
+[2025.09.13-18.17.49:449][510]CompilerResultsLog: Using XGE executor to run 6 action(s)
+[2025.09.13-18.17.49:449][510]CompilerResultsLog: Distributing 6 actions to XGE
+[2025.09.13-18.17.49:449][510]CompilerResultsLog: UnrealBuildTool Compile
+[2025.09.13-18.17.49:449][510]CompilerResultsLog: 
+[2025.09.13-18.17.49:449][510]CompilerResultsLog: --------------------Build System Warning---------------------------------------
+[2025.09.13-18.17.49:449][510]CompilerResultsLog: License not activated:
+[2025.09.13-18.17.49:449][510]CompilerResultsLog:     License is not activated. Please activate the license in the coordinator.
+[2025.09.13-18.17.49:449][510]CompilerResultsLog:     This build will run in standalone mode.
+[2025.09.13-18.17.49:449][510]CompilerResultsLog: 
+[2025.09.13-18.17.49:449][510]CompilerResultsLog: -------------------------------------------------------------------------------
+[2025.09.13-18.17.49:449][510]CompilerResultsLog: 
+[2025.09.13-18.17.49:449][510]CompilerResultsLog: Build ID: {0155E604-91B3-47EC-87DE-FF08789F3DD5}
+[2025.09.13-18.17.49:449][510]CompilerResultsLog: 
+[2025.09.13-18.17.49:449][510]CompilerResultsLog: --------------------Project: Default-------------------------------------------
+[2025.09.13-18.17.49:449][510]CompilerResultsLog: [1/6] Compile [x64] Slash_Project.init.gen.cpp (0:07.18 at +0:00)
+[2025.09.13-18.17.49:449][510]CompilerResultsLog: [2/6] Compile [x64] Enemy.gen.cpp (0:07.25 at +0:00)
+[2025.09.13-18.17.49:449][510]CompilerResultsLog: [3/6] Compile [x64] Enemy.cpp (0:07.56 at +0:00)
+[2025.09.13-18.17.49:449][510]CompilerResultsLog: [4/6] Link [x64] UnrealEditor-Slash_Project-0688.lib (0:00.07 at +0:07)
+[2025.09.13-18.17.49:449][510]CompilerResultsLog:    Creating library C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Intermediate\Build\Win64\x64\UnrealEditor\Development\Slash_Project\UnrealEditor-Slash_Project-0688.lib and object C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Intermediate\Build\Win64\x64\UnrealEditor\Development\Slash_Project\UnrealEditor-Slash_Project-0688.exp
+[2025.09.13-18.17.49:449][510]CompilerResultsLog: [5/6] Link [x64] UnrealEditor-Slash_Project-0688.dll (0:01.23 at +0:07)
+[2025.09.13-18.17.49:449][510]CompilerResultsLog:    Creating object C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Binaries\Win64\UnrealEditor-Slash_Project-0688.exp
+[2025.09.13-18.17.49:449][510]CompilerResultsLog: [6/6] WriteMetadata Slash_ProjectEditor.target (0:00.40 at +0:08)
+[2025.09.13-18.17.49:449][510]CompilerResultsLog: ---------------------- Done ----------------------
+[2025.09.13-18.17.49:449][510]CompilerResultsLog: 
+[2025.09.13-18.17.49:449][510]CompilerResultsLog:     Rebuild All: 1 succeeded, 0 failed, 0 skipped
+[2025.09.13-18.17.49:449][510]CompilerResultsLog: 
+[2025.09.13-18.17.49:449][510]CompilerResultsLog: 1 build system warning(s):
+[2025.09.13-18.17.49:449][510]CompilerResultsLog:    - License not activated
+[2025.09.13-18.17.49:449][510]CompilerResultsLog: 
+[2025.09.13-18.17.49:449][510]CompilerResultsLog: Total time in XGE executor: 11.53 seconds
+[2025.09.13-18.17.49:449][510]CompilerResultsLog: Total execution time: 15.69 seconds
+[2025.09.13-18.17.49:450][510]LogMainFrame: MainFrame: Module compiling took 15.964 seconds
+[2025.09.13-18.17.49:474][510]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.09.13-18.17.49:526][510]LogClass: UPackage /Script/Slash_Project Reload.
+[2025.09.13-18.17.49:527][510]LogClass: UClass Enemy Reload.
+[2025.09.13-18.17.49:529][510]LogClass: Could not find existing class Enemy in package /Script/Slash_Project for reload, assuming new or modified class
+[2025.09.13-18.17.49:557][510]Re-instancing Enemy after reload.
+[2025.09.13-18.17.49:702][510]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.09.13-18.17.49:719][510]Display: HotReload took 16.3s.
+[2025.09.13-18.17.49:720][510]Display: Reload/Re-instancing Complete: 1 package changed, 1 class changed, 6 classes unchanged, 2 enums unchanged, 10 functions remapped
+[2025.09.13-18.18.03:902][918]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
+[2025.09.13-18.18.03:903][918]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_1'.
+[2025.09.13-18.18.10:768][115]LogSlate: Took 0.001065 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.09.13-18.18.24:024][509]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5555.642090
+[2025.09.13-18.18.24:204][515]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.13-18.18.24:204][515]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5555.812500, Update Interval: 312.989899
+[2025.09.13-18.19.48:827][ 35]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2025.09.13-18.19.48:830][ 35]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_2'.
+[2025.09.13-18.19.48:922][ 36]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2025.09.13-18.19.48:923][ 36]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_3'.
+[2025.09.13-18.19.50:368][ 79]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Enemy/BP_Enemy.BP_Enemy
+[2025.09.13-18.19.50:371][ 79]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2025.09.13-18.19.50:372][ 79]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_4'.
+[2025.09.13-18.19.50:500][ 79]LogStreaming: Display: FlushAsyncLoading(361): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.13-18.19.52:522][ 82]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2025.09.13-18.19.52:523][ 82]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_5'.
+[2025.09.13-18.20.04:360][432]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.09.13-18.20.05:266][432]LogSlate: Window 'Save Content' being destroyed
+[2025.09.13-18.20.05:273][432]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.13-18.20.05:485][432]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.09.13-18.20.05:540][432]LogSavePackage: Moving output files for package: /Game/Maps/Minimal_Default_2
+[2025.09.13-18.20.05:541][432]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Minimal_Default_2BFE1558143938EF6F0B2F49290B5BF4C.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Maps/Minimal_Default_2.umap'
+[2025.09.13-18.20.05:572][432]LogFileHelpers: Saving map 'Minimal_Default_2' took 0.145
+[2025.09.13-18.20.05:573][432]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Enemy/BP_Enemy] ([2] browsable assets)...
+[2025.09.13-18.20.05:644][432]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Enemy/BP_Enemy.BP_Enemy]
+[2025.09.13-18.20.05:645][432]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemy/BP_Enemy]
+[2025.09.13-18.20.05:653][432]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemy/BP_Enemy
+[2025.09.13-18.20.05:654][432]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/BP_Enemy689BC4334A240521CEAA8BA6DFC16FFA.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Enemy/BP_Enemy.uasset'
+[2025.09.13-18.20.05:663][432]LogFileHelpers: InternalPromptForCheckoutAndSave took 389.739 ms (total: 728.009 ms)
+[2025.09.13-18.20.05:691][432]LogContentValidation: Display: Starting to validate 2 assets
+[2025.09.13-18.20.05:691][432]LogContentValidation: Enabled validators:
+[2025.09.13-18.20.05:691][432]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.13-18.20.05:691][432]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.13-18.20.05:691][432]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.13-18.20.05:692][432]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.13-18.20.05:692][432]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.13-18.20.05:692][432]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.13-18.20.05:692][432]AssetCheck: /Game/Maps/Minimal_Default_2 Validating asset
+[2025.09.13-18.20.05:692][432]AssetCheck: /Game/Blueprints/Enemy/BP_Enemy Validating asset
+[2025.09.13-18.20.07:669][485]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.09.13-18.20.19:395][827]LogSlate: Window 'BP_Enemy' being destroyed
+[2025.09.13-18.20.19:427][827]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.09.13-18.20.19:428][827]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.13-18.20.19:461][827]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Enemy/BP_Enemy.BP_Enemy
+[2025.09.13-18.20.19:462][827]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2025.09.13-18.20.19:462][827]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_6'.
+[2025.09.13-18.20.19:536][827]LogStreaming: Display: FlushAsyncLoading(513): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.13-18.20.19:700][827]LogLinker: Warning: [AssetLog] C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Content\AncientContent\Blueprints\Abilities\GameplayAbilityUtils.uasset: VerifyImport: Failed to find script package for import object 'Package /Script/GameplayAbilities'
+[2025.09.13-18.20.19:700][827]LogLinker: Warning: [AssetLog] C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Content\AncientContent\Blueprints\Abilities\GameplayAbilityUtils.uasset: CreateExport: Failed to load Class /Script/GameplayAbilities.GameplayAbility as Parent for BlueprintGeneratedClass /Game/AncientContent/Blueprints/Abilities/GameplayAbilityUtils.GameplayAbilityUtils_C - both will fail to load
+[2025.09.13-18.20.19:700][827]LogLinker: Warning: [AssetLog] C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Content\AncientContent\Blueprints\Abilities\GameplayAbilityUtils.uasset: CreateExport: Failed to load Class /Script/GameplayAbilities.GameplayAbility as Parent for BlueprintGeneratedClass /Game/AncientContent/Blueprints/Abilities/GameplayAbilityUtils.GameplayAbilityUtils_C - both will fail to load
+[2025.09.13-18.20.19:701][827]LogLinker: Warning: Unable to load Default__GameplayAbilityUtils_C with outer Package /Game/AncientContent/Blueprints/Abilities/GameplayAbilityUtils because its class (GameplayAbilityUtils_C) does not exist
+[2025.09.13-18.20.19:701][827]LogLinker: Warning: [AssetLog] C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Content\AncientContent\Blueprints\Abilities\GameplayAbilityUtils.uasset: CreateExport: Failed to load Class /Script/GameplayAbilities.GameplayAbility as Parent for BlueprintGeneratedClass /Game/AncientContent/Blueprints/Abilities/GameplayAbilityUtils.GameplayAbilityUtils_C - both will fail to load
+[2025.09.13-18.20.19:703][827]LogBlueprint: Warning: FMemberReference::ResolveMember (GetActorInfo) bSelfContext == true, but no scope supplied!
+[2025.09.13-18.20.19:703][827]LogBlueprint: Warning: FMemberReference::ResolveMember (GetActorInfo) bSelfContext == true, but no scope supplied!
+[2025.09.13-18.20.19:961][827]LogBlueprintEditor: Perf: 0.4 total seconds to load all 7 blueprint libraries in project. Avoid references to content in blueprint libraries to shorten this time.
+[2025.09.13-18.20.19:961][827]LogBlueprintEditor: Perf: 0.2 seconds loading: /Game/AncientContent/Blueprints/Character/BP_VaultingUtilLib
+[2025.09.13-18.20.21:495][827]LogBlueprint: Warning: Blueprint /Game/AncientContent/Blueprints/Abilities/GameplayAbilityUtils is missing GeneratedClass asset tag
+[2025.09.13-18.20.21:582][827]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.09.13-18.23.55:091][176]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2025.09.13-18.23.57:022][228]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.13-18.23.57:051][228]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.13-18.23.57:051][228]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Minimal_Default_2
+[2025.09.13-18.23.57:056][228]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004644s)
+[2025.09.13-18.23.57:056][228]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Minimal_Default_2.Minimal_Default_2 to /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 (0.004680s)
+[2025.09.13-18.23.57:078][228]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2025.09.13-18.23.57:081][228]LogChaosDD: Creating Chaos Debug Draw Scene for world Minimal_Default_2
+[2025.09.13-18.23.57:083][228]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2'.
+[2025.09.13-18.23.57:083][228]LogPlayLevel: PIE: World Init took: (0.001898s)
+[2025.09.13-18.23.57:084][228]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2025.09.13-18.23.57:084][228]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.13-18.23.57:084][228]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.13-18.23.57:084][228]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.13-18.23.57:084][228]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.13-18.23.57:084][228]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.13-18.23.57:085][228]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.13-18.23.57:085][228]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.13-18.23.57:085][228]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.13-18.23.57:085][228]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.13-18.23.57:085][228]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.13-18.23.57:085][228]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.13-18.23.57:087][228]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.13-18.23.57:103][228]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.09.13-18.23.57:103][228]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.13-18.23.57:103][228]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.13-18.23.57:103][228]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.13-18.23.57:104][228]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2025.09.13-18.23.57:104][228]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2025.09.13-18.23.57:107][228]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2025.09.13-18.23.57:107][228]LogInit: FAudioDevice initialized with ID 6.
+[2025.09.13-18.23.57:107][228]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2025.09.13-18.23.57:107][228]LogAudio: Display: Audio Device (ID: 6) registered with world 'Minimal_Default_2'.
+[2025.09.13-18.23.57:107][228]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2025.09.13-18.23.57:110][228]LogLoad: Game class is 'BP_GameMode_C'
+[2025.09.13-18.23.57:116][228]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Echo'
+[2025.09.13-18.23.57:119][228]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 up for play (max tick rate 0) at 2025.09.13-20.23.57
+[2025.09.13-18.23.57:120][228]LogWorld: Bringing up level for play took: 0.010058
+[2025.09.13-18.23.57:123][228]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2025.09.13-18.23.57:127][228]PIE: Server logged in
+[2025.09.13-18.23.57:128][228]PIE: Play in editor total start time 0.099 seconds.
+[2025.09.13-18.24.20:926][940]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5912.546387
+[2025.09.13-18.24.21:159][947]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.13-18.24.21:159][947]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5912.747559, Update Interval: 358.991058
+[2025.09.13-18.24.38:684][472]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.13-18.24.38:684][472]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Minimal_Default_2
+[2025.09.13-18.24.38:684][472]LogWorld: UWorld::CleanupWorld for Minimal_Default_2, bSessionEnded=true, bCleanupResources=true
+[2025.09.13-18.24.38:685][472]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.13-18.24.38:692][472]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.13-18.24.38:697][472]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.13-18.24.38:716][472]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.13-18.24.38:716][472]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2025.09.13-18.24.38:716][472]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2025.09.13-18.24.38:718][472]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2025.09.13-18.24.38:727][472]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2025.09.13-18.24.38:967][475]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2025.09.13-18.27.06:956][893]LogContentBrowser: Deferred new asset file creation: NewSoundAttenuation
+[2025.09.13-18.27.06:965][893]LogContentBrowser: Creating deferred item: NewSoundAttenuation
+[2025.09.13-18.27.06:992][894]LogContentBrowser: Renaming the item being created (Deferred Item: NewSoundAttenuation).
+[2025.09.13-18.27.13:780][ 98]LogContentBrowser: Attempting asset rename: NewSoundAttenuation -> SA_HitFlesh
+[2025.09.13-18.27.13:783][ 98]LogContentBrowser: End creating deferred item NewSoundAttenuation
+[2025.09.13-18.27.19:681][274]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2025.09.13-18.27.20:672][274]LogSlate: Window 'Save Content' being destroyed
+[2025.09.13-18.27.20:681][274]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.13-18.27.20:710][274]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Enemy/BP_Enemy] ([2] browsable assets)...
+[2025.09.13-18.27.20:782][274]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Enemy/BP_Enemy.BP_Enemy]
+[2025.09.13-18.27.20:783][274]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemy/BP_Enemy]
+[2025.09.13-18.27.20:797][274]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemy/BP_Enemy
+[2025.09.13-18.27.20:799][274]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/BP_Enemy075A0AF5467BCA539137CFB571927646.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Enemy/BP_Enemy.uasset'
+[2025.09.13-18.27.20:800][274]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Audio/SA_HitFlesh] ([1] browsable assets)...
+[2025.09.13-18.27.20:800][274]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/SA_HitFlesh]
+[2025.09.13-18.27.20:800][274]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/SA_HitFlesh" FILE="../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Audio/SA_HitFlesh.uasset" SILENT=true
+[2025.09.13-18.27.20:801][274]LogSavePackage: Moving output files for package: /Game/Audio/SA_HitFlesh
+[2025.09.13-18.27.20:802][274]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/SA_HitFlesh41CABC3448E4AF3830BEEAB97D2399E0.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Audio/SA_HitFlesh.uasset'
+[2025.09.13-18.27.20:811][274]LogFileHelpers: InternalPromptForCheckoutAndSave took 129.948 ms (total: 857.958 ms)
+[2025.09.13-18.27.20:852][274]LogContentValidation: Display: Starting to validate 2 assets
+[2025.09.13-18.27.20:852][274]LogContentValidation: Enabled validators:
+[2025.09.13-18.27.20:852][274]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.13-18.27.20:852][274]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.13-18.27.20:852][274]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.13-18.27.20:852][274]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.13-18.27.20:852][274]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.13-18.27.20:852][274]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.13-18.27.20:852][274]AssetCheck: /Game/Blueprints/Enemy/BP_Enemy Validating asset
+[2025.09.13-18.27.20:852][274]AssetCheck: /Game/Audio/SA_HitFlesh Validating asset
+[2025.09.13-18.27.22:870][335]LogAssetEditorSubsystem: Opening Asset editor for SoundAttenuation /Game/Audio/SA_HitFlesh.SA_HitFlesh
+[2025.09.13-18.28.08:618][692]LogAssetEditorSubsystem: Opening Asset editor for MetaSoundSource /Game/Audio/MetaSounds/sfx_HitFlesh.sfx_HitFlesh
+[2025.09.13-18.28.08:663][692]LogSlate: The tab "MetasoundEditor_Pages" attempted to spawn in layout 'Standalone_MetasoundEditor_Layout_v14' but failed for some reason. It will not be displayed.
+[2025.09.13-18.31.00:234][789]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6311.846191
+[2025.09.13-18.31.00:499][797]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.13-18.31.00:499][797]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6312.078125, Update Interval: 349.513245
+[2025.09.13-18.31.05:069][929]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2025.09.13-18.31.06:641][968]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2025.09.13-18.31.07:605][968]LogSlate: Window 'Save Content' being destroyed
+[2025.09.13-18.31.07:612][968]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.13-18.31.07:634][968]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Enemy/BP_Enemy] ([2] browsable assets)...
+[2025.09.13-18.31.07:694][968]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Enemy/BP_Enemy.BP_Enemy]
+[2025.09.13-18.31.07:694][968]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemy/BP_Enemy]
+[2025.09.13-18.31.07:738][968]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemy/BP_Enemy
+[2025.09.13-18.31.07:739][968]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/BP_Enemy339FC74342C6393BAA69378CF982CEF8.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Enemy/BP_Enemy.uasset'
+[2025.09.13-18.31.07:741][968]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Audio/SA_HitFlesh] ([1] browsable assets)...
+[2025.09.13-18.31.07:741][968]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/SA_HitFlesh]
+[2025.09.13-18.31.07:741][968]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/SA_HitFlesh" FILE="../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Audio/SA_HitFlesh.uasset" SILENT=true
+[2025.09.13-18.31.07:742][968]LogSavePackage: Moving output files for package: /Game/Audio/SA_HitFlesh
+[2025.09.13-18.31.07:743][968]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/SA_HitFleshEF02781F4451A6EA0B21E28C785E1948.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Audio/SA_HitFlesh.uasset'
+[2025.09.13-18.31.07:746][968]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Audio/MetaSounds/sfx_HitFlesh] ([1] browsable assets)...
+[2025.09.13-18.31.07:746][968]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/MetaSounds/sfx_HitFlesh]
+[2025.09.13-18.31.07:802][968]LogSavePackage: Moving output files for package: /Game/Audio/MetaSounds/sfx_HitFlesh
+[2025.09.13-18.31.07:803][968]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/sfx_HitFleshBD4C3CB447DE719967CDE1B1B86E33AA.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Audio/MetaSounds/sfx_HitFlesh.uasset'
+[2025.09.13-18.31.07:816][968]LogFileHelpers: InternalPromptForCheckoutAndSave took 202.668 ms (total: 1.06 sec)
+[2025.09.13-18.31.07:851][968]LogContentValidation: Display: Starting to validate 3 assets
+[2025.09.13-18.31.07:851][968]LogContentValidation: Enabled validators:
+[2025.09.13-18.31.07:851][968]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.13-18.31.07:851][968]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.13-18.31.07:851][968]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.13-18.31.07:851][968]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.13-18.31.07:851][968]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.13-18.31.07:851][968]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.13-18.31.07:851][968]AssetCheck: /Game/Blueprints/Enemy/BP_Enemy Validating asset
+[2025.09.13-18.31.07:851][968]AssetCheck: /Game/Audio/SA_HitFlesh Validating asset
+[2025.09.13-18.31.07:851][968]AssetCheck: /Game/Audio/MetaSounds/sfx_HitFlesh Validating asset
+[2025.09.13-18.31.52:155][291]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2025.09.13-18.32.13:128][910]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.13-18.32.13:195][910]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.13-18.32.13:195][910]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Minimal_Default_2
+[2025.09.13-18.32.13:199][910]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004670s)
+[2025.09.13-18.32.13:200][910]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Minimal_Default_2.Minimal_Default_2 to /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 (0.004704s)
+[2025.09.13-18.32.13:224][910]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2025.09.13-18.32.13:228][910]LogChaosDD: Creating Chaos Debug Draw Scene for world Minimal_Default_2
+[2025.09.13-18.32.13:229][910]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2'.
+[2025.09.13-18.32.13:229][910]LogPlayLevel: PIE: World Init took: (0.001800s)
+[2025.09.13-18.32.13:231][910]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2025.09.13-18.32.13:231][910]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.13-18.32.13:231][910]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.13-18.32.13:231][910]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.13-18.32.13:231][910]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.13-18.32.13:231][910]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.13-18.32.13:231][910]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.13-18.32.13:231][910]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.13-18.32.13:231][910]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.13-18.32.13:231][910]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.13-18.32.13:231][910]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.13-18.32.13:231][910]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.13-18.32.13:234][910]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.13-18.32.13:248][910]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.09.13-18.32.13:248][910]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.13-18.32.13:248][910]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.13-18.32.13:248][910]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.13-18.32.13:249][910]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2025.09.13-18.32.13:249][910]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2025.09.13-18.32.13:251][910]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2025.09.13-18.32.13:251][910]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2025.09.13-18.32.13:251][910]LogInit: FAudioDevice initialized with ID 7.
+[2025.09.13-18.32.13:252][910]LogAudio: Display: Audio Device (ID: 7) registered with world 'Minimal_Default_2'.
+[2025.09.13-18.32.13:252][910]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2025.09.13-18.32.13:255][910]LogLoad: Game class is 'BP_GameMode_C'
+[2025.09.13-18.32.13:261][910]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Echo'
+[2025.09.13-18.32.13:264][910]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 up for play (max tick rate 0) at 2025.09.13-20.32.13
+[2025.09.13-18.32.13:265][910]LogWorld: Bringing up level for play took: 0.010368
+[2025.09.13-18.32.13:268][910]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2025.09.13-18.32.13:272][910]PIE: Server logged in
+[2025.09.13-18.32.13:273][910]PIE: Play in editor total start time 0.138 seconds.
+[2025.09.13-18.32.23:143][205]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.13-18.32.23:143][205]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Minimal_Default_2
+[2025.09.13-18.32.23:143][205]LogWorld: UWorld::CleanupWorld for Minimal_Default_2, bSessionEnded=true, bCleanupResources=true
+[2025.09.13-18.32.23:144][205]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.13-18.32.23:153][205]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.13-18.32.23:159][205]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.13-18.32.23:181][205]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.09.13-18.32.23:181][205]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2025.09.13-18.32.23:181][205]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2025.09.13-18.32.23:184][205]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2025.09.13-18.32.23:188][205]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.13-18.32.23:191][205]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2025.09.13-18.32.23:437][208]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2025.09.13-18.32.31:993][453]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.

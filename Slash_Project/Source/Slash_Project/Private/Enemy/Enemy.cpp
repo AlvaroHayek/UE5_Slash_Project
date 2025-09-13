@@ -52,6 +52,15 @@ void AEnemy::GetHit(const FVector& ImpactPoint)
 	DRAW_SPHERE_COLOR(ImpactPoint, FColor::Yellow);
 	
 	DirectionalHitReact(ImpactPoint);
+
+	if (HitSound)
+	{
+		UGameplayStatics::PlaySoundAtLocation(
+			this,
+			HitSound,
+			ImpactPoint
+		);
+	}
 }
 
 void AEnemy::DirectionalHitReact(const FVector& ImpactPoint)
