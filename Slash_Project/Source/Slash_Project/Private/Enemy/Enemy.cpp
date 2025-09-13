@@ -6,6 +6,7 @@
 #include "Components/CapsuleComponent.h"
 #include "Slash_Project/DebugMacros.h"
 #include "Kismet/KismetSystemLibrary.h"
+#include "Kismet/GameplayStatics.h"
 
 AEnemy::AEnemy()
 {
