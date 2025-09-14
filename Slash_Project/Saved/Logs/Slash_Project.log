@@ -3136,3 +3136,23 @@ Skipped package /AudioModulation/Volume was expected to be found in plugin Audio
 [2025.09.14-22.44.19:793][835]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
 [2025.09.14-22.44.19:816][835]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
 [2025.09.14-22.44.20:161][838]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2025.09.14-22.48.21:898][ 70]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5312.061035
+[2025.09.14-22.48.22:133][ 77]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.14-22.48.22:133][ 77]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5312.262207, Update Interval: 301.741394
+[2025.09.14-22.49.32:686][179]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2025.09.14-22.49.32:716][180]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.09.14-22.49.32:718][180]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=25624
+[2025.09.14-22.49.32:749][181]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.09.14-22.49.32:753][181]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{58ea4715-9790-4598-9427-e0f8b9d39fd0}, Name=Altavoces (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=22.84
+[2025.09.14-22.49.32:753][181]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.09.14-22.49.32:756][181]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.09.14-22.51.08:731][321]LogAutomationController: Ignoring very large delta of 91.38 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.09.14-22.54.10:675][735]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5660.864258
+[2025.09.14-22.54.11:076][747]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.14-22.54.11:076][747]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5661.230469, Update Interval: 330.799286
+[2025.09.14-23.00.27:942][ 15]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6038.116211
+[2025.09.14-23.00.28:207][ 23]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.14-23.00.28:207][ 24]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6038.349609, Update Interval: 334.778290
+[2025.09.14-23.07.01:003][764]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6431.107910
+[2025.09.14-23.07.01:270][772]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.14-23.07.01:270][773]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6431.341797, Update Interval: 341.575378
