@@ -262,6 +262,7 @@
     <None Include="..\..\Source\Slash_Project\Slash_ProjectEditor.Target.cs"/>
     <None Include="..\..\.editorconfig"/>
     <None Include="..\..\.vsconfig"/>
+    <None Include="..\..\OldWest_VOL5.png"/>
     <None Include="..\..\shadertoolsconfig.json"/>
     <None Include="..\..\Config\.editorconfig"/>
     <None Include="..\..\Config\DefaultEditor.ini"/>
@@ -276,6 +277,9 @@
       <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <ClCompile Include="..\..\Source\Slash_Project\Slash_Project.h">
+      <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Slash_Project\Private\Breakable\BreakableActor.cpp">
       <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <ClCompile Include="..\..\Source\Slash_Project\Private\Characters\SlashAnimInstance.cpp">
@@ -297,6 +301,9 @@
       <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <ClCompile Include="..\..\Source\Slash_Project\Private\Pawns\Bird.cpp">
+      <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Slash_Project\Public\Breakable\BreakableActor.h">
       <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <ClCompile Include="..\..\Source\Slash_Project\Public\Characters\CharacterTypes.h">

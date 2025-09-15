@@ -16,6 +16,7 @@
     </None>
     <None Include="..\..\.editorconfig" />
     <None Include="..\..\.vsconfig" />
+    <None Include="..\..\OldWest_VOL5.png" />
     <None Include="..\..\shadertoolsconfig.json" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
@@ -50,6 +51,12 @@
     <Filter Include="Source\Slash_Project\Private">
       <UniqueIdentifier>{A07B341A-CF6B-3E5A-B52B-B63F47BB4AC2}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source\Slash_Project\Private\Breakable">
+      <UniqueIdentifier>{750D22DD-2FE7-3CA0-AD68-0D2C93A2B1EC}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Slash_Project\Private\Breakable\BreakableActor.cpp">
+      <Filter>Source\Slash_Project\Private\Breakable</Filter>
+    </ClCompile>
     <Filter Include="Source\Slash_Project\Private\Characters">
       <UniqueIdentifier>{2AA13B30-CD77-39A6-BDC8-7113DBBD7816}</UniqueIdentifier>
     </Filter>
@@ -92,6 +99,12 @@
     <Filter Include="Source\Slash_Project\Public">
       <UniqueIdentifier>{837A0832-DA3C-38A7-8503-42A05DA40DAC}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source\Slash_Project\Public\Breakable">
+      <UniqueIdentifier>{123BB93D-75B3-3940-B2C1-327F94ED0623}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Slash_Project\Public\Breakable\BreakableActor.h">
+      <Filter>Source\Slash_Project\Public\Breakable</Filter>
+    </ClCompile>
     <Filter Include="Source\Slash_Project\Public\Characters">
       <UniqueIdentifier>{75883F9D-6375-3F94-AA9E-0662BB63D24A}</UniqueIdentifier>
     </Filter>
