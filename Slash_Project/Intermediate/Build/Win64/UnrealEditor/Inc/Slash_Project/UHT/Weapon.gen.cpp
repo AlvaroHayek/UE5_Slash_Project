@@ -11,6 +11,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 void EmptyLinkFunctionForGeneratedCodeWeapon() {}
 
 // Begin Cross Module References
+COREUOBJECT_API UScriptStruct* Z_Construct_UScriptStruct_FVector();
 ENGINE_API UClass* Z_Construct_UClass_AActor_NoRegister();
 ENGINE_API UClass* Z_Construct_UClass_UBoxComponent_NoRegister();
 ENGINE_API UClass* Z_Construct_UClass_UPrimitiveComponent_NoRegister();
@@ -22,6 +23,51 @@ SLASH_PROJECT_API UClass* Z_Construct_UClass_AWeapon();
 SLASH_PROJECT_API UClass* Z_Construct_UClass_AWeapon_NoRegister();
 UPackage* Z_Construct_UPackage__Script_Slash_Project();
 // End Cross Module References
+
+// Begin Class AWeapon Function CreateFields
+struct Weapon_eventCreateFields_Parms
+{
+	FVector FieldLocation;
+};
+static const FName NAME_AWeapon_CreateFields = FName(TEXT("CreateFields"));
+void AWeapon::CreateFields(FVector const& FieldLocation)
+{
+	Weapon_eventCreateFields_Parms Parms;
+	Parms.FieldLocation=FieldLocation;
+	UFunction* Func = FindFunctionChecked(NAME_AWeapon_CreateFields);
+	ProcessEvent(Func,&Parms);
+}
+struct Z_Construct_UFunction_AWeapon_CreateFields_Statics
+{
+#if WITH_METADATA
+	static constexpr UECodeGen_Private::FMetaDataPairParam Function_MetaDataParams[] = {
+		{ "ModuleRelativePath", "Public/Items/Weapons/Weapon.h" },
+	};
+	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_FieldLocation_MetaData[] = {
+		{ "NativeConst", "" },
+	};
+#endif // WITH_METADATA
+	static const UECodeGen_Private::FStructPropertyParams NewProp_FieldLocation;
+	static const UECodeGen_Private::FPropertyParamsBase* const PropPointers[];
+	static const UECodeGen_Private::FFunctionParams FuncParams;
+};
+const UECodeGen_Private::FStructPropertyParams Z_Construct_UFunction_AWeapon_CreateFields_Statics::NewProp_FieldLocation = { "FieldLocation", nullptr, (EPropertyFlags)0x0010000008000182, UECodeGen_Private::EPropertyGenFlags::Struct, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(Weapon_eventCreateFields_Parms, FieldLocation), Z_Construct_UScriptStruct_FVector, METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_FieldLocation_MetaData), NewProp_FieldLocation_MetaData) };
+const UECodeGen_Private::FPropertyParamsBase* const Z_Construct_UFunction_AWeapon_CreateFields_Statics::PropPointers[] = {
+	(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UFunction_AWeapon_CreateFields_Statics::NewProp_FieldLocation,
+};
+static_assert(UE_ARRAY_COUNT(Z_Construct_UFunction_AWeapon_CreateFields_Statics::PropPointers) < 2048);
+const UECodeGen_Private::FFunctionParams Z_Construct_UFunction_AWeapon_CreateFields_Statics::FuncParams = { (UObject*(*)())Z_Construct_UClass_AWeapon, nullptr, "CreateFields", nullptr, nullptr, Z_Construct_UFunction_AWeapon_CreateFields_Statics::PropPointers, UE_ARRAY_COUNT(Z_Construct_UFunction_AWeapon_CreateFields_Statics::PropPointers), sizeof(Weapon_eventCreateFields_Parms), RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x08C80800, 0, 0, METADATA_PARAMS(UE_ARRAY_COUNT(Z_Construct_UFunction_AWeapon_CreateFields_Statics::Function_MetaDataParams), Z_Construct_UFunction_AWeapon_CreateFields_Statics::Function_MetaDataParams) };
+static_assert(sizeof(Weapon_eventCreateFields_Parms) < MAX_uint16);
+UFunction* Z_Construct_UFunction_AWeapon_CreateFields()
+{
+	static UFunction* ReturnFunction = nullptr;
+	if (!ReturnFunction)
+	{
+		UECodeGen_Private::ConstructUFunction(&ReturnFunction, Z_Construct_UFunction_AWeapon_CreateFields_Statics::FuncParams);
+	}
+	return ReturnFunction;
+}
+// End Class AWeapon Function CreateFields
 
 // Begin Class AWeapon Function OnBoxOverlap
 struct Z_Construct_UFunction_AWeapon_OnBoxOverlap_Statics
@@ -155,6 +201,7 @@ struct Z_Construct_UClass_AWeapon_Statics
 	static const UECodeGen_Private::FPropertyParamsBase* const PropPointers[];
 	static UObject* (*const DependentSingletons[])();
 	static constexpr FClassFunctionLinkInfo FuncInfo[] = {
+		{ &Z_Construct_UFunction_AWeapon_CreateFields, "CreateFields" }, // 3558384815
 		{ &Z_Construct_UFunction_AWeapon_OnBoxOverlap, "OnBoxOverlap" }, // 2676665737
 	};
 	static_assert(UE_ARRAY_COUNT(FuncInfo) < 2048);
@@ -214,10 +261,10 @@ AWeapon::~AWeapon() {}
 struct Z_CompiledInDeferFile_FID_Users_Usuario_Desktop_UnrealEngineUnity_UE5_Slash_Project_Slash_Project_Source_Slash_Project_Public_Items_Weapons_Weapon_h_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
-		{ Z_Construct_UClass_AWeapon, AWeapon::StaticClass, TEXT("AWeapon"), &Z_Registration_Info_UClass_AWeapon, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AWeapon), 1923716256U) },
+		{ Z_Construct_UClass_AWeapon, AWeapon::StaticClass, TEXT("AWeapon"), &Z_Registration_Info_UClass_AWeapon, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AWeapon), 2301843308U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_Usuario_Desktop_UnrealEngineUnity_UE5_Slash_Project_Slash_Project_Source_Slash_Project_Public_Items_Weapons_Weapon_h_2898753065(TEXT("/Script/Slash_Project"),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_Usuario_Desktop_UnrealEngineUnity_UE5_Slash_Project_Slash_Project_Source_Slash_Project_Public_Items_Weapons_Weapon_h_3362529700(TEXT("/Script/Slash_Project"),
 	Z_CompiledInDeferFile_FID_Users_Usuario_Desktop_UnrealEngineUnity_UE5_Slash_Project_Slash_Project_Source_Slash_Project_Public_Items_Weapons_Weapon_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_Usuario_Desktop_UnrealEngineUnity_UE5_Slash_Project_Slash_Project_Source_Slash_Project_Public_Items_Weapons_Weapon_h_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);

@@ -41,6 +41,7 @@ ASlashCharacter::ASlashCharacter()
 void ASlashCharacter::BeginPlay()
 {
 	Super::BeginPlay();
+	//EquippedWeapon->IgnoreActors.Empty();
 
 }
 
@@ -227,6 +228,3 @@ void ASlashCharacter::AttackEnd()
 {
 	ActionState = EActionState::EAS_Unoccupied;
 }
-
-
-
