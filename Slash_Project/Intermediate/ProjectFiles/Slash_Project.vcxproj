@@ -262,6 +262,7 @@
     <None Include="..\..\Source\Slash_Project\Slash_ProjectEditor.Target.cs"/>
     <None Include="..\..\.editorconfig"/>
     <None Include="..\..\.vsconfig"/>
+    <None Include="..\..\AncientTreasures.png"/>
     <None Include="..\..\OldWest_VOL5.png"/>
     <None Include="..\..\shadertoolsconfig.json"/>
     <None Include="..\..\Config\.editorconfig"/>
@@ -297,6 +298,9 @@
     <ClCompile Include="..\..\Source\Slash_Project\Private\Items\Item.cpp">
       <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
+    <ClCompile Include="..\..\Source\Slash_Project\Private\Items\Treasure.cpp">
+      <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
     <ClCompile Include="..\..\Source\Slash_Project\Private\Items\Weapons\Weapon.cpp">
       <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
@@ -322,6 +326,9 @@
       <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <ClCompile Include="..\..\Source\Slash_Project\Public\Items\Item.h">
+      <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Slash_Project\Public\Items\Treasure.h">
       <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <ClCompile Include="..\..\Source\Slash_Project\Public\Items\Weapons\Weapon.h">

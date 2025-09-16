@@ -16,6 +16,7 @@
     </None>
     <None Include="..\..\.editorconfig" />
     <None Include="..\..\.vsconfig" />
+    <None Include="..\..\AncientTreasures.png" />
     <None Include="..\..\OldWest_VOL5.png" />
     <None Include="..\..\shadertoolsconfig.json" />
     <Filter Include="Config">
@@ -84,6 +85,9 @@
     <ClCompile Include="..\..\Source\Slash_Project\Private\Items\Item.cpp">
       <Filter>Source\Slash_Project\Private\Items</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\Source\Slash_Project\Private\Items\Treasure.cpp">
+      <Filter>Source\Slash_Project\Private\Items</Filter>
+    </ClCompile>
     <Filter Include="Source\Slash_Project\Private\Items\Weapons">
       <UniqueIdentifier>{4DC60201-3F28-3EB8-AE13-D113ECCF3F02}</UniqueIdentifier>
     </Filter>
@@ -133,6 +137,9 @@
       <UniqueIdentifier>{71A1109C-7BB5-3049-A640-C7E6DBB3768D}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\Slash_Project\Public\Items\Item.h">
+      <Filter>Source\Slash_Project\Public\Items</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Slash_Project\Public\Items\Treasure.h">
       <Filter>Source\Slash_Project\Public\Items</Filter>
     </ClCompile>
     <Filter Include="Source\Slash_Project\Public\Items\Weapons">
