@@ -2922,3 +2922,486 @@ Skipped package /AudioModulation/Volume was expected to be found in plugin Audio
 [2025.09.16-01.38.56:221][353]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2025.09.16-01.38.56:229][353]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
 [2025.09.16-01.38.56:522][356]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2025.09.16-01.44.02:218][505]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4297.121582
+[2025.09.16-01.44.02:452][512]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.16-01.44.02:452][512]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4297.322266, Update Interval: 303.367401
+[2025.09.16-01.47.39:425][986]LogStreaming: Display: FlushAsyncLoading(519): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.16-01.47.44:504][986]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 ../../../../../../Users/Usuario/Downloads/PotBreaks/LargeSmash1.wav)
+[2025.09.16-01.47.44:551][986]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave LargeSmash1...
+[2025.09.16-01.47.44:555][986]LogAudioDerivedData: Warning: [SoundWave /Game/Audio/LargeSmash1.LargeSmash1] High sample rate wave (192000) with Bink Audio - perf waste - high frequencies are discarded by Bink Audio (like most perceptual codecs).
+[2025.09.16-01.47.44:651][986]LogAudioDerivedData: Display: LargeSmash1 compressed to 5.17% (from 1,712KB to 88KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2025.09.16-01.47.44:659][986]LogAudio: Display: Chunk stats for (SoundWave /Game/Audio/LargeSmash1.LargeSmash1: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=90729 bytes, ChunkN=0)
+[2025.09.16-01.47.44:663][986]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave LargeSmash1...
+[2025.09.16-01.47.44:671][986]LogAudioDerivedData: Warning: [SoundWave /Game/Audio/LargeSmash1.LargeSmash1] High sample rate wave (192000) with Bink Audio - perf waste - high frequencies are discarded by Bink Audio (like most perceptual codecs).
+[2025.09.16-01.47.44:689][986]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 ../../../../../../Users/Usuario/Downloads/PotBreaks/LargeSmash2.wav)
+[2025.09.16-01.47.44:716][986]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave LargeSmash2...
+[2025.09.16-01.47.44:730][986]LogAudioDerivedData: Warning: [SoundWave /Game/Audio/LargeSmash2.LargeSmash2] High sample rate wave (192000) with Bink Audio - perf waste - high frequencies are discarded by Bink Audio (like most perceptual codecs).
+[2025.09.16-01.47.44:772][986]LogAudioDerivedData: Display: LargeSmash1 compressed to 5.17% (from 1,712KB to 88KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2025.09.16-01.47.44:772][986]LogAudio: Display: Chunk stats for (SoundWave /Game/Audio/LargeSmash1.LargeSmash1: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=90729 bytes, ChunkN=0)
+[2025.09.16-01.47.44:855][986]LogAudioDerivedData: Display: LargeSmash2 compressed to 5.19% (from 2,346KB to 121KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2025.09.16-01.47.44:859][986]LogAudio: Display: Chunk stats for (SoundWave /Game/Audio/LargeSmash2.LargeSmash2: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=124633 bytes, ChunkN=0)
+[2025.09.16-01.47.44:863][986]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave LargeSmash2...
+[2025.09.16-01.47.44:866][986]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 ../../../../../../Users/Usuario/Downloads/PotBreaks/MediumSmash1.wav)
+[2025.09.16-01.47.44:867][986]LogAudioDerivedData: Warning: [SoundWave /Game/Audio/LargeSmash2.LargeSmash2] High sample rate wave (192000) with Bink Audio - perf waste - high frequencies are discarded by Bink Audio (like most perceptual codecs).
+[2025.09.16-01.47.44:867][986]Imported audio has DC offsets larger than 100 at the start of 2 channels - may pop and not loop well: 'MediumSmash1'
+[2025.09.16-01.47.44:873][986]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave MediumSmash1...
+[2025.09.16-01.47.44:908][986]LogAudioDerivedData: Display: MediumSmash1 compressed to 5.90% (from 1,280KB to 75KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2025.09.16-01.47.44:908][986]LogAudio: Display: Chunk stats for (SoundWave /Game/Audio/MediumSmash1.MediumSmash1: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=77317 bytes, ChunkN=0)
+[2025.09.16-01.47.44:911][986]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave MediumSmash1...
+[2025.09.16-01.47.44:911][986]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 ../../../../../../Users/Usuario/Downloads/PotBreaks/SmallSmash1.wav)
+[2025.09.16-01.47.44:913][986]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave SmallSmash1...
+[2025.09.16-01.47.44:922][986]LogAudioDerivedData: Display: SmallSmash1 compressed to 11.24% (from 269KB to 30KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2025.09.16-01.47.44:923][986]LogAudio: Display: Chunk stats for (SoundWave /Game/Audio/SmallSmash1.SmallSmash1: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=30951 bytes, ChunkN=0)
+[2025.09.16-01.47.44:925][986]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave SmallSmash1...
+[2025.09.16-01.47.44:927][986]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 ../../../../../../Users/Usuario/Downloads/PotBreaks/SmallSmash2.wav)
+[2025.09.16-01.47.44:928][986]LogAudioDerivedData: Display: MediumSmash1 compressed to 5.90% (from 1,280KB to 75KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2025.09.16-01.47.44:929][986]LogAudio: Display: Chunk stats for (SoundWave /Game/Audio/MediumSmash1.MediumSmash1: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=77317 bytes, ChunkN=0)
+[2025.09.16-01.47.44:932][986]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave SmallSmash2...
+[2025.09.16-01.47.44:936][986]LogAudioDerivedData: Display: SmallSmash1 compressed to 11.24% (from 269KB to 30KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2025.09.16-01.47.44:937][986]LogAudio: Display: Chunk stats for (SoundWave /Game/Audio/SmallSmash1.SmallSmash1: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=30951 bytes, ChunkN=0)
+[2025.09.16-01.47.44:941][986]LogAudioDerivedData: Display: SmallSmash2 compressed to 14.33% (from 228KB to 32KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2025.09.16-01.47.44:941][986]LogAudio: Display: Chunk stats for (SoundWave /Game/Audio/SmallSmash2.SmallSmash2: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=33533 bytes, ChunkN=0)
+[2025.09.16-01.47.44:943][986]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave SmallSmash2...
+[2025.09.16-01.47.44:946][986]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 ../../../../../../Users/Usuario/Downloads/PotBreaks/SmallSmash3.wav)
+[2025.09.16-01.47.44:951][986]LogAudioDerivedData: Display: SmallSmash2 compressed to 14.33% (from 228KB to 32KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2025.09.16-01.47.44:952][986]LogAudio: Display: Chunk stats for (SoundWave /Game/Audio/SmallSmash2.SmallSmash2: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=33533 bytes, ChunkN=0)
+[2025.09.16-01.47.44:954][986]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave SmallSmash3...
+[2025.09.16-01.47.44:955][986]LogAudioDerivedData: Warning: [SoundWave /Game/Audio/SmallSmash3.SmallSmash3] High sample rate wave (96000) with Bink Audio - perf waste - high frequencies are discarded by Bink Audio (like most perceptual codecs).
+[2025.09.16-01.47.44:986][986]LogAudioDerivedData: Display: SmallSmash3 compressed to 6.37% (from 724KB to 46KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2025.09.16-01.47.44:988][986]LogAudio: Display: Chunk stats for (SoundWave /Game/Audio/SmallSmash3.SmallSmash3: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=47297 bytes, ChunkN=0)
+[2025.09.16-01.47.44:990][986]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 ../../../../../../Users/Usuario/Downloads/PotBreaks/SmallSmash4.wav)
+[2025.09.16-01.47.44:990][986]Imported audio has DC offsets larger than 100 at the start of 1 channel - may pop and not loop well: 'SmallSmash4'
+[2025.09.16-01.47.44:991][986]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave SmallSmash3...
+[2025.09.16-01.47.44:991][986]LogAudioDerivedData: Warning: [SoundWave /Game/Audio/SmallSmash3.SmallSmash3] High sample rate wave (96000) with Bink Audio - perf waste - high frequencies are discarded by Bink Audio (like most perceptual codecs).
+[2025.09.16-01.47.44:993][986]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave SmallSmash4...
+[2025.09.16-01.47.45:001][986]LogAudioDerivedData: Display: SmallSmash4 compressed to 14.20% (from 185KB to 26KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2025.09.16-01.47.45:001][986]LogAudio: Display: Chunk stats for (SoundWave /Game/Audio/SmallSmash4.SmallSmash4: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=26905 bytes, ChunkN=0)
+[2025.09.16-01.47.45:003][986]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave SmallSmash4...
+[2025.09.16-01.47.45:004][986]LogAudioDerivedData: Display: LargeSmash2 compressed to 5.19% (from 2,346KB to 121KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2025.09.16-01.47.45:006][986]LogAudio: Display: Chunk stats for (SoundWave /Game/Audio/LargeSmash2.LargeSmash2: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=124633 bytes, ChunkN=0)
+[2025.09.16-01.47.45:012][986]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 ../../../../../../Users/Usuario/Downloads/PotBreaks/SmallSmash5.wav)
+[2025.09.16-01.47.45:012][986]LogAudioDerivedData: Display: SmallSmash4 compressed to 14.20% (from 185KB to 26KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2025.09.16-01.47.45:013][986]LogAudio: Display: Chunk stats for (SoundWave /Game/Audio/SmallSmash4.SmallSmash4: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=26905 bytes, ChunkN=0)
+[2025.09.16-01.47.45:024][986]Imported audio has DC offsets larger than 100 at the start of 2 channels - may pop and not loop well: 'SmallSmash5'
+[2025.09.16-01.47.45:027][986]LogAudioDerivedData: Display: SmallSmash3 compressed to 6.37% (from 724KB to 46KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2025.09.16-01.47.45:028][986]LogAudio: Display: Chunk stats for (SoundWave /Game/Audio/SmallSmash3.SmallSmash3: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=47297 bytes, ChunkN=0)
+[2025.09.16-01.47.45:033][986]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave SmallSmash5...
+[2025.09.16-01.47.45:040][986]LogAudioDerivedData: Warning: [SoundWave /Game/Audio/SmallSmash5.SmallSmash5] High sample rate wave (192000) with Bink Audio - perf waste - high frequencies are discarded by Bink Audio (like most perceptual codecs).
+[2025.09.16-01.47.45:149][986]LogAudioDerivedData: Display: SmallSmash5 compressed to 4.42% (from 1,977KB to 87KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2025.09.16-01.47.45:153][986]LogAudio: Display: Chunk stats for (SoundWave /Game/Audio/SmallSmash5.SmallSmash5: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=89519 bytes, ChunkN=0)
+[2025.09.16-01.47.45:154][986]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave SmallSmash5...
+[2025.09.16-01.47.45:156][986]LogAudioDerivedData: Warning: [SoundWave /Game/Audio/SmallSmash5.SmallSmash5] High sample rate wave (192000) with Bink Audio - perf waste - high frequencies are discarded by Bink Audio (like most perceptual codecs).
+[2025.09.16-01.47.45:279][990]LogAudioDerivedData: Display: SmallSmash5 compressed to 4.42% (from 1,977KB to 87KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2025.09.16-01.47.45:280][990]LogAudio: Display: Chunk stats for (SoundWave /Game/Audio/SmallSmash5.SmallSmash5: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=89519 bytes, ChunkN=0)
+[2025.09.16-01.47.46:829][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.09.16-01.47.47:990][ 35]LogSlate: Window 'Save Content' being destroyed
+[2025.09.16-01.47.48:065][ 35]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.16-01.47.48:132][ 35]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/LargeSmash1] ([1] browsable assets)...
+[2025.09.16-01.47.48:135][ 35]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/LargeSmash1.LargeSmash1]
+[2025.09.16-01.47.48:136][ 35]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/LargeSmash1]
+[2025.09.16-01.47.48:136][ 35]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/LargeSmash1" FILE="../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Audio/LargeSmash1.uasset" SILENT=true
+[2025.09.16-01.47.48:183][ 35]LogSavePackage: Moving output files for package: /Game/Audio/LargeSmash1
+[2025.09.16-01.47.48:183][ 35]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/LargeSmash19EE0E75D4C4BA7F723380389E4DCC8A0.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Audio/LargeSmash1.uasset'
+[2025.09.16-01.47.48:213][ 35]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/LargeSmash2] ([1] browsable assets)...
+[2025.09.16-01.47.48:217][ 35]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/LargeSmash2.LargeSmash2]
+[2025.09.16-01.47.48:217][ 35]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/LargeSmash2]
+[2025.09.16-01.47.48:217][ 35]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/LargeSmash2" FILE="../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Audio/LargeSmash2.uasset" SILENT=true
+[2025.09.16-01.47.48:227][ 35]LogSavePackage: Moving output files for package: /Game/Audio/LargeSmash2
+[2025.09.16-01.47.48:227][ 35]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/LargeSmash20490DE1340741F70D6C329AE49280092.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Audio/LargeSmash2.uasset'
+[2025.09.16-01.47.48:230][ 35]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/MediumSmash1] ([1] browsable assets)...
+[2025.09.16-01.47.48:233][ 35]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/MediumSmash1.MediumSmash1]
+[2025.09.16-01.47.48:233][ 35]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/MediumSmash1]
+[2025.09.16-01.47.48:233][ 35]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/MediumSmash1" FILE="../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Audio/MediumSmash1.uasset" SILENT=true
+[2025.09.16-01.47.48:240][ 35]LogSavePackage: Moving output files for package: /Game/Audio/MediumSmash1
+[2025.09.16-01.47.48:241][ 35]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/MediumSmash150566D94420F07595204BBBE6B80E98B.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Audio/MediumSmash1.uasset'
+[2025.09.16-01.47.48:244][ 35]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/SmallSmash1] ([1] browsable assets)...
+[2025.09.16-01.47.48:247][ 35]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/SmallSmash1.SmallSmash1]
+[2025.09.16-01.47.48:247][ 35]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/SmallSmash1]
+[2025.09.16-01.47.48:247][ 35]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/SmallSmash1" FILE="../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Audio/SmallSmash1.uasset" SILENT=true
+[2025.09.16-01.47.48:252][ 35]LogSavePackage: Moving output files for package: /Game/Audio/SmallSmash1
+[2025.09.16-01.47.48:252][ 35]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/SmallSmash11FC6E98546375C100A77B69F6DA405C0.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Audio/SmallSmash1.uasset'
+[2025.09.16-01.47.48:255][ 35]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/SmallSmash2] ([1] browsable assets)...
+[2025.09.16-01.47.48:257][ 35]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/SmallSmash2.SmallSmash2]
+[2025.09.16-01.47.48:257][ 35]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/SmallSmash2]
+[2025.09.16-01.47.48:257][ 35]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/SmallSmash2" FILE="../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Audio/SmallSmash2.uasset" SILENT=true
+[2025.09.16-01.47.48:262][ 35]LogSavePackage: Moving output files for package: /Game/Audio/SmallSmash2
+[2025.09.16-01.47.48:262][ 35]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/SmallSmash2F1D3BD704EAF2E74F099DE83B1DCE03B.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Audio/SmallSmash2.uasset'
+[2025.09.16-01.47.48:266][ 35]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/SmallSmash3] ([1] browsable assets)...
+[2025.09.16-01.47.48:269][ 35]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/SmallSmash3.SmallSmash3]
+[2025.09.16-01.47.48:269][ 35]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/SmallSmash3]
+[2025.09.16-01.47.48:269][ 35]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/SmallSmash3" FILE="../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Audio/SmallSmash3.uasset" SILENT=true
+[2025.09.16-01.47.48:275][ 35]LogSavePackage: Moving output files for package: /Game/Audio/SmallSmash3
+[2025.09.16-01.47.48:275][ 35]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/SmallSmash3833D136840B43011DE9AFFB86B08154D.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Audio/SmallSmash3.uasset'
+[2025.09.16-01.47.48:277][ 35]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/SmallSmash4] ([1] browsable assets)...
+[2025.09.16-01.47.48:280][ 35]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/SmallSmash4.SmallSmash4]
+[2025.09.16-01.47.48:280][ 35]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/SmallSmash4]
+[2025.09.16-01.47.48:280][ 35]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/SmallSmash4" FILE="../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Audio/SmallSmash4.uasset" SILENT=true
+[2025.09.16-01.47.48:284][ 35]LogSavePackage: Moving output files for package: /Game/Audio/SmallSmash4
+[2025.09.16-01.47.48:285][ 35]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/SmallSmash40B34762C4841EEBB8834CFBB5667E8C1.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Audio/SmallSmash4.uasset'
+[2025.09.16-01.47.48:288][ 35]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/SmallSmash5] ([1] browsable assets)...
+[2025.09.16-01.47.48:292][ 35]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/SmallSmash5.SmallSmash5]
+[2025.09.16-01.47.48:292][ 35]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/SmallSmash5]
+[2025.09.16-01.47.48:292][ 35]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/SmallSmash5" FILE="../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Audio/SmallSmash5.uasset" SILENT=true
+[2025.09.16-01.47.48:301][ 35]LogSavePackage: Moving output files for package: /Game/Audio/SmallSmash5
+[2025.09.16-01.47.48:301][ 35]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/SmallSmash56A1BF2794AFCBA5A4847E69EE6D2CE86.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Audio/SmallSmash5.uasset'
+[2025.09.16-01.47.48:321][ 35]LogFileHelpers: InternalPromptForCheckoutAndSave took 255.841 ms (total: 534.708 ms)
+[2025.09.16-01.47.48:376][ 35]LogContentValidation: Display: Starting to validate 8 assets
+[2025.09.16-01.47.48:376][ 35]LogContentValidation: Enabled validators:
+[2025.09.16-01.47.48:377][ 35]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.16-01.47.48:377][ 35]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.16-01.47.48:377][ 35]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.16-01.47.48:377][ 35]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.16-01.47.48:377][ 35]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.16-01.47.48:377][ 35]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.16-01.47.48:378][ 35]AssetCheck: /Game/Audio/LargeSmash1 Validating asset
+[2025.09.16-01.47.48:378][ 35]AssetCheck: /Game/Audio/LargeSmash2 Validating asset
+[2025.09.16-01.47.48:378][ 35]AssetCheck: /Game/Audio/MediumSmash1 Validating asset
+[2025.09.16-01.47.48:378][ 35]AssetCheck: /Game/Audio/SmallSmash1 Validating asset
+[2025.09.16-01.47.48:378][ 35]AssetCheck: /Game/Audio/SmallSmash2 Validating asset
+[2025.09.16-01.47.48:378][ 35]AssetCheck: /Game/Audio/SmallSmash3 Validating asset
+[2025.09.16-01.47.48:378][ 35]AssetCheck: /Game/Audio/SmallSmash4 Validating asset
+[2025.09.16-01.47.48:378][ 35]AssetCheck: /Game/Audio/SmallSmash5 Validating asset
+[2025.09.16-01.48.09:072][643]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.09.16-01.48.09:083][643]LogContentBrowser: Creating deferred item: NewFolder
+[2025.09.16-01.48.09:112][644]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.09.16-01.48.17:162][885]LogContentBrowser: Attempting asset rename: NewFolder -> HitSounds
+[2025.09.16-01.48.17:215][885]LogContentBrowser: End creating deferred item NewFolder
+[2025.09.16-01.48.23:982][ 72]LogStreaming: Display: FlushAsyncLoading(523): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.16-01.48.26:271][122]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.16-01.48.26:280][122]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Audio/MetaSounds/sfx_HitFlesh] ([1] browsable assets)...
+[2025.09.16-01.48.26:280][122]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/MetaSounds/sfx_HitFlesh]
+[2025.09.16-01.48.26:298][122]LogSavePackage: Moving output files for package: /Game/Audio/MetaSounds/sfx_HitFlesh
+[2025.09.16-01.48.26:299][122]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/sfx_HitFlesh2F048C26491DE5B85C5AE59D53A7E7C9.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Audio/MetaSounds/sfx_HitFlesh.uasset'
+[2025.09.16-01.48.26:309][122]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Audio/HitSounds/HitFlesh1] ([1] browsable assets)...
+[2025.09.16-01.48.26:309][122]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/HitSounds/HitFlesh1]
+[2025.09.16-01.48.26:310][122]LogSavePackage: Moving output files for package: /Game/Audio/HitSounds/HitFlesh1
+[2025.09.16-01.48.26:310][122]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/HitFlesh1A0D6E6C347E0CA473738B8876F7011DF.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Audio/HitSounds/HitFlesh1.uasset'
+[2025.09.16-01.48.26:316][122]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Audio/HitSounds/HitFlesh2] ([1] browsable assets)...
+[2025.09.16-01.48.26:316][122]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/HitSounds/HitFlesh2]
+[2025.09.16-01.48.26:318][122]LogSavePackage: Moving output files for package: /Game/Audio/HitSounds/HitFlesh2
+[2025.09.16-01.48.26:318][122]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/HitFlesh2678C27494706670D2F5F2EABD4388D22.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Audio/HitSounds/HitFlesh2.uasset'
+[2025.09.16-01.48.26:320][122]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Audio/HitSounds/HitFlesh3] ([1] browsable assets)...
+[2025.09.16-01.48.26:320][122]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/HitSounds/HitFlesh3]
+[2025.09.16-01.48.26:322][122]LogSavePackage: Moving output files for package: /Game/Audio/HitSounds/HitFlesh3
+[2025.09.16-01.48.26:322][122]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/HitFlesh3AB7C049440D4348AC0198C8D96ED24C3.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Audio/HitSounds/HitFlesh3.uasset'
+[2025.09.16-01.48.26:324][122]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Audio/HitSounds/HitFlesh4] ([1] browsable assets)...
+[2025.09.16-01.48.26:324][122]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/HitSounds/HitFlesh4]
+[2025.09.16-01.48.26:326][122]LogSavePackage: Moving output files for package: /Game/Audio/HitSounds/HitFlesh4
+[2025.09.16-01.48.26:326][122]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/HitFlesh4266970B44B353FCA19040D8C84F91B4B.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Audio/HitSounds/HitFlesh4.uasset'
+[2025.09.16-01.48.26:328][122]LogFileHelpers: InternalPromptForCheckoutAndSave took 56.844 ms (total: 591.553 ms)
+[2025.09.16-01.48.26:456][122]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.09.16-01.48.26:483][122]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.09.16-01.48.26:505][122]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2025.09.16-01.48.26:540][122]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.09.16-01.48.26:540][122]LogContentValidation: Display: Starting to validate 5 assets
+[2025.09.16-01.48.26:540][122]LogContentValidation: Enabled validators:
+[2025.09.16-01.48.26:540][122]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.16-01.48.26:540][122]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.16-01.48.26:540][122]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.16-01.48.26:540][122]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.16-01.48.26:540][122]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.16-01.48.26:540][122]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.16-01.48.26:545][122]AssetCheck: /Game/Audio/MetaSounds/sfx_HitFlesh Validating asset
+[2025.09.16-01.48.26:545][122]AssetCheck: /Game/Audio/HitSounds/HitFlesh1 Validating asset
+[2025.09.16-01.48.26:545][122]AssetCheck: /Game/Audio/HitSounds/HitFlesh2 Validating asset
+[2025.09.16-01.48.26:545][122]AssetCheck: /Game/Audio/HitSounds/HitFlesh3 Validating asset
+[2025.09.16-01.48.26:545][122]AssetCheck: /Game/Audio/HitSounds/HitFlesh4 Validating asset
+[2025.09.16-01.48.36:200][408]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.09.16-01.48.36:231][408]LogContentBrowser: Creating deferred item: NewFolder
+[2025.09.16-01.48.36:248][409]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.09.16-01.48.39:166][497]LogContentBrowser: Attempting asset rename: NewFolder -> Weapon
+[2025.09.16-01.48.39:168][497]LogContentBrowser: End creating deferred item NewFolder
+[2025.09.16-01.48.47:739][754]LogStreaming: Display: FlushAsyncLoading(524): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.16-01.48.49:876][806]LogMetaData: Removing '/Game/Audio/Weapon/SC_Whoosh.SC_Whoosh:SoundCueGraph_0.SoundCueGraphNode_Root_0' ref from Metadata '/Game/Audio/SC_Whoosh.PackageMetaData'
+[2025.09.16-01.48.49:890][806]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.16-01.48.49:895][806]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Audio/MetaSounds/sfx_Shink] ([1] browsable assets)...
+[2025.09.16-01.48.49:895][806]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/MetaSounds/sfx_Shink]
+[2025.09.16-01.48.49:908][806]LogSavePackage: Moving output files for package: /Game/Audio/MetaSounds/sfx_Shink
+[2025.09.16-01.48.49:909][806]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/sfx_Shink4F23CA1447D717B5C9479E80C390C99A.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Audio/MetaSounds/sfx_Shink.uasset'
+[2025.09.16-01.48.49:913][806]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Audio/MetaSounds/sfx_Whoosh] ([1] browsable assets)...
+[2025.09.16-01.48.49:913][806]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/MetaSounds/sfx_Whoosh]
+[2025.09.16-01.48.49:925][806]LogSavePackage: Moving output files for package: /Game/Audio/MetaSounds/sfx_Whoosh
+[2025.09.16-01.48.49:926][806]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/sfx_Whoosh0F1E9B60438B389642120BBACFCBEB15.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Audio/MetaSounds/sfx_Whoosh.uasset'
+[2025.09.16-01.48.49:929][806]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Audio/Weapon/SC_Whoosh] ([1] browsable assets)...
+[2025.09.16-01.48.49:929][806]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/Weapon/SC_Whoosh]
+[2025.09.16-01.48.49:930][806]LogSavePackage: Moving output files for package: /Game/Audio/Weapon/SC_Whoosh
+[2025.09.16-01.48.49:930][806]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/SC_WhooshDD0AB68A448E7185D02766B415CEDDC1.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Audio/Weapon/SC_Whoosh.uasset'
+[2025.09.16-01.48.49:933][806]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Audio/Weapon/Shink] ([1] browsable assets)...
+[2025.09.16-01.48.49:933][806]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/Weapon/Shink]
+[2025.09.16-01.48.49:933][806]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/Weapon/Shink" FILE="../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Audio/Weapon/Shink.uasset" SILENT=true
+[2025.09.16-01.48.49:934][806]LogSavePackage: Moving output files for package: /Game/Audio/Weapon/Shink
+[2025.09.16-01.48.49:934][806]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Shink5662C03B4B551267149A8690DBFD641E.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Audio/Weapon/Shink.uasset'
+[2025.09.16-01.48.49:937][806]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Audio/Weapon/whoosh] ([1] browsable assets)...
+[2025.09.16-01.48.49:938][806]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/Weapon/whoosh]
+[2025.09.16-01.48.49:938][806]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/Weapon/whoosh" FILE="../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Audio/Weapon/whoosh.uasset" SILENT=true
+[2025.09.16-01.48.49:939][806]LogSavePackage: Moving output files for package: /Game/Audio/Weapon/whoosh
+[2025.09.16-01.48.49:939][806]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/whoosh819908D24A1381ED25A3F4B31AE8EF41.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Audio/Weapon/whoosh.uasset'
+[2025.09.16-01.48.49:941][806]LogFileHelpers: InternalPromptForCheckoutAndSave took 51.349 ms (total: 642.902 ms)
+[2025.09.16-01.48.50:014][806]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.09.16-01.48.50:039][806]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.09.16-01.48.50:062][806]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.09.16-01.48.50:097][806]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.09.16-01.48.50:097][806]LogContentValidation: Display: Starting to validate 5 assets
+[2025.09.16-01.48.50:097][806]LogContentValidation: Enabled validators:
+[2025.09.16-01.48.50:097][806]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.16-01.48.50:097][806]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.16-01.48.50:097][806]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.16-01.48.50:097][806]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.16-01.48.50:097][806]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.16-01.48.50:097][806]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.16-01.48.50:097][806]AssetCheck: /Game/Audio/MetaSounds/sfx_Shink Validating asset
+[2025.09.16-01.48.50:097][806]AssetCheck: /Game/Audio/MetaSounds/sfx_Whoosh Validating asset
+[2025.09.16-01.48.50:097][806]AssetCheck: /Game/Audio/Weapon/SC_Whoosh Validating asset
+[2025.09.16-01.48.50:097][806]AssetCheck: /Game/Audio/Weapon/Shink Validating asset
+[2025.09.16-01.48.50:097][806]AssetCheck: /Game/Audio/Weapon/whoosh Validating asset
+[2025.09.16-01.48.59:803][ 87]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.16-01.48.59:803][ 87]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Audio/MetaSounds/sfx_HitFlesh] ([1] browsable assets)...
+[2025.09.16-01.48.59:803][ 87]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/MetaSounds/sfx_HitFlesh]
+[2025.09.16-01.48.59:818][ 87]LogSavePackage: Moving output files for package: /Game/Audio/MetaSounds/sfx_HitFlesh
+[2025.09.16-01.48.59:819][ 87]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/sfx_HitFlesh8B9B97774819E7E78DB2B9AC18F25322.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Audio/MetaSounds/sfx_HitFlesh.uasset'
+[2025.09.16-01.48.59:821][ 87]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Audio/HitSounds/SA_HitFlesh] ([1] browsable assets)...
+[2025.09.16-01.48.59:821][ 87]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/HitSounds/SA_HitFlesh]
+[2025.09.16-01.48.59:822][ 87]LogSavePackage: Moving output files for package: /Game/Audio/HitSounds/SA_HitFlesh
+[2025.09.16-01.48.59:822][ 87]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/SA_HitFlesh7747D4E04FE1167F38B4C1BA75B3786C.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Audio/HitSounds/SA_HitFlesh.uasset'
+[2025.09.16-01.48.59:824][ 87]LogFileHelpers: InternalPromptForCheckoutAndSave took 20.681 ms (total: 663.584 ms)
+[2025.09.16-01.48.59:877][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.09.16-01.48.59:901][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.09.16-01.48.59:921][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.09.16-01.48.59:951][ 87]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.09.16-01.48.59:951][ 87]LogContentValidation: Display: Starting to validate 2 assets
+[2025.09.16-01.48.59:951][ 87]LogContentValidation: Enabled validators:
+[2025.09.16-01.48.59:951][ 87]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.16-01.48.59:951][ 87]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.16-01.48.59:951][ 87]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.16-01.48.59:951][ 87]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.16-01.48.59:951][ 87]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.16-01.48.59:951][ 87]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.16-01.48.59:951][ 87]AssetCheck: /Game/Audio/MetaSounds/sfx_HitFlesh Validating asset
+[2025.09.16-01.48.59:951][ 87]AssetCheck: /Game/Audio/HitSounds/SA_HitFlesh Validating asset
+[2025.09.16-01.49.21:357][719]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.16-01.49.21:357][719]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Audio/HitSounds/LargeSmash1] ([1] browsable assets)...
+[2025.09.16-01.49.21:357][719]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/HitSounds/LargeSmash1]
+[2025.09.16-01.49.21:364][719]LogSavePackage: Moving output files for package: /Game/Audio/HitSounds/LargeSmash1
+[2025.09.16-01.49.21:364][719]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/LargeSmash1F5F6EAF546ED8DAAADD48597217A2F41.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Audio/HitSounds/LargeSmash1.uasset'
+[2025.09.16-01.49.21:368][719]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Audio/HitSounds/SmallSmash5] ([1] browsable assets)...
+[2025.09.16-01.49.21:368][719]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/HitSounds/SmallSmash5]
+[2025.09.16-01.49.21:375][719]LogSavePackage: Moving output files for package: /Game/Audio/HitSounds/SmallSmash5
+[2025.09.16-01.49.21:375][719]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/SmallSmash58AEE1F654B8E2749113182BA86E8991C.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Audio/HitSounds/SmallSmash5.uasset'
+[2025.09.16-01.49.21:377][719]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Audio/HitSounds/SmallSmash4] ([1] browsable assets)...
+[2025.09.16-01.49.21:378][719]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/HitSounds/SmallSmash4]
+[2025.09.16-01.49.21:381][719]LogSavePackage: Moving output files for package: /Game/Audio/HitSounds/SmallSmash4
+[2025.09.16-01.49.21:381][719]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/SmallSmash415E566284F2290CE342BEFB20E5A56F9.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Audio/HitSounds/SmallSmash4.uasset'
+[2025.09.16-01.49.21:384][719]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Audio/HitSounds/SmallSmash3] ([1] browsable assets)...
+[2025.09.16-01.49.21:384][719]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/HitSounds/SmallSmash3]
+[2025.09.16-01.49.21:389][719]LogSavePackage: Moving output files for package: /Game/Audio/HitSounds/SmallSmash3
+[2025.09.16-01.49.21:389][719]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/SmallSmash3836CBDA74B249DBB9DFDB586C69B3878.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Audio/HitSounds/SmallSmash3.uasset'
+[2025.09.16-01.49.21:391][719]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Audio/HitSounds/SmallSmash2] ([1] browsable assets)...
+[2025.09.16-01.49.21:391][719]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/HitSounds/SmallSmash2]
+[2025.09.16-01.49.21:394][719]LogSavePackage: Moving output files for package: /Game/Audio/HitSounds/SmallSmash2
+[2025.09.16-01.49.21:395][719]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/SmallSmash2E0E4F00D449969A080037AB521106F28.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Audio/HitSounds/SmallSmash2.uasset'
+[2025.09.16-01.49.21:397][719]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Audio/HitSounds/SmallSmash1] ([1] browsable assets)...
+[2025.09.16-01.49.21:397][719]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/HitSounds/SmallSmash1]
+[2025.09.16-01.49.21:400][719]LogSavePackage: Moving output files for package: /Game/Audio/HitSounds/SmallSmash1
+[2025.09.16-01.49.21:400][719]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/SmallSmash16488B19B4139FFA76A6306A2F2772C84.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Audio/HitSounds/SmallSmash1.uasset'
+[2025.09.16-01.49.21:403][719]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Audio/HitSounds/MediumSmash1] ([1] browsable assets)...
+[2025.09.16-01.49.21:403][719]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/HitSounds/MediumSmash1]
+[2025.09.16-01.49.21:411][719]LogSavePackage: Moving output files for package: /Game/Audio/HitSounds/MediumSmash1
+[2025.09.16-01.49.21:411][719]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/MediumSmash16B0C850B4F8EE0E3EBB7C08B6A60728E.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Audio/HitSounds/MediumSmash1.uasset'
+[2025.09.16-01.49.21:413][719]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Audio/HitSounds/LargeSmash2] ([1] browsable assets)...
+[2025.09.16-01.49.21:413][719]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/HitSounds/LargeSmash2]
+[2025.09.16-01.49.21:421][719]LogSavePackage: Moving output files for package: /Game/Audio/HitSounds/LargeSmash2
+[2025.09.16-01.49.21:421][719]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/LargeSmash24D6E75974B50BDF07C49D398111C6BAD.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Audio/HitSounds/LargeSmash2.uasset'
+[2025.09.16-01.49.21:424][719]LogFileHelpers: InternalPromptForCheckoutAndSave took 66.552 ms (total: 730.136 ms)
+[2025.09.16-01.49.21:548][719]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2025.09.16-01.49.21:572][719]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2025.09.16-01.49.21:594][719]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.09.16-01.49.21:623][719]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.09.16-01.49.21:623][719]LogContentValidation: Display: Starting to validate 8 assets
+[2025.09.16-01.49.21:623][719]LogContentValidation: Enabled validators:
+[2025.09.16-01.49.21:623][719]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.16-01.49.21:623][719]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.16-01.49.21:623][719]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.16-01.49.21:623][719]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.16-01.49.21:623][719]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.16-01.49.21:623][719]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.16-01.49.21:623][719]AssetCheck: /Game/Audio/HitSounds/LargeSmash1 Validating asset
+[2025.09.16-01.49.21:623][719]AssetCheck: /Game/Audio/HitSounds/SmallSmash5 Validating asset
+[2025.09.16-01.49.21:623][719]AssetCheck: /Game/Audio/HitSounds/SmallSmash4 Validating asset
+[2025.09.16-01.49.21:623][719]AssetCheck: /Game/Audio/HitSounds/SmallSmash3 Validating asset
+[2025.09.16-01.49.21:624][719]AssetCheck: /Game/Audio/HitSounds/SmallSmash2 Validating asset
+[2025.09.16-01.49.21:624][719]AssetCheck: /Game/Audio/HitSounds/SmallSmash1 Validating asset
+[2025.09.16-01.49.21:624][719]AssetCheck: /Game/Audio/HitSounds/MediumSmash1 Validating asset
+[2025.09.16-01.49.21:624][719]AssetCheck: /Game/Audio/HitSounds/LargeSmash2 Validating asset
+[2025.09.16-01.49.49:490][541]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4644.364746
+[2025.09.16-01.49.49:724][548]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.16-01.49.49:724][548]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4644.565430, Update Interval: 313.744324
+[2025.09.16-01.49.52:139][612]LogContentBrowser: Deferred new asset file creation: NewMetaSoundSource
+[2025.09.16-01.49.52:149][612]LogContentBrowser: Creating deferred item: NewMetaSoundSource
+[2025.09.16-01.49.52:169][613]LogContentBrowser: Renaming the item being created (Deferred Item: NewMetaSoundSource).
+[2025.09.16-01.50.04:965][996]LogContentBrowser: Attempting asset rename: NewMetaSoundSource -> sfx_PotBreak
+[2025.09.16-01.50.05:036][996]LogContentBrowser: End creating deferred item NewMetaSoundSource
+[2025.09.16-01.50.30:227][746]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.09.16-01.50.30:231][746]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Minimal_Default_2' took 0.041
+[2025.09.16-01.50.30:231][746]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Audio/MetaSounds/sfx_PotBreak] ([1] browsable assets)...
+[2025.09.16-01.50.30:232][746]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/MetaSounds/sfx_PotBreak]
+[2025.09.16-01.50.30:235][746]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Audio/MetaSounds/sfx_PotBreak_Auto2
+[2025.09.16-01.50.30:235][746]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/sfx_PotBreak_Auto2F01BA25D4612095DF28E3488C2A1570C.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Autosaves/Game/Audio/MetaSounds/sfx_PotBreak_Auto2.uasset'
+[2025.09.16-01.50.30:237][746]LogFileHelpers: Auto-saving content packages took 0.007
+[2025.09.16-01.50.34:075][861]LogAssetEditorSubsystem: Opening Asset editor for MetaSoundSource /Game/Audio/MetaSounds/sfx_PotBreak.sfx_PotBreak
+[2025.09.16-01.50.34:330][861]LogSlate: The tab "MetasoundEditor_Pages" attempted to spawn in layout 'Standalone_MetasoundEditor_Layout_v14' but failed for some reason. It will not be displayed.
+[2025.09.16-01.50.36:989][926]LogStreaming: Display: ImportPackages: SkipPackage: /Game/AncientContent/Audio/AudioModulation/Patches/SFX_Echo_Vox_Patch (0x1FC03ADCAA044E21) /Game/AncientContent/Audio/AudioModulation/Patches/SFX_Echo_Vox_Patch (0x1FC03ADCAA044E21) - Skipping non mounted imported package /AudioModulation/Volume (0xEB7582CB3977CA8D)
+[2025.09.16-01.50.37:008][927]LoadErrors: Warning: While trying to load package /Game/AncientContent/Audio/AudioModulation/Patches/SFX_Echo_Vox_Patch, a dependent package /AudioModulation/Volume was not available. Additional explanatory information follows:
+FPackageName: Unable to identify a valid mount point associated with skipped package /AudioModulation/Volume. The package root is unknown.
+Skipped package /AudioModulation/Volume was expected to be found in plugin Audio Modulation, however that plugin is not mounted. [ExplicitlyLoaded = FALSE, Enabled = FALSE].
+[2025.09.16-01.50.37:023][927]LogStreaming: Display: ImportPackages: SkipPackage: /Game/AncientContent/Audio/AudioModulation/ControlBuses/VOX_ControlBus (0xEE21592F2667A4D8) /Game/AncientContent/Audio/AudioModulation/ControlBuses/VOX_ControlBus (0xEE21592F2667A4D8) - Skipping non mounted imported package /AudioModulation/Volume (0xEB7582CB3977CA8D)
+[2025.09.16-01.50.37:036][927]LoadErrors: Warning: While trying to load package /Game/AncientContent/Audio/AudioModulation/ControlBuses/VOX_ControlBus, a dependent package /AudioModulation/Volume was not available. Additional explanatory information follows:
+FPackageName: Unable to identify a valid mount point associated with skipped package /AudioModulation/Volume. The package root is unknown.
+Skipped package /AudioModulation/Volume was expected to be found in plugin Audio Modulation, however that plugin is not mounted. [ExplicitlyLoaded = FALSE, Enabled = FALSE].
+[2025.09.16-01.50.37:056][928]LogLinker: Warning: [AssetLog] C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Content\AncientContent\Audio\AudioModulation\ControlBuses\VOX_ControlBus.uasset: VerifyImport: Failed to find script package for import object 'Package /Script/AudioModulation'
+[2025.09.16-01.50.37:056][928]LogLinker: Warning: Unable to load VOX_ControlBus with outer Package /Game/AncientContent/Audio/AudioModulation/ControlBuses/VOX_ControlBus because its class (SoundControlBus) does not exist
+[2025.09.16-01.50.37:080][929]LogLinker: Warning: Unable to load SFX_Echo_Vox_Patch with outer Package /Game/AncientContent/Audio/AudioModulation/Patches/SFX_Echo_Vox_Patch because its class (SoundModulationPatch) does not exist
+[2025.09.16-01.50.37:294][935]LogMetaSound: Display: Auto-Updating '/Game/AncientContent/Audio/MetaSounds/sfx_Char_Echo_Foley_Cloth_Heavy_nl_meta.sfx_Char_Echo_Foley_Cloth_Heavy_nl_meta' node class 'UE.Wave Player.Stereo (v1.0)': Interface change detected.
+[2025.09.16-01.50.37:294][935]LogMetaSound: Display: Auto-Updating '/Game/AncientContent/Audio/MetaSounds/sfx_Char_Echo_Foley_Cloth_Heavy_nl_meta.sfx_Char_Echo_Foley_Cloth_Heavy_nl_meta' node class 'UE.RandomFloat': Newer version 'v1.1' found.
+[2025.09.16-01.50.37:294][935]LogMetaSound: Display: Auto-Updating '/Game/AncientContent/Audio/MetaSounds/sfx_Char_Echo_Foley_Cloth_Heavy_nl_meta.sfx_Char_Echo_Foley_Cloth_Heavy_nl_meta' node class 'UE.RandomFloat': Newer version 'v1.1' found.
+[2025.09.16-01.50.37:294][935]LogMetaSound: Display: Auto-Updating '/Game/AncientContent/Audio/MetaSounds/sfx_Char_Echo_Foley_Cloth_Heavy_nl_meta.sfx_Char_Echo_Foley_Cloth_Heavy_nl_meta' node class 'UE.Multiply.Audio by Float': Newer version 'v1.1' found.
+[2025.09.16-01.50.37:315][936]LogMetaSound: Display: Auto-Updating '/Game/AncientContent/Audio/MetaSounds/sfx_Char_Echo_Foley_Cloth_Run_nl_meta.sfx_Char_Echo_Foley_Cloth_Run_nl_meta' node class 'UE.Wave Player.Stereo (v1.0)': Interface change detected.
+[2025.09.16-01.50.37:315][936]LogMetaSound: Display: Auto-Updating '/Game/AncientContent/Audio/MetaSounds/sfx_Char_Echo_Foley_Cloth_Run_nl_meta.sfx_Char_Echo_Foley_Cloth_Run_nl_meta' node class 'UE.RandomFloat': Newer version 'v1.1' found.
+[2025.09.16-01.50.37:315][936]LogMetaSound: Display: Auto-Updating '/Game/AncientContent/Audio/MetaSounds/sfx_Char_Echo_Foley_Cloth_Run_nl_meta.sfx_Char_Echo_Foley_Cloth_Run_nl_meta' node class 'UE.RandomFloat': Newer version 'v1.1' found.
+[2025.09.16-01.50.37:315][936]LogMetaSound: Display: Auto-Updating '/Game/AncientContent/Audio/MetaSounds/sfx_Char_Echo_Foley_Cloth_Run_nl_meta.sfx_Char_Echo_Foley_Cloth_Run_nl_meta' node class 'UE.Multiply.Audio by Float': Newer version 'v1.1' found.
+[2025.09.16-01.50.37:319][936]LogMetaSound: Display: Auto-Updating '/Game/AncientContent/Audio/MetaSounds/sfx_Char_Echo_Foley_Footfall_Land_nl_meta.sfx_Char_Echo_Foley_Footfall_Land_nl_meta' node class 'UE.Wave Player.Stereo (v1.0)': Interface change detected.
+[2025.09.16-01.50.37:319][936]LogMetaSound: Display: Auto-Updating '/Game/AncientContent/Audio/MetaSounds/sfx_Char_Echo_Foley_Footfall_Land_nl_meta.sfx_Char_Echo_Foley_Footfall_Land_nl_meta' node class 'UE.RandomFloat': Newer version 'v1.1' found.
+[2025.09.16-01.50.37:319][936]LogMetaSound: Display: Auto-Updating '/Game/AncientContent/Audio/MetaSounds/sfx_Char_Echo_Foley_Footfall_Land_nl_meta.sfx_Char_Echo_Foley_Footfall_Land_nl_meta' node class 'UE.RandomFloat': Newer version 'v1.1' found.
+[2025.09.16-01.50.37:319][936]LogMetaSound: Display: Auto-Updating '/Game/AncientContent/Audio/MetaSounds/sfx_Char_Echo_Foley_Footfall_Land_nl_meta.sfx_Char_Echo_Foley_Footfall_Land_nl_meta' node class 'UE.Multiply.Audio by Float': Newer version 'v1.1' found.
+[2025.09.16-01.50.37:349][937]LogMetaSound: Display: Auto-Updating '/Game/AncientContent/Audio/MetaSounds/sfx_Char_Echo_Foley_FS_Rock_Run_nl_meta.sfx_Char_Echo_Foley_FS_Rock_Run_nl_meta' node class 'UE.Wave Player.Stereo (v1.0)': Interface change detected.
+[2025.09.16-01.50.37:349][937]LogMetaSound: Display: Auto-Updating '/Game/AncientContent/Audio/MetaSounds/sfx_Char_Echo_Foley_FS_Rock_Run_nl_meta.sfx_Char_Echo_Foley_FS_Rock_Run_nl_meta' node class 'UE.RandomFloat': Newer version 'v1.1' found.
+[2025.09.16-01.50.37:349][937]LogMetaSound: Display: Auto-Updating '/Game/AncientContent/Audio/MetaSounds/sfx_Char_Echo_Foley_FS_Rock_Run_nl_meta.sfx_Char_Echo_Foley_FS_Rock_Run_nl_meta' node class 'UE.RandomFloat': Newer version 'v1.1' found.
+[2025.09.16-01.50.37:349][937]LogMetaSound: Display: Auto-Updating '/Game/AncientContent/Audio/MetaSounds/sfx_Char_Echo_Foley_FS_Rock_Run_nl_meta.sfx_Char_Echo_Foley_FS_Rock_Run_nl_meta' node class 'UE.Multiply.Audio by Float': Newer version 'v1.1' found.
+[2025.09.16-01.50.37:351][937]LogMetaSound: Display: Auto-Updating '/Game/AncientContent/Audio/MetaSounds/sfx_Char_Echo_Foley_Pouch_Heavy_nl_meta.sfx_Char_Echo_Foley_Pouch_Heavy_nl_meta' node class 'UE.Wave Player.Stereo (v1.0)': Interface change detected.
+[2025.09.16-01.50.37:351][937]LogMetaSound: Display: Auto-Updating '/Game/AncientContent/Audio/MetaSounds/sfx_Char_Echo_Foley_Pouch_Heavy_nl_meta.sfx_Char_Echo_Foley_Pouch_Heavy_nl_meta' node class 'UE.RandomFloat': Newer version 'v1.1' found.
+[2025.09.16-01.50.37:351][937]LogMetaSound: Display: Auto-Updating '/Game/AncientContent/Audio/MetaSounds/sfx_Char_Echo_Foley_Pouch_Heavy_nl_meta.sfx_Char_Echo_Foley_Pouch_Heavy_nl_meta' node class 'UE.RandomFloat': Newer version 'v1.1' found.
+[2025.09.16-01.50.37:351][937]LogMetaSound: Display: Auto-Updating '/Game/AncientContent/Audio/MetaSounds/sfx_Char_Echo_Foley_Pouch_Heavy_nl_meta.sfx_Char_Echo_Foley_Pouch_Heavy_nl_meta' node class 'UE.Multiply.Audio by Float': Newer version 'v1.1' found.
+[2025.09.16-01.50.37:383][938]LogMetaSound: Display: Auto-Updating '/Game/AncientContent/Audio/MetaSounds/sfx_Char_Echo_Foley_Cloth_Walk_nl_meta.sfx_Char_Echo_Foley_Cloth_Walk_nl_meta' node class 'UE.Wave Player.Stereo (v1.0)': Interface change detected.
+[2025.09.16-01.50.37:383][938]LogMetaSound: Display: Auto-Updating '/Game/AncientContent/Audio/MetaSounds/sfx_Char_Echo_Foley_Cloth_Walk_nl_meta.sfx_Char_Echo_Foley_Cloth_Walk_nl_meta' node class 'UE.RandomFloat': Newer version 'v1.1' found.
+[2025.09.16-01.50.37:383][938]LogMetaSound: Display: Auto-Updating '/Game/AncientContent/Audio/MetaSounds/sfx_Char_Echo_Foley_Cloth_Walk_nl_meta.sfx_Char_Echo_Foley_Cloth_Walk_nl_meta' node class 'UE.RandomFloat': Newer version 'v1.1' found.
+[2025.09.16-01.50.37:383][938]LogMetaSound: Display: Auto-Updating '/Game/AncientContent/Audio/MetaSounds/sfx_Char_Echo_Foley_Cloth_Walk_nl_meta.sfx_Char_Echo_Foley_Cloth_Walk_nl_meta' node class 'UE.Multiply.Audio by Float': Newer version 'v1.1' found.
+[2025.09.16-01.50.37:602][943]LogMetaSound: Display: Auto-Updating '/Game/AncientContent/Audio/MetaSounds/sfx_Char_Echo_Foley_FS_Rock_Walk_nl_meta.sfx_Char_Echo_Foley_FS_Rock_Walk_nl_meta' node class 'UE.Wave Player.Stereo (v1.0)': Interface change detected.
+[2025.09.16-01.50.37:602][943]LogMetaSound: Display: Auto-Updating '/Game/AncientContent/Audio/MetaSounds/sfx_Char_Echo_Foley_FS_Rock_Walk_nl_meta.sfx_Char_Echo_Foley_FS_Rock_Walk_nl_meta' node class 'UE.RandomFloat': Newer version 'v1.1' found.
+[2025.09.16-01.50.37:602][943]LogMetaSound: Display: Auto-Updating '/Game/AncientContent/Audio/MetaSounds/sfx_Char_Echo_Foley_FS_Rock_Walk_nl_meta.sfx_Char_Echo_Foley_FS_Rock_Walk_nl_meta' node class 'UE.RandomFloat': Newer version 'v1.1' found.
+[2025.09.16-01.50.37:602][943]LogMetaSound: Display: Auto-Updating '/Game/AncientContent/Audio/MetaSounds/sfx_Char_Echo_Foley_FS_Rock_Walk_nl_meta.sfx_Char_Echo_Foley_FS_Rock_Walk_nl_meta' node class 'UE.Multiply.Audio by Float': Newer version 'v1.1' found.
+[2025.09.16-01.50.37:692][944]LogMetaSound: Display: Auto-Updating '/Game/AncientContent/Audio/MetaSounds/sfx_Char_Echo_Foley_Hand_Plant_nl_meta.sfx_Char_Echo_Foley_Hand_Plant_nl_meta' node class 'UE.Wave Player.Stereo (v1.0)': Interface change detected.
+[2025.09.16-01.50.37:692][944]LogMetaSound: Display: Auto-Updating '/Game/AncientContent/Audio/MetaSounds/sfx_Char_Echo_Foley_Hand_Plant_nl_meta.sfx_Char_Echo_Foley_Hand_Plant_nl_meta' node class 'UE.RandomFloat': Newer version 'v1.1' found.
+[2025.09.16-01.50.37:692][944]LogMetaSound: Display: Auto-Updating '/Game/AncientContent/Audio/MetaSounds/sfx_Char_Echo_Foley_Hand_Plant_nl_meta.sfx_Char_Echo_Foley_Hand_Plant_nl_meta' node class 'UE.RandomFloat': Newer version 'v1.1' found.
+[2025.09.16-01.50.37:692][944]LogMetaSound: Display: Auto-Updating '/Game/AncientContent/Audio/MetaSounds/sfx_Char_Echo_Foley_Hand_Plant_nl_meta.sfx_Char_Echo_Foley_Hand_Plant_nl_meta' node class 'UE.Multiply.Audio by Float': Newer version 'v1.1' found.
+[2025.09.16-01.50.37:724][945]LogMetaSound: Display: Auto-Updating '/Game/AncientContent/Audio/MetaSounds/sfx_Char_Echo_Foley_Scuff_Heavy_nl_meta.sfx_Char_Echo_Foley_Scuff_Heavy_nl_meta' node class 'UE.Wave Player.Stereo (v1.0)': Interface change detected.
+[2025.09.16-01.50.37:725][945]LogMetaSound: Display: Auto-Updating '/Game/AncientContent/Audio/MetaSounds/sfx_Char_Echo_Foley_Scuff_Heavy_nl_meta.sfx_Char_Echo_Foley_Scuff_Heavy_nl_meta' node class 'UE.RandomFloat': Newer version 'v1.1' found.
+[2025.09.16-01.50.37:725][945]LogMetaSound: Display: Auto-Updating '/Game/AncientContent/Audio/MetaSounds/sfx_Char_Echo_Foley_Scuff_Heavy_nl_meta.sfx_Char_Echo_Foley_Scuff_Heavy_nl_meta' node class 'UE.RandomFloat': Newer version 'v1.1' found.
+[2025.09.16-01.50.37:725][945]LogMetaSound: Display: Auto-Updating '/Game/AncientContent/Audio/MetaSounds/sfx_Char_Echo_Foley_Scuff_Heavy_nl_meta.sfx_Char_Echo_Foley_Scuff_Heavy_nl_meta' node class 'UE.Multiply.Audio by Float': Newer version 'v1.1' found.
+[2025.09.16-01.50.37:758][946]LogMetaSound: Display: Auto-Updating '/Game/AncientContent/Audio/MetaSounds/sfx_Char_Echo_Foley_Scuff_Light_nl_meta.sfx_Char_Echo_Foley_Scuff_Light_nl_meta' node class 'UE.Wave Player.Stereo (v1.0)': Interface change detected.
+[2025.09.16-01.50.37:759][946]LogMetaSound: Display: Auto-Updating '/Game/AncientContent/Audio/MetaSounds/sfx_Char_Echo_Foley_Scuff_Light_nl_meta.sfx_Char_Echo_Foley_Scuff_Light_nl_meta' node class 'UE.RandomFloat': Newer version 'v1.1' found.
+[2025.09.16-01.50.37:759][946]LogMetaSound: Display: Auto-Updating '/Game/AncientContent/Audio/MetaSounds/sfx_Char_Echo_Foley_Scuff_Light_nl_meta.sfx_Char_Echo_Foley_Scuff_Light_nl_meta' node class 'UE.RandomFloat': Newer version 'v1.1' found.
+[2025.09.16-01.50.37:759][946]LogMetaSound: Display: Auto-Updating '/Game/AncientContent/Audio/MetaSounds/sfx_Char_Echo_Foley_Scuff_Light_nl_meta.sfx_Char_Echo_Foley_Scuff_Light_nl_meta' node class 'UE.Multiply.Audio by Float': Newer version 'v1.1' found.
+[2025.09.16-01.50.37:788][947]LogMetaSound: Display: Auto-Updating '/Game/AncientContent/Audio/MetaSounds/vox_Char_Echo_Exertion_nl_meta.vox_Char_Echo_Exertion_nl_meta' node class 'UE.Wave Player.Stereo (v1.0)': Interface change detected.
+[2025.09.16-01.50.37:788][947]LogMetaSound: Display: Auto-Updating '/Game/AncientContent/Audio/MetaSounds/vox_Char_Echo_Exertion_nl_meta.vox_Char_Echo_Exertion_nl_meta' node class 'UE.RandomFloat': Newer version 'v1.1' found.
+[2025.09.16-01.50.37:788][947]LogMetaSound: Display: Auto-Updating '/Game/AncientContent/Audio/MetaSounds/vox_Char_Echo_Exertion_nl_meta.vox_Char_Echo_Exertion_nl_meta' node class 'UE.RandomFloat': Newer version 'v1.1' found.
+[2025.09.16-01.50.37:788][947]LogMetaSound: Display: Auto-Updating '/Game/AncientContent/Audio/MetaSounds/vox_Char_Echo_Exertion_nl_meta.vox_Char_Echo_Exertion_nl_meta' node class 'UE.Multiply.Audio by Float': Newer version 'v1.1' found.
+[2025.09.16-01.54.29:317][835]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.16-01.54.29:367][835]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Audio/MetaSounds/sfx_PotBreak] ([1] browsable assets)...
+[2025.09.16-01.54.29:367][835]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/MetaSounds/sfx_PotBreak]
+[2025.09.16-01.54.29:424][835]LogSavePackage: Moving output files for package: /Game/Audio/MetaSounds/sfx_PotBreak
+[2025.09.16-01.54.29:424][835]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/sfx_PotBreak847224824FBECF852975898FFFC36D10.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Audio/MetaSounds/sfx_PotBreak.uasset'
+[2025.09.16-01.54.29:435][835]LogFileHelpers: InternalPromptForCheckoutAndSave took 118.585 ms (total: 848.722 ms)
+[2025.09.16-01.54.29:462][835]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.16-01.54.29:462][835]LogContentValidation: Enabled validators:
+[2025.09.16-01.54.29:462][835]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.16-01.54.29:462][835]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.16-01.54.29:462][835]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.16-01.54.29:462][835]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.16-01.54.29:462][835]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.16-01.54.29:462][835]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.16-01.54.29:463][835]AssetCheck: /Game/Audio/MetaSounds/sfx_PotBreak Validating asset
+[2025.09.16-01.54.35:112][995]LogSlate: Took 0.001183 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.09.16-01.55.50:855][204]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2025.09.16-01.56.00:985][504]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5015.847168
+[2025.09.16-01.56.01:220][511]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.16-01.56.01:220][511]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5016.046875, Update Interval: 318.223206
+[2025.09.16-01.57.07:224][453]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2025.09.16-01.58.56:442][706]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2025.09.16-01.58.58:918][779]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.16-01.58.58:947][779]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.16-01.58.58:947][779]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Minimal_Default_2
+[2025.09.16-01.58.58:952][779]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005094s)
+[2025.09.16-01.58.58:952][779]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Minimal_Default_2.Minimal_Default_2 to /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 (0.005130s)
+[2025.09.16-01.58.58:979][779]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2025.09.16-01.58.58:981][779]LogChaosDD: Creating Chaos Debug Draw Scene for world Minimal_Default_2
+[2025.09.16-01.58.58:982][779]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2'.
+[2025.09.16-01.58.58:983][779]LogPlayLevel: PIE: World Init took: (0.001670s)
+[2025.09.16-01.58.58:984][779]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2025.09.16-01.58.58:984][779]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.16-01.58.58:984][779]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.16-01.58.58:984][779]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.16-01.58.58:984][779]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.16-01.58.58:984][779]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.16-01.58.58:984][779]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.16-01.58.58:984][779]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.16-01.58.58:984][779]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.16-01.58.58:984][779]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.16-01.58.58:984][779]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.16-01.58.58:984][779]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.16-01.58.58:988][779]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.16-01.58.59:006][779]LogAudioMixer: Display: Using Audio Hardware Device Auriculares (Vieta Pro Calm 2 Stereo)
+[2025.09.16-01.58.59:006][779]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.16-01.58.59:006][779]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.16-01.58.59:006][779]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.16-01.58.59:007][779]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2025.09.16-01.58.59:007][779]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2025.09.16-01.58.59:010][779]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2025.09.16-01.58.59:010][779]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2025.09.16-01.58.59:010][779]LogInit: FAudioDevice initialized with ID 17.
+[2025.09.16-01.58.59:010][779]LogAudio: Display: Audio Device (ID: 17) registered with world 'Minimal_Default_2'.
+[2025.09.16-01.58.59:010][779]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2025.09.16-01.58.59:013][779]LogLoad: Game class is 'BP_GameMode_C'
+[2025.09.16-01.58.59:022][779]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Echo'
+[2025.09.16-01.58.59:024][779]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 up for play (max tick rate 0) at 2025.09.16-03.58.59
+[2025.09.16-01.58.59:025][779]LogWorld: Bringing up level for play took: 0.012051
+[2025.09.16-01.58.59:028][779]LogOnline: OSS: Created online subsystem instance for: :Context_31
+[2025.09.16-01.58.59:030][779]PIE: Server logged in
+[2025.09.16-01.58.59:031][779]PIE: Play in editor total start time 0.105 seconds.
+[2025.09.16-01.59.11:059][112]LogCharacterMovement: BP_SlashCharacter_C_1 is stuck and failed to move! Velocity: X=-28.95 Y=-17.66 Z=0.00 Location: X=257.18 Y=1122.62 Z=123.95 Normal: X=-0.19 Y=-0.87 Z=0.46 PenetrationDepth:1.376 Actor:BP_Breakable_C_4 Component:GeometryCollection BoneName:SM_Barrels_02a_20 (0 other events since notify)
+[2025.09.16-01.59.31:372][720]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.16-01.59.31:372][720]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Minimal_Default_2
+[2025.09.16-01.59.31:372][720]LogWorld: UWorld::CleanupWorld for Minimal_Default_2, bSessionEnded=true, bCleanupResources=true
+[2025.09.16-01.59.31:373][720]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.16-01.59.31:378][720]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.16-01.59.31:385][720]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.16-01.59.31:411][720]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.16-01.59.31:412][720]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2025.09.16-01.59.31:412][720]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2025.09.16-01.59.31:414][720]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2025.09.16-01.59.31:423][720]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2025.09.16-01.59.31:698][723]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2025.09.16-02.00.00:993][601]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2025.09.16-02.00.01:974][601]LogSlate: Window 'Save Content' being destroyed
+[2025.09.16-02.00.01:988][601]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.16-02.00.02:016][601]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Breakables/BP_Breakable] ([2] browsable assets)...
+[2025.09.16-02.00.02:071][601]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Breakables/BP_Breakable.BP_Breakable]
+[2025.09.16-02.00.02:071][601]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Breakables/BP_Breakable]
+[2025.09.16-02.00.02:086][601]LogSavePackage: Moving output files for package: /Game/Blueprints/Breakables/BP_Breakable
+[2025.09.16-02.00.02:087][601]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/BP_Breakable1761C756438812312EA35FBF0FF8854B.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Breakables/BP_Breakable.uasset'
+[2025.09.16-02.00.02:090][601]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Audio/MetaSounds/sfx_PotBreak] ([1] browsable assets)...
+[2025.09.16-02.00.02:090][601]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/MetaSounds/sfx_PotBreak]
+[2025.09.16-02.00.02:145][601]LogSavePackage: Moving output files for package: /Game/Audio/MetaSounds/sfx_PotBreak
+[2025.09.16-02.00.02:146][601]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/sfx_PotBreak9925E69742A0CA8EA7B3DDBEE182D037.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Audio/MetaSounds/sfx_PotBreak.uasset'
+[2025.09.16-02.00.02:159][601]LogFileHelpers: InternalPromptForCheckoutAndSave took 171.092 ms (total: 1.01 sec)
+[2025.09.16-02.00.02:234][601]LogContentValidation: Display: Starting to validate 2 assets
+[2025.09.16-02.00.02:234][601]LogContentValidation: Enabled validators:
+[2025.09.16-02.00.02:234][601]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.16-02.00.02:234][601]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.16-02.00.02:234][601]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.16-02.00.02:234][601]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.16-02.00.02:234][601]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.16-02.00.02:234][601]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.16-02.00.02:234][601]AssetCheck: /Game/Blueprints/Breakables/BP_Breakable Validating asset
+[2025.09.16-02.00.02:234][601]AssetCheck: /Game/Audio/MetaSounds/sfx_PotBreak Validating asset
+[2025.09.16-02.02.02:910][211]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5377.767090
+[2025.09.16-02.02.03:178][219]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.16-02.02.03:178][219]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5378.002441, Update Interval: 303.004852
