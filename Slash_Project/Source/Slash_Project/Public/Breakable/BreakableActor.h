@@ -24,4 +24,7 @@ private:
 	UPROPERTY(VisibleAnywhere)
 	UGeometryCollectionComponent* GeometryCollection;
 
+	UPROPERTY(EditAnywhere)
+	TSubclassOf<class ATreasure> TreasureClass;
+
 };

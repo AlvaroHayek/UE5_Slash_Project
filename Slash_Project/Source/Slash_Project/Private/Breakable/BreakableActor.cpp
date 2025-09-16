@@ -3,6 +3,7 @@
 
 #include "Breakable/BreakableActor.h"
 #include "GeometryCollection/GeometryCollectionComponent.h"
+#include "Items/Treasure.h"
 
 ABreakableActor::ABreakableActor()
 {
@@ -27,5 +28,12 @@ void ABreakableActor::Tick(float DeltaTime)
 
 void ABreakableActor::GetHit_Implementation(const FVector& ImpactPoint)
 {
+	UWorld* World = GetWorld();
+	if (World && TreasureClass)
+	{
+		FVector Location = GetActorLocation();
+		Location.Z += 75.f;
+		World->SpawnActor<ATreasure>(TreasureClass, Location, GetActorRotation());
+	}
 }
 

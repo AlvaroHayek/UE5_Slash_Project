@@ -2138,3 +2138,327 @@ Skipped package /AudioModulation/Volume was expected to be found in plugin Audio
 [2025.09.16-15.07.10:686][121]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
 [2025.09.16-15.07.10:707][121]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
 [2025.09.16-15.07.17:119][130]LogAutomationController: Ignoring very large delta of 6.13 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.09.16-15.07.57:688][218]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6040.784668
+[2025.09.16-15.07.57:820][221]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2025.09.16-15.07.57:820][221]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_9'.
+[2025.09.16-15.07.58:103][225]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.16-15.07.58:104][225]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6041.130371, Update Interval: 327.842041
+[2025.09.16-15.10.25:122][523]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.16-15.10.25:159][523]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.16-15.10.25:159][523]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Minimal_Default_2
+[2025.09.16-15.10.25:166][523]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006509s)
+[2025.09.16-15.10.25:166][523]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Minimal_Default_2.Minimal_Default_2 to /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 (0.006568s)
+[2025.09.16-15.10.25:200][523]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2025.09.16-15.10.25:204][523]LogChaosDD: Creating Chaos Debug Draw Scene for world Minimal_Default_2
+[2025.09.16-15.10.25:205][523]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2'.
+[2025.09.16-15.10.25:206][523]LogPlayLevel: PIE: World Init took: (0.002068s)
+[2025.09.16-15.10.25:208][523]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2025.09.16-15.10.25:208][523]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.16-15.10.25:208][523]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.16-15.10.25:208][523]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.16-15.10.25:208][523]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.16-15.10.25:208][523]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.16-15.10.25:208][523]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.16-15.10.25:208][523]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.16-15.10.25:208][523]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.16-15.10.25:208][523]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.16-15.10.25:208][523]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.16-15.10.25:209][523]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.16-15.10.25:211][523]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.16-15.10.25:232][523]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.09.16-15.10.25:232][523]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.16-15.10.25:233][523]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.16-15.10.25:233][523]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.16-15.10.25:233][523]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2025.09.16-15.10.25:233][523]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2025.09.16-15.10.25:236][523]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2025.09.16-15.10.25:236][523]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2025.09.16-15.10.25:236][523]LogInit: FAudioDevice initialized with ID 7.
+[2025.09.16-15.10.25:236][523]LogAudio: Display: Audio Device (ID: 7) registered with world 'Minimal_Default_2'.
+[2025.09.16-15.10.25:236][523]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2025.09.16-15.10.25:241][523]LogLoad: Game class is 'BP_GameMode_C'
+[2025.09.16-15.10.25:249][523]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Echo'
+[2025.09.16-15.10.25:252][523]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 up for play (max tick rate 60) at 2025.09.16-17.10.25
+[2025.09.16-15.10.25:253][523]LogWorld: Bringing up level for play took: 0.011541
+[2025.09.16-15.10.25:256][523]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2025.09.16-15.10.25:258][523]PIE: Server logged in
+[2025.09.16-15.10.25:260][523]PIE: Play in editor total start time 0.125 seconds.
+[2025.09.16-15.10.55:610][408]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=7
+[2025.09.16-15.11.36:491][621]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=7
+[2025.09.16-15.13.56:662][814]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6399.743164
+[2025.09.16-15.13.57:200][830]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.16-15.13.57:200][830]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6400.244629, Update Interval: 326.424744
+[2025.09.16-15.13.59:232][890]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.16-15.13.59:232][890]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Minimal_Default_2
+[2025.09.16-15.13.59:232][890]LogWorld: UWorld::CleanupWorld for Minimal_Default_2, bSessionEnded=true, bCleanupResources=true
+[2025.09.16-15.13.59:233][890]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.16-15.13.59:238][890]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.16-15.13.59:247][890]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.16-15.13.59:311][890]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.09.16-15.13.59:311][890]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2025.09.16-15.13.59:311][890]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2025.09.16-15.13.59:315][890]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2025.09.16-15.13.59:321][890]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.16-15.13.59:326][890]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2025.09.16-15.13.59:539][893]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2025.09.16-15.19.54:763][534]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6757.840820
+[2025.09.16-15.19.55:065][543]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.16-15.19.55:065][543]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6758.108887, Update Interval: 304.094360
+[2025.09.16-15.20.31:314][628]LogDerivedDataCache: C:/Users/Usuario/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.002 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.09.16-15.23.23:133][750]Candidate modules for hot reload:
+[2025.09.16-15.23.23:133][750]  Slash_Project
+[2025.09.16-15.23.23:145][750]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_5.5/Engine/Build/BatchFiles/Build.bat  -ModuleWithSuffix=Slash_Project,0219 Slash_ProjectEditor Win64 Development -Project="C:/Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Slash_Project.uproject" "C:/Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Slash_Project.uproject"  -IgnoreJunk]
+[2025.09.16-15.23.23:179][750]Warning: Starting HotReload took  0.1s.
+[2025.09.16-15.25.10:883][929]CompilerResultsLog: Using bundled DotNet SDK version: 8.0.300
+[2025.09.16-15.25.10:883][929]CompilerResultsLog: Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" -ModuleWithSuffix=Slash_Project,0219 Slash_ProjectEditor Win64 Development -Project="C:/Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Slash_Project.uproject" "C:/Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Slash_Project.uproject"  -IgnoreJunk
+[2025.09.16-15.25.10:884][929]CompilerResultsLog: Log file: C:\Users\Usuario\AppData\Local\UnrealBuildTool\Log.txt
+[2025.09.16-15.25.10:884][929]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project).
+[2025.09.16-15.25.10:884][929]CompilerResultsLog: Creating makefile for Slash_ProjectEditor (command line arguments changed)
+[2025.09.16-15.25.10:884][929]CompilerResultsLog: Warning: C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Slash_Project.uproject does not list plugin 'HairStrands' as a dependency, but module 'Slash_Project' depends on 'HairStrandsCore'.
+[2025.09.16-15.25.10:884][929]CompilerResultsLog: Building Slash_ProjectEditor...
+[2025.09.16-15.25.10:884][929]CompilerResultsLog: Using Visual Studio 2022 14.38.33145 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130) and Windows 10.0.22621.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2025.09.16-15.25.10:884][929]CompilerResultsLog: [Upgrade]
+[2025.09.16-15.25.10:884][929]CompilerResultsLog: [Upgrade] Using backward-compatible include order. The latest version of UE has changed the order of includes, which may require code changes. The current setting is:
+[2025.09.16-15.25.10:884][929]CompilerResultsLog: [Upgrade]     IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_3
+[2025.09.16-15.25.10:884][929]CompilerResultsLog: [Upgrade] Suppress this message by setting 'IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_5;' in Slash_ProjectEditor.Target.cs.
+[2025.09.16-15.25.10:884][929]CompilerResultsLog: [Upgrade] Alternatively you can set this to 'EngineIncludeOrderVersion.Latest' to always use the latest include order. This will potentially cause compile errors when integrating new versions of the engine.
+[2025.09.16-15.25.10:884][929]CompilerResultsLog: [Upgrade]
+[2025.09.16-15.25.10:884][929]CompilerResultsLog: [Adaptive Build] Excluded from Slash_Project unity file: BreakableActor.cpp
+[2025.09.16-15.25.10:884][929]CompilerResultsLog: Determining max actions to execute in parallel (6 physical cores, 12 logical cores)
+[2025.09.16-15.25.10:884][929]CompilerResultsLog:   Executing up to 6 processes, one per physical core
+[2025.09.16-15.25.10:884][929]CompilerResultsLog:   Requested 1.5 GB memory per action, 2.7 GB available: limiting max parallel actions to 1
+[2025.09.16-15.25.10:884][929]CompilerResultsLog: Using XGE executor to run 6 action(s)
+[2025.09.16-15.25.10:884][929]CompilerResultsLog: Distributing 6 actions to XGE
+[2025.09.16-15.25.10:884][929]CompilerResultsLog: UnrealBuildTool Compile
+[2025.09.16-15.25.10:885][929]CompilerResultsLog: 
+[2025.09.16-15.25.10:885][929]CompilerResultsLog: --------------------Build System Warning---------------------------------------
+[2025.09.16-15.25.10:885][929]CompilerResultsLog: License not activated:
+[2025.09.16-15.25.10:885][929]CompilerResultsLog:     License is not activated. Please activate the license in the coordinator.
+[2025.09.16-15.25.10:885][929]CompilerResultsLog:     This build will run in standalone mode.
+[2025.09.16-15.25.10:886][929]CompilerResultsLog: 
+[2025.09.16-15.25.10:886][929]CompilerResultsLog: -------------------------------------------------------------------------------
+[2025.09.16-15.25.10:886][929]CompilerResultsLog: 
+[2025.09.16-15.25.10:886][929]CompilerResultsLog: Build ID: {3FBA8916-7099-4027-8051-6F4E1547DD00}
+[2025.09.16-15.25.10:886][929]CompilerResultsLog: 
+[2025.09.16-15.25.10:886][929]CompilerResultsLog: --------------------Project: Default-------------------------------------------
+[2025.09.16-15.25.10:886][929]CompilerResultsLog: [1/6] Compile [x64] Slash_Project.init.gen.cpp (0:38.00 at +0:00)
+[2025.09.16-15.25.10:886][929]CompilerResultsLog: [2/6] Compile [x64] BreakableActor.gen.cpp (0:38.09 at +0:00)
+[2025.09.16-15.25.10:886][929]CompilerResultsLog: [3/6] Compile [x64] BreakableActor.cpp (1:34.14 at +0:00)
+[2025.09.16-15.25.10:886][929]CompilerResultsLog: [4/6] Link [x64] UnrealEditor-Slash_Project-0219.lib (0:00.25 at +1:34)
+[2025.09.16-15.25.10:886][929]CompilerResultsLog:    Creating library C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Intermediate\Build\Win64\x64\UnrealEditor\Development\Slash_Project\UnrealEditor-Slash_Project-0219.lib and object C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Intermediate\Build\Win64\x64\UnrealEditor\Development\Slash_Project\UnrealEditor-Slash_Project-0219.exp
+[2025.09.16-15.25.10:886][929]CompilerResultsLog: [5/6] Link [x64] UnrealEditor-Slash_Project-0219.dll (0:01.42 at +1:34)
+[2025.09.16-15.25.10:886][929]CompilerResultsLog:    Creating object C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Binaries\Win64\UnrealEditor-Slash_Project-0219.exp
+[2025.09.16-15.25.10:886][929]CompilerResultsLog: [6/6] WriteMetadata Slash_ProjectEditor.target (0:00.73 at +1:35)
+[2025.09.16-15.25.10:886][929]CompilerResultsLog: ---------------------- Done ----------------------
+[2025.09.16-15.25.10:886][929]CompilerResultsLog: 
+[2025.09.16-15.25.10:887][929]CompilerResultsLog:     Rebuild All: 1 succeeded, 0 failed, 0 skipped
+[2025.09.16-15.25.10:887][929]CompilerResultsLog: 
+[2025.09.16-15.25.10:887][929]CompilerResultsLog: 1 build system warning(s):
+[2025.09.16-15.25.10:887][929]CompilerResultsLog:    - License not activated
+[2025.09.16-15.25.10:887][929]CompilerResultsLog: 
+[2025.09.16-15.25.10:887][929]CompilerResultsLog: Total time in XGE executor: 101.24 seconds
+[2025.09.16-15.25.10:887][929]CompilerResultsLog: Total execution time: 107.36 seconds
+[2025.09.16-15.25.10:887][929]LogMainFrame: MainFrame: Module compiling took 107.786 seconds
+[2025.09.16-15.25.10:923][929]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2025.09.16-15.25.11:169][929]LogClass: UPackage /Script/Slash_Project Reload.
+[2025.09.16-15.25.11:170][929]LogClass: UClass BreakableActor Reload.
+[2025.09.16-15.25.11:174][929]LogClass: Could not find existing class BreakableActor in package /Script/Slash_Project for reload, assuming new or modified class
+[2025.09.16-15.25.11:275][929]Re-instancing BreakableActor after reload.
+[2025.09.16-15.25.12:051][929]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2025.09.16-15.25.12:064][929]LogBlueprint: Warning: Blueprint /Game/AncientContent/Blueprints/Abilities/GameplayAbilityUtils is missing GeneratedClass asset tag
+[2025.09.16-15.25.12:096][929]Display: HotReload took 109.1s.
+[2025.09.16-15.25.12:097][929]Display: Reload/Re-instancing Complete: 1 package changed, 1 class changed, 8 classes unchanged, 2 enums unchanged, 11 functions remapped
+[2025.09.16-15.25.13:386][930]LogAutomationController: Ignoring very large delta of 2.52 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.09.16-15.25.52:111][958]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7115.198730
+[2025.09.16-15.25.52:476][969]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.16-15.25.52:477][969]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7115.532227, Update Interval: 303.438812
+[2025.09.16-15.28.37:289][885]LogEditorClassViewer: Warning: AssetRegistry Blueprint /Game/AncientContent/Blueprints/Abilities/GameplayAbilityUtils.GameplayAbilityUtils is missing tag value for GeneratedClass. Blueprint will not be available to ClassViewer when unloaded.
+[2025.09.16-15.28.37:315][885]LogEditorClassViewer: Warning: Class /Game/Clinic/Demo/FirstPersonBP/FirstPersonOverview.FirstPersonOverview_C has parent /Script/IntroTutorials.EditorTutorial, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.09.16-15.28.37:315][885]LogEditorClassViewer: Warning: Class /Game/AncientContent/Blueprints/Character/BP_VaultingTriggerComponent.BP_VaultingTriggerComponent_C has parent /Script/AncientGame.AncientGameBoxComponentBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.09.16-15.28.37:315][885]LogEditorClassViewer: Warning: Class /Game/AncientContent/Blueprints/Character/BP_EchoCharacter.BP_EchoCharacter_C has parent /Script/ModularGameplayActors.ModularCharacter, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.09.16-15.28.37:316][885]LogEditorClassViewer: Warning: Class /Game/AncientContent/Blueprints/Camera/BP_ThirdPersonCameraMode.BP_ThirdPersonCameraMode_C has parent /Script/AncientGame.SpringArmCameraMode, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.09.16-15.28.37:316][885]LogEditorClassViewer: Warning: Class /Game/AncientContent/Blueprints/Abilities/GA_Vault.GA_Vault_C has parent /Script/GameplayAbilities.GameplayAbility, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.09.16-15.28.37:316][885]LogEditorClassViewer: Warning: Class /Game/AncientContent/Blueprints/Abilities/GA_SitStand.GA_SitStand_C has parent /Script/GameplayAbilities.GameplayAbility, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.09.16-15.28.37:316][885]LogEditorClassViewer: Warning: Class /Game/AncientContent/Characters/Echo/Echo_AnimBP.Echo_AnimBP_C has parent /Script/AncientGame.AncientGameAnimInstance, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.09.16-15.29.04:435][561]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2025.09.16-15.29.05:368][561]LogSlate: Window 'Save Content' being destroyed
+[2025.09.16-15.29.05:416][561]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.16-15.29.05:504][561]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Breakables/BP_Breakable] ([2] browsable assets)...
+[2025.09.16-15.29.05:585][561]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Breakables/BP_Breakable.BP_Breakable]
+[2025.09.16-15.29.05:585][561]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Breakables/BP_Breakable]
+[2025.09.16-15.29.05:594][561]LogSavePackage: Moving output files for package: /Game/Blueprints/Breakables/BP_Breakable
+[2025.09.16-15.29.05:596][561]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/BP_BreakableBD82D2BE472566CB7C3BE88615A2F557.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Breakables/BP_Breakable.uasset'
+[2025.09.16-15.29.05:665][561]LogFileHelpers: InternalPromptForCheckoutAndSave took 247.963 ms (total: 1.12 sec)
+[2025.09.16-15.29.05:742][561]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.16-15.29.05:743][561]LogContentValidation: Enabled validators:
+[2025.09.16-15.29.05:743][561]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.16-15.29.05:743][561]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.16-15.29.05:743][561]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.16-15.29.05:743][561]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.16-15.29.05:743][561]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.16-15.29.05:743][561]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.16-15.29.05:743][561]AssetCheck: /Game/Blueprints/Breakables/BP_Breakable Validating asset
+[2025.09.16-15.31.48:408][293]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7471.484863
+[2025.09.16-15.31.48:707][302]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.16-15.31.48:708][302]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7471.750977, Update Interval: 353.569153
+[2025.09.16-15.36.03:043][839]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2025.09.16-16.28.41:335][840]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.09.16-16.28.41:335][840]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=1892
+[2025.09.16-16.28.41:389][840]LogAutomationController: Ignoring very large delta of 3158.82 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.09.16-16.28.41:426][842]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.09.16-16.28.41:429][842]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{58ea4715-9790-4598-9427-e0f8b9d39fd0}, Name=Altavoces (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=69.34
+[2025.09.16-16.28.41:429][842]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.09.16-16.28.41:433][842]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.09.16-16.29.23:480][ 26]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10926.567383
+[2025.09.16-16.29.23:747][ 34]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.16-16.29.23:747][ 34]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10926.799805, Update Interval: 336.071045
+[2025.09.16-16.35.38:732][235]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11301.700195
+[2025.09.16-16.35.38:965][242]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.16-16.35.38:965][242]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11301.900391, Update Interval: 339.991455
+[2025.09.16-16.41.56:901][577]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11679.666992
+[2025.09.16-16.41.57:168][585]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.16-16.41.57:168][585]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11679.899414, Update Interval: 321.434967
+[2025.09.16-16.47.20:938][290]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2025.09.16-16.48.01:273][394]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12043.846680
+[2025.09.16-16.48.01:506][401]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.16-16.48.01:506][401]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12044.047852, Update Interval: 332.987457
+[2025.09.16-16.54.10:159][456]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12412.483398
+[2025.09.16-16.54.10:393][463]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.16-16.54.10:393][463]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12412.682617, Update Interval: 331.330292
+[2025.09.16-17.00.14:453][379]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12776.618164
+[2025.09.16-17.00.14:687][386]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.16-17.00.14:687][386]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12776.818359, Update Interval: 332.628571
+[2025.09.16-17.06.41:336][970]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13163.399414
+[2025.09.16-17.06.41:572][977]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.16-17.06.41:572][977]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13163.599609, Update Interval: 311.387665
+[2025.09.16-17.12.29:025][395]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13510.945312
+[2025.09.16-17.12.29:258][402]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.16-17.12.29:258][402]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13511.145508, Update Interval: 314.443787
+[2025.09.16-17.12.45:960][895]Candidate modules for hot reload:
+[2025.09.16-17.12.45:960][895]  Slash_Project
+[2025.09.16-17.12.45:970][895]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_5.5/Engine/Build/BatchFiles/Build.bat  -ModuleWithSuffix=Slash_Project,3600 Slash_ProjectEditor Win64 Development -Project="C:/Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Slash_Project.uproject" "C:/Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Slash_Project.uproject"  -IgnoreJunk]
+[2025.09.16-17.12.46:001][895]Warning: Starting HotReload took  0.1s.
+[2025.09.16-17.13.05:491][477]LogDerivedDataCache: C:/Users/Usuario/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.09.16-17.13.30:095][211]CompilerResultsLog: Using bundled DotNet SDK version: 8.0.300
+[2025.09.16-17.13.30:096][211]CompilerResultsLog: Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" -ModuleWithSuffix=Slash_Project,3600 Slash_ProjectEditor Win64 Development -Project="C:/Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Slash_Project.uproject" "C:/Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Slash_Project.uproject"  -IgnoreJunk
+[2025.09.16-17.13.30:096][211]CompilerResultsLog: Log file: C:\Users\Usuario\AppData\Local\UnrealBuildTool\Log.txt
+[2025.09.16-17.13.30:096][211]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project).
+[2025.09.16-17.13.30:096][211]CompilerResultsLog: Building Slash_ProjectEditor...
+[2025.09.16-17.13.30:096][211]CompilerResultsLog: Using Visual Studio 2022 14.38.33145 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130) and Windows 10.0.22621.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2025.09.16-17.13.30:096][211]CompilerResultsLog: [Upgrade]
+[2025.09.16-17.13.30:096][211]CompilerResultsLog: [Upgrade] Using backward-compatible include order. The latest version of UE has changed the order of includes, which may require code changes. The current setting is:
+[2025.09.16-17.13.30:096][211]CompilerResultsLog: [Upgrade]     IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_3
+[2025.09.16-17.13.30:096][211]CompilerResultsLog: [Upgrade] Suppress this message by setting 'IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_5;' in Slash_ProjectEditor.Target.cs.
+[2025.09.16-17.13.30:096][211]CompilerResultsLog: [Upgrade] Alternatively you can set this to 'EngineIncludeOrderVersion.Latest' to always use the latest include order. This will potentially cause compile errors when integrating new versions of the engine.
+[2025.09.16-17.13.30:096][211]CompilerResultsLog: [Upgrade]
+[2025.09.16-17.13.30:096][211]CompilerResultsLog: [Adaptive Build] Excluded from Slash_Project unity file: BreakableActor.cpp
+[2025.09.16-17.13.30:096][211]CompilerResultsLog: Determining max actions to execute in parallel (6 physical cores, 12 logical cores)
+[2025.09.16-17.13.30:096][211]CompilerResultsLog:   Executing up to 6 processes, one per physical core
+[2025.09.16-17.13.30:096][211]CompilerResultsLog:   Requested 1.5 GB memory per action, 4.45 GB available: limiting max parallel actions to 2
+[2025.09.16-17.13.30:096][211]CompilerResultsLog: Using XGE executor to run 4 action(s)
+[2025.09.16-17.13.30:096][211]CompilerResultsLog: Distributing 4 actions to XGE
+[2025.09.16-17.13.30:096][211]CompilerResultsLog: UnrealBuildTool Compile
+[2025.09.16-17.13.30:096][211]CompilerResultsLog: 
+[2025.09.16-17.13.30:096][211]CompilerResultsLog: --------------------Build System Warning---------------------------------------
+[2025.09.16-17.13.30:096][211]CompilerResultsLog: License not activated:
+[2025.09.16-17.13.30:096][211]CompilerResultsLog:     License is not activated. Please activate the license in the coordinator.
+[2025.09.16-17.13.30:096][211]CompilerResultsLog:     This build will run in standalone mode.
+[2025.09.16-17.13.30:096][211]CompilerResultsLog: 
+[2025.09.16-17.13.30:097][211]CompilerResultsLog: -------------------------------------------------------------------------------
+[2025.09.16-17.13.30:097][211]CompilerResultsLog: 
+[2025.09.16-17.13.30:097][211]CompilerResultsLog: Build ID: {646F2FB7-96C3-4DE1-8C96-BBF5FC819F28}
+[2025.09.16-17.13.30:097][211]CompilerResultsLog: 
+[2025.09.16-17.13.30:097][211]CompilerResultsLog: --------------------Project: Default-------------------------------------------
+[2025.09.16-17.13.30:097][211]CompilerResultsLog: [1/4] Compile [x64] BreakableActor.cpp (0:37.96 at +0:00)
+[2025.09.16-17.13.30:097][211]CompilerResultsLog: [2/4] Link [x64] UnrealEditor-Slash_Project-3600.lib (0:00.20 at +0:38)
+[2025.09.16-17.13.30:097][211]CompilerResultsLog:    Creating library C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Intermediate\Build\Win64\x64\UnrealEditor\Development\Slash_Project\UnrealEditor-Slash_Project-3600.lib and object C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Intermediate\Build\Win64\x64\UnrealEditor\Development\Slash_Project\UnrealEditor-Slash_Project-3600.exp
+[2025.09.16-17.13.30:097][211]CompilerResultsLog: [3/4] Link [x64] UnrealEditor-Slash_Project-3600.dll (0:01.21 at +0:38)
+[2025.09.16-17.13.30:097][211]CompilerResultsLog:    Creating object C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Binaries\Win64\UnrealEditor-Slash_Project-3600.exp
+[2025.09.16-17.13.30:097][211]CompilerResultsLog: [4/4] WriteMetadata Slash_ProjectEditor.target (0:00.36 at +0:39)
+[2025.09.16-17.13.30:097][211]CompilerResultsLog: ---------------------- Done ----------------------
+[2025.09.16-17.13.30:097][211]CompilerResultsLog: 
+[2025.09.16-17.13.30:097][211]CompilerResultsLog:     Rebuild All: 1 succeeded, 0 failed, 0 skipped
+[2025.09.16-17.13.30:097][211]CompilerResultsLog: 
+[2025.09.16-17.13.30:097][211]CompilerResultsLog: 1 build system warning(s):
+[2025.09.16-17.13.30:097][211]CompilerResultsLog:    - License not activated
+[2025.09.16-17.13.30:097][211]CompilerResultsLog: 
+[2025.09.16-17.13.30:097][211]CompilerResultsLog: Total time in XGE executor: 41.95 seconds
+[2025.09.16-17.13.30:097][211]CompilerResultsLog: Total execution time: 43.88 seconds
+[2025.09.16-17.13.30:097][211]LogMainFrame: MainFrame: Module compiling took 44.151 seconds
+[2025.09.16-17.13.30:120][211]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2025.09.16-17.13.30:448][211]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2025.09.16-17.13.30:462][211]LogBlueprint: Warning: Blueprint /Game/AncientContent/Blueprints/Abilities/GameplayAbilityUtils is missing GeneratedClass asset tag
+[2025.09.16-17.13.30:492][211]Display: HotReload took 44.6s.
+[2025.09.16-17.13.30:492][211]Display: Reload/Re-instancing Complete: 1 package changed, 9 classes unchanged, 2 enums unchanged, 11 functions remapped
+[2025.09.16-17.16.14:524][ 79]Candidate modules for hot reload:
+[2025.09.16-17.16.14:524][ 79]  Slash_Project
+[2025.09.16-17.16.14:533][ 79]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_5.5/Engine/Build/BatchFiles/Build.bat  -ModuleWithSuffix=Slash_Project,3532 Slash_ProjectEditor Win64 Development -Project="C:/Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Slash_Project.uproject" "C:/Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Slash_Project.uproject"  -IgnoreJunk]
+[2025.09.16-17.16.14:541][ 79]Warning: Starting HotReload took  0.0s.
+[2025.09.16-17.16.39:171][813]CompilerResultsLog: Using bundled DotNet SDK version: 8.0.300
+[2025.09.16-17.16.39:171][813]CompilerResultsLog: Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" -ModuleWithSuffix=Slash_Project,3532 Slash_ProjectEditor Win64 Development -Project="C:/Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Slash_Project.uproject" "C:/Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Slash_Project.uproject"  -IgnoreJunk
+[2025.09.16-17.16.39:171][813]CompilerResultsLog: Log file: C:\Users\Usuario\AppData\Local\UnrealBuildTool\Log.txt
+[2025.09.16-17.16.39:171][813]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project).
+[2025.09.16-17.16.39:171][813]CompilerResultsLog: Creating makefile for Slash_ProjectEditor (command line arguments changed)
+[2025.09.16-17.16.39:171][813]CompilerResultsLog: Warning: C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Slash_Project.uproject does not list plugin 'HairStrands' as a dependency, but module 'Slash_Project' depends on 'HairStrandsCore'.
+[2025.09.16-17.16.39:171][813]CompilerResultsLog: Building Slash_ProjectEditor...
+[2025.09.16-17.16.39:171][813]CompilerResultsLog: Using Visual Studio 2022 14.38.33145 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130) and Windows 10.0.22621.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2025.09.16-17.16.39:171][813]CompilerResultsLog: [Upgrade]
+[2025.09.16-17.16.39:171][813]CompilerResultsLog: [Upgrade] Using backward-compatible include order. The latest version of UE has changed the order of includes, which may require code changes. The current setting is:
+[2025.09.16-17.16.39:171][813]CompilerResultsLog: [Upgrade]     IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_3
+[2025.09.16-17.16.39:171][813]CompilerResultsLog: [Upgrade] Suppress this message by setting 'IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_5;' in Slash_ProjectEditor.Target.cs.
+[2025.09.16-17.16.39:171][813]CompilerResultsLog: [Upgrade] Alternatively you can set this to 'EngineIncludeOrderVersion.Latest' to always use the latest include order. This will potentially cause compile errors when integrating new versions of the engine.
+[2025.09.16-17.16.39:171][813]CompilerResultsLog: [Upgrade]
+[2025.09.16-17.16.39:171][813]CompilerResultsLog: [Adaptive Build] Excluded from Slash_Project unity file: BreakableActor.cpp
+[2025.09.16-17.16.39:171][813]CompilerResultsLog: Determining max actions to execute in parallel (6 physical cores, 12 logical cores)
+[2025.09.16-17.16.39:171][813]CompilerResultsLog:   Executing up to 6 processes, one per physical core
+[2025.09.16-17.16.39:171][813]CompilerResultsLog:   Requested 1.5 GB memory per action, 3.5 GB available: limiting max parallel actions to 2
+[2025.09.16-17.16.39:171][813]CompilerResultsLog: Using XGE executor to run 6 action(s)
+[2025.09.16-17.16.39:171][813]CompilerResultsLog: Distributing 6 actions to XGE
+[2025.09.16-17.16.39:171][813]CompilerResultsLog: UnrealBuildTool Compile
+[2025.09.16-17.16.39:171][813]CompilerResultsLog: 
+[2025.09.16-17.16.39:171][813]CompilerResultsLog: --------------------Build System Warning---------------------------------------
+[2025.09.16-17.16.39:186][813]CompilerResultsLog: License not activated:
+[2025.09.16-17.16.39:186][813]CompilerResultsLog:     License is not activated. Please activate the license in the coordinator.
+[2025.09.16-17.16.39:187][813]CompilerResultsLog:     This build will run in standalone mode.
+[2025.09.16-17.16.39:187][813]CompilerResultsLog: 
+[2025.09.16-17.16.39:187][813]CompilerResultsLog: -------------------------------------------------------------------------------
+[2025.09.16-17.16.39:187][813]CompilerResultsLog: 
+[2025.09.16-17.16.39:187][813]CompilerResultsLog: Build ID: {07E6B620-478D-4A31-94B2-08F8567D75E1}
+[2025.09.16-17.16.39:187][813]CompilerResultsLog: 
+[2025.09.16-17.16.39:187][813]CompilerResultsLog: --------------------Project: Default-------------------------------------------
+[2025.09.16-17.16.39:187][813]CompilerResultsLog: [1/6] Compile [x64] Slash_Project.init.gen.cpp (0:00.56 at +0:00)
+[2025.09.16-17.16.39:187][813]CompilerResultsLog: [2/6] Compile [x64] BreakableActor.gen.cpp (0:00.79 at +0:00)
+[2025.09.16-17.16.39:187][813]CompilerResultsLog: [3/6] Compile [x64] BreakableActor.cpp (0:14.54 at +0:00)
+[2025.09.16-17.16.39:187][813]CompilerResultsLog: [4/6] Link [x64] UnrealEditor-Slash_Project-3532.lib (0:00.29 at +0:14)
+[2025.09.16-17.16.39:187][813]CompilerResultsLog:    Creating library C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Intermediate\Build\Win64\x64\UnrealEditor\Development\Slash_Project\UnrealEditor-Slash_Project-3532.lib and object C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Intermediate\Build\Win64\x64\UnrealEditor\Development\Slash_Project\UnrealEditor-Slash_Project-3532.exp
+[2025.09.16-17.16.39:187][813]CompilerResultsLog: [5/6] Link [x64] UnrealEditor-Slash_Project-3532.dll (0:01.17 at +0:14)
+[2025.09.16-17.16.39:187][813]CompilerResultsLog:    Creating object C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Binaries\Win64\UnrealEditor-Slash_Project-3532.exp
+[2025.09.16-17.16.39:187][813]CompilerResultsLog: [6/6] WriteMetadata Slash_ProjectEditor.target (0:00.43 at +0:15)
+[2025.09.16-17.16.39:187][813]CompilerResultsLog: ---------------------- Done ----------------------
+[2025.09.16-17.16.39:187][813]CompilerResultsLog: 
+[2025.09.16-17.16.39:187][813]CompilerResultsLog:     Rebuild All: 1 succeeded, 0 failed, 0 skipped
+[2025.09.16-17.16.39:187][813]CompilerResultsLog: 
+[2025.09.16-17.16.39:187][813]CompilerResultsLog: 1 build system warning(s):
+[2025.09.16-17.16.39:187][813]CompilerResultsLog:    - License not activated
+[2025.09.16-17.16.39:187][813]CompilerResultsLog: 
+[2025.09.16-17.16.39:187][813]CompilerResultsLog: Total time in XGE executor: 20.25 seconds
+[2025.09.16-17.16.39:187][813]CompilerResultsLog: Total execution time: 24.38 seconds
+[2025.09.16-17.16.39:187][813]LogMainFrame: MainFrame: Module compiling took 24.662 seconds
+[2025.09.16-17.16.39:616][813]LogUObjectHash: Compacting FUObjectHashTables data took  53.12ms
+[2025.09.16-17.16.40:106][813]LogClass: UPackage /Script/Slash_Project Reload.
+[2025.09.16-17.16.40:106][813]LogClass: UClass BreakableActor Reload.
+[2025.09.16-17.16.40:110][813]LogClass: Could not find existing class BreakableActor in package /Script/Slash_Project for reload, assuming new or modified class
+[2025.09.16-17.16.40:190][813]Re-instancing BreakableActor after reload.
+[2025.09.16-17.16.40:766][813]LogUObjectHash: Compacting FUObjectHashTables data took   4.13ms
+[2025.09.16-17.16.40:810][813]LogBlueprint: Warning: Blueprint /Game/AncientContent/Blueprints/Abilities/GameplayAbilityUtils is missing GeneratedClass asset tag
+[2025.09.16-17.16.40:832][813]Display: HotReload took 26.3s.
+[2025.09.16-17.16.40:833][813]Display: Reload/Re-instancing Complete: 1 package changed, 1 class changed, 8 classes unchanged, 2 enums unchanged, 11 functions remapped
+[2025.09.16-17.16.41:506][814]LogAutomationController: Ignoring very large delta of 2.34 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.09.16-17.17.00:283][357]LogEditorClassViewer: Warning: AssetRegistry Blueprint /Game/AncientContent/Blueprints/Abilities/GameplayAbilityUtils.GameplayAbilityUtils is missing tag value for GeneratedClass. Blueprint will not be available to ClassViewer when unloaded.
+[2025.09.16-17.17.00:332][357]LogEditorClassViewer: Warning: Class /Game/Clinic/Demo/FirstPersonBP/FirstPersonOverview.FirstPersonOverview_C has parent /Script/IntroTutorials.EditorTutorial, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.09.16-17.17.00:332][357]LogEditorClassViewer: Warning: Class /Game/AncientContent/Blueprints/Character/BP_VaultingTriggerComponent.BP_VaultingTriggerComponent_C has parent /Script/AncientGame.AncientGameBoxComponentBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.09.16-17.17.00:332][357]LogEditorClassViewer: Warning: Class /Game/AncientContent/Blueprints/Character/BP_EchoCharacter.BP_EchoCharacter_C has parent /Script/ModularGameplayActors.ModularCharacter, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.09.16-17.17.00:332][357]LogEditorClassViewer: Warning: Class /Game/AncientContent/Blueprints/Camera/BP_ThirdPersonCameraMode.BP_ThirdPersonCameraMode_C has parent /Script/AncientGame.SpringArmCameraMode, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.09.16-17.17.00:332][357]LogEditorClassViewer: Warning: Class /Game/AncientContent/Blueprints/Abilities/GA_Vault.GA_Vault_C has parent /Script/GameplayAbilities.GameplayAbility, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.09.16-17.17.00:332][357]LogEditorClassViewer: Warning: Class /Game/AncientContent/Blueprints/Abilities/GA_SitStand.GA_SitStand_C has parent /Script/GameplayAbilities.GameplayAbility, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.09.16-17.17.00:332][357]LogEditorClassViewer: Warning: Class /Game/AncientContent/Characters/Echo/Echo_AnimBP.Echo_AnimBP_C has parent /Script/AncientGame.AncientGameAnimInstance, but this parent is not found. The Class will not be shown in ClassViewer.
