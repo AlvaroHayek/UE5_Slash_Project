@@ -1124,3 +1124,707 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.09.16-22.43.58:707][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
 [2025.09.16-22.43.58:746][  0]LogMetaSound: MetaSound Engine Initialized
 [2025.09.16-22.43.59:701][  0]LogConfig: Branch 'TranslationPickerSettings' had been unloaded. Reloading on-demand took 4.22ms
+[2025.09.16-22.44.00:278][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2025.09.16-22.44.00:307][  0]LogUdpMessaging: Display: Work queue size set to 1024.
+[2025.09.16-22.44.00:308][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2025.09.16-22.44.00:311][  0]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:49884'.
+[2025.09.16-22.44.00:318][  0]LogUdpMessaging: Display: Added local interface '192.168.1.33' to multicast group '230.0.0.1:6666'
+[2025.09.16-22.44.02:317][  0]LogNNERuntimeORT: Available graphics and compute adapters:
+[2025.09.16-22.44.02:317][  0]LogNNERuntimeORT: 0: NVIDIA GeForce GTX 1650 Ti (Compute, Graphics)
+[2025.09.16-22.44.02:317][  0]LogNNERuntimeORT: 1: Microsoft Basic Render Driver (Compute, Graphics)
+[2025.09.16-22.44.02:317][  0]LogNNERuntimeORT: No NPU adapter found!
+[2025.09.16-22.44.03:627][  0]SourceControl: Revision control is disabled
+[2025.09.16-22.44.03:675][  0]SourceControl: Revision control is disabled
+[2025.09.16-22.44.04:170][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2025.09.16-22.44.04:223][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2025.09.16-22.44.04:223][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2025.09.16-22.44.04:746][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/glf/resources/plugInfo.json'
+[2025.09.16-22.44.04:754][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdProcImaging/resources/plugInfo.json'
+[2025.09.16-22.44.04:762][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/sdrGlslfx/resources/plugInfo.json'
+[2025.09.16-22.44.04:771][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdUI/resources/plugInfo.json'
+[2025.09.16-22.44.04:778][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/hd/resources/plugInfo.json'
+[2025.09.16-22.44.04:786][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdAbc/resources/plugInfo.json'
+[2025.09.16-22.44.04:795][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdMtlx/resources/plugInfo.json'
+[2025.09.16-22.44.04:806][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdVolImaging/resources/plugInfo.json'
+[2025.09.16-22.44.04:812][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdImagingGL/resources/plugInfo.json'
+[2025.09.16-22.44.04:819][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/hdGp/resources/plugInfo.json'
+[2025.09.16-22.44.04:828][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdRi/resources/plugInfo.json'
+[2025.09.16-22.44.04:836][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/hdStorm/resources/plugInfo.json'
+[2025.09.16-22.44.04:892][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdGeom/resources/plugInfo.json'
+[2025.09.16-22.44.04:901][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdImaging/resources/plugInfo.json'
+[2025.09.16-22.44.04:909][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdVol/resources/plugInfo.json'
+[2025.09.16-22.44.04:917][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/hdx/resources/plugInfo.json'
+[2025.09.16-22.44.04:924][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/hgiGL/resources/plugInfo.json'
+[2025.09.16-22.44.04:933][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdProc/resources/plugInfo.json'
+[2025.09.16-22.44.04:943][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdShade/resources/plugInfo.json'
+[2025.09.16-22.44.04:959][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdPhysics/resources/plugInfo.json'
+[2025.09.16-22.44.04:966][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/hio/resources/plugInfo.json'
+[2025.09.16-22.44.04:975][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usd/resources/plugInfo.json'
+[2025.09.16-22.44.04:987][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/hdSt/resources/plugInfo.json'
+[2025.09.16-22.44.04:994][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdSkelImaging/resources/plugInfo.json'
+[2025.09.16-22.44.05:002][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdLux/resources/plugInfo.json'
+[2025.09.16-22.44.05:014][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/ar/resources/plugInfo.json'
+[2025.09.16-22.44.05:021][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdShaders/resources/plugInfo.json'
+[2025.09.16-22.44.05:032][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/sdf/resources/plugInfo.json'
+[2025.09.16-22.44.05:040][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdRiPxrImaging/resources/plugInfo.json'
+[2025.09.16-22.44.05:048][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdSkel/resources/plugInfo.json'
+[2025.09.16-22.44.05:058][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdHydra/resources/plugInfo.json'
+[2025.09.16-22.44.05:066][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdRender/resources/plugInfo.json'
+[2025.09.16-22.44.05:088][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/ndr/resources/plugInfo.json'
+[2025.09.16-22.44.05:095][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdMedia/resources/plugInfo.json'
+[2025.09.16-22.44.05:101][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usd/resources/codegenTemplates/plugInfo.json'
+[2025.09.16-22.44.06:137][  0]LogConfig: Branch 'ObjectMixerSerializedData' had been unloaded. Reloading on-demand took 3.07ms
+[2025.09.16-22.44.06:240][  0]LogConfig: Branch 'Crypto' had been unloaded. Reloading on-demand took 2.88ms
+[2025.09.16-22.44.09:900][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Plugins/Interchange/Editor/Content/Old/Tiles/Outer/alertSolid.png' error.
+[2025.09.16-22.44.09:900][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Plugins/Interchange/Editor/Content/Old/Tiles/Outer/alertSolid.png
+[2025.09.16-22.44.09:954][  0]LogConfig: Applying CVar settings from Section [/Script/NNEDenoiser.NNEDenoiserSettings] File [Engine]
+[2025.09.16-22.44.11:659][  0]LogCollectionManager: Loaded 0 collections in 0.012974 seconds
+[2025.09.16-22.44.11:663][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Collections/' took 0.00s
+[2025.09.16-22.44.11:668][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Developers/Usuario/Collections/' took 0.00s
+[2025.09.16-22.44.11:671][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Collections/' took 0.00s
+[2025.09.16-22.44.13:018][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Plugins/Developer/PlasticSourceControl/Resources/Icon128.png' error.
+[2025.09.16-22.44.13:018][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Plugins/Developer/PlasticSourceControl/Resources/Icon128.png
+[2025.09.16-22.44.13:019][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Platforms/VisionOS/Content/Editor/Slate/Launcher/Platform_VisionOS_24x.png' error.
+[2025.09.16-22.44.13:019][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Platforms/VisionOS/Content/Editor/Slate/Launcher/Platform_VisionOS_24x.png
+[2025.09.16-22.44.13:019][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Platforms/VisionOS/Content/Editor/Slate/Launcher/Platform_VisionOS_128x.png' error.
+[2025.09.16-22.44.13:019][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Platforms/VisionOS/Content/Editor/Slate/Launcher/Platform_VisionOS_128x.png
+[2025.09.16-22.44.13:061][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Plugins/Interchange/Editor/Content/Old/Tiles/Outer/alertSolid.png' error.
+[2025.09.16-22.44.13:061][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Plugins/Interchange/Editor/Content/Old/Tiles/Outer/alertSolid.png
+[2025.09.16-22.44.13:123][  0]LogEOSSDK: LogEOS: [Boot] EOSSDK Version 1.16.4-36651368 booting at 2025-09-16T22:44:13.121Z using C
+[2025.09.16-22.44.13:124][  0]LogEOSSDK: LogEOS: [Boot] EOSSDK Platform Properties [OS=Windows/10.0.19041.5915.64bit, ClientId=xyza7891REBVsEqSJRRNXmlS7EQHM459, ProductId=86f32f1151354e7cb39c12f8ab2c22a3, SandboxId=a01927f7421a4d4995673fe30ef46945, DeploymentId=a652a72ea1664dcab3a467891eea5f30, ProductName=Slash_Project, ProductVersion=++UE5+Release-5.5-CL-39772772, IsServer=false, Flags=DisableOverlay]
+[2025.09.16-22.44.13:130][  0]LogEOSSDK: LogEOSAnalytics: Start Session (User: ...)
+[2025.09.16-22.44.13:136][  0]LogEOSSDK: LogEOSOverlay: Overlay will not load, because it was explicitly disabled when creating the platform
+[2025.09.16-22.44.13:181][  0]LogEOSSDK: LogEOSAntiCheat: [AntiCheatClient] Anti-cheat client not available. Verify that the game was started using the anti-cheat bootstrapper if you intend to use it.
+[2025.09.16-22.44.13:197][  0]LogEOSSDK: LogEOS: SetApplicationStatus - OldStatus: EOS_AS_Foreground, NewStatus: EOS_AS_Foreground, Current Time: 0001.01.01-00.00.00
+[2025.09.16-22.44.13:197][  0]LogEOSSDK: LogEOS: SetNetworkStatus - OldStatus: EOS_NS_Online, NewStatus: EOS_NS_Online
+[2025.09.16-22.44.13:198][  0]LogEOSSDK: LogEOS: Updating Platform SDK Config, Time: 0.001880
+[2025.09.16-22.44.13:203][  0]LogFab: Display: Logging in using persist
+[2025.09.16-22.44.13:205][  0]LogEOSSDK: Warning: LogEOSAuth: No existing persistent auth credentials were found for automatic login.
+[2025.09.16-22.44.13:857][  0]LogUObjectArray: 43666 objects as part of root set at end of initial load.
+[2025.09.16-22.44.13:857][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2025.09.16-22.44.13:875][  0]LogStreaming: Display: AsyncLoading2 - NotifyRegistrationComplete: Registered 36355 public script object entries (985.64 KB)
+[2025.09.16-22.44.13:875][  0]LogStreaming: Display: AsyncLoading2 - Thread Started: false, IsInitialLoad: false
+[2025.09.16-22.44.14:209][  0]LogClass: Display: AttemptToFindUninitializedScriptStructMembers took more than 1ms to process ScriptStruct /Script/JsonUtilities.JsonObjectWrapper. Time(ms): 1.4
+[2025.09.16-22.44.14:215][  0]LogClass: Display: AttemptToFindUninitializedScriptStructMembers took more than 1ms to process ScriptStruct /Script/ToolWidgets.ActionButtonStyle. Time(ms): 1.3
+[2025.09.16-22.44.14:222][  0]LogClass: Display: AttemptToFindUninitializedScriptStructMembers took more than 1ms to process ScriptStruct /Script/AIModule.EnvQueryInstanceCache. Time(ms): 1.7
+[2025.09.16-22.44.14:225][  0]LogClass: Display: AttemptToFindUninitializedScriptStructMembers took more than 1ms to process ScriptStruct /Script/AddContentDialog.FeatureAdditionalFiles. Time(ms): 1.3
+[2025.09.16-22.44.14:232][  0]LogClass: Display: AttemptToFindUninitializedScriptStructMembers took more than 1ms to process ScriptStruct /Script/ClothingSystemRuntimeCommon.ClothLODDataCommon. Time(ms): 1.5
+[2025.09.16-22.44.14:238][  0]LogClass: Display: AttemptToFindUninitializedScriptStructMembers took more than 1ms to process ScriptStruct /Script/EditorWidgets.FilterBarSettings. Time(ms): 1.0
+[2025.09.16-22.44.14:242][  0]LogClass: Display: AttemptToFindUninitializedScriptStructMembers took more than 1ms to process ScriptStruct /Script/Engine.AnimInstanceProxy. Time(ms): 2.9
+[2025.09.16-22.44.14:270][  0]LogClass: Display: AttemptToFindUninitializedScriptStructMembers took more than 1ms to process ScriptStruct /Script/Engine.SplineMeshComponentDescriptorBase. Time(ms): 1.1
+[2025.09.16-22.44.14:280][  0]LogClass: Display: AttemptToFindUninitializedScriptStructMembers took more than 1ms to process ScriptStruct /Script/Niagara.NDCIsland. Time(ms): 1.0
+[2025.09.16-22.44.14:288][  0]LogClass: Display: AttemptToFindUninitializedScriptStructMembers took more than 1ms to process ScriptStruct /Script/HairStrandsCore.HairBendConstraint. Time(ms): 1.3
+[2025.09.16-22.44.14:294][  0]LogClass: Display: AttemptToFindUninitializedScriptStructMembers took more than 1ms to process ScriptStruct /Script/AIGraph.AISchemaAction_NewNode. Time(ms): 1.2
+[2025.09.16-22.44.14:295][  0]LogClass: Display: AttemptToFindUninitializedScriptStructMembers took more than 1ms to process ScriptStruct /Script/BehaviorTreeEditor.DecoratorSchemaAction_NewNode. Time(ms): 1.0
+[2025.09.16-22.44.14:302][  0]LogClass: Display: AttemptToFindUninitializedScriptStructMembers took more than 1ms to process ScriptStruct /Script/DataValidation.ValidateAssetsSettings. Time(ms): 4.7
+[2025.09.16-22.44.14:307][  0]LogClass: Display: AttemptToFindUninitializedScriptStructMembers took more than 1ms to process ScriptStruct /Script/TemplateSequence.TemplateSectionPropertyScale. Time(ms): 1.2
+[2025.09.16-22.44.14:311][  0]LogClass: Display: AttemptToFindUninitializedScriptStructMembers took more than 1ms to process ScriptStruct /Script/NiagaraEditor.NiagaraScriptVariableData. Time(ms): 1.2
+[2025.09.16-22.44.14:315][  0]LogClass: Display: AttemptToFindUninitializedScriptStructMembers took more than 1ms to process ScriptStruct /Script/Serialization.StructSerializerLWCTypesTest. Time(ms): 2.3
+[2025.09.16-22.44.14:318][  0]LogClass: Display: AttemptToFindUninitializedScriptStructMembers took more than 1ms to process ScriptStruct /Script/MetasoundFrontend.MetaSoundFrontendDocumentBuilder. Time(ms): 1.7
+[2025.09.16-22.44.14:323][  0]LogClass: Display: AttemptToFindUninitializedScriptStructMembers took more than 1ms to process ScriptStruct /Script/MetasoundEditor.MetasoundEditorMemberPageDefaultStringArray. Time(ms): 2.5
+[2025.09.16-22.44.14:325][  0]LogClass: Display: AttemptToFindUninitializedScriptStructMembers took more than 1ms to process ScriptStruct /Script/MetasoundEditor.MetasoundGraphSchemaAction_NewInput. Time(ms): 1.2
+[2025.09.16-22.44.14:329][  0]LogClass: Display: AttemptToFindUninitializedScriptStructMembers took more than 1ms to process ScriptStruct /Script/RigVMDeveloper.RigVMBaseAction. Time(ms): 1.0
+[2025.09.16-22.44.14:343][  0]LogClass: Display: AttemptToFindUninitializedScriptStructMembers took more than 1ms to process ScriptStruct /Script/IKRig.AnimNode_IKRig. Time(ms): 3.7
+[2025.09.16-22.44.14:345][  0]LogClass: Display: AttemptToFindUninitializedScriptStructMembers took more than 1ms to process ScriptStruct /Script/PythonScriptPlugin.PyTestStruct. Time(ms): 1.0
+[2025.09.16-22.44.14:364][  0]LogClass: Display: AttemptToFindUninitializedScriptStructMembers took more than 1ms to process ScriptStruct /Script/Fab.FabAssetMetadata. Time(ms): 3.0
+[2025.09.16-22.44.14:506][  0]LogEngine: Initializing Engine...
+[2025.09.16-22.44.14:570][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2025.09.16-22.44.14:584][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.005 s
+[2025.09.16-22.44.15:283][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.11.dll
+[2025.09.16-22.44.15:432][  0]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled
+[2025.09.16-22.44.15:572][  0]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Temp/Untitled_0.Untitled'.
+[2025.09.16-22.44.15:747][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2025.09.16-22.44.15:748][  0]LogInit: Texture streaming: Enabled
+[2025.09.16-22.44.15:781][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data. AppVersion = 5.5.3-39772772+++UE5+Release-5.5
+[2025.09.16-22.44.15:865][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2025.09.16-22.44.15:884][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2025.09.16-22.44.15:896][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2025.09.16-22.44.15:897][  0]LogAudio: Display: Audio Device Manager Initialized
+[2025.09.16-22.44.15:899][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2025.09.16-22.44.15:902][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.16-22.44.15:902][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.16-22.44.15:902][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.16-22.44.15:902][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.16-22.44.15:902][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.16-22.44.15:902][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.16-22.44.15:902][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.16-22.44.15:902][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.16-22.44.15:905][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.16-22.44.15:905][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.16-22.44.15:905][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.16-22.44.15:943][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.16-22.44.15:975][  0]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.09.16-22.44.15:982][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.16-22.44.16:019][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.16-22.44.16:021][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.16-22.44.16:093][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2025.09.16-22.44.16:093][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.09.16-22.44.16:096][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.09.16-22.44.16:096][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2025.09.16-22.44.16:096][  0]LogInit: FAudioDevice initialized with ID 1.
+[2025.09.16-22.44.16:105][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2025.09.16-22.44.16:107][  0]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 1
+[2025.09.16-22.44.16:123][  0]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.09.16-22.44.16:383][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2025.09.16-22.44.16:398][  0]LogInit: Undo buffer set to 256 MB
+[2025.09.16-22.44.16:400][  0]LogInit: Transaction tracking system initialized
+[2025.09.16-22.44.16:502][  0]LogSourceControl: Display: Uncontrolled Changelist persistency file loaded ../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/SourceControl/UncontrolledChangelists.json
+[2025.09.16-22.44.16:959][  0]LogConfig: Branch 'LocalizationServiceSettings' had been unloaded. Reloading on-demand took 2.75ms
+[2025.09.16-22.44.16:970][  0]LocalizationService: Localization service is disabled
+[2025.09.16-22.44.17:076][  0]LogTimingProfiler: Initialize
+[2025.09.16-22.44.17:097][  0]LogTimingProfiler: OnSessionChanged
+[2025.09.16-22.44.17:098][  0]LoadingProfiler: Initialize
+[2025.09.16-22.44.17:101][  0]LoadingProfiler: OnSessionChanged
+[2025.09.16-22.44.17:103][  0]LogNetworkingProfiler: Initialize
+[2025.09.16-22.44.17:106][  0]LogNetworkingProfiler: OnSessionChanged
+[2025.09.16-22.44.17:106][  0]LogMemoryProfiler: Initialize
+[2025.09.16-22.44.17:107][  0]LogMemoryProfiler: OnSessionChanged
+[2025.09.16-22.44.19:098][  0]LogNNEDenoiser: Ray Tracing is not enabled, therefore NNEDenoiser is not registered!
+[2025.09.16-22.44.19:128][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/' took 0.12s
+[2025.09.16-22.44.19:266][  0]LogPython: Using Python 3.11.8
+[2025.09.16-22.44.20:890][  0]LogPython: Display: No enabled plugins with python dependencies found, skipping
+[2025.09.16-22.44.21:344][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2025.09.16-22.44.21:525][  0]LogStreaming: Warning: Failed to read file 'Common/Selector.png' error.
+[2025.09.16-22.44.21:525][  0]LogSlate: Could not find file for Slate resource: Common/Selector.png
+[2025.09.16-22.44.22:150][  0]LogEditorDataStorage: Initializing
+[2025.09.16-22.44.22:193][  0]LogEditorDataStorage: Initialized
+[2025.09.16-22.44.22:211][  0]LogAssetRegistry: Display: Triggering cache save on discovery complete
+[2025.09.16-22.44.22:332][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2025.09.16-22.44.22:365][  0]SourceControl: Revision control is disabled
+[2025.09.16-22.44.22:380][  0]LogUnrealEdMisc: Loading editor; pre map load, took 115.511
+[2025.09.16-22.44.22:450][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Maps/Minimal_Default_2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.09.16-22.44.22:488][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2025.09.16-22.44.22:512][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.16-22.44.22:720][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.09.16-22.44.22:774][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.09.16-22.44.23:112][  0]LogAssetRegistry: Display: Asset registry cache written as 42.3 MiB to ../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Intermediate/CachedAssetRegistry_*.bin
+[2025.09.16-22.44.26:887][  0]LogStreaming: Display: ImportPackages: SkipPackage: /Game/AncientContent/Audio/AudioModulation/Patches/SFX_Foley_Echo_Patch (0xA4C2E2A43B5CFF3) /Game/AncientContent/Audio/AudioModulation/Patches/SFX_Foley_Echo_Patch (0xA4C2E2A43B5CFF3) - Skipping non mounted imported package /AudioModulation/Volume (0xEB7582CB3977CA8D)
+[2025.09.16-22.44.29:307][  0]LogStreaming: Display: ImportPackages: SkipPackage: /Game/AncientContent/Audio/AudioModulation/ControlBuses/Echo_ControlBus (0x36A040309F10B6F0) /Game/AncientContent/Audio/AudioModulation/ControlBuses/Echo_ControlBus (0x36A040309F10B6F0) - Skipping non mounted imported package /AudioModulation/Volume (0xEB7582CB3977CA8D)
+[2025.09.16-22.44.29:315][  0]LogStreaming: Display: ImportPackages: SkipPackage: /Game/AncientContent/Audio/AudioModulation/ControlBuses/Foley_ControlBus (0x36E3FA315AA935E0) /Game/AncientContent/Audio/AudioModulation/ControlBuses/Foley_ControlBus (0x36E3FA315AA935E0) - Skipping non mounted imported package /AudioModulation/Volume (0xEB7582CB3977CA8D)
+[2025.09.16-22.44.29:321][  0]LogStreaming: Display: ImportPackages: SkipPackage: /Game/AncientContent/Audio/AudioModulation/ControlBuses/SFX_ControlBus (0xDCDD05A2051628D7) /Game/AncientContent/Audio/AudioModulation/ControlBuses/SFX_ControlBus (0xDCDD05A2051628D7) - Skipping non mounted imported package /AudioModulation/Volume (0xEB7582CB3977CA8D)
+[2025.09.16-22.44.29:403][  0]LogStreaming: Display: ImportPackages: SkipPackage: /Game/AncientContent/Audio/AudioModulation/Patches/SFX_FS_Echo_Patch (0x603EFC99CA0B0076) /Game/AncientContent/Audio/AudioModulation/Patches/SFX_FS_Echo_Patch (0x603EFC99CA0B0076) - Skipping non mounted imported package /AudioModulation/Volume (0xEB7582CB3977CA8D)
+[2025.09.16-22.44.30:283][  0]LogStreaming: Display: ImportPackages: SkipPackage: /Game/AncientContent/Audio/AudioModulation/ControlBuses/FS_ControlBus (0xC6EBB2B8DE74AFC5) /Game/AncientContent/Audio/AudioModulation/ControlBuses/FS_ControlBus (0xC6EBB2B8DE74AFC5) - Skipping non mounted imported package /AudioModulation/Volume (0xEB7582CB3977CA8D)
+[2025.09.16-22.44.30:405][  0]LogLinker: Warning: [AssetLog] C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Content\AncientContent\Audio\AudioModulation\ControlBuses\Echo_ControlBus.uasset: VerifyImport: Failed to find script package for import object 'Package /Script/AudioModulation'
+[2025.09.16-22.44.30:406][  0]LogLinker: Warning: Unable to load Echo_ControlBus with outer Package /Game/AncientContent/Audio/AudioModulation/ControlBuses/Echo_ControlBus because its class (SoundControlBus) does not exist
+[2025.09.16-22.44.30:406][  0]LogLinker: Warning: Unable to load Foley_ControlBus with outer Package /Game/AncientContent/Audio/AudioModulation/ControlBuses/Foley_ControlBus because its class (SoundControlBus) does not exist
+[2025.09.16-22.44.30:406][  0]LogLinker: Warning: Unable to load SFX_ControlBus with outer Package /Game/AncientContent/Audio/AudioModulation/ControlBuses/SFX_ControlBus because its class (SoundControlBus) does not exist
+[2025.09.16-22.44.30:406][  0]LogLinker: Warning: Unable to load SFX_Foley_Echo_Patch with outer Package /Game/AncientContent/Audio/AudioModulation/Patches/SFX_Foley_Echo_Patch because its class (SoundModulationPatch) does not exist
+[2025.09.16-22.44.30:463][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behavior for '/Game/AncientTreasures/Textures/Utility/TX_Cube_01a_CUBE.TX_Cube_01a_CUBE', its maximum texture size has been explicitly set to 512.
+[2025.09.16-22.44.30:611][  0]LogLinker: Warning: Unable to load FS_ControlBus with outer Package /Game/AncientContent/Audio/AudioModulation/ControlBuses/FS_ControlBus because its class (SoundControlBus) does not exist
+[2025.09.16-22.44.30:611][  0]LogLinker: Warning: Unable to load SFX_FS_Echo_Patch with outer Package /Game/AncientContent/Audio/AudioModulation/Patches/SFX_FS_Echo_Patch because its class (SoundModulationPatch) does not exist
+[2025.09.16-22.44.33:115][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.7.dll
+[2025.09.16-22.44.33:518][  0]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 2987.666748 MiB, MemoryLimit = 2688.839844 MiB 
+[2025.09.16-22.44.33:518][  0]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 2987.666748 MiB, MemoryLimit = 2688.902344 MiB 
+[2025.09.16-22.44.33:533][  0]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 2987.666748 MiB, MemoryLimit = 2689.148438 MiB 
+[2025.09.16-22.44.33:533][  0]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 2987.666748 MiB, MemoryLimit = 2689.148438 MiB 
+[2025.09.16-22.44.33:566][  0]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 2987.666748 MiB, MemoryLimit = 2689.15625 MiB 
+[2025.09.16-22.44.33:566][  0]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 2987.666748 MiB, MemoryLimit = 2689.46875 MiB 
+[2025.09.16-22.44.33:589][  0]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 2987.666748 MiB, MemoryLimit = 2678.3125 MiB 
+[2025.09.16-22.44.33:589][  0]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 2987.666748 MiB, MemoryLimit = 2678.328125 MiB 
+[2025.09.16-22.44.33:828][  0]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 2987.666748 MiB, MemoryLimit = 2694.34375 MiB 
+[2025.09.16-22.44.33:828][  0]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 2987.666748 MiB, MemoryLimit = 2694.34375 MiB 
+[2025.09.16-22.44.33:939][  0]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 2987.666748 MiB, MemoryLimit = 2686.359375 MiB 
+[2025.09.16-22.44.33:939][  0]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 2987.666748 MiB, MemoryLimit = 2686.359375 MiB 
+[2025.09.16-22.44.33:968][  0]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 2987.666748 MiB, MemoryLimit = 2686.3125 MiB 
+[2025.09.16-22.44.33:968][  0]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 2987.666748 MiB, MemoryLimit = 2686.3125 MiB 
+[2025.09.16-22.44.34:016][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Minimal_Default_2'.
+[2025.09.16-22.44.34:017][  0]LogChaosDD: Creating Chaos Debug Draw Scene for world Minimal_Default_2
+[2025.09.16-22.44.34:018][  0]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/Maps/Minimal_Default_2.Minimal_Default_2'.
+[2025.09.16-22.44.34:293][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.09.16-22.44.34:365][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.09.16-22.44.34:381][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.09.16-22.44.34:382][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.827ms to complete.
+[2025.09.16-22.44.34:464][  0]LogUnrealEdMisc: Total Editor Startup Time, took 127.595
+[2025.09.16-22.44.34:686][  0]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2025.09.16-22.44.35:530][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.16-22.44.35:594][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.16-22.44.35:647][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.16-22.44.35:700][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.16-22.44.36:118][  0]LogPakFile: Initializing PakPlatformFile
+[2025.09.16-22.44.36:132][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2025.09.16-22.44.36:136][  0]LogPakFile: Initializing PakPlatformFile
+[2025.09.16-22.44.36:148][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2025.09.16-22.44.36:149][  0]LogPakFile: Initializing PakPlatformFile
+[2025.09.16-22.44.36:161][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2025.09.16-22.44.36:163][  0]LogPakFile: Initializing PakPlatformFile
+[2025.09.16-22.44.36:192][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2025.09.16-22.44.36:195][  0]LogPakFile: Initializing PakPlatformFile
+[2025.09.16-22.44.36:203][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2025.09.16-22.44.36:203][  0]LogPakFile: Initializing PakPlatformFile
+[2025.09.16-22.44.36:216][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2025.09.16-22.44.36:217][  0]LogPakFile: Initializing PakPlatformFile
+[2025.09.16-22.44.36:234][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2025.09.16-22.44.36:235][  0]LogPakFile: Initializing PakPlatformFile
+[2025.09.16-22.44.36:271][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2025.09.16-22.44.36:278][  0]LogPakFile: Initializing PakPlatformFile
+[2025.09.16-22.44.36:290][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2025.09.16-22.44.36:291][  0]LogPakFile: Initializing PakPlatformFile
+[2025.09.16-22.44.36:300][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2025.09.16-22.44.37:050][  0]LogSlate: Took 0.006993 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2025.09.16-22.44.37:858][  0]LogStall: Startup...
+[2025.09.16-22.44.37:860][  0]LogStall: Startup complete.
+[2025.09.16-22.44.37:905][  0]LogLoad: (Engine Initialization) Total time: 131.04 seconds
+[2025.09.16-22.44.38:464][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2025.09.16-22.44.38:464][  0]LogCsvProfiler: Display: Metadata set : streamingpoolsizemb="1000"
+[2025.09.16-22.44.38:565][  0]LogSlate: Took 0.009622 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.09.16-22.44.38:589][  0]LogSlate: Took 0.007946 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2025.09.16-22.44.38:652][  0]LogSlate: Took 0.010777 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2025.09.16-22.44.38:772][  0]LogStreaming: Display: FlushAsyncLoading(341): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.16-22.44.39:056][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.16-22.44.39:085][  0]LogFab: Error: Login failed - error code: EOS_InvalidAuth
+[2025.09.16-22.44.39:085][  0]LogFab: Display: Logging in using exchange code
+[2025.09.16-22.44.39:085][  0]LogFab: Display: Reading exchange code from commandline
+[2025.09.16-22.44.39:085][  0]LogEOSSDK: Error: LogEOSAuth: Invalid parameter EOS_Auth_Credentials.Token reason: must not be null or empty
+[2025.09.16-22.44.39:095][  0]LogPython: Display: Running start-up script C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/ControlRig/Content/Python/init_unreal.py... started...
+[2025.09.16-22.44.39:192][  0]LogSlate: Took 0.000249 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.09.16-22.44.39:738][  0]LogPython: registering <class 'ControlRigWorkflows.workflow_deformation_rig_preset.provider'>
+
+[2025.09.16-22.44.39:746][  0]LogPython: Display: Running start-up script C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/ControlRig/Content/Python/init_unreal.py... took 650.284 ms
+[2025.09.16-22.44.39:829][  0]LoadErrors: Warning: While trying to load package /Game/AncientContent/Audio/AudioModulation/Patches/SFX_Foley_Echo_Patch, a dependent package /AudioModulation/Volume was not available. Additional explanatory information follows:
+FPackageName: Unable to identify a valid mount point associated with skipped package /AudioModulation/Volume. The package root is unknown.
+Skipped package /AudioModulation/Volume was expected to be found in plugin Audio Modulation, however that plugin is not mounted. [ExplicitlyLoaded = FALSE, Enabled = FALSE].
+[2025.09.16-22.44.39:829][  0]LoadErrors: Warning: While trying to load package /Game/AncientContent/Audio/AudioModulation/ControlBuses/Echo_ControlBus, a dependent package /AudioModulation/Volume was not available. Additional explanatory information follows:
+FPackageName: Unable to identify a valid mount point associated with skipped package /AudioModulation/Volume. The package root is unknown.
+Skipped package /AudioModulation/Volume was expected to be found in plugin Audio Modulation, however that plugin is not mounted. [ExplicitlyLoaded = FALSE, Enabled = FALSE].
+[2025.09.16-22.44.39:829][  0]LoadErrors: Warning: While trying to load package /Game/AncientContent/Audio/AudioModulation/ControlBuses/Foley_ControlBus, a dependent package /AudioModulation/Volume was not available. Additional explanatory information follows:
+FPackageName: Unable to identify a valid mount point associated with skipped package /AudioModulation/Volume. The package root is unknown.
+Skipped package /AudioModulation/Volume was expected to be found in plugin Audio Modulation, however that plugin is not mounted. [ExplicitlyLoaded = FALSE, Enabled = FALSE].
+[2025.09.16-22.44.39:829][  0]LoadErrors: Warning: While trying to load package /Game/AncientContent/Audio/AudioModulation/ControlBuses/SFX_ControlBus, a dependent package /AudioModulation/Volume was not available. Additional explanatory information follows:
+FPackageName: Unable to identify a valid mount point associated with skipped package /AudioModulation/Volume. The package root is unknown.
+Skipped package /AudioModulation/Volume was expected to be found in plugin Audio Modulation, however that plugin is not mounted. [ExplicitlyLoaded = FALSE, Enabled = FALSE].
+[2025.09.16-22.44.39:829][  0]LoadErrors: Warning: While trying to load package /Game/AncientContent/Audio/AudioModulation/Patches/SFX_FS_Echo_Patch, a dependent package /AudioModulation/Volume was not available. Additional explanatory information follows:
+FPackageName: Unable to identify a valid mount point associated with skipped package /AudioModulation/Volume. The package root is unknown.
+Skipped package /AudioModulation/Volume was expected to be found in plugin Audio Modulation, however that plugin is not mounted. [ExplicitlyLoaded = FALSE, Enabled = FALSE].
+[2025.09.16-22.44.39:829][  0]LoadErrors: Warning: While trying to load package /Game/AncientContent/Audio/AudioModulation/ControlBuses/FS_ControlBus, a dependent package /AudioModulation/Volume was not available. Additional explanatory information follows:
+FPackageName: Unable to identify a valid mount point associated with skipped package /AudioModulation/Volume. The package root is unknown.
+Skipped package /AudioModulation/Volume was expected to be found in plugin Audio Modulation, however that plugin is not mounted. [ExplicitlyLoaded = FALSE, Enabled = FALSE].
+[2025.09.16-22.44.40:008][  1]LogAssetRegistry: AssetRegistryGather time 5.7943s: AssetDataDiscovery 3.6200s, AssetDataGather 1.8703s, StoreResults 0.3040s. Wall time 58.6200s.
+	NumCachedDirectories 0. NumUncachedDirectories 2650. NumCachedFiles 11743. NumUncachedFiles 1058.
+	BackgroundTickInterruptions 0.
+[2025.09.16-22.44.40:065][  1]LogSourceControl: Uncontrolled asset enumeration started...
+[2025.09.16-22.44.40:069][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000001 seconds (updated 0 objects)
+[2025.09.16-22.44.40:261][  1]LogFab: Error: Login failed - error code: EOS_InvalidParameters
+[2025.09.16-22.44.40:452][  2]LogEOSSDK: LogEOS: SDK Config Platform Update Request Successful, Time: 27.063765
+[2025.09.16-22.44.40:456][  2]LogEOSSDK: LogEOSAnalytics: EOS SDK Analytics disabled for route [1].
+[2025.09.16-22.44.40:464][  2]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 27.255199
+[2025.09.16-22.44.40:707][  8]LogEOSSDK: LogEOSAnalytics: Start Session (User: ...)
+[2025.09.16-22.44.40:907][ 14]LogEOSSDK: LogEOS: SDK Config Product Update Request Successful, Time: 27.688007
+[2025.09.16-22.44.40:909][ 14]LogEOSSDK: LogEOS: SDK Config Data - Watermark: 1542370262
+[2025.09.16-22.44.40:909][ 14]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 27.688007, Update Interval: 344.836578
+[2025.09.16-22.44.43:717][ 96]LogSourceControl: Uncontrolled asset enumeration finished in 3.651918 seconds (Found 12776 uncontrolled assets)
+[2025.09.16-22.45.05:825][758]LogDerivedDataCache: C:/Users/Usuario/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.002 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.09.16-22.45.12:158][945]LogSlate: Took 0.008268 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.09.16-22.45.35:477][631]LogStreaming: Display: FlushAsyncLoading(344): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.16-22.45.35:554][631]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/NationalMaritimeMuseum/Models/1_Water_Jar/Mesh/SM_Water_Jar.SM_Water_Jar
+[2025.09.16-22.45.35:577][631]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/NationalMaritimeMuseum/Models/1_Water_Jar/Mesh/SM_Water_Jar) ...
+[2025.09.16-22.45.35:777][631]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/1_Water_Jar/Textures/T_Water_Jar_AO.T_Water_Jar_AO (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.45.36:011][631]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/1_Water_Jar/Textures/T_Water_Jar_BC.T_Water_Jar_BC (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.45.36:400][631]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_0
+[2025.09.16-22.45.36:401][631]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_0'.
+[2025.09.16-22.45.36:449][631]LogTexture: Display: Waiting for textures to be ready 0/1 (/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1) ...
+[2025.09.16-22.45.36:547][631]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/1_Water_Jar/Textures/T_Water_Jar_RN.T_Water_Jar_RN (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.45.36:572][631]LogTexture: Display: Waiting for textures to be ready 2/4 (/Game/NationalMaritimeMuseum/Models/1_Water_Jar/Textures/T_Water_Jar_NM) ...
+[2025.09.16-22.45.36:820][631]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/1_Water_Jar/Textures/T_Water_Jar_NM.T_Water_Jar_NM (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.45.38:202][631]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
+[2025.09.16-22.45.38:203][631]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_1'.
+[2025.09.16-22.45.38:558][633]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2025.09.16-22.45.38:559][633]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_2'.
+[2025.09.16-22.45.45:054][823]LogSlate: Window 'SM_Water_Jar' being destroyed
+[2025.09.16-22.45.45:144][823]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.09.16-22.45.45:145][823]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.16-22.45.45:241][823]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.09.16-22.45.57:476][187]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.09.16-22.45.57:479][187]LogStreaming: Display: FlushAsyncLoading(350): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.16-22.45.59:181][187]LogStaticMesh: Display: Building static mesh SM_Celestial_12 (Required Memory Estimate: 136.87115 MB)...
+[2025.09.16-22.45.59:397][187]LogChaosDD: Creating Chaos Debug Draw Scene for world Overview
+[2025.09.16-22.45.59:398][187]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/NationalMaritimeMuseum/Maps/Overview.Overview'.
+[2025.09.16-22.45.59:414][187]LogObjectTools: Deleting 1 worlds: /Game/NationalMaritimeMuseum/Maps/Overview.Overview
+[2025.09.16-22.45.59:414][187]LogObjectTools: Currently 3 active worlds: /Game/Maps/Minimal_Default_2.Minimal_Default_2, /Engine/Transient.World_1, /Engine/Transient.World_2
+[2025.09.16-22.45.59:433][187]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/100_Celestial_11/Textures/T_Celestial_11_BC.T_Celestial_11_BC (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.45.59:434][187]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2025.09.16-22.45.59:876][187]LogStaticMesh: Display: Building static mesh SM_Celestial_15 (Required Memory Estimate: 261.529938 MB)...
+[2025.09.16-22.45.59:876][187]LogStaticMesh: Display: Building static mesh SM_Celestial_16 (Required Memory Estimate: 282.311555 MB)...
+[2025.09.16-22.45.59:876][187]LogStaticMesh: Display: Building static mesh SM_Chronometer_02 (Required Memory Estimate: 162.667822 MB)...
+[2025.09.16-22.45.59:876][187]LogStaticMesh: Display: Building static mesh SM_Chronometer_01 (Required Memory Estimate: 256.07245 MB)...
+[2025.09.16-22.46.00:920][187]LogSlate: Window 'Delete Assets' being destroyed
+[2025.09.16-22.46.00:946][187]LogWorld: UWorld::CleanupWorld for Overview, bSessionEnded=true, bCleanupResources=true
+[2025.09.16-22.46.00:946][187]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.16-22.46.00:976][187]LogStaticMesh: Display: Waiting for static meshes to be ready 7/122 (/Game/NationalMaritimeMuseum/Models/111_Celestial_17/Mesh/SM_Celestial_17) ...
+[2025.09.16-22.46.17:788][187]LogStaticMesh: Built static mesh [18.61s] /Game/NationalMaritimeMuseum/Models/104_Celestial_12_13_1_2/Mesh/SM_Celestial_12.SM_Celestial_12
+[2025.09.16-22.46.23:898][187]LogStaticMesh: Built static mesh [24.02s] /Game/NationalMaritimeMuseum/Models/108_Chronometer_02/Mesh/SM_Chronometer_02.SM_Chronometer_02
+[2025.09.16-22.46.24:242][187]LogStaticMesh: Display: Waiting for static meshes to be ready 12/122 (/Game/NationalMaritimeMuseum/Models/65_Diving_Helmet_02/Mesh/SM_Diving_Helmet_02) ...
+[2025.09.16-22.46.24:407][187]LogStaticMesh: Display: Waiting for static meshes to be ready 14/122 (/Game/NationalMaritimeMuseum/Models/58_Najeonnong/Mesh/SM_Najeonnong) ...
+[2025.09.16-22.46.24:472][187]LogStaticMesh: Display: Waiting for static meshes to be ready 15/122 (/Game/NationalMaritimeMuseum/Models/82_Octant_Case/C/Mesh/SM_Octant_Case) ...
+[2025.09.16-22.46.24:652][187]LogStaticMesh: Display: Waiting for static meshes to be ready 16/122 (/Game/NationalMaritimeMuseum/Models/54_Note_Box/Mesh/SM_Note_Box) ...
+[2025.09.16-22.46.24:718][187]LogStaticMesh: Display: Waiting for static meshes to be ready 18/122 (/Game/NationalMaritimeMuseum/Models/52_Puppet/Mesh/SM_Puppet) ...
+[2025.09.16-22.46.24:750][187]LogStaticMesh: Display: Waiting for static meshes to be ready 19/122 (/Game/NationalMaritimeMuseum/Models/15_Lock_02/Mesh/SM_Lock_01) ...
+[2025.09.16-22.46.24:785][187]LogStaticMesh: Display: Waiting for static meshes to be ready 20/122 (/Game/NationalMaritimeMuseum/Models/17_Nambang-A_Gong-I/Mesh/SM_NambangAGongI01) ...
+[2025.09.16-22.46.24:801][187]LogStaticMesh: Display: Waiting for static meshes to be ready 21/122 (/Game/NationalMaritimeMuseum/Models/17_Nambang-A_Gong-I/Mesh/SM_NambangAGongI_02) ...
+[2025.09.16-22.46.38:767][187]LogStaticMesh: Built static mesh [38.89s] /Game/NationalMaritimeMuseum/Models/109_Chronometer_01/Mesh/SM_Chronometer_01.SM_Chronometer_01
+[2025.09.16-22.46.38:990][187]LogStaticMesh: Built static mesh [39.12s] /Game/NationalMaritimeMuseum/Models/106_Celestial_15/Mesh/SM_Celestial_15.SM_Celestial_15
+[2025.09.16-22.46.39:133][187]LogStaticMesh: Display: Waiting for static meshes to be ready 25/122 (/Game/NationalMaritimeMuseum/Models/38_Compass_01/Mesh/SM_Compass_01) ...
+[2025.09.16-22.46.39:150][187]LogStaticMesh: Display: Waiting for static meshes to be ready 26/122 (/Game/NationalMaritimeMuseum/Models/116_Celestial_22/Mesh/SM_Celestial_22_02) ...
+[2025.09.16-22.46.39:166][187]LogStaticMesh: Display: Waiting for static meshes to be ready 30/122 (/Game/NationalMaritimeMuseum/Models/93_Celestial_05/Mesh/SM_Celestial_05) ...
+[2025.09.16-22.46.39:216][187]LogStaticMesh: Display: Waiting for static meshes to be ready 31/122 (/Game/NationalMaritimeMuseum/Models/11_Najeon_Table/Mesh/SM_Najeon_Table) ...
+[2025.09.16-22.46.39:233][187]LogStaticMesh: Display: Waiting for static meshes to be ready 35/122 (/Game/NationalMaritimeMuseum/Models/80_Astrolabe_02/Mesh/SM_Astrolabe_02) ...
+[2025.09.16-22.46.39:257][187]LogStaticMesh: Display: Building static mesh SM_Navigation_Lights (Required Memory Estimate: 500.54398 MB)...
+[2025.09.16-22.46.39:267][187]LogStaticMesh: Display: Waiting for static meshes to be ready 39/122 (/Game/NationalMaritimeMuseum/Models/87_Telescope_02/Mesh/SM_Telescope_02) ...
+[2025.09.16-22.46.39:302][187]LogStaticMesh: Display: Waiting for static meshes to be ready 40/122 (/Game/NationalMaritimeMuseum/Models/81_Navigation_Lights/Mesh/SM_Navigation_Lights) ...
+[2025.09.16-22.46.39:733][187]LogStaticMesh: Display: Building static mesh SM_Bottle_03 (Required Memory Estimate: 125.956922 MB)...
+[2025.09.16-22.46.41:793][187]LogStaticMesh: Built static mesh [41.92s] /Game/NationalMaritimeMuseum/Models/107_Celestial_16/Mesh/SM_Celestial_16.SM_Celestial_16
+[2025.09.16-22.46.42:100][187]LogStaticMesh: Display: Building static mesh SM_Homaeng (Required Memory Estimate: 33.308786 MB)...
+[2025.09.16-22.46.42:100][187]LogStaticMesh: Display: Building static mesh SM_Gulhamji (Required Memory Estimate: 47.592491 MB)...
+[2025.09.16-22.46.42:100][187]LogStaticMesh: Display: Building static mesh SM_Ink_Bucket_02 (Required Memory Estimate: 68.448876 MB)...
+[2025.09.16-22.46.42:100][187]LogStaticMesh: Display: Building static mesh SM_Viking_Bag (Required Memory Estimate: 60.271446 MB)...
+[2025.09.16-22.46.42:100][187]LogStaticMesh: Display: Building static mesh SM_Ax (Required Memory Estimate: 40.929495 MB)...
+[2025.09.16-22.46.47:574][187]LogStaticMesh: Built static mesh [5.48s] /Game/NationalMaritimeMuseum/Models/18_Homaeng-I/Mesh/SM_Homaeng.SM_Homaeng
+[2025.09.16-22.46.48:756][187]LogStaticMesh: Built static mesh [6.66s] /Game/NationalMaritimeMuseum/Models/45_Ax/Mesh/SM_Ax.SM_Ax
+[2025.09.16-22.46.49:707][187]LogStaticMesh: Built static mesh [7.61s] /Game/NationalMaritimeMuseum/Models/20_Gulhamji/Mesh/SM_Gulhamji.SM_Gulhamji
+[2025.09.16-22.46.51:578][187]LogStaticMesh: Built static mesh [9.48s] /Game/NationalMaritimeMuseum/Models/4_Viking_Bag/Mesh/SM_Viking_Bag.SM_Viking_Bag
+[2025.09.16-22.46.53:077][187]LogStaticMesh: Built static mesh [10.98s] /Game/NationalMaritimeMuseum/Models/41_Ink_Bucket_02/Mesh/SM_Ink_Bucket_02.SM_Ink_Bucket_02
+[2025.09.16-22.46.53:144][187]LogStaticMesh: Display: Building static mesh SM_Sword_01 (Required Memory Estimate: 30.349146 MB)...
+[2025.09.16-22.46.57:511][187]LogStaticMesh: Built static mesh [4.37s] /Game/NationalMaritimeMuseum/Models/70_Sword_01-Scabbard_01-Sword_02-Scabbard_02/Mesh/SM_Sword_01.SM_Sword_01
+[2025.09.16-22.46.57:536][187]LogStaticMesh: Display: Building static mesh SM_Awl (Required Memory Estimate: 33.09754 MB)...
+[2025.09.16-22.46.58:733][187]LogStaticMesh: Built static mesh [19.00s] /Game/NationalMaritimeMuseum/Models/62_Bottle_03/Mesh/SM_Bottle_03.SM_Bottle_03
+[2025.09.16-22.46.58:845][187]LogStaticMesh: Display: Building static mesh SM_Ink_Bucket_01 (Required Memory Estimate: 66.471128 MB)...
+[2025.09.16-22.46.58:845][187]LogStaticMesh: Display: Building static mesh SM_Bottle_01 (Required Memory Estimate: 75.078087 MB)...
+[2025.09.16-22.46.58:845][187]LogStaticMesh: Display: Building static mesh SM_Celestial_InkKnife (Required Memory Estimate: 33.585755 MB)...
+[2025.09.16-22.46.58:845][187]LogStaticMesh: Display: Building static mesh SM_Plane_02 (Required Memory Estimate: 33.097687 MB)...
+[2025.09.16-22.46.59:358][187]LogStaticMesh: Built static mesh [0.51s] /Game/NationalMaritimeMuseum/Models/40_Ink_Bucket_01/Mesh/SM_Ink_Bucket_01.SM_Ink_Bucket_01
+[2025.09.16-22.47.02:151][187]LogStaticMesh: Built static mesh [4.61s] /Game/NationalMaritimeMuseum/Models/44_Awl/Mesh/SM_Awl.SM_Awl
+[2025.09.16-22.47.03:770][187]LogStaticMesh: Built static mesh [4.92s] /Game/NationalMaritimeMuseum/Models/37_Plane_02/Mesh/SM_Plane_02.SM_Plane_02
+[2025.09.16-22.47.03:805][187]LogStaticMesh: Display: Building static mesh SM_Haenyeo_Hat (Required Memory Estimate: 77.189831 MB)...
+[2025.09.16-22.47.03:805][187]LogStaticMesh: Display: Building static mesh SM_Dressing_Table (Required Memory Estimate: 81.295866 MB)...
+[2025.09.16-22.47.03:806][187]LogStaticMesh: Display: Building static mesh SM_Saw_02 (Required Memory Estimate: 49.106137 MB)...
+[2025.09.16-22.47.03:806][187]LogStaticMesh: Display: Building static mesh SM_Hatcher_01 (Required Memory Estimate: 46.718499 MB)...
+[2025.09.16-22.47.03:832][187]LogStaticMesh: Built static mesh [4.99s] /Game/NationalMaritimeMuseum/Models/42_Celestial_Ink_Knife/Mesh/SM_Celestial_InkKnife.SM_Celestial_InkKnife
+[2025.09.16-22.47.03:873][187]LogStaticMesh: Display: Building static mesh SM_Hatchet_02 (Required Memory Estimate: 33.179144 MB)...
+[2025.09.16-22.47.09:569][187]LogStaticMesh: Built static mesh [5.70s] /Game/NationalMaritimeMuseum/Models/36_Hatchet_02/Mesh/SM_Hatchet_02.SM_Hatchet_02
+[2025.09.16-22.47.10:296][187]LogStaticMesh: Built static mesh [11.45s] /Game/NationalMaritimeMuseum/Models/59_Bottle_01/Mesh/SM_Bottle_01.SM_Bottle_01
+[2025.09.16-22.47.11:282][187]LogStaticMesh: Built static mesh [7.48s] /Game/NationalMaritimeMuseum/Models/35_Hatcher_01/Mesh/SM_Hatcher_01.SM_Hatcher_01
+[2025.09.16-22.47.11:571][187]LogStaticMesh: Built static mesh [7.77s] /Game/NationalMaritimeMuseum/Models/39_Saw_02/Mesh/SM_Saw_02.SM_Saw_02
+[2025.09.16-22.47.11:628][187]LogStaticMesh: Display: Building static mesh SM_Wrapping_Tread (Required Memory Estimate: 30.827548 MB)...
+[2025.09.16-22.47.11:628][187]LogStaticMesh: Display: Building static mesh SM_Wood_Fish_02 (Required Memory Estimate: 30.842528 MB)...
+[2025.09.16-22.47.15:573][187]LogStaticMesh: Built static mesh [11.77s] /Game/NationalMaritimeMuseum/Models/6_Haenyeo_Hat/Mesh/SM_Haenyeo_Hat.SM_Haenyeo_Hat
+[2025.09.16-22.47.15:642][187]LogStaticMesh: Display: Building static mesh SM_Plane_01 (Required Memory Estimate: 80.064336 MB)...
+[2025.09.16-22.47.15:908][187]LogStaticMesh: Built static mesh [4.28s] /Game/NationalMaritimeMuseum/Models/53_Wood_Fish_02/Mesh/SM_Wood_Fish_02.SM_Wood_Fish_02
+[2025.09.16-22.47.15:932][187]LogStaticMesh: Display: Building static mesh SM_Toechim_Box_01 (Required Memory Estimate: 41.197265 MB)...
+[2025.09.16-22.47.16:060][187]LogStaticMesh: Built static mesh [4.43s] /Game/NationalMaritimeMuseum/Models/14_Wrapping_Tread/Mesh/SM_Wrapping_Tread.SM_Wrapping_Tread
+[2025.09.16-22.47.16:093][187]LogStaticMesh: Display: Building static mesh SM_Toechim_Box_02 (Required Memory Estimate: 43.896699 MB)...
+[2025.09.16-22.47.16:242][187]LogStaticMesh: Built static mesh [0.60s] /Game/NationalMaritimeMuseum/Models/34_Plane_01/Mesh/SM_Plane_01.SM_Plane_01
+[2025.09.16-22.47.16:332][187]LogStaticMesh: Display: Building static mesh SM_Box_01 (Required Memory Estimate: 64.570303 MB)...
+[2025.09.16-22.47.16:789][187]LogStaticMesh: Built static mesh [12.98s] /Game/NationalMaritimeMuseum/Models/16_Dressing_Table/Mesh/SM_Dressing_Table.SM_Dressing_Table
+[2025.09.16-22.47.16:878][187]LogStaticMesh: Display: Building static mesh SM_Saw_01 (Required Memory Estimate: 90.983745 MB)...
+[2025.09.16-22.47.21:962][187]LogStaticMesh: Built static mesh [6.03s] /Game/NationalMaritimeMuseum/Models/13_Toechim_Box/Mesh/SM_Toechim_Box_01.SM_Toechim_Box_01
+[2025.09.16-22.47.22:812][187]LogStaticMesh: Built static mesh [6.72s] /Game/NationalMaritimeMuseum/Models/13_Toechim_Box/Mesh/SM_Toechim_Box_02.SM_Toechim_Box_02
+[2025.09.16-22.47.25:518][187]LogStaticMesh: Built static mesh [9.19s] /Game/NationalMaritimeMuseum/Models/12_Box/Mesh/SM_Box_01.SM_Box_01
+[2025.09.16-22.47.25:585][187]LogStaticMesh: Display: Building static mesh SM_Wood_Fish_01 (Required Memory Estimate: 16.161398 MB)...
+[2025.09.16-22.47.25:585][187]LogStaticMesh: Display: Building static mesh SM_Viking_Shoes (Required Memory Estimate: 105.423908 MB)...
+[2025.09.16-22.47.25:586][187]LogStaticMesh: Display: Building static mesh SM_Bowl_01 (Required Memory Estimate: 30.308377 MB)...
+[2025.09.16-22.47.28:058][187]LogStaticMesh: Built static mesh [2.47s] /Game/NationalMaritimeMuseum/Models/51_Wood_Fish_01/Mesh/SM_Wood_Fish_01.SM_Wood_Fish_01
+[2025.09.16-22.47.30:087][187]LogStaticMesh: Built static mesh [4.50s] /Game/NationalMaritimeMuseum/Models/10_Bowl_01/Mesh/SM_Bowl_01.SM_Bowl_01
+[2025.09.16-22.47.30:580][187]LogStaticMesh: Built static mesh [13.70s] /Game/NationalMaritimeMuseum/Models/33_Saw_01/Mesh/SM_Saw_01.SM_Saw_01
+[2025.09.16-22.47.30:679][187]LogStaticMesh: Display: Building static mesh SM_Divider (Required Memory Estimate: 26.743756 MB)...
+[2025.09.16-22.47.30:679][187]LogStaticMesh: Display: Building static mesh SM_Jar_01 (Required Memory Estimate: 48.462918 MB)...
+[2025.09.16-22.47.30:679][187]LogStaticMesh: Display: Building static mesh SM_Jar_02 (Required Memory Estimate: 46.776051 MB)...
+[2025.09.16-22.47.34:992][187]LogStaticMesh: Built static mesh [4.31s] /Game/NationalMaritimeMuseum/Models/32_Divider/Mesh/SM_Divider.SM_Divider
+[2025.09.16-22.47.37:571][187]LogStaticMesh: Built static mesh [6.89s] /Game/NationalMaritimeMuseum/Models/9_Jar_02/Mesh/SM_Jar_02.SM_Jar_02
+[2025.09.16-22.47.37:801][187]LogStaticMesh: Built static mesh [7.12s] /Game/NationalMaritimeMuseum/Models/8_Jar_01/Mesh/SM_Jar_01.SM_Jar_01
+[2025.09.16-22.47.37:840][187]LogStaticMesh: Display: Building static mesh SM_Box_02 (Required Memory Estimate: 98.175331 MB)...
+[2025.09.16-22.47.41:216][187]LogStaticMesh: Built static mesh [15.63s] /Game/NationalMaritimeMuseum/Models/3_Viking_Shoes/Mesh/SM_Viking_Shoes.SM_Viking_Shoes
+[2025.09.16-22.47.41:321][187]LogStaticMesh: Display: Building static mesh SM_Peeling_Knife (Required Memory Estimate: 129.177623 MB)...
+[2025.09.16-22.47.51:476][187]LogStaticMesh: Built static mesh [13.64s] /Game/NationalMaritimeMuseum/Models/12_Box/Mesh/SM_Box_02.SM_Box_02
+[2025.09.16-22.47.58:963][187]LogStaticMesh: Built static mesh [17.64s] /Game/NationalMaritimeMuseum/Models/49_Peeling_Knife/Mesh/SM_Peeling_Knife.SM_Peeling_Knife
+[2025.09.16-22.48.00:210][187]LogStaticMesh: Built static mesh [80.95s] /Game/NationalMaritimeMuseum/Models/81_Navigation_Lights/Mesh/SM_Navigation_Lights.SM_Navigation_Lights
+[2025.09.16-22.48.00:669][187]LogStaticMesh: Display: Waiting for static meshes to be ready 101/122 (/Game/NationalMaritimeMuseum/Models/95_Celestial_07/Mesh/SM_Celestial_07) ...
+[2025.09.16-22.48.00:669][187]LogStaticMesh: Display: Building static mesh SM_Horizontal_Weight_02 (Required Memory Estimate: 15.829675 MB)...
+[2025.09.16-22.48.00:669][187]LogStaticMesh: Display: Building static mesh SM_Boat_Horn_01 (Required Memory Estimate: 280.861649 MB)...
+[2025.09.16-22.48.00:669][187]LogStaticMesh: Display: Building static mesh SM_Celestial_07 (Required Memory Estimate: 318.183945 MB)...
+[2025.09.16-22.48.00:669][187]LogStaticMesh: Display: Building static mesh SM_Celestial_21 (Required Memory Estimate: 334.152254 MB)...
+[2025.09.16-22.48.02:608][187]LogStaticMesh: Built static mesh [1.94s] /Game/NationalMaritimeMuseum/Models/31_Horizontal_Weight_02/Mesh/SM_Horizontal_Weight_02.SM_Horizontal_Weight_02
+[2025.09.16-22.48.40:611][187]LogStaticMesh: Built static mesh [39.94s] /Game/NationalMaritimeMuseum/Models/77_Boat_Horn_01/Mesh/SM_Boat_Horn_01.SM_Boat_Horn_01
+[2025.09.16-22.48.46:834][187]LogStaticMesh: Built static mesh [46.17s] /Game/NationalMaritimeMuseum/Models/95_Celestial_07/Mesh/SM_Celestial_07.SM_Celestial_07
+[2025.09.16-22.48.47:170][187]LogStaticMesh: Display: Building static mesh SM_General_Helmet (Required Memory Estimate: 362.318566 MB)...
+[2025.09.16-22.48.47:170][187]LogStaticMesh: Display: Building static mesh SM_Celestial_19 (Required Memory Estimate: 290.103536 MB)...
+[2025.09.16-22.48.47:170][187]LogStaticMesh: Display: Building static mesh SM_Celestial_18 (Required Memory Estimate: 281.600684 MB)...
+[2025.09.16-22.48.47:170][187]LogStaticMesh: Display: Building static mesh SM_Celestial_10 (Required Memory Estimate: 218.360966 MB)...
+[2025.09.16-22.48.47:170][187]LogStaticMesh: Display: Building static mesh SM_Powder_Flask_01 (Required Memory Estimate: 31.087694 MB)...
+[2025.09.16-22.48.47:175][187]LogStaticMesh: Display: Waiting for static meshes to be ready 104/122 (/Game/NationalMaritimeMuseum/Models/115_Celestial_21/Mesh/SM_Celestial_21) ...
+[2025.09.16-22.48.48:782][187]LogStaticMesh: Built static mesh [48.11s] /Game/NationalMaritimeMuseum/Models/115_Celestial_21/Mesh/SM_Celestial_21.SM_Celestial_21
+[2025.09.16-22.48.49:201][187]LogStaticMesh: Display: Building static mesh SM_Celestial_06 (Required Memory Estimate: 292.378808 MB)...
+[2025.09.16-22.48.49:218][187]LogStaticMesh: Display: Waiting for static meshes to be ready 105/122 (/Game/NationalMaritimeMuseum/Models/68_General_Helmet/Mesh/SM_General_Helmet) ...
+[2025.09.16-22.48.52:213][187]LogStaticMesh: Built static mesh [5.04s] /Game/NationalMaritimeMuseum/Models/69_Powder_Flask_01/Mesh/SM_Powder_Flask_01.SM_Powder_Flask_01
+[2025.09.16-22.49.23:645][187]LogStaticMesh: Built static mesh [36.48s] /Game/NationalMaritimeMuseum/Models/99_Celestial_10/Mesh/SM_Celestial_10.SM_Celestial_10
+[2025.09.16-22.49.32:157][187]LogStaticMesh: Built static mesh [44.99s] /Game/NationalMaritimeMuseum/Models/112_Celestial_18/Mesh/SM_Celestial_18.SM_Celestial_18
+[2025.09.16-22.49.34:326][187]LogStaticMesh: Built static mesh [47.16s] /Game/NationalMaritimeMuseum/Models/113_Celestial_19/Mesh/SM_Celestial_19.SM_Celestial_19
+[2025.09.16-22.49.34:624][187]LogStaticMesh: Display: Building static mesh SM_Chart_03 (Required Memory Estimate: 287.011122 MB)...
+[2025.09.16-22.49.34:625][187]LogStaticMesh: Display: Building static mesh SM_Celestial_20 (Required Memory Estimate: 228.186464 MB)...
+[2025.09.16-22.49.36:571][187]LogStaticMesh: Built static mesh [47.37s] /Game/NationalMaritimeMuseum/Models/94_Celestial_06/Mesh/SM_Celestial_06.SM_Celestial_06
+[2025.09.16-22.49.36:890][187]LogStaticMesh: Display: Building static mesh SM_Horizontal_Weight_01 (Required Memory Estimate: 57.25561 MB)...
+[2025.09.16-22.49.44:802][187]LogStaticMesh: Built static mesh [7.91s] /Game/NationalMaritimeMuseum/Models/30_Horizontal_Weight_01/Mesh/SM_Horizontal_Weight_01.SM_Horizontal_Weight_01
+[2025.09.16-22.49.46:722][187]LogStaticMesh: Built static mesh [59.55s] /Game/NationalMaritimeMuseum/Models/68_General_Helmet/Mesh/SM_General_Helmet.SM_General_Helmet
+[2025.09.16-22.49.47:086][187]LogStaticMesh: Display: Building static mesh SM_Glasses (Required Memory Estimate: 360.925524 MB)...
+[2025.09.16-22.49.47:086][187]LogStaticMesh: Display: Building static mesh SM_Celestial_09 (Required Memory Estimate: 237.455762 MB)...
+[2025.09.16-22.49.47:087][187]LogStaticMesh: Display: Waiting for static meshes to be ready 112/122 (/Game/NationalMaritimeMuseum/Models/119_Chart_03/Mesh/SM_Chart_03) ...
+[2025.09.16-22.50.09:385][187]LogStaticMesh: Built static mesh [34.76s] /Game/NationalMaritimeMuseum/Models/114_Celestial_20/Mesh/SM_Celestial_20.SM_Celestial_20
+[2025.09.16-22.50.17:868][187]LogStaticMesh: Built static mesh [43.24s] /Game/NationalMaritimeMuseum/Models/119_Chart_03/Mesh/SM_Chart_03.SM_Chart_03
+[2025.09.16-22.50.18:193][187]LogStaticMesh: Display: Waiting for static meshes to be ready 114/122 (/Game/NationalMaritimeMuseum/Models/5_Glasses/Mesh/SM_Glasses) ...
+[2025.09.16-22.50.18:196][187]LogStaticMesh: Display: Building static mesh SM_Celestial_01 (Required Memory Estimate: 101.127381 MB)...
+[2025.09.16-22.50.18:196][187]LogStaticMesh: Display: Building static mesh SM_Celestial_08 (Required Memory Estimate: 272.017668 MB)...
+[2025.09.16-22.50.18:196][187]LogStaticMesh: Display: Building static mesh SM_Sundial_02 (Required Memory Estimate: 202.48619 MB)...
+[2025.09.16-22.50.18:196][187]LogStaticMesh: Display: Building static mesh SM_Jar_03 (Required Memory Estimate: 64.148357 MB)...
+[2025.09.16-22.50.18:196][187]LogStaticMesh: Display: Building static mesh SM_Straw_Fish (Required Memory Estimate: 239.727349 MB)...
+[2025.09.16-22.50.25:262][187]LogStaticMesh: Built static mesh [38.18s] /Game/NationalMaritimeMuseum/Models/98_Celestial_09/Mesh/SM_Celestial_09.SM_Celestial_09
+[2025.09.16-22.50.25:602][187]LogStaticMesh: Display: Building static mesh SM_Boat_Horn_02 (Required Memory Estimate: 62.007694 MB)...
+[2025.09.16-22.50.29:163][187]LogStaticMesh: Built static mesh [10.98s] /Game/NationalMaritimeMuseum/Models/63_Jar_03/Mesh/SM_Jar_03.SM_Jar_03
+[2025.09.16-22.50.35:076][187]LogStaticMesh: Built static mesh [16.89s] /Game/NationalMaritimeMuseum/Models/91_Celestial_01_02_03/Mesh/SM_Celestial_01.SM_Celestial_01
+[2025.09.16-22.50.35:756][187]LogStaticMesh: Built static mesh [10.15s] /Game/NationalMaritimeMuseum/Models/78_Boat_Horn_02/Mesh/SM_Boat_Horn_02.SM_Boat_Horn_02
+[2025.09.16-22.50.43:089][187]LogStaticMesh: Built static mesh [56.00s] /Game/NationalMaritimeMuseum/Models/5_Glasses/Mesh/SM_Glasses.SM_Glasses
+[2025.09.16-22.50.43:285][187]LogStaticMesh: Display: Waiting for static meshes to be ready 119/122 (/Game/NationalMaritimeMuseum/Models/50_Straw_Fish/Mesh/SM_Straw_Fish) ...
+[2025.09.16-22.50.43:579][187]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/100_Celestial_11/Textures/T_Celestial_11_NM.T_Celestial_11_NM (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.50.43:985][187]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/100_Celestial_11/Textures/T_Celestial_11_RN.T_Celestial_11_RN (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.50.44:558][187]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/101_Nocturnal_02/Textures/T_Nocturnal_02_AO.T_Nocturnal_02_AO (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.50.45:409][187]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/101_Nocturnal_02/Textures/T_Nocturnal_02_BC.T_Nocturnal_02_BC (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.50.45:933][187]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/101_Nocturnal_02/Textures/T_Nocturnal_02_MT.T_Nocturnal_02_MT (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.50.46:484][187]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/101_Nocturnal_02/Textures/T_Nocturnal_02_NM.T_Nocturnal_02_NM (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.50.46:887][187]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/101_Nocturnal_02/Textures/T_Nocturnal_02_RN.T_Nocturnal_02_RN (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.50.47:364][187]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/102_Nocturnal_01/Textures/T_Nocturnal_01_AO.T_Nocturnal_01_AO (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.50.47:989][187]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/102_Nocturnal_01/Textures/T_Nocturnal_01_BC.T_Nocturnal_01_BC (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.50.48:596][187]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/102_Nocturnal_01/Textures/T_Nocturnal_01_MT.T_Nocturnal_01_MT (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.50.49:279][187]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/102_Nocturnal_01/Textures/T_Nocturnal_01_NM.T_Nocturnal_01_NM (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.50.49:777][187]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/102_Nocturnal_01/Textures/T_Nocturnal_01_RN.T_Nocturnal_01_RN (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.50.50:341][187]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/103_Compass_02/Textures/T_Compass_02_01_AO.T_Compass_02_01_AO (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.50.51:053][187]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/103_Compass_02/Textures/T_Compass_02_01_BC.T_Compass_02_01_BC (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.50.51:819][187]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/103_Compass_02/Textures/T_Compass_02_01_NM.T_Compass_02_01_NM (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.50.52:223][187]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/103_Compass_02/Textures/T_Compass_02_01_RN.T_Compass_02_01_RN (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.50.52:494][187]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/103_Compass_02/Textures/T_Compass_02_02_AO.T_Compass_02_02_AO (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.50.53:159][187]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/103_Compass_02/Textures/T_Compass_02_02_BC.T_Compass_02_02_BC (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.50.53:877][187]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/103_Compass_02/Textures/T_Compass_02_02_NM.T_Compass_02_02_NM (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.50.54:242][187]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/103_Compass_02/Textures/T_Compass_02_02_RN.T_Compass_02_02_RN (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.50.54:511][187]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/104_Celestial_12_13_1_2/Textures/T_Celestial_12_13_1_2_AO.T_Celestial_12_13_1_2_AO (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.50.55:029][187]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/104_Celestial_12_13_1_2/Textures/T_Celestial_12_13_1_2_BC.T_Celestial_12_13_1_2_BC (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.50.55:534][187]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/104_Celestial_12_13_1_2/Textures/T_Celestial_12_13_1_2_MT.T_Celestial_12_13_1_2_MT (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.50.56:204][187]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/104_Celestial_12_13_1_2/Textures/T_Celestial_12_13_1_2_NM.T_Celestial_12_13_1_2_NM (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.50.56:622][187]LogStaticMesh: Built static mesh [38.44s] /Game/NationalMaritimeMuseum/Models/96_Sundial_02/Mesh/SM_Sundial_02.SM_Sundial_02
+[2025.09.16-22.50.56:695][187]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/104_Celestial_12_13_1_2/Textures/T_Celestial_12_13_1_2_RN.T_Celestial_12_13_1_2_RN (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.50.57:169][187]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/105_Celestial_14/Textures/T_Celestial_14_AO.T_Celestial_14_AO (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.50.57:787][187]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/105_Celestial_14/Textures/T_Celestial_14_BC.T_Celestial_14_BC (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.50.58:273][187]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/105_Celestial_14/Textures/T_Celestial_14_MT.T_Celestial_14_MT (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.50.58:688][187]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/105_Celestial_14/Textures/T_Celestial_14_NM.T_Celestial_14_NM (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.50.59:034][187]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/105_Celestial_14/Textures/T_Celestial_14_RN.T_Celestial_14_RN (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.50.59:500][187]LogStaticMesh: Built static mesh [41.31s] /Game/NationalMaritimeMuseum/Models/50_Straw_Fish/Mesh/SM_Straw_Fish.SM_Straw_Fish
+[2025.09.16-22.50.59:567][187]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/106_Celestial_15/Textures/T_Celestial_15_AO.T_Celestial_15_AO (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.50.59:880][187]LogStaticMesh: Display: Waiting for static meshes to be ready 121/122 (/Game/NationalMaritimeMuseum/Models/97_Celestial_08/Mesh/SM_Celestial_08) ...
+[2025.09.16-22.51.00:404][187]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/106_Celestial_15/Textures/T_Celestial_15_BC.T_Celestial_15_BC (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.00:959][187]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/106_Celestial_15/Textures/T_Celestial_15_MT.T_Celestial_15_MT (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.01:483][187]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/106_Celestial_15/Textures/T_Celestial_15_NM.T_Celestial_15_NM (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.01:894][187]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/106_Celestial_15/Textures/T_Celestial_15_RN.T_Celestial_15_RN (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.02:446][187]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/107_Celestial_16/Textures/T_Celestial_16_1_AO.T_Celestial_16_1_AO (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.03:060][187]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/107_Celestial_16/Textures/T_Celestial_16_1_BC.T_Celestial_16_1_BC (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.03:510][187]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/107_Celestial_16/Textures/T_Celestial_16_1_MT.T_Celestial_16_1_MT (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.04:004][187]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/107_Celestial_16/Textures/T_Celestial_16_1_NM.T_Celestial_16_1_NM (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.04:367][187]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/107_Celestial_16/Textures/T_Celestial_16_1_RN.T_Celestial_16_1_RN (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.04:835][187]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/107_Celestial_16/Textures/T_Celestial_16_2_AO.T_Celestial_16_2_AO (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.05:472][187]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/107_Celestial_16/Textures/T_Celestial_16_2_BC.T_Celestial_16_2_BC (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.05:879][187]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/107_Celestial_16/Textures/T_Celestial_16_2_MT.T_Celestial_16_2_MT (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.06:452][187]LogStaticMesh: Built static mesh [48.27s] /Game/NationalMaritimeMuseum/Models/97_Celestial_08/Mesh/SM_Celestial_08.SM_Celestial_08
+[2025.09.16-22.51.06:511][187]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/107_Celestial_16/Textures/T_Celestial_16_2_NM.T_Celestial_16_2_NM (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.06:884][187]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/107_Celestial_16/Textures/T_Celestial_16_3_AO.T_Celestial_16_3_AO (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.06:899][187]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/107_Celestial_16/Textures/T_Celestial_16_2_RN.T_Celestial_16_2_RN (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.07:789][187]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/107_Celestial_16/Textures/T_Celestial_16_3_MT.T_Celestial_16_3_MT (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.08:237][187]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/107_Celestial_16/Textures/T_Celestial_16_3_BC.T_Celestial_16_3_BC (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.08:652][187]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/107_Celestial_16/Textures/T_Celestial_16_3_NM.T_Celestial_16_3_NM (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.08:722][187]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/107_Celestial_16/Textures/T_Celestial_16_3_RN.T_Celestial_16_3_RN (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.09:257][187]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/108_Chronometer_02/Textures/T_Chronometer_AO.T_Chronometer_AO (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.09:746][187]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/108_Chronometer_02/Textures/T_Chronometer_MT.T_Chronometer_MT (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.09:944][187]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/108_Chronometer_02/Textures/T_Chronometer_BC.T_Chronometer_BC (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.10:733][187]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/108_Chronometer_02/Textures/T_Chronometer_NM.T_Chronometer_NM (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.11:358][187]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/108_Chronometer_02/Textures/T_Chronometer_RN.T_Chronometer_RN (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.11:371][187]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/109_Chronometer_01/Textures/T_Chronometer_01_1_AO.T_Chronometer_01_1_AO (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.12:336][187]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/109_Chronometer_01/Textures/T_Chronometer_01_1_BC.T_Chronometer_01_1_BC (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.12:927][187]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/109_Chronometer_01/Textures/T_Chronometer_01_1_MT.T_Chronometer_01_1_MT (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.13:500][187]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/109_Chronometer_01/Textures/T_Chronometer_01_1_RN.T_Chronometer_01_1_RN (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.13:740][187]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/109_Chronometer_01/Textures/T_Chronometer_01_1_NM.T_Chronometer_01_1_NM (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.14:065][187]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/109_Chronometer_01/Textures/T_Chronometer_01_2_AO.T_Chronometer_01_2_AO (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.14:525][187]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/109_Chronometer_01/Textures/T_Chronometer_01_2_MT.T_Chronometer_01_2_MT (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.14:798][187]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/109_Chronometer_01/Textures/T_Chronometer_01_2_BC.T_Chronometer_01_2_BC (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.15:228][187]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/109_Chronometer_01/Textures/T_Chronometer_01_2_RN.T_Chronometer_01_2_RN (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.15:582][187]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/109_Chronometer_01/Textures/T_Chronometer_01_2_NM.T_Chronometer_01_2_NM (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.15:753][187]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/109_Chronometer_01/Textures/T_Chronometer_01_3_AO.T_Chronometer_01_3_AO (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.16:464][187]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/109_Chronometer_01/Textures/T_Chronometer_01_3_BC.T_Chronometer_01_3_BC (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.16:817][187]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/109_Chronometer_01/Textures/T_Chronometer_01_3_MT.T_Chronometer_01_3_MT (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.17:181][187]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/109_Chronometer_01/Textures/T_Chronometer_01_3_RN.T_Chronometer_01_3_RN (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.17:359][187]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/109_Chronometer_01/Textures/T_Chronometer_01_3_NM.T_Chronometer_01_3_NM (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.17:823][187]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/10_Bowl_01/Textures/T_Bowl_01_AO.T_Bowl_01_AO (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.18:279][187]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/10_Bowl_01/Textures/T_Bowl_01_BC.T_Bowl_01_BC (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.18:543][187]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/10_Bowl_01/Textures/T_Bowl_01_NM.T_Bowl_01_NM (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.19:050][187]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/111_Celestial_17/Textures/T_Celestial_17_AO.T_Celestial_17_AO (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.19:076][187]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/10_Bowl_01/Textures/T_Bowl_01_RN.T_Bowl_01_RN (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.19:452][187]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2025.09.16-22.51.19:526][187]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.09.16-22.51.19:542][187]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.09.16-22.51.19:966][188]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/111_Celestial_17/Textures/T_Celestial_17_MT.T_Celestial_17_MT (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.20:041][188]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 426.844208
+[2025.09.16-22.51.20:057][189]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/111_Celestial_17/Textures/T_Celestial_17_BC.T_Celestial_17_BC (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.20:988][202]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/111_Celestial_17/Textures/T_Celestial_17_NM.T_Celestial_17_NM (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.21:171][207]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.16-22.51.21:171][207]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 427.944031, Update Interval: 307.483734
+[2025.09.16-22.51.21:375][214]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/111_Celestial_17/Textures/T_Celestial_17_RN.T_Celestial_17_RN (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.21:783][226]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/112_Celestial_18/Textures/T_Celestial_18_AO.T_Celestial_18_AO (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.22:425][245]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/112_Celestial_18/Textures/T_Celestial_18_BC.T_Celestial_18_BC (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.22:855][258]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/112_Celestial_18/Textures/T_Celestial_18_MT.T_Celestial_18_MT (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.23:371][274]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/112_Celestial_18/Textures/T_Celestial_18_NM.T_Celestial_18_NM (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.23:751][285]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/112_Celestial_18/Textures/T_Celestial_18_RN.T_Celestial_18_RN (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.24:231][299]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/113_Celestial_19/Textures/T_Celestial_19_01_AO.T_Celestial_19_01_AO (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.24:894][319]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/113_Celestial_19/Textures/T_Celestial_19_01_BC.T_Celestial_19_01_BC (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.25:397][334]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/113_Celestial_19/Textures/T_Celestial_19_01_MT.T_Celestial_19_01_MT (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.25:874][349]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/113_Celestial_19/Textures/T_Celestial_19_01_NM.T_Celestial_19_01_NM (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.26:310][362]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/113_Celestial_19/Textures/T_Celestial_19_01_RN.T_Celestial_19_01_RN (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.26:910][379]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/113_Celestial_19/Textures/T_Celestial_19_02_AO.T_Celestial_19_02_AO (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.27:752][405]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/113_Celestial_19/Textures/T_Celestial_19_02_BC.T_Celestial_19_02_BC (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.28:247][419]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/113_Celestial_19/Textures/T_Celestial_19_02_MT.T_Celestial_19_02_MT (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.28:831][437]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/113_Celestial_19/Textures/T_Celestial_19_02_NM.T_Celestial_19_02_NM (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.29:244][449]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/113_Celestial_19/Textures/T_Celestial_19_02_RN.T_Celestial_19_02_RN (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.29:717][463]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/114_Celestial_20/Textures/T_Celestial_20_AO.T_Celestial_20_AO (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.30:507][487]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/114_Celestial_20/Textures/T_Celestial_20_BC.T_Celestial_20_BC (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.31:010][502]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/114_Celestial_20/Textures/T_Celestial_20_MT.T_Celestial_20_MT (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.31:578][519]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/114_Celestial_20/Textures/T_Celestial_20_NM.T_Celestial_20_NM (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.31:960][531]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/114_Celestial_20/Textures/T_Celestial_20_RN.T_Celestial_20_RN (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.32:430][545]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/115_Celestial_21/Textures/T_Celestial_21_AO.T_Celestial_21_AO (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.33:066][564]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/115_Celestial_21/Textures/T_Celestial_21_BC.T_Celestial_21_BC (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.33:491][577]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/115_Celestial_21/Textures/T_Celestial_21_MT.T_Celestial_21_MT (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.34:007][592]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/115_Celestial_21/Textures/T_Celestial_21_NM.T_Celestial_21_NM (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.34:347][602]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/115_Celestial_21/Textures/T_Celestial_21_RN.T_Celestial_21_RN (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.34:712][613]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/116_Celestial_22/Textures/T_Celestial_22_01_AO.T_Celestial_22_01_AO (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.35:382][633]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/116_Celestial_22/Textures/T_Celestial_22_01_BC.T_Celestial_22_01_BC (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.35:805][646]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/116_Celestial_22/Textures/T_Celestial_22_01_MT.T_Celestial_22_01_MT (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.36:477][666]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/116_Celestial_22/Textures/T_Celestial_22_01_NM.T_Celestial_22_01_NM (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.36:845][677]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/116_Celestial_22/Textures/T_Celestial_22_01_RN.T_Celestial_22_01_RN (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.37:236][689]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/116_Celestial_22/Textures/T_Celestial_22_02_AO.T_Celestial_22_02_AO (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.37:863][708]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/116_Celestial_22/Textures/T_Celestial_22_02_BC.T_Celestial_22_02_BC (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.38:263][720]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/116_Celestial_22/Textures/T_Celestial_22_02_MT.T_Celestial_22_02_MT (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.38:837][737]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/116_Celestial_22/Textures/T_Celestial_22_02_NM.T_Celestial_22_02_NM (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.39:255][749]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/116_Celestial_22/Textures/T_Celestial_22_02_RN.T_Celestial_22_02_RN (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.39:738][764]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/117_Chart_01/Textures/T_Chart_01_AO.T_Chart_01_AO (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.40:460][786]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/117_Chart_01/Textures/T_Chart_01_BC.T_Chart_01_BC (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.41:195][808]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/117_Chart_01/Textures/T_Chart_01_NM.T_Chart_01_NM (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.41:620][820]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/117_Chart_01/Textures/T_Chart_01_RN.T_Chart_01_RN (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.42:304][841]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/118_Chart_02/Textures/T_Chart_02_AO.T_Chart_02_AO (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.42:900][859]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/118_Chart_02/Textures/T_Chart_02_BC.T_Chart_02_BC (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.43:666][881]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/118_Chart_02/Textures/T_Chart_02_NM.T_Chart_02_NM (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.44:190][896]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/119_Chart_03/Textures/T_Chart_03_AO.T_Chart_03_AO (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.44:385][902]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/118_Chart_02/Textures/T_Chart_02_RN.T_Chart_02_RN (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.45:053][922]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/119_Chart_03/Textures/T_Chart_03_BC.T_Chart_03_BC (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.45:509][936]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/119_Chart_03/Textures/T_Chart_03_NM.T_Chart_03_NM (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.45:729][942]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/119_Chart_03/Textures/T_Chart_03_RN.T_Chart_03_RN (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.46:087][953]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/11_Najeon_Table/Textures/T_Najeon_Table_AO.T_Najeon_Table_AO (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.46:719][972]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/11_Najeon_Table/Textures/T_Najeon_Table_BC.T_Najeon_Table_BC (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.47:033][981]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/11_Najeon_Table/Textures/T_Najeon_Table_NM.T_Najeon_Table_NM (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.47:322][990]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/11_Najeon_Table/Textures/T_Najeon_Table_RN.T_Najeon_Table_RN (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.47:605][998]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/120_Naval_Training_Documentary/Textures/T_Naval_Training_Documentary_01_AO.T_Naval_Training_Documentary_01_AO (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.48:321][ 19]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/120_Naval_Training_Documentary/Textures/T_Naval_Training_Documentary_01_NM.T_Naval_Training_Documentary_01_NM (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.48:593][ 27]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/120_Naval_Training_Documentary/Textures/T_Naval_Training_Documentary_01_BC.T_Naval_Training_Documentary_01_BC (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.48:834][ 34]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/120_Naval_Training_Documentary/Textures/T_Naval_Training_Documentary_01_RH.T_Naval_Training_Documentary_01_RH (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.49:453][ 53]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/12_Box/Textures/T_Box_1_AO.T_Box_1_AO (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.49:888][ 66]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/12_Box/Textures/T_Box_1_MT.T_Box_1_MT (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.50:209][ 75]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/12_Box/Textures/T_Box_1_BC.T_Box_1_BC (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.50:940][ 97]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/12_Box/Textures/T_Box_1_RN.T_Box_1_RN (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.51:193][105]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/12_Box/Textures/T_Box_1_NM.T_Box_1_NM (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.51:698][120]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/12_Box/Textures/T_Box_2_AO.T_Box_2_AO (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.52:155][134]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/12_Box/Textures/T_Box_2_MT.T_Box_2_MT (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.52:479][143]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/12_Box/Textures/T_Box_2_BC.T_Box_2_BC (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.53:204][165]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/12_Box/Textures/T_Box_2_RN.T_Box_2_RN (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.53:351][169]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/12_Box/Textures/T_Box_2_NM.T_Box_2_NM (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.54:022][189]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/13_Toechim_Box/Textures/T_Toechim_Box_A_01_AO.T_Toechim_Box_A_01_AO (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.54:489][204]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/13_Toechim_Box/Textures/T_Toechim_Box_A_01_MT.T_Toechim_Box_A_01_MT (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.54:827][214]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/13_Toechim_Box/Textures/T_Toechim_Box_A_01_BC.T_Toechim_Box_A_01_BC (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.55:405][231]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/13_Toechim_Box/Textures/T_Toechim_Box_A_01_RN.T_Toechim_Box_A_01_RN (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.55:607][237]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/13_Toechim_Box/Textures/T_Toechim_Box_A_01_NM.T_Toechim_Box_A_01_NM (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.56:169][254]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/13_Toechim_Box/Textures/T_Toechim_Box_A_02_AO.T_Toechim_Box_A_02_AO (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.56:594][266]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/13_Toechim_Box/Textures/T_Toechim_Box_A_02_MT.T_Toechim_Box_A_02_MT (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.56:860][274]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/13_Toechim_Box/Textures/T_Toechim_Box_A_02_BC.T_Toechim_Box_A_02_BC (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.57:389][290]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/13_Toechim_Box/Textures/T_Toechim_Box_A_02_RN.T_Toechim_Box_A_02_RN (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.57:790][302]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/14_Wrapping_Tread/Textures/T_Wrapping_Tread_A_AO.T_Wrapping_Tread_A_AO (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.57:806][302]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/13_Toechim_Box/Textures/T_Toechim_Box_A_02_NM.T_Toechim_Box_A_02_NM (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.58:713][330]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/14_Wrapping_Tread/Textures/T_Wrapping_Tread_A_BC.T_Wrapping_Tread_A_BC (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.58:763][331]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/14_Wrapping_Tread/Textures/T_Wrapping_Tread_A_NM.T_Wrapping_Tread_A_NM (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.59:503][353]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/14_Wrapping_Tread/Textures/T_Wrapping_Tread_A_RN.T_Wrapping_Tread_A_RN (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.51.59:562][355]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/15_Lock_02/Textures/T_Lock_02_C_AO.T_Lock_02_C_AO (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.52.00:184][373]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/15_Lock_02/Textures/T_Lock_02_C_MT.T_Lock_02_C_MT (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.52.00:609][386]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/15_Lock_02/Textures/T_Lock_02_C_BC.T_Lock_02_C_BC (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.52.01:077][400]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/15_Lock_02/Textures/T_Lock_02_C_NM.T_Lock_02_C_NM (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.52.01:112][401]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/15_Lock_02/Textures/T_Lock_02_C_RN.T_Lock_02_C_RN (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.52.01:702][419]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/16_Dressing_Table/Textures/T_Dressing_Table_AO.T_Dressing_Table_AO (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.52.02:098][430]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/16_Dressing_Table/Textures/T_Dressing_Table_MT.T_Dressing_Table_MT (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.52.02:348][438]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/16_Dressing_Table/Textures/T_Dressing_Table_BC.T_Dressing_Table_BC (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.52.02:872][452]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/16_Dressing_Table/Textures/T_Dressing_Table_NM.T_Dressing_Table_NM (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.52.03:337][452]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/17_Nambang-A_Gong-I/Textures/T_NambangAGongI_01_AO.T_NambangAGongI_01_AO (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.52.03:388][452]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/16_Dressing_Table/Textures/T_Dressing_Table_RN.T_Dressing_Table_RN (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.52.03:950][459]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/17_Nambang-A_Gong-I/Textures/T_NambangAGongI_01_MT.T_NambangAGongI_01_MT (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.52.04:449][474]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/17_Nambang-A_Gong-I/Textures/T_NambangAGongI_01_BC.T_NambangAGongI_01_BC (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.52.04:867][487]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/17_Nambang-A_Gong-I/Textures/T_NambangAGongI_01_NM.T_NambangAGongI_01_NM (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.52.05:302][500]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/17_Nambang-A_Gong-I/Textures/T_NambangAGongI_02_AO.T_NambangAGongI_02_AO (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.52.05:361][501]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/17_Nambang-A_Gong-I/Textures/T_NambangAGongI_01_RN.T_NambangAGongI_01_RN (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.52.06:047][521]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/17_Nambang-A_Gong-I/Textures/T_NambangAGongI_02_MT.T_NambangAGongI_02_MT (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.52.06:337][526]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/17_Nambang-A_Gong-I/Textures/T_NambangAGongI_02_BC.T_NambangAGongI_02_BC (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.52.06:899][537]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/17_Nambang-A_Gong-I/Textures/T_NambangAGongI_02_RN.T_NambangAGongI_02_RN (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.52.07:049][538]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/17_Nambang-A_Gong-I/Textures/T_NambangAGongI_02_NM.T_NambangAGongI_02_NM (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.52.07:540][552]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/18_Homaeng-I/Textures/T_Homaeng-I_AO.T_Homaeng-I_AO (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.52.07:875][562]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/18_Homaeng-I/Textures/T_Homaeng-I_MT.T_Homaeng-I_MT (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.52.08:032][567]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/18_Homaeng-I/Textures/T_Homaeng-I_BC.T_Homaeng-I_BC (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.52.08:569][583]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/18_Homaeng-I/Textures/T_Homaeng-I_RN.T_Homaeng-I_RN (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.52.08:822][590]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/18_Homaeng-I/Textures/T_Homaeng-I_NM.T_Homaeng-I_NM (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.52.09:244][603]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/19_Fish_Trap/Textures/T_FishTrap_AO.T_FishTrap_AO (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.52.09:694][616]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/19_Fish_Trap/Textures/T_FishTrap_BC.T_FishTrap_BC (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.52.10:368][637]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/19_Fish_Trap/Textures/T_FishTrap_NM.T_FishTrap_NM (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.52.10:416][638]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/19_Fish_Trap/Textures/T_FishTrap_RN.T_FishTrap_RN (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.52.11:316][665]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/20_Gulhamji/Textures/T_Gulhamji_A_AO.T_Gulhamji_A_AO (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.52.11:757][678]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/20_Gulhamji/Textures/T_Gulhamji_A_MT.T_Gulhamji_A_MT (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.52.12:033][687]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/20_Gulhamji/Textures/T_Gulhamji_A_BC.T_Gulhamji_A_BC (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.52.12:657][705]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/20_Gulhamji/Textures/T_Gulhamji_A_RN.T_Gulhamji_A_RN (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.52.12:897][712]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/20_Gulhamji/Textures/T_Gulhamji_A_NM.T_Gulhamji_A_NM (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.52.13:350][726]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/21_Diving_Shoes/Textures/T_DivingShoes_A_AO.T_DivingShoes_A_AO (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.52.13:780][739]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/21_Diving_Shoes/Textures/T_DivingShoes_A_BC.T_DivingShoes_A_BC (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.52.14:398][757]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/21_Diving_Shoes/Textures/T_DivingShoes_A_MT.T_DivingShoes_A_MT (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.52.14:804][769]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/21_Diving_Shoes/Textures/T_DivingShoes_A_RN.T_DivingShoes_A_RN (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.52.14:811][770]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/21_Diving_Shoes/Textures/T_DivingShoes_A_NM.T_DivingShoes_A_NM (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.52.15:639][794]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/22_Harpoon/Textures/T_Harpoon_1_AO.T_Harpoon_1_AO (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.52.16:027][806]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/22_Harpoon/Textures/T_Harpoon_1_MT.T_Harpoon_1_MT (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.52.16:233][812]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/22_Harpoon/Textures/T_Harpoon_1_BC.T_Harpoon_1_BC (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.52.16:638][824]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/22_Harpoon/Textures/T_Harpoon_1_RN.T_Harpoon_1_RN (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.52.16:983][835]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/22_Harpoon/Textures/T_Harpoon_2_AO.T_Harpoon_2_AO (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.52.17:073][837]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/22_Harpoon/Textures/T_Harpoon_1_NM.T_Harpoon_1_NM (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.52.17:836][860]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/22_Harpoon/Textures/T_Harpoon_2_BC.T_Harpoon_2_BC (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.52.18:033][866]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/22_Harpoon/Textures/T_Harpoon_2_NM.T_Harpoon_2_NM (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.52.18:402][877]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/22_Harpoon/Textures/T_Harpoon_2_RN.T_Harpoon_2_RN (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.52.18:469][879]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/23_Swimming_Goggles_01/Textures/T_Swimming_Goggles_01_1_AO.T_Swimming_Goggles_01_1_AO (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.52.19:042][896]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/23_Swimming_Goggles_01/Textures/T_Swimming_Goggles_01_1_MT.T_Swimming_Goggles_01_1_MT (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.52.19:445][908]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/23_Swimming_Goggles_01/Textures/T_Swimming_Goggles_01_1_BC.T_Swimming_Goggles_01_1_BC (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.52.19:704][916]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/23_Swimming_Goggles_01/Textures/T_Swimming_Goggles_01_1_NM.T_Swimming_Goggles_01_1_NM (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.52.20:058][926]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/23_Swimming_Goggles_01/Textures/T_Swimming_Goggles_01_1_RN.T_Swimming_Goggles_01_1_RN (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.52.20:308][934]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/23_Swimming_Goggles_01/Textures/T_Swimming_Goggles_01_2_AO.T_Swimming_Goggles_01_2_AO (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.52.20:899][952]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/23_Swimming_Goggles_01/Textures/T_Swimming_Goggles_01_2_BC.T_Swimming_Goggles_01_2_BC (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.52.20:913][952]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/23_Swimming_Goggles_01/Textures/T_Swimming_Goggles_01_2_NM.T_Swimming_Goggles_01_2_NM (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.52.21:325][964]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/23_Swimming_Goggles_01/Textures/T_Swimming_Goggles_01_2_RN.T_Swimming_Goggles_01_2_RN (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.52.21:446][968]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/24_Bischang/Textures/T_Bischang_01_AO.T_Bischang_01_AO (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.52.22:127][988]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/24_Bischang/Textures/T_Bischang_01_BC.T_Bischang_01_BC (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.52.22:253][992]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/24_Bischang/Textures/T_Bischang_01_NM.T_Bischang_01_NM (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.52.22:903][ 11]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/24_Bischang/Textures/T_Bischang_01_RN.T_Bischang_01_RN (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.52.22:948][ 13]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/24_Bischang/Textures/T_Bischang_02_AO.T_Bischang_02_AO (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.52.23:620][ 33]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/24_Bischang/Textures/T_Bischang_02_MT.T_Bischang_02_MT (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.52.24:039][ 45]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/24_Bischang/Textures/T_Bischang_02_BC.T_Bischang_02_BC (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.52.24:346][ 55]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/24_Bischang/Textures/T_Bischang_02_NM.T_Bischang_02_NM (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.52.24:840][ 69]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/24_Bischang/Textures/T_Bischang_02_RN.T_Bischang_02_RN (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.52.24:917][ 71]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/25_Swimming_Goggles_02/Textures/T_Swimming_Goggles_02_AO.T_Swimming_Goggles_02_AO (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.52.25:685][ 95]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/25_Swimming_Goggles_02/Textures/T_Swimming_Goggles_02_MT.T_Swimming_Goggles_02_MT (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.52.26:240][110]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/25_Swimming_Goggles_02/Textures/T_Swimming_Goggles_02_BC.T_Swimming_Goggles_02_BC (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.52.26:545][119]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/25_Swimming_Goggles_02/Textures/T_Swimming_Goggles_02_NM.T_Swimming_Goggles_02_NM (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.52.26:903][129]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/25_Swimming_Goggles_02/Textures/T_Swimming_Goggles_02_RN.T_Swimming_Goggles_02_RN (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.52.27:372][143]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/26_Diving_Helmet_01/Textures/T_Diving_Helmet_AO.T_Diving_Helmet_AO (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.52.27:890][159]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/26_Diving_Helmet_01/Textures/T_Diving_Helmet_MT.T_Diving_Helmet_MT (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.52.28:346][173]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/26_Diving_Helmet_01/Textures/T_Diving_Helmet_BC.T_Diving_Helmet_BC (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.52.28:357][173]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/26_Diving_Helmet_01/Textures/T_Diving_Helmet_NM.T_Diving_Helmet_NM (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.52.29:051][194]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/26_Diving_Helmet_01/Textures/T_Diving_Helmet_RN.T_Diving_Helmet_RN (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.52.29:069][194]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/27_Sickle_01/Textures/T_Sickle_01_AO.T_Sickle_01_AO (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.52.29:850][218]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/27_Sickle_01/Textures/T_Sickle_01_MT.T_Sickle_01_MT (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.999984 MB), EncodeSpeed: Fast
+[2025.09.16-22.52.30:275][230]LogTexture: Display: Building textures: /Game/NationalMaritimeMuseum/Models/27_Sickle_01/Textures/T_Sickle_01_BC.T_Sickle_01_BC (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.999984 MB), EncodeSpeed: Fast
