@@ -14,6 +14,12 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define SLASH_PROJECT_HitInterface_generated_h
 
+#define FID_Users_Usuario_Desktop_UnrealEngineUnity_UE5_Slash_Project_Slash_Project_Source_Slash_Project_Public_Interfaces_HitInterface_h_13_RPC_WRAPPERS_NO_PURE_DECLS \
+	virtual void GetHit_Implementation(FVector const& ImpactPoint) {}; \
+	DECLARE_FUNCTION(execGetHit);
+
+
+#define FID_Users_Usuario_Desktop_UnrealEngineUnity_UE5_Slash_Project_Slash_Project_Source_Slash_Project_Public_Interfaces_HitInterface_h_13_CALLBACK_WRAPPERS
 #define FID_Users_Usuario_Desktop_UnrealEngineUnity_UE5_Slash_Project_Slash_Project_Source_Slash_Project_Public_Interfaces_HitInterface_h_13_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	SLASH_PROJECT_API UHitInterface(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
@@ -51,6 +57,7 @@ protected: \
 public: \
 	typedef UHitInterface UClassType; \
 	typedef IHitInterface ThisClass; \
+	static void Execute_GetHit(UObject* O, FVector const& ImpactPoint); \
 	virtual UObject* _getUObject() const { return nullptr; }
 
 
@@ -58,6 +65,8 @@ public: \
 #define FID_Users_Usuario_Desktop_UnrealEngineUnity_UE5_Slash_Project_Slash_Project_Source_Slash_Project_Public_Interfaces_HitInterface_h_21_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
+	FID_Users_Usuario_Desktop_UnrealEngineUnity_UE5_Slash_Project_Slash_Project_Source_Slash_Project_Public_Interfaces_HitInterface_h_13_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_Users_Usuario_Desktop_UnrealEngineUnity_UE5_Slash_Project_Slash_Project_Source_Slash_Project_Public_Interfaces_HitInterface_h_13_CALLBACK_WRAPPERS \
 	FID_Users_Usuario_Desktop_UnrealEngineUnity_UE5_Slash_Project_Slash_Project_Source_Slash_Project_Public_Interfaces_HitInterface_h_13_INCLASS_IINTERFACE_NO_PURE_DECLS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
