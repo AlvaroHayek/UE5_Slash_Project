@@ -40,8 +40,13 @@ struct Z_Construct_UClass_ATreasure_Statics
 		{ "Category", "Sounds" },
 		{ "ModuleRelativePath", "Public/Items/Treasure.h" },
 	};
+	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_Gold_MetaData[] = {
+		{ "Category", "Treasure Properties" },
+		{ "ModuleRelativePath", "Public/Items/Treasure.h" },
+	};
 #endif // WITH_METADATA
 	static const UECodeGen_Private::FObjectPropertyParams NewProp_PickupSound;
+	static const UECodeGen_Private::FIntPropertyParams NewProp_Gold;
 	static const UECodeGen_Private::FPropertyParamsBase* const PropPointers[];
 	static UObject* (*const DependentSingletons[])();
 	static constexpr FCppClassTypeInfoStatic StaticCppClassTypeInfo = {
@@ -50,8 +55,10 @@ struct Z_Construct_UClass_ATreasure_Statics
 	static const UECodeGen_Private::FClassParams ClassParams;
 };
 const UECodeGen_Private::FObjectPropertyParams Z_Construct_UClass_ATreasure_Statics::NewProp_PickupSound = { "PickupSound", nullptr, (EPropertyFlags)0x0040000000000001, UECodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(ATreasure, PickupSound), Z_Construct_UClass_USoundBase_NoRegister, METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_PickupSound_MetaData), NewProp_PickupSound_MetaData) };
+const UECodeGen_Private::FIntPropertyParams Z_Construct_UClass_ATreasure_Statics::NewProp_Gold = { "Gold", nullptr, (EPropertyFlags)0x0040000000000001, UECodeGen_Private::EPropertyGenFlags::Int, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(ATreasure, Gold), METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_Gold_MetaData), NewProp_Gold_MetaData) };
 const UECodeGen_Private::FPropertyParamsBase* const Z_Construct_UClass_ATreasure_Statics::PropPointers[] = {
 	(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ATreasure_Statics::NewProp_PickupSound,
+	(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ATreasure_Statics::NewProp_Gold,
 };
 static_assert(UE_ARRAY_COUNT(Z_Construct_UClass_ATreasure_Statics::PropPointers) < 2048);
 UObject* (*const Z_Construct_UClass_ATreasure_Statics::DependentSingletons[])() = {
@@ -95,10 +102,10 @@ ATreasure::~ATreasure() {}
 struct Z_CompiledInDeferFile_FID_Users_Usuario_Desktop_UnrealEngineUnity_UE5_Slash_Project_Slash_Project_Source_Slash_Project_Public_Items_Treasure_h_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
-		{ Z_Construct_UClass_ATreasure, ATreasure::StaticClass, TEXT("ATreasure"), &Z_Registration_Info_UClass_ATreasure, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(ATreasure), 536492818U) },
+		{ Z_Construct_UClass_ATreasure, ATreasure::StaticClass, TEXT("ATreasure"), &Z_Registration_Info_UClass_ATreasure, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(ATreasure), 2323265249U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_Usuario_Desktop_UnrealEngineUnity_UE5_Slash_Project_Slash_Project_Source_Slash_Project_Public_Items_Treasure_h_2330307507(TEXT("/Script/Slash_Project"),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_Usuario_Desktop_UnrealEngineUnity_UE5_Slash_Project_Slash_Project_Source_Slash_Project_Public_Items_Treasure_h_1265469401(TEXT("/Script/Slash_Project"),
 	Z_CompiledInDeferFile_FID_Users_Usuario_Desktop_UnrealEngineUnity_UE5_Slash_Project_Slash_Project_Source_Slash_Project_Public_Items_Treasure_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_Usuario_Desktop_UnrealEngineUnity_UE5_Slash_Project_Slash_Project_Source_Slash_Project_Public_Items_Treasure_h_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
