@@ -31,4 +31,5 @@ private:
 	TArray<TSubclassOf<class ATreasure>> TreasureClasses;
 	//TSubclassOf<class ATreasure> TreasureClass;
 
+	bool bBroken = false;
 };
