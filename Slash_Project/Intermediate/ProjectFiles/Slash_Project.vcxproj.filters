@@ -79,6 +79,12 @@
     <ClCompile Include="..\..\Source\Slash_Project\Private\Enemy\Enemy.cpp">
       <Filter>Source\Slash_Project\Private\Enemy</Filter>
     </ClCompile>
+    <Filter Include="Source\Slash_Project\Private\HUD">
+      <UniqueIdentifier>{49925907-9D3D-3DAC-AA9A-C2D3E64BA63A}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Slash_Project\Private\HUD\HealthBarComponent.cpp">
+      <Filter>Source\Slash_Project\Private\HUD</Filter>
+    </ClCompile>
     <Filter Include="Source\Slash_Project\Private\Interfaces">
       <UniqueIdentifier>{46BE9237-4C2F-32E2-87A4-95FFB5222DB2}</UniqueIdentifier>
     </Filter>
@@ -138,6 +144,12 @@
     </Filter>
     <ClCompile Include="..\..\Source\Slash_Project\Public\Enemy\Enemy.h">
       <Filter>Source\Slash_Project\Public\Enemy</Filter>
+    </ClCompile>
+    <Filter Include="Source\Slash_Project\Public\HUD">
+      <UniqueIdentifier>{85BA6FB3-5113-3F9D-8A5C-D0EBC10B72D0}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Slash_Project\Public\HUD\HealthBarComponent.h">
+      <Filter>Source\Slash_Project\Public\HUD</Filter>
     </ClCompile>
     <Filter Include="Source\Slash_Project\Public\Interfaces">
       <UniqueIdentifier>{38480C40-8164-3928-B754-AA8293745698}</UniqueIdentifier>
