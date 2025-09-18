@@ -67,6 +67,12 @@
     <ClCompile Include="..\..\Source\Slash_Project\Private\Characters\SlashCharacter.cpp">
       <Filter>Source\Slash_Project\Private\Characters</Filter>
     </ClCompile>
+    <Filter Include="Source\Slash_Project\Private\Components">
+      <UniqueIdentifier>{D94CD03D-982A-37B6-A710-B0E3845D9607}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Slash_Project\Private\Components\AttributeComponent.cpp">
+      <Filter>Source\Slash_Project\Private\Components</Filter>
+    </ClCompile>
     <Filter Include="Source\Slash_Project\Private\Enemy">
       <UniqueIdentifier>{EC648B09-F4D5-3E03-9FFA-F8189FF51A65}</UniqueIdentifier>
     </Filter>
@@ -120,6 +126,12 @@
     </ClCompile>
     <ClCompile Include="..\..\Source\Slash_Project\Public\Characters\SlashCharacter.h">
       <Filter>Source\Slash_Project\Public\Characters</Filter>
+    </ClCompile>
+    <Filter Include="Source\Slash_Project\Public\Components">
+      <UniqueIdentifier>{5C21D3F6-C390-3B9E-9865-0A74BA4C0A48}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Slash_Project\Public\Components\AttributeComponent.h">
+      <Filter>Source\Slash_Project\Public\Components</Filter>
     </ClCompile>
     <Filter Include="Source\Slash_Project\Public\Enemy">
       <UniqueIdentifier>{75FE7F6F-7C5A-32A9-8877-368A35E3E9E0}</UniqueIdentifier>

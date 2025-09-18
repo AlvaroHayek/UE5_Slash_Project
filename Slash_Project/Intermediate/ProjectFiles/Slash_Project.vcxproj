@@ -289,6 +289,9 @@
     <ClCompile Include="..\..\Source\Slash_Project\Private\Characters\SlashCharacter.cpp">
       <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
+    <ClCompile Include="..\..\Source\Slash_Project\Private\Components\AttributeComponent.cpp">
+      <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
     <ClCompile Include="..\..\Source\Slash_Project\Private\Enemy\Enemy.cpp">
       <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
@@ -317,6 +320,9 @@
       <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <ClCompile Include="..\..\Source\Slash_Project\Public\Characters\SlashCharacter.h">
+      <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Slash_Project\Public\Components\AttributeComponent.h">
       <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <ClCompile Include="..\..\Source\Slash_Project\Public\Enemy\Enemy.h">
