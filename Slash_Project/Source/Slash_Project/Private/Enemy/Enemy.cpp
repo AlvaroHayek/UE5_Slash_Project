@@ -76,6 +76,10 @@ void AEnemy::Die()
 		AnimInstance->Montage_JumpToSection(SectionName, DeathMontage);
 	}
 	GetCapsuleComponent()->SetCollisionEnabled(ECollisionEnabled::NoCollision);
+	if (HealthBarWidget)
+	{
+		HealthBarWidget->SetVisibility(false);
+	}
 	SetLifeSpan(3.f);
 }
 
@@ -92,6 +96,18 @@ void AEnemy::PlayHitReactMontage(const FName& SectionName)
 void AEnemy::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
+	if (CombatTarget)
+	{
+		const double DistanceToTarget = (CombatTarget->GetActorLocation() - GetActorLocation()).Size();
+		if (DistanceToTarget > CombatRadius)
+		{
+			CombatTarget = nullptr;
+			if (HealthBarWidget)
+			{
+				HealthBarWidget->SetVisibility(false);
+			}
+		}
+	}
 
 }
 
