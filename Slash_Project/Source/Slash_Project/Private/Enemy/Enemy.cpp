@@ -80,7 +80,7 @@ void AEnemy::Die()
 	{
 		HealthBarWidget->SetVisibility(false);
 	}
-	SetLifeSpan(3.f);
+	SetLifeSpan(10.f);
 }
 
 void AEnemy::PlayHitReactMontage(const FName& SectionName)
