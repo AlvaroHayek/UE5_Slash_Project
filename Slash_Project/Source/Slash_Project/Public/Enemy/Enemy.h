@@ -59,7 +59,7 @@ protected:
 	void PlayHitReactMontage(const FName& SectionName);
 
 	UPROPERTY(BlueprintReadOnly)
-	EDeathPose DeathPose = EDeathPose::EDP_Alive
+	EDeathPose DeathPose = EDeathPose::EDP_Alive;
 
 public:
 };
