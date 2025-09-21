@@ -10,6 +10,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 void EmptyLinkFunctionForGeneratedCodeEnemy() {}
 
 // Begin Cross Module References
+ENGINE_API UClass* Z_Construct_UClass_AActor_NoRegister();
 ENGINE_API UClass* Z_Construct_UClass_ACharacter();
 ENGINE_API UClass* Z_Construct_UClass_UAnimMontage_NoRegister();
 ENGINE_API UClass* Z_Construct_UClass_UParticleSystem_NoRegister();
@@ -72,6 +73,9 @@ struct Z_Construct_UClass_AEnemy_Statics
 		{ "Category", "VisualEffects" },
 		{ "ModuleRelativePath", "Public/Enemy/Enemy.h" },
 	};
+	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_CombatTarget_MetaData[] = {
+		{ "ModuleRelativePath", "Public/Enemy/Enemy.h" },
+	};
 	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_DeathPose_MetaData[] = {
 		{ "Category", "Enemy" },
 		{ "ModuleRelativePath", "Public/Enemy/Enemy.h" },
@@ -83,6 +87,7 @@ struct Z_Construct_UClass_AEnemy_Statics
 	static const UECodeGen_Private::FObjectPropertyParams NewProp_DeathMontage;
 	static const UECodeGen_Private::FObjectPropertyParams NewProp_HitSound;
 	static const UECodeGen_Private::FObjectPropertyParams NewProp_HitParticles;
+	static const UECodeGen_Private::FObjectPropertyParams NewProp_CombatTarget;
 	static const UECodeGen_Private::FBytePropertyParams NewProp_DeathPose_Underlying;
 	static const UECodeGen_Private::FEnumPropertyParams NewProp_DeathPose;
 	static const UECodeGen_Private::FPropertyParamsBase* const PropPointers[];
@@ -99,6 +104,7 @@ const UECodeGen_Private::FObjectPropertyParams Z_Construct_UClass_AEnemy_Statics
 const UECodeGen_Private::FObjectPropertyParams Z_Construct_UClass_AEnemy_Statics::NewProp_DeathMontage = { "DeathMontage", nullptr, (EPropertyFlags)0x0040000000010001, UECodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(AEnemy, DeathMontage), Z_Construct_UClass_UAnimMontage_NoRegister, METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_DeathMontage_MetaData), NewProp_DeathMontage_MetaData) };
 const UECodeGen_Private::FObjectPropertyParams Z_Construct_UClass_AEnemy_Statics::NewProp_HitSound = { "HitSound", nullptr, (EPropertyFlags)0x0040000000000001, UECodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(AEnemy, HitSound), Z_Construct_UClass_USoundBase_NoRegister, METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_HitSound_MetaData), NewProp_HitSound_MetaData) };
 const UECodeGen_Private::FObjectPropertyParams Z_Construct_UClass_AEnemy_Statics::NewProp_HitParticles = { "HitParticles", nullptr, (EPropertyFlags)0x0040000000000001, UECodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(AEnemy, HitParticles), Z_Construct_UClass_UParticleSystem_NoRegister, METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_HitParticles_MetaData), NewProp_HitParticles_MetaData) };
+const UECodeGen_Private::FObjectPropertyParams Z_Construct_UClass_AEnemy_Statics::NewProp_CombatTarget = { "CombatTarget", nullptr, (EPropertyFlags)0x0040000000000000, UECodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(AEnemy, CombatTarget), Z_Construct_UClass_AActor_NoRegister, METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_CombatTarget_MetaData), NewProp_CombatTarget_MetaData) };
 const UECodeGen_Private::FBytePropertyParams Z_Construct_UClass_AEnemy_Statics::NewProp_DeathPose_Underlying = { "UnderlyingType", nullptr, (EPropertyFlags)0x0000000000000000, UECodeGen_Private::EPropertyGenFlags::Byte, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, 0, nullptr, METADATA_PARAMS(0, nullptr) };
 const UECodeGen_Private::FEnumPropertyParams Z_Construct_UClass_AEnemy_Statics::NewProp_DeathPose = { "DeathPose", nullptr, (EPropertyFlags)0x0020080000000014, UECodeGen_Private::EPropertyGenFlags::Enum, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(AEnemy, DeathPose), Z_Construct_UEnum_Slash_Project_EDeathPose, METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_DeathPose_MetaData), NewProp_DeathPose_MetaData) }; // 2972978323
 const UECodeGen_Private::FPropertyParamsBase* const Z_Construct_UClass_AEnemy_Statics::PropPointers[] = {
@@ -108,6 +114,7 @@ const UECodeGen_Private::FPropertyParamsBase* const Z_Construct_UClass_AEnemy_St
 	(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AEnemy_Statics::NewProp_DeathMontage,
 	(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AEnemy_Statics::NewProp_HitSound,
 	(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AEnemy_Statics::NewProp_HitParticles,
+	(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AEnemy_Statics::NewProp_CombatTarget,
 	(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AEnemy_Statics::NewProp_DeathPose_Underlying,
 	(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AEnemy_Statics::NewProp_DeathPose,
 };
@@ -155,10 +162,10 @@ AEnemy::~AEnemy() {}
 struct Z_CompiledInDeferFile_FID_Users_Usuario_Desktop_UnrealEngineUnity_UE5_Slash_Project_Slash_Project_Source_Slash_Project_Public_Enemy_Enemy_h_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
-		{ Z_Construct_UClass_AEnemy, AEnemy::StaticClass, TEXT("AEnemy"), &Z_Registration_Info_UClass_AEnemy, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AEnemy), 3187489028U) },
+		{ Z_Construct_UClass_AEnemy, AEnemy::StaticClass, TEXT("AEnemy"), &Z_Registration_Info_UClass_AEnemy, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AEnemy), 1484526525U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_Usuario_Desktop_UnrealEngineUnity_UE5_Slash_Project_Slash_Project_Source_Slash_Project_Public_Enemy_Enemy_h_2168266570(TEXT("/Script/Slash_Project"),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_Usuario_Desktop_UnrealEngineUnity_UE5_Slash_Project_Slash_Project_Source_Slash_Project_Public_Enemy_Enemy_h_1020766083(TEXT("/Script/Slash_Project"),
 	Z_CompiledInDeferFile_FID_Users_Usuario_Desktop_UnrealEngineUnity_UE5_Slash_Project_Slash_Project_Source_Slash_Project_Public_Enemy_Enemy_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_Usuario_Desktop_UnrealEngineUnity_UE5_Slash_Project_Slash_Project_Source_Slash_Project_Public_Enemy_Enemy_h_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);

@@ -29,9 +29,10 @@ AEnemy::AEnemy()
 void AEnemy::BeginPlay()
 {
 	Super::BeginPlay();
-
-	
-	
+	if (HealthBarWidget)
+	{
+		HealthBarWidget->SetVisibility(false);
+	}
 }
 
 void AEnemy::Die()
@@ -74,6 +75,8 @@ void AEnemy::Die()
 		}
 		AnimInstance->Montage_JumpToSection(SectionName, DeathMontage);
 	}
+	GetCapsuleComponent()->SetCollisionEnabled(ECollisionEnabled::NoCollision);
+	SetLifeSpan(3.f);
 }
 
 void AEnemy::PlayHitReactMontage(const FName& SectionName)
@@ -101,6 +104,10 @@ void AEnemy::SetupPlayerInputComponent(UInputComponent* PlayerInputComponent)
 void AEnemy::GetHit_Implementation(const FVector& ImpactPoint)
 {
 	//DRAW_SPHERE_COLOR(ImpactPoint, FColor::Yellow);
+	if (HealthBarWidget)
+	{
+		HealthBarWidget->SetVisibility(true);
+	}
 	if (Attributes && Attributes->IsAlive())
 	{
 		DirectionalHitReact(ImpactPoint);
@@ -186,6 +193,7 @@ float AEnemy::TakeDamage(float DamageAmount, FDamageEvent const& DamageEvent, AC
 		Attributes->ReceiveDamage(DamageAmount);
 		HealthBarWidget->SetHealthPercent(Attributes->GetHealthPercent());
 	}
+	CombatTarget = EventInstigator->GetPawn();
 	return DamageAmount;
 }
 

@@ -49,6 +49,9 @@ private:
 	UPROPERTY(EditAnywhere, Category = VisualEffects)
 	UParticleSystem* HitParticles;
 
+	UPROPERTY()
+	AActor* CombatTarget;
+
 protected:
 	virtual void BeginPlay() override;
 	void Die();
