@@ -12,6 +12,7 @@ void EmptyLinkFunctionForGeneratedCodeCharacterTypes() {}
 // Begin Cross Module References
 SLASH_PROJECT_API UEnum* Z_Construct_UEnum_Slash_Project_EActionState();
 SLASH_PROJECT_API UEnum* Z_Construct_UEnum_Slash_Project_ECharacterState();
+SLASH_PROJECT_API UEnum* Z_Construct_UEnum_Slash_Project_EDeathPose();
 UPackage* Z_Construct_UPackage__Script_Slash_Project();
 // End Cross Module References
 
@@ -129,15 +130,85 @@ UEnum* Z_Construct_UEnum_Slash_Project_EActionState()
 }
 // End Enum EActionState
 
+// Begin Enum EDeathPose
+static FEnumRegistrationInfo Z_Registration_Info_UEnum_EDeathPose;
+static UEnum* EDeathPose_StaticEnum()
+{
+	if (!Z_Registration_Info_UEnum_EDeathPose.OuterSingleton)
+	{
+		Z_Registration_Info_UEnum_EDeathPose.OuterSingleton = GetStaticEnum(Z_Construct_UEnum_Slash_Project_EDeathPose, (UObject*)Z_Construct_UPackage__Script_Slash_Project(), TEXT("EDeathPose"));
+	}
+	return Z_Registration_Info_UEnum_EDeathPose.OuterSingleton;
+}
+template<> SLASH_PROJECT_API UEnum* StaticEnum<EDeathPose>()
+{
+	return EDeathPose_StaticEnum();
+}
+struct Z_Construct_UEnum_Slash_Project_EDeathPose_Statics
+{
+#if WITH_METADATA
+	static constexpr UECodeGen_Private::FMetaDataPairParam Enum_MetaDataParams[] = {
+		{ "BlueprintType", "true" },
+		{ "EDP_Alive.DisplayName", "Alive" },
+		{ "EDP_Alive.Name", "EDeathPose::EDP_Alive" },
+		{ "EDP_Death1.DisplayName", "Death1" },
+		{ "EDP_Death1.Name", "EDeathPose::EDP_Death1" },
+		{ "EDP_Death2.DisplayName", "Death2" },
+		{ "EDP_Death2.Name", "EDeathPose::EDP_Death2" },
+		{ "EDP_Death3.DisplayName", "Death3" },
+		{ "EDP_Death3.Name", "EDeathPose::EDP_Death3" },
+		{ "EDP_Death4.DisplayName", "Death4" },
+		{ "EDP_Death4.Name", "EDeathPose::EDP_Death4" },
+		{ "EDP_Death5.DisplayName", "Death5" },
+		{ "EDP_Death5.Name", "EDeathPose::EDP_Death5" },
+		{ "EDP_Death6.DisplayName", "Death6" },
+		{ "EDP_Death6.Name", "EDeathPose::EDP_Death6" },
+		{ "ModuleRelativePath", "Public/Characters/CharacterTypes.h" },
+	};
+#endif // WITH_METADATA
+	static constexpr UECodeGen_Private::FEnumeratorParam Enumerators[] = {
+		{ "EDeathPose::EDP_Alive", (int64)EDeathPose::EDP_Alive },
+		{ "EDeathPose::EDP_Death1", (int64)EDeathPose::EDP_Death1 },
+		{ "EDeathPose::EDP_Death2", (int64)EDeathPose::EDP_Death2 },
+		{ "EDeathPose::EDP_Death3", (int64)EDeathPose::EDP_Death3 },
+		{ "EDeathPose::EDP_Death4", (int64)EDeathPose::EDP_Death4 },
+		{ "EDeathPose::EDP_Death5", (int64)EDeathPose::EDP_Death5 },
+		{ "EDeathPose::EDP_Death6", (int64)EDeathPose::EDP_Death6 },
+	};
+	static const UECodeGen_Private::FEnumParams EnumParams;
+};
+const UECodeGen_Private::FEnumParams Z_Construct_UEnum_Slash_Project_EDeathPose_Statics::EnumParams = {
+	(UObject*(*)())Z_Construct_UPackage__Script_Slash_Project,
+	nullptr,
+	"EDeathPose",
+	"EDeathPose",
+	Z_Construct_UEnum_Slash_Project_EDeathPose_Statics::Enumerators,
+	RF_Public|RF_Transient|RF_MarkAsNative,
+	UE_ARRAY_COUNT(Z_Construct_UEnum_Slash_Project_EDeathPose_Statics::Enumerators),
+	EEnumFlags::None,
+	(uint8)UEnum::ECppForm::EnumClass,
+	METADATA_PARAMS(UE_ARRAY_COUNT(Z_Construct_UEnum_Slash_Project_EDeathPose_Statics::Enum_MetaDataParams), Z_Construct_UEnum_Slash_Project_EDeathPose_Statics::Enum_MetaDataParams)
+};
+UEnum* Z_Construct_UEnum_Slash_Project_EDeathPose()
+{
+	if (!Z_Registration_Info_UEnum_EDeathPose.InnerSingleton)
+	{
+		UECodeGen_Private::ConstructUEnum(Z_Registration_Info_UEnum_EDeathPose.InnerSingleton, Z_Construct_UEnum_Slash_Project_EDeathPose_Statics::EnumParams);
+	}
+	return Z_Registration_Info_UEnum_EDeathPose.InnerSingleton;
+}
+// End Enum EDeathPose
+
 // Begin Registration
 struct Z_CompiledInDeferFile_FID_Users_Usuario_Desktop_UnrealEngineUnity_UE5_Slash_Project_Slash_Project_Source_Slash_Project_Public_Characters_CharacterTypes_h_Statics
 {
 	static constexpr FEnumRegisterCompiledInInfo EnumInfo[] = {
 		{ ECharacterState_StaticEnum, TEXT("ECharacterState"), &Z_Registration_Info_UEnum_ECharacterState, CONSTRUCT_RELOAD_VERSION_INFO(FEnumReloadVersionInfo, 1933495170U) },
 		{ EActionState_StaticEnum, TEXT("EActionState"), &Z_Registration_Info_UEnum_EActionState, CONSTRUCT_RELOAD_VERSION_INFO(FEnumReloadVersionInfo, 4035014085U) },
+		{ EDeathPose_StaticEnum, TEXT("EDeathPose"), &Z_Registration_Info_UEnum_EDeathPose, CONSTRUCT_RELOAD_VERSION_INFO(FEnumReloadVersionInfo, 2972978323U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_Usuario_Desktop_UnrealEngineUnity_UE5_Slash_Project_Slash_Project_Source_Slash_Project_Public_Characters_CharacterTypes_h_2240456284(TEXT("/Script/Slash_Project"),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_Usuario_Desktop_UnrealEngineUnity_UE5_Slash_Project_Slash_Project_Source_Slash_Project_Public_Characters_CharacterTypes_h_3521186821(TEXT("/Script/Slash_Project"),
 	nullptr, 0,
 	nullptr, 0,
 	Z_CompiledInDeferFile_FID_Users_Usuario_Desktop_UnrealEngineUnity_UE5_Slash_Project_Slash_Project_Source_Slash_Project_Public_Characters_CharacterTypes_h_Statics::EnumInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_Usuario_Desktop_UnrealEngineUnity_UE5_Slash_Project_Slash_Project_Source_Slash_Project_Public_Characters_CharacterTypes_h_Statics::EnumInfo));

@@ -37,4 +37,17 @@ enum class EActionState : uint8;
 template<> struct TIsUEnumClass<EActionState> { enum { Value = true }; };
 template<> SLASH_PROJECT_API UEnum* StaticEnum<EActionState>();
 
+#define FOREACH_ENUM_EDEATHPOSE(op) \
+	op(EDeathPose::EDP_Alive) \
+	op(EDeathPose::EDP_Death1) \
+	op(EDeathPose::EDP_Death2) \
+	op(EDeathPose::EDP_Death3) \
+	op(EDeathPose::EDP_Death4) \
+	op(EDeathPose::EDP_Death5) \
+	op(EDeathPose::EDP_Death6) 
+
+enum class EDeathPose : uint8;
+template<> struct TIsUEnumClass<EDeathPose> { enum { Value = true }; };
+template<> SLASH_PROJECT_API UEnum* StaticEnum<EDeathPose>();
+
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
