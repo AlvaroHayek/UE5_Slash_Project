@@ -102,6 +102,7 @@ void AEnemy::Die()
 
 bool AEnemy::InTargetRange(AActor* Target, double Radius)
 {
+	if (Target == nullptr) return false;
 	const double DistanceToTarget = (Target->GetActorLocation() - GetActorLocation()).Size();
 	DRAW_SPHERE_SingleFrame(GetActorLocation());
 	DRAW_SPHERE_SingleFrame(Target->GetActorLocation());
@@ -150,19 +151,12 @@ void AEnemy::PlayHitReactMontage(const FName& SectionName)
 void AEnemy::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
-	if (CombatTarget)
-	{
-		//const double DistanceToTarget = (CombatTarget->GetActorLocation() - GetActorLocation()).Size();
-		if (!InTargetRange(CombatTarget, CombatRadius))
-		{
-			CombatTarget = nullptr;
-			if (HealthBarWidget)
-			{
-				HealthBarWidget->SetVisibility(false);
-			}
-		}
-	}
 
+		//const double DistanceToTarget = (CombatTarget->GetActorLocation() - GetActorLocation()).Size();
+	CheckCombatTarget();
+
+	CheckPatrolTarget();
+	/*
 	if (PatrolTarget && EnemyController)
 	{
 		if (InTargetRange(PatrolTarget, PatrolRadius))
@@ -187,6 +181,29 @@ void AEnemy::Tick(float DeltaTime)
 				MoveRequest.SetAcceptanceRadius(15.f);
 				EnemyController->MoveTo(MoveRequest);
 			}
+		}
+	}*/
+}
+
+void AEnemy::CheckPatrolTarget()
+{
+	if (InTargetRange(PatrolTarget, PatrolRadius))
+	{
+		PatrolTarget = ChoosePatrolTarget();
+		const float WaitTime = FMath::RandRange(WaitMin, WaitMax);
+		//MoveToTarget(PatrolTarget);
+		GetWorldTimerManager().SetTimer(PatrolTimer, this, &AEnemy::PatrolTimerFinished, WaitTime);
+	}
+}
+
+void AEnemy::CheckCombatTarget()
+{
+	if (!InTargetRange(CombatTarget, CombatRadius))
+	{
+		CombatTarget = nullptr;
+		if (HealthBarWidget)
+		{
+			HealthBarWidget->SetVisibility(false);
 		}
 	}
 }
