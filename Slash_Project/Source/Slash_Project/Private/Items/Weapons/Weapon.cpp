@@ -87,50 +87,53 @@ void AWeapon::OnSphereEndOverlap(UPrimitiveComponent* OverlappedComponent, AActo
 
 void AWeapon::OnBoxOverlap(UPrimitiveComponent* OverlappedComponent, AActor* OtherActor, UPrimitiveComponent* OtherComp, int32 OtherBodyIndex, bool bFromSweep, const FHitResult& SweepResult)
 {
-	const FVector Start = BoxTraceStart->GetComponentLocation();
-	const FVector End = BoxTraceEnd->GetComponentLocation();
+	if (ItemState == EItemState::EIS_Hovering) return;
+	else
+	{
+		const FVector Start = BoxTraceStart->GetComponentLocation();
+		const FVector End = BoxTraceEnd->GetComponentLocation();
 
-	TArray<AActor*> ActorsToIgnore;
-	ActorsToIgnore.Add(this);
+		TArray<AActor*> ActorsToIgnore;
+		ActorsToIgnore.Add(this);
 	
-	for (AActor* Actor : IgnoreActors)
-	{
-		ActorsToIgnore.AddUnique(Actor);
-	}
-
-	FHitResult BoxHit;
-	UKismetSystemLibrary::BoxTraceSingle(
-		this,
-		Start,
-		End,
-		FVector(5.f, 5.f, 5.f),
-		BoxTraceStart->GetComponentRotation(),
-		ETraceTypeQuery::TraceTypeQuery1,
-		false,
-		ActorsToIgnore,
-		EDrawDebugTrace::None,
-		//EDrawDebugTrace::ForDuration,
-		BoxHit,
-		true
-	);
-
-	if (BoxHit.GetActor())
-	{
-		UGameplayStatics::ApplyDamage(
-			BoxHit.GetActor(),
-			Damage,
-			GetInstigator()->GetController(),
-			this,
-			UDamageType::StaticClass()
-		);
-		IHitInterface* HitInterface = Cast<IHitInterface>(BoxHit.GetActor());
-		if (HitInterface)
+		for (AActor* Actor : IgnoreActors)
 		{
-			HitInterface->Execute_GetHit(BoxHit.GetActor(), BoxHit.ImpactPoint);
+			ActorsToIgnore.AddUnique(Actor);
 		}
-		IgnoreActors.AddUnique(BoxHit.GetActor());
 
-		CreateFields(BoxHit.ImpactPoint);
+		FHitResult BoxHit;
+		UKismetSystemLibrary::BoxTraceSingle(
+			this,
+			Start,
+			End,
+			FVector(5.f, 5.f, 5.f),
+			BoxTraceStart->GetComponentRotation(),
+			ETraceTypeQuery::TraceTypeQuery1,
+			false,
+			ActorsToIgnore,
+			EDrawDebugTrace::None,
+			//EDrawDebugTrace::ForDuration,
+			BoxHit,
+			true
+		);
 
+		if (BoxHit.GetActor())
+		{
+			UGameplayStatics::ApplyDamage(
+				BoxHit.GetActor(),
+				Damage,
+				GetInstigator()->GetController(),
+				this,
+				UDamageType::StaticClass()
+			);
+			IHitInterface* HitInterface = Cast<IHitInterface>(BoxHit.GetActor());
+			if (HitInterface)
+			{
+				HitInterface->Execute_GetHit(BoxHit.GetActor(), BoxHit.ImpactPoint);
+			}
+			IgnoreActors.AddUnique(BoxHit.GetActor());
+
+			CreateFields(BoxHit.ImpactPoint);
+		}
 	}
 }
