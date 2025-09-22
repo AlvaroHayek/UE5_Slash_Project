@@ -2106,3 +2106,91 @@ Skipped package /AudioModulation/Volume was expected to be found in plugin Audio
 [2025.09.22-02.30.54:006][500]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.09.22-02.30.54:006][500]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.09.22-02.30.54:006][500]AssetCheck: /Game/Maps/Minimal_Default_2 Validating asset
+[2025.09.22-02.34.17:070][563]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2061.747314
+[2025.09.22-02.34.17:316][570]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.22-02.34.17:316][571]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2061.948486, Update Interval: 305.890686
+[2025.09.22-02.40.22:518][468]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2427.190918
+[2025.09.22-02.40.22:784][476]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.22-02.40.22:784][476]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2427.424072, Update Interval: 340.055542
+[2025.09.22-02.44.29:913][846]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Altavoces (Realtek(R) Audio), InstanceID=1
+[2025.09.22-02.44.29:927][846]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.09.22-02.44.29:931][846]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=22992
+[2025.09.22-02.44.30:197][854]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.09.22-02.44.30:200][854]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{58ea4715-9790-4598-9427-e0f8b9d39fd0}, Name=Altavoces (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=259.07
+[2025.09.22-02.44.30:200][854]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.09.22-02.44.30:203][854]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.09.22-02.44.35:435][984]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2025.09.22-05.46.02:207][984]LogShaderCompilers: Warning: Distributed compilation controller didn't receive a completed task in 10884.936336 seconds!
+[2025.09.22-05.46.03:278][985]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.09.22-05.46.03:278][985]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=22992
+[2025.09.22-05.46.04:197][987]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.09.22-05.46.04:202][987]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{58ea4715-9790-4598-9427-e0f8b9d39fd0}, Name=Altavoces (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=419.15
+[2025.09.22-05.46.04:202][987]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.09.22-05.46.04:208][987]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.09.22-15.41.35:920][137]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [35745 Seconds] waiting for h/w. InstanceID=1
+[2025.09.22-15.41.37:920][137]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 49320.593750
+[2025.09.22-15.41.39:129][138]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.09.22-15.41.39:129][138]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=22992
+[2025.09.22-15.41.41:455][139]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.09.22-15.41.41:458][139]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{58ea4715-9790-4598-9427-e0f8b9d39fd0}, Name=Altavoces (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=1219.24
+[2025.09.22-15.41.41:458][139]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.09.22-15.41.41:462][139]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.09.22-15.41.42:107][151]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.22-15.41.42:107][151]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 49324.800781, Update Interval: 322.746063
+[2025.09.22-15.44.39:068][421]Cmd: EDIT COPY
+[2025.09.22-15.44.39:657][438]Cmd: EDIT PASTE
+[2025.09.22-15.44.43:772][560]Cmd: EDIT COPY
+[2025.09.22-15.44.44:239][574]Cmd: EDIT PASTE
+[2025.09.22-15.44.50:713][767]Cmd: EDIT COPY
+[2025.09.22-15.44.51:181][781]Cmd: EDIT PASTE
+[2025.09.22-15.45.00:759][ 62]LogStreaming: Display: FlushAsyncLoading(503): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.22-15.45.10:849][318]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2025.09.22-15.45.10:850][318]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2025.09.22-15.45.18:799][556]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2025.09.22-15.45.18:799][556]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2025.09.22-15.45.22:150][656]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2025.09.22-15.45.22:150][656]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2025.09.22-15.45.25:725][763]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2025.09.22-15.45.25:726][763]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2025.09.22-15.45.42:592][264]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2025.09.22-15.45.42:592][264]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2025.09.22-15.45.45:301][345]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2025.09.22-15.45.45:301][345]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2025.09.22-15.45.47:808][420]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2025.09.22-15.45.47:809][420]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2025.09.22-15.45.54:683][625]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2025.09.22-15.45.55:750][625]LogSlate: Window 'Save Content' being destroyed
+[2025.09.22-15.45.55:758][625]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.22-15.45.55:848][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.09.22-15.45.55:883][625]LogSavePackage: Moving output files for package: /Game/Maps/Minimal_Default_2
+[2025.09.22-15.45.55:885][625]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Minimal_Default_266E7908D46604AC1CF4B12B6206F7D05.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Maps/Minimal_Default_2.umap'
+[2025.09.22-15.45.55:904][625]LogFileHelpers: Saving map 'Minimal_Default_2' took 0.112
+[2025.09.22-15.45.55:913][625]LogFileHelpers: InternalPromptForCheckoutAndSave took 155.996 ms (total: 1.46 sec)
+[2025.09.22-15.45.55:950][625]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.22-15.45.55:950][625]LogContentValidation: Enabled validators:
+[2025.09.22-15.45.55:950][625]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.22-15.45.55:950][625]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.22-15.45.55:950][625]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.22-15.45.55:950][625]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.22-15.45.55:950][625]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.22-15.45.55:950][625]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.22-15.45.55:950][625]AssetCheck: /Game/Maps/Minimal_Default_2 Validating asset
+[2025.09.22-15.47.45:184][891]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 49690.542969
+[2025.09.22-15.47.45:687][906]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.22-15.47.45:688][906]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 49691.015625, Update Interval: 311.589111
+[2025.09.22-15.53.44:208][616]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 50052.164062
+[2025.09.22-15.53.44:441][623]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.22-15.53.44:442][623]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 50052.367188, Update Interval: 322.566620
+[2025.09.22-15.57.55:987][166]LogDerivedDataCache: C:/Users/Usuario/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.005 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.09.22-15.59.40:292][294]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 50410.570312
+[2025.09.22-15.59.40:526][301]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.22-15.59.40:526][301]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 50410.769531, Update Interval: 310.173645
+[2025.09.22-16.05.42:368][117]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 50779.023438
+[2025.09.22-16.05.42:635][125]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.22-16.05.42:635][125]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 50779.261719, Update Interval: 336.391479
+[2025.09.22-16.11.52:775][196]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 51154.398438
+[2025.09.22-16.11.52:977][202]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.22-16.11.52:977][202]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 51154.566406, Update Interval: 357.368683
+[2025.09.22-16.18.47:391][589]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 51575.253906
+[2025.09.22-16.18.47:658][597]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.22-16.18.47:658][597]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 51575.484375, Update Interval: 338.493591

@@ -107,6 +107,12 @@ void AEnemy::Die()
 	SetLifeSpan(10.f);
 }
 
+bool AEnemy::InTargetRange(AActor* Target, double Radius)
+{
+	const double DistanceToTarget = (Target->GetActorLocation() - GetActorLocation()).Size();
+	return DistanceToTarget <= Radius;
+}
+
 void AEnemy::PlayHitReactMontage(const FName& SectionName)
 {
 	UAnimInstance* AnimInstance = GetMesh()->GetAnimInstance();
@@ -122,8 +128,8 @@ void AEnemy::Tick(float DeltaTime)
 	Super::Tick(DeltaTime);
 	if (CombatTarget)
 	{
-		const double DistanceToTarget = (CombatTarget->GetActorLocation() - GetActorLocation()).Size();
-		if (DistanceToTarget > CombatRadius)
+		//const double DistanceToTarget = (CombatTarget->GetActorLocation() - GetActorLocation()).Size();
+		if (!InTargetRange(CombatTarget, CombatRadius))
 		{
 			CombatTarget = nullptr;
 			if (HealthBarWidget)
@@ -132,7 +138,13 @@ void AEnemy::Tick(float DeltaTime)
 			}
 		}
 	}
+	if (PatrolTarget)
+	{
+		if (InTargetRange(PatrolTarget, PatrolRadius))
+		{
 
+		}
+	}
 }
 
 void AEnemy::SetupPlayerInputComponent(UInputComponent* PlayerInputComponent)
