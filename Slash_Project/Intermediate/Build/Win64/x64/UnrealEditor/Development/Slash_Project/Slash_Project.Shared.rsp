@@ -306,6 +306,9 @@
 /I "..\Plugins\FX\Niagara\Source\NiagaraShader\Public"
 /I "..\Plugins\FX\Niagara\Source\NiagaraShader\Internal"
 /I "..\Plugins\FX\Niagara\Source\NiagaraVertexFactories\Public"
+/I "..\Intermediate\Build\Win64\UnrealEditor\Inc\AIModule\UHT"
+/I "Runtime\AIModule\Classes"
+/I "Runtime\AIModule\Public"
 /external:W0
 /external:I "ThirdParty\GuidelinesSupportLibrary\GSL-1144\include"
 /external:I "ThirdParty\RapidJSON\1.1.0"
