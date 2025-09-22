@@ -2194,3 +2194,256 @@ Skipped package /AudioModulation/Volume was expected to be found in plugin Audio
 [2025.09.22-16.18.47:391][589]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 51575.253906
 [2025.09.22-16.18.47:658][597]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.09.22-16.18.47:658][597]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 51575.484375, Update Interval: 338.493591
+[2025.09.22-16.24.56:253][617]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 51949.332031
+[2025.09.22-16.24.56:486][624]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.22-16.24.56:486][624]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 51949.539062, Update Interval: 343.596924
+[2025.09.22-16.31.28:991][356]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 52348.679688
+[2025.09.22-16.31.29:226][363]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.22-16.31.29:226][364]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 52348.890625, Update Interval: 320.083618
+[2025.09.22-16.37.32:100][ 68]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 52717.691406
+[2025.09.22-16.37.32:334][ 75]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.22-16.37.32:334][ 75]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 52717.890625, Update Interval: 346.341736
+[2025.09.22-16.43.53:654][508]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 53103.523438
+[2025.09.22-16.43.53:888][515]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.22-16.43.53:888][515]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 53103.726562, Update Interval: 348.103271
+[2025.09.22-16.50.37:629][612]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 53511.796875
+[2025.09.22-16.50.37:896][620]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.22-16.50.37:896][621]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 53512.031250, Update Interval: 334.404724
+[2025.09.22-16.56.47:356][689]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 53884.695312
+[2025.09.22-16.56.47:589][696]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.22-16.56.47:590][696]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 53884.890625, Update Interval: 318.528992
+[2025.09.22-16.57.55:982][746]LogDerivedDataCache: C:/Users/Usuario/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.09.22-16.58.36:772][936]Candidate modules for hot reload:
+[2025.09.22-16.58.36:772][936]  Slash_Project
+[2025.09.22-16.58.36:842][936]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_5.5/Engine/Build/BatchFiles/Build.bat  -ModuleWithSuffix=Slash_Project,2035 Slash_ProjectEditor Win64 Development -Project="C:/Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Slash_Project.uproject" "C:/Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Slash_Project.uproject"  -IgnoreJunk]
+[2025.09.22-16.58.36:893][936]Warning: Starting HotReload took  0.2s.
+[2025.09.22-16.59.22:346][295]CompilerResultsLog: Using bundled DotNet SDK version: 8.0.300
+[2025.09.22-16.59.22:346][295]CompilerResultsLog: Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" -ModuleWithSuffix=Slash_Project,2035 Slash_ProjectEditor Win64 Development -Project="C:/Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Slash_Project.uproject" "C:/Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Slash_Project.uproject"  -IgnoreJunk
+[2025.09.22-16.59.22:346][295]CompilerResultsLog: Log file: C:\Users\Usuario\AppData\Local\UnrealBuildTool\Log.txt
+[2025.09.22-16.59.22:346][295]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project).
+[2025.09.22-16.59.22:346][295]CompilerResultsLog: Creating makefile for Slash_ProjectEditor (command line arguments changed)
+[2025.09.22-16.59.22:346][295]CompilerResultsLog: Warning: C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Slash_Project.uproject does not list plugin 'HairStrands' as a dependency, but module 'Slash_Project' depends on 'HairStrandsCore'.
+[2025.09.22-16.59.22:347][295]CompilerResultsLog: Building Slash_ProjectEditor...
+[2025.09.22-16.59.22:347][295]CompilerResultsLog: Using Visual Studio 2022 14.38.33145 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130) and Windows 10.0.22621.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2025.09.22-16.59.22:347][295]CompilerResultsLog: [Upgrade]
+[2025.09.22-16.59.22:347][295]CompilerResultsLog: [Upgrade] Using backward-compatible include order. The latest version of UE has changed the order of includes, which may require code changes. The current setting is:
+[2025.09.22-16.59.22:347][295]CompilerResultsLog: [Upgrade]     IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_3
+[2025.09.22-16.59.22:347][295]CompilerResultsLog: [Upgrade] Suppress this message by setting 'IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_5;' in Slash_ProjectEditor.Target.cs.
+[2025.09.22-16.59.22:347][295]CompilerResultsLog: [Upgrade] Alternatively you can set this to 'EngineIncludeOrderVersion.Latest' to always use the latest include order. This will potentially cause compile errors when integrating new versions of the engine.
+[2025.09.22-16.59.22:347][295]CompilerResultsLog: [Upgrade]
+[2025.09.22-16.59.22:347][295]CompilerResultsLog: [Adaptive Build] Excluded from Slash_Project unity file: Enemy.cpp
+[2025.09.22-16.59.22:347][295]CompilerResultsLog: Determining max actions to execute in parallel (6 physical cores, 12 logical cores)
+[2025.09.22-16.59.22:347][295]CompilerResultsLog:   Executing up to 6 processes, one per physical core
+[2025.09.22-16.59.22:347][295]CompilerResultsLog:   Requested 1.5 GB memory per action, 3.66 GB available: limiting max parallel actions to 2
+[2025.09.22-16.59.22:347][295]CompilerResultsLog: Using XGE executor to run 6 action(s)
+[2025.09.22-16.59.22:347][295]CompilerResultsLog: Distributing 6 actions to XGE
+[2025.09.22-16.59.22:348][295]CompilerResultsLog: UnrealBuildTool Compile
+[2025.09.22-16.59.22:348][295]CompilerResultsLog: 
+[2025.09.22-16.59.22:348][295]CompilerResultsLog: --------------------Build System Warning---------------------------------------
+[2025.09.22-16.59.22:348][295]CompilerResultsLog: License not activated:
+[2025.09.22-16.59.22:348][295]CompilerResultsLog:     License is not activated. Please activate the license in the coordinator.
+[2025.09.22-16.59.22:348][295]CompilerResultsLog:     This build will run in standalone mode.
+[2025.09.22-16.59.22:348][295]CompilerResultsLog: 
+[2025.09.22-16.59.22:348][295]CompilerResultsLog: -------------------------------------------------------------------------------
+[2025.09.22-16.59.22:348][295]CompilerResultsLog: 
+[2025.09.22-16.59.22:348][295]CompilerResultsLog: Build ID: {C1C9091B-A6E0-4367-887E-D9D4B49617C8}
+[2025.09.22-16.59.22:348][295]CompilerResultsLog: 
+[2025.09.22-16.59.22:348][295]CompilerResultsLog: --------------------Project: Default-------------------------------------------
+[2025.09.22-16.59.22:348][295]CompilerResultsLog: [1/6] Compile [x64] Slash_Project.init.gen.cpp (0:18.01 at +0:00)
+[2025.09.22-16.59.22:348][295]CompilerResultsLog: [2/6] Compile [x64] Enemy.gen.cpp (0:18.06 at +0:00)
+[2025.09.22-16.59.22:348][295]CompilerResultsLog: [3/6] Compile [x64] Enemy.cpp (0:26.82 at +0:00)
+[2025.09.22-16.59.22:348][295]CompilerResultsLog: Error: C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Source\Slash_Project\Private\Enemy\Enemy.cpp(170) : error C2059: syntax error: '}'
+[2025.09.22-16.59.22:349][295]CompilerResultsLog: Error: C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Source\Slash_Project\Private\Enemy\Enemy.cpp(170) : error C2143: syntax error: missing ';' before '}'
+[2025.09.22-16.59.22:349][295]CompilerResultsLog: Error: C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Source\Slash_Project\Private\Enemy\Enemy.cpp(173) : error C2143: syntax error: missing ';' before '{'
+[2025.09.22-16.59.22:349][295]CompilerResultsLog: Error: C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Source\Slash_Project\Private\Enemy\Enemy.cpp(173) : error C2447: '{': missing function header (old-style formal list?)
+[2025.09.22-16.59.22:349][295]CompilerResultsLog: 
+[2025.09.22-16.59.22:349][295]CompilerResultsLog: Error executing C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\bin\Hostx64\x64\cl.exe (tool returned code: 2)
+[2025.09.22-16.59.22:349][295]CompilerResultsLog: ---------------------- Done ----------------------
+[2025.09.22-16.59.22:349][295]CompilerResultsLog: 
+[2025.09.22-16.59.22:349][295]CompilerResultsLog:     Rebuild All: 0 succeeded, 1 failed, 0 skipped
+[2025.09.22-16.59.22:349][295]CompilerResultsLog: 
+[2025.09.22-16.59.22:349][295]CompilerResultsLog: 1 build system warning(s):
+[2025.09.22-16.59.22:349][295]CompilerResultsLog:    - License not activated
+[2025.09.22-16.59.22:349][295]CompilerResultsLog: 
+[2025.09.22-16.59.22:349][295]CompilerResultsLog: Total time in XGE executor: 31.41 seconds
+[2025.09.22-16.59.22:349][295]CompilerResultsLog: Total execution time: 43.68 seconds
+[2025.09.22-16.59.22:349][295]LogMainFrame: MainFrame: Module compiling took 45.619 seconds
+[2025.09.22-16.59.22:349][295]Warning: HotReload failed, recompile failed
+[2025.09.22-17.00.21:692][ 70]LogSlate: Window 'Message Log' being destroyed
+[2025.09.22-17.00.21:766][ 70]LogSlate: Window 'Message Log' being destroyed
+[2025.09.22-17.00.23:563][124]Candidate modules for hot reload:
+[2025.09.22-17.00.23:563][124]  Slash_Project
+[2025.09.22-17.00.23:572][124]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_5.5/Engine/Build/BatchFiles/Build.bat  -ModuleWithSuffix=Slash_Project,1412 Slash_ProjectEditor Win64 Development -Project="C:/Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Slash_Project.uproject" "C:/Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Slash_Project.uproject"  -IgnoreJunk]
+[2025.09.22-17.00.23:578][124]Warning: Starting HotReload took  0.0s.
+[2025.09.22-17.00.29:762][309]CompilerResultsLog: Using bundled DotNet SDK version: 8.0.300
+[2025.09.22-17.00.29:762][309]CompilerResultsLog: Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" -ModuleWithSuffix=Slash_Project,1412 Slash_ProjectEditor Win64 Development -Project="C:/Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Slash_Project.uproject" "C:/Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Slash_Project.uproject"  -IgnoreJunk
+[2025.09.22-17.00.29:763][309]CompilerResultsLog: Log file: C:\Users\Usuario\AppData\Local\UnrealBuildTool\Log.txt
+[2025.09.22-17.00.29:763][309]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project).
+[2025.09.22-17.00.29:763][309]CompilerResultsLog: Building Slash_ProjectEditor...
+[2025.09.22-17.00.29:763][309]CompilerResultsLog: Using Visual Studio 2022 14.38.33145 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130) and Windows 10.0.22621.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2025.09.22-17.00.29:763][309]CompilerResultsLog: [Upgrade]
+[2025.09.22-17.00.29:763][309]CompilerResultsLog: [Upgrade] Using backward-compatible include order. The latest version of UE has changed the order of includes, which may require code changes. The current setting is:
+[2025.09.22-17.00.29:763][309]CompilerResultsLog: [Upgrade]     IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_3
+[2025.09.22-17.00.29:763][309]CompilerResultsLog: [Upgrade] Suppress this message by setting 'IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_5;' in Slash_ProjectEditor.Target.cs.
+[2025.09.22-17.00.29:763][309]CompilerResultsLog: [Upgrade] Alternatively you can set this to 'EngineIncludeOrderVersion.Latest' to always use the latest include order. This will potentially cause compile errors when integrating new versions of the engine.
+[2025.09.22-17.00.29:763][309]CompilerResultsLog: [Upgrade]
+[2025.09.22-17.00.29:763][309]CompilerResultsLog: [Adaptive Build] Excluded from Slash_Project unity file: Enemy.cpp
+[2025.09.22-17.00.29:763][309]CompilerResultsLog: Determining max actions to execute in parallel (6 physical cores, 12 logical cores)
+[2025.09.22-17.00.29:763][309]CompilerResultsLog:   Executing up to 6 processes, one per physical core
+[2025.09.22-17.00.29:763][309]CompilerResultsLog:   Requested 1.5 GB memory per action, 3.98 GB available: limiting max parallel actions to 2
+[2025.09.22-17.00.29:763][309]CompilerResultsLog: Using XGE executor to run 4 action(s)
+[2025.09.22-17.00.29:763][309]CompilerResultsLog: Distributing 4 actions to XGE
+[2025.09.22-17.00.29:763][309]CompilerResultsLog: UnrealBuildTool Compile
+[2025.09.22-17.00.29:763][309]CompilerResultsLog: 
+[2025.09.22-17.00.29:763][309]CompilerResultsLog: --------------------Build System Warning---------------------------------------
+[2025.09.22-17.00.29:763][309]CompilerResultsLog: License not activated:
+[2025.09.22-17.00.29:763][310]CompilerResultsLog:     License is not activated. Please activate the license in the coordinator.
+[2025.09.22-17.00.29:763][310]CompilerResultsLog:     This build will run in standalone mode.
+[2025.09.22-17.00.29:763][310]CompilerResultsLog: 
+[2025.09.22-17.00.29:763][310]CompilerResultsLog: -------------------------------------------------------------------------------
+[2025.09.22-17.00.29:763][310]CompilerResultsLog: 
+[2025.09.22-17.00.29:763][310]CompilerResultsLog: Build ID: {37A5C752-4084-4565-ACA5-892081026FF5}
+[2025.09.22-17.00.29:763][310]CompilerResultsLog: 
+[2025.09.22-17.00.29:763][310]CompilerResultsLog: --------------------Project: Default-------------------------------------------
+[2025.09.22-17.00.29:763][310]CompilerResultsLog: [1/4] Compile [x64] Enemy.cpp (0:02.20 at +0:00)
+[2025.09.22-17.00.29:763][310]CompilerResultsLog: Error: C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Source\Slash_Project\Private\Enemy\Enemy.cpp(170) : error C2601: 'AEnemy::SetupPlayerInputComponent': local function definitions are illegal
+[2025.09.22-17.00.29:763][310]CompilerResultsLog: C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Source\Slash_Project\Private\Enemy\Enemy.cpp(129): note: this line contains a '{' which has not yet been matched
+[2025.09.22-17.00.29:763][310]CompilerResultsLog: Error: C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Source\Slash_Project\Private\Enemy\Enemy.cpp(176) : error C2601: 'AEnemy::GetHit_Implementation': local function definitions are illegal
+[2025.09.22-17.00.29:763][310]CompilerResultsLog: C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Source\Slash_Project\Private\Enemy\Enemy.cpp(129): note: this line contains a '{' which has not yet been matched
+[2025.09.22-17.00.29:763][310]CompilerResultsLog: Error: C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Source\Slash_Project\Private\Enemy\Enemy.cpp(210) : error C2601: 'AEnemy::DirectionalHitReact': local function definitions are illegal
+[2025.09.22-17.00.29:763][310]CompilerResultsLog: C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Source\Slash_Project\Private\Enemy\Enemy.cpp(129): note: this line contains a '{' which has not yet been matched
+[2025.09.22-17.00.29:763][310]CompilerResultsLog: Error: C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Source\Slash_Project\Private\Enemy\Enemy.cpp(261) : error C2601: 'AEnemy::TakeDamage': local function definitions are illegal
+[2025.09.22-17.00.29:763][310]CompilerResultsLog: C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Source\Slash_Project\Private\Enemy\Enemy.cpp(129): note: this line contains a '{' which has not yet been matched
+[2025.09.22-17.00.29:763][310]CompilerResultsLog: C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Source\Slash_Project\Private\Enemy\Enemy.cpp(129): fatal error C1075: '{': no matching token found
+[2025.09.22-17.00.29:763][310]CompilerResultsLog: 
+[2025.09.22-17.00.29:763][310]CompilerResultsLog: Error executing C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\bin\Hostx64\x64\cl.exe (tool returned code: 2)
+[2025.09.22-17.00.29:763][310]CompilerResultsLog: ---------------------- Done ----------------------
+[2025.09.22-17.00.29:763][310]CompilerResultsLog: 
+[2025.09.22-17.00.29:763][310]CompilerResultsLog:     Rebuild All: 0 succeeded, 1 failed, 0 skipped
+[2025.09.22-17.00.29:763][310]CompilerResultsLog: 
+[2025.09.22-17.00.29:763][310]CompilerResultsLog: 1 build system warning(s):
+[2025.09.22-17.00.29:763][310]CompilerResultsLog:    - License not activated
+[2025.09.22-17.00.29:763][310]CompilerResultsLog: 
+[2025.09.22-17.00.29:763][310]CompilerResultsLog: Total time in XGE executor: 4.55 seconds
+[2025.09.22-17.00.29:764][310]CompilerResultsLog: Total execution time: 5.97 seconds
+[2025.09.22-17.00.29:764][310]LogMainFrame: MainFrame: Module compiling took 6.212 seconds
+[2025.09.22-17.00.29:764][310]Warning: HotReload failed, recompile failed
+[2025.09.22-17.01.30:981][143]LogSlate: Window 'Message Log' being destroyed
+[2025.09.22-17.01.31:131][143]LogSlate: Window 'Message Log' being destroyed
+[2025.09.22-17.01.32:601][187]Candidate modules for hot reload:
+[2025.09.22-17.01.32:601][187]  Slash_Project
+[2025.09.22-17.01.32:610][187]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_5.5/Engine/Build/BatchFiles/Build.bat  -ModuleWithSuffix=Slash_Project,3667 Slash_ProjectEditor Win64 Development -Project="C:/Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Slash_Project.uproject" "C:/Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Slash_Project.uproject"  -IgnoreJunk]
+[2025.09.22-17.01.32:617][187]Warning: Starting HotReload took  0.0s.
+[2025.09.22-17.01.43:974][527]CompilerResultsLog: Using bundled DotNet SDK version: 8.0.300
+[2025.09.22-17.01.43:974][527]CompilerResultsLog: Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" -ModuleWithSuffix=Slash_Project,3667 Slash_ProjectEditor Win64 Development -Project="C:/Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Slash_Project.uproject" "C:/Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Slash_Project.uproject"  -IgnoreJunk
+[2025.09.22-17.01.43:974][527]CompilerResultsLog: Log file: C:\Users\Usuario\AppData\Local\UnrealBuildTool\Log.txt
+[2025.09.22-17.01.43:974][527]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project).
+[2025.09.22-17.01.43:974][527]CompilerResultsLog: Building Slash_ProjectEditor...
+[2025.09.22-17.01.43:974][527]CompilerResultsLog: Using Visual Studio 2022 14.38.33145 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130) and Windows 10.0.22621.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2025.09.22-17.01.43:974][527]CompilerResultsLog: [Upgrade]
+[2025.09.22-17.01.43:974][527]CompilerResultsLog: [Upgrade] Using backward-compatible include order. The latest version of UE has changed the order of includes, which may require code changes. The current setting is:
+[2025.09.22-17.01.43:974][527]CompilerResultsLog: [Upgrade]     IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_3
+[2025.09.22-17.01.43:974][527]CompilerResultsLog: [Upgrade] Suppress this message by setting 'IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_5;' in Slash_ProjectEditor.Target.cs.
+[2025.09.22-17.01.43:974][527]CompilerResultsLog: [Upgrade] Alternatively you can set this to 'EngineIncludeOrderVersion.Latest' to always use the latest include order. This will potentially cause compile errors when integrating new versions of the engine.
+[2025.09.22-17.01.43:974][527]CompilerResultsLog: [Upgrade]
+[2025.09.22-17.01.43:974][527]CompilerResultsLog: [Adaptive Build] Excluded from Slash_Project unity file: Enemy.cpp
+[2025.09.22-17.01.43:974][527]CompilerResultsLog: Determining max actions to execute in parallel (6 physical cores, 12 logical cores)
+[2025.09.22-17.01.43:974][527]CompilerResultsLog:   Executing up to 6 processes, one per physical core
+[2025.09.22-17.01.43:974][527]CompilerResultsLog:   Requested 1.5 GB memory per action, 4.14 GB available: limiting max parallel actions to 2
+[2025.09.22-17.01.43:974][527]CompilerResultsLog: Using XGE executor to run 4 action(s)
+[2025.09.22-17.01.43:974][527]CompilerResultsLog: Distributing 4 actions to XGE
+[2025.09.22-17.01.43:974][527]CompilerResultsLog: UnrealBuildTool Compile
+[2025.09.22-17.01.43:974][527]CompilerResultsLog: 
+[2025.09.22-17.01.43:974][527]CompilerResultsLog: --------------------Build System Warning---------------------------------------
+[2025.09.22-17.01.43:974][527]CompilerResultsLog: License not activated:
+[2025.09.22-17.01.43:974][527]CompilerResultsLog:     License is not activated. Please activate the license in the coordinator.
+[2025.09.22-17.01.43:975][527]CompilerResultsLog:     This build will run in standalone mode.
+[2025.09.22-17.01.43:975][527]CompilerResultsLog: 
+[2025.09.22-17.01.43:975][527]CompilerResultsLog: -------------------------------------------------------------------------------
+[2025.09.22-17.01.43:975][527]CompilerResultsLog: 
+[2025.09.22-17.01.43:975][527]CompilerResultsLog: Build ID: {3C2A4BE2-DD70-412D-A86D-717BC48976A1}
+[2025.09.22-17.01.43:975][527]CompilerResultsLog: 
+[2025.09.22-17.01.43:975][527]CompilerResultsLog: --------------------Project: Default-------------------------------------------
+[2025.09.22-17.01.43:975][527]CompilerResultsLog: [1/4] Compile [x64] Enemy.cpp (0:05.43 at +0:00)
+[2025.09.22-17.01.43:975][527]CompilerResultsLog: [2/4] Link [x64] UnrealEditor-Slash_Project-3667.lib (0:00.17 at +0:05)
+[2025.09.22-17.01.43:975][527]CompilerResultsLog:    Creating library C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Intermediate\Build\Win64\x64\UnrealEditor\Development\Slash_Project\UnrealEditor-Slash_Project-3667.lib and object C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Intermediate\Build\Win64\x64\UnrealEditor\Development\Slash_Project\UnrealEditor-Slash_Project-3667.exp
+[2025.09.22-17.01.43:975][527]CompilerResultsLog: [3/4] Link [x64] UnrealEditor-Slash_Project-3667.dll (0:01.35 at +0:05)
+[2025.09.22-17.01.43:975][527]CompilerResultsLog:    Creating object C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Binaries\Win64\UnrealEditor-Slash_Project-3667.exp
+[2025.09.22-17.01.43:975][527]CompilerResultsLog: [4/4] WriteMetadata Slash_ProjectEditor.target (0:00.46 at +0:06)
+[2025.09.22-17.01.43:975][527]CompilerResultsLog: ---------------------- Done ----------------------
+[2025.09.22-17.01.43:975][527]CompilerResultsLog: 
+[2025.09.22-17.01.43:975][527]CompilerResultsLog:     Rebuild All: 1 succeeded, 0 failed, 0 skipped
+[2025.09.22-17.01.43:975][527]CompilerResultsLog: 
+[2025.09.22-17.01.43:975][527]CompilerResultsLog: 1 build system warning(s):
+[2025.09.22-17.01.43:975][527]CompilerResultsLog:    - License not activated
+[2025.09.22-17.01.43:975][527]CompilerResultsLog: 
+[2025.09.22-17.01.43:975][527]CompilerResultsLog: Total time in XGE executor: 9.69 seconds
+[2025.09.22-17.01.43:975][527]CompilerResultsLog: Total execution time: 11.17 seconds
+[2025.09.22-17.01.43:975][527]LogMainFrame: MainFrame: Module compiling took 11.386 seconds
+[2025.09.22-17.01.44:103][527]LogUObjectHash: Compacting FUObjectHashTables data took   6.93ms
+[2025.09.22-17.01.44:368][527]LogClass: UPackage /Script/Slash_Project Reload.
+[2025.09.22-17.01.44:369][527]LogClass: UClass Enemy Reload.
+[2025.09.22-17.01.44:380][527]LogClass: Could not find existing class Enemy in package /Script/Slash_Project for reload, assuming new or modified class
+[2025.09.22-17.01.44:491][527]Re-instancing Enemy after reload.
+[2025.09.22-17.01.45:295][527]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2025.09.22-17.01.45:325][527]LogBlueprint: Warning: Blueprint /Game/AncientContent/Blueprints/Abilities/GameplayAbilityUtils is missing GeneratedClass asset tag
+[2025.09.22-17.01.45:370][527]Display: HotReload took 12.8s.
+[2025.09.22-17.01.45:371][527]Display: Reload/Re-instancing Complete: 1 package changed, 1 class changed, 11 classes unchanged, 3 enums unchanged, 11 functions remapped
+[2025.09.22-17.03.04:315][851]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 54264.570312
+[2025.09.22-17.03.04:584][859]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.22-17.03.04:584][859]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 54264.808594, Update Interval: 320.607330
+[2025.09.22-17.09.16:978][984]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 54643.199219
+[2025.09.22-17.09.17:245][992]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.22-17.09.17:245][992]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 54643.437500, Update Interval: 345.314484
+[2025.09.22-17.10.39:630][450]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.22-17.10.39:668][450]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.22-17.10.39:668][450]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Minimal_Default_2
+[2025.09.22-17.10.39:686][450]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017421s)
+[2025.09.22-17.10.39:686][450]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Minimal_Default_2.Minimal_Default_2 to /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 (0.017527s)
+[2025.09.22-17.10.39:840][450]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2025.09.22-17.10.39:843][450]LogChaosDD: Creating Chaos Debug Draw Scene for world Minimal_Default_2
+[2025.09.22-17.10.39:851][450]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2'.
+[2025.09.22-17.10.39:853][450]LogPlayLevel: PIE: World Init took: (0.010138s)
+[2025.09.22-17.10.39:859][450]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2025.09.22-17.10.39:859][450]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.22-17.10.39:859][450]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.22-17.10.39:859][450]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.22-17.10.39:859][450]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.22-17.10.39:859][450]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.22-17.10.39:859][450]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.22-17.10.39:859][450]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.22-17.10.39:859][450]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.22-17.10.39:859][450]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.22-17.10.39:859][450]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.22-17.10.39:859][450]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.22-17.10.39:861][450]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.22-17.10.39:876][450]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.09.22-17.10.39:877][450]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.22-17.10.39:877][450]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.22-17.10.39:877][450]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.22-17.10.39:878][450]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2025.09.22-17.10.39:878][450]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2025.09.22-17.10.39:880][450]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2025.09.22-17.10.39:880][450]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2025.09.22-17.10.39:880][450]LogInit: FAudioDevice initialized with ID 3.
+[2025.09.22-17.10.39:880][450]LogAudio: Display: Audio Device (ID: 3) registered with world 'Minimal_Default_2'.
+[2025.09.22-17.10.39:881][450]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2025.09.22-17.10.39:893][450]LogLoad: Game class is 'BP_GameMode_C'
+[2025.09.22-17.10.39:914][450]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Echo'
+[2025.09.22-17.10.39:922][450]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 up for play (max tick rate 60) at 2025.09.22-19.10.39
+[2025.09.22-17.10.39:924][450]LogWorld: Bringing up level for play took: 0.030802
+[2025.09.22-17.10.39:962][450]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2025.09.22-17.10.39:969][450]PIE: Server logged in
+[2025.09.22-17.10.39:970][450]PIE: Play in editor total start time 0.33 seconds.
+[2025.09.22-17.12.20:074][447]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.22-17.12.20:074][447]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Minimal_Default_2
+[2025.09.22-17.12.20:075][447]LogWorld: UWorld::CleanupWorld for Minimal_Default_2, bSessionEnded=true, bCleanupResources=true
+[2025.09.22-17.12.20:078][447]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.22-17.12.20:086][447]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.22-17.12.20:093][447]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.22-17.12.20:113][447]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.22-17.12.20:113][447]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2025.09.22-17.12.20:113][447]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.09.22-17.12.20:115][447]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.09.22-17.12.20:132][447]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2025.09.22-17.12.20:400][450]LogPlayLevel: Display: Destroying online subsystem :Context_13
