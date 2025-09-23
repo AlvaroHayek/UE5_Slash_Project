@@ -4,12 +4,13 @@
 
 #include "CoreMinimal.h"
 #include "GameFramework/Character.h"
+#include "Interfaces/HitInterface.h"
 #include "BaseCharacter.generated.h"
 
 class AWeapon;
 
 UCLASS()
-class SLASH_PROJECT_API ABaseCharacter : public ACharacter
+class SLASH_PROJECT_API ABaseCharacter : public ACharacter, public IHitInterface
 {
 	GENERATED_BODY()
 
@@ -23,11 +24,13 @@ public:
 protected:
 	virtual void BeginPlay() override;
 	virtual void Attack();
+	virtual void Die();
 	/**
 	*  Play montage functions
 	*/
 	virtual void PlayAttackMontage();
-
+	void PlayHitReactMontage(const FName& SectionName);
+	void DirectionalHitReact(const FVector& ImpactPoint);
 	virtual bool CanAttack();
 
 	UFUNCTION(BlueprintCallable)
@@ -41,5 +44,8 @@ protected:
 	*/
 	UPROPERTY(EditDefaultsOnly, Category = Montages)
 	UAnimMontage* AttackMontage;
+
+	UPROPERTY(EditDefaultsOnly, Category = Montages)
+	UAnimMontage* HitReactMontage;
 
 };

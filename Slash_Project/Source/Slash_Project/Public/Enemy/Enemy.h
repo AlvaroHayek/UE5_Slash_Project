@@ -4,7 +4,6 @@
 
 #include "CoreMinimal.h"
 #include "Characters/BaseCharacter.h"
-#include "Interfaces/HitInterface.h"
 #include "Characters/CharacterTypes.h"
 #include "Enemy.generated.h"
 
@@ -15,7 +14,7 @@ class UHealthBarComponent;
 class UPawnSensingComponent;
 
 UCLASS()
-class SLASH_PROJECT_API AEnemy : public ABaseCharacter, public IHitInterface
+class SLASH_PROJECT_API AEnemy : public ABaseCharacter
 {
 	GENERATED_BODY()
 
@@ -26,7 +25,7 @@ public:
 	void CheckCombatTarget();
 	virtual void SetupPlayerInputComponent(class UInputComponent* PlayerInputComponent) override;
 	virtual void GetHit_Implementation(const FVector& ImpactPoint) override;
-	void DirectionalHitReact(const FVector& ImpactPoint);
+	
 	virtual float TakeDamage(float DamageAmount, struct FDamageEvent const& DamageEvent, class AController* EventInstigator, AActor* DamageCauser) override;
 
 private:
@@ -45,8 +44,7 @@ private:
 	/**
 	* Animation montages
 	*/
-	UPROPERTY(EditDefaultsOnly, Category = Montages)
-	UAnimMontage* HitReactMontage;
+	
 
 	UPROPERTY(EditDefaultsOnly, Category = Montages)
 	UAnimMontage* DeathMontage;
@@ -94,7 +92,7 @@ private:
 
 protected:
 	virtual void BeginPlay() override;
-	void Die();
+	virtual void Die() override;
 	bool InTargetRange(AActor* Target, double Radius);
 	void MoveToTarget(AActor* Target);
 	AActor* ChoosePatrolTarget();
@@ -102,10 +100,7 @@ protected:
 	UFUNCTION()
 	void PawnSeen(APawn* SeenPawn);
 
-	/**
-	* Play montage functions
-	*/
-	void PlayHitReactMontage(const FName& SectionName);
+	
 
 	UPROPERTY(BlueprintReadOnly)
 	EDeathPose DeathPose = EDeathPose::EDP_Alive;
