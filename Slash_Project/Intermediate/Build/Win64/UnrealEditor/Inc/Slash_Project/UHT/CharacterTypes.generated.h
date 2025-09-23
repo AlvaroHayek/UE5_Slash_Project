@@ -50,4 +50,13 @@ enum class EDeathPose : uint8;
 template<> struct TIsUEnumClass<EDeathPose> { enum { Value = true }; };
 template<> SLASH_PROJECT_API UEnum* StaticEnum<EDeathPose>();
 
+#define FOREACH_ENUM_EENEMYSTATE(op) \
+	op(EEnemyState::EES_Patrolling) \
+	op(EEnemyState::EES_Chasing) \
+	op(EEnemyState::EES_Attacking) 
+
+enum class EEnemyState : uint8;
+template<> struct TIsUEnumClass<EEnemyState> { enum { Value = true }; };
+template<> SLASH_PROJECT_API UEnum* StaticEnum<EEnemyState>();
+
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

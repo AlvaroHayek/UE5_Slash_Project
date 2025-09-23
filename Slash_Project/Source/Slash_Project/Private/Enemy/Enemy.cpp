@@ -63,6 +63,7 @@ void AEnemy::BeginPlay()
 	{
 		PawnSensing->OnSeePawn.AddDynamic(this, &AEnemy::PawnSeen);
 	}
+
 }
 
 void AEnemy::Die()
@@ -153,7 +154,21 @@ AActor* AEnemy::ChoosePatrolTarget()
 
 void AEnemy::PawnSeen(APawn* SeenPawn)
 {
-	UE_LOG(LogTemp, Warning, TEXT("Pawn Seen!"));
+	if (EnemyState == EEnemyState::EES_Chasing) return;
+	if (SeenPawn->ActorHasTag(FName("SlashCharacter")))
+	{
+		//if (GEngine)
+		//{
+		//	FString EnumAsString = UEnum::GetValueAsString(DeathPose);
+		//	GEngine->AddOnScreenDebugMessage(1, 5.f, FColor::Green, FString::Printf(TEXT("State: %s"), *EnumAsString));
+		//}
+		EnemyState = EEnemyState::EES_Chasing;
+		GetWorldTimerManager().ClearTimer(PatrolTimer);
+		GetCharacterMovement()->MaxWalkSpeed = 300.f;
+		CombatTarget = SeenPawn;
+		MoveToTarget(CombatTarget);
+		UE_LOG(LogTemp, Warning, TEXT("Seen Pawn, now Chasing"));
+	}
 }
 
 void AEnemy::PlayHitReactMontage(const FName& SectionName)
@@ -171,9 +186,14 @@ void AEnemy::Tick(float DeltaTime)
 	Super::Tick(DeltaTime);
 
 		//const double DistanceToTarget = (CombatTarget->GetActorLocation() - GetActorLocation()).Size();
-	CheckCombatTarget();
-
-	CheckPatrolTarget();
+	if (EnemyState > EEnemyState::EES_Patrolling)
+	{
+		CheckCombatTarget();
+	}
+	else
+	{
+		CheckPatrolTarget();
+	}
 	/*
 	if (PatrolTarget && EnemyController)
 	{

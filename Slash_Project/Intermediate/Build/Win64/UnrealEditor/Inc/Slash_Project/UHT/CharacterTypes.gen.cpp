@@ -13,6 +13,7 @@ void EmptyLinkFunctionForGeneratedCodeCharacterTypes() {}
 SLASH_PROJECT_API UEnum* Z_Construct_UEnum_Slash_Project_EActionState();
 SLASH_PROJECT_API UEnum* Z_Construct_UEnum_Slash_Project_ECharacterState();
 SLASH_PROJECT_API UEnum* Z_Construct_UEnum_Slash_Project_EDeathPose();
+SLASH_PROJECT_API UEnum* Z_Construct_UEnum_Slash_Project_EEnemyState();
 UPackage* Z_Construct_UPackage__Script_Slash_Project();
 // End Cross Module References
 
@@ -199,6 +200,63 @@ UEnum* Z_Construct_UEnum_Slash_Project_EDeathPose()
 }
 // End Enum EDeathPose
 
+// Begin Enum EEnemyState
+static FEnumRegistrationInfo Z_Registration_Info_UEnum_EEnemyState;
+static UEnum* EEnemyState_StaticEnum()
+{
+	if (!Z_Registration_Info_UEnum_EEnemyState.OuterSingleton)
+	{
+		Z_Registration_Info_UEnum_EEnemyState.OuterSingleton = GetStaticEnum(Z_Construct_UEnum_Slash_Project_EEnemyState, (UObject*)Z_Construct_UPackage__Script_Slash_Project(), TEXT("EEnemyState"));
+	}
+	return Z_Registration_Info_UEnum_EEnemyState.OuterSingleton;
+}
+template<> SLASH_PROJECT_API UEnum* StaticEnum<EEnemyState>()
+{
+	return EEnemyState_StaticEnum();
+}
+struct Z_Construct_UEnum_Slash_Project_EEnemyState_Statics
+{
+#if WITH_METADATA
+	static constexpr UECodeGen_Private::FMetaDataPairParam Enum_MetaDataParams[] = {
+		{ "BlueprintType", "true" },
+		{ "EES_Attacking.DisplayName", "Attacking" },
+		{ "EES_Attacking.Name", "EEnemyState::EES_Attacking" },
+		{ "EES_Chasing.DisplayName", "Chasing" },
+		{ "EES_Chasing.Name", "EEnemyState::EES_Chasing" },
+		{ "EES_Patrolling.DisplayName", "Patrolling" },
+		{ "EES_Patrolling.Name", "EEnemyState::EES_Patrolling" },
+		{ "ModuleRelativePath", "Public/Characters/CharacterTypes.h" },
+	};
+#endif // WITH_METADATA
+	static constexpr UECodeGen_Private::FEnumeratorParam Enumerators[] = {
+		{ "EEnemyState::EES_Patrolling", (int64)EEnemyState::EES_Patrolling },
+		{ "EEnemyState::EES_Chasing", (int64)EEnemyState::EES_Chasing },
+		{ "EEnemyState::EES_Attacking", (int64)EEnemyState::EES_Attacking },
+	};
+	static const UECodeGen_Private::FEnumParams EnumParams;
+};
+const UECodeGen_Private::FEnumParams Z_Construct_UEnum_Slash_Project_EEnemyState_Statics::EnumParams = {
+	(UObject*(*)())Z_Construct_UPackage__Script_Slash_Project,
+	nullptr,
+	"EEnemyState",
+	"EEnemyState",
+	Z_Construct_UEnum_Slash_Project_EEnemyState_Statics::Enumerators,
+	RF_Public|RF_Transient|RF_MarkAsNative,
+	UE_ARRAY_COUNT(Z_Construct_UEnum_Slash_Project_EEnemyState_Statics::Enumerators),
+	EEnumFlags::None,
+	(uint8)UEnum::ECppForm::EnumClass,
+	METADATA_PARAMS(UE_ARRAY_COUNT(Z_Construct_UEnum_Slash_Project_EEnemyState_Statics::Enum_MetaDataParams), Z_Construct_UEnum_Slash_Project_EEnemyState_Statics::Enum_MetaDataParams)
+};
+UEnum* Z_Construct_UEnum_Slash_Project_EEnemyState()
+{
+	if (!Z_Registration_Info_UEnum_EEnemyState.InnerSingleton)
+	{
+		UECodeGen_Private::ConstructUEnum(Z_Registration_Info_UEnum_EEnemyState.InnerSingleton, Z_Construct_UEnum_Slash_Project_EEnemyState_Statics::EnumParams);
+	}
+	return Z_Registration_Info_UEnum_EEnemyState.InnerSingleton;
+}
+// End Enum EEnemyState
+
 // Begin Registration
 struct Z_CompiledInDeferFile_FID_Users_Usuario_Desktop_UnrealEngineUnity_UE5_Slash_Project_Slash_Project_Source_Slash_Project_Public_Characters_CharacterTypes_h_Statics
 {
@@ -206,9 +264,10 @@ struct Z_CompiledInDeferFile_FID_Users_Usuario_Desktop_UnrealEngineUnity_UE5_Sla
 		{ ECharacterState_StaticEnum, TEXT("ECharacterState"), &Z_Registration_Info_UEnum_ECharacterState, CONSTRUCT_RELOAD_VERSION_INFO(FEnumReloadVersionInfo, 1933495170U) },
 		{ EActionState_StaticEnum, TEXT("EActionState"), &Z_Registration_Info_UEnum_EActionState, CONSTRUCT_RELOAD_VERSION_INFO(FEnumReloadVersionInfo, 4035014085U) },
 		{ EDeathPose_StaticEnum, TEXT("EDeathPose"), &Z_Registration_Info_UEnum_EDeathPose, CONSTRUCT_RELOAD_VERSION_INFO(FEnumReloadVersionInfo, 2972978323U) },
+		{ EEnemyState_StaticEnum, TEXT("EEnemyState"), &Z_Registration_Info_UEnum_EEnemyState, CONSTRUCT_RELOAD_VERSION_INFO(FEnumReloadVersionInfo, 412873758U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_Usuario_Desktop_UnrealEngineUnity_UE5_Slash_Project_Slash_Project_Source_Slash_Project_Public_Characters_CharacterTypes_h_3521186821(TEXT("/Script/Slash_Project"),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_Usuario_Desktop_UnrealEngineUnity_UE5_Slash_Project_Slash_Project_Source_Slash_Project_Public_Characters_CharacterTypes_h_552068182(TEXT("/Script/Slash_Project"),
 	nullptr, 0,
 	nullptr, 0,
 	Z_CompiledInDeferFile_FID_Users_Usuario_Desktop_UnrealEngineUnity_UE5_Slash_Project_Slash_Project_Source_Slash_Project_Public_Characters_CharacterTypes_h_Statics::EnumInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_Usuario_Desktop_UnrealEngineUnity_UE5_Slash_Project_Slash_Project_Source_Slash_Project_Public_Characters_CharacterTypes_h_Statics::EnumInfo));
