@@ -162,12 +162,18 @@ void AEnemy::PawnSeen(APawn* SeenPawn)
 		//	FString EnumAsString = UEnum::GetValueAsString(DeathPose);
 		//	GEngine->AddOnScreenDebugMessage(1, 5.f, FColor::Green, FString::Printf(TEXT("State: %s"), *EnumAsString));
 		//}
-		EnemyState = EEnemyState::EES_Chasing;
 		GetWorldTimerManager().ClearTimer(PatrolTimer);
 		GetCharacterMovement()->MaxWalkSpeed = 300.f;
 		CombatTarget = SeenPawn;
-		MoveToTarget(CombatTarget);
-		//UE_LOG(LogTemp, Warning, TEXT("Seen Pawn, now Chasing"));
+		if (EnemyState != EEnemyState::EES_Attacking)
+		{
+			EnemyState = EEnemyState::EES_Chasing;
+			MoveToTarget(CombatTarget);
+			UE_LOG(LogTemp, Warning, TEXT("Seen Pawn, now Chasing"));
+		}
+		
+		
+		
 	}
 }
 
@@ -247,6 +253,22 @@ void AEnemy::CheckCombatTarget()
 		EnemyState = EEnemyState::EES_Patrolling;
 		GetCharacterMovement()->MaxWalkSpeed = 125.f;
 		MoveToTarget(PatrolTarget);
+		UE_LOG(LogTemp, Warning, TEXT("Lose Interest"));
+	}
+	else if (!InTargetRange(CombatTarget, AttackRadius) && EnemyState != EEnemyState::EES_Chasing)
+	{
+		// Outside attack range, chase character
+		EnemyState = EEnemyState::EES_Chasing;
+		GetCharacterMovement()->MaxWalkSpeed = 300.f;
+		MoveToTarget(CombatTarget);
+		UE_LOG(LogTemp, Warning, TEXT("Chase Player"));
+	}
+	else if (InTargetRange(CombatTarget, AttackRadius) && EnemyState != EEnemyState::EES_Attacking)
+	{
+		// Inside attack range, attack character
+		EnemyState = EEnemyState::EES_Attacking;
+		//To do: Attack montage
+		UE_LOG(LogTemp, Warning, TEXT("Attack"));
 	}
 }
 
