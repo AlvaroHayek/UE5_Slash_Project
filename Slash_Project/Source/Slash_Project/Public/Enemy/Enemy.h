@@ -3,7 +3,7 @@
 #pragma once
 
 #include "CoreMinimal.h"
-#include "GameFramework/Character.h"
+#include "Characters/BaseCharacter.h"
 #include "Interfaces/HitInterface.h"
 #include "Characters/CharacterTypes.h"
 #include "Enemy.generated.h"
@@ -15,7 +15,7 @@ class UHealthBarComponent;
 class UPawnSensingComponent;
 
 UCLASS()
-class SLASH_PROJECT_API AEnemy : public ACharacter, public IHitInterface
+class SLASH_PROJECT_API AEnemy : public ABaseCharacter, public IHitInterface
 {
 	GENERATED_BODY()
 

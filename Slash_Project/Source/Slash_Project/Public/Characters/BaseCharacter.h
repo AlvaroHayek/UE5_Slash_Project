@@ -6,6 +6,8 @@
 #include "GameFramework/Character.h"
 #include "BaseCharacter.generated.h"
 
+class AWeapon;
+
 UCLASS()
 class SLASH_PROJECT_API ABaseCharacter : public ACharacter
 {
@@ -13,12 +15,31 @@ class SLASH_PROJECT_API ABaseCharacter : public ACharacter
 
 public:
 	ABaseCharacter();
+	virtual void Tick(float DeltaTime) override;
+
+	UFUNCTION(BlueprintCallable)
+	void SetWeaponCollisionEnabled(ECollisionEnabled::Type CollisionEnabled);
 
 protected:
 	virtual void BeginPlay() override;
+	virtual void Attack();
+	/**
+	*  Play montage functions
+	*/
+	virtual void PlayAttackMontage();
 
-public:	
-	virtual void Tick(float DeltaTime) override;
-	virtual void SetupPlayerInputComponent(class UInputComponent* PlayerInputComponent) override;
+	virtual bool CanAttack();
+
+	UFUNCTION(BlueprintCallable)
+	virtual void AttackEnd();
+
+	UPROPERTY(VisibleAnywhere, Category = Weapon)
+	AWeapon* EquippedWeapon;
+
+	/*
+	*  Animation montages
+	*/
+	UPROPERTY(EditDefaultsOnly, Category = Montages)
+	UAnimMontage* AttackMontage;
 
 };

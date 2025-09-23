@@ -17,9 +17,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #define FID_Users_Usuario_Desktop_UnrealEngineUnity_UE5_Slash_Project_Slash_Project_Source_Slash_Project_Public_Characters_SlashCharacter_h_22_RPC_WRAPPERS_NO_PURE_DECLS \
 	DECLARE_FUNCTION(execFinishEquipping); \
 	DECLARE_FUNCTION(execArm); \
-	DECLARE_FUNCTION(execDisarm); \
-	DECLARE_FUNCTION(execAttackEnd); \
-	DECLARE_FUNCTION(execSetWeaponCollisionEnabled);
+	DECLARE_FUNCTION(execDisarm);
 
 
 #define FID_Users_Usuario_Desktop_UnrealEngineUnity_UE5_Slash_Project_Slash_Project_Source_Slash_Project_Public_Characters_SlashCharacter_h_22_INCLASS_NO_PURE_DECLS \
@@ -27,7 +25,7 @@ private: \
 	static void StaticRegisterNativesASlashCharacter(); \
 	friend struct Z_Construct_UClass_ASlashCharacter_Statics; \
 public: \
-	DECLARE_CLASS(ASlashCharacter, ACharacter, COMPILED_IN_FLAGS(0 | CLASS_Config), CASTCLASS_None, TEXT("/Script/Slash_Project"), NO_API) \
+	DECLARE_CLASS(ASlashCharacter, ABaseCharacter, COMPILED_IN_FLAGS(0 | CLASS_Config), CASTCLASS_None, TEXT("/Script/Slash_Project"), NO_API) \
 	DECLARE_SERIALIZER(ASlashCharacter)
 
 

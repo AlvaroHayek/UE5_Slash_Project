@@ -2,6 +2,8 @@
 
 
 #include "Characters/BaseCharacter.h"
+#include "Components/BoxComponent.h"
+#include "Items/Weapons/Weapon.h"
 
 ABaseCharacter::ABaseCharacter()
 {
@@ -15,15 +17,36 @@ void ABaseCharacter::BeginPlay()
 	
 }
 
+void ABaseCharacter::Attack()
+{
+
+}
+
+void ABaseCharacter::PlayAttackMontage()
+{
+
+}
+
+bool ABaseCharacter::CanAttack()
+{
+
+}
+void ABaseCharacter::AttackEnd()
+{
+
+}
 void ABaseCharacter::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
 
 }
 
-void ABaseCharacter::SetupPlayerInputComponent(UInputComponent* PlayerInputComponent)
+void ABaseCharacter::SetWeaponCollisionEnabled(ECollisionEnabled::Type CollisionEnabled)
 {
-	Super::SetupPlayerInputComponent(PlayerInputComponent);
-
+	if (EquippedWeapon && EquippedWeapon->GetWeaponBox())
+	{
+		EquippedWeapon->GetWeaponBox()->SetCollisionEnabled(CollisionEnabled);
+		EquippedWeapon->IgnoreActors.Empty();
+	}
 }
 
