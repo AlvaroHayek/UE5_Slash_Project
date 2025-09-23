@@ -9388,3 +9388,129 @@ Skipped package /AudioModulation/Volume was expected to be found in plugin Audio
 [2025.09.23-01.17.42:583][704]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 711.048279
 [2025.09.23-01.17.42:851][712]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.09.23-01.17.42:851][712]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 711.282959, Update Interval: 341.395905
+[2025.09.23-01.23.31:083][116]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1059.548096
+[2025.09.23-01.23.31:318][123]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.23-01.23.31:318][124]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1059.749634, Update Interval: 304.905548
+[2025.09.23-01.27.19:602][939]Candidate modules for hot reload:
+[2025.09.23-01.27.19:602][939]  Slash_Project
+[2025.09.23-01.27.19:612][939]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_5.5/Engine/Build/BatchFiles/Build.bat  -ModuleWithSuffix=Slash_Project,4612 Slash_ProjectEditor Win64 Development -Project="C:/Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Slash_Project.uproject" "C:/Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Slash_Project.uproject"  -IgnoreJunk]
+[2025.09.23-01.27.19:676][939]Warning: Starting HotReload took  0.1s.
+[2025.09.23-01.27.53:786][958]CompilerResultsLog: Using bundled DotNet SDK version: 8.0.300
+[2025.09.23-01.27.53:786][958]CompilerResultsLog: Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" -ModuleWithSuffix=Slash_Project,4612 Slash_ProjectEditor Win64 Development -Project="C:/Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Slash_Project.uproject" "C:/Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Slash_Project.uproject"  -IgnoreJunk
+[2025.09.23-01.27.53:786][958]CompilerResultsLog: Log file: C:\Users\Usuario\AppData\Local\UnrealBuildTool\Log.txt
+[2025.09.23-01.27.53:786][958]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project).
+[2025.09.23-01.27.53:786][958]CompilerResultsLog: Building Slash_ProjectEditor...
+[2025.09.23-01.27.53:786][958]CompilerResultsLog: Using Visual Studio 2022 14.38.33145 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130) and Windows 10.0.22621.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2025.09.23-01.27.53:786][958]CompilerResultsLog: [Upgrade]
+[2025.09.23-01.27.53:786][958]CompilerResultsLog: [Upgrade] Using backward-compatible include order. The latest version of UE has changed the order of includes, which may require code changes. The current setting is:
+[2025.09.23-01.27.53:786][958]CompilerResultsLog: [Upgrade]     IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_3
+[2025.09.23-01.27.53:786][958]CompilerResultsLog: [Upgrade] Suppress this message by setting 'IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_5;' in Slash_ProjectEditor.Target.cs.
+[2025.09.23-01.27.53:786][958]CompilerResultsLog: [Upgrade] Alternatively you can set this to 'EngineIncludeOrderVersion.Latest' to always use the latest include order. This will potentially cause compile errors when integrating new versions of the engine.
+[2025.09.23-01.27.53:786][958]CompilerResultsLog: [Upgrade]
+[2025.09.23-01.27.53:786][958]CompilerResultsLog: [Adaptive Build] Excluded from Slash_Project unity file: SlashCharacter.cpp, Enemy.cpp
+[2025.09.23-01.27.53:786][958]CompilerResultsLog: Determining max actions to execute in parallel (6 physical cores, 12 logical cores)
+[2025.09.23-01.27.53:786][958]CompilerResultsLog:   Executing up to 6 processes, one per physical core
+[2025.09.23-01.27.53:786][958]CompilerResultsLog:   Requested 1.5 GB memory per action, 4.77 GB available: limiting max parallel actions to 3
+[2025.09.23-01.27.53:787][958]CompilerResultsLog: Using XGE executor to run 4 action(s)
+[2025.09.23-01.27.53:787][958]CompilerResultsLog: Distributing 4 actions to XGE
+[2025.09.23-01.27.53:787][958]CompilerResultsLog: UnrealBuildTool Compile
+[2025.09.23-01.27.53:787][958]CompilerResultsLog: 
+[2025.09.23-01.27.53:787][958]CompilerResultsLog: --------------------Build System Warning---------------------------------------
+[2025.09.23-01.27.53:787][958]CompilerResultsLog: License not activated:
+[2025.09.23-01.27.53:787][958]CompilerResultsLog:     License is not activated. Please activate the license in the coordinator.
+[2025.09.23-01.27.53:787][958]CompilerResultsLog:     This build will run in standalone mode.
+[2025.09.23-01.27.53:787][958]CompilerResultsLog: 
+[2025.09.23-01.27.53:787][958]CompilerResultsLog: -------------------------------------------------------------------------------
+[2025.09.23-01.27.53:787][958]CompilerResultsLog: 
+[2025.09.23-01.27.53:787][958]CompilerResultsLog: Build ID: {F3C38578-64AE-4159-A330-E85771E3E405}
+[2025.09.23-01.27.53:787][958]CompilerResultsLog: 
+[2025.09.23-01.27.53:787][958]CompilerResultsLog: --------------------Project: Default-------------------------------------------
+[2025.09.23-01.27.53:787][958]CompilerResultsLog: [1/4] Compile [x64] Enemy.cpp (0:27.21 at +0:00)
+[2025.09.23-01.27.53:787][958]CompilerResultsLog: C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Source\Slash_Project\Private\Enemy\Enemy.cpp(39): warning C4996: 'UPawnSensingComponent': Pawn sensing is deprecated. AI Perception should be used instead. Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+[2025.09.23-01.27.53:787][958]CompilerResultsLog: C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Source\Slash_Project\Private\Enemy\Enemy.cpp(40): warning C4996: 'UPawnSensingComponent::SightRadius': Pawn sensing is deprecated. AI Perception should be used instead. Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+[2025.09.23-01.27.53:787][958]CompilerResultsLog: C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Source\Slash_Project\Private\Enemy\Enemy.cpp(41): warning C4996: 'UPawnSensingComponent::SetPeripheralVisionAngle': Pawn sensing is deprecated. AI Perception should be used instead. Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+[2025.09.23-01.27.53:787][958]CompilerResultsLog: C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Source\Slash_Project\Private\Enemy\Enemy.cpp(64): warning C4996: 'UPawnSensingComponent::OnSeePawn': Pawn sensing is deprecated. AI Perception should be used instead. Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+[2025.09.23-01.27.53:787][958]CompilerResultsLog: [2/4] Link [x64] UnrealEditor-Slash_Project-4612.lib (0:00.34 at +0:27)
+[2025.09.23-01.27.53:787][958]CompilerResultsLog: C:\Program Files\Epic Games\UE_5.5\Engine\Source\Runtime\CoreUObject\Public\UObject\Object.h(150): warning C4996: 'UPawnSensingComponent': Pawn sensing is deprecated. AI Perception should be used instead. Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+[2025.09.23-01.27.53:787][958]CompilerResultsLog: C:\Program Files\Epic Games\UE_5.5\Engine\Source\Runtime\CoreUObject\Public\UObject\Object.h(150): note: the template instantiation context (the oldest one first) is
+[2025.09.23-01.27.53:787][958]CompilerResultsLog: C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Source\Slash_Project\Private\Enemy\Enemy.cpp(39): note: see reference to function template instantiation 'TReturnType *UObject::CreateDefaultSubobject<UPawnSensingComponent>(FName,bool)' being compiled
+[2025.09.23-01.27.53:787][958]CompilerResultsLog:         with
+[2025.09.23-01.27.53:787][958]CompilerResultsLog:         [
+[2025.09.23-01.27.53:787][958]CompilerResultsLog:             TReturnType=UPawnSensingComponent
+[2025.09.23-01.27.53:787][958]CompilerResultsLog:         ]
+[2025.09.23-01.27.53:787][958]CompilerResultsLog: [3/4] Link [x64] UnrealEditor-Slash_Project-4612.dll (0:01.31 at +0:27)
+[2025.09.23-01.27.53:787][958]CompilerResultsLog: [4/4] WriteMetadata Slash_ProjectEditor.target (0:00.40 at +0:28)
+[2025.09.23-01.27.53:787][958]CompilerResultsLog: C:\Program Files\Epic Games\UE_5.5\Engine\Source\Runtime\CoreUObject\Public\UObject\Object.h(150): warning C4996: 'UPawnSensingComponent::StaticClass': Pawn sensing is deprecated. AI Perception should be used instead. Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+[2025.09.23-01.27.53:787][958]CompilerResultsLog:    Creating library C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Intermediate\Build\Win64\x64\UnrealEditor\Development\Slash_Project\UnrealEditor-Slash_Project-4612.lib and object C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Intermediate\Build\Win64\x64\UnrealEditor\Development\Slash_Project\UnrealEditor-Slash_Project-4612.exp
+[2025.09.23-01.27.53:787][958]CompilerResultsLog:    Creating object C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Binaries\Win64\UnrealEditor-Slash_Project-4612.exp
+[2025.09.23-01.27.53:787][958]CompilerResultsLog: ---------------------- Done ----------------------
+[2025.09.23-01.27.53:787][958]CompilerResultsLog: 
+[2025.09.23-01.27.53:787][958]CompilerResultsLog:     Rebuild All: 1 succeeded, 0 failed, 0 skipped
+[2025.09.23-01.27.53:787][958]CompilerResultsLog: 
+[2025.09.23-01.27.53:787][958]CompilerResultsLog: 1 build system warning(s):
+[2025.09.23-01.27.53:787][958]CompilerResultsLog:    - License not activated
+[2025.09.23-01.27.53:788][958]CompilerResultsLog: 
+[2025.09.23-01.27.53:788][958]CompilerResultsLog: Total time in XGE executor: 31.86 seconds
+[2025.09.23-01.27.53:788][958]CompilerResultsLog: Total execution time: 33.82 seconds
+[2025.09.23-01.27.53:788][958]LogMainFrame: MainFrame: Module compiling took 34.199 seconds
+[2025.09.23-01.27.53:814][958]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2025.09.23-01.27.54:153][958]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2025.09.23-01.27.54:158][958]LogBlueprint: Warning: Blueprint /Game/AncientContent/Blueprints/Abilities/GameplayAbilityUtils is missing GeneratedClass asset tag
+[2025.09.23-01.27.54:176][958]Display: HotReload took 34.6s.
+[2025.09.23-01.27.54:176][958]Display: Reload/Re-instancing Complete: 1 package changed, 12 classes unchanged, 4 enums unchanged, 12 functions remapped
+[2025.09.23-01.28.47:191][526]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1375.657837
+[2025.09.23-01.28.47:452][534]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.23-01.28.47:452][535]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1375.885254, Update Interval: 345.113068
+[2025.09.23-01.30.25:489][462]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.23-01.30.25:501][462]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.23-01.30.25:501][462]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Minimal_Default_2
+[2025.09.23-01.30.25:510][462]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008793s)
+[2025.09.23-01.30.25:510][462]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Minimal_Default_2.Minimal_Default_2 to /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 (0.008836s)
+[2025.09.23-01.30.25:603][462]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2025.09.23-01.30.25:607][462]LogChaosDD: Creating Chaos Debug Draw Scene for world Minimal_Default_2
+[2025.09.23-01.30.25:608][462]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2'.
+[2025.09.23-01.30.25:609][462]LogPlayLevel: PIE: World Init took: (0.002304s)
+[2025.09.23-01.30.25:610][462]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2025.09.23-01.30.25:610][462]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.23-01.30.25:610][462]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.23-01.30.25:610][462]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.23-01.30.25:610][462]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.23-01.30.25:610][462]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.23-01.30.25:610][462]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.23-01.30.25:610][462]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.23-01.30.25:610][462]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.23-01.30.25:610][462]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.23-01.30.25:610][462]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.23-01.30.25:610][462]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.23-01.30.25:614][462]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.23-01.30.25:633][462]LogAudioMixer: Display: Using Audio Hardware Device Auriculares (Vieta Pro Calm 2 Stereo)
+[2025.09.23-01.30.25:633][462]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.23-01.30.25:634][462]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.23-01.30.25:634][462]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.23-01.30.25:634][462]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2025.09.23-01.30.25:634][462]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2025.09.23-01.30.25:637][462]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2025.09.23-01.30.25:637][462]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2025.09.23-01.30.25:637][462]LogInit: FAudioDevice initialized with ID 7.
+[2025.09.23-01.30.25:637][462]LogAudio: Display: Audio Device (ID: 7) registered with world 'Minimal_Default_2'.
+[2025.09.23-01.30.25:637][462]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2025.09.23-01.30.25:640][462]LogLoad: Game class is 'BP_GameMode_C'
+[2025.09.23-01.30.25:650][462]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Echo'
+[2025.09.23-01.30.25:654][462]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 up for play (max tick rate 0) at 2025.09.23-03.30.25
+[2025.09.23-01.30.25:655][462]LogWorld: Bringing up level for play took: 0.014568
+[2025.09.23-01.30.25:688][462]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2025.09.23-01.30.25:692][462]PIE: Server logged in
+[2025.09.23-01.30.25:693][462]PIE: Play in editor total start time 0.196 seconds.
+[2025.09.23-01.30.56:740][391]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.23-01.30.56:740][391]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Minimal_Default_2
+[2025.09.23-01.30.56:740][391]LogWorld: UWorld::CleanupWorld for Minimal_Default_2, bSessionEnded=true, bCleanupResources=true
+[2025.09.23-01.30.56:742][391]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.23-01.30.56:746][391]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.23-01.30.56:756][391]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.23-01.30.56:780][391]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.09.23-01.30.56:795][391]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2025.09.23-01.30.56:795][391]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2025.09.23-01.30.56:797][391]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2025.09.23-01.30.56:803][391]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.23-01.30.56:828][391]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2025.09.23-01.30.56:931][394]LogPlayLevel: Display: Destroying online subsystem :Context_16
