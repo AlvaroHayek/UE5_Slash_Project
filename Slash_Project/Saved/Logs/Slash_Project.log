@@ -1585,3 +1585,653 @@ Skipped package /AudioModulation/Volume was expected to be found in plugin Audio
 [2025.09.24-00.16.29:161][134]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 363.724854
 [2025.09.24-00.16.29:394][141]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.09.24-00.16.29:394][141]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 363.925232, Update Interval: 301.897034
+[2025.09.24-00.18.02:443][906]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.24-00.18.02:443][906]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Enemy/BP_Enemy] ([2] browsable assets)...
+[2025.09.24-00.18.02:513][906]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Enemy/BP_Enemy.BP_Enemy]
+[2025.09.24-00.18.02:513][906]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemy/BP_Enemy]
+[2025.09.24-00.18.02:531][906]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemy/BP_Enemy
+[2025.09.24-00.18.02:532][906]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/BP_EnemyF67AB7B84A7425FAE7A0C0B168F46A31.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Enemy/BP_Enemy.uasset'
+[2025.09.24-00.18.02:534][906]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Enemy/ABP_Vampire] ([2] browsable assets)...
+[2025.09.24-00.18.02:547][906]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Blueprints/Enemy/ABP_Vampire.ABP_Vampire]
+[2025.09.24-00.18.02:547][906]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemy/ABP_Vampire]
+[2025.09.24-00.18.02:577][906]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemy/ABP_Vampire
+[2025.09.24-00.18.02:578][906]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/ABP_Vampire975AAD854C7D68F66ED2AD9B68015181.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Enemy/ABP_Vampire.uasset'
+[2025.09.24-00.18.02:581][906]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enemy/Vampire/Animations/AM_Death] ([1] browsable assets)...
+[2025.09.24-00.18.02:581][906]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemy/Vampire/Animations/AM_Death]
+[2025.09.24-00.18.02:583][906]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemy/Vampire/Animations/AM_Death
+[2025.09.24-00.18.02:583][906]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/AM_DeathABFC11D5440E4DA821B3FCB9FA858AA2.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Enemy/Vampire/Animations/AM_Death.uasset'
+[2025.09.24-00.18.02:586][906]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enemy/Vampire/Animations/AM_HitReact] ([1] browsable assets)...
+[2025.09.24-00.18.02:586][906]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemy/Vampire/Animations/AM_HitReact]
+[2025.09.24-00.18.02:588][906]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemy/Vampire/Animations/AM_HitReact
+[2025.09.24-00.18.02:588][906]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/AM_HitReact73FE55C74DC183FD4BB23294ADD358DB.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Enemy/Vampire/Animations/AM_HitReact.uasset'
+[2025.09.24-00.18.02:590][906]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enemy/Vampire/Animations/Vampire_IdleWalkRun] ([1] browsable assets)...
+[2025.09.24-00.18.02:591][906]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemy/Vampire/Animations/Vampire_IdleWalkRun]
+[2025.09.24-00.18.02:595][906]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemy/Vampire/Animations/Vampire_IdleWalkRun
+[2025.09.24-00.18.02:595][906]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Vampire_IdleWalkRunEC3C63574A9B77A6585869BA1328ABF7.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Enemy/Vampire/Animations/Vampire_IdleWalkRun.uasset'
+[2025.09.24-00.18.02:597][906]LogFileHelpers: InternalPromptForCheckoutAndSave took 154.666 ms (total: 417.528 ms)
+[2025.09.24-00.18.02:692][906]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.09.24-00.18.02:716][906]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2025.09.24-00.18.02:738][906]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.09.24-00.18.02:790][906]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.09.24-00.18.02:790][906]LogContentValidation: Display: Starting to validate 5 assets
+[2025.09.24-00.18.02:790][906]LogContentValidation: Enabled validators:
+[2025.09.24-00.18.02:790][906]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.24-00.18.02:791][906]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.24-00.18.02:791][906]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.24-00.18.02:791][906]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.24-00.18.02:791][906]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.24-00.18.02:791][906]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.24-00.18.02:791][906]AssetCheck: /Game/Blueprints/Enemy/BP_Enemy Validating asset
+[2025.09.24-00.18.02:791][906]AssetCheck: /Game/Blueprints/Enemy/ABP_Vampire Validating asset
+[2025.09.24-00.18.02:791][906]AssetCheck: /Game/Blueprints/Enemy/Vampire/Animations/AM_Death Validating asset
+[2025.09.24-00.18.02:791][906]AssetCheck: /Game/Blueprints/Enemy/Vampire/Animations/AM_HitReact Validating asset
+[2025.09.24-00.18.02:791][906]AssetCheck: /Game/Blueprints/Enemy/Vampire/Animations/Vampire_IdleWalkRun Validating asset
+[2025.09.24-00.18.05:308][981]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_10
+[2025.09.24-00.18.05:308][981]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_10'.
+[2025.09.24-00.18.12:426][181]LogMetaData: Removing '/Game/Blueprints/Enemy/Vampire/ABP_Vampire.ABP_Vampire:AnimGraph.AnimGraphNode_Root_0' ref from Metadata '/Game/Blueprints/Enemy/ABP_Vampire.PackageMetaData'
+[2025.09.24-00.18.12:426][181]LogMetaData: Removing '/Game/Blueprints/Enemy/Vampire/ABP_Vampire.ABP_Vampire_C' ref from Metadata '/Game/Blueprints/Enemy/ABP_Vampire.PackageMetaData'
+[2025.09.24-00.18.12:426][181]LogMetaData: Removing '/Game/Blueprints/Enemy/Vampire/ABP_Vampire.ABP_Vampire:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/Enemy/ABP_Vampire.PackageMetaData'
+[2025.09.24-00.18.12:426][181]LogMetaData: Removing '/Game/Blueprints/Enemy/Vampire/ABP_Vampire.ABP_Vampire:EventGraph.K2Node_CallFunction_0' ref from Metadata '/Game/Blueprints/Enemy/ABP_Vampire.PackageMetaData'
+[2025.09.24-00.18.12:426][181]LogMetaData: Removing '/Game/Blueprints/Enemy/Vampire/ABP_Vampire.ABP_Vampire:AnimGraph.AnimGraphNode_StateMachine_0.Main States.AnimStateEntryNode_0' ref from Metadata '/Game/Blueprints/Enemy/ABP_Vampire.PackageMetaData'
+[2025.09.24-00.18.12:426][181]LogMetaData: Removing '/Game/Blueprints/Enemy/Vampire/ABP_Vampire.ABP_Vampire:AnimGraph.AnimGraphNode_StateMachine_0.Main States.AnimStateNode_0.IdleWalkRun.AnimGraphNode_StateResult_0' ref from Metadata '/Game/Blueprints/Enemy/ABP_Vampire.PackageMetaData'
+[2025.09.24-00.18.12:426][181]LogMetaData: Removing '/Game/Blueprints/Enemy/Vampire/ABP_Vampire.ABP_Vampire:BlueprintThreadSafeUpdateAnimation.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Enemy/ABP_Vampire.PackageMetaData'
+[2025.09.24-00.18.12:426][181]LogMetaData: Removing '/Game/Blueprints/Enemy/Vampire/ABP_Vampire.ABP_Vampire:AnimGraph.AnimGraphNode_StateMachine_0.Main States.AnimStateNode_1.Dead.AnimGraphNode_StateResult_0' ref from Metadata '/Game/Blueprints/Enemy/ABP_Vampire.PackageMetaData'
+[2025.09.24-00.18.12:426][181]LogMetaData: Removing '/Game/Blueprints/Enemy/Vampire/ABP_Vampire.ABP_Vampire:AnimGraph.AnimGraphNode_StateMachine_0.Main States.AnimStateTransitionNode_0.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Blueprints/Enemy/ABP_Vampire.PackageMetaData'
+[2025.09.24-00.18.12:426][181]LogMetaData: Removing '/Game/Blueprints/Enemy/Vampire/ABP_Vampire.SKEL_ABP_Vampire_C:BlueprintUpdateAnimation' ref from Metadata '/Game/Blueprints/Enemy/ABP_Vampire.PackageMetaData'
+[2025.09.24-00.18.12:426][181]LogMetaData: Removing '/Game/Blueprints/Enemy/Vampire/ABP_Vampire.SKEL_ABP_Vampire_C:BlueprintInitializeAnimation' ref from Metadata '/Game/Blueprints/Enemy/ABP_Vampire.PackageMetaData'
+[2025.09.24-00.18.12:426][181]LogMetaData: Removing '/Game/Blueprints/Enemy/Vampire/ABP_Vampire.SKEL_ABP_Vampire_C:BlueprintThreadSafeUpdateAnimation' ref from Metadata '/Game/Blueprints/Enemy/ABP_Vampire.PackageMetaData'
+[2025.09.24-00.18.12:427][181]LogMetaData: Removing '/Game/Blueprints/Enemy/Vampire/ABP_Vampire.SKEL_ABP_Vampire_C:AnimGraph' ref from Metadata '/Game/Blueprints/Enemy/ABP_Vampire.PackageMetaData'
+[2025.09.24-00.18.12:427][181]LogMetaData: Removing '/Game/Blueprints/Enemy/Vampire/ABP_Vampire.SKEL_ABP_Vampire_C' ref from Metadata '/Game/Blueprints/Enemy/ABP_Vampire.PackageMetaData'
+[2025.09.24-00.18.12:427][181]LogMetaData: Removing '/Game/Blueprints/Enemy/Vampire/ABP_Vampire.ABP_Vampire_C:BlueprintInitializeAnimation' ref from Metadata '/Game/Blueprints/Enemy/ABP_Vampire.PackageMetaData'
+[2025.09.24-00.18.12:427][181]LogMetaData: Removing '/Game/Blueprints/Enemy/Vampire/ABP_Vampire.ABP_Vampire_C:BlueprintUpdateAnimation' ref from Metadata '/Game/Blueprints/Enemy/ABP_Vampire.PackageMetaData'
+[2025.09.24-00.18.12:427][181]LogMetaData: Removing '/Game/Blueprints/Enemy/Vampire/ABP_Vampire.ABP_Vampire_C:BlueprintThreadSafeUpdateAnimation' ref from Metadata '/Game/Blueprints/Enemy/ABP_Vampire.PackageMetaData'
+[2025.09.24-00.18.12:427][181]LogMetaData: Removing '/Game/Blueprints/Enemy/Vampire/ABP_Vampire.ABP_Vampire_C:AnimGraph' ref from Metadata '/Game/Blueprints/Enemy/ABP_Vampire.PackageMetaData'
+[2025.09.24-00.18.12:461][181]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.24-00.18.12:461][181]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Enemy/BP_Enemy] ([2] browsable assets)...
+[2025.09.24-00.18.12:524][181]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Enemy/BP_Enemy.BP_Enemy]
+[2025.09.24-00.18.12:524][181]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemy/BP_Enemy]
+[2025.09.24-00.18.12:538][181]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemy/BP_Enemy
+[2025.09.24-00.18.12:539][181]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/BP_EnemyEF94829F45B7B5293E88B6BD83C46B6F.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Enemy/BP_Enemy.uasset'
+[2025.09.24-00.18.12:541][181]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Enemy/Vampire/ABP_Vampire] ([2] browsable assets)...
+[2025.09.24-00.18.12:541][181]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemy/Vampire/ABP_Vampire]
+[2025.09.24-00.18.12:569][181]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemy/Vampire/ABP_Vampire
+[2025.09.24-00.18.12:569][181]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/ABP_Vampire3DE22261406CE2DBD04C8DBCF28B8701.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Enemy/Vampire/ABP_Vampire.uasset'
+[2025.09.24-00.18.12:575][181]LogFileHelpers: InternalPromptForCheckoutAndSave took 114.458 ms (total: 531.987 ms)
+[2025.09.24-00.18.12:622][181]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2025.09.24-00.18.12:647][181]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.09.24-00.18.12:670][181]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.09.24-00.18.12:694][181]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.09.24-00.18.12:694][181]LogContentValidation: Display: Starting to validate 2 assets
+[2025.09.24-00.18.12:694][181]LogContentValidation: Enabled validators:
+[2025.09.24-00.18.12:694][181]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.24-00.18.12:694][181]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.24-00.18.12:694][181]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.24-00.18.12:694][181]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.24-00.18.12:694][181]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.24-00.18.12:694][181]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.24-00.18.12:694][181]AssetCheck: /Game/Blueprints/Enemy/BP_Enemy Validating asset
+[2025.09.24-00.18.12:694][181]AssetCheck: /Game/Blueprints/Enemy/Vampire/ABP_Vampire Validating asset
+[2025.09.24-00.18.14:568][234]LogContentBrowser: Deferred new asset file creation: BP_Enemy_Child
+[2025.09.24-00.18.14:577][234]LogContentBrowser: Creating deferred item: BP_Enemy_Child
+[2025.09.24-00.18.14:602][235]LogContentBrowser: Renaming the item being created (Deferred Item: BP_Enemy_Child).
+[2025.09.24-00.18.24:343][527]LogContentBrowser: Attempting asset rename: BP_Enemy_Child -> BP_Enemy_Child
+[2025.09.24-00.18.24:355][527]LogContentBrowser: End creating deferred item BP_Enemy_Child
+[2025.09.24-00.18.24:357][527]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_11
+[2025.09.24-00.18.24:357][527]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_11'.
+[2025.09.24-00.18.28:328][637]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Enemy/BP_Enemy_Child.BP_Enemy_Child
+[2025.09.24-00.18.28:328][637]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_12
+[2025.09.24-00.18.28:329][637]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_12'.
+[2025.09.24-00.18.29:182][642]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_13
+[2025.09.24-00.18.29:183][642]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_13'.
+[2025.09.24-00.18.31:595][714]LogSlate: Window 'BP_Enemy_Child' being destroyed
+[2025.09.24-00.18.31:603][714]LogSlate: Window 'BP_Enemy_Child' being destroyed
+[2025.09.24-00.18.31:608][714]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2025.09.24-00.18.31:608][714]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.24-00.18.31:701][714]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2025.09.24-00.18.39:184][939]LogContentBrowser: Attempting asset rename: BP_Enemy_Child -> BP_Vampire
+[2025.09.24-00.18.39:256][939]LogMetaData: Removing '/Game/Blueprints/Enemy/BP_Vampire.BP_Vampire:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Enemy/BP_Enemy_Child.PackageMetaData'
+[2025.09.24-00.18.39:256][939]LogMetaData: Removing '/Game/Blueprints/Enemy/BP_Vampire.SKEL_BP_Vampire_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/Enemy/BP_Enemy_Child.PackageMetaData'
+[2025.09.24-00.18.39:256][939]LogMetaData: Removing '/Game/Blueprints/Enemy/BP_Vampire.SKEL_BP_Vampire_C' ref from Metadata '/Game/Blueprints/Enemy/BP_Enemy_Child.PackageMetaData'
+[2025.09.24-00.18.39:256][939]LogMetaData: Removing '/Game/Blueprints/Enemy/BP_Vampire.BP_Vampire_C' ref from Metadata '/Game/Blueprints/Enemy/BP_Enemy_Child.PackageMetaData'
+[2025.09.24-00.18.39:256][939]LogMetaData: Removing '/Game/Blueprints/Enemy/BP_Vampire.BP_Vampire:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/Enemy/BP_Enemy_Child.PackageMetaData'
+[2025.09.24-00.18.39:256][939]LogMetaData: Removing '/Game/Blueprints/Enemy/BP_Vampire.BP_Vampire:EventGraph.K2Node_CallParentFunction_0' ref from Metadata '/Game/Blueprints/Enemy/BP_Enemy_Child.PackageMetaData'
+[2025.09.24-00.18.39:256][939]LogMetaData: Removing '/Game/Blueprints/Enemy/BP_Vampire.BP_Vampire:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/Enemy/BP_Enemy_Child.PackageMetaData'
+[2025.09.24-00.18.39:256][939]LogMetaData: Removing '/Game/Blueprints/Enemy/BP_Vampire.BP_Vampire:EventGraph.K2Node_CallParentFunction_1' ref from Metadata '/Game/Blueprints/Enemy/BP_Enemy_Child.PackageMetaData'
+[2025.09.24-00.18.39:256][939]LogMetaData: Removing '/Game/Blueprints/Enemy/BP_Vampire.BP_Vampire:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/Enemy/BP_Enemy_Child.PackageMetaData'
+[2025.09.24-00.18.39:256][939]LogMetaData: Removing '/Game/Blueprints/Enemy/BP_Vampire.BP_Vampire:EventGraph.K2Node_CallParentFunction_2' ref from Metadata '/Game/Blueprints/Enemy/BP_Enemy_Child.PackageMetaData'
+[2025.09.24-00.18.39:288][939]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.24-00.18.39:288][939]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Enemy/BP_Vampire] ([2] browsable assets)...
+[2025.09.24-00.18.39:289][939]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_14
+[2025.09.24-00.18.39:289][939]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_14'.
+[2025.09.24-00.18.39:366][939]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/Blueprints/Enemy/BP_Vampire.BP_Vampire_C]
+[2025.09.24-00.18.39:366][939]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_15
+[2025.09.24-00.18.39:366][939]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_15'.
+[2025.09.24-00.18.39:388][939]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Enemy/BP_Vampire.BP_Vampire]
+[2025.09.24-00.18.39:388][939]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemy/BP_Vampire]
+[2025.09.24-00.18.39:394][939]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemy/BP_Vampire
+[2025.09.24-00.18.39:394][939]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/BP_Vampire50E55A0649D76F3FCE2F9EAE631B43BC.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Enemy/BP_Vampire.uasset'
+[2025.09.24-00.18.39:397][939]LogFileHelpers: InternalPromptForCheckoutAndSave took 109.134 ms (total: 641.121 ms)
+[2025.09.24-00.18.39:433][939]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2025.09.24-00.18.39:457][939]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2025.09.24-00.18.39:481][939]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.09.24-00.18.39:521][939]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.24-00.18.39:521][939]LogContentValidation: Enabled validators:
+[2025.09.24-00.18.39:521][939]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.24-00.18.39:521][939]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.24-00.18.39:521][939]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.24-00.18.39:521][939]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.24-00.18.39:521][939]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.24-00.18.39:521][939]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.24-00.18.39:521][939]AssetCheck: /Game/Blueprints/Enemy/BP_Vampire Validating asset
+[2025.09.24-00.18.42:248][ 12]LogMetaData: Removing '/Game/Blueprints/Enemy/Vampire/BP_Vampire.BP_Vampire_C' ref from Metadata '/Game/Blueprints/Enemy/BP_Vampire.PackageMetaData'
+[2025.09.24-00.18.42:249][ 12]LogMetaData: Removing '/Game/Blueprints/Enemy/Vampire/BP_Vampire.SKEL_BP_Vampire_C' ref from Metadata '/Game/Blueprints/Enemy/BP_Vampire.PackageMetaData'
+[2025.09.24-00.18.42:249][ 12]LogMetaData: Removing '/Game/Blueprints/Enemy/Vampire/BP_Vampire.SKEL_BP_Vampire_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/Enemy/BP_Vampire.PackageMetaData'
+[2025.09.24-00.18.42:249][ 12]LogMetaData: Removing '/Game/Blueprints/Enemy/Vampire/BP_Vampire.BP_Vampire:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Enemy/BP_Vampire.PackageMetaData'
+[2025.09.24-00.18.42:249][ 12]LogMetaData: Removing '/Game/Blueprints/Enemy/Vampire/BP_Vampire.BP_Vampire:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/Enemy/BP_Vampire.PackageMetaData'
+[2025.09.24-00.18.42:249][ 12]LogMetaData: Removing '/Game/Blueprints/Enemy/Vampire/BP_Vampire.BP_Vampire:EventGraph.K2Node_CallParentFunction_0' ref from Metadata '/Game/Blueprints/Enemy/BP_Vampire.PackageMetaData'
+[2025.09.24-00.18.42:249][ 12]LogMetaData: Removing '/Game/Blueprints/Enemy/Vampire/BP_Vampire.BP_Vampire:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/Enemy/BP_Vampire.PackageMetaData'
+[2025.09.24-00.18.42:249][ 12]LogMetaData: Removing '/Game/Blueprints/Enemy/Vampire/BP_Vampire.BP_Vampire:EventGraph.K2Node_CallParentFunction_1' ref from Metadata '/Game/Blueprints/Enemy/BP_Vampire.PackageMetaData'
+[2025.09.24-00.18.42:249][ 12]LogMetaData: Removing '/Game/Blueprints/Enemy/Vampire/BP_Vampire.BP_Vampire:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/Enemy/BP_Vampire.PackageMetaData'
+[2025.09.24-00.18.42:249][ 12]LogMetaData: Removing '/Game/Blueprints/Enemy/Vampire/BP_Vampire.BP_Vampire:EventGraph.K2Node_CallParentFunction_2' ref from Metadata '/Game/Blueprints/Enemy/BP_Vampire.PackageMetaData'
+[2025.09.24-00.18.42:326][ 12]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.24-00.18.42:326][ 12]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Enemy/Vampire/BP_Vampire] ([2] browsable assets)...
+[2025.09.24-00.18.42:387][ 12]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/Blueprints/Enemy/Vampire/BP_Vampire.BP_Vampire_C]
+[2025.09.24-00.18.42:387][ 12]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemy/Vampire/BP_Vampire]
+[2025.09.24-00.18.42:393][ 12]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemy/Vampire/BP_Vampire
+[2025.09.24-00.18.42:393][ 12]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/BP_Vampire2977C6FE4F897B49F309DBA66BB8DD2F.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Enemy/Vampire/BP_Vampire.uasset'
+[2025.09.24-00.18.42:396][ 12]LogFileHelpers: InternalPromptForCheckoutAndSave took 69.816 ms (total: 710.937 ms)
+[2025.09.24-00.18.42:444][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.09.24-00.18.42:467][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2025.09.24-00.18.42:487][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.09.24-00.18.42:509][ 12]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.09.24-00.18.42:509][ 12]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.24-00.18.42:509][ 12]LogContentValidation: Enabled validators:
+[2025.09.24-00.18.42:509][ 12]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.24-00.18.42:509][ 12]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.24-00.18.42:509][ 12]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.24-00.18.42:509][ 12]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.24-00.18.42:509][ 12]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.24-00.18.42:509][ 12]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.24-00.18.42:509][ 12]AssetCheck: /Game/Blueprints/Enemy/Vampire/BP_Vampire Validating asset
+[2025.09.24-00.19.14:554][946]Cmd: DELETE
+[2025.09.24-00.19.14:554][946]Cmd: ACTOR DELETE
+[2025.09.24-00.19.14:570][946]LogEditorActor: Deleted Actor: BP_Enemy_C
+[2025.09.24-00.19.14:598][946]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2025.09.24-00.19.14:600][946]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2025.09.24-00.19.15:311][963]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_16
+[2025.09.24-00.19.15:311][963]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_16'.
+[2025.09.24-00.19.16:670][997]Cmd: DELETE
+[2025.09.24-00.19.16:670][997]Cmd: ACTOR DELETE
+[2025.09.24-00.19.16:676][997]LogEditorActor: Deleted Actor: BP_Enemy_C
+[2025.09.24-00.19.16:701][997]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2025.09.24-00.19.16:704][997]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2025.09.24-00.19.19:424][ 74]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Enemy/Vampire/BP_Vampire.BP_Vampire_C
+[2025.09.24-00.19.19:425][ 74]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Enemy/Vampire/BP_Vampire.BP_Vampire_C
+[2025.09.24-00.19.19:431][ 74]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Enemy/Vampire/BP_Vampire.BP_Vampire as actor: BP_Vampire_C /Game/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.BP_Vampire_C_0
+[2025.09.24-00.19.19:433][ 74]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Enemy/Vampire/BP_Vampire.BP_Vampire as actor: BP_Vampire_C /Game/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.BP_Vampire_C_0
+[2025.09.24-00.19.20:717][112]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.09.24-00.19.20:719][112]LogEditorActor: Deleted 0 Actors (0.026 secs)
+[2025.09.24-00.19.20:725][112]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Enemy/Vampire/BP_Vampire.BP_Vampire_C
+[2025.09.24-00.19.20:725][112]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Enemy/Vampire/BP_Vampire.BP_Vampire_C
+[2025.09.24-00.19.20:730][112]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Enemy/Vampire/BP_Vampire.BP_Vampire as actor: BP_Vampire_C /Game/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.BP_Vampire_C_1
+[2025.09.24-00.19.20:733][112]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Enemy/Vampire/BP_Vampire.BP_Vampire as actor: BP_Vampire_C /Game/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.BP_Vampire_C_1
+[2025.09.24-00.19.23:390][182]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Enemy/Vampire/BP_Vampire.BP_Vampire_C
+[2025.09.24-00.19.23:390][182]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Enemy/Vampire/BP_Vampire.BP_Vampire_C
+[2025.09.24-00.19.23:392][182]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Enemy/Vampire/BP_Vampire.BP_Vampire as actor: BP_Vampire_C /Game/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.BP_Vampire_C_2
+[2025.09.24-00.19.23:393][182]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Enemy/Vampire/BP_Vampire.BP_Vampire as actor: BP_Vampire_C /Game/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.BP_Vampire_C_2
+[2025.09.24-00.19.24:511][215]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.09.24-00.19.24:512][215]LogEditorActor: Deleted 0 Actors (0.023 secs)
+[2025.09.24-00.19.24:518][215]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Enemy/Vampire/BP_Vampire.BP_Vampire_C
+[2025.09.24-00.19.24:518][215]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Enemy/Vampire/BP_Vampire.BP_Vampire_C
+[2025.09.24-00.19.24:525][215]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Enemy/Vampire/BP_Vampire.BP_Vampire as actor: BP_Vampire_C /Game/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.BP_Vampire_C_3
+[2025.09.24-00.19.24:526][215]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Enemy/Vampire/BP_Vampire.BP_Vampire as actor: BP_Vampire_C /Game/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.BP_Vampire_C_3
+[2025.09.24-00.19.27:335][293]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.24-00.19.27:350][293]LogPlayLevel: [PlayLevel] Compiling ABP_Vampire before play...
+[2025.09.24-00.19.27:350][293]LogPlayLevel: [PlayLevel]   Compiling BP_Enemy as a dependent...
+[2025.09.24-00.19.27:568][293]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2025.09.24-00.19.27:570][293]LogPlayLevel: PlayLevel: Blueprint regeneration took 222 ms (2 blueprints)
+[2025.09.24-00.19.27:570][293]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Minimal_Default_2
+[2025.09.24-00.19.27:580][293]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009057s)
+[2025.09.24-00.19.27:580][293]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Minimal_Default_2.Minimal_Default_2 to /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 (0.009094s)
+[2025.09.24-00.19.27:602][293]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2025.09.24-00.19.27:603][293]LogChaosDD: Creating Chaos Debug Draw Scene for world Minimal_Default_2
+[2025.09.24-00.19.27:604][293]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2'.
+[2025.09.24-00.19.27:605][293]LogPlayLevel: PIE: World Init took: (0.001754s)
+[2025.09.24-00.19.27:606][293]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2025.09.24-00.19.27:606][293]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.24-00.19.27:606][293]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.24-00.19.27:606][293]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.24-00.19.27:606][293]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.24-00.19.27:606][293]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.24-00.19.27:606][293]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.24-00.19.27:606][293]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.24-00.19.27:606][293]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.24-00.19.27:606][293]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.24-00.19.27:606][293]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.24-00.19.27:606][293]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.24-00.19.27:608][293]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.24-00.19.27:628][293]LogAudioMixer: Display: Using Audio Hardware Device Auriculares (Vieta Pro Calm 2 Stereo)
+[2025.09.24-00.19.27:629][293]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.24-00.19.27:629][293]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.24-00.19.27:629][293]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.24-00.19.27:630][293]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2025.09.24-00.19.27:630][293]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2025.09.24-00.19.27:632][293]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2025.09.24-00.19.27:632][293]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2025.09.24-00.19.27:632][293]LogInit: FAudioDevice initialized with ID 4.
+[2025.09.24-00.19.27:632][293]LogAudio: Display: Audio Device (ID: 4) registered with world 'Minimal_Default_2'.
+[2025.09.24-00.19.27:632][293]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2025.09.24-00.19.27:635][293]LogLoad: Game class is 'BP_GameMode_C'
+[2025.09.24-00.19.27:646][293]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Echo'
+[2025.09.24-00.19.27:650][293]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 up for play (max tick rate 0) at 2025.09.24-02.19.27
+[2025.09.24-00.19.27:652][293]LogWorld: Bringing up level for play took: 0.016872
+[2025.09.24-00.19.27:684][293]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2025.09.24-00.19.27:687][293]PIE: Server logged in
+[2025.09.24-00.19.27:688][293]PIE: Play in editor total start time 0.346 seconds.
+[2025.09.24-00.19.59:831][239]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.24-00.19.59:832][239]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Minimal_Default_2
+[2025.09.24-00.19.59:832][239]LogWorld: UWorld::CleanupWorld for Minimal_Default_2, bSessionEnded=true, bCleanupResources=true
+[2025.09.24-00.19.59:833][239]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.24-00.19.59:838][239]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.24-00.19.59:846][239]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.24-00.19.59:867][239]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.24-00.19.59:868][239]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2025.09.24-00.19.59:868][239]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.09.24-00.19.59:870][239]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.09.24-00.19.59:884][239]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2025.09.24-00.20.00:209][242]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2025.09.24-00.20.11:848][588]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2025.09.24-00.20.11:849][588]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2025.09.24-00.20.16:295][714]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2025.09.24-00.20.16:295][714]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2025.09.24-00.20.24:607][963]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2025.09.24-00.20.24:607][963]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2025.09.24-00.20.27:213][ 41]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2025.09.24-00.20.27:214][ 41]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2025.09.24-00.20.32:953][208]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2025.09.24-00.20.32:953][208]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2025.09.24-00.20.38:160][364]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2025.09.24-00.20.38:160][364]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2025.09.24-00.20.42:216][485]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2025.09.24-00.20.43:177][485]LogSlate: Window 'Save Content' being destroyed
+[2025.09.24-00.20.43:191][485]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.24-00.20.43:330][485]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.09.24-00.20.43:373][485]LogSavePackage: Moving output files for package: /Game/Maps/Minimal_Default_2
+[2025.09.24-00.20.43:374][485]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Minimal_Default_2B7DF2D034D61C37D3A1131AC90AAA5D0.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Maps/Minimal_Default_2.umap'
+[2025.09.24-00.20.43:396][485]LogFileHelpers: Saving map 'Minimal_Default_2' took 0.126
+[2025.09.24-00.20.43:405][485]LogFileHelpers: InternalPromptForCheckoutAndSave took 213.294 ms (total: 924.231 ms)
+[2025.09.24-00.20.43:444][485]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.24-00.20.43:444][485]LogContentValidation: Enabled validators:
+[2025.09.24-00.20.43:444][485]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.24-00.20.43:444][485]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.24-00.20.43:444][485]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.24-00.20.43:444][485]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.24-00.20.43:444][485]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.24-00.20.43:444][485]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.24-00.20.43:444][485]AssetCheck: /Game/Maps/Minimal_Default_2 Validating asset
+[2025.09.24-00.21.21:590][625]LogContentBrowser: Attempting asset rename: BP_Enemy -> BP_BaseEnemy
+[2025.09.24-00.21.21:666][625]LogMetaData: Removing '/Game/Blueprints/Enemy/BP_BaseEnemy.BP_BaseEnemy:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Enemy/BP_Enemy.PackageMetaData'
+[2025.09.24-00.21.21:666][625]LogMetaData: Removing '/Game/Blueprints/Enemy/BP_BaseEnemy.BP_BaseEnemy_C' ref from Metadata '/Game/Blueprints/Enemy/BP_Enemy.PackageMetaData'
+[2025.09.24-00.21.21:666][625]LogMetaData: Removing '/Game/Blueprints/Enemy/BP_BaseEnemy.BP_BaseEnemy:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/Enemy/BP_Enemy.PackageMetaData'
+[2025.09.24-00.21.21:666][625]LogMetaData: Removing '/Game/Blueprints/Enemy/BP_BaseEnemy.BP_BaseEnemy:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/Enemy/BP_Enemy.PackageMetaData'
+[2025.09.24-00.21.21:666][625]LogMetaData: Removing '/Game/Blueprints/Enemy/BP_BaseEnemy.BP_BaseEnemy:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/Enemy/BP_Enemy.PackageMetaData'
+[2025.09.24-00.21.21:666][625]LogMetaData: Removing '/Game/Blueprints/Enemy/BP_BaseEnemy.BP_BaseEnemy_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/Enemy/BP_Enemy.PackageMetaData'
+[2025.09.24-00.21.21:666][625]LogMetaData: Removing '/Game/Blueprints/Enemy/BP_BaseEnemy.SKEL_BP_BaseEnemy_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/Enemy/BP_Enemy.PackageMetaData'
+[2025.09.24-00.21.21:666][625]LogMetaData: Removing '/Game/Blueprints/Enemy/BP_BaseEnemy.SKEL_BP_BaseEnemy_C:OnSeePawn' ref from Metadata '/Game/Blueprints/Enemy/BP_Enemy.PackageMetaData'
+[2025.09.24-00.21.21:666][625]LogMetaData: Removing '/Game/Blueprints/Enemy/BP_BaseEnemy.SKEL_BP_BaseEnemy_C:ChasePlayer' ref from Metadata '/Game/Blueprints/Enemy/BP_Enemy.PackageMetaData'
+[2025.09.24-00.21.21:666][625]LogMetaData: Removing '/Game/Blueprints/Enemy/BP_BaseEnemy.SKEL_BP_BaseEnemy_C:SoundLoop' ref from Metadata '/Game/Blueprints/Enemy/BP_Enemy.PackageMetaData'
+[2025.09.24-00.21.21:666][625]LogMetaData: Removing '/Game/Blueprints/Enemy/BP_BaseEnemy.SKEL_BP_BaseEnemy_C:ReceiveTick' ref from Metadata '/Game/Blueprints/Enemy/BP_Enemy.PackageMetaData'
+[2025.09.24-00.21.21:666][625]LogMetaData: Removing '/Game/Blueprints/Enemy/BP_BaseEnemy.SKEL_BP_BaseEnemy_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Blueprints/Enemy/BP_Enemy.PackageMetaData'
+[2025.09.24-00.21.21:667][625]LogMetaData: Removing '/Game/Blueprints/Enemy/BP_BaseEnemy.SKEL_BP_BaseEnemy_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/Enemy/BP_Enemy.PackageMetaData'
+[2025.09.24-00.21.21:667][625]LogMetaData: Removing '/Game/Blueprints/Enemy/BP_BaseEnemy.SKEL_BP_BaseEnemy_C' ref from Metadata '/Game/Blueprints/Enemy/BP_Enemy.PackageMetaData'
+[2025.09.24-00.21.21:733][625]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.24-00.21.21:733][625]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Enemy/Vampire/ABP_Vampire] ([2] browsable assets)...
+[2025.09.24-00.21.21:789][625]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Blueprints/Enemy/Vampire/ABP_Vampire.ABP_Vampire]
+[2025.09.24-00.21.21:789][625]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemy/Vampire/ABP_Vampire]
+[2025.09.24-00.21.21:815][625]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemy/Vampire/ABP_Vampire
+[2025.09.24-00.21.21:817][625]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/ABP_VampireCCA49F9F489EF77A725135B457304F69.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Enemy/Vampire/ABP_Vampire.uasset'
+[2025.09.24-00.21.21:818][625]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Enemy/Vampire/BP_Vampire] ([2] browsable assets)...
+[2025.09.24-00.21.21:827][625]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Enemy/Vampire/BP_Vampire.BP_Vampire]
+[2025.09.24-00.21.21:827][625]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemy/Vampire/BP_Vampire]
+[2025.09.24-00.21.21:833][625]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemy/Vampire/BP_Vampire
+[2025.09.24-00.21.21:834][625]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/BP_VampireDAF6E254498E509DF2F00B80CA0C33B5.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Enemy/Vampire/BP_Vampire.uasset'
+[2025.09.24-00.21.21:836][625]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Enemy/BP_BaseEnemy] ([2] browsable assets)...
+[2025.09.24-00.21.21:836][625]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_17
+[2025.09.24-00.21.21:836][625]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_17'.
+[2025.09.24-00.21.21:854][625]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/Blueprints/Enemy/BP_BaseEnemy.BP_BaseEnemy_C]
+[2025.09.24-00.21.21:854][625]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemy/BP_BaseEnemy]
+[2025.09.24-00.21.21:867][625]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemy/BP_BaseEnemy
+[2025.09.24-00.21.21:868][625]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/BP_BaseEnemy009EB84043F102C2FD12A2A72CF139E9.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Enemy/BP_BaseEnemy.uasset'
+[2025.09.24-00.21.21:871][625]LogFileHelpers: InternalPromptForCheckoutAndSave took 137.867 ms (total: 1.06 sec)
+[2025.09.24-00.21.21:904][625]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.09.24-00.21.21:928][625]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.09.24-00.21.21:951][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.09.24-00.21.21:992][625]LogContentValidation: Display: Starting to validate 3 assets
+[2025.09.24-00.21.21:992][625]LogContentValidation: Enabled validators:
+[2025.09.24-00.21.21:992][625]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.24-00.21.21:992][625]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.24-00.21.21:992][625]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.24-00.21.21:992][625]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.24-00.21.21:992][625]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.24-00.21.21:992][625]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.24-00.21.21:992][625]AssetCheck: /Game/Blueprints/Enemy/Vampire/ABP_Vampire Validating asset
+[2025.09.24-00.21.21:992][625]AssetCheck: /Game/Blueprints/Enemy/Vampire/BP_Vampire Validating asset
+[2025.09.24-00.21.21:992][625]AssetCheck: /Game/Blueprints/Enemy/BP_BaseEnemy Validating asset
+[2025.09.24-00.21.22:001][625]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_18
+[2025.09.24-00.21.22:001][625]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_18'.
+[2025.09.24-00.21.25:704][736]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.24-00.21.25:716][736]LogPlayLevel: [PlayLevel] Compiling ABP_Vampire before play...
+[2025.09.24-00.21.25:781][736]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2025.09.24-00.21.25:782][736]LogPlayLevel: PlayLevel: Blueprint regeneration took 66 ms (1 blueprints)
+[2025.09.24-00.21.25:782][736]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Minimal_Default_2
+[2025.09.24-00.21.25:790][736]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008130s)
+[2025.09.24-00.21.25:790][736]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Minimal_Default_2.Minimal_Default_2 to /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 (0.008166s)
+[2025.09.24-00.21.25:812][736]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2025.09.24-00.21.25:813][736]LogChaosDD: Creating Chaos Debug Draw Scene for world Minimal_Default_2
+[2025.09.24-00.21.25:814][736]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2'.
+[2025.09.24-00.21.25:814][736]LogPlayLevel: PIE: World Init took: (0.001556s)
+[2025.09.24-00.21.25:815][736]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2025.09.24-00.21.25:815][736]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.24-00.21.25:815][736]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.24-00.21.25:815][736]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.24-00.21.25:815][736]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.24-00.21.25:815][736]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.24-00.21.25:815][736]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.24-00.21.25:815][736]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.24-00.21.25:815][736]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.24-00.21.25:815][736]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.24-00.21.25:815][736]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.24-00.21.25:815][736]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.24-00.21.25:818][736]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.24-00.21.25:837][736]LogAudioMixer: Display: Using Audio Hardware Device Auriculares (Vieta Pro Calm 2 Stereo)
+[2025.09.24-00.21.25:837][736]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.24-00.21.25:837][736]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.24-00.21.25:837][736]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.24-00.21.25:838][736]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2025.09.24-00.21.25:838][736]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2025.09.24-00.21.25:840][736]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2025.09.24-00.21.25:840][736]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2025.09.24-00.21.25:840][736]LogInit: FAudioDevice initialized with ID 5.
+[2025.09.24-00.21.25:840][736]LogAudio: Display: Audio Device (ID: 5) registered with world 'Minimal_Default_2'.
+[2025.09.24-00.21.25:840][736]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2025.09.24-00.21.25:843][736]LogLoad: Game class is 'BP_GameMode_C'
+[2025.09.24-00.21.25:852][736]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Echo'
+[2025.09.24-00.21.25:856][736]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 up for play (max tick rate 0) at 2025.09.24-02.21.25
+[2025.09.24-00.21.25:857][736]LogWorld: Bringing up level for play took: 0.014246
+[2025.09.24-00.21.25:886][736]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2025.09.24-00.21.25:889][736]PIE: Server logged in
+[2025.09.24-00.21.25:890][736]PIE: Play in editor total start time 0.179 seconds.
+[2025.09.24-00.21.35:109][  0]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 669.672485
+[2025.09.24-00.21.35:341][  7]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.24-00.21.35:342][  7]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 669.870789, Update Interval: 314.484070
+[2025.09.24-00.21.53:381][546]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.24-00.21.53:381][546]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Minimal_Default_2
+[2025.09.24-00.21.53:382][546]LogWorld: UWorld::CleanupWorld for Minimal_Default_2, bSessionEnded=true, bCleanupResources=true
+[2025.09.24-00.21.53:384][546]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.24-00.21.53:387][546]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.24-00.21.53:393][546]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.24-00.21.53:415][546]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.24-00.21.53:415][546]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2025.09.24-00.21.53:415][546]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.09.24-00.21.53:417][546]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.09.24-00.21.53:431][546]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2025.09.24-00.21.53:590][549]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2025.09.24-00.24.00:184][328]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Enemy/Vampire/BP_Vampire.BP_Vampire
+[2025.09.24-00.24.00:184][328]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_19
+[2025.09.24-00.24.00:185][328]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_19'.
+[2025.09.24-00.24.02:303][373]LogSlate: Window 'BP_Vampire' being destroyed
+[2025.09.24-00.24.02:317][373]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2025.09.24-00.24.02:317][373]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.24-00.24.02:345][373]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Enemy/Vampire/BP_Vampire.BP_Vampire
+[2025.09.24-00.24.02:346][373]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_20
+[2025.09.24-00.24.02:346][373]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_20'.
+[2025.09.24-00.24.02:806][373]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2025.09.24-00.24.14:804][683]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2025.09.24-00.24.24:583][962]LogBlueprint: Warning: FMemberReference::ResolveMember (GetActorInfo) bSelfContext == true, but no scope supplied!
+[2025.09.24-00.24.24:583][962]LogBlueprint: Warning: FMemberReference::ResolveMember (GetActorInfo) bSelfContext == true, but no scope supplied!
+[2025.09.24-00.24.28:078][ 41]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.09.24-00.24.29:429][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2025.09.24-00.24.31:259][122]LogSlate: Took 0.001194 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.09.24-00.24.37:263][297]LogStreaming: Display: FlushAsyncLoading(496): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.24-00.24.37:331][297]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Weapon_Pack/Mesh/Weapons/Weapons_Kit/SM_Shield) ...
+[2025.09.24-00.24.37:333][297]LogStaticMesh: Display: Building static mesh SM_Shield (Required Memory Estimate: 2.015767 MB)...
+[2025.09.24-00.24.37:364][297]LogStaticMesh: Built static mesh [0.03s] /Game/Weapon_Pack/Mesh/Weapons/Weapons_Kit/SM_Shield.SM_Shield
+[2025.09.24-00.24.46:584][570]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.09.24-00.24.47:483][570]LogSlate: Window 'Save Content' being destroyed
+[2025.09.24-00.24.47:492][570]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.24-00.24.47:617][570]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.09.24-00.24.47:648][570]LogSavePackage: Moving output files for package: /Game/Maps/Minimal_Default_2
+[2025.09.24-00.24.47:649][570]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Minimal_Default_24D3C31DA4808C2478AABFFA2D3A79C36.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Maps/Minimal_Default_2.umap'
+[2025.09.24-00.24.47:668][570]LogFileHelpers: Saving map 'Minimal_Default_2' took 0.140
+[2025.09.24-00.24.47:669][570]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Enemy/Vampire/BP_Vampire] ([2] browsable assets)...
+[2025.09.24-00.24.47:681][570]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Enemy/Vampire/BP_Vampire.BP_Vampire]
+[2025.09.24-00.24.47:681][570]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemy/Vampire/BP_Vampire]
+[2025.09.24-00.24.47:687][570]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemy/Vampire/BP_Vampire
+[2025.09.24-00.24.47:688][570]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/BP_VampireC3A7D29A4459C385D1275BBE92D00573.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Enemy/Vampire/BP_Vampire.uasset'
+[2025.09.24-00.24.47:698][570]LogFileHelpers: InternalPromptForCheckoutAndSave took 205.924 ms (total: 1.26 sec)
+[2025.09.24-00.24.47:728][570]LogContentValidation: Display: Starting to validate 2 assets
+[2025.09.24-00.24.47:728][570]LogContentValidation: Enabled validators:
+[2025.09.24-00.24.47:728][570]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.24-00.24.47:728][570]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.24-00.24.47:728][570]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.24-00.24.47:728][570]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.24-00.24.47:729][570]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.24-00.24.47:729][570]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.24-00.24.47:729][570]AssetCheck: /Game/Maps/Minimal_Default_2 Validating asset
+[2025.09.24-00.24.47:729][570]AssetCheck: /Game/Blueprints/Enemy/Vampire/BP_Vampire Validating asset
+[2025.09.24-00.26.56:312][426]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 990.879578
+[2025.09.24-00.26.56:546][433]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.24-00.26.56:546][433]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 991.079712, Update Interval: 311.217377
+[2025.09.24-00.32.23:651][214]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1318.220947
+[2025.09.24-00.32.23:888][221]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.24-00.32.23:888][221]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1318.422241, Update Interval: 327.669922
+[2025.09.24-00.33.30:008][157]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_21
+[2025.09.24-00.33.30:008][157]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_21'.
+[2025.09.24-00.33.30:062][158]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_22
+[2025.09.24-00.33.30:063][158]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_22'.
+[2025.09.24-00.33.36:313][318]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/AncientContent/Characters/Vampire/Root_Bone/Mesh/SKM_Vampire.SKM_Vampire
+[2025.09.24-00.33.36:502][318]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_23
+[2025.09.24-00.33.36:503][318]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_23'.
+[2025.09.24-00.33.36:512][318]LogStreaming: Display: FlushAsyncLoading(497): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.24-00.33.36:648][318]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.24-00.34.39:967][726]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/AncientContent/Characters/Vampire/Root_Bone/Mesh/SK_Vampire.SK_Vampire
+[2025.09.24-00.34.39:998][726]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_24
+[2025.09.24-00.34.39:999][726]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_24'.
+[2025.09.24-00.34.40:034][726]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.24-00.34.40:564][726]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_25
+[2025.09.24-00.34.40:564][726]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_25'.
+[2025.09.24-00.35.50:117][473]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2025.09.24-00.35.50:119][473]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Minimal_Default_2' took 0.065
+[2025.09.24-00.35.50:122][473]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AncientContent/Characters/Vampire/Root_Bone/Mesh/SK_Vampire] ([1] browsable assets)...
+[2025.09.24-00.35.50:165][473]OBJ SavePackage:     Rendered thumbnail for [Skeleton /Game/AncientContent/Characters/Vampire/Root_Bone/Mesh/SK_Vampire.SK_Vampire]
+[2025.09.24-00.35.50:166][473]OBJ SavePackage: Finished generating thumbnails for package [/Game/AncientContent/Characters/Vampire/Root_Bone/Mesh/SK_Vampire]
+[2025.09.24-00.35.50:169][473]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AncientContent/Characters/Vampire/Root_Bone/Mesh/SK_Vampire_Auto1
+[2025.09.24-00.35.50:169][473]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/SK_Vampire_Auto1FFCF294545C54D7ED632E18C4934791D.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Autosaves/Game/AncientContent/Characters/Vampire/Root_Bone/Mesh/SK_Vampire_Auto1.uasset'
+[2025.09.24-00.35.50:171][473]LogFileHelpers: Auto-saving content packages took 0.051
+[2025.09.24-00.36.50:266][ 88]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SkeletalMesh_64.svg'. File could not be found
+[2025.09.24-00.37.00:055][233]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_26
+[2025.09.24-00.37.00:056][233]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_26'.
+[2025.09.24-00.38.08:748][941]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1663.312134
+[2025.09.24-00.38.09:025][949]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.24-00.38.09:025][950]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1663.544434, Update Interval: 325.146637
+[2025.09.24-00.39.45:949][577]Cmd: MODE ROTGRID=0
+[2025.09.24-00.40.09:247][182]LogSlate: Took 0.015268 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.09.24-00.41.40:571][528]LogStreaming: Display: FlushAsyncLoading(501): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.24-00.41.40:632][528]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/AncientTreasures/Meshes/SM_Shield_01a.SM_Shield_01a
+[2025.09.24-00.41.40:659][528]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/AncientTreasures/Meshes/SM_Shield_01a) ...
+[2025.09.24-00.41.40:696][528]LogStaticMesh: Display: Building static mesh SM_Shield_01a (Required Memory Estimate: 9.888931 MB)...
+[2025.09.24-00.41.40:832][528]LogStaticMesh: Built static mesh [0.14s] /Game/AncientTreasures/Meshes/SM_Shield_01a.SM_Shield_01a
+[2025.09.24-00.41.40:907][528]LogTexture: Display: Building textures: /Game/AncientTreasures/Textures/Unique/TX_Shield_01a_RMA.TX_Shield_01a_RMA (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2025.09.24-00.41.40:907][528]LogTexture: Display: Building textures: /Game/AncientTreasures/Textures/Unique/TX_Shield_01a_NRM.TX_Shield_01a_NRM (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 337.499988 MB), EncodeSpeed: Fast
+[2025.09.24-00.41.40:908][528]LogTexture: Display: Building textures: /Game/AncientTreasures/Textures/Unique/TX_Shield_01a_ALB.TX_Shield_01a_ALB (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2025.09.24-00.41.40:931][528]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_27
+[2025.09.24-00.41.40:932][528]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_27'.
+[2025.09.24-00.41.41:075][528]LogTexture: Display: Waiting for textures to be ready 0/3 (/Game/AncientTreasures/Textures/Unique/TX_Shield_01a_NRM) ...
+[2025.09.24-00.42.09:687][ 66]LogSlate: Window 'Message' being destroyed
+[2025.09.24-00.42.09:713][ 66]Message dialog closed, result: Yes, title: Message, text: This action can't be undone. Would you like to continue?
+[2025.09.24-00.42.09:739][ 66]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SKM_Vampire) ...
+[2025.09.24-00.42.14:247][179]Cmd: TRANSACTION UNDO
+[2025.09.24-00.42.14:247][179]LogEditorTransaction: Undo Translate Socket
+[2025.09.24-00.42.15:096][179]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.24-00.42.15:146][179]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.24-00.42.16:028][190]Cmd: TRANSACTION UNDO
+[2025.09.24-00.42.16:028][190]LogEditorTransaction: Undo Translate Socket
+[2025.09.24-00.42.16:725][190]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.24-00.42.16:758][190]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.09.24-00.44.07:249][643]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2021.811279
+[2025.09.24-00.44.07:547][651]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.24-00.44.07:547][651]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2022.058594, Update Interval: 344.565582
+[2025.09.24-00.45.20:647][679]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2025.09.24-00.45.21:828][679]LogSlate: Window 'Save Content' being destroyed
+[2025.09.24-00.45.21:870][679]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.24-00.45.21:934][679]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AncientContent/Characters/Vampire/Root_Bone/Mesh/SK_Vampire] ([1] browsable assets)...
+[2025.09.24-00.45.21:934][679]OBJ SavePackage: Finished generating thumbnails for package [/Game/AncientContent/Characters/Vampire/Root_Bone/Mesh/SK_Vampire]
+[2025.09.24-00.45.21:938][679]LogSavePackage: Moving output files for package: /Game/AncientContent/Characters/Vampire/Root_Bone/Mesh/SK_Vampire
+[2025.09.24-00.45.21:939][679]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/SK_Vampire4B74C0B94E55C9B44679058A438C04EB.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/AncientContent/Characters/Vampire/Root_Bone/Mesh/SK_Vampire.uasset'
+[2025.09.24-00.45.21:944][679]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AncientContent/Characters/Vampire/Root_Bone/Mesh/SKM_Vampire] ([1] browsable assets)...
+[2025.09.24-00.45.21:962][679]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/AncientContent/Characters/Vampire/Root_Bone/Mesh/SKM_Vampire.SKM_Vampire]
+[2025.09.24-00.45.21:962][679]OBJ SavePackage: Finished generating thumbnails for package [/Game/AncientContent/Characters/Vampire/Root_Bone/Mesh/SKM_Vampire]
+[2025.09.24-00.45.22:009][679]LogSavePackage: Moving output files for package: /Game/AncientContent/Characters/Vampire/Root_Bone/Mesh/SKM_Vampire
+[2025.09.24-00.45.22:012][679]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/SKM_VampireC3AD8D1C4EBBA7AFCB2F49BD7590E5AD.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/AncientContent/Characters/Vampire/Root_Bone/Mesh/SKM_Vampire.uasset'
+[2025.09.24-00.45.22:052][679]LogFileHelpers: InternalPromptForCheckoutAndSave took 181.758 ms (total: 1.44 sec)
+[2025.09.24-00.45.22:125][679]LogContentValidation: Display: Starting to validate 2 assets
+[2025.09.24-00.45.22:125][679]LogContentValidation: Enabled validators:
+[2025.09.24-00.45.22:125][679]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.24-00.45.22:125][679]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.24-00.45.22:125][679]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.24-00.45.22:125][679]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.24-00.45.22:125][679]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.24-00.45.22:125][679]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.24-00.45.22:126][679]AssetCheck: /Game/AncientContent/Characters/Vampire/Root_Bone/Mesh/SK_Vampire Validating asset
+[2025.09.24-00.45.22:126][679]AssetCheck: /Game/AncientContent/Characters/Vampire/Root_Bone/Mesh/SKM_Vampire Validating asset
+[2025.09.24-00.46.57:497][  4]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2025.09.24-00.47.56:031][520]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2025.09.24-00.47.56:815][520]LogSlate: Window 'Save Content' being destroyed
+[2025.09.24-00.47.56:847][520]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.24-00.47.56:983][520]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.09.24-00.47.57:023][520]LogSavePackage: Moving output files for package: /Game/Maps/Minimal_Default_2
+[2025.09.24-00.47.57:024][520]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Minimal_Default_24BC3ACDD434C636800D6AF9E5E576F3B.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Maps/Minimal_Default_2.umap'
+[2025.09.24-00.47.57:053][520]LogFileHelpers: Saving map 'Minimal_Default_2' took 0.154
+[2025.09.24-00.47.57:054][520]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Enemy/Vampire/BP_Vampire] ([2] browsable assets)...
+[2025.09.24-00.47.57:078][520]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Enemy/Vampire/BP_Vampire.BP_Vampire]
+[2025.09.24-00.47.57:078][520]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemy/Vampire/BP_Vampire]
+[2025.09.24-00.47.57:090][520]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemy/Vampire/BP_Vampire
+[2025.09.24-00.47.57:092][520]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/BP_VampireDBF6447146D185080B1463801C0B4D4A.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Enemy/Vampire/BP_Vampire.uasset'
+[2025.09.24-00.47.57:129][520]LogFileHelpers: InternalPromptForCheckoutAndSave took 282.114 ms (total: 1.73 sec)
+[2025.09.24-00.47.57:190][520]LogContentValidation: Display: Starting to validate 2 assets
+[2025.09.24-00.47.57:190][520]LogContentValidation: Enabled validators:
+[2025.09.24-00.47.57:190][520]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.24-00.47.57:190][520]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.24-00.47.57:190][520]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.24-00.47.57:190][520]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.24-00.47.57:190][520]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.24-00.47.57:190][520]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.24-00.47.57:190][520]AssetCheck: /Game/Maps/Minimal_Default_2 Validating asset
+[2025.09.24-00.47.57:190][520]AssetCheck: /Game/Blueprints/Enemy/Vampire/BP_Vampire Validating asset
+[2025.09.24-00.48.05:087][710]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2025.09.24-00.48.24:139][229]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.09.24-00.48.27:376][300]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.24-00.48.27:397][300]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.24-00.48.27:398][300]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Minimal_Default_2
+[2025.09.24-00.48.27:413][300]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015267s)
+[2025.09.24-00.48.27:413][300]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Minimal_Default_2.Minimal_Default_2 to /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 (0.015408s)
+[2025.09.24-00.48.27:443][300]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2025.09.24-00.48.27:449][300]LogChaosDD: Creating Chaos Debug Draw Scene for world Minimal_Default_2
+[2025.09.24-00.48.27:451][300]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2'.
+[2025.09.24-00.48.27:452][300]LogPlayLevel: PIE: World Init took: (0.003343s)
+[2025.09.24-00.48.27:453][300]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2025.09.24-00.48.27:453][300]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.24-00.48.27:453][300]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.24-00.48.27:453][300]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.24-00.48.27:453][300]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.24-00.48.27:453][300]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.24-00.48.27:453][300]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.24-00.48.27:453][300]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.24-00.48.27:453][300]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.24-00.48.27:453][300]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.24-00.48.27:453][300]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.24-00.48.27:453][300]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.24-00.48.27:456][300]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.24-00.48.27:482][300]LogAudioMixer: Display: Using Audio Hardware Device Auriculares (Vieta Pro Calm 2 Stereo)
+[2025.09.24-00.48.27:483][300]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.24-00.48.27:483][300]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.24-00.48.27:483][300]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.24-00.48.27:484][300]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2025.09.24-00.48.27:484][300]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2025.09.24-00.48.27:486][300]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2025.09.24-00.48.27:486][300]LogInit: FAudioDevice initialized with ID 6.
+[2025.09.24-00.48.27:486][300]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2025.09.24-00.48.27:486][300]LogAudio: Display: Audio Device (ID: 6) registered with world 'Minimal_Default_2'.
+[2025.09.24-00.48.27:486][300]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2025.09.24-00.48.27:491][300]LogLoad: Game class is 'BP_GameMode_C'
+[2025.09.24-00.48.27:505][300]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Echo'
+[2025.09.24-00.48.27:511][300]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 up for play (max tick rate 0) at 2025.09.24-02.48.27
+[2025.09.24-00.48.27:513][300]LogWorld: Bringing up level for play took: 0.021323
+[2025.09.24-00.48.27:560][300]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2025.09.24-00.48.27:567][300]PIE: Server logged in
+[2025.09.24-00.48.27:569][300]PIE: Play in editor total start time 0.182 seconds.
+[2025.09.24-00.48.36:252][474]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.24-00.48.36:252][474]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Minimal_Default_2
+[2025.09.24-00.48.36:254][474]LogWorld: UWorld::CleanupWorld for Minimal_Default_2, bSessionEnded=true, bCleanupResources=true
+[2025.09.24-00.48.36:257][474]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.24-00.48.36:263][474]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.24-00.48.36:274][474]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.24-00.48.36:302][474]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.09.24-00.48.36:304][474]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2025.09.24-00.48.36:304][474]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2025.09.24-00.48.36:306][474]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2025.09.24-00.48.36:315][474]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.24-00.48.36:330][474]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2025.09.24-00.48.36:981][477]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2025.09.24-00.48.47:304][778]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.24-00.48.47:335][778]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.24-00.48.47:336][778]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Minimal_Default_2
+[2025.09.24-00.48.47:350][778]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013989s)
+[2025.09.24-00.48.47:350][778]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Minimal_Default_2.Minimal_Default_2 to /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 (0.014048s)
+[2025.09.24-00.48.47:380][778]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2025.09.24-00.48.47:382][778]LogChaosDD: Creating Chaos Debug Draw Scene for world Minimal_Default_2
+[2025.09.24-00.48.47:383][778]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2'.
+[2025.09.24-00.48.47:384][778]LogPlayLevel: PIE: World Init took: (0.001866s)
+[2025.09.24-00.48.47:385][778]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2025.09.24-00.48.47:385][778]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.24-00.48.47:385][778]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.24-00.48.47:385][778]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.24-00.48.47:385][778]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.24-00.48.47:385][778]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.24-00.48.47:385][778]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.24-00.48.47:385][778]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.24-00.48.47:385][778]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.24-00.48.47:385][778]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.24-00.48.47:385][778]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.24-00.48.47:385][778]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.24-00.48.47:389][778]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.24-00.48.47:416][778]LogAudioMixer: Display: Using Audio Hardware Device Auriculares (Vieta Pro Calm 2 Stereo)
+[2025.09.24-00.48.47:417][778]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.24-00.48.47:417][778]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.24-00.48.47:417][778]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.24-00.48.47:418][778]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2025.09.24-00.48.47:418][778]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2025.09.24-00.48.47:422][778]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2025.09.24-00.48.47:422][778]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2025.09.24-00.48.47:422][778]LogInit: FAudioDevice initialized with ID 7.
+[2025.09.24-00.48.47:422][778]LogAudio: Display: Audio Device (ID: 7) registered with world 'Minimal_Default_2'.
+[2025.09.24-00.48.47:422][778]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2025.09.24-00.48.47:426][778]LogLoad: Game class is 'BP_GameMode_C'
+[2025.09.24-00.48.47:441][778]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Echo'
+[2025.09.24-00.48.47:446][778]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 up for play (max tick rate 0) at 2025.09.24-02.48.47
+[2025.09.24-00.48.47:448][778]LogWorld: Bringing up level for play took: 0.020907
+[2025.09.24-00.48.47:487][778]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2025.09.24-00.48.47:490][778]PIE: Server logged in
+[2025.09.24-00.48.47:491][778]PIE: Play in editor total start time 0.165 seconds.
+[2025.09.24-00.49.07:013][348]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.24-00.49.07:013][348]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Minimal_Default_2
+[2025.09.24-00.49.07:014][348]LogWorld: UWorld::CleanupWorld for Minimal_Default_2, bSessionEnded=true, bCleanupResources=true
+[2025.09.24-00.49.07:016][348]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.24-00.49.07:036][348]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.24-00.49.07:044][348]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.24-00.49.07:073][348]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.24-00.49.07:073][348]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2025.09.24-00.49.07:073][348]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2025.09.24-00.49.07:076][348]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2025.09.24-00.49.07:093][348]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2025.09.24-00.49.07:369][351]LogPlayLevel: Display: Destroying online subsystem :Context_34
