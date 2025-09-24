@@ -7,8 +7,7 @@
 #include "Characters/CharacterTypes.h"
 #include "Enemy.generated.h"
 
-class UAnimMontage;
-class UAttributeComponent;
+
 class UWidgetComponent;
 class UHealthBarComponent;
 class UPawnSensingComponent;
@@ -29,11 +28,7 @@ public:
 	virtual float TakeDamage(float DamageAmount, struct FDamageEvent const& DamageEvent, class AController* EventInstigator, AActor* DamageCauser) override;
 
 private:
-	/*
-	* Components
-	*/
-	UPROPERTY(VisibleAnywhere)
-	UAttributeComponent* Attributes;
+	
 
 	UPROPERTY(VisibleAnywhere)
 	UHealthBarComponent* HealthBarWidget;
@@ -45,16 +40,6 @@ private:
 	* Animation montages
 	*/
 	
-
-	UPROPERTY(EditDefaultsOnly, Category = Montages)
-	UAnimMontage* DeathMontage;
-
-	UPROPERTY(EditAnywhere, Category = Sounds)
-	USoundBase* HitSound;
-
-	UPROPERTY(EditAnywhere, Category = VisualEffects)
-	UParticleSystem* HitParticles;
-
 	UPROPERTY()
 	AActor* CombatTarget;
 

@@ -4,11 +4,12 @@
 #include "Characters/BaseCharacter.h"
 #include "Components/BoxComponent.h"
 #include "Items/Weapons/Weapon.h"
+#include "Components/AttributeComponent.h"
 
 ABaseCharacter::ABaseCharacter()
 {
 	PrimaryActorTick.bCanEverTick = true;
-
+	Attributes = CreateDefaultSubobject<UAttributeComponent>(TEXT("Attributes"));
 }
 
 void ABaseCharacter::BeginPlay()
@@ -78,7 +79,7 @@ void ABaseCharacter::PlayAttackMontage()
 
 bool ABaseCharacter::CanAttack()
 {
-
+	return false;
 }
 void ABaseCharacter::AttackEnd()
 {
