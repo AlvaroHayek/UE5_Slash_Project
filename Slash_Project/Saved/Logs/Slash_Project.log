@@ -2337,3 +2337,355 @@ Skipped package /AudioModulation/Volume was expected to be found in plugin Audio
 [2025.10.01-11.54.43:461][462]LogEOSSDK: Warning: LogHttp: Success on https://api.epicgames.dev/auth/v1/oauth/token
 [2025.10.01-11.54.43:731][470]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.10.01-11.54.43:731][470]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 126681.703125, Update Interval: 315.148773
+[2025.10.01-12.00.38:273][ 33]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 127029.859375
+[2025.10.01-12.00.38:506][ 40]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.01-12.00.38:506][ 40]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 127030.054688, Update Interval: 331.680054
+[2025.10.01-12.06.45:018][  5]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 127389.726562
+[2025.10.01-12.06.45:250][ 12]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.01-12.06.45:251][ 12]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 127389.921875, Update Interval: 348.284546
+[2025.10.01-12.10.00:190][690]LogAutomationController: Ignoring very large delta of 2.33 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.10.01-12.10.03:114][774]LogSlate: Window 'ReactFromRight' being destroyed
+[2025.10.01-12.10.03:124][774]LogSlate: Window 'ReactFromRight' being destroyed
+[2025.10.01-12.10.03:290][774]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.10.01-12.10.03:291][774]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.01-12.10.03:716][774]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2025.10.01-12.10.03:716][774]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.01-12.10.03:980][774]LogSkinnedMeshComp: Warning: GetSocketInfoByName(RightHandSocket): No SkeletalMesh for Component(DebugSkelMeshComponent_0) Actor(AnimationEditorPreviewActor /Engine/Transient.World_28:PersistentLevel.AnimationEditorPreviewActor_0)
+[2025.10.01-12.10.03:980][774]LogSkinnedMeshComp: Warning: GetSocketInfoByName(SpineSocket): No SkeletalMesh for Component(DebugSkelMeshComponent_0) Actor(AnimationEditorPreviewActor /Engine/Transient.World_28:PersistentLevel.AnimationEditorPreviewActor_0)
+[2025.10.01-12.10.04:033][774]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2025.10.01-12.10.04:033][774]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.01-12.10.04:048][774]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2025.10.01-12.10.04:048][774]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.01-12.10.04:147][774]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2025.10.01-12.10.04:147][774]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.01-12.10.04:285][774]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2025.10.01-12.10.05:097][791]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.10.01-12.10.07:981][791]LogAutomationController: Ignoring very large delta of 3.16 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.10.01-12.13.07:145][129]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 127756.960938
+[2025.10.01-12.13.07:377][136]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.01-12.13.07:377][136]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 127757.148438, Update Interval: 333.989075
+[2025.10.01-12.19.25:302][396]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 128110.921875
+[2025.10.01-12.19.25:538][403]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.01-12.19.25:538][404]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 128111.109375, Update Interval: 359.346283
+[2025.10.01-12.26.06:451][348]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 128486.453125
+[2025.10.01-12.26.06:685][355]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.01-12.26.06:686][356]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 128486.640625, Update Interval: 324.698029
+[2025.10.01-12.28.22:346][346]LogSlate: Window 'Batch Renamer' being destroyed
+[2025.10.01-12.28.31:548][621]LogContentBrowser: Attempting asset rename: AM_AttackMontage -> AM_EchoAttack
+[2025.10.01-12.28.31:787][621]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.01-12.28.31:797][621]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Characters/BP_SlashCharacter] ([2] browsable assets)...
+[2025.10.01-12.28.31:885][621]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Characters/BP_SlashCharacter.BP_SlashCharacter]
+[2025.10.01-12.28.31:885][621]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/BP_SlashCharacter]
+[2025.10.01-12.28.31:932][621]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/BP_SlashCharacter
+[2025.10.01-12.28.31:933][621]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/BP_SlashCharacter8E84BC184220D397FC4995AC88F7ED52.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Characters/BP_SlashCharacter.uasset'
+[2025.10.01-12.28.31:936][621]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/Animations/AM_EchoAttack] ([1] browsable assets)...
+[2025.10.01-12.28.31:936][621]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/Animations/AM_EchoAttack]
+[2025.10.01-12.28.31:943][621]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/Animations/AM_EchoAttack
+[2025.10.01-12.28.31:943][621]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/AM_EchoAttack7DAFEE824EB2BA90FB8E89A6FF44B8BF.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Characters/Animations/AM_EchoAttack.uasset'
+[2025.10.01-12.28.31:945][621]LogFileHelpers: InternalPromptForCheckoutAndSave took 158.148 ms (total: 2.30 sec)
+[2025.10.01-12.28.32:058][621]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.10.01-12.28.32:079][621]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.10.01-12.28.32:094][621]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.10.01-12.28.32:140][621]LogContentValidation: Display: Starting to validate 2 assets
+[2025.10.01-12.28.32:140][621]LogContentValidation: Enabled validators:
+[2025.10.01-12.28.32:140][621]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.01-12.28.32:140][621]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.01-12.28.32:140][621]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.01-12.28.32:140][621]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.01-12.28.32:140][621]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.01-12.28.32:140][621]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.01-12.28.32:140][621]AssetCheck: /Game/Blueprints/Characters/BP_SlashCharacter Validating asset
+[2025.10.01-12.28.32:140][621]AssetCheck: /Game/Blueprints/Characters/Animations/AM_EchoAttack Validating asset
+[2025.10.01-12.28.40:227][862]LogContentBrowser: Attempting asset rename: AM_Equip -> AM_EchoEquip
+[2025.10.01-12.28.40:303][862]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.01-12.28.40:304][862]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Characters/BP_SlashCharacter] ([2] browsable assets)...
+[2025.10.01-12.28.40:403][862]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Characters/BP_SlashCharacter.BP_SlashCharacter]
+[2025.10.01-12.28.40:403][862]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/BP_SlashCharacter]
+[2025.10.01-12.28.40:410][862]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/BP_SlashCharacter
+[2025.10.01-12.28.40:411][862]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/BP_SlashCharacterB2AA444F47EEC9666D6A05A7935F43E4.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Characters/BP_SlashCharacter.uasset'
+[2025.10.01-12.28.40:413][862]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/Animations/AM_EchoEquip] ([1] browsable assets)...
+[2025.10.01-12.28.40:413][862]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/Animations/AM_EchoEquip]
+[2025.10.01-12.28.40:416][862]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/Animations/AM_EchoEquip
+[2025.10.01-12.28.40:416][862]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/AM_EchoEquipE473D6664F8A73B6245ABFAC668BF7DB.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Characters/Animations/AM_EchoEquip.uasset'
+[2025.10.01-12.28.40:417][862]LogFileHelpers: InternalPromptForCheckoutAndSave took 114.105 ms (total: 2.41 sec)
+[2025.10.01-12.28.40:447][862]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.10.01-12.28.40:460][862]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.10.01-12.28.40:474][862]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.10.01-12.28.40:518][862]LogContentValidation: Display: Starting to validate 2 assets
+[2025.10.01-12.28.40:518][862]LogContentValidation: Enabled validators:
+[2025.10.01-12.28.40:518][862]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.01-12.28.40:518][862]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.01-12.28.40:518][862]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.01-12.28.40:518][862]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.01-12.28.40:518][862]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.01-12.28.40:518][862]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.01-12.28.40:518][862]AssetCheck: /Game/Blueprints/Characters/BP_SlashCharacter Validating asset
+[2025.10.01-12.28.40:518][862]AssetCheck: /Game/Blueprints/Characters/Animations/AM_EchoEquip Validating asset
+[2025.10.01-12.31.57:371][767]LogDerivedDataCache: C:/Users/Usuario/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.10.01-12.32.07:314][ 65]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 128826.406250
+[2025.10.01-12.32.08:047][ 87]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.01-12.32.08:047][ 87]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 128827.062500, Update Interval: 320.252075
+[2025.10.01-12.33.43:500][924]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_34
+[2025.10.01-12.33.43:500][924]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_34'.
+[2025.10.01-12.33.43:643][924]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_35
+[2025.10.01-12.33.43:643][924]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_35'.
+[2025.10.01-12.33.46:998][924]LogSlate: Window 'Pick Skeleton' being destroyed
+[2025.10.01-12.33.47:007][924]LogContentBrowser: Deferred new asset file creation: NewAnimMontage
+[2025.10.01-12.33.47:016][924]LogContentBrowser: Creating deferred item: NewAnimMontage
+[2025.10.01-12.33.47:018][924]LogAutomationController: Ignoring very large delta of 3.94 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.10.01-12.33.47:031][925]LogContentBrowser: Renaming the item being created (Deferred Item: NewAnimMontage).
+[2025.10.01-12.33.54:518][150]LogContentBrowser: Attempting asset rename: NewAnimMontage -> AM_EchoHitReact
+[2025.10.01-12.33.54:579][150]LogContentBrowser: End creating deferred item NewAnimMontage
+[2025.10.01-12.34.19:547][895]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2025.10.01-12.34.19:550][895]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Minimal_Default_2' took 0.036
+[2025.10.01-12.34.19:551][895]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Characters/Animations/AM_EchoHitReact] ([1] browsable assets)...
+[2025.10.01-12.34.19:615][895]OBJ SavePackage:     Rendered thumbnail for [AnimMontage /Game/Blueprints/Characters/Animations/AM_EchoHitReact.AM_EchoHitReact]
+[2025.10.01-12.34.19:615][895]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/Animations/AM_EchoHitReact]
+[2025.10.01-12.34.19:617][895]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Characters/Animations/AM_EchoHitReact_Auto3
+[2025.10.01-12.34.19:617][895]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/AM_EchoHitReact_Auto3608508DF4807E53AC42804BA895284D6.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Autosaves/Game/Blueprints/Characters/Animations/AM_EchoHitReact_Auto3.uasset'
+[2025.10.01-12.34.19:619][895]LogFileHelpers: Auto-saving content packages took 0.069
+[2025.10.01-12.36.09:136][170]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_36
+[2025.10.01-12.36.09:137][170]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_36'.
+[2025.10.01-12.36.10:325][203]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_37
+[2025.10.01-12.36.10:325][203]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_37'.
+[2025.10.01-12.36.11:308][231]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_38
+[2025.10.01-12.36.11:309][231]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_38'.
+[2025.10.01-12.36.42:742][173]LogContentBrowser: Attempting asset rename: AM_Attack -> AM_VampireAttack
+[2025.10.01-12.36.42:863][173]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.01-12.36.42:866][173]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Enemy/Vampire/BP_Vampire] ([2] browsable assets)...
+[2025.10.01-12.36.42:925][173]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Enemy/Vampire/BP_Vampire.BP_Vampire]
+[2025.10.01-12.36.42:925][173]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemy/Vampire/BP_Vampire]
+[2025.10.01-12.36.42:943][173]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemy/Vampire/BP_Vampire
+[2025.10.01-12.36.42:944][173]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/BP_VampireA03CDF31499BBE77EFC00FA8CC12C8B6.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Enemy/Vampire/BP_Vampire.uasset'
+[2025.10.01-12.36.42:946][173]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enemy/Vampire/Animations/AM_VampireAttack] ([1] browsable assets)...
+[2025.10.01-12.36.42:946][173]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemy/Vampire/Animations/AM_VampireAttack]
+[2025.10.01-12.36.42:951][173]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemy/Vampire/Animations/AM_VampireAttack
+[2025.10.01-12.36.42:951][173]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/AM_VampireAttack5D8218674C9ACEDFF474EA8941523AA9.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Enemy/Vampire/Animations/AM_VampireAttack.uasset'
+[2025.10.01-12.36.42:953][173]LogFileHelpers: InternalPromptForCheckoutAndSave took 90.200 ms (total: 2.50 sec)
+[2025.10.01-12.36.42:990][173]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.10.01-12.36.43:008][173]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.10.01-12.36.43:020][173]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.10.01-12.36.43:062][173]LogContentValidation: Display: Starting to validate 2 assets
+[2025.10.01-12.36.43:063][173]LogContentValidation: Enabled validators:
+[2025.10.01-12.36.43:063][173]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.01-12.36.43:063][173]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.01-12.36.43:063][173]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.01-12.36.43:063][173]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.01-12.36.43:063][173]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.01-12.36.43:063][173]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.01-12.36.43:063][173]AssetCheck: /Game/Blueprints/Enemy/Vampire/BP_Vampire Validating asset
+[2025.10.01-12.36.43:063][173]AssetCheck: /Game/Blueprints/Enemy/Vampire/Animations/AM_VampireAttack Validating asset
+[2025.10.01-12.36.50:535][397]LogContentBrowser: Attempting asset rename: AM_Death -> AM_VampireDeath
+[2025.10.01-12.36.50:633][397]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.01-12.36.50:635][397]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Enemy/BP_BaseEnemy] ([2] browsable assets)...
+[2025.10.01-12.36.50:693][397]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Enemy/BP_BaseEnemy.BP_BaseEnemy]
+[2025.10.01-12.36.50:693][397]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemy/BP_BaseEnemy]
+[2025.10.01-12.36.50:722][397]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemy/BP_BaseEnemy
+[2025.10.01-12.36.50:723][397]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/BP_BaseEnemy05D31B014C2637E7733AF9AC6DED02D4.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Enemy/BP_BaseEnemy.uasset'
+[2025.10.01-12.36.50:725][397]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enemy/Vampire/Animations/AM_VampireDeath] ([1] browsable assets)...
+[2025.10.01-12.36.50:725][397]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemy/Vampire/Animations/AM_VampireDeath]
+[2025.10.01-12.36.50:727][397]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemy/Vampire/Animations/AM_VampireDeath
+[2025.10.01-12.36.50:727][397]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/AM_VampireDeathEE9681FF45C17347DCFADCA4E65D8A55.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Enemy/Vampire/Animations/AM_VampireDeath.uasset'
+[2025.10.01-12.36.50:729][397]LogFileHelpers: InternalPromptForCheckoutAndSave took 96.032 ms (total: 2.60 sec)
+[2025.10.01-12.36.50:752][397]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2025.10.01-12.36.50:765][397]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.10.01-12.36.50:777][397]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2025.10.01-12.36.50:823][397]LogContentValidation: Display: Starting to validate 2 assets
+[2025.10.01-12.36.50:823][397]LogContentValidation: Enabled validators:
+[2025.10.01-12.36.50:824][397]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.01-12.36.50:824][397]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.01-12.36.50:824][397]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.01-12.36.50:824][397]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.01-12.36.50:824][397]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.01-12.36.50:824][397]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.01-12.36.50:824][397]AssetCheck: /Game/Blueprints/Enemy/BP_BaseEnemy Validating asset
+[2025.10.01-12.36.50:824][397]AssetCheck: /Game/Blueprints/Enemy/Vampire/Animations/AM_VampireDeath Validating asset
+[2025.10.01-12.37.00:566][689]LogContentBrowser: Attempting asset rename: AM_HitReact -> AM_VampireHitReact
+[2025.10.01-12.37.00:641][689]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.01-12.37.00:641][689]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Enemy/BP_BaseEnemy] ([2] browsable assets)...
+[2025.10.01-12.37.00:699][689]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Enemy/BP_BaseEnemy.BP_BaseEnemy]
+[2025.10.01-12.37.00:699][689]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemy/BP_BaseEnemy]
+[2025.10.01-12.37.00:712][689]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemy/BP_BaseEnemy
+[2025.10.01-12.37.00:714][689]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/BP_BaseEnemyB232F44D477BE01795ADF493A54AD010.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Enemy/BP_BaseEnemy.uasset'
+[2025.10.01-12.37.00:716][689]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enemy/Vampire/Animations/AM_VampireHitReact] ([1] browsable assets)...
+[2025.10.01-12.37.00:716][689]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemy/Vampire/Animations/AM_VampireHitReact]
+[2025.10.01-12.37.00:718][689]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemy/Vampire/Animations/AM_VampireHitReact
+[2025.10.01-12.37.00:718][689]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/AM_VampireHitReact0B249DB142F8E013534F1184DB60CFE8.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Enemy/Vampire/Animations/AM_VampireHitReact.uasset'
+[2025.10.01-12.37.00:720][689]LogFileHelpers: InternalPromptForCheckoutAndSave took 79.199 ms (total: 2.68 sec)
+[2025.10.01-12.37.00:743][689]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.10.01-12.37.00:756][689]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.10.01-12.37.00:767][689]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.10.01-12.37.00:820][689]LogContentValidation: Display: Starting to validate 2 assets
+[2025.10.01-12.37.00:820][689]LogContentValidation: Enabled validators:
+[2025.10.01-12.37.00:820][689]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.01-12.37.00:820][689]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.01-12.37.00:820][689]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.01-12.37.00:820][689]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.01-12.37.00:820][689]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.01-12.37.00:821][689]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.01-12.37.00:821][689]AssetCheck: /Game/Blueprints/Enemy/BP_BaseEnemy Validating asset
+[2025.10.01-12.37.00:821][689]AssetCheck: /Game/Blueprints/Enemy/Vampire/Animations/AM_VampireHitReact Validating asset
+[2025.10.01-12.38.00:001][456]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 129158.945312
+[2025.10.01-12.38.00:245][462]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.01-12.38.00:245][462]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 129159.148438, Update Interval: 344.124268
+[2025.10.01-12.38.01:065][486]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/Blueprints/Characters/Animations/AM_EchoAttack.AM_EchoAttack
+[2025.10.01-12.38.01:066][486]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_39
+[2025.10.01-12.38.01:067][486]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_39'.
+[2025.10.01-12.38.01:081][486]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'DebugSkelMeshComponent_0' with 'Echo'
+[2025.10.01-12.38.01:082][486]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_39:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.10.01-12.38.01:513][486]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_40
+[2025.10.01-12.38.01:515][486]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_40'.
+[2025.10.01-12.38.04:357][553]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/Blueprints/Characters/Animations/AM_EchoHitReact.AM_EchoHitReact
+[2025.10.01-12.38.04:407][553]LogAnimMontage: Warning: SetNextSectionName None to None failed for Montage AM_EchoAttack
+[2025.10.01-12.38.04:407][553]LogAnimMontage: Warning: SetNextSectionName None to None failed for Montage AM_EchoAttack
+[2025.10.01-12.38.04:407][553]LogAnimMontage: Warning: SetNextSectionName None to None failed for Montage AM_EchoAttack
+[2025.10.01-12.38.06:909][622]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.01-12.38.57:120][119]LogSlate: Took 0.014065 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2025.10.01-12.38.57:120][119]LogSlate: Last resort fallback font was requested. Font: '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf', Character: ' (U+f061)'
+[2025.10.01-12.38.57:133][119]LogSlate: Took 0.011631 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2025.10.01-12.39.56:601][895]Cmd: TRANSACTION UNDO
+[2025.10.01-12.39.56:602][895]LogEditorTransaction: Undo Add Notify Track
+[2025.10.01-12.39.56:855][895]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_39:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.10.01-12.40.35:738][ 49]LogEditorClassViewer: Warning: Class /Game/Clinic/Demo/FirstPersonBP/FirstPersonOverview.FirstPersonOverview_C has parent /Script/IntroTutorials.EditorTutorial, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.10.01-12.40.35:738][ 49]LogEditorClassViewer: Warning: Class /Game/AncientContent/Blueprints/Character/BP_VaultingTriggerComponent.BP_VaultingTriggerComponent_C has parent /Script/AncientGame.AncientGameBoxComponentBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.10.01-12.40.35:738][ 49]LogEditorClassViewer: Warning: Class /Game/AncientContent/Blueprints/Character/BP_EchoCharacter.BP_EchoCharacter_C has parent /Script/ModularGameplayActors.ModularCharacter, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.10.01-12.40.35:738][ 49]LogEditorClassViewer: Warning: Class /Game/AncientContent/Blueprints/Camera/BP_ThirdPersonCameraMode.BP_ThirdPersonCameraMode_C has parent /Script/AncientGame.SpringArmCameraMode, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.10.01-12.40.35:738][ 49]LogEditorClassViewer: Warning: Class /Game/AncientContent/Blueprints/Abilities/GA_Vault.GA_Vault_C has parent /Script/GameplayAbilities.GameplayAbility, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.10.01-12.40.35:738][ 49]LogEditorClassViewer: Warning: Class /Game/AncientContent/Blueprints/Abilities/GA_SitStand.GA_SitStand_C has parent /Script/GameplayAbilities.GameplayAbility, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.10.01-12.40.35:738][ 49]LogEditorClassViewer: Warning: Class /Game/AncientContent/Blueprints/Abilities/GameplayAbilityUtils.GameplayAbilityUtils_C has parent /Script/GameplayAbilities.GameplayAbility, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.10.01-12.40.35:738][ 49]LogEditorClassViewer: Warning: Class /Game/AncientContent/Characters/Echo/Echo_AnimBP.Echo_AnimBP_C has parent /Script/AncientGame.AncientGameAnimInstance, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.10.01-12.42.14:971][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2025.10.01-12.42.16:245][  0]LogSlate: Window 'Save Content' being destroyed
+[2025.10.01-12.42.16:255][  0]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.01-12.42.16:282][  0]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Characters/Animations/AM_EchoHitReact] ([1] browsable assets)...
+[2025.10.01-12.42.16:300][  0]OBJ SavePackage:     Rendered thumbnail for [AnimMontage /Game/Blueprints/Characters/Animations/AM_EchoHitReact.AM_EchoHitReact]
+[2025.10.01-12.42.16:300][  0]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/Animations/AM_EchoHitReact]
+[2025.10.01-12.42.16:303][  0]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/Animations/AM_EchoHitReact
+[2025.10.01-12.42.16:303][  0]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/AM_EchoHitReactB56D7D4B4425C240372397B71C8A74B6.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Characters/Animations/AM_EchoHitReact.uasset'
+[2025.10.01-12.42.16:326][  0]LogFileHelpers: InternalPromptForCheckoutAndSave took 71.205 ms (total: 2.75 sec)
+[2025.10.01-12.42.16:356][  0]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.01-12.42.16:357][  0]LogContentValidation: Enabled validators:
+[2025.10.01-12.42.16:357][  0]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.01-12.42.16:357][  0]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.01-12.42.16:357][  0]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.01-12.42.16:357][  0]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.01-12.42.16:357][  0]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.01-12.42.16:357][  0]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.01-12.42.16:357][  0]AssetCheck: /Game/Blueprints/Characters/Animations/AM_EchoHitReact Validating asset
+[2025.10.01-12.43.30:880][229]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.10.01-12.43.32:151][229]LogSlate: Window 'Save Content' being destroyed
+[2025.10.01-12.43.32:160][229]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.01-12.43.32:189][229]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/Animations/AM_EchoHitReact] ([1] browsable assets)...
+[2025.10.01-12.43.32:189][229]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/Animations/AM_EchoHitReact]
+[2025.10.01-12.43.32:192][229]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/Animations/AM_EchoHitReact
+[2025.10.01-12.43.32:193][229]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/AM_EchoHitReact2465C1C04DF85092AE9FDD9C69477666.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Characters/Animations/AM_EchoHitReact.uasset'
+[2025.10.01-12.43.32:203][229]LogFileHelpers: InternalPromptForCheckoutAndSave took 42.922 ms (total: 2.79 sec)
+[2025.10.01-12.43.32:239][229]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.01-12.43.32:239][229]LogContentValidation: Enabled validators:
+[2025.10.01-12.43.32:239][229]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.01-12.43.32:239][229]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.01-12.43.32:239][229]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.01-12.43.32:239][229]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.01-12.43.32:239][229]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.01-12.43.32:239][229]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.01-12.43.32:239][229]AssetCheck: /Game/Blueprints/Characters/Animations/AM_EchoHitReact Validating asset
+[2025.10.01-12.43.41:047][492]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/Blueprints/Characters/Animations/AM_EchoEquip.AM_EchoEquip
+[2025.10.01-12.43.54:903][885]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/Blueprints/Characters/Animations/AM_EchoAttack.AM_EchoAttack
+[2025.10.01-12.44.16:012][492]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_41
+[2025.10.01-12.44.16:012][492]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_41'.
+[2025.10.01-12.44.17:424][531]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 129521.367188
+[2025.10.01-12.44.17:652][538]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.01-12.44.17:652][538]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 129521.554688, Update Interval: 304.989777
+[2025.10.01-12.44.42:073][266]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Blueprints/Characters/Animations/Locomotion/RunEquipped1Hand.RunEquipped1Hand
+[2025.10.01-12.44.42:124][266]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_39:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.10.01-12.44.42:189][266]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_42
+[2025.10.01-12.44.42:190][266]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_42'.
+[2025.10.01-12.44.57:830][731]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/Blueprints/Characters/Animations/AM_EchoHitReact.AM_EchoHitReact
+[2025.10.01-12.44.57:971][731]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2025.10.01-12.44.57:971][731]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.01-12.44.58:360][732]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.10.01-12.46.42:944][838]Cmd: TRANSACTION UNDO
+[2025.10.01-12.46.42:946][838]LogEditorTransaction: Undo Move Anim Notifies
+[2025.10.01-12.46.43:193][838]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_39:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.10.01-12.46.44:539][875]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.01-12.47.10:557][651]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.10.01-12.47.12:278][651]LogSlate: Window 'Save Content' being destroyed
+[2025.10.01-12.47.12:287][651]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.01-12.47.12:325][651]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Characters/Animations/AM_EchoHitReact] ([1] browsable assets)...
+[2025.10.01-12.47.12:350][651]OBJ SavePackage:     Rendered thumbnail for [AnimMontage /Game/Blueprints/Characters/Animations/AM_EchoHitReact.AM_EchoHitReact]
+[2025.10.01-12.47.12:351][651]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/Animations/AM_EchoHitReact]
+[2025.10.01-12.47.12:357][651]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/Animations/AM_EchoHitReact
+[2025.10.01-12.47.12:358][651]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/AM_EchoHitReact97391A914411D2FA7726C8900F8C7243.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Characters/Animations/AM_EchoHitReact.uasset'
+[2025.10.01-12.47.12:370][651]LogFileHelpers: InternalPromptForCheckoutAndSave took 82.234 ms (total: 2.87 sec)
+[2025.10.01-12.47.12:407][651]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.01-12.47.12:407][651]LogContentValidation: Enabled validators:
+[2025.10.01-12.47.12:408][651]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.01-12.47.12:408][651]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.01-12.47.12:408][651]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.01-12.47.12:408][651]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.01-12.47.12:408][651]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.01-12.47.12:408][651]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.01-12.47.12:409][651]AssetCheck: /Game/Blueprints/Characters/Animations/AM_EchoHitReact Validating asset
+[2025.10.01-12.49.54:493][506]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 129845.398438
+[2025.10.01-12.49.54:760][514]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.01-12.49.54:760][514]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 129845.617188, Update Interval: 338.264709
+[2025.10.01-12.50.40:519][883]Cmd: TRANSACTION UNDO
+[2025.10.01-12.50.40:519][883]LogEditorTransaction: Undo Move Anim Notifies
+[2025.10.01-12.50.40:753][883]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_39:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.10.01-12.56.09:819][725]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 130205.289062
+[2025.10.01-12.56.10:286][739]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.01-12.56.10:286][739]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 130205.695312, Update Interval: 334.488953
+[2025.10.01-12.56.18:520][985]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.10.01-12.56.19:297][985]LogSlate: Window 'Save Content' being destroyed
+[2025.10.01-12.56.19:307][985]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.01-12.56.19:340][985]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Characters/Animations/AM_EchoHitReact] ([1] browsable assets)...
+[2025.10.01-12.56.19:357][985]OBJ SavePackage:     Rendered thumbnail for [AnimMontage /Game/Blueprints/Characters/Animations/AM_EchoHitReact.AM_EchoHitReact]
+[2025.10.01-12.56.19:357][985]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/Animations/AM_EchoHitReact]
+[2025.10.01-12.56.19:368][985]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/Animations/AM_EchoHitReact
+[2025.10.01-12.56.19:369][985]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/AM_EchoHitReact65EB735C43702066770E94B7786773A3.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Characters/Animations/AM_EchoHitReact.uasset'
+[2025.10.01-12.56.19:381][985]LogFileHelpers: InternalPromptForCheckoutAndSave took 73.990 ms (total: 2.95 sec)
+[2025.10.01-12.56.19:413][985]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.01-12.56.19:413][985]LogContentValidation: Enabled validators:
+[2025.10.01-12.56.19:413][985]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.01-12.56.19:413][985]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.01-12.56.19:413][985]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.01-12.56.19:413][985]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.01-12.56.19:413][985]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.01-12.56.19:414][985]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.01-12.56.19:414][985]AssetCheck: /Game/Blueprints/Characters/Animations/AM_EchoHitReact Validating asset
+[2025.10.01-12.56.46:217][784]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Characters/BP_SlashCharacter.BP_SlashCharacter
+[2025.10.01-12.56.46:222][784]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_43
+[2025.10.01-12.56.46:223][784]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_43'.
+[2025.10.01-12.56.46:371][784]LogStreaming: Display: FlushAsyncLoading(362): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.01-12.56.46:892][784]LogLinker: Warning: [AssetLog] C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Content\AncientContent\Blueprints\Abilities\GameplayAbilityUtils.uasset: VerifyImport: Failed to find script package for import object 'Package /Script/GameplayAbilities'
+[2025.10.01-12.56.46:893][784]LogLinker: Warning: [AssetLog] C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Content\AncientContent\Blueprints\Abilities\GameplayAbilityUtils.uasset: CreateExport: Failed to load Class /Script/GameplayAbilities.GameplayAbility as Parent for BlueprintGeneratedClass /Game/AncientContent/Blueprints/Abilities/GameplayAbilityUtils.GameplayAbilityUtils_C - both will fail to load
+[2025.10.01-12.56.46:893][784]LogLinker: Warning: [AssetLog] C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Content\AncientContent\Blueprints\Abilities\GameplayAbilityUtils.uasset: CreateExport: Failed to load Class /Script/GameplayAbilities.GameplayAbility as Parent for BlueprintGeneratedClass /Game/AncientContent/Blueprints/Abilities/GameplayAbilityUtils.GameplayAbilityUtils_C - both will fail to load
+[2025.10.01-12.56.46:893][784]LogLinker: Warning: Unable to load Default__GameplayAbilityUtils_C with outer Package /Game/AncientContent/Blueprints/Abilities/GameplayAbilityUtils because its class (GameplayAbilityUtils_C) does not exist
+[2025.10.01-12.56.46:893][784]LogLinker: Warning: [AssetLog] C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Content\AncientContent\Blueprints\Abilities\GameplayAbilityUtils.uasset: CreateExport: Failed to load Class /Script/GameplayAbilities.GameplayAbility as Parent for BlueprintGeneratedClass /Game/AncientContent/Blueprints/Abilities/GameplayAbilityUtils.GameplayAbilityUtils_C - both will fail to load
+[2025.10.01-12.56.46:895][784]LogBlueprint: Warning: FMemberReference::ResolveMember (GetActorInfo) bSelfContext == true, but no scope supplied!
+[2025.10.01-12.56.46:895][784]LogBlueprint: Warning: FMemberReference::ResolveMember (GetActorInfo) bSelfContext == true, but no scope supplied!
+[2025.10.01-12.56.47:003][784]LogBlueprintEditor: Perf: 0.7 total seconds to load all 7 blueprint libraries in project. Avoid references to content in blueprint libraries to shorten this time.
+[2025.10.01-12.56.47:003][784]LogBlueprintEditor: Perf: 0.3 seconds loading: /Game/AncientContent/Blueprints/Character/BP_VaultingUtilLib
+[2025.10.01-12.56.50:302][784]LogBlueprint: Warning: Blueprint /Game/AncientContent/Blueprints/Abilities/GameplayAbilityUtils is missing GeneratedClass asset tag
+[2025.10.01-12.56.50:405][784]LogSlate: Took 0.007654 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.10.01-12.56.51:116][784]LogAutomationController: Ignoring very large delta of 4.91 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.10.01-12.56.51:121][785]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_44
+[2025.10.01-12.56.51:122][785]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_44'.
+[2025.10.01-12.57.02:055][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.10.01-12.57.02:917][ 40]LogSlate: Window 'Save Content' being destroyed
+[2025.10.01-12.57.02:926][ 40]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.01-12.57.02:955][ 40]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Characters/BP_SlashCharacter] ([2] browsable assets)...
+[2025.10.01-12.57.03:054][ 40]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Characters/BP_SlashCharacter.BP_SlashCharacter]
+[2025.10.01-12.57.03:055][ 40]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/BP_SlashCharacter]
+[2025.10.01-12.57.03:062][ 40]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/BP_SlashCharacter
+[2025.10.01-12.57.03:063][ 40]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/BP_SlashCharacterBD7D24984B8A28399703249D6A335751.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Characters/BP_SlashCharacter.uasset'
+[2025.10.01-12.57.03:073][ 40]LogFileHelpers: InternalPromptForCheckoutAndSave took 146.863 ms (total: 3.10 sec)
+[2025.10.01-12.57.03:111][ 40]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.01-12.57.03:111][ 40]LogContentValidation: Enabled validators:
+[2025.10.01-12.57.03:111][ 40]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.01-12.57.03:111][ 40]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.01-12.57.03:111][ 40]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.01-12.57.03:111][ 40]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.01-12.57.03:111][ 40]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.01-12.57.03:111][ 40]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.01-12.57.03:111][ 40]AssetCheck: /Game/Blueprints/Characters/BP_SlashCharacter Validating asset
