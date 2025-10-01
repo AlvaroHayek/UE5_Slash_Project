@@ -16,8 +16,8 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 
 #define FID_Users_Usuario_Desktop_UnrealEngineUnity_UE5_Slash_Project_Slash_Project_Source_Slash_Project_Public_Characters_SlashCharacter_h_21_RPC_WRAPPERS_NO_PURE_DECLS \
 	DECLARE_FUNCTION(execFinishEquipping); \
-	DECLARE_FUNCTION(execArm); \
-	DECLARE_FUNCTION(execDisarm);
+	DECLARE_FUNCTION(execAttachWeaponToHand); \
+	DECLARE_FUNCTION(execAttachWeaponToBack);
 
 
 #define FID_Users_Usuario_Desktop_UnrealEngineUnity_UE5_Slash_Project_Slash_Project_Source_Slash_Project_Public_Characters_SlashCharacter_h_21_INCLASS_NO_PURE_DECLS \

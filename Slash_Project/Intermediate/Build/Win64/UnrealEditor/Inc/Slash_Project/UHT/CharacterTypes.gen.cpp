@@ -150,31 +150,31 @@ struct Z_Construct_UEnum_Slash_Project_EDeathPose_Statics
 #if WITH_METADATA
 	static constexpr UECodeGen_Private::FMetaDataPairParam Enum_MetaDataParams[] = {
 		{ "BlueprintType", "true" },
-		{ "EDP_Alive.DisplayName", "Alive" },
-		{ "EDP_Alive.Name", "EDeathPose::EDP_Alive" },
 		{ "EDP_Death1.DisplayName", "Death1" },
-		{ "EDP_Death1.Name", "EDeathPose::EDP_Death1" },
+		{ "EDP_Death1.Name", "EDP_Death1" },
 		{ "EDP_Death2.DisplayName", "Death2" },
-		{ "EDP_Death2.Name", "EDeathPose::EDP_Death2" },
+		{ "EDP_Death2.Name", "EDP_Death2" },
 		{ "EDP_Death3.DisplayName", "Death3" },
-		{ "EDP_Death3.Name", "EDeathPose::EDP_Death3" },
+		{ "EDP_Death3.Name", "EDP_Death3" },
 		{ "EDP_Death4.DisplayName", "Death4" },
-		{ "EDP_Death4.Name", "EDeathPose::EDP_Death4" },
+		{ "EDP_Death4.Name", "EDP_Death4" },
 		{ "EDP_Death5.DisplayName", "Death5" },
-		{ "EDP_Death5.Name", "EDeathPose::EDP_Death5" },
+		{ "EDP_Death5.Name", "EDP_Death5" },
 		{ "EDP_Death6.DisplayName", "Death6" },
-		{ "EDP_Death6.Name", "EDeathPose::EDP_Death6" },
+		{ "EDP_Death6.Name", "EDP_Death6" },
+		{ "EDP_MAX.DisplayName", "DefaultMAX" },
+		{ "EDP_MAX.Name", "EDP_MAX" },
 		{ "ModuleRelativePath", "Public/Characters/CharacterTypes.h" },
 	};
 #endif // WITH_METADATA
 	static constexpr UECodeGen_Private::FEnumeratorParam Enumerators[] = {
-		{ "EDeathPose::EDP_Alive", (int64)EDeathPose::EDP_Alive },
-		{ "EDeathPose::EDP_Death1", (int64)EDeathPose::EDP_Death1 },
-		{ "EDeathPose::EDP_Death2", (int64)EDeathPose::EDP_Death2 },
-		{ "EDeathPose::EDP_Death3", (int64)EDeathPose::EDP_Death3 },
-		{ "EDeathPose::EDP_Death4", (int64)EDeathPose::EDP_Death4 },
-		{ "EDeathPose::EDP_Death5", (int64)EDeathPose::EDP_Death5 },
-		{ "EDeathPose::EDP_Death6", (int64)EDeathPose::EDP_Death6 },
+		{ "EDP_Death1", (int64)EDP_Death1 },
+		{ "EDP_Death2", (int64)EDP_Death2 },
+		{ "EDP_Death3", (int64)EDP_Death3 },
+		{ "EDP_Death4", (int64)EDP_Death4 },
+		{ "EDP_Death5", (int64)EDP_Death5 },
+		{ "EDP_Death6", (int64)EDP_Death6 },
+		{ "EDP_MAX", (int64)EDP_MAX },
 	};
 	static const UECodeGen_Private::FEnumParams EnumParams;
 };
@@ -187,7 +187,7 @@ const UECodeGen_Private::FEnumParams Z_Construct_UEnum_Slash_Project_EDeathPose_
 	RF_Public|RF_Transient|RF_MarkAsNative,
 	UE_ARRAY_COUNT(Z_Construct_UEnum_Slash_Project_EDeathPose_Statics::Enumerators),
 	EEnumFlags::None,
-	(uint8)UEnum::ECppForm::EnumClass,
+	(uint8)UEnum::ECppForm::Regular,
 	METADATA_PARAMS(UE_ARRAY_COUNT(Z_Construct_UEnum_Slash_Project_EDeathPose_Statics::Enum_MetaDataParams), Z_Construct_UEnum_Slash_Project_EDeathPose_Statics::Enum_MetaDataParams)
 };
 UEnum* Z_Construct_UEnum_Slash_Project_EDeathPose()
@@ -223,15 +223,24 @@ struct Z_Construct_UEnum_Slash_Project_EEnemyState_Statics
 		{ "EES_Attacking.Name", "EEnemyState::EES_Attacking" },
 		{ "EES_Chasing.DisplayName", "Chasing" },
 		{ "EES_Chasing.Name", "EEnemyState::EES_Chasing" },
+		{ "EES_Dead.DisplayName", "Dead" },
+		{ "EES_Dead.Name", "EEnemyState::EES_Dead" },
+		{ "EES_Engaged.DisplayName", "Engaged" },
+		{ "EES_Engaged.Name", "EEnemyState::EES_Engaged" },
+		{ "EES_NoState.DisplayName", "NoState" },
+		{ "EES_NoState.Name", "EEnemyState::EES_NoState" },
 		{ "EES_Patrolling.DisplayName", "Patrolling" },
 		{ "EES_Patrolling.Name", "EEnemyState::EES_Patrolling" },
 		{ "ModuleRelativePath", "Public/Characters/CharacterTypes.h" },
 	};
 #endif // WITH_METADATA
 	static constexpr UECodeGen_Private::FEnumeratorParam Enumerators[] = {
+		{ "EEnemyState::EES_Dead", (int64)EEnemyState::EES_Dead },
 		{ "EEnemyState::EES_Patrolling", (int64)EEnemyState::EES_Patrolling },
 		{ "EEnemyState::EES_Chasing", (int64)EEnemyState::EES_Chasing },
 		{ "EEnemyState::EES_Attacking", (int64)EEnemyState::EES_Attacking },
+		{ "EEnemyState::EES_Engaged", (int64)EEnemyState::EES_Engaged },
+		{ "EEnemyState::EES_NoState", (int64)EEnemyState::EES_NoState },
 	};
 	static const UECodeGen_Private::FEnumParams EnumParams;
 };
@@ -263,11 +272,11 @@ struct Z_CompiledInDeferFile_FID_Users_Usuario_Desktop_UnrealEngineUnity_UE5_Sla
 	static constexpr FEnumRegisterCompiledInInfo EnumInfo[] = {
 		{ ECharacterState_StaticEnum, TEXT("ECharacterState"), &Z_Registration_Info_UEnum_ECharacterState, CONSTRUCT_RELOAD_VERSION_INFO(FEnumReloadVersionInfo, 1933495170U) },
 		{ EActionState_StaticEnum, TEXT("EActionState"), &Z_Registration_Info_UEnum_EActionState, CONSTRUCT_RELOAD_VERSION_INFO(FEnumReloadVersionInfo, 4035014085U) },
-		{ EDeathPose_StaticEnum, TEXT("EDeathPose"), &Z_Registration_Info_UEnum_EDeathPose, CONSTRUCT_RELOAD_VERSION_INFO(FEnumReloadVersionInfo, 2972978323U) },
-		{ EEnemyState_StaticEnum, TEXT("EEnemyState"), &Z_Registration_Info_UEnum_EEnemyState, CONSTRUCT_RELOAD_VERSION_INFO(FEnumReloadVersionInfo, 412873758U) },
+		{ EDeathPose_StaticEnum, TEXT("EDeathPose"), &Z_Registration_Info_UEnum_EDeathPose, CONSTRUCT_RELOAD_VERSION_INFO(FEnumReloadVersionInfo, 1086421595U) },
+		{ EEnemyState_StaticEnum, TEXT("EEnemyState"), &Z_Registration_Info_UEnum_EEnemyState, CONSTRUCT_RELOAD_VERSION_INFO(FEnumReloadVersionInfo, 86765062U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_Usuario_Desktop_UnrealEngineUnity_UE5_Slash_Project_Slash_Project_Source_Slash_Project_Public_Characters_CharacterTypes_h_552068182(TEXT("/Script/Slash_Project"),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_Usuario_Desktop_UnrealEngineUnity_UE5_Slash_Project_Slash_Project_Source_Slash_Project_Public_Characters_CharacterTypes_h_1704859156(TEXT("/Script/Slash_Project"),
 	nullptr, 0,
 	nullptr, 0,
 	Z_CompiledInDeferFile_FID_Users_Usuario_Desktop_UnrealEngineUnity_UE5_Slash_Project_Slash_Project_Source_Slash_Project_Public_Characters_CharacterTypes_h_Statics::EnumInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_Usuario_Desktop_UnrealEngineUnity_UE5_Slash_Project_Slash_Project_Source_Slash_Project_Public_Characters_CharacterTypes_h_Statics::EnumInfo));

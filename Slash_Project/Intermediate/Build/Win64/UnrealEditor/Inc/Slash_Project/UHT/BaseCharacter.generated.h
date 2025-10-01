@@ -15,8 +15,8 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #define SLASH_PROJECT_BaseCharacter_generated_h
 
 #define FID_Users_Usuario_Desktop_UnrealEngineUnity_UE5_Slash_Project_Slash_Project_Source_Slash_Project_Public_Characters_BaseCharacter_h_17_RPC_WRAPPERS_NO_PURE_DECLS \
-	DECLARE_FUNCTION(execAttackEnd); \
-	DECLARE_FUNCTION(execSetWeaponCollisionEnabled);
+	DECLARE_FUNCTION(execSetWeaponCollisionEnabled); \
+	DECLARE_FUNCTION(execAttackEnd);
 
 
 #define FID_Users_Usuario_Desktop_UnrealEngineUnity_UE5_Slash_Project_Slash_Project_Source_Slash_Project_Public_Characters_BaseCharacter_h_17_INCLASS_NO_PURE_DECLS \
