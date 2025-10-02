@@ -9,13 +9,14 @@
 #include "UObject/ScriptMacros.h"
 
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
+class AActor;
 #ifdef SLASH_PROJECT_HitInterface_generated_h
 #error "HitInterface.generated.h already included, missing '#pragma once' in HitInterface.h"
 #endif
 #define SLASH_PROJECT_HitInterface_generated_h
 
 #define FID_Users_Usuario_Desktop_UnrealEngineUnity_UE5_Slash_Project_Slash_Project_Source_Slash_Project_Public_Interfaces_HitInterface_h_13_RPC_WRAPPERS_NO_PURE_DECLS \
-	virtual void GetHit_Implementation(FVector const& ImpactPoint) {}; \
+	virtual void GetHit_Implementation(FVector const& ImpactPoint, AActor* Hitter) {}; \
 	DECLARE_FUNCTION(execGetHit);
 
 
@@ -57,7 +58,7 @@ protected: \
 public: \
 	typedef UHitInterface UClassType; \
 	typedef IHitInterface ThisClass; \
-	static void Execute_GetHit(UObject* O, FVector const& ImpactPoint); \
+	static void Execute_GetHit(UObject* O, FVector const& ImpactPoint, AActor* Hitter); \
 	virtual UObject* _getUObject() const { return nullptr; }
 
 
