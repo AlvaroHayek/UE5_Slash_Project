@@ -60,6 +60,7 @@ void ASlashCharacter::SetupPlayerInputComponent(UInputComponent* PlayerInputComp
 void ASlashCharacter::GetHit_Implementation(const FVector& ImpactPoint)
 {
 	Super::GetHit_Implementation(ImpactPoint);
+	ActionState = EActionState::EAS_HitReaction;
 }
 
 void ASlashCharacter::BeginPlay()
@@ -212,4 +213,9 @@ void ASlashCharacter::PlayEquipMontage(const FName& SectionName)
 void ASlashCharacter::FinishEquipping()
 {
 	ActionState = EActionState::EAS_Unoccupied;
+}
+
+void ASlashCharacter::HitReactEnd()
+{
+	ActionState = EActionState::EAS_HitReaction;
 }

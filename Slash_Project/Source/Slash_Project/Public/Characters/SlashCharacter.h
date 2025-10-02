@@ -55,6 +55,9 @@ protected:
 	UFUNCTION(BlueprintCallable)
 	void FinishEquipping();
 
+	UFUNCTION(BlueprintCallable)
+	void HitReactEnd();
+
 private:
 	/** Character Components*/
 	UPROPERTY(VisibleAnywhere)

@@ -97,6 +97,8 @@ struct Z_Construct_UEnum_Slash_Project_EActionState_Statics
 		{ "EAS_Attacking.Name", "EActionState::EAS_Attacking" },
 		{ "EAS_EquippingWeapon.DisplayName", "Equipping Weapon" },
 		{ "EAS_EquippingWeapon.Name", "EActionState::EAS_EquippingWeapon" },
+		{ "EAS_HitReaction.DisplayName", "HitReaction" },
+		{ "EAS_HitReaction.Name", "EActionState::EAS_HitReaction" },
 		{ "EAS_Unoccupied.DisplayName", "Unoccupied" },
 		{ "EAS_Unoccupied.Name", "EActionState::EAS_Unoccupied" },
 		{ "ModuleRelativePath", "Public/Characters/CharacterTypes.h" },
@@ -104,6 +106,7 @@ struct Z_Construct_UEnum_Slash_Project_EActionState_Statics
 #endif // WITH_METADATA
 	static constexpr UECodeGen_Private::FEnumeratorParam Enumerators[] = {
 		{ "EActionState::EAS_Unoccupied", (int64)EActionState::EAS_Unoccupied },
+		{ "EActionState::EAS_HitReaction", (int64)EActionState::EAS_HitReaction },
 		{ "EActionState::EAS_Attacking", (int64)EActionState::EAS_Attacking },
 		{ "EActionState::EAS_EquippingWeapon", (int64)EActionState::EAS_EquippingWeapon },
 	};
@@ -271,12 +274,12 @@ struct Z_CompiledInDeferFile_FID_Users_Usuario_Desktop_UnrealEngineUnity_UE5_Sla
 {
 	static constexpr FEnumRegisterCompiledInInfo EnumInfo[] = {
 		{ ECharacterState_StaticEnum, TEXT("ECharacterState"), &Z_Registration_Info_UEnum_ECharacterState, CONSTRUCT_RELOAD_VERSION_INFO(FEnumReloadVersionInfo, 1933495170U) },
-		{ EActionState_StaticEnum, TEXT("EActionState"), &Z_Registration_Info_UEnum_EActionState, CONSTRUCT_RELOAD_VERSION_INFO(FEnumReloadVersionInfo, 4035014085U) },
+		{ EActionState_StaticEnum, TEXT("EActionState"), &Z_Registration_Info_UEnum_EActionState, CONSTRUCT_RELOAD_VERSION_INFO(FEnumReloadVersionInfo, 3298792575U) },
 		{ EDeathPose_StaticEnum, TEXT("EDeathPose"), &Z_Registration_Info_UEnum_EDeathPose, CONSTRUCT_RELOAD_VERSION_INFO(FEnumReloadVersionInfo, 1086421595U) },
 		{ EEnemyState_StaticEnum, TEXT("EEnemyState"), &Z_Registration_Info_UEnum_EEnemyState, CONSTRUCT_RELOAD_VERSION_INFO(FEnumReloadVersionInfo, 86765062U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_Usuario_Desktop_UnrealEngineUnity_UE5_Slash_Project_Slash_Project_Source_Slash_Project_Public_Characters_CharacterTypes_h_1704859156(TEXT("/Script/Slash_Project"),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_Usuario_Desktop_UnrealEngineUnity_UE5_Slash_Project_Slash_Project_Source_Slash_Project_Public_Characters_CharacterTypes_h_3395986975(TEXT("/Script/Slash_Project"),
 	nullptr, 0,
 	nullptr, 0,
 	Z_CompiledInDeferFile_FID_Users_Usuario_Desktop_UnrealEngineUnity_UE5_Slash_Project_Slash_Project_Source_Slash_Project_Public_Characters_CharacterTypes_h_Statics::EnumInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_Usuario_Desktop_UnrealEngineUnity_UE5_Slash_Project_Slash_Project_Source_Slash_Project_Public_Characters_CharacterTypes_h_Statics::EnumInfo));

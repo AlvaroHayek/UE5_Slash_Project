@@ -30,6 +30,7 @@ template<> SLASH_PROJECT_API UEnum* StaticEnum<ECharacterState>();
 
 #define FOREACH_ENUM_EACTIONSTATE(op) \
 	op(EActionState::EAS_Unoccupied) \
+	op(EActionState::EAS_HitReaction) \
 	op(EActionState::EAS_Attacking) \
 	op(EActionState::EAS_EquippingWeapon) 
 
