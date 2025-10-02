@@ -72,7 +72,8 @@ void ASlashCharacter::BeginPlay()
 
 void ASlashCharacter::MoveForward(float Value)
 {
-	if (ActionState != EActionState::EAS_Unoccupied) return;
+	//if (ActionState != EActionState::EAS_Unoccupied) return;
+	if (ActionState == EActionState::EAS_Attacking) return;
 	if (Controller && (Value != 0.f))
 	{
 		// find out which way is forward
@@ -136,6 +137,8 @@ void ASlashCharacter::Attack()
 		PlayAttackMontage();
 		ActionState = EActionState::EAS_Attacking;
 	}
+	else
+		AttackEnd();
 }
 
 void ASlashCharacter::EquipWeapon(AWeapon* Weapon)
