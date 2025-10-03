@@ -16,11 +16,19 @@
 	],
 	"Plugins": [
 		{
+			"Name": "HairStrands",
+        	"Enabled": true
+		},
+		{
 			"Name": "ModelingToolsEditorMode",
 			"Enabled": true
 		},
 		{
 			"Name": "AlembicHairImporter",
+			"Enabled": true
+		},
+		{
+			"Name": "MotionWarping",
 			"Enabled": true
 		}
 	]
