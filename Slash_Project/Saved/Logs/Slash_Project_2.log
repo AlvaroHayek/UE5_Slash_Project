@@ -1586,3 +1586,64 @@ Skipped package /AudioModulation/Volume was expected to be found in plugin Audio
 [2025.10.04-15.23.11:869][131]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 69528.343750
 [2025.10.04-15.23.12:203][141]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.10.04-15.23.12:203][141]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 69528.640625, Update Interval: 306.057312
+[2025.10.04-15.29.03:515][642]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 69866.992188
+[2025.10.04-15.29.03:779][650]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.04-15.29.03:779][650]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 69867.218750, Update Interval: 320.156860
+[2025.10.04-15.30.13:457][728]LogDerivedDataCache: C:/Users/Usuario/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.002 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.10.04-15.34.21:931][  3]LogHttp: Warning: 0000080B5629C400: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2025.10.04-15.34.21:931][  3]LogHttp: Warning: 0000080B5629C400: libcurl info message cache 0 (Found bundle for host: 0x80aeb8407b0 [serially])
+[2025.10.04-15.34.21:931][  3]LogHttp: Warning: 0000080B5629C400: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2025.10.04-15.34.21:931][  3]LogHttp: Warning: 0000080B5629C400: libcurl info message cache 2 (We are completely uploaded and fine)
+[2025.10.04-15.34.21:931][  3]LogHttp: Warning: 0000080B5629C400: libcurl info message cache 3 (TLSv1.3 (IN), TLS alert, close notify (256):)
+[2025.10.04-15.34.21:931][  3]LogHttp: Warning: 0000080B5629C400: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2025.10.04-15.34.21:931][  3]LogHttp: Warning: 0000080B5629C400: libcurl info message cache 5 (state.rewindbeforesend = TRUE)
+[2025.10.04-15.34.21:931][  3]LogHttp: Warning: 0000080B5629C400: libcurl info message cache 6 (Closing connection)
+[2025.10.04-15.34.21:931][  3]LogHttp: Warning: 0000080B5629C400: libcurl info message cache 7 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.10.04-15.34.21:931][  3]LogHttp: Warning: 0000080B5629C400: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4FAABD89-47C7-9D5A-FEBE-FFB6BB1FA143%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.3-39772772%2B%2B%2BUE5%2BRelease-5.5&UserID=9ffb585a415f8b5ea3099583a3a7266d%7C8558b0f0649c41fd8c81a81c61794009%7C7a8c91b2-78e4-4ba2-9615-51435d5b763c&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2025.10.04-15.34.21:931][  3]LogHttp: Warning: 0000080B5629C400: libcurl info message cache 9 (  Trying 3.91.120.207:443...)
+[2025.10.04-15.34.21:931][  3]LogHttp: Warning: 0000080B5629C400: libcurl info message cache 10 (Connected to datarouter.ol.epicgames.com (3.91.120.207) port 443)
+[2025.10.04-15.34.21:931][  3]LogHttp: Warning: 0000080B5629C400: libcurl info message cache 11 (ALPN: curl offers http/1.1)
+[2025.10.04-15.34.21:931][  3]LogHttp: Warning: 0000080B5629C400: libcurl info message cache 12 (SSL reusing session ID)
+[2025.10.04-15.34.21:931][  3]LogHttp: Warning: 0000080B5629C400: libcurl info message cache 13 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2025.10.04-15.34.21:931][  3]LogHttp: Warning: 0000080B5629C400: libcurl info message cache 14 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2025.10.04-15.34.21:931][  3]LogHttp: Warning: 0000080B5629C400: libcurl info message cache 15 (TLSv1.3 (IN), TLS handshake, Encrypted Extensions (8):)
+[2025.10.04-15.34.21:931][  3]LogHttp: Warning: 0000080B5629C400: libcurl info message cache 16 (TLSv1.3 (IN), TLS handshake, Certificate (11):)
+[2025.10.04-15.34.21:931][  3]LogHttp: Warning: 0000080B5629C400: libcurl info message cache 17 (TLSv1.3 (IN), TLS handshake, CERT verify (15):)
+[2025.10.04-15.34.21:932][  3]LogHttp: Warning: 0000080B5629C400: libcurl info message cache 18 (TLSv1.3 (IN), TLS handshake, Finished (20):)
+[2025.10.04-15.34.21:932][  4]LogHttp: Warning: 0000080B5629C400: libcurl info message cache 19 (TLSv1.3 (OUT), TLS change cipher, Change cipher spec (1):)
+[2025.10.04-15.34.21:932][  4]LogHttp: Warning: 0000080B5629C400: libcurl info message cache 20 (TLSv1.3 (OUT), TLS handshake, Finished (20):)
+[2025.10.04-15.34.21:933][  4]LogHttp: Warning: 0000080B5629C400: libcurl info message cache 21 (SSL connection using TLSv1.3 / TLS_AES_128_GCM_SHA256)
+[2025.10.04-15.34.21:933][  4]LogHttp: Warning: 0000080B5629C400: libcurl info message cache 22 (ALPN: server accepted http/1.1)
+[2025.10.04-15.34.21:933][  4]LogHttp: Warning: 0000080B5629C400: libcurl info message cache 23 (Server certificate:)
+[2025.10.04-15.34.21:933][  4]LogHttp: Warning: 0000080B5629C400: libcurl info message cache 24 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2025.10.04-15.34.21:933][  4]LogHttp: Warning: 0000080B5629C400: libcurl info message cache 25 ( start date: Feb  2 00:00:00 2025 GMT)
+[2025.10.04-15.34.21:933][  4]LogHttp: Warning: 0000080B5629C400: libcurl info message cache 26 ( expire date: Mar  3 23:59:59 2026 GMT)
+[2025.10.04-15.34.21:933][  4]LogHttp: Warning: 0000080B5629C400: libcurl info message cache 27 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2025.10.04-15.34.21:933][  4]LogHttp: Warning: 0000080B5629C400: libcurl info message cache 28 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M03)
+[2025.10.04-15.34.21:933][  4]LogHttp: Warning: 0000080B5629C400: libcurl info message cache 29 ( SSL certificate verify ok.)
+[2025.10.04-15.34.21:933][  4]LogHttp: Warning: 0000080B5629C400: libcurl info message cache 30 (using HTTP/1.1)
+[2025.10.04-15.34.21:933][  4]LogHttp: Warning: 0000080B5629C400: libcurl info message cache 31 (necessary data rewind wasn't possible)
+[2025.10.04-15.34.21:933][  4]LogHttp: Warning: 0000080B5629C400: libcurl info message cache 32 (Closing connection)
+[2025.10.04-15.34.21:933][  4]LogHttp: Warning: 0000080B5629C400: libcurl info message cache 33 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.10.04-15.35.04:095][144]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 70215.429688
+[2025.10.04-15.35.04:328][151]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.04-15.35.04:328][151]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 70215.617188, Update Interval: 343.269135
+[2025.10.04-15.41.34:300][829]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 70589.109375
+[2025.10.04-15.41.34:565][837]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.04-15.41.34:565][837]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 70589.328125, Update Interval: 301.759705
+[2025.10.04-15.45.59:605][671]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2025.10.04-15.59.00:135][672]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.10.04-15.59.00:135][672]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=14376
+[2025.10.04-15.59.01:213][673]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.10.04-15.59.01:218][673]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{58ea4715-9790-4598-9427-e0f8b9d39fd0}, Name=Altavoces (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=1020.86
+[2025.10.04-15.59.01:218][673]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.10.04-15.59.01:229][673]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.10.04-15.59.51:003][119]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 71673.093750
+[2025.10.04-15.59.51:237][126]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.04-15.59.51:237][126]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 71673.281250, Update Interval: 304.173096
+[2025.10.04-16.05.49:321][725]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 72016.054688
+[2025.10.04-16.05.49:551][732]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.04-16.05.49:552][732]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 72016.242188, Update Interval: 303.054291
+[2025.10.04-16.11.33:824][ 45]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 72347.375000
+[2025.10.04-16.11.34:091][ 53]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.04-16.11.34:091][ 53]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 72347.593750, Update Interval: 327.616821
