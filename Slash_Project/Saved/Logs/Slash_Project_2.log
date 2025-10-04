@@ -1541,3 +1541,48 @@ Skipped package /AudioModulation/Volume was expected to be found in plugin Audio
 [2025.10.03-20.45.45:607][591]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2480.877197
 [2025.10.03-20.45.45:843][598]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.10.03-20.45.45:843][599]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2481.080322, Update Interval: 330.381775
+[2025.10.03-20.47.22:260][482]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Altavoces (Realtek(R) Audio), InstanceID=1
+[2025.10.03-20.47.22:268][482]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.10.03-20.47.22:269][482]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=14376
+[2025.10.03-20.47.22:533][490]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.10.03-20.47.22:537][490]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{58ea4715-9790-4598-9427-e0f8b9d39fd0}, Name=Altavoces (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=246.78
+[2025.10.03-20.47.22:537][490]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.10.03-20.47.22:540][490]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.10.03-20.51.51:479][441]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2025.10.03-23.53.17:500][441]LogShaderCompilers: Warning: Distributed compilation controller didn't receive a completed task in 10885.255380 seconds!
+[2025.10.03-23.53.19:417][441]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13734.732422
+[2025.10.03-23.53.19:425][442]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.10.03-23.53.19:426][442]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=14376
+[2025.10.03-23.53.20:270][443]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.10.03-23.53.20:274][443]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{58ea4715-9790-4598-9427-e0f8b9d39fd0}, Name=Altavoces (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=106.79
+[2025.10.03-23.53.20:274][443]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.10.03-23.53.20:279][443]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.10.03-23.53.20:907][453]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.03-23.53.20:907][453]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13736.189453, Update Interval: 319.001434
+[2025.10.04-15.16.09:530][853]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2025.10.04-15.16.12:978][854]LogEOSSDK: Warning: LogHttp: 0000080B9D183C00: invalid HTTP response code received. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7BD8B4E50E-4306-BBAE-BAD5-9DB77F5F55D0%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.16.4-36651368%20-%20%2B%2BEOSSDK%2BRelease-1.16.4-CL-36651368&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.10.04-15.16.12:979][855]LogEOSSDK: Warning: LogHttp: 0000080B9D183C00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.10.04-15.16.12:979][855]LogEOSSDK: Warning: LogHttp: 0000080B9D183C00: libcurl info message cache 0 (Too old connection (55384 seconds idle), disconnect it)
+[2025.10.04-15.16.12:979][855]LogEOSSDK: Warning: LogHttp: 0000080B9D183C00: libcurl info message cache 1 (Connection 24 seems to be dead)
+[2025.10.04-15.16.12:979][855]LogEOSSDK: Warning: LogHttp: 0000080B9D183C00: libcurl info message cache 2 (Closing connection)
+[2025.10.04-15.16.12:979][855]LogEOSSDK: Warning: LogHttp: 0000080B9D183C00: libcurl info message cache 3 (Recv failure: Connection was reset)
+[2025.10.04-15.16.12:979][855]LogEOSSDK: Warning: LogHttp: 0000080B9D183C00: libcurl info message cache 4 (Send failure: Connection was reset)
+[2025.10.04-15.16.12:979][855]LogEOSSDK: Warning: LogHttp: 0000080B9D183C00: libcurl info message cache 5 (Recv failure: Connection was reset)
+[2025.10.04-15.16.12:979][855]LogEOSSDK: Warning: LogHttp: 0000080B9D183C00: libcurl info message cache 6 (Too old connection (55388 seconds idle), disconnect it)
+[2025.10.04-15.16.12:979][855]LogEOSSDK: Warning: LogHttp: 0000080B9D183C00: libcurl info message cache 7 (Connection 25 seems to be dead)
+[2025.10.04-15.16.12:979][855]LogEOSSDK: Warning: LogHttp: 0000080B9D183C00: libcurl info message cache 8 (Closing connection)
+[2025.10.04-15.16.12:979][855]LogEOSSDK: Warning: LogHttp: 0000080B9D183C00: libcurl info message cache 9 (Recv failure: Connection was reset)
+[2025.10.04-15.16.12:979][855]LogEOSSDK: Warning: LogHttp: 0000080B9D183C00: libcurl info message cache 10 (Send failure: Connection was reset)
+[2025.10.04-15.16.12:979][855]LogEOSSDK: Warning: LogHttp: 0000080B9D183C00: libcurl info message cache 11 (Recv failure: Connection was reset)
+[2025.10.04-15.16.12:979][855]LogEOSSDK: Warning: LogHttp: 0000080B9D183C00: libcurl info message cache 12 (Hostname in DNS cache was stale, zapped)
+[2025.10.04-15.16.12:979][855]LogEOSSDK: Warning: LogHttp: 0000080B9D183C00: libcurl info message cache 13 (Could not resolve host: api.epicgames.dev)
+[2025.10.04-15.16.12:979][855]LogEOSSDK: Warning: LogHttp: 0000080B9D183C00: libcurl info message cache 14 (Closing connection)
+[2025.10.04-15.16.12:979][855]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7BD8B4E50E-4306-BBAE-BAD5-9DB77F5F55D0%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.16.4-36651368%20-%20%2B%2BEOSSDK%2BRelease-1.16.4-CL-36651368&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2025.10.04-15.16.22:263][882]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:53074'.
+[2025.10.04-15.16.22:289][882]LogUdpMessaging: Display: Added local interface '192.168.1.44' to multicast group '230.0.0.1:6666'
+[2025.10.04-15.16.53:344][810]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 69164.742188
+[2025.10.04-15.16.53:607][818]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.04-15.16.53:607][818]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 69164.960938, Update Interval: 329.596252
+[2025.10.04-15.23.11:869][131]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 69528.343750
+[2025.10.04-15.23.12:203][141]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.04-15.23.12:203][141]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 69528.640625, Update Interval: 306.057312
