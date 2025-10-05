@@ -1457,3 +1457,1141 @@ Skipped package /AudioModulation/Volume was expected to be found in plugin Audio
 [2025.10.05-01.16.53:245][665]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1003.486084
 [2025.10.05-01.16.53:478][671]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.10.05-01.16.53:478][672]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1003.685913, Update Interval: 315.526001
+[2025.10.05-01.22.21:337][477]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1331.576294
+[2025.10.05-01.22.21:571][484]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.05-01.22.21:571][484]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1331.775635, Update Interval: 355.378265
+[2025.10.05-01.25.55:594][877]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.10.05-01.25.55:602][877]LogContentBrowser: Creating deferred item: NewFolder
+[2025.10.05-01.25.55:631][878]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.10.05-01.25.59:769][  1]LogContentBrowser: Attempting asset rename: NewFolder -> SlashOverlay
+[2025.10.05-01.25.59:770][  1]LogContentBrowser: End creating deferred item NewFolder
+[2025.10.05-01.26.58:335][754]LogStreaming: Display: FlushAsyncLoading(345): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.05-01.26.58:440][754]LogInterchangeEngine: [Pending] Importing
+[2025.10.05-01.26.58:440][754]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Usuario/Downloads/SlashOverlay/Gold_Coin.TGA]
+[2025.10.05-01.26.58:442][754]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.10.05-01.26.58:442][754]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Usuario/Downloads/SlashOverlay/Icon_Empty.TGA]
+[2025.10.05-01.26.58:443][754]LogInterchangeEngine: [Pending] Importing -  (3)
+[2025.10.05-01.26.58:443][754]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Usuario/Downloads/SlashOverlay/Icon_Full_Pink.TGA]
+[2025.10.05-01.26.58:444][754]LogInterchangeEngine: [Pending] Importing -  (4)
+[2025.10.05-01.26.58:444][754]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Usuario/Downloads/SlashOverlay/Icon_Full_Yellow.TGA]
+[2025.10.05-01.26.58:444][754]LogInterchangeEngine: [Pending] Importing -  (5)
+[2025.10.05-01.26.58:444][754]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Usuario/Downloads/SlashOverlay/Main__Middle_.TGA]
+[2025.10.05-01.26.58:445][754]LogInterchangeEngine: [Pending] Importing -  (6)
+[2025.10.05-01.26.58:446][754]LogInterchangeEngine: [Pending] Importing -  (7)
+[2025.10.05-01.26.58:447][754]LogInterchangeEngine: [Pending] Importing -  (8)
+[2025.10.05-01.26.58:548][756]LogStreaming: Display: FlushAsyncLoading(360): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.05-01.26.58:603][758]LogTexture: Display: Building textures: /Game/Textures/SlashOverlay/Main__Middle_.Main__Middle_ (BGRA8, 476x146 x1x1x1) (Required Memory Estimate: 3.385948 MB), EncodeSpeed: Fast
+[2025.10.05-01.26.58:605][758]LogTexture: Display: Building textures: /Game/Textures/SlashOverlay/Gold_Coin.Gold_Coin (BGRA8, 39x41 x1x1x1) (Required Memory Estimate: 1.054897 MB), EncodeSpeed: Fast
+[2025.10.05-01.26.58:605][758]LogTexture: Display: Building textures: /Game/Textures/SlashOverlay/Icon_Full_Yellow.Icon_Full_Yellow (BGRA8, 191x190 x1x1x1) (Required Memory Estimate: 2.245903 MB), EncodeSpeed: Fast
+[2025.10.05-01.26.58:605][758]LogTexture: Display: Building textures: /Game/Textures/SlashOverlay/Icon_Empty.Icon_Empty (TFO_AutoDXT, 116x116 x1x1x1) (Required Memory Estimate: 3.121625 MB), EncodeSpeed: Fast
+[2025.10.05-01.26.58:605][758]LogTexture: Display: Building textures: /Game/Textures/SlashOverlay/Icon_Full_Pink.Icon_Full_Pink (BGRA8, 190x190 x1x1x1) (Required Memory Estimate: 2.239388 MB), EncodeSpeed: Fast
+[2025.10.05-01.26.58:658][758]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Usuario/Downloads/SlashOverlay/Main__Middle_.TGA]
+[2025.10.05-01.26.58:658][758]LogInterchangeEngine: [Pending] Importing -  (7)
+[2025.10.05-01.26.58:658][758]LogInterchangeEngine: [Pending] Importing -  (7)
+[2025.10.05-01.26.58:658][758]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Usuario/Downloads/SlashOverlay/MainHealth.TGA]
+[2025.10.05-01.26.58:659][758]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Usuario/Downloads/SlashOverlay/Icon_Full_Pink.TGA]
+[2025.10.05-01.26.58:659][758]LogInterchangeEngine: [Pending] Importing -  (6)
+[2025.10.05-01.26.58:659][758]LogInterchangeEngine: [Pending] Importing -  (6)
+[2025.10.05-01.26.58:659][758]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Usuario/Downloads/SlashOverlay/MainStamina.TGA]
+[2025.10.05-01.26.58:659][758]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Usuario/Downloads/SlashOverlay/Icon_Full_Yellow.TGA]
+[2025.10.05-01.26.58:659][758]LogInterchangeEngine: [Pending] Importing -  (5)
+[2025.10.05-01.26.58:659][758]LogInterchangeEngine: [Pending] Importing -  (5)
+[2025.10.05-01.26.58:659][758]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Usuario/Downloads/SlashOverlay/Soul_White.TGA]
+[2025.10.05-01.26.58:659][758]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Usuario/Downloads/SlashOverlay/Gold_Coin.TGA]
+[2025.10.05-01.26.58:659][758]LogInterchangeEngine: [Pending] Importing -  (4)
+[2025.10.05-01.26.58:692][759]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Usuario/Downloads/SlashOverlay/Icon_Empty.TGA]
+[2025.10.05-01.26.58:692][759]LogInterchangeEngine: [Pending] Importing -  (3)
+[2025.10.05-01.26.58:811][761]LogStreaming: Display: FlushAsyncLoading(365): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.05-01.26.58:823][762]LogTexture: Display: Building textures: /Game/Textures/SlashOverlay/MainHealth.MainHealth (TFO_AutoDXT, 340x32 x1x1x1) (Required Memory Estimate: 2.715418 MB), EncodeSpeed: Fast
+[2025.10.05-01.26.58:824][762]LogTexture: Display: Building textures: /Game/Textures/SlashOverlay/MainStamina.MainStamina (BGRA8, 385x32 x1x1x1) (Required Memory Estimate: 1.422958 MB), EncodeSpeed: Fast
+[2025.10.05-01.26.58:824][763]LogTexture: Display: Building textures: /Game/Textures/SlashOverlay/Soul_White.Soul_White (BGRA8, 46x41 x1x1x1) (Required Memory Estimate: 1.064735 MB), EncodeSpeed: Fast
+[2025.10.05-01.26.58:874][763]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Usuario/Downloads/SlashOverlay/MainHealth.TGA]
+[2025.10.05-01.26.58:874][763]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.10.05-01.26.58:875][763]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Usuario/Downloads/SlashOverlay/MainStamina.TGA]
+[2025.10.05-01.26.58:875][763]LogInterchangeEngine: [Pending] Importing -  (1)
+[2025.10.05-01.26.58:876][763]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Usuario/Downloads/SlashOverlay/Soul_White.TGA]
+[2025.10.05-01.26.58:916][763]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.10.05-01.26.58:916][764]LogInterchangeEngine: [Success] Import Done
+[2025.10.05-01.27.00:785][817]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.10.05-01.27.01:855][817]LogSlate: Window 'Save Content' being destroyed
+[2025.10.05-01.27.01:912][817]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.05-01.27.01:952][817]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/SlashOverlay/Gold_Coin] ([1] browsable assets)...
+[2025.10.05-01.27.01:956][817]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/SlashOverlay/Gold_Coin.Gold_Coin]
+[2025.10.05-01.27.01:956][817]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/SlashOverlay/Gold_Coin]
+[2025.10.05-01.27.01:994][817]LogSavePackage: Moving output files for package: /Game/Textures/SlashOverlay/Gold_Coin
+[2025.10.05-01.27.01:994][817]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Gold_Coin07DD90934E2DECA6D3FD86A7C7E3A309.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Textures/SlashOverlay/Gold_Coin.uasset'
+[2025.10.05-01.27.02:005][817]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/SlashOverlay/Icon_Empty] ([1] browsable assets)...
+[2025.10.05-01.27.02:007][817]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/SlashOverlay/Icon_Empty.Icon_Empty]
+[2025.10.05-01.27.02:007][817]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/SlashOverlay/Icon_Empty]
+[2025.10.05-01.27.02:009][817]LogSavePackage: Moving output files for package: /Game/Textures/SlashOverlay/Icon_Empty
+[2025.10.05-01.27.02:009][817]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Icon_Empty511A583E4E3C830D86FD7F95E9A33B5F.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Textures/SlashOverlay/Icon_Empty.uasset'
+[2025.10.05-01.27.02:010][817]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/SlashOverlay/Icon_Full_Pink] ([1] browsable assets)...
+[2025.10.05-01.27.02:012][817]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/SlashOverlay/Icon_Full_Pink.Icon_Full_Pink]
+[2025.10.05-01.27.02:012][817]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/SlashOverlay/Icon_Full_Pink]
+[2025.10.05-01.27.02:015][817]LogSavePackage: Moving output files for package: /Game/Textures/SlashOverlay/Icon_Full_Pink
+[2025.10.05-01.27.02:015][817]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Icon_Full_PinkD500AC0F476877800E9B42A6702EE81B.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Textures/SlashOverlay/Icon_Full_Pink.uasset'
+[2025.10.05-01.27.02:017][817]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/SlashOverlay/Icon_Full_Yellow] ([1] browsable assets)...
+[2025.10.05-01.27.02:019][817]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/SlashOverlay/Icon_Full_Yellow.Icon_Full_Yellow]
+[2025.10.05-01.27.02:019][817]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/SlashOverlay/Icon_Full_Yellow]
+[2025.10.05-01.27.02:022][817]LogSavePackage: Moving output files for package: /Game/Textures/SlashOverlay/Icon_Full_Yellow
+[2025.10.05-01.27.02:022][817]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Icon_Full_YellowFC9A2C80499DBF49D347D1AD386281A5.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Textures/SlashOverlay/Icon_Full_Yellow.uasset'
+[2025.10.05-01.27.02:024][817]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/SlashOverlay/Main__Middle_] ([1] browsable assets)...
+[2025.10.05-01.27.02:025][817]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/SlashOverlay/Main__Middle_.Main__Middle_]
+[2025.10.05-01.27.02:025][817]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/SlashOverlay/Main__Middle_]
+[2025.10.05-01.27.02:029][817]LogSavePackage: Moving output files for package: /Game/Textures/SlashOverlay/Main__Middle_
+[2025.10.05-01.27.02:029][817]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Main__Middle_168E22574B0D233AD062B3A92F8AAD0A.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Textures/SlashOverlay/Main__Middle_.uasset'
+[2025.10.05-01.27.02:030][817]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/SlashOverlay/MainHealth] ([1] browsable assets)...
+[2025.10.05-01.27.02:031][817]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/SlashOverlay/MainHealth.MainHealth]
+[2025.10.05-01.27.02:032][817]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/SlashOverlay/MainHealth]
+[2025.10.05-01.27.02:033][817]LogSavePackage: Moving output files for package: /Game/Textures/SlashOverlay/MainHealth
+[2025.10.05-01.27.02:034][817]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/MainHealthE1F210EA48AEFE9F690D17BA709A0381.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Textures/SlashOverlay/MainHealth.uasset'
+[2025.10.05-01.27.02:035][817]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/SlashOverlay/MainStamina] ([1] browsable assets)...
+[2025.10.05-01.27.02:037][817]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/SlashOverlay/MainStamina.MainStamina]
+[2025.10.05-01.27.02:037][817]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/SlashOverlay/MainStamina]
+[2025.10.05-01.27.02:039][817]LogSavePackage: Moving output files for package: /Game/Textures/SlashOverlay/MainStamina
+[2025.10.05-01.27.02:039][817]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/MainStamina175828F14391BFFB2282579328E6108F.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Textures/SlashOverlay/MainStamina.uasset'
+[2025.10.05-01.27.02:040][817]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/SlashOverlay/Soul_White] ([1] browsable assets)...
+[2025.10.05-01.27.02:042][817]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/SlashOverlay/Soul_White.Soul_White]
+[2025.10.05-01.27.02:042][817]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/SlashOverlay/Soul_White]
+[2025.10.05-01.27.02:044][817]LogSavePackage: Moving output files for package: /Game/Textures/SlashOverlay/Soul_White
+[2025.10.05-01.27.02:044][817]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Soul_WhiteCCA79A254A5B16A1AF8A8BA86BB18451.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Textures/SlashOverlay/Soul_White.uasset'
+[2025.10.05-01.27.02:056][817]LogFileHelpers: InternalPromptForCheckoutAndSave took 143.539 ms
+[2025.10.05-01.27.02:096][817]LogContentValidation: Display: Starting to validate 8 assets
+[2025.10.05-01.27.02:096][817]LogContentValidation: Enabled validators:
+[2025.10.05-01.27.02:097][817]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.05-01.27.02:097][817]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.05-01.27.02:097][817]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.05-01.27.02:097][817]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.05-01.27.02:097][817]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.05-01.27.02:097][817]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.05-01.27.02:100][817]AssetCheck: /Game/Textures/SlashOverlay/Gold_Coin Validating asset
+[2025.10.05-01.27.02:100][817]AssetCheck: /Game/Textures/SlashOverlay/Icon_Empty Validating asset
+[2025.10.05-01.27.02:100][817]AssetCheck: /Game/Textures/SlashOverlay/Icon_Full_Pink Validating asset
+[2025.10.05-01.27.02:100][817]AssetCheck: /Game/Textures/SlashOverlay/Icon_Full_Yellow Validating asset
+[2025.10.05-01.27.02:100][817]AssetCheck: /Game/Textures/SlashOverlay/Main__Middle_ Validating asset
+[2025.10.05-01.27.02:100][817]AssetCheck: /Game/Textures/SlashOverlay/MainHealth Validating asset
+[2025.10.05-01.27.02:100][817]AssetCheck: /Game/Textures/SlashOverlay/MainStamina Validating asset
+[2025.10.05-01.27.02:100][817]AssetCheck: /Game/Textures/SlashOverlay/Soul_White Validating asset
+[2025.10.05-01.27.10:591][ 72]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Textures/SlashOverlay/Gold_Coin.Gold_Coin
+[2025.10.05-01.27.14:402][172]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2025.10.05-01.27.14:402][172]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_3'.
+[2025.10.05-01.27.14:498][173]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2025.10.05-01.27.14:498][173]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_4'.
+[2025.10.05-01.27.42:821][ 15]LogSlate: Window 'Gold_Coin' being destroyed
+[2025.10.05-01.27.42:826][ 15]LogSlate: Window 'Gold_Coin' being destroyed
+[2025.10.05-01.28.47:777][935]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1718.026123
+[2025.10.05-01.28.48:036][943]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.05-01.28.48:036][944]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1718.251465, Update Interval: 345.230255
+[2025.10.05-01.30.14:477][506]LogTexture: Display: Building textures: /Game/Textures/SlashOverlay/Icon_Empty.Icon_Empty (BGRA8, 116x116 x1x1x1) (Required Memory Estimate: 1.461967 MB), EncodeSpeed: Fast
+[2025.10.05-01.30.26:018][841]LogTexture: Display: Building textures: /Game/Textures/SlashOverlay/MainHealth.MainHealth (BGRA8, 340x32 x1x1x1) (Required Memory Estimate: 1.37352 MB), EncodeSpeed: Fast
+[2025.10.05-01.30.38:156][202]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.10.05-01.30.39:216][202]LogSlate: Window 'Save Content' being destroyed
+[2025.10.05-01.30.39:227][202]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.05-01.30.39:263][202]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/SlashOverlay/Gold_Coin] ([1] browsable assets)...
+[2025.10.05-01.30.39:278][202]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/SlashOverlay/Gold_Coin.Gold_Coin]
+[2025.10.05-01.30.39:278][202]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/SlashOverlay/Gold_Coin]
+[2025.10.05-01.30.39:280][202]LogSavePackage: Moving output files for package: /Game/Textures/SlashOverlay/Gold_Coin
+[2025.10.05-01.30.39:281][202]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Gold_Coin24109AD143A96B2A1F9FB9A0026CD83F.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Textures/SlashOverlay/Gold_Coin.uasset'
+[2025.10.05-01.30.39:282][202]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/SlashOverlay/Icon_Empty] ([1] browsable assets)...
+[2025.10.05-01.30.39:284][202]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/SlashOverlay/Icon_Empty.Icon_Empty]
+[2025.10.05-01.30.39:284][202]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/SlashOverlay/Icon_Empty]
+[2025.10.05-01.30.39:286][202]LogSavePackage: Moving output files for package: /Game/Textures/SlashOverlay/Icon_Empty
+[2025.10.05-01.30.39:287][202]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Icon_Empty0E23C9E84F235B0502423EBF5E7FF8BA.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Textures/SlashOverlay/Icon_Empty.uasset'
+[2025.10.05-01.30.39:289][202]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/SlashOverlay/Icon_Full_Pink] ([1] browsable assets)...
+[2025.10.05-01.30.39:290][202]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/SlashOverlay/Icon_Full_Pink.Icon_Full_Pink]
+[2025.10.05-01.30.39:290][202]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/SlashOverlay/Icon_Full_Pink]
+[2025.10.05-01.30.39:293][202]LogSavePackage: Moving output files for package: /Game/Textures/SlashOverlay/Icon_Full_Pink
+[2025.10.05-01.30.39:294][202]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Icon_Full_PinkF2A20C7D4537D1980FE4558E3191D961.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Textures/SlashOverlay/Icon_Full_Pink.uasset'
+[2025.10.05-01.30.39:296][202]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/SlashOverlay/Icon_Full_Yellow] ([1] browsable assets)...
+[2025.10.05-01.30.39:297][202]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/SlashOverlay/Icon_Full_Yellow.Icon_Full_Yellow]
+[2025.10.05-01.30.39:297][202]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/SlashOverlay/Icon_Full_Yellow]
+[2025.10.05-01.30.39:300][202]LogSavePackage: Moving output files for package: /Game/Textures/SlashOverlay/Icon_Full_Yellow
+[2025.10.05-01.30.39:301][202]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Icon_Full_Yellow283B4AC141738299A52865B4C9D66EFF.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Textures/SlashOverlay/Icon_Full_Yellow.uasset'
+[2025.10.05-01.30.39:303][202]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/SlashOverlay/Main__Middle_] ([1] browsable assets)...
+[2025.10.05-01.30.39:305][202]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/SlashOverlay/Main__Middle_.Main__Middle_]
+[2025.10.05-01.30.39:305][202]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/SlashOverlay/Main__Middle_]
+[2025.10.05-01.30.39:308][202]LogSavePackage: Moving output files for package: /Game/Textures/SlashOverlay/Main__Middle_
+[2025.10.05-01.30.39:310][202]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Main__Middle_BC0E01D5482BB55602ACA5BCF73F1941.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Textures/SlashOverlay/Main__Middle_.uasset'
+[2025.10.05-01.30.39:311][202]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/SlashOverlay/MainHealth] ([1] browsable assets)...
+[2025.10.05-01.30.39:314][202]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/SlashOverlay/MainHealth.MainHealth]
+[2025.10.05-01.30.39:314][202]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/SlashOverlay/MainHealth]
+[2025.10.05-01.30.39:315][202]LogSavePackage: Moving output files for package: /Game/Textures/SlashOverlay/MainHealth
+[2025.10.05-01.30.39:317][202]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/MainHealth21175FE146FC8E10640C5CB72405F878.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Textures/SlashOverlay/MainHealth.uasset'
+[2025.10.05-01.30.39:318][202]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/SlashOverlay/MainStamina] ([1] browsable assets)...
+[2025.10.05-01.30.39:322][202]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/SlashOverlay/MainStamina.MainStamina]
+[2025.10.05-01.30.39:322][202]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/SlashOverlay/MainStamina]
+[2025.10.05-01.30.39:324][202]LogSavePackage: Moving output files for package: /Game/Textures/SlashOverlay/MainStamina
+[2025.10.05-01.30.39:326][202]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/MainStaminaD35D86D04DE2B09E0B3487B91E5968B4.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Textures/SlashOverlay/MainStamina.uasset'
+[2025.10.05-01.30.39:328][202]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/SlashOverlay/Soul_White] ([1] browsable assets)...
+[2025.10.05-01.30.39:329][202]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/SlashOverlay/Soul_White.Soul_White]
+[2025.10.05-01.30.39:329][202]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/SlashOverlay/Soul_White]
+[2025.10.05-01.30.39:331][202]LogSavePackage: Moving output files for package: /Game/Textures/SlashOverlay/Soul_White
+[2025.10.05-01.30.39:332][202]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Soul_WhiteCA0CEA05423B5629FB63408663E38225.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Textures/SlashOverlay/Soul_White.uasset'
+[2025.10.05-01.30.39:343][202]LogFileHelpers: InternalPromptForCheckoutAndSave took 116.370 ms (total: 259.910 ms)
+[2025.10.05-01.30.39:381][202]LogContentValidation: Display: Starting to validate 8 assets
+[2025.10.05-01.30.39:381][202]LogContentValidation: Enabled validators:
+[2025.10.05-01.30.39:381][202]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.05-01.30.39:382][202]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.05-01.30.39:382][202]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.05-01.30.39:382][202]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.05-01.30.39:382][202]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.05-01.30.39:382][202]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.05-01.30.39:382][202]AssetCheck: /Game/Textures/SlashOverlay/Gold_Coin Validating asset
+[2025.10.05-01.30.39:382][202]AssetCheck: /Game/Textures/SlashOverlay/Icon_Empty Validating asset
+[2025.10.05-01.30.39:382][202]AssetCheck: /Game/Textures/SlashOverlay/Icon_Full_Pink Validating asset
+[2025.10.05-01.30.39:382][202]AssetCheck: /Game/Textures/SlashOverlay/Icon_Full_Yellow Validating asset
+[2025.10.05-01.30.39:382][202]AssetCheck: /Game/Textures/SlashOverlay/Main__Middle_ Validating asset
+[2025.10.05-01.30.39:382][202]AssetCheck: /Game/Textures/SlashOverlay/MainHealth Validating asset
+[2025.10.05-01.30.39:382][202]AssetCheck: /Game/Textures/SlashOverlay/MainStamina Validating asset
+[2025.10.05-01.30.39:382][202]AssetCheck: /Game/Textures/SlashOverlay/Soul_White Validating asset
+[2025.10.05-01.30.43:513][326]LogSlate: Window '8 Texture2D Objects - Property Matrix Editor' being destroyed
+[2025.10.05-01.30.43:518][326]LogSlate: Window '8 Texture2D Objects - Property Matrix Editor' being destroyed
+[2025.10.05-01.31.06:846][ 21]LogEditorClassViewer: Warning: Class /Game/Clinic/Demo/FirstPersonBP/FirstPersonOverview.FirstPersonOverview_C has parent /Script/IntroTutorials.EditorTutorial, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.10.05-01.31.06:846][ 21]LogEditorClassViewer: Warning: Class /Game/AncientContent/Blueprints/Character/BP_VaultingTriggerComponent.BP_VaultingTriggerComponent_C has parent /Script/AncientGame.AncientGameBoxComponentBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.10.05-01.31.06:846][ 21]LogEditorClassViewer: Warning: Class /Game/AncientContent/Blueprints/Character/BP_EchoCharacter.BP_EchoCharacter_C has parent /Script/ModularGameplayActors.ModularCharacter, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.10.05-01.31.06:846][ 21]LogEditorClassViewer: Warning: Class /Game/AncientContent/Blueprints/Camera/BP_ThirdPersonCameraMode.BP_ThirdPersonCameraMode_C has parent /Script/AncientGame.SpringArmCameraMode, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.10.05-01.31.06:846][ 21]LogEditorClassViewer: Warning: Class /Game/AncientContent/Blueprints/Abilities/GA_Vault.GA_Vault_C has parent /Script/GameplayAbilities.GameplayAbility, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.10.05-01.31.06:846][ 21]LogEditorClassViewer: Warning: Class /Game/AncientContent/Blueprints/Abilities/GA_SitStand.GA_SitStand_C has parent /Script/GameplayAbilities.GameplayAbility, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.10.05-01.31.06:846][ 21]LogEditorClassViewer: Warning: Class /Game/AncientContent/Blueprints/Abilities/GameplayAbilityUtils.GameplayAbilityUtils_C has parent /Script/GameplayAbilities.GameplayAbility, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.10.05-01.31.06:846][ 21]LogEditorClassViewer: Warning: Class /Game/AncientContent/Characters/Echo/Echo_AnimBP.Echo_AnimBP_C has parent /Script/AncientGame.AncientGameAnimInstance, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.10.05-01.31.13:313][ 21]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.10.05-01.31.13:377][ 21]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.10.05-01.31.13:391][ 21]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.10.05-01.31.13:406][ 22]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.10.05-01.31.20:327][229]LogContentBrowser: Attempting asset rename: NewBlueprint -> WBP_SlashOverlay
+[2025.10.05-01.31.20:391][229]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.10.05-01.31.39:243][794]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.10.05-01.31.39:993][794]LogSlate: Window 'Save Content' being destroyed
+[2025.10.05-01.31.40:054][794]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.05-01.31.40:089][794]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/HUD/WBP_SlashOverlay] ([2] browsable assets)...
+[2025.10.05-01.31.40:107][794]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/HUD/WBP_SlashOverlay.WBP_SlashOverlay]
+[2025.10.05-01.31.40:107][794]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/HUD/WBP_SlashOverlay]
+[2025.10.05-01.31.40:119][794]LogSavePackage: Moving output files for package: /Game/Blueprints/HUD/WBP_SlashOverlay
+[2025.10.05-01.31.40:119][794]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/WBP_SlashOverlayECBEBF394DDFCA6E43F8F6B448A3AC36.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/HUD/WBP_SlashOverlay.uasset'
+[2025.10.05-01.31.40:131][794]LogFileHelpers: InternalPromptForCheckoutAndSave took 76.659 ms (total: 336.569 ms)
+[2025.10.05-01.31.40:153][794]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.05-01.31.40:154][794]LogContentValidation: Enabled validators:
+[2025.10.05-01.31.40:154][794]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.05-01.31.40:154][794]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.05-01.31.40:154][794]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.05-01.31.40:154][794]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.05-01.31.40:154][794]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.05-01.31.40:154][794]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.05-01.31.40:156][794]AssetCheck: /Game/Blueprints/HUD/WBP_SlashOverlay Validating asset
+[2025.10.05-01.32.07:256][605]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/HUD/WBP_SlashOverlay.WBP_SlashOverlay
+[2025.10.05-01.32.07:257][605]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2025.10.05-01.32.07:258][605]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_6'.
+[2025.10.05-01.32.07:266][605]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2025.10.05-01.32.07:267][605]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_7'.
+[2025.10.05-01.32.07:280][605]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2025.10.05-01.32.07:416][605]LogStreaming: Display: FlushAsyncLoading(368): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.05-01.32.07:813][605]LogLinker: Warning: [AssetLog] C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Content\AncientContent\Blueprints\Abilities\GameplayAbilityUtils.uasset: VerifyImport: Failed to find script package for import object 'Package /Script/GameplayAbilities'
+[2025.10.05-01.32.07:813][605]LogLinker: Warning: [AssetLog] C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Content\AncientContent\Blueprints\Abilities\GameplayAbilityUtils.uasset: CreateExport: Failed to load Class /Script/GameplayAbilities.GameplayAbility as Parent for BlueprintGeneratedClass /Game/AncientContent/Blueprints/Abilities/GameplayAbilityUtils.GameplayAbilityUtils_C - both will fail to load
+[2025.10.05-01.32.07:813][605]LogLinker: Warning: [AssetLog] C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Content\AncientContent\Blueprints\Abilities\GameplayAbilityUtils.uasset: CreateExport: Failed to load Class /Script/GameplayAbilities.GameplayAbility as Parent for BlueprintGeneratedClass /Game/AncientContent/Blueprints/Abilities/GameplayAbilityUtils.GameplayAbilityUtils_C - both will fail to load
+[2025.10.05-01.32.07:813][605]LogLinker: Warning: Unable to load Default__GameplayAbilityUtils_C with outer Package /Game/AncientContent/Blueprints/Abilities/GameplayAbilityUtils because its class (GameplayAbilityUtils_C) does not exist
+[2025.10.05-01.32.07:813][605]LogLinker: Warning: [AssetLog] C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Content\AncientContent\Blueprints\Abilities\GameplayAbilityUtils.uasset: CreateExport: Failed to load Class /Script/GameplayAbilities.GameplayAbility as Parent for BlueprintGeneratedClass /Game/AncientContent/Blueprints/Abilities/GameplayAbilityUtils.GameplayAbilityUtils_C - both will fail to load
+[2025.10.05-01.32.07:813][605]LogBlueprint: Warning: FMemberReference::ResolveMember (GetActorInfo) bSelfContext == true, but no scope supplied!
+[2025.10.05-01.32.07:813][605]LogBlueprint: Warning: FMemberReference::ResolveMember (GetActorInfo) bSelfContext == true, but no scope supplied!
+[2025.10.05-01.32.07:814][605]LogBlueprintEditor: Perf: 0.4 total seconds to load all 7 blueprint libraries in project. Avoid references to content in blueprint libraries to shorten this time.
+[2025.10.05-01.32.07:814][605]LogBlueprintEditor: Perf: 0.2 seconds loading: /Game/AncientContent/Blueprints/Character/BP_VaultingUtilLib
+[2025.10.05-01.32.10:262][605]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'SequencerGraphEditor'
+[2025.10.05-01.32.10:263][605]LogSlate: The tab "SequencerGraphEditor" attempted to spawn in layout 'WidgetBlueprintEditor_Designer_Layout_v4_8' but failed for some reason. It will not be displayed.
+[2025.10.05-01.32.10:606][605]LogBlueprint: Warning: Blueprint /Game/AncientContent/Blueprints/Abilities/GameplayAbilityUtils is missing GeneratedClass asset tag
+[2025.10.05-01.32.10:644][605]LogSlate: Took 0.008351 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.10.05-01.32.10:662][605]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2025.10.05-01.32.10:673][605]LogSlate: Took 0.009339 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.10.05-01.32.52:085][830]LogBlueprint: Warning: FMemberReference::ResolveMember (GetActorInfo) bSelfContext == true, but no scope supplied!
+[2025.10.05-01.32.52:085][830]LogBlueprint: Warning: FMemberReference::ResolveMember (GetActorInfo) bSelfContext == true, but no scope supplied!
+[2025.10.05-01.34.12:491][232]LogSlate: Took 0.000229 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.10.05-01.34.43:006][121]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2025.10.05-01.35.03:721][721]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2093.971191
+[2025.10.05-01.35.03:988][729]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.05-01.35.03:988][729]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2094.203125, Update Interval: 354.589081
+[2025.10.05-01.36.16:871][913]LogShaderCompilers: Display: ================================================
+[2025.10.05-01.36.16:871][913]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.10.05-01.36.16:871][913]LogShaderCompilers: Display: Total job queries 419, among them cache hits 56 (13.37%), DDC hits 355 (84.73%), Duplicates 4 (0.95%)
+[2025.10.05-01.36.16:871][913]LogShaderCompilers: Display: Tracking 359 distinct input hashes that result in 253 distinct outputs (70.47%)
+[2025.10.05-01.36.16:871][913]LogShaderCompilers: Display: RAM used: 156.74 KiB of 819.20 MiB budget. Usage: 0.02%
+[2025.10.05-01.36.16:871][913]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.10.05-01.36.16:871][913]LogShaderCompilers: Display: Shaders Compiled: 4
+[2025.10.05-01.36.16:871][913]LogShaderCompilers: Display: Jobs assigned 4, completed 4 (100%)
+[2025.10.05-01.36.16:871][913]LogShaderCompilers: Display: Average time worker was idle: 0.22 s
+[2025.10.05-01.36.16:871][913]LogShaderCompilers: Display: Time job spent in pending queue: average 0.01 s, longest 0.01 s
+[2025.10.05-01.36.16:871][913]LogShaderCompilers: Display: Job execution time: average 1.22 s, max 1.94 s
+[2025.10.05-01.36.16:871][913]LogShaderCompilers: Display: Job life time (pending + execution): average 1.24 s, max 1.95
+[2025.10.05-01.36.16:871][913]LogShaderCompilers: Display: Shader code size: average 7.485 KiB, min 5.426 KiB, max 11.586 KiB
+[2025.10.05-01.36.16:871][913]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.57 s
+[2025.10.05-01.36.16:871][913]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.10.05-01.36.16:871][913]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.10.05-01.36.16:871][913]LogShaderCompilers: Display: Average processing rate: 1.55 jobs/sec
+[2025.10.05-01.36.16:871][913]LogShaderCompilers: Display: Total thread time: 1.94 s
+[2025.10.05-01.36.16:871][913]LogShaderCompilers: Display: Total thread preprocess time: 8.578 s
+[2025.10.05-01.36.16:871][913]LogShaderCompilers: Display: Percentage time preprocessing: 442.19%
+[2025.10.05-01.36.16:871][913]LogShaderCompilers: Display: Effective parallelization: 0.75 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.10.05-01.36.16:871][913]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.10.05-01.36.16:871][913]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 0.54 sec, max 0.58 sec, min 0.50 sec)
+[2025.10.05-01.36.16:871][913]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 0.43 sec, max 0.49 sec, min 0.36 sec)
+[2025.10.05-01.36.16:871][913]LogShaderCompilers: Display:                                          TDepthOnlyVS<false> (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.10.05-01.36.16:871][913]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.10.05-01.36.16:871][913]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.10.05-01.36.16:871][913]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.10.05-01.36.16:871][913]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 56.02% of total time (compiled    2 times, average 0.54 sec, max 0.58 sec, min 0.50 sec)
+[2025.10.05-01.36.16:871][913]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 43.98% of total time (compiled    2 times, average 0.43 sec, max 0.49 sec, min 0.36 sec)
+[2025.10.05-01.36.16:872][913]LogShaderCompilers: Display:                                                 FLumenCardVS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.10.05-01.36.16:872][913]LogShaderCompilers: Display:                                                 FDepthOnlyPS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.10.05-01.36.16:872][913]LogShaderCompilers: Display:                                          TDepthOnlyVS<false> - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.10.05-01.36.16:872][913]LogShaderCompilers: Display: === Material stats ===
+[2025.10.05-01.36.16:872][913]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.10.05-01.36.16:872][913]LogShaderCompilers: Display: Materials Translated:    170
+[2025.10.05-01.36.16:872][913]LogShaderCompilers: Display: Material Total Translate Time: 0.12 s
+[2025.10.05-01.36.16:872][913]LogShaderCompilers: Display: Material Translation Only: 0.06 s (53%)
+[2025.10.05-01.36.16:872][913]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2025.10.05-01.36.16:872][913]LogShaderCompilers: Display: Material Cache Hits: 45 (26%)
+[2025.10.05-01.36.16:872][913]LogShaderCompilers: Display: ================================================
+[2025.10.05-01.36.37:421][506]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2025.10.05-01.36.38:185][506]LogSlate: Window 'Save Content' being destroyed
+[2025.10.05-01.36.38:195][506]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.05-01.36.38:218][506]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/HUD/WBP_SlashOverlay] ([2] browsable assets)...
+[2025.10.05-01.36.38:222][506]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/HUD/WBP_SlashOverlay.WBP_SlashOverlay]
+[2025.10.05-01.36.38:222][506]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/HUD/WBP_SlashOverlay]
+[2025.10.05-01.36.38:226][506]LogSavePackage: Moving output files for package: /Game/Blueprints/HUD/WBP_SlashOverlay
+[2025.10.05-01.36.38:227][506]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/WBP_SlashOverlayF4668B1543BF3F8B10BB0F9225C32F7D.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/HUD/WBP_SlashOverlay.uasset'
+[2025.10.05-01.36.38:236][506]LogFileHelpers: InternalPromptForCheckoutAndSave took 41.241 ms (total: 377.810 ms)
+[2025.10.05-01.36.38:277][506]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.05-01.36.38:277][506]LogContentValidation: Enabled validators:
+[2025.10.05-01.36.38:277][506]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.05-01.36.38:277][506]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.05-01.36.38:277][506]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.05-01.36.38:277][506]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.05-01.36.38:277][506]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.05-01.36.38:277][506]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.05-01.36.38:278][506]AssetCheck: /Game/Blueprints/HUD/WBP_SlashOverlay Validating asset
+[2025.10.05-01.36.40:943][584]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2025.10.05-01.36.40:943][584]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_9'.
+[2025.10.05-01.36.41:003][585]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_10
+[2025.10.05-01.36.41:003][585]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_10'.
+[2025.10.05-01.36.41:026][586]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_11
+[2025.10.05-01.36.41:026][586]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_11'.
+[2025.10.05-01.36.41:057][587]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_12
+[2025.10.05-01.36.41:057][587]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_12'.
+[2025.10.05-01.36.41:090][588]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_13
+[2025.10.05-01.36.41:092][588]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_13'.
+[2025.10.05-01.36.41:324][592]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2
+[2025.10.05-01.36.41:326][592]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_14
+[2025.10.05-01.36.41:326][592]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_14'.
+[2025.10.05-01.36.41:808][593]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_15
+[2025.10.05-01.36.41:808][593]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_15'.
+[2025.10.05-01.36.41:996][597]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_16
+[2025.10.05-01.36.41:996][597]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_16'.
+[2025.10.05-01.36.42:059][598]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_17
+[2025.10.05-01.36.42:060][598]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_17'.
+[2025.10.05-01.36.42:098][599]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_18
+[2025.10.05-01.36.42:099][599]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_18'.
+[2025.10.05-01.36.42:150][600]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_19
+[2025.10.05-01.36.42:150][600]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_19'.
+[2025.10.05-01.36.42:208][601]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_20
+[2025.10.05-01.36.42:208][601]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_20'.
+[2025.10.05-01.36.42:334][604]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_21
+[2025.10.05-01.36.42:335][604]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_21'.
+[2025.10.05-01.36.42:581][609]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_22
+[2025.10.05-01.36.42:581][609]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_22'.
+[2025.10.05-01.36.42:736][613]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_23
+[2025.10.05-01.36.42:736][613]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_23'.
+[2025.10.05-01.37.27:879][917]LogEditorClassViewer: Warning: AssetRegistry Blueprint /Game/AncientContent/Blueprints/Abilities/GameplayAbilityUtils.GameplayAbilityUtils is missing tag value for GeneratedClass. Blueprint will not be available to ClassViewer when unloaded.
+[2025.10.05-01.37.27:903][917]LogEditorClassViewer: Warning: Class /Game/Clinic/Demo/FirstPersonBP/FirstPersonOverview.FirstPersonOverview_C has parent /Script/IntroTutorials.EditorTutorial, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.10.05-01.37.27:903][917]LogEditorClassViewer: Warning: Class /Game/AncientContent/Blueprints/Character/BP_VaultingTriggerComponent.BP_VaultingTriggerComponent_C has parent /Script/AncientGame.AncientGameBoxComponentBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.10.05-01.37.27:903][917]LogEditorClassViewer: Warning: Class /Game/AncientContent/Blueprints/Character/BP_EchoCharacter.BP_EchoCharacter_C has parent /Script/ModularGameplayActors.ModularCharacter, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.10.05-01.37.27:903][917]LogEditorClassViewer: Warning: Class /Game/AncientContent/Blueprints/Camera/BP_ThirdPersonCameraMode.BP_ThirdPersonCameraMode_C has parent /Script/AncientGame.SpringArmCameraMode, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.10.05-01.37.27:903][917]LogEditorClassViewer: Warning: Class /Game/AncientContent/Blueprints/Abilities/GA_Vault.GA_Vault_C has parent /Script/GameplayAbilities.GameplayAbility, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.10.05-01.37.27:903][917]LogEditorClassViewer: Warning: Class /Game/AncientContent/Blueprints/Abilities/GA_SitStand.GA_SitStand_C has parent /Script/GameplayAbilities.GameplayAbility, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.10.05-01.37.27:903][917]LogEditorClassViewer: Warning: Class /Game/AncientContent/Characters/Echo/Echo_AnimBP.Echo_AnimBP_C has parent /Script/AncientGame.AncientGameAnimInstance, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.10.05-01.37.39:589][257]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2025.10.05-01.37.46:968][471]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2025.10.05-01.37.47:757][471]LogSlate: Window 'Save Content' being destroyed
+[2025.10.05-01.37.47:766][471]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.05-01.37.47:881][471]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.10.05-01.37.47:936][471]LogSavePackage: Moving output files for package: /Game/Maps/Minimal_Default_2
+[2025.10.05-01.37.47:937][471]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Minimal_Default_2AA7380104DD14095A2241CB770F7B2D2.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Maps/Minimal_Default_2.umap'
+[2025.10.05-01.37.47:961][471]LogFileHelpers: Saving map 'Minimal_Default_2' took 0.145
+[2025.10.05-01.37.47:968][471]LogFileHelpers: InternalPromptForCheckoutAndSave took 202.196 ms (total: 580.007 ms)
+[2025.10.05-01.37.48:004][471]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.05-01.37.48:004][471]LogContentValidation: Enabled validators:
+[2025.10.05-01.37.48:004][471]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.05-01.37.48:004][471]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.05-01.37.48:004][471]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.05-01.37.48:004][471]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.05-01.37.48:004][471]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.05-01.37.48:004][471]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.05-01.37.48:004][471]AssetCheck: /Game/Maps/Minimal_Default_2 Validating asset
+[2025.10.05-01.38.37:112][934]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.05-01.38.37:133][934]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.05-01.38.37:135][934]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Minimal_Default_2
+[2025.10.05-01.38.37:146][934]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011104s)
+[2025.10.05-01.38.37:146][934]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Minimal_Default_2.Minimal_Default_2 to /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 (0.011142s)
+[2025.10.05-01.38.37:172][934]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2025.10.05-01.38.37:174][934]LogChaosDD: Creating Chaos Debug Draw Scene for world Minimal_Default_2
+[2025.10.05-01.38.37:175][934]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2'.
+[2025.10.05-01.38.37:176][934]LogPlayLevel: PIE: World Init took: (0.002156s)
+[2025.10.05-01.38.37:177][934]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2025.10.05-01.38.37:177][934]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.05-01.38.37:177][934]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.05-01.38.37:177][934]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.05-01.38.37:177][934]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.05-01.38.37:177][934]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.05-01.38.37:177][934]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.05-01.38.37:177][934]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.05-01.38.37:177][934]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.05-01.38.37:177][934]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.05-01.38.37:177][934]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.05-01.38.37:177][934]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.05-01.38.37:180][934]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.05-01.38.37:196][934]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.10.05-01.38.37:196][934]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.05-01.38.37:196][934]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.05-01.38.37:196][934]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.05-01.38.37:196][934]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2025.10.05-01.38.37:196][934]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2025.10.05-01.38.37:199][934]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2025.10.05-01.38.37:200][934]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2025.10.05-01.38.37:200][934]LogInit: FAudioDevice initialized with ID 3.
+[2025.10.05-01.38.37:200][934]LogAudio: Display: Audio Device (ID: 3) registered with world 'Minimal_Default_2'.
+[2025.10.05-01.38.37:200][934]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2025.10.05-01.38.37:204][934]LogLoad: Game class is 'BP_GameMode_C'
+[2025.10.05-01.38.37:220][934]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Echo'
+[2025.10.05-01.38.37:230][934]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 up for play (max tick rate 0) at 2025.10.05-03.38.37
+[2025.10.05-01.38.37:233][934]LogWorld: Bringing up level for play took: 0.029438
+[2025.10.05-01.38.37:271][934]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2025.10.05-01.38.37:283][934]PIE: Server logged in
+[2025.10.05-01.38.37:284][934]PIE: Play in editor total start time 0.165 seconds.
+[2025.10.05-01.38.41:509][ 52]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.05-01.38.41:509][ 52]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Minimal_Default_2
+[2025.10.05-01.38.41:511][ 52]LogWorld: UWorld::CleanupWorld for Minimal_Default_2, bSessionEnded=true, bCleanupResources=true
+[2025.10.05-01.38.41:513][ 52]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.05-01.38.41:519][ 52]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.05-01.38.41:525][ 52]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.05-01.38.41:548][ 52]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.05-01.38.41:548][ 52]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2025.10.05-01.38.41:548][ 52]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.10.05-01.38.41:550][ 52]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.10.05-01.38.41:565][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2025.10.05-01.38.42:084][ 55]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2025.10.05-01.39.43:844][899]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2025.10.05-01.39.43:844][899]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.05-01.39.43:926][899]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2025.10.05-01.41.55:507][785]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2505.775146
+[2025.10.05-01.41.55:744][792]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.05-01.41.55:744][792]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2505.978760, Update Interval: 349.452820
+[2025.10.05-01.45.25:272][ 59]LogSlate: Window 'Color Picker' being destroyed
+[2025.10.05-01.46.38:592][255]LogSlate: Window 'Color Picker' being destroyed
+[2025.10.05-01.46.42:746][378]LogSlate: Window 'Color Picker' being destroyed
+[2025.10.05-01.48.28:980][514]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2899.250488
+[2025.10.05-01.48.29:214][521]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.05-01.48.29:214][521]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2899.447510, Update Interval: 328.638580
+[2025.10.05-01.48.52:075][204]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2025.10.05-01.48.52:077][204]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Minimal_Default_2' took 0.028
+[2025.10.05-01.48.52:078][204]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/HUD/WBP_SlashOverlay] ([2] browsable assets)...
+[2025.10.05-01.48.52:081][204]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/HUD/WBP_SlashOverlay.WBP_SlashOverlay]
+[2025.10.05-01.48.52:081][204]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/HUD/WBP_SlashOverlay]
+[2025.10.05-01.48.52:085][204]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/HUD/WBP_SlashOverlay_Auto1
+[2025.10.05-01.48.52:085][204]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/WBP_SlashOverlay_Auto192528FD94A37E2EFAF576495751215C1.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Autosaves/Game/Blueprints/HUD/WBP_SlashOverlay_Auto1.uasset'
+[2025.10.05-01.48.52:087][204]LogFileHelpers: Auto-saving content packages took 0.010
+[2025.10.05-01.54.42:572][674]LogEditorTransaction: Undo Edit A
+[2025.10.05-01.54.53:351][978]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3283.623779
+[2025.10.05-01.54.53:620][986]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.05-01.54.53:620][986]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3283.857910, Update Interval: 357.773376
+[2025.10.05-01.55.19:454][751]LogSlate: Window 'Color Picker' being destroyed
+[2025.10.05-01.56.06:547][ 96]LogEditorTransaction: Undo Drag and Drop Widget
+[2025.10.05-01.56.13:243][277]LogEditorTransaction: Undo Drag and Drop Widget
+[2025.10.05-01.57.17:042][151]LogShaderCompilers: Display: ================================================
+[2025.10.05-01.57.17:042][151]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.10.05-01.57.17:042][151]LogShaderCompilers: Display: Total job queries 443, among them cache hits 56 (12.64%), DDC hits 371 (83.75%), Duplicates 4 (0.90%)
+[2025.10.05-01.57.17:042][151]LogShaderCompilers: Display: Tracking 383 distinct input hashes that result in 269 distinct outputs (70.23%)
+[2025.10.05-01.57.17:042][151]LogShaderCompilers: Display: RAM used: 162.93 KiB of 819.20 MiB budget. Usage: 0.02%
+[2025.10.05-01.57.17:042][151]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.10.05-01.57.17:042][151]LogShaderCompilers: Display: Shaders Compiled: 12
+[2025.10.05-01.57.17:042][151]LogShaderCompilers: Display: Jobs assigned 12, completed 12 (100%)
+[2025.10.05-01.57.17:042][151]LogShaderCompilers: Display: Average time worker was idle: 620.56 s
+[2025.10.05-01.57.17:042][151]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.10 s
+[2025.10.05-01.57.17:042][151]LogShaderCompilers: Display: Job execution time: average 2.34 s, max 3.19 s
+[2025.10.05-01.57.17:042][151]LogShaderCompilers: Display: Job life time (pending + execution): average 2.40 s, max 3.28
+[2025.10.05-01.57.17:042][151]LogShaderCompilers: Display: Shader code size: average 6.837 KiB, min 2.797 KiB, max 11.586 KiB
+[2025.10.05-01.57.17:042][151]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 5.86 s
+[2025.10.05-01.57.17:042][151]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.10.05-01.57.17:042][151]LogShaderCompilers: Display: Jobs were issued in 12 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.10.05-01.57.17:042][151]LogShaderCompilers: Display: Average processing rate: 2.05 jobs/sec
+[2025.10.05-01.57.17:042][151]LogShaderCompilers: Display: Total thread time: 8.073 s
+[2025.10.05-01.57.17:042][151]LogShaderCompilers: Display: Total thread preprocess time: 9.169 s
+[2025.10.05-01.57.17:042][151]LogShaderCompilers: Display: Percentage time preprocessing: 113.57%
+[2025.10.05-01.57.17:042][151]LogShaderCompilers: Display: Effective parallelization: 1.38 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.10.05-01.57.17:042][151]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.10.05-01.57.17:042][151]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    1 times, average 0.68 sec, max 0.68 sec, min 0.68 sec)
+[2025.10.05-01.57.17:042][151]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    1 times, average 0.67 sec, max 0.67 sec, min 0.67 sec)
+[2025.10.05-01.57.17:042][151]LogShaderCompilers: Display:              TShadowDepthPSPixelShadowDepth_VirtualShadowMap (compiled    1 times, average 0.65 sec, max 0.65 sec, min 0.65 sec)
+[2025.10.05-01.57.17:042][151]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    3 times, average 0.63 sec, max 0.82 sec, min 0.50 sec)
+[2025.10.05-01.57.17:042][151]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 0.63 sec, max 0.63 sec, min 0.63 sec)
+[2025.10.05-01.57.17:042][151]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.10.05-01.57.17:042][151]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 23.56% of total time (compiled    3 times, average 0.63 sec, max 0.82 sec, min 0.50 sec)
+[2025.10.05-01.57.17:042][151]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 18.36% of total time (compiled    3 times, average 0.49 sec, max 0.63 sec, min 0.36 sec)
+[2025.10.05-01.57.17:042][151]LogShaderCompilers: Display:                                                  FVelocityPS - 8.37% of total time (compiled    1 times, average 0.68 sec, max 0.68 sec, min 0.68 sec)
+[2025.10.05-01.57.17:042][151]LogShaderCompilers: Display:                                                 FLumenCardPS - 8.31% of total time (compiled    1 times, average 0.67 sec, max 0.67 sec, min 0.67 sec)
+[2025.10.05-01.57.17:042][151]LogShaderCompilers: Display:              TShadowDepthPSPixelShadowDepth_VirtualShadowMap - 8.07% of total time (compiled    1 times, average 0.65 sec, max 0.65 sec, min 0.65 sec)
+[2025.10.05-01.57.17:042][151]LogShaderCompilers: Display: === Material stats ===
+[2025.10.05-01.57.17:042][151]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.10.05-01.57.17:042][151]LogShaderCompilers: Display: Materials Translated:    170
+[2025.10.05-01.57.17:042][151]LogShaderCompilers: Display: Material Total Translate Time: 0.12 s
+[2025.10.05-01.57.17:042][151]LogShaderCompilers: Display: Material Translation Only: 0.06 s (53%)
+[2025.10.05-01.57.17:042][151]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2025.10.05-01.57.17:042][151]LogShaderCompilers: Display: Material Cache Hits: 45 (26%)
+[2025.10.05-01.57.17:042][151]LogShaderCompilers: Display: ================================================
+[2025.10.05-01.57.35:040][690]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2025.10.05-01.57.35:855][690]LogSlate: Window 'Save Content' being destroyed
+[2025.10.05-01.57.35:864][690]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.05-01.57.35:892][690]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/HUD/WBP_SlashOverlay] ([2] browsable assets)...
+[2025.10.05-01.57.35:894][690]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/HUD/WBP_SlashOverlay.WBP_SlashOverlay]
+[2025.10.05-01.57.35:894][690]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/HUD/WBP_SlashOverlay]
+[2025.10.05-01.57.35:898][690]LogSavePackage: Moving output files for package: /Game/Blueprints/HUD/WBP_SlashOverlay
+[2025.10.05-01.57.35:899][690]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/WBP_SlashOverlay9EBF2FA8450D5DDAD4B367933C21ECB8.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/HUD/WBP_SlashOverlay.uasset'
+[2025.10.05-01.57.35:907][690]LogFileHelpers: InternalPromptForCheckoutAndSave took 42.656 ms (total: 622.663 ms)
+[2025.10.05-01.57.35:940][690]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.05-01.57.35:941][690]LogContentValidation: Enabled validators:
+[2025.10.05-01.57.35:941][690]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.05-01.57.35:941][690]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.05-01.57.35:941][690]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.05-01.57.35:941][690]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.05-01.57.35:941][690]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.05-01.57.35:941][690]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.05-01.57.35:941][690]AssetCheck: /Game/Blueprints/HUD/WBP_SlashOverlay Validating asset
+[2025.10.05-01.57.38:086][753]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2025.10.05-01.57.42:619][881]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.05-01.57.42:680][881]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.05-01.57.42:681][881]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Minimal_Default_2
+[2025.10.05-01.57.42:708][881]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027309s)
+[2025.10.05-01.57.42:708][881]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Minimal_Default_2.Minimal_Default_2 to /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 (0.027436s)
+[2025.10.05-01.57.42:734][881]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2025.10.05-01.57.42:736][881]LogChaosDD: Creating Chaos Debug Draw Scene for world Minimal_Default_2
+[2025.10.05-01.57.42:737][881]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2'.
+[2025.10.05-01.57.42:737][881]LogPlayLevel: PIE: World Init took: (0.001664s)
+[2025.10.05-01.57.42:738][881]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2025.10.05-01.57.42:739][881]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.05-01.57.42:739][881]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.05-01.57.42:739][881]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.05-01.57.42:739][881]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.05-01.57.42:739][881]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.05-01.57.42:739][881]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.05-01.57.42:739][881]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.05-01.57.42:739][881]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.05-01.57.42:739][881]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.05-01.57.42:739][881]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.05-01.57.42:739][881]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.05-01.57.42:742][881]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.05-01.57.42:758][881]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.10.05-01.57.42:759][881]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.05-01.57.42:759][881]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.05-01.57.42:759][881]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.05-01.57.42:761][881]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2025.10.05-01.57.42:761][881]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2025.10.05-01.57.42:763][881]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2025.10.05-01.57.42:763][881]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2025.10.05-01.57.42:763][881]LogInit: FAudioDevice initialized with ID 4.
+[2025.10.05-01.57.42:763][881]LogAudio: Display: Audio Device (ID: 4) registered with world 'Minimal_Default_2'.
+[2025.10.05-01.57.42:763][881]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2025.10.05-01.57.42:766][881]LogLoad: Game class is 'BP_GameMode_C'
+[2025.10.05-01.57.42:776][881]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Echo'
+[2025.10.05-01.57.42:781][881]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 up for play (max tick rate 0) at 2025.10.05-03.57.42
+[2025.10.05-01.57.42:782][881]LogWorld: Bringing up level for play took: 0.016148
+[2025.10.05-01.57.42:814][881]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2025.10.05-01.57.42:819][881]PIE: Server logged in
+[2025.10.05-01.57.42:820][881]PIE: Play in editor total start time 0.194 seconds.
+[2025.10.05-01.57.45:048][940]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.05-01.57.45:048][940]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Minimal_Default_2
+[2025.10.05-01.57.45:049][940]LogWorld: UWorld::CleanupWorld for Minimal_Default_2, bSessionEnded=true, bCleanupResources=true
+[2025.10.05-01.57.45:050][940]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.05-01.57.45:053][940]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.05-01.57.45:060][940]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.05-01.57.45:082][940]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.05-01.57.45:083][940]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2025.10.05-01.57.45:083][940]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.10.05-01.57.45:085][940]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.10.05-01.57.45:109][940]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2025.10.05-01.57.45:608][943]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2025.10.05-01.59.03:827][268]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2025.10.05-01.59.03:829][268]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Minimal_Default_2' took 0.026
+[2025.10.05-01.59.03:830][268]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/HUD/WBP_SlashOverlay] ([2] browsable assets)...
+[2025.10.05-01.59.03:833][268]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/HUD/WBP_SlashOverlay.WBP_SlashOverlay]
+[2025.10.05-01.59.03:833][268]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/HUD/WBP_SlashOverlay]
+[2025.10.05-01.59.03:838][268]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/HUD/WBP_SlashOverlay_Auto2
+[2025.10.05-01.59.03:838][268]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/WBP_SlashOverlay_Auto2115CCA9743F13D44DA727C90AE015C7F.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Autosaves/Game/Blueprints/HUD/WBP_SlashOverlay_Auto2.uasset'
+[2025.10.05-01.59.03:839][268]LogFileHelpers: Auto-saving content packages took 0.010
+[2025.10.05-02.01.44:620][ 90]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3694.893555
+[2025.10.05-02.01.44:853][ 97]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.05-02.01.44:853][ 98]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3695.093262, Update Interval: 335.279999
+[2025.10.05-02.01.51:551][298]LogDerivedDataCache: C:/Users/Usuario/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.10.05-02.02.14:595][989]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Auriculares (Vieta Pro Calm 2 Stereo), InstanceID=1
+[2025.10.05-02.02.14:618][990]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.10.05-02.02.14:619][990]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=13136
+[2025.10.05-02.02.14:752][994]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.10.05-02.02.14:756][994]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=44100, DeviceID={0.0.0.00000000}.{a6cfb85f-2618-431e-bd23-0177754ea7a2}, Name=Auriculares (Vieta Pro Calm 2 Stereo)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=131.14
+[2025.10.05-02.02.14:757][994]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.10.05-02.02.14:764][994]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.10.05-02.04.21:998][774]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.10.05-02.04.22:287][774]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.10.05-02.04.33:974][ 87]LogTexture: Display: Building textures: /Game/AncientTreasures/Textures/Unique/TX_GoldBar_02a_RMA.TX_GoldBar_02a_RMA (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Final
+[2025.10.05-02.04.34:306][ 87]LogTexture: Display: Building textures: /Game/AncientTreasures/Textures/Unique/TX_GoldBar_02a_ALB.TX_GoldBar_02a_ALB (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Final
+[2025.10.05-02.04.34:614][ 87]LogTexture: Display: Building textures: /Game/AncientTreasures/Textures/Unique/TX_GoldBar_02a_NRM.TX_GoldBar_02a_NRM (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 337.499988 MB), EncodeSpeed: Final
+[2025.10.05-02.05.43:894][126]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2025.10.05-02.05.44:872][126]LogSlate: Window 'Save Content' being destroyed
+[2025.10.05-02.05.44:880][126]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.05-02.05.44:909][126]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/HUD/WBP_SlashOverlay] ([2] browsable assets)...
+[2025.10.05-02.05.44:912][126]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/HUD/WBP_SlashOverlay.WBP_SlashOverlay]
+[2025.10.05-02.05.44:912][126]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/HUD/WBP_SlashOverlay]
+[2025.10.05-02.05.44:916][126]LogSavePackage: Moving output files for package: /Game/Blueprints/HUD/WBP_SlashOverlay
+[2025.10.05-02.05.44:917][126]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/WBP_SlashOverlay8CEE0238479C293E5A4D649F65D22ADE.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/HUD/WBP_SlashOverlay.uasset'
+[2025.10.05-02.05.44:924][126]LogFileHelpers: InternalPromptForCheckoutAndSave took 44.663 ms (total: 667.326 ms)
+[2025.10.05-02.05.44:950][126]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.05-02.05.44:950][126]LogContentValidation: Enabled validators:
+[2025.10.05-02.05.44:950][126]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.05-02.05.44:950][126]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.05-02.05.44:950][126]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.05-02.05.44:950][126]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.05-02.05.44:950][126]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.05-02.05.44:950][126]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.05-02.05.44:951][126]AssetCheck: /Game/Blueprints/HUD/WBP_SlashOverlay Validating asset
+[2025.10.05-02.06.23:899][264]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2025.10.05-02.06.24:656][264]LogSlate: Window 'Save Content' being destroyed
+[2025.10.05-02.06.24:664][264]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.05-02.06.24:688][264]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/HUD/WBP_SlashOverlay] ([2] browsable assets)...
+[2025.10.05-02.06.24:690][264]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/HUD/WBP_SlashOverlay.WBP_SlashOverlay]
+[2025.10.05-02.06.24:691][264]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/HUD/WBP_SlashOverlay]
+[2025.10.05-02.06.24:695][264]LogSavePackage: Moving output files for package: /Game/Blueprints/HUD/WBP_SlashOverlay
+[2025.10.05-02.06.24:696][264]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/WBP_SlashOverlayCC0AE8884A2224EC087061BB59AD94B4.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/HUD/WBP_SlashOverlay.uasset'
+[2025.10.05-02.06.24:704][264]LogFileHelpers: InternalPromptForCheckoutAndSave took 39.480 ms (total: 706.807 ms)
+[2025.10.05-02.06.24:738][264]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.05-02.06.24:738][264]LogContentValidation: Enabled validators:
+[2025.10.05-02.06.24:738][264]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.05-02.06.24:738][264]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.05-02.06.24:738][264]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.05-02.06.24:738][264]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.05-02.06.24:738][264]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.05-02.06.24:738][264]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.05-02.06.24:739][264]AssetCheck: /Game/Blueprints/HUD/WBP_SlashOverlay Validating asset
+[2025.10.05-02.07.54:464][940]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4064.725830
+[2025.10.05-02.07.54:696][947]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.05-02.07.54:696][947]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4064.927490, Update Interval: 337.843567
+[2025.10.05-02.09.22:911][553]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2025.10.05-02.09.22:913][553]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Minimal_Default_2' took 0.030
+[2025.10.05-02.09.22:913][553]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/HUD/WBP_SlashOverlay] ([2] browsable assets)...
+[2025.10.05-02.09.22:917][553]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/HUD/WBP_SlashOverlay.WBP_SlashOverlay]
+[2025.10.05-02.09.22:917][553]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/HUD/WBP_SlashOverlay]
+[2025.10.05-02.09.22:922][553]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/HUD/WBP_SlashOverlay_Auto3
+[2025.10.05-02.09.22:922][553]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/WBP_SlashOverlay_Auto3C5D0C8764D417022A308C7AF81AB5158.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Autosaves/Game/Blueprints/HUD/WBP_SlashOverlay_Auto3.uasset'
+[2025.10.05-02.09.22:923][553]LogFileHelpers: Auto-saving content packages took 0.011
+[2025.10.05-02.11.10:105][719]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2025.10.05-02.11.10:982][719]LogSlate: Window 'Save Content' being destroyed
+[2025.10.05-02.11.10:991][719]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.05-02.11.11:023][719]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/HUD/WBP_SlashOverlay] ([2] browsable assets)...
+[2025.10.05-02.11.11:026][719]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/HUD/WBP_SlashOverlay.WBP_SlashOverlay]
+[2025.10.05-02.11.11:026][719]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/HUD/WBP_SlashOverlay]
+[2025.10.05-02.11.11:031][719]LogSavePackage: Moving output files for package: /Game/Blueprints/HUD/WBP_SlashOverlay
+[2025.10.05-02.11.11:032][719]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/WBP_SlashOverlay47C238F94E78415148615DB8203ED88D.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/HUD/WBP_SlashOverlay.uasset'
+[2025.10.05-02.11.11:039][719]LogFileHelpers: InternalPromptForCheckoutAndSave took 48.523 ms (total: 755.330 ms)
+[2025.10.05-02.11.11:074][719]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.05-02.11.11:074][719]LogContentValidation: Enabled validators:
+[2025.10.05-02.11.11:074][719]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.05-02.11.11:074][719]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.05-02.11.11:074][719]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.05-02.11.11:074][719]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.05-02.11.11:074][719]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.05-02.11.11:074][719]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.05-02.11.11:075][719]AssetCheck: /Game/Blueprints/HUD/WBP_SlashOverlay Validating asset
+[2025.10.05-02.11.16:413][876]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2025.10.05-02.11.19:433][957]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.05-02.11.19:447][957]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.05-02.11.19:447][957]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Minimal_Default_2
+[2025.10.05-02.11.19:456][957]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008313s)
+[2025.10.05-02.11.19:456][957]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Minimal_Default_2.Minimal_Default_2 to /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 (0.008348s)
+[2025.10.05-02.11.19:498][957]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2025.10.05-02.11.19:501][957]LogChaosDD: Creating Chaos Debug Draw Scene for world Minimal_Default_2
+[2025.10.05-02.11.19:502][957]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2'.
+[2025.10.05-02.11.19:503][957]LogPlayLevel: PIE: World Init took: (0.001622s)
+[2025.10.05-02.11.19:504][957]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2025.10.05-02.11.19:504][957]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.05-02.11.19:504][957]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.05-02.11.19:504][957]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.05-02.11.19:504][957]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.05-02.11.19:504][957]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.05-02.11.19:504][957]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.05-02.11.19:504][957]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.05-02.11.19:504][957]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.05-02.11.19:504][957]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.05-02.11.19:504][957]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.05-02.11.19:504][957]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.05-02.11.19:506][957]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.05-02.11.19:525][957]LogAudioMixer: Display: Using Audio Hardware Device Auriculares (Vieta Pro Calm 2 Stereo)
+[2025.10.05-02.11.19:526][957]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.05-02.11.19:526][957]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.05-02.11.19:526][957]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.05-02.11.19:527][957]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2025.10.05-02.11.19:527][957]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2025.10.05-02.11.19:529][957]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2025.10.05-02.11.19:529][957]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2025.10.05-02.11.19:529][957]LogInit: FAudioDevice initialized with ID 5.
+[2025.10.05-02.11.19:529][957]LogAudio: Display: Audio Device (ID: 5) registered with world 'Minimal_Default_2'.
+[2025.10.05-02.11.19:529][957]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2025.10.05-02.11.19:533][957]LogLoad: Game class is 'BP_GameMode_C'
+[2025.10.05-02.11.19:543][957]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Echo'
+[2025.10.05-02.11.19:547][957]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 up for play (max tick rate 0) at 2025.10.05-04.11.19
+[2025.10.05-02.11.19:548][957]LogWorld: Bringing up level for play took: 0.015578
+[2025.10.05-02.11.19:580][957]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2025.10.05-02.11.19:586][957]PIE: Server logged in
+[2025.10.05-02.11.19:587][957]PIE: Play in editor total start time 0.146 seconds.
+[2025.10.05-02.11.22:282][ 30]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.05-02.11.22:282][ 30]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Minimal_Default_2
+[2025.10.05-02.11.22:282][ 30]LogWorld: UWorld::CleanupWorld for Minimal_Default_2, bSessionEnded=true, bCleanupResources=true
+[2025.10.05-02.11.22:284][ 30]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.05-02.11.22:287][ 30]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.05-02.11.22:293][ 30]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.05-02.11.22:315][ 30]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.05-02.11.22:316][ 30]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2025.10.05-02.11.22:316][ 30]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.10.05-02.11.22:318][ 30]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.10.05-02.11.22:332][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2025.10.05-02.11.22:865][ 33]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2025.10.05-02.14.32:145][595]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4462.442871
+[2025.10.05-02.14.32:408][603]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.05-02.14.32:408][603]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4462.675781, Update Interval: 312.891022
+[2025.10.05-02.17.29:856][907]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2025.10.05-02.19.34:364][631]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2025.10.05-02.19.34:368][631]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Minimal_Default_2' took 0.034
+[2025.10.05-02.19.34:368][631]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/HUD/WBP_SlashOverlay] ([2] browsable assets)...
+[2025.10.05-02.19.34:375][631]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/HUD/WBP_SlashOverlay.WBP_SlashOverlay]
+[2025.10.05-02.19.34:375][631]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/HUD/WBP_SlashOverlay]
+[2025.10.05-02.19.34:382][631]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/HUD/WBP_SlashOverlay_Auto4
+[2025.10.05-02.19.34:382][631]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/WBP_SlashOverlay_Auto4670101A04E84CAA76BEB29AA37216D09.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Autosaves/Game/Blueprints/HUD/WBP_SlashOverlay_Auto4.uasset'
+[2025.10.05-02.19.34:383][631]LogFileHelpers: Auto-saving content packages took 0.016
+[2025.10.05-02.20.35:430][460]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4825.719727
+[2025.10.05-02.20.35:695][468]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.05-02.20.35:695][468]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4825.954590, Update Interval: 330.599701
+[2025.10.05-02.20.43:704][692]LogStreaming: Display: FlushAsyncLoading(517): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.05-02.20.43:727][692]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave SmallSmash5...
+[2025.10.05-02.20.43:730][692]LogAudioDerivedData: Warning: [SoundWave /Game/Audio/HitSounds/SmallSmash5.SmallSmash5] High sample rate wave (192000) with Bink Audio - perf waste - high frequencies are discarded by Bink Audio (like most perceptual codecs).
+[2025.10.05-02.20.43:748][692]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave SmallSmash4...
+[2025.10.05-02.20.43:756][692]LogAudioDerivedData: Display: SmallSmash4 compressed to 14.20% (from 185KB to 26KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2025.10.05-02.20.43:757][692]LogAudio: Display: Chunk stats for (SoundWave /Game/Audio/HitSounds/SmallSmash4.SmallSmash4: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=26905 bytes, ChunkN=0)
+[2025.10.05-02.20.43:760][692]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave SmallSmash3...
+[2025.10.05-02.20.43:771][692]LogAudioDerivedData: Warning: [SoundWave /Game/Audio/HitSounds/SmallSmash3.SmallSmash3] High sample rate wave (96000) with Bink Audio - perf waste - high frequencies are discarded by Bink Audio (like most perceptual codecs).
+[2025.10.05-02.20.43:772][692]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave SmallSmash2...
+[2025.10.05-02.20.43:782][692]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave SmallSmash1...
+[2025.10.05-02.20.43:784][692]LogAudioDerivedData: Display: SmallSmash2 compressed to 14.33% (from 228KB to 32KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2025.10.05-02.20.43:785][692]LogAudio: Display: Chunk stats for (SoundWave /Game/Audio/HitSounds/SmallSmash2.SmallSmash2: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=33533 bytes, ChunkN=0)
+[2025.10.05-02.20.43:792][692]LogAudioDerivedData: Display: SmallSmash1 compressed to 11.24% (from 269KB to 30KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2025.10.05-02.20.43:795][692]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave MediumSmash1...
+[2025.10.05-02.20.43:796][692]LogAudio: Display: Chunk stats for (SoundWave /Game/Audio/HitSounds/SmallSmash1.SmallSmash1: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=30951 bytes, ChunkN=0)
+[2025.10.05-02.20.43:805][692]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave HitFlesh4...
+[2025.10.05-02.20.43:807][692]LogAudioDerivedData: Display: SmallSmash3 compressed to 6.37% (from 724KB to 46KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2025.10.05-02.20.43:807][692]LogAudioDerivedData: Warning: [SoundWave /Game/Audio/HitSounds/HitFlesh4.HitFlesh4] High sample rate wave (192000) with Bink Audio - perf waste - high frequencies are discarded by Bink Audio (like most perceptual codecs).
+[2025.10.05-02.20.43:808][692]LogAudio: Display: Chunk stats for (SoundWave /Game/Audio/HitSounds/SmallSmash3.SmallSmash3: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=47297 bytes, ChunkN=0)
+[2025.10.05-02.20.43:814][692]LogAudioDerivedData: Display: MediumSmash1 compressed to 5.90% (from 1,280KB to 75KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2025.10.05-02.20.43:814][692]LogAudio: Display: Chunk stats for (SoundWave /Game/Audio/HitSounds/MediumSmash1.MediumSmash1: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=77317 bytes, ChunkN=0)
+[2025.10.05-02.20.43:851][692]LogAudioDerivedData: Display: HitFlesh4 compressed to 2.70% (from 939KB to 25KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2025.10.05-02.20.43:851][692]LogAudioDerivedData: Display: SmallSmash5 compressed to 4.42% (from 1,977KB to 87KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2025.10.05-02.20.43:851][692]LogAudio: Display: Chunk stats for (SoundWave /Game/Audio/HitSounds/HitFlesh4.HitFlesh4: Duration=0.00 secs, Channels=1), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=25939 bytes, ChunkN=0)
+[2025.10.05-02.20.43:852][692]LogAudio: Display: Chunk stats for (SoundWave /Game/Audio/HitSounds/SmallSmash5.SmallSmash5: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=89519 bytes, ChunkN=0)
+[2025.10.05-02.20.44:252][692]LogMetaData: Removing '/Game/Assets/Audio/Weapon/SC_Whoosh.SC_Whoosh:SoundCueGraph_0.SoundCueGraphNode_Root_0' ref from Metadata '/Game/Audio/Weapon/SC_Whoosh.PackageMetaData'
+[2025.10.05-02.20.44:257][692]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.05-02.20.44:273][692]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Characters/BP_SlashCharacter] ([2] browsable assets)...
+[2025.10.05-02.20.44:274][692]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_28
+[2025.10.05-02.20.44:274][692]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_28'.
+[2025.10.05-02.20.44:447][692]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Characters/BP_SlashCharacter.BP_SlashCharacter]
+[2025.10.05-02.20.44:447][692]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/BP_SlashCharacter]
+[2025.10.05-02.20.44:459][692]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/BP_SlashCharacter
+[2025.10.05-02.20.44:460][692]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/BP_SlashCharacter270FB9D64EB88300DBDB8F9363BAFAD0.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Characters/BP_SlashCharacter.uasset'
+[2025.10.05-02.20.44:462][692]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Enemy/BP_BaseEnemy] ([2] browsable assets)...
+[2025.10.05-02.20.44:505][692]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Enemy/BP_BaseEnemy.BP_BaseEnemy]
+[2025.10.05-02.20.44:505][692]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemy/BP_BaseEnemy]
+[2025.10.05-02.20.44:524][692]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemy/BP_BaseEnemy
+[2025.10.05-02.20.44:526][692]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/BP_BaseEnemyDB8842924E9EE8A8D89260B2B9C20BE0.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Enemy/BP_BaseEnemy.uasset'
+[2025.10.05-02.20.44:528][692]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Breakables/BP_BaseBreakable] ([2] browsable assets)...
+[2025.10.05-02.20.44:537][692]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Breakables/BP_BaseBreakable.BP_BaseBreakable]
+[2025.10.05-02.20.44:537][692]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Breakables/BP_BaseBreakable]
+[2025.10.05-02.20.44:545][692]LogSavePackage: Moving output files for package: /Game/Blueprints/Breakables/BP_BaseBreakable
+[2025.10.05-02.20.44:546][692]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/BP_BaseBreakable8EF0C8024D997BCBD77BB5B6928D5C2A.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Breakables/BP_BaseBreakable.uasset'
+[2025.10.05-02.20.44:549][692]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Items/Pickups/BP_BaseTreasure] ([2] browsable assets)...
+[2025.10.05-02.20.44:557][692]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Items/Pickups/BP_BaseTreasure.BP_BaseTreasure]
+[2025.10.05-02.20.44:557][692]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Items/Pickups/BP_BaseTreasure]
+[2025.10.05-02.20.44:562][692]LogSavePackage: Moving output files for package: /Game/Blueprints/Items/Pickups/BP_BaseTreasure
+[2025.10.05-02.20.44:563][692]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/BP_BaseTreasure0F9C1FC3490A09CCC16D24AEB1E4CD3F.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Items/Pickups/BP_BaseTreasure.uasset'
+[2025.10.05-02.20.44:565][692]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Items/Weapons/BP_Weapon] ([2] browsable assets)...
+[2025.10.05-02.20.44:565][692]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_29
+[2025.10.05-02.20.44:565][692]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_29'.
+[2025.10.05-02.20.44:587][692]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Items/Weapons/BP_Weapon.BP_Weapon]
+[2025.10.05-02.20.44:587][692]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Items/Weapons/BP_Weapon]
+[2025.10.05-02.20.44:600][692]LogSavePackage: Moving output files for package: /Game/Blueprints/Items/Weapons/BP_Weapon
+[2025.10.05-02.20.44:602][692]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/BP_Weapon9368019C43412DB5014FFA8F837807CE.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Items/Weapons/BP_Weapon.uasset'
+[2025.10.05-02.20.44:604][692]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Items/Weapons/BP_WeaponShort] ([2] browsable assets)...
+[2025.10.05-02.20.44:604][692]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_30
+[2025.10.05-02.20.44:604][692]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_30'.
+[2025.10.05-02.20.44:641][692]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Items/Weapons/BP_WeaponShort.BP_WeaponShort]
+[2025.10.05-02.20.44:641][692]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Items/Weapons/BP_WeaponShort]
+[2025.10.05-02.20.44:655][692]LogSavePackage: Moving output files for package: /Game/Blueprints/Items/Weapons/BP_WeaponShort
+[2025.10.05-02.20.44:656][692]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/BP_WeaponShort8837417D400FD26BEDE5D5B36AC8139A.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Items/Weapons/BP_WeaponShort.uasset'
+[2025.10.05-02.20.44:658][692]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/Animations/AM_EchoHitReact] ([1] browsable assets)...
+[2025.10.05-02.20.44:658][692]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/Animations/AM_EchoHitReact]
+[2025.10.05-02.20.44:669][692]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/Animations/AM_EchoHitReact
+[2025.10.05-02.20.44:670][692]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/AM_EchoHitReactF8460D53434C7553ED9B8DBD0EE92E13.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Characters/Animations/AM_EchoHitReact.uasset'
+[2025.10.05-02.20.44:672][692]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/Animations/AM_EchoAttack] ([1] browsable assets)...
+[2025.10.05-02.20.44:673][692]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/Animations/AM_EchoAttack]
+[2025.10.05-02.20.44:679][692]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/Animations/AM_EchoAttack
+[2025.10.05-02.20.44:680][692]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/AM_EchoAttack65C9038C48CC219A4604DCB7E3956D4D.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Characters/Animations/AM_EchoAttack.uasset'
+[2025.10.05-02.20.44:682][692]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enemy/Vampire/Animations/RM_VampireAttack] ([1] browsable assets)...
+[2025.10.05-02.20.44:682][692]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemy/Vampire/Animations/RM_VampireAttack]
+[2025.10.05-02.20.44:694][692]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemy/Vampire/Animations/RM_VampireAttack
+[2025.10.05-02.20.44:695][692]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/RM_VampireAttackF57C303A4A7957C1D35660B406D325F5.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Enemy/Vampire/Animations/RM_VampireAttack.uasset'
+[2025.10.05-02.20.44:697][692]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/Animations/AM_EchoEquip] ([1] browsable assets)...
+[2025.10.05-02.20.44:697][692]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/Animations/AM_EchoEquip]
+[2025.10.05-02.20.44:701][692]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/Animations/AM_EchoEquip
+[2025.10.05-02.20.44:702][692]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/AM_EchoEquipE7F660034EC022CFDEC53FBF5F687844.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Characters/Animations/AM_EchoEquip.uasset'
+[2025.10.05-02.20.44:704][692]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AncientContent/Characters/Echo/Animations/Jump_Idle_Land] ([1] browsable assets)...
+[2025.10.05-02.20.44:704][692]OBJ SavePackage: Finished generating thumbnails for package [/Game/AncientContent/Characters/Echo/Animations/Jump_Idle_Land]
+[2025.10.05-02.20.44:732][692]LogSavePackage: Moving output files for package: /Game/AncientContent/Characters/Echo/Animations/Jump_Idle_Land
+[2025.10.05-02.20.44:733][692]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Jump_Idle_LandA12BFFAD490B6CDC69EBDAADB3185365.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/AncientContent/Characters/Echo/Animations/Jump_Idle_Land.uasset'
+[2025.10.05-02.20.44:735][692]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/Animations/Locomotion/RunEquipped1Hand] ([1] browsable assets)...
+[2025.10.05-02.20.44:735][692]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/Animations/Locomotion/RunEquipped1Hand]
+[2025.10.05-02.20.44:764][692]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/Animations/Locomotion/RunEquipped1Hand
+[2025.10.05-02.20.44:765][692]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/RunEquipped1HandD1403C3249B0AF1E1A23EC981201C2B9.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Characters/Animations/Locomotion/RunEquipped1Hand.uasset'
+[2025.10.05-02.20.44:767][692]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AncientContent/Characters/Echo/Animations/Jog_Fwd] ([1] browsable assets)...
+[2025.10.05-02.20.44:768][692]OBJ SavePackage: Finished generating thumbnails for package [/Game/AncientContent/Characters/Echo/Animations/Jog_Fwd]
+[2025.10.05-02.20.44:792][692]LogSavePackage: Moving output files for package: /Game/AncientContent/Characters/Echo/Animations/Jog_Fwd
+[2025.10.05-02.20.44:793][692]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Jog_FwdDEE13452480F60294739C1BFF79B7A2E.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/AncientContent/Characters/Echo/Animations/Jog_Fwd.uasset'
+[2025.10.05-02.20.44:795][692]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AncientContent/Characters/Echo/Animations/Jump_Idle_Fall] ([1] browsable assets)...
+[2025.10.05-02.20.44:795][692]OBJ SavePackage: Finished generating thumbnails for package [/Game/AncientContent/Characters/Echo/Animations/Jump_Idle_Fall]
+[2025.10.05-02.20.44:818][692]LogSavePackage: Moving output files for package: /Game/AncientContent/Characters/Echo/Animations/Jump_Idle_Fall
+[2025.10.05-02.20.44:819][692]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Jump_Idle_Fall3981E0BD42D3ECC277563B9919CC15B5.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/AncientContent/Characters/Echo/Animations/Jump_Idle_Fall.uasset'
+[2025.10.05-02.20.44:822][692]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Audio/HitSounds/HitFlesh1] ([1] browsable assets)...
+[2025.10.05-02.20.44:822][692]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Audio/HitSounds/HitFlesh1]
+[2025.10.05-02.20.44:824][692]LogSavePackage: Moving output files for package: /Game/Assets/Audio/HitSounds/HitFlesh1
+[2025.10.05-02.20.44:824][692]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/HitFlesh16387CA324E1BA85D6E35C0AA521B43DA.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Assets/Audio/HitSounds/HitFlesh1.uasset'
+[2025.10.05-02.20.44:829][692]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Audio/HitSounds/HitFlesh2] ([1] browsable assets)...
+[2025.10.05-02.20.44:829][692]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Audio/HitSounds/HitFlesh2]
+[2025.10.05-02.20.44:832][692]LogSavePackage: Moving output files for package: /Game/Assets/Audio/HitSounds/HitFlesh2
+[2025.10.05-02.20.44:832][692]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/HitFlesh227D0EA9048B02C6019CFFD9622FBCCE9.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Assets/Audio/HitSounds/HitFlesh2.uasset'
+[2025.10.05-02.20.44:833][692]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Audio/HitSounds/HitFlesh3] ([1] browsable assets)...
+[2025.10.05-02.20.44:833][692]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Audio/HitSounds/HitFlesh3]
+[2025.10.05-02.20.44:838][692]LogSavePackage: Moving output files for package: /Game/Assets/Audio/HitSounds/HitFlesh3
+[2025.10.05-02.20.44:838][692]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/HitFlesh33F46EA7E47D176037706F8B2C40B27CF.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Assets/Audio/HitSounds/HitFlesh3.uasset'
+[2025.10.05-02.20.44:840][692]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Audio/HitSounds/SA_HitFlesh] ([1] browsable assets)...
+[2025.10.05-02.20.44:840][692]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Audio/HitSounds/SA_HitFlesh]
+[2025.10.05-02.20.44:842][692]LogSavePackage: Moving output files for package: /Game/Assets/Audio/HitSounds/SA_HitFlesh
+[2025.10.05-02.20.44:842][692]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/SA_HitFlesh308C6E29490ADFFF6FDA22AE0CC259D0.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Assets/Audio/HitSounds/SA_HitFlesh.uasset'
+[2025.10.05-02.20.44:844][692]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Audio/MetaSounds/sfx_HitFlesh] ([1] browsable assets)...
+[2025.10.05-02.20.44:845][692]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Audio/MetaSounds/sfx_HitFlesh]
+[2025.10.05-02.20.44:867][692]LogSavePackage: Moving output files for package: /Game/Assets/Audio/MetaSounds/sfx_HitFlesh
+[2025.10.05-02.20.44:867][692]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/sfx_HitFleshE12FAF534FAF9EE68F697ABA89A41A9A.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Assets/Audio/MetaSounds/sfx_HitFlesh.uasset'
+[2025.10.05-02.20.44:869][692]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Audio/HitSounds/LargeSmash1] ([1] browsable assets)...
+[2025.10.05-02.20.44:869][692]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Audio/HitSounds/LargeSmash1]
+[2025.10.05-02.20.44:873][692]LogSavePackage: Moving output files for package: /Game/Assets/Audio/HitSounds/LargeSmash1
+[2025.10.05-02.20.44:873][692]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/LargeSmash1855C07584314954E93A814A71F08B032.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Assets/Audio/HitSounds/LargeSmash1.uasset'
+[2025.10.05-02.20.44:875][692]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Audio/HitSounds/LargeSmash2] ([1] browsable assets)...
+[2025.10.05-02.20.44:875][692]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Audio/HitSounds/LargeSmash2]
+[2025.10.05-02.20.44:878][692]LogSavePackage: Moving output files for package: /Game/Assets/Audio/HitSounds/LargeSmash2
+[2025.10.05-02.20.44:878][692]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/LargeSmash2D9E15A4C44FDDD46F0AE1F8AE7B3BE3C.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Assets/Audio/HitSounds/LargeSmash2.uasset'
+[2025.10.05-02.20.44:881][692]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Audio/MetaSounds/sfx_PotBreak] ([1] browsable assets)...
+[2025.10.05-02.20.44:881][692]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Audio/MetaSounds/sfx_PotBreak]
+[2025.10.05-02.20.44:899][692]LogSavePackage: Moving output files for package: /Game/Assets/Audio/MetaSounds/sfx_PotBreak
+[2025.10.05-02.20.44:899][692]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/sfx_PotBreakAAEB3BCF4B7C1FCE7F1869A53B7C4008.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Assets/Audio/MetaSounds/sfx_PotBreak.uasset'
+[2025.10.05-02.20.44:901][692]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Audio/Pickups/Coins1] ([1] browsable assets)...
+[2025.10.05-02.20.44:901][692]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Audio/Pickups/Coins1]
+[2025.10.05-02.20.44:903][692]LogSavePackage: Moving output files for package: /Game/Assets/Audio/Pickups/Coins1
+[2025.10.05-02.20.44:903][692]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Coins1EF5B43744EC2C68C5AA2379174DB2FF5.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Assets/Audio/Pickups/Coins1.uasset'
+[2025.10.05-02.20.44:905][692]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Audio/MetaSounds/sfx_Treasure] ([1] browsable assets)...
+[2025.10.05-02.20.44:905][692]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Audio/MetaSounds/sfx_Treasure]
+[2025.10.05-02.20.44:920][692]LogSavePackage: Moving output files for package: /Game/Assets/Audio/MetaSounds/sfx_Treasure
+[2025.10.05-02.20.44:920][692]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/sfx_TreasureA8B940F1499BB607F9346BAC01C01DFF.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Assets/Audio/MetaSounds/sfx_Treasure.uasset'
+[2025.10.05-02.20.44:922][692]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Audio/Weapon/Shink] ([1] browsable assets)...
+[2025.10.05-02.20.44:922][692]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Audio/Weapon/Shink]
+[2025.10.05-02.20.44:924][692]LogSavePackage: Moving output files for package: /Game/Assets/Audio/Weapon/Shink
+[2025.10.05-02.20.44:924][692]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Shink23F481B548C57217003746B2F57946E1.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Assets/Audio/Weapon/Shink.uasset'
+[2025.10.05-02.20.44:926][692]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Audio/MetaSounds/sfx_Shink] ([1] browsable assets)...
+[2025.10.05-02.20.44:926][692]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Audio/MetaSounds/sfx_Shink]
+[2025.10.05-02.20.44:940][692]LogSavePackage: Moving output files for package: /Game/Assets/Audio/MetaSounds/sfx_Shink
+[2025.10.05-02.20.44:940][692]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/sfx_Shink3D50FD4C452907F0AD73F9BA7036427D.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Assets/Audio/MetaSounds/sfx_Shink.uasset'
+[2025.10.05-02.20.44:942][692]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Audio/MetaSounds/sfx_Exert] ([1] browsable assets)...
+[2025.10.05-02.20.44:942][692]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Audio/MetaSounds/sfx_Exert]
+[2025.10.05-02.20.44:958][692]LogSavePackage: Moving output files for package: /Game/Assets/Audio/MetaSounds/sfx_Exert
+[2025.10.05-02.20.44:958][692]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/sfx_Exert63F231D849A3A9CBE8B5EE92411FCBBD.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Assets/Audio/MetaSounds/sfx_Exert.uasset'
+[2025.10.05-02.20.44:960][692]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Audio/Weapon/whoosh] ([1] browsable assets)...
+[2025.10.05-02.20.44:960][692]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Audio/Weapon/whoosh]
+[2025.10.05-02.20.44:961][692]LogSavePackage: Moving output files for package: /Game/Assets/Audio/Weapon/whoosh
+[2025.10.05-02.20.44:961][692]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/whooshBDC9A29C4D63CAEE4E6C538A78B69720.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Assets/Audio/Weapon/whoosh.uasset'
+[2025.10.05-02.20.44:963][692]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Audio/MetaSounds/sfx_Whoosh] ([1] browsable assets)...
+[2025.10.05-02.20.44:963][692]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Audio/MetaSounds/sfx_Whoosh]
+[2025.10.05-02.20.44:976][692]LogSavePackage: Moving output files for package: /Game/Assets/Audio/MetaSounds/sfx_Whoosh
+[2025.10.05-02.20.44:977][692]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/sfx_Whoosh4DAFB5E442ED2EFBC3DAAFA46B5DA3AA.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Assets/Audio/MetaSounds/sfx_Whoosh.uasset'
+[2025.10.05-02.20.44:978][692]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Audio/MetaSounds/sfx_PouchHeavy] ([1] browsable assets)...
+[2025.10.05-02.20.44:978][692]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Audio/MetaSounds/sfx_PouchHeavy]
+[2025.10.05-02.20.44:994][692]LogSavePackage: Moving output files for package: /Game/Assets/Audio/MetaSounds/sfx_PouchHeavy
+[2025.10.05-02.20.44:994][692]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/sfx_PouchHeavyC24545B441184EE170FCCD9DF34DA402.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Assets/Audio/MetaSounds/sfx_PouchHeavy.uasset'
+[2025.10.05-02.20.44:996][692]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Audio/MetaSounds/sfx_ClothRun] ([1] browsable assets)...
+[2025.10.05-02.20.44:996][692]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Audio/MetaSounds/sfx_ClothRun]
+[2025.10.05-02.20.45:012][692]LogSavePackage: Moving output files for package: /Game/Assets/Audio/MetaSounds/sfx_ClothRun
+[2025.10.05-02.20.45:012][692]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/sfx_ClothRun430C283F498E42B09BCAAF9E687CD9D5.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Assets/Audio/MetaSounds/sfx_ClothRun.uasset'
+[2025.10.05-02.20.45:014][692]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Audio/MetaSounds/sfx_ClothHeavy] ([1] browsable assets)...
+[2025.10.05-02.20.45:014][692]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Audio/MetaSounds/sfx_ClothHeavy]
+[2025.10.05-02.20.45:030][692]LogSavePackage: Moving output files for package: /Game/Assets/Audio/MetaSounds/sfx_ClothHeavy
+[2025.10.05-02.20.45:030][692]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/sfx_ClothHeavyC43B01AC471EE4D0E7C6648C6184021D.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Assets/Audio/MetaSounds/sfx_ClothHeavy.uasset'
+[2025.10.05-02.20.45:031][692]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Audio/MetaSounds/sfx_Rock_Run] ([1] browsable assets)...
+[2025.10.05-02.20.45:031][692]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Audio/MetaSounds/sfx_Rock_Run]
+[2025.10.05-02.20.45:047][692]LogSavePackage: Moving output files for package: /Game/Assets/Audio/MetaSounds/sfx_Rock_Run
+[2025.10.05-02.20.45:047][692]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/sfx_Rock_RunD47777E748DFAC434C6DC4879FEB63C0.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Assets/Audio/MetaSounds/sfx_Rock_Run.uasset'
+[2025.10.05-02.20.45:049][692]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Audio/MetaSounds/sfx_FootfallLand] ([1] browsable assets)...
+[2025.10.05-02.20.45:049][692]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Audio/MetaSounds/sfx_FootfallLand]
+[2025.10.05-02.20.45:066][692]LogSavePackage: Moving output files for package: /Game/Assets/Audio/MetaSounds/sfx_FootfallLand
+[2025.10.05-02.20.45:066][692]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/sfx_FootfallLandA9DD8C0A472AF1E5B640A5B0C5D1F944.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Assets/Audio/MetaSounds/sfx_FootfallLand.uasset'
+[2025.10.05-02.20.45:068][692]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Audio/HitSounds/SmallSmash5] ([1] browsable assets)...
+[2025.10.05-02.20.45:068][692]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Audio/HitSounds/SmallSmash5]
+[2025.10.05-02.20.45:070][692]LogSavePackage: Moving output files for package: /Game/Assets/Audio/HitSounds/SmallSmash5
+[2025.10.05-02.20.45:070][692]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/SmallSmash51E4694B141B5C764396DE187096D3539.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Assets/Audio/HitSounds/SmallSmash5.uasset'
+[2025.10.05-02.20.45:072][692]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Audio/HitSounds/SmallSmash4] ([1] browsable assets)...
+[2025.10.05-02.20.45:072][692]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Audio/HitSounds/SmallSmash4]
+[2025.10.05-02.20.45:074][692]LogSavePackage: Moving output files for package: /Game/Assets/Audio/HitSounds/SmallSmash4
+[2025.10.05-02.20.45:074][692]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/SmallSmash436B205E9421AE453C600809B82751F7D.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Assets/Audio/HitSounds/SmallSmash4.uasset'
+[2025.10.05-02.20.45:075][692]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Audio/HitSounds/SmallSmash3] ([1] browsable assets)...
+[2025.10.05-02.20.45:075][692]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Audio/HitSounds/SmallSmash3]
+[2025.10.05-02.20.45:077][692]LogSavePackage: Moving output files for package: /Game/Assets/Audio/HitSounds/SmallSmash3
+[2025.10.05-02.20.45:077][692]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/SmallSmash321EFFDCF479B695C97F3B58DE7F68799.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Assets/Audio/HitSounds/SmallSmash3.uasset'
+[2025.10.05-02.20.45:079][692]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Audio/HitSounds/SmallSmash2] ([1] browsable assets)...
+[2025.10.05-02.20.45:079][692]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Audio/HitSounds/SmallSmash2]
+[2025.10.05-02.20.45:081][692]LogSavePackage: Moving output files for package: /Game/Assets/Audio/HitSounds/SmallSmash2
+[2025.10.05-02.20.45:081][692]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/SmallSmash2E53A788C4D2A7B5D0EC4779BF8EF9408.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Assets/Audio/HitSounds/SmallSmash2.uasset'
+[2025.10.05-02.20.45:083][692]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Audio/HitSounds/SmallSmash1] ([1] browsable assets)...
+[2025.10.05-02.20.45:083][692]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Audio/HitSounds/SmallSmash1]
+[2025.10.05-02.20.45:085][692]LogSavePackage: Moving output files for package: /Game/Assets/Audio/HitSounds/SmallSmash1
+[2025.10.05-02.20.45:085][692]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/SmallSmash1CE7863ED436742401BE2A59D7804311E.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Assets/Audio/HitSounds/SmallSmash1.uasset'
+[2025.10.05-02.20.45:086][692]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Audio/HitSounds/MediumSmash1] ([1] browsable assets)...
+[2025.10.05-02.20.45:086][692]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Audio/HitSounds/MediumSmash1]
+[2025.10.05-02.20.45:088][692]LogSavePackage: Moving output files for package: /Game/Assets/Audio/HitSounds/MediumSmash1
+[2025.10.05-02.20.45:088][692]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/MediumSmash16800780F4DAC1ECFFCBFC8855F7FC9FA.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Assets/Audio/HitSounds/MediumSmash1.uasset'
+[2025.10.05-02.20.45:090][692]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Audio/HitSounds/HitFlesh4] ([1] browsable assets)...
+[2025.10.05-02.20.45:090][692]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Audio/HitSounds/HitFlesh4]
+[2025.10.05-02.20.45:092][692]LogSavePackage: Moving output files for package: /Game/Assets/Audio/HitSounds/HitFlesh4
+[2025.10.05-02.20.45:092][692]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/HitFlesh45186827045F31BA8EB20CDB417AEA91D.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Assets/Audio/HitSounds/HitFlesh4.uasset'
+[2025.10.05-02.20.45:094][692]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Audio/Weapon/SC_Whoosh] ([1] browsable assets)...
+[2025.10.05-02.20.45:094][692]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Audio/Weapon/SC_Whoosh]
+[2025.10.05-02.20.45:095][692]LogSavePackage: Moving output files for package: /Game/Assets/Audio/Weapon/SC_Whoosh
+[2025.10.05-02.20.45:095][692]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/SC_Whoosh60305A6642D0AFBCE5CEE399679A31CA.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Assets/Audio/Weapon/SC_Whoosh.uasset'
+[2025.10.05-02.20.45:098][692]LogFileHelpers: InternalPromptForCheckoutAndSave took 841.654 ms (total: 1.59 sec)
+[2025.10.05-02.20.45:480][692]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2025.10.05-02.20.45:507][692]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.10.05-02.20.45:532][692]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.10.05-02.20.45:660][692]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.10.05-02.20.45:660][692]LogContentValidation: Display: Starting to validate 42 assets
+[2025.10.05-02.20.45:660][692]LogContentValidation: Enabled validators:
+[2025.10.05-02.20.45:660][692]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.05-02.20.45:660][692]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.05-02.20.45:660][692]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.05-02.20.45:660][692]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.05-02.20.45:660][692]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.05-02.20.45:660][692]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.05-02.20.45:660][692]AssetCheck: /Game/Blueprints/Characters/BP_SlashCharacter Validating asset
+[2025.10.05-02.20.45:660][692]AssetCheck: /Game/Blueprints/Enemy/BP_BaseEnemy Validating asset
+[2025.10.05-02.20.45:660][692]AssetCheck: /Game/Blueprints/Breakables/BP_BaseBreakable Validating asset
+[2025.10.05-02.20.45:661][692]AssetCheck: /Game/Blueprints/Items/Pickups/BP_BaseTreasure Validating asset
+[2025.10.05-02.20.45:661][692]AssetCheck: /Game/Blueprints/Items/Weapons/BP_Weapon Validating asset
+[2025.10.05-02.20.45:661][692]AssetCheck: /Game/Blueprints/Items/Weapons/BP_WeaponShort Validating asset
+[2025.10.05-02.20.45:661][692]AssetCheck: /Game/Blueprints/Characters/Animations/AM_EchoHitReact Validating asset
+[2025.10.05-02.20.45:661][692]AssetCheck: /Game/Blueprints/Characters/Animations/AM_EchoAttack Validating asset
+[2025.10.05-02.20.45:661][692]AssetCheck: /Game/Blueprints/Enemy/Vampire/Animations/RM_VampireAttack Validating asset
+[2025.10.05-02.20.45:661][692]AssetCheck: /Game/Blueprints/Characters/Animations/AM_EchoEquip Validating asset
+[2025.10.05-02.20.45:661][692]AssetCheck: /Game/AncientContent/Characters/Echo/Animations/Jump_Idle_Land Validating asset
+[2025.10.05-02.20.45:661][692]AssetCheck: /Game/Blueprints/Characters/Animations/Locomotion/RunEquipped1Hand Validating asset
+[2025.10.05-02.20.45:661][692]AssetCheck: /Game/AncientContent/Characters/Echo/Animations/Jog_Fwd Validating asset
+[2025.10.05-02.20.45:661][692]AssetCheck: /Game/AncientContent/Characters/Echo/Animations/Jump_Idle_Fall Validating asset
+[2025.10.05-02.20.45:661][692]AssetCheck: /Game/Assets/Audio/HitSounds/HitFlesh1 Validating asset
+[2025.10.05-02.20.45:661][692]AssetCheck: /Game/Assets/Audio/HitSounds/HitFlesh2 Validating asset
+[2025.10.05-02.20.45:661][692]AssetCheck: /Game/Assets/Audio/HitSounds/HitFlesh3 Validating asset
+[2025.10.05-02.20.45:661][692]AssetCheck: /Game/Assets/Audio/HitSounds/SA_HitFlesh Validating asset
+[2025.10.05-02.20.45:664][692]AssetCheck: /Game/Assets/Audio/MetaSounds/sfx_HitFlesh Validating asset
+[2025.10.05-02.20.45:664][692]AssetCheck: /Game/Assets/Audio/HitSounds/LargeSmash1 Validating asset
+[2025.10.05-02.20.45:664][692]AssetCheck: /Game/Assets/Audio/HitSounds/LargeSmash2 Validating asset
+[2025.10.05-02.20.45:664][692]AssetCheck: /Game/Assets/Audio/MetaSounds/sfx_PotBreak Validating asset
+[2025.10.05-02.20.45:664][692]AssetCheck: /Game/Assets/Audio/Pickups/Coins1 Validating asset
+[2025.10.05-02.20.45:664][692]AssetCheck: /Game/Assets/Audio/MetaSounds/sfx_Treasure Validating asset
+[2025.10.05-02.20.45:664][692]AssetCheck: /Game/Assets/Audio/Weapon/Shink Validating asset
+[2025.10.05-02.20.45:664][692]AssetCheck: /Game/Assets/Audio/MetaSounds/sfx_Shink Validating asset
+[2025.10.05-02.20.45:664][692]AssetCheck: /Game/Assets/Audio/MetaSounds/sfx_Exert Validating asset
+[2025.10.05-02.20.45:664][692]AssetCheck: /Game/Assets/Audio/Weapon/whoosh Validating asset
+[2025.10.05-02.20.45:664][692]AssetCheck: /Game/Assets/Audio/MetaSounds/sfx_Whoosh Validating asset
+[2025.10.05-02.20.45:664][692]AssetCheck: /Game/Assets/Audio/MetaSounds/sfx_PouchHeavy Validating asset
+[2025.10.05-02.20.45:664][692]AssetCheck: /Game/Assets/Audio/MetaSounds/sfx_ClothRun Validating asset
+[2025.10.05-02.20.45:664][692]AssetCheck: /Game/Assets/Audio/MetaSounds/sfx_ClothHeavy Validating asset
+[2025.10.05-02.20.45:664][692]AssetCheck: /Game/Assets/Audio/MetaSounds/sfx_Rock_Run Validating asset
+[2025.10.05-02.20.45:665][692]AssetCheck: /Game/Assets/Audio/MetaSounds/sfx_FootfallLand Validating asset
+[2025.10.05-02.20.45:665][692]AssetCheck: /Game/Assets/Audio/HitSounds/SmallSmash5 Validating asset
+[2025.10.05-02.20.45:665][692]AssetCheck: /Game/Assets/Audio/HitSounds/SmallSmash4 Validating asset
+[2025.10.05-02.20.45:665][692]AssetCheck: /Game/Assets/Audio/HitSounds/SmallSmash3 Validating asset
+[2025.10.05-02.20.45:665][692]AssetCheck: /Game/Assets/Audio/HitSounds/SmallSmash2 Validating asset
+[2025.10.05-02.20.45:665][692]AssetCheck: /Game/Assets/Audio/HitSounds/SmallSmash1 Validating asset
+[2025.10.05-02.20.45:665][692]AssetCheck: /Game/Assets/Audio/HitSounds/MediumSmash1 Validating asset
+[2025.10.05-02.20.45:665][692]AssetCheck: /Game/Assets/Audio/HitSounds/HitFlesh4 Validating asset
+[2025.10.05-02.20.45:665][692]AssetCheck: /Game/Assets/Audio/Weapon/SC_Whoosh Validating asset
+[2025.10.05-02.20.50:679][819]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.05-02.20.50:681][819]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/HUD/WBP_SlashOverlay] ([2] browsable assets)...
+[2025.10.05-02.20.50:684][819]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/HUD/WBP_SlashOverlay.WBP_SlashOverlay]
+[2025.10.05-02.20.50:684][819]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/HUD/WBP_SlashOverlay]
+[2025.10.05-02.20.50:690][819]LogSavePackage: Moving output files for package: /Game/Blueprints/HUD/WBP_SlashOverlay
+[2025.10.05-02.20.50:691][819]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/WBP_SlashOverlay5B01BFBE4B7C60A41E8F6DA5AD3168BE.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/HUD/WBP_SlashOverlay.uasset'
+[2025.10.05-02.20.50:693][819]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/HUD/WBP_HealthBar] ([2] browsable assets)...
+[2025.10.05-02.20.50:696][819]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/HUD/WBP_HealthBar.WBP_HealthBar]
+[2025.10.05-02.20.50:696][819]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/HUD/WBP_HealthBar]
+[2025.10.05-02.20.50:701][819]LogSavePackage: Moving output files for package: /Game/Blueprints/HUD/WBP_HealthBar
+[2025.10.05-02.20.50:702][819]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/WBP_HealthBar4A648A8141C511E108451E89101C48D4.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/HUD/WBP_HealthBar.uasset'
+[2025.10.05-02.20.50:704][819]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Textures/SlashOverlay/Icon_Full_Yellow] ([1] browsable assets)...
+[2025.10.05-02.20.50:704][819]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Textures/SlashOverlay/Icon_Full_Yellow]
+[2025.10.05-02.20.50:707][819]LogSavePackage: Moving output files for package: /Game/Assets/Textures/SlashOverlay/Icon_Full_Yellow
+[2025.10.05-02.20.50:707][819]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Icon_Full_Yellow05974BB64C6AEF4FF3FEFC97603EF5F7.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Assets/Textures/SlashOverlay/Icon_Full_Yellow.uasset'
+[2025.10.05-02.20.50:710][819]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Textures/SlashOverlay/Main__Middle_] ([1] browsable assets)...
+[2025.10.05-02.20.50:710][819]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Textures/SlashOverlay/Main__Middle_]
+[2025.10.05-02.20.50:713][819]LogSavePackage: Moving output files for package: /Game/Assets/Textures/SlashOverlay/Main__Middle_
+[2025.10.05-02.20.50:713][819]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Main__Middle_1E51560C466129CE50EF9F9431414979.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Assets/Textures/SlashOverlay/Main__Middle_.uasset'
+[2025.10.05-02.20.50:716][819]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Textures/SlashOverlay/Icon_Full_Pink] ([1] browsable assets)...
+[2025.10.05-02.20.50:716][819]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Textures/SlashOverlay/Icon_Full_Pink]
+[2025.10.05-02.20.50:719][819]LogSavePackage: Moving output files for package: /Game/Assets/Textures/SlashOverlay/Icon_Full_Pink
+[2025.10.05-02.20.50:719][819]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Icon_Full_Pink30EFC8CF4E2A135611EC1E88D0F59978.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Assets/Textures/SlashOverlay/Icon_Full_Pink.uasset'
+[2025.10.05-02.20.50:721][819]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Textures/SlashOverlay/Gold_Coin] ([1] browsable assets)...
+[2025.10.05-02.20.50:721][819]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Textures/SlashOverlay/Gold_Coin]
+[2025.10.05-02.20.50:723][819]LogSavePackage: Moving output files for package: /Game/Assets/Textures/SlashOverlay/Gold_Coin
+[2025.10.05-02.20.50:723][819]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Gold_Coin9F7C34324A48A75EDBA36781F6FDEA34.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Assets/Textures/SlashOverlay/Gold_Coin.uasset'
+[2025.10.05-02.20.50:726][819]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Textures/SlashOverlay/Icon_Empty] ([1] browsable assets)...
+[2025.10.05-02.20.50:726][819]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Textures/SlashOverlay/Icon_Empty]
+[2025.10.05-02.20.50:729][819]LogSavePackage: Moving output files for package: /Game/Assets/Textures/SlashOverlay/Icon_Empty
+[2025.10.05-02.20.50:729][819]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Icon_Empty09FE58E54F60041B9BC298A2F2AD2892.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Assets/Textures/SlashOverlay/Icon_Empty.uasset'
+[2025.10.05-02.20.50:733][819]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Textures/HealthBars/Medium_Enemy_Front] ([1] browsable assets)...
+[2025.10.05-02.20.50:733][819]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Textures/HealthBars/Medium_Enemy_Front]
+[2025.10.05-02.20.50:735][819]LogSavePackage: Moving output files for package: /Game/Assets/Textures/HealthBars/Medium_Enemy_Front
+[2025.10.05-02.20.50:735][819]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Medium_Enemy_Front4B49363549F60D3001AFE69A967D0BAE.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Assets/Textures/HealthBars/Medium_Enemy_Front.uasset'
+[2025.10.05-02.20.50:737][819]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Textures/HealthBars/Medium_Health_Fill] ([1] browsable assets)...
+[2025.10.05-02.20.50:737][819]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Textures/HealthBars/Medium_Health_Fill]
+[2025.10.05-02.20.50:739][819]LogSavePackage: Moving output files for package: /Game/Assets/Textures/HealthBars/Medium_Health_Fill
+[2025.10.05-02.20.50:739][819]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Medium_Health_FillE263115F440E59E262BBBEA87A5D22A5.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Assets/Textures/HealthBars/Medium_Health_Fill.uasset'
+[2025.10.05-02.20.50:741][819]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Textures/SlashOverlay/Soul_White] ([1] browsable assets)...
+[2025.10.05-02.20.50:741][819]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Textures/SlashOverlay/Soul_White]
+[2025.10.05-02.20.50:742][819]LogSavePackage: Moving output files for package: /Game/Assets/Textures/SlashOverlay/Soul_White
+[2025.10.05-02.20.50:742][819]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Soul_White81C6572A41E4186B9AF695A755E7F33F.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Assets/Textures/SlashOverlay/Soul_White.uasset'
+[2025.10.05-02.20.50:744][819]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Textures/SlashOverlay/MainStamina] ([1] browsable assets)...
+[2025.10.05-02.20.50:744][819]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Textures/SlashOverlay/MainStamina]
+[2025.10.05-02.20.50:746][819]LogSavePackage: Moving output files for package: /Game/Assets/Textures/SlashOverlay/MainStamina
+[2025.10.05-02.20.50:746][819]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/MainStamina14B5BA154BA87968A34D1E91299DB960.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Assets/Textures/SlashOverlay/MainStamina.uasset'
+[2025.10.05-02.20.50:748][819]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Textures/SlashOverlay/MainHealth] ([1] browsable assets)...
+[2025.10.05-02.20.50:748][819]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Textures/SlashOverlay/MainHealth]
+[2025.10.05-02.20.50:749][819]LogSavePackage: Moving output files for package: /Game/Assets/Textures/SlashOverlay/MainHealth
+[2025.10.05-02.20.50:750][819]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/MainHealthB044F3C14A84AC54C84A8DAEFC0C517F.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Assets/Textures/SlashOverlay/MainHealth.uasset'
+[2025.10.05-02.20.50:753][819]LogFileHelpers: InternalPromptForCheckoutAndSave took 74.002 ms (total: 1.67 sec)
+[2025.10.05-02.20.50:912][819]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2025.10.05-02.20.50:935][819]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2025.10.05-02.20.50:958][819]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.10.05-02.20.51:025][819]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.10.05-02.20.51:025][819]LogContentValidation: Display: Starting to validate 12 assets
+[2025.10.05-02.20.51:025][819]LogContentValidation: Enabled validators:
+[2025.10.05-02.20.51:025][819]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.05-02.20.51:026][819]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.05-02.20.51:026][819]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.05-02.20.51:026][819]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.05-02.20.51:026][819]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.05-02.20.51:026][819]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.05-02.20.51:026][819]AssetCheck: /Game/Blueprints/HUD/WBP_SlashOverlay Validating asset
+[2025.10.05-02.20.51:027][819]AssetCheck: /Game/Blueprints/HUD/WBP_HealthBar Validating asset
+[2025.10.05-02.20.51:027][819]AssetCheck: /Game/Assets/Textures/SlashOverlay/Icon_Full_Yellow Validating asset
+[2025.10.05-02.20.51:027][819]AssetCheck: /Game/Assets/Textures/SlashOverlay/Main__Middle_ Validating asset
+[2025.10.05-02.20.51:027][819]AssetCheck: /Game/Assets/Textures/SlashOverlay/Icon_Full_Pink Validating asset
+[2025.10.05-02.20.51:027][819]AssetCheck: /Game/Assets/Textures/SlashOverlay/Gold_Coin Validating asset
+[2025.10.05-02.20.51:027][819]AssetCheck: /Game/Assets/Textures/SlashOverlay/Icon_Empty Validating asset
+[2025.10.05-02.20.51:027][819]AssetCheck: /Game/Assets/Textures/HealthBars/Medium_Enemy_Front Validating asset
+[2025.10.05-02.20.51:027][819]AssetCheck: /Game/Assets/Textures/HealthBars/Medium_Health_Fill Validating asset
+[2025.10.05-02.20.51:027][819]AssetCheck: /Game/Assets/Textures/SlashOverlay/Soul_White Validating asset
+[2025.10.05-02.20.51:027][819]AssetCheck: /Game/Assets/Textures/SlashOverlay/MainStamina Validating asset
+[2025.10.05-02.20.51:028][819]AssetCheck: /Game/Assets/Textures/SlashOverlay/MainHealth Validating asset
+[2025.10.05-02.20.57:046][998]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.10.05-02.20.57:065][998]LogContentBrowser: Creating deferred item: NewFolder
+[2025.10.05-02.20.57:102][999]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.10.05-02.20.59:458][ 70]LogContentBrowser: Attempting asset rename: NewFolder -> Fonts
+[2025.10.05-02.20.59:458][ 70]LogContentBrowser: End creating deferred item NewFolder
+[2025.10.05-02.21.38:507][234]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\Users\Usuario\Downloads\Raleway\static\Raleway-ExtraLight.ttf)
+[2025.10.05-02.21.41:510][234]LogSlate: Window 'Font Face Import Options' being destroyed
+[2025.10.05-02.21.41:516][234]Message dialog closed, result: Yes, title: Font Face Import Options, text: Would you like to create a new Font asset using the imported Font Face as its default font?
+[2025.10.05-02.21.41:523][234]LogSlate: FontCache flush requested. Reason: UFontFace::PostEditChangeProperty
+[2025.10.05-02.21.41:550][234]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.05-02.21.41:568][235]LogSlate: Took 0.001881 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.10.05-02.21.41:574][235]LogSlate: Took 0.001275 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2025.10.05-02.21.41:580][235]LogSlate: Took 0.000667 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2025.10.05-02.21.41:591][235]LogSlate: Took 0.007170 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.10.05-02.21.41:612][235]LogSlate: Took 0.018985 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.10.05-02.21.41:633][235]LogSlate: Took 0.019503 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.10.05-02.21.50:434][495]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:\Users\Usuario\Downloads\Raleway\static\Raleway-Thin.ttf)
+[2025.10.05-02.21.51:928][495]LogSlate: Window 'Font Face Import Options' being destroyed
+[2025.10.05-02.21.51:932][495]Message dialog closed, result: Yes, title: Font Face Import Options, text: Would you like to create a new Font asset using the imported Font Face as its default font?
+[2025.10.05-02.21.52:005][495]LogSlate: FontCache flush requested. Reason: UFontFace::PostEditChangeProperty
+[2025.10.05-02.21.52:030][495]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.05-02.21.52:042][496]LogSlate: Took 0.000188 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.10.05-02.21.52:052][496]LogSlate: Took 0.006111 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2025.10.05-02.21.52:058][496]LogSlate: Took 0.000145 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2025.10.05-02.21.52:060][496]LogSlate: Took 0.000123 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.10.05-02.21.52:063][496]LogSlate: Took 0.000160 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.10.05-02.21.52:064][496]LogSlate: Took 0.000132 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.10.05-02.22.13:906][146]LogStreaming: Display: FlushAsyncLoading(525): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.05-02.22.13:987][146]LogSlate: Took 0.000128 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.10.05-02.23.11:733][867]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2025.10.05-02.23.12:844][867]LogSlate: Window 'Save Content' being destroyed
+[2025.10.05-02.23.12:853][867]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.05-02.23.12:888][867]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Fonts/Raleway-ExtraLight] ([1] browsable assets)...
+[2025.10.05-02.23.12:888][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Fonts/Raleway-ExtraLight]
+[2025.10.05-02.23.12:889][867]LogSavePackage: Moving output files for package: /Game/Assets/Fonts/Raleway-ExtraLight
+[2025.10.05-02.23.12:889][867]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Raleway-ExtraLightA8C40BBC43A6AB52C32CC1AD5981B4D6.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Assets/Fonts/Raleway-ExtraLight.uasset'
+[2025.10.05-02.23.12:891][867]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Fonts/Raleway-ExtraLight_Font] ([1] browsable assets)...
+[2025.10.05-02.23.12:891][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Fonts/Raleway-ExtraLight_Font]
+[2025.10.05-02.23.12:892][867]LogSavePackage: Moving output files for package: /Game/Assets/Fonts/Raleway-ExtraLight_Font
+[2025.10.05-02.23.12:892][867]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Raleway-ExtraLight_Font0EEAC0E24391E82D17C3E69E618730A7.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Assets/Fonts/Raleway-ExtraLight_Font.uasset'
+[2025.10.05-02.23.12:894][867]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Fonts/Raleway-Thin] ([1] browsable assets)...
+[2025.10.05-02.23.12:894][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Fonts/Raleway-Thin]
+[2025.10.05-02.23.12:895][867]LogSavePackage: Moving output files for package: /Game/Assets/Fonts/Raleway-Thin
+[2025.10.05-02.23.12:895][867]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Raleway-Thin3873E4674346C6537752378FF3AF114A.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Assets/Fonts/Raleway-Thin.uasset'
+[2025.10.05-02.23.12:901][867]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Fonts/Raleway-Thin_Font] ([1] browsable assets)...
+[2025.10.05-02.23.12:901][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Fonts/Raleway-Thin_Font]
+[2025.10.05-02.23.12:903][867]LogSavePackage: Moving output files for package: /Game/Assets/Fonts/Raleway-Thin_Font
+[2025.10.05-02.23.12:903][867]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Raleway-Thin_Font6154CFF34535447D6C1613B8B46B335A.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Assets/Fonts/Raleway-Thin_Font.uasset'
+[2025.10.05-02.23.12:904][867]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/HUD/WBP_SlashOverlay] ([2] browsable assets)...
+[2025.10.05-02.23.12:908][867]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/HUD/WBP_SlashOverlay.WBP_SlashOverlay]
+[2025.10.05-02.23.12:908][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/HUD/WBP_SlashOverlay]
+[2025.10.05-02.23.12:915][867]LogSavePackage: Moving output files for package: /Game/Blueprints/HUD/WBP_SlashOverlay
+[2025.10.05-02.23.12:916][867]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/WBP_SlashOverlayC0771D8C442E51C1FFBC23B72D70903F.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/HUD/WBP_SlashOverlay.uasset'
+[2025.10.05-02.23.12:927][867]LogFileHelpers: InternalPromptForCheckoutAndSave took 73.908 ms (total: 1.74 sec)
+[2025.10.05-02.23.12:953][867]LogContentValidation: Display: Starting to validate 5 assets
+[2025.10.05-02.23.12:953][867]LogContentValidation: Enabled validators:
+[2025.10.05-02.23.12:953][867]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.05-02.23.12:953][867]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.05-02.23.12:953][867]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.05-02.23.12:953][867]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.05-02.23.12:953][867]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.05-02.23.12:953][867]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.05-02.23.12:953][867]AssetCheck: /Game/Assets/Fonts/Raleway-ExtraLight Validating asset
+[2025.10.05-02.23.12:953][867]AssetCheck: /Game/Assets/Fonts/Raleway-ExtraLight_Font Validating asset
+[2025.10.05-02.23.12:953][867]AssetCheck: /Game/Assets/Fonts/Raleway-Thin Validating asset
+[2025.10.05-02.23.12:954][867]AssetCheck: /Game/Assets/Fonts/Raleway-Thin_Font Validating asset
+[2025.10.05-02.23.12:955][867]AssetCheck: /Game/Blueprints/HUD/WBP_SlashOverlay Validating asset
+[2025.10.05-02.24.35:505][332]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2025.10.05-02.24.36:350][332]LogSlate: Window 'Save Content' being destroyed
+[2025.10.05-02.24.36:359][332]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.05-02.24.36:389][332]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/HUD/WBP_SlashOverlay] ([2] browsable assets)...
+[2025.10.05-02.24.36:392][332]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/HUD/WBP_SlashOverlay.WBP_SlashOverlay]
+[2025.10.05-02.24.36:392][332]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/HUD/WBP_SlashOverlay]
+[2025.10.05-02.24.36:414][332]LogSavePackage: Moving output files for package: /Game/Blueprints/HUD/WBP_SlashOverlay
+[2025.10.05-02.24.36:415][332]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/WBP_SlashOverlay2E7E82264A4862C5C619CC85D658B190.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/HUD/WBP_SlashOverlay.uasset'
+[2025.10.05-02.24.36:425][332]LogFileHelpers: InternalPromptForCheckoutAndSave took 65.111 ms (total: 1.81 sec)
+[2025.10.05-02.24.36:466][332]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.05-02.24.36:466][332]LogContentValidation: Enabled validators:
+[2025.10.05-02.24.36:466][332]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.05-02.24.36:466][332]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.05-02.24.36:466][332]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.05-02.24.36:466][332]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.05-02.24.36:466][332]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.05-02.24.36:466][332]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.05-02.24.36:467][332]AssetCheck: /Game/Blueprints/HUD/WBP_SlashOverlay Validating asset
+[2025.10.05-02.25.02:893][121]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
