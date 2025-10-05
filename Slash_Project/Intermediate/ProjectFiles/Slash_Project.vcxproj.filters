@@ -91,6 +91,12 @@
     <ClCompile Include="..\..\Source\Slash_Project\Private\HUD\HealthBarComponent.cpp">
       <Filter>Source\Slash_Project\Private\HUD</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\Source\Slash_Project\Private\HUD\SlashHUD.cpp">
+      <Filter>Source\Slash_Project\Private\HUD</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Slash_Project\Private\HUD\SlashOverlay.cpp">
+      <Filter>Source\Slash_Project\Private\HUD</Filter>
+    </ClCompile>
     <Filter Include="Source\Slash_Project\Private\Interfaces">
       <UniqueIdentifier>{46BE9237-4C2F-32E2-87A4-95FFB5222DB2}</UniqueIdentifier>
     </Filter>
@@ -161,6 +167,12 @@
       <Filter>Source\Slash_Project\Public\HUD</Filter>
     </ClCompile>
     <ClCompile Include="..\..\Source\Slash_Project\Public\HUD\HealthBarComponent.h">
+      <Filter>Source\Slash_Project\Public\HUD</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Slash_Project\Public\HUD\SlashHUD.h">
+      <Filter>Source\Slash_Project\Public\HUD</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Slash_Project\Public\HUD\SlashOverlay.h">
       <Filter>Source\Slash_Project\Public\HUD</Filter>
     </ClCompile>
     <Filter Include="Source\Slash_Project\Public\Interfaces">

@@ -18,6 +18,7 @@ SLASH_PROJECT_API UClass* Z_Construct_UClass_ABaseCharacter();
 SLASH_PROJECT_API UClass* Z_Construct_UClass_AItem_NoRegister();
 SLASH_PROJECT_API UClass* Z_Construct_UClass_ASlashCharacter();
 SLASH_PROJECT_API UClass* Z_Construct_UClass_ASlashCharacter_NoRegister();
+SLASH_PROJECT_API UClass* Z_Construct_UClass_USlashOverlay_NoRegister();
 SLASH_PROJECT_API UEnum* Z_Construct_UEnum_Slash_Project_EActionState();
 UPackage* Z_Construct_UPackage__Script_Slash_Project();
 // End Cross Module References
@@ -202,6 +203,10 @@ struct Z_Construct_UClass_ASlashCharacter_Statics
 		{ "Category", "SlashCharacter" },
 		{ "ModuleRelativePath", "Public/Characters/SlashCharacter.h" },
 	};
+	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_SlashOverlay_MetaData[] = {
+		{ "EditInline", "true" },
+		{ "ModuleRelativePath", "Public/Characters/SlashCharacter.h" },
+	};
 #endif // WITH_METADATA
 	static const UECodeGen_Private::FObjectPropertyParams NewProp_CameraBoom;
 	static const UECodeGen_Private::FObjectPropertyParams NewProp_ViewCamera;
@@ -211,6 +216,7 @@ struct Z_Construct_UClass_ASlashCharacter_Statics
 	static const UECodeGen_Private::FObjectPropertyParams NewProp_EquipMontage;
 	static const UECodeGen_Private::FBytePropertyParams NewProp_ActionState_Underlying;
 	static const UECodeGen_Private::FEnumPropertyParams NewProp_ActionState;
+	static const UECodeGen_Private::FObjectPropertyParams NewProp_SlashOverlay;
 	static const UECodeGen_Private::FPropertyParamsBase* const PropPointers[];
 	static UObject* (*const DependentSingletons[])();
 	static constexpr FClassFunctionLinkInfo FuncInfo[] = {
@@ -233,6 +239,7 @@ const UECodeGen_Private::FObjectPropertyParams Z_Construct_UClass_ASlashCharacte
 const UECodeGen_Private::FObjectPropertyParams Z_Construct_UClass_ASlashCharacter_Statics::NewProp_EquipMontage = { "EquipMontage", nullptr, (EPropertyFlags)0x0040000000010001, UECodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(ASlashCharacter, EquipMontage), Z_Construct_UClass_UAnimMontage_NoRegister, METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_EquipMontage_MetaData), NewProp_EquipMontage_MetaData) };
 const UECodeGen_Private::FBytePropertyParams Z_Construct_UClass_ASlashCharacter_Statics::NewProp_ActionState_Underlying = { "UnderlyingType", nullptr, (EPropertyFlags)0x0000000000000000, UECodeGen_Private::EPropertyGenFlags::Byte, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, 0, nullptr, METADATA_PARAMS(0, nullptr) };
 const UECodeGen_Private::FEnumPropertyParams Z_Construct_UClass_ASlashCharacter_Statics::NewProp_ActionState = { "ActionState", nullptr, (EPropertyFlags)0x0040000000000004, UECodeGen_Private::EPropertyGenFlags::Enum, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(ASlashCharacter, ActionState), Z_Construct_UEnum_Slash_Project_EActionState, METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_ActionState_MetaData), NewProp_ActionState_MetaData) }; // 3298792575
+const UECodeGen_Private::FObjectPropertyParams Z_Construct_UClass_ASlashCharacter_Statics::NewProp_SlashOverlay = { "SlashOverlay", nullptr, (EPropertyFlags)0x0040000000080008, UECodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(ASlashCharacter, SlashOverlay), Z_Construct_UClass_USlashOverlay_NoRegister, METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_SlashOverlay_MetaData), NewProp_SlashOverlay_MetaData) };
 const UECodeGen_Private::FPropertyParamsBase* const Z_Construct_UClass_ASlashCharacter_Statics::PropPointers[] = {
 	(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ASlashCharacter_Statics::NewProp_CameraBoom,
 	(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ASlashCharacter_Statics::NewProp_ViewCamera,
@@ -242,6 +249,7 @@ const UECodeGen_Private::FPropertyParamsBase* const Z_Construct_UClass_ASlashCha
 	(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ASlashCharacter_Statics::NewProp_EquipMontage,
 	(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ASlashCharacter_Statics::NewProp_ActionState_Underlying,
 	(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ASlashCharacter_Statics::NewProp_ActionState,
+	(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ASlashCharacter_Statics::NewProp_SlashOverlay,
 };
 static_assert(UE_ARRAY_COUNT(Z_Construct_UClass_ASlashCharacter_Statics::PropPointers) < 2048);
 UObject* (*const Z_Construct_UClass_ASlashCharacter_Statics::DependentSingletons[])() = {
@@ -284,10 +292,10 @@ ASlashCharacter::~ASlashCharacter() {}
 struct Z_CompiledInDeferFile_FID_Users_Usuario_Desktop_UnrealEngineUnity_UE5_Slash_Project_Slash_Project_Source_Slash_Project_Public_Characters_SlashCharacter_h_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
-		{ Z_Construct_UClass_ASlashCharacter, ASlashCharacter::StaticClass, TEXT("ASlashCharacter"), &Z_Registration_Info_UClass_ASlashCharacter, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(ASlashCharacter), 1008064026U) },
+		{ Z_Construct_UClass_ASlashCharacter, ASlashCharacter::StaticClass, TEXT("ASlashCharacter"), &Z_Registration_Info_UClass_ASlashCharacter, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(ASlashCharacter), 400055970U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_Usuario_Desktop_UnrealEngineUnity_UE5_Slash_Project_Slash_Project_Source_Slash_Project_Public_Characters_SlashCharacter_h_69082804(TEXT("/Script/Slash_Project"),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_Usuario_Desktop_UnrealEngineUnity_UE5_Slash_Project_Slash_Project_Source_Slash_Project_Public_Characters_SlashCharacter_h_2625182976(TEXT("/Script/Slash_Project"),
 	Z_CompiledInDeferFile_FID_Users_Usuario_Desktop_UnrealEngineUnity_UE5_Slash_Project_Slash_Project_Source_Slash_Project_Public_Characters_SlashCharacter_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_Usuario_Desktop_UnrealEngineUnity_UE5_Slash_Project_Slash_Project_Source_Slash_Project_Public_Characters_SlashCharacter_h_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
