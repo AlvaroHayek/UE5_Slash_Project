@@ -24,6 +24,7 @@ class SLASH_PROJECT_API ASlashCharacter : public ABaseCharacter
 public:
 	ASlashCharacter();
 	virtual void SetupPlayerInputComponent(class UInputComponent* PlayerInputComponent) override;
+	virtual void Jump() override;
 	virtual float TakeDamage(float DamageAmount, struct FDamageEvent const& DamageEvent, class AController* EventInstigator, AActor* DamageCauser) override;
 	virtual void GetHit_Implementation(const FVector& ImpactPoint, AActor* Hitter) override;
 
@@ -61,8 +62,9 @@ protected:
 	void HitReactEnd();
 
 private:
-
+	bool IsUnoccupied();
 	void InitializeSlashOverlay();
+	void SetHUDHealth();
 
 	/** Character Components*/
 	UPROPERTY(VisibleAnywhere)
