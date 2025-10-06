@@ -32,7 +32,8 @@ template<> SLASH_PROJECT_API UEnum* StaticEnum<ECharacterState>();
 	op(EActionState::EAS_Unoccupied) \
 	op(EActionState::EAS_HitReaction) \
 	op(EActionState::EAS_Attacking) \
-	op(EActionState::EAS_EquippingWeapon) 
+	op(EActionState::EAS_EquippingWeapon) \
+	op(EActionState::EAS_Dead) 
 
 enum class EActionState : uint8;
 template<> struct TIsUEnumClass<EActionState> { enum { Value = true }; };

@@ -3,28 +3,19 @@
 	{
 		"Module.Slash_Project.cpp.obj": [
 			"AttributeComponent.gen.cpp.obj",
-			"BaseCharacter.gen.cpp.obj",
 			"Bird.gen.cpp.obj",
 			"BreakableActor.gen.cpp.obj",
-			"CharacterTypes.gen.cpp.obj",
-			"Enemy.gen.cpp.obj",
 			"HealthBar.gen.cpp.obj",
 			"HealthBarComponent.gen.cpp.obj",
 			"HitInterface.gen.cpp.obj",
 			"Item.gen.cpp.obj",
-			"SlashAnimInstance.gen.cpp.obj",
-			"SlashCharacter.gen.cpp.obj",
 			"SlashHUD.gen.cpp.obj",
 			"SlashOverlay.gen.cpp.obj",
-			"Slash_Project.init.gen.cpp.obj",
 			"Treasure.gen.cpp.obj",
 			"Weapon.gen.cpp.obj",
 			"PerModuleInline.gen.cpp.obj",
 			"BreakableActor.cpp.obj",
-			"BaseCharacter.cpp.obj",
-			"SlashAnimInstance.cpp.obj",
 			"AttributeComponent.cpp.obj",
-			"Enemy.cpp.obj",
 			"HealthBar.cpp.obj",
 			"HealthBarComponent.cpp.obj",
 			"SlashHUD.cpp.obj",
@@ -35,7 +26,16 @@
 			"Weapon.cpp.obj",
 			"Bird.cpp.obj",
 			"Slash_Project.cpp.obj",
-			"SlashCharacter.cpp.obj"
+			"BaseCharacter.gen.cpp.obj",
+			"CharacterTypes.gen.cpp.obj",
+			"Enemy.gen.cpp.obj",
+			"SlashAnimInstance.gen.cpp.obj",
+			"SlashCharacter.gen.cpp.obj",
+			"Slash_Project.init.gen.cpp.obj",
+			"BaseCharacter.cpp.obj",
+			"SlashAnimInstance.cpp.obj",
+			"SlashCharacter.cpp.obj",
+			"Enemy.cpp.obj"
 		]
 	}
 }

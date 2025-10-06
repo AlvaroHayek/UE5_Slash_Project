@@ -48,6 +48,7 @@ protected:
 	void Disarm();
 	void Arm();
 	void PlayEquipMontage(const FName& SectionName);
+	virtual void Die() override;
 
 	UFUNCTION(BlueprintCallable)
 	void AttachWeaponToBack();
@@ -96,4 +97,5 @@ private:
 public:
 	FORCEINLINE void SetOverlappingItem(AItem* Item) { OverlappingItem = Item; }
 	FORCEINLINE ECharacterState GetCharacterState() const { return CharacterState; }
+	FORCEINLINE EActionState GetActionState() const { return ActionState; }
 };
