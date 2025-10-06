@@ -34,10 +34,6 @@ void ABaseCharacter::GetHit_Implementation(const FVector& ImpactPoint, AActor* H
 	SpawnHitParticles(ImpactPoint);
 }
 
-void ABaseCharacter::Attack()
-{
-
-}
 void ABaseCharacter::DirectionalHitReact(const FVector& ImpactPoint)
 {
 	const FVector Forward = GetActorForwardVector();
@@ -197,8 +193,18 @@ void ABaseCharacter::AttackEnd()
 {
 
 }
+
+void ABaseCharacter::Attack()
+{
+	if (CombatTarget && CombatTarget->ActorHasTag(FName("Dead")))
+	{
+		CombatTarget = nullptr;
+	}
+}
+
 void ABaseCharacter::Die()
 {
+	Tags.Add(FName("Dead"));
 	PlayDeathMontage();
 }
 
