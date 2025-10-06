@@ -1663,3 +1663,281 @@ Skipped package /AudioModulation/Volume was expected to be found in plugin Audio
 [2025.10.06-17.05.33:803][854]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.10.06-17.05.33:803][854]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.10.06-17.05.33:803][854]AssetCheck: /Game/Maps/Minimal_Default_2 Validating asset
+[2025.10.06-17.06.10:179][945]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 698.660645
+[2025.10.06-17.06.10:413][952]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.06-17.06.10:413][952]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 698.860840, Update Interval: 335.552856
+[2025.10.06-17.11.50:521][149]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1039.000977
+[2025.10.06-17.11.50:755][156]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.06-17.11.50:755][157]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1039.200806, Update Interval: 351.058685
+[2025.10.06-17.16.40:333][792]Running C:/Program Files/Epic Games/UE_5.5/Engine/Build/BatchFiles/Build.bat  -projectfiles -project="C:/Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Slash_Project.uproject" -game -rocket -progress
+[2025.10.06-17.16.40:475][792]Using bundled DotNet SDK version: 8.0.300
+[2025.10.06-17.16.40:475][792]Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" -projectfiles -project="C:/Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Slash_Project.uproject" -game -rocket -progress
+[2025.10.06-17.16.41:684][792]Log file: C:\Users\Usuario\AppData\Local\UnrealBuildTool\Log_GPF.txt
+[2025.10.06-17.16.44:200][792]
+[2025.10.06-17.16.44:200][792]Generating VisualStudio project files:
+[2025.10.06-17.16.44:301][792]Discovering modules, targets and source code for project...
+[2025.10.06-17.16.49:948][792]Binding IntelliSense data...
+[2025.10.06-17.16.51:057][792]Exception while generating include data for UnrealEditor: System.ArgumentNullException: Value cannot be null. (Parameter 'element')
+[2025.10.06-17.16.51:057][792]   at System.ArgumentNullException.Throw(String paramName)
+[2025.10.06-17.16.51:057][792]   at System.Attribute.GetCustomAttributes(MemberInfo element, Type attributeType, Boolean inherit)
+[2025.10.06-17.16.51:057][792]   at System.Reflection.CustomAttributeExtensions.GetCustomAttributes[T](MemberInfo element)
+[2025.10.06-17.16.51:057][792]   at UnrealBuildTool.ModuleRules.IsValidForTarget(Type moduleType, ReadOnlyTargetRules targetRules, String& invalidReason) in C:\Program Files\Epic Games\UE_5.5\Engine\Source\Programs\UnrealBuildTool\Configuration\ModuleRules.cs:line 1680
+[2025.10.06-17.16.51:058][792]   at UnrealBuildTool.UEBuildTarget.AddAllValidModulesToTarget(ILogger Logger) in C:\Program Files\Epic Games\UE_5.5\Engine\Source\Programs\UnrealBuildTool\Configuration\UEBuildTarget.cs:line 4266
+[2025.10.06-17.16.51:058][792]   at UnrealBuildTool.UEBuildTarget.PreBuildSetup(ILogger Logger) in C:\Program Files\Epic Games\UE_5.5\Engine\Source\Programs\UnrealBuildTool\Configuration\UEBuildTarget.cs:line 3720
+[2025.10.06-17.16.51:058][792]   at UnrealBuildTool.UEBuildTarget.Create(TargetDescriptor Descriptor, Boolean bSkipRulesCompile, Boolean bForceRulesCompile, Boolean bUsePrecompiled, UnrealIntermediateEnvironment IntermediateEnvironment, ILogger Logger) in C:\Program Files\Epic Games\UE_5.5\Engine\Source\Programs\UnrealBuildTool\Configuration\UEBuildTarget.cs:line 1390
+[2025.10.06-17.16.51:058][792]   at UnrealBuildTool.ProjectFileGenerator.GenerateIntelliSenseData(String[] Arguments, List`1 Targets, ILogger Logger) in C:\Program Files\Epic Games\UE_5.5\Engine\Source\Programs\UnrealBuildTool\ProjectFiles\ProjectFileGenerator.cs:line 2176
+[2025.10.06-17.16.51:764][792]Warning: C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Slash_Project.uproject does not list plugin 'MotionWarping' as a dependency, but module 'Slash_Project' depends on 'MotionWarping'.
+[2025.10.06-17.16.52:778][792]Binding IntelliSense data... 100%
+[2025.10.06-17.16.52:778][792]Writing project files...
+[2025.10.06-17.16.54:794][792]Writing project files... 100%
+[2025.10.06-17.16.54:895][792]
+[2025.10.06-17.16.54:895][792]Generating QueryTargets data for editor...
+[2025.10.06-17.16.54:895][792]Total execution time: 13.94 seconds
+[2025.10.06-17.16.55:108][792]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.10.06-17.16.55:108][792]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2025.10.06-17.16.55:119][792]Candidate modules for hot reload:
+[2025.10.06-17.16.55:119][792]  Slash_Project
+[2025.10.06-17.16.55:127][792]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_5.5/Engine/Build/BatchFiles/Build.bat  -ModuleWithSuffix=Slash_Project,2177 Slash_ProjectEditor Win64 Development -Project="C:/Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Slash_Project.uproject" "C:/Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Slash_Project.uproject"  -IgnoreJunk]
+[2025.10.06-17.19.00:170][792]CompilerResultsLog: Using bundled DotNet SDK version: 8.0.300
+[2025.10.06-17.19.00:170][792]CompilerResultsLog: Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" -ModuleWithSuffix=Slash_Project,2177 Slash_ProjectEditor Win64 Development -Project="C:/Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Slash_Project.uproject" "C:/Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Slash_Project.uproject"  -IgnoreJunk
+[2025.10.06-17.19.00:170][792]CompilerResultsLog: Log file: C:\Users\Usuario\AppData\Local\UnrealBuildTool\Log.txt
+[2025.10.06-17.19.00:170][792]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project).
+[2025.10.06-17.19.00:170][792]CompilerResultsLog: Invalidating makefile for Slash_ProjectEditor (source file added)
+[2025.10.06-17.19.00:170][792]CompilerResultsLog: Warning: C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Slash_Project.uproject does not list plugin 'MotionWarping' as a dependency, but module 'Slash_Project' depends on 'MotionWarping'.
+[2025.10.06-17.19.00:170][792]CompilerResultsLog: Parsing headers for Slash_ProjectEditor
+[2025.10.06-17.19.00:170][792]CompilerResultsLog:   Running Internal UnrealHeaderTool C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Slash_Project.uproject C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Intermediate\Build\Win64\Slash_ProjectEditor\Development\Slash_ProjectEditor.uhtmanifest -WarningsAsErrors -installed
+[2025.10.06-17.19.00:170][792]CompilerResultsLog: Total of 3 written
+[2025.10.06-17.19.00:170][792]CompilerResultsLog: Reflection code generated for Slash_ProjectEditor in 10.3842781 seconds
+[2025.10.06-17.19.00:170][792]CompilerResultsLog: Building Slash_ProjectEditor...
+[2025.10.06-17.19.00:170][792]CompilerResultsLog: Using Visual Studio 2022 14.38.33145 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130) and Windows 10.0.22621.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2025.10.06-17.19.00:170][792]CompilerResultsLog: [Upgrade]
+[2025.10.06-17.19.00:170][792]CompilerResultsLog: [Upgrade] Using backward-compatible include order. The latest version of UE has changed the order of includes, which may require code changes. The current setting is:
+[2025.10.06-17.19.00:170][792]CompilerResultsLog: [Upgrade]     IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_3
+[2025.10.06-17.19.00:170][792]CompilerResultsLog: [Upgrade] Suppress this message by setting 'IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_5;' in Slash_ProjectEditor.Target.cs.
+[2025.10.06-17.19.00:170][792]CompilerResultsLog: [Upgrade] Alternatively you can set this to 'EngineIncludeOrderVersion.Latest' to always use the latest include order. This will potentially cause compile errors when integrating new versions of the engine.
+[2025.10.06-17.19.00:170][792]CompilerResultsLog: [Upgrade]
+[2025.10.06-17.19.00:170][792]CompilerResultsLog: [Adaptive Build] Excluded from Slash_Project unity file: PickupInterface.cpp
+[2025.10.06-17.19.00:170][792]CompilerResultsLog: Determining max actions to execute in parallel (6 physical cores, 12 logical cores)
+[2025.10.06-17.19.00:170][792]CompilerResultsLog:   Executing up to 6 processes, one per physical core
+[2025.10.06-17.19.00:170][792]CompilerResultsLog:   Requested 1.5 GB memory per action, 2.39 GB available: limiting max parallel actions to 1
+[2025.10.06-17.19.00:170][792]CompilerResultsLog: Using XGE executor to run 5 action(s)
+[2025.10.06-17.19.00:170][792]CompilerResultsLog: Distributing 5 actions to XGE
+[2025.10.06-17.19.00:170][792]CompilerResultsLog: UnrealBuildTool Compile
+[2025.10.06-17.19.00:170][792]CompilerResultsLog: 
+[2025.10.06-17.19.00:170][792]CompilerResultsLog: --------------------Build System Warning---------------------------------------
+[2025.10.06-17.19.00:171][792]CompilerResultsLog: License not activated:
+[2025.10.06-17.19.00:171][792]CompilerResultsLog:     License is not activated. Please activate the license in the coordinator.
+[2025.10.06-17.19.00:171][792]CompilerResultsLog:     This build will run in standalone mode.
+[2025.10.06-17.19.00:171][792]CompilerResultsLog: 
+[2025.10.06-17.19.00:171][792]CompilerResultsLog: -------------------------------------------------------------------------------
+[2025.10.06-17.19.00:171][792]CompilerResultsLog: 
+[2025.10.06-17.19.00:171][792]CompilerResultsLog: Build ID: {156C7525-56D9-46D3-B8A9-61E19208EBDD}
+[2025.10.06-17.19.00:171][792]CompilerResultsLog: 
+[2025.10.06-17.19.00:171][792]CompilerResultsLog: --------------------Project: Default-------------------------------------------
+[2025.10.06-17.19.00:171][792]CompilerResultsLog: [1/5] Compile [x64] PickupInterface.cpp (0:22.68 at +0:00)
+[2025.10.06-17.19.00:171][792]CompilerResultsLog: [2/5] Compile [x64] Module.Slash_Project.cpp (1:43.28 at +0:00)
+[2025.10.06-17.19.00:171][792]CompilerResultsLog: C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Source\Slash_Project\Private\Enemy\Enemy.cpp(33): warning C4996: 'UPawnSensingComponent': Pawn sensing is deprecated. AI Perception should be used instead. Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+[2025.10.06-17.19.00:171][792]CompilerResultsLog: C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Source\Slash_Project\Private\Enemy\Enemy.cpp(34): warning C4996: 'UPawnSensingComponent::SightRadius': Pawn sensing is deprecated. AI Perception should be used instead. Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+[2025.10.06-17.19.00:171][792]CompilerResultsLog: C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Source\Slash_Project\Private\Enemy\Enemy.cpp(35): warning C4996: 'UPawnSensingComponent::SetPeripheralVisionAngle': Pawn sensing is deprecated. AI Perception should be used instead. Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+[2025.10.06-17.19.00:171][792]CompilerResultsLog: C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Source\Slash_Project\Private\Enemy\Enemy.cpp(91): warning C4996: 'UPawnSensingComponent::OnSeePawn': Pawn sensing is deprecated. AI Perception should be used instead. Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+[2025.10.06-17.19.00:171][792]CompilerResultsLog: [3/5] Link [x64] UnrealEditor-Slash_Project-2177.lib (0:00.32 at +1:43)
+[2025.10.06-17.19.00:171][792]CompilerResultsLog: C:\Program Files\Epic Games\UE_5.5\Engine\Source\Runtime\CoreUObject\Public\UObject\Object.h(150): warning C4996: 'UPawnSensingComponent': Pawn sensing is deprecated. AI Perception should be used instead. Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+[2025.10.06-17.19.00:171][792]CompilerResultsLog: C:\Program Files\Epic Games\UE_5.5\Engine\Source\Runtime\CoreUObject\Public\UObject\Object.h(150): note: the template instantiation context (the oldest one first) is
+[2025.10.06-17.19.00:171][792]CompilerResultsLog: C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Source\Slash_Project\Private\Enemy\Enemy.cpp(33): note: see reference to function template instantiation 'TReturnType *UObject::CreateDefaultSubobject<UPawnSensingComponent>(FName,bool)' being compiled
+[2025.10.06-17.19.00:171][792]CompilerResultsLog:         with
+[2025.10.06-17.19.00:171][792]CompilerResultsLog:         [
+[2025.10.06-17.19.00:171][792]CompilerResultsLog:             TReturnType=UPawnSensingComponent
+[2025.10.06-17.19.00:171][792]CompilerResultsLog:         ]
+[2025.10.06-17.19.00:171][792]CompilerResultsLog: [4/5] Link [x64] UnrealEditor-Slash_Project-2177.dll (0:01.50 at +1:43)
+[2025.10.06-17.19.00:171][792]CompilerResultsLog: [5/5] WriteMetadata Slash_ProjectEditor.target (0:00.59 at +1:44)
+[2025.10.06-17.19.00:171][792]CompilerResultsLog: C:\Program Files\Epic Games\UE_5.5\Engine\Source\Runtime\CoreUObject\Public\UObject\Object.h(150): warning C4996: 'UPawnSensingComponent::StaticClass': Pawn sensing is deprecated. AI Perception should be used instead. Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+[2025.10.06-17.19.00:171][792]CompilerResultsLog:    Creating library C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Intermediate\Build\Win64\x64\UnrealEditor\Development\Slash_Project\UnrealEditor-Slash_Project-2177.lib and object C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Intermediate\Build\Win64\x64\UnrealEditor\Development\Slash_Project\UnrealEditor-Slash_Project-2177.exp
+[2025.10.06-17.19.00:171][792]CompilerResultsLog:    Creating object C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Binaries\Win64\UnrealEditor-Slash_Project-2177.exp
+[2025.10.06-17.19.00:171][792]CompilerResultsLog: ---------------------- Done ----------------------
+[2025.10.06-17.19.00:171][792]CompilerResultsLog: 
+[2025.10.06-17.19.00:171][792]CompilerResultsLog:     Rebuild All: 1 succeeded, 0 failed, 0 skipped
+[2025.10.06-17.19.00:171][792]CompilerResultsLog: 
+[2025.10.06-17.19.00:171][792]CompilerResultsLog: 1 build system warning(s):
+[2025.10.06-17.19.00:171][792]CompilerResultsLog:    - License not activated
+[2025.10.06-17.19.00:171][792]CompilerResultsLog: 
+[2025.10.06-17.19.00:171][792]CompilerResultsLog: Total time in XGE executor: 109.82 seconds
+[2025.10.06-17.19.00:171][792]CompilerResultsLog: Total execution time: 124.45 seconds
+[2025.10.06-17.19.00:171][792]LogMainFrame: MainFrame: Module compiling took 125.062 seconds
+[2025.10.06-17.19.00:327][792]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.10.06-17.19.00:636][792]LogClass: UPackage /Script/Slash_Project Reload.
+[2025.10.06-17.19.00:660][792]LogClass: Could not find existing class PickupInterface in package /Script/Slash_Project for reload, assuming new or modified class
+[2025.10.06-17.19.01:170][792]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2025.10.06-17.19.01:223][792]LogBlueprint: Warning: Blueprint /Game/AncientContent/Blueprints/Abilities/GameplayAbilityUtils is missing GeneratedClass asset tag
+[2025.10.06-17.19.01:288][792]Display: HotReload took 126.2s.
+[2025.10.06-17.19.01:289][792]Display: Reload/Re-instancing Complete: 1 package changed, 1 class new, 16 classes unchanged, 4 enums unchanged, 15 functions remapped
+[2025.10.06-17.19.01:291][792]Warning: HotReload operation took 126.2s.
+[2025.10.06-17.19.02:915][792]LogSlate: Window 'Add C++ Class' being destroyed
+[2025.10.06-17.19.03:982][792]LogHotReload: New module detected: UnrealEditor-Slash_Project-2177.dll
+[2025.10.06-17.19.05:872][848]LogHotReload: Starting Hot-Reload from IDE
+[2025.10.06-17.19.06:002][848]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2025.10.06-17.19.06:106][848]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2025.10.06-17.19.06:117][848]LogBlueprint: Warning: Blueprint /Game/AncientContent/Blueprints/Abilities/GameplayAbilityUtils is missing GeneratedClass asset tag
+[2025.10.06-17.19.06:146][848]Display: HotReload took  0.3s.
+[2025.10.06-17.19.06:146][848]Display: Reload/Re-instancing Complete: No object changes detected
+[2025.10.06-17.19.15:426][105]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1483.908203
+[2025.10.06-17.19.16:028][123]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.06-17.19.16:028][123]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1484.476318, Update Interval: 338.640106
+[2025.10.06-17.25.22:918][122]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1851.397583
+[2025.10.06-17.25.23:185][130]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.06-17.25.23:185][130]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1851.630737, Update Interval: 306.244080
+[2025.10.06-17.31.14:724][664]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2203.193359
+[2025.10.06-17.31.14:958][671]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.06-17.31.14:958][672]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2203.394531, Update Interval: 317.694031
+[2025.10.06-17.37.09:097][285]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2557.562744
+[2025.10.06-17.37.09:331][292]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.06-17.37.09:331][292]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2557.763184, Update Interval: 344.929962
+[2025.10.06-17.43.25:200][562]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2933.677246
+[2025.10.06-17.43.25:434][569]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.06-17.43.25:434][570]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2933.880859, Update Interval: 301.664490
+[2025.10.06-17.49.19:455][184]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3287.937256
+[2025.10.06-17.49.19:688][191]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.06-17.49.19:689][191]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3288.137451, Update Interval: 322.746063
+[2025.10.06-17.55.34:308][412]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3662.794189
+[2025.10.06-17.55.34:541][419]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.06-17.55.34:541][420]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3662.992920, Update Interval: 359.423187
+[2025.10.06-17.56.25:380][944]LogDerivedDataCache: C:/Users/Usuario/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.009 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.10.06-18.02.16:820][479]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4065.304443
+[2025.10.06-18.02.17:587][501]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.06-18.02.17:587][502]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4066.039307, Update Interval: 326.649994
+[2025.10.06-18.05.54:556][  1]Candidate modules for hot reload:
+[2025.10.06-18.05.54:556][  1]  Slash_Project
+[2025.10.06-18.05.54:574][  1]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_5.5/Engine/Build/BatchFiles/Build.bat  -ModuleWithSuffix=Slash_Project,6201 Slash_ProjectEditor Win64 Development -Project="C:/Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Slash_Project.uproject" "C:/Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Slash_Project.uproject"  -IgnoreJunk]
+[2025.10.06-18.05.54:626][  1]Warning: Starting HotReload took  0.1s.
+[2025.10.06-18.06.32:703][141]CompilerResultsLog: Using bundled DotNet SDK version: 8.0.300
+[2025.10.06-18.06.32:703][141]CompilerResultsLog: Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" -ModuleWithSuffix=Slash_Project,6201 Slash_ProjectEditor Win64 Development -Project="C:/Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Slash_Project.uproject" "C:/Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Slash_Project.uproject"  -IgnoreJunk
+[2025.10.06-18.06.32:703][141]CompilerResultsLog: Log file: C:\Users\Usuario\AppData\Local\UnrealBuildTool\Log.txt
+[2025.10.06-18.06.32:703][141]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project).
+[2025.10.06-18.06.32:703][141]CompilerResultsLog: Creating makefile for Slash_ProjectEditor (command line arguments changed)
+[2025.10.06-18.06.32:703][141]CompilerResultsLog: Warning: C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Slash_Project.uproject does not list plugin 'MotionWarping' as a dependency, but module 'Slash_Project' depends on 'MotionWarping'.
+[2025.10.06-18.06.32:703][141]CompilerResultsLog: Building Slash_ProjectEditor...
+[2025.10.06-18.06.32:703][141]CompilerResultsLog: Using Visual Studio 2022 14.38.33145 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130) and Windows 10.0.22621.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2025.10.06-18.06.32:703][141]CompilerResultsLog: [Upgrade]
+[2025.10.06-18.06.32:703][141]CompilerResultsLog: [Upgrade] Using backward-compatible include order. The latest version of UE has changed the order of includes, which may require code changes. The current setting is:
+[2025.10.06-18.06.32:703][141]CompilerResultsLog: [Upgrade]     IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_3
+[2025.10.06-18.06.32:703][141]CompilerResultsLog: [Upgrade] Suppress this message by setting 'IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_5;' in Slash_ProjectEditor.Target.cs.
+[2025.10.06-18.06.32:703][141]CompilerResultsLog: [Upgrade] Alternatively you can set this to 'EngineIncludeOrderVersion.Latest' to always use the latest include order. This will potentially cause compile errors when integrating new versions of the engine.
+[2025.10.06-18.06.32:703][141]CompilerResultsLog: [Upgrade]
+[2025.10.06-18.06.32:703][141]CompilerResultsLog: [Adaptive Build] Excluded from Slash_Project unity file: SlashCharacter.cpp, PickupInterface.cpp, Item.cpp, Soul.cpp, PickupInterface.gen.cpp, SlashCharacter.gen.cpp, Slash_Project.init.gen.cpp
+[2025.10.06-18.06.32:703][141]CompilerResultsLog: Determining max actions to execute in parallel (6 physical cores, 12 logical cores)
+[2025.10.06-18.06.32:703][141]CompilerResultsLog:   Executing up to 6 processes, one per physical core
+[2025.10.06-18.06.32:704][141]CompilerResultsLog:   Requested 1.5 GB memory per action, 4.45 GB available: limiting max parallel actions to 2
+[2025.10.06-18.06.32:704][141]CompilerResultsLog: Using XGE executor to run 11 action(s)
+[2025.10.06-18.06.32:704][141]CompilerResultsLog: Distributing 11 actions to XGE
+[2025.10.06-18.06.32:704][141]CompilerResultsLog: UnrealBuildTool Compile
+[2025.10.06-18.06.32:704][141]CompilerResultsLog: 
+[2025.10.06-18.06.32:704][141]CompilerResultsLog: --------------------Build System Warning---------------------------------------
+[2025.10.06-18.06.32:704][141]CompilerResultsLog: License not activated:
+[2025.10.06-18.06.32:704][141]CompilerResultsLog:     License is not activated. Please activate the license in the coordinator.
+[2025.10.06-18.06.32:704][141]CompilerResultsLog:     This build will run in standalone mode.
+[2025.10.06-18.06.32:704][141]CompilerResultsLog: 
+[2025.10.06-18.06.32:704][141]CompilerResultsLog: -------------------------------------------------------------------------------
+[2025.10.06-18.06.32:704][141]CompilerResultsLog: 
+[2025.10.06-18.06.32:704][141]CompilerResultsLog: Build ID: {DBACDFE6-9DF0-4E95-8694-7FBC8297D9E6}
+[2025.10.06-18.06.32:704][141]CompilerResultsLog: 
+[2025.10.06-18.06.32:704][141]CompilerResultsLog: --------------------Project: Default-------------------------------------------
+[2025.10.06-18.06.32:704][141]CompilerResultsLog: [1/11] Compile [x64] PickupInterface.cpp (0:15.48 at +0:00)
+[2025.10.06-18.06.32:704][141]CompilerResultsLog: [2/11] Compile [x64] Slash_Project.init.gen.cpp (0:15.45 at +0:00)
+[2025.10.06-18.06.32:704][141]CompilerResultsLog: [3/11] Compile [x64] PickupInterface.gen.cpp (0:15.50 at +0:00)
+[2025.10.06-18.06.32:704][141]CompilerResultsLog: [4/11] Compile [x64] Soul.cpp (0:15.45 at +0:00)
+[2025.10.06-18.06.32:704][141]CompilerResultsLog: [5/11] Compile [x64] SlashCharacter.gen.cpp (0:15.53 at +0:00)
+[2025.10.06-18.06.32:704][141]CompilerResultsLog: [6/11] Compile [x64] Item.cpp (0:15.89 at +0:00)
+[2025.10.06-18.06.32:704][141]CompilerResultsLog: [7/11] Compile [x64] SlashCharacter.cpp (0:24.64 at +0:00)
+[2025.10.06-18.06.32:704][141]CompilerResultsLog: [8/11] Compile [x64] Module.Slash_Project.cpp (0:28.59 at +0:00)
+[2025.10.06-18.06.32:704][141]CompilerResultsLog: C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Source\Slash_Project\Private\Enemy\Enemy.cpp(33): warning C4996: 'UPawnSensingComponent': Pawn sensing is deprecated. AI Perception should be used instead. Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+[2025.10.06-18.06.32:704][141]CompilerResultsLog: C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Source\Slash_Project\Private\Enemy\Enemy.cpp(34): warning C4996: 'UPawnSensingComponent::SightRadius': Pawn sensing is deprecated. AI Perception should be used instead. Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+[2025.10.06-18.06.32:704][141]CompilerResultsLog: C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Source\Slash_Project\Private\Enemy\Enemy.cpp(35): warning C4996: 'UPawnSensingComponent::SetPeripheralVisionAngle': Pawn sensing is deprecated. AI Perception should be used instead. Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+[2025.10.06-18.06.32:704][141]CompilerResultsLog: C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Source\Slash_Project\Private\Enemy\Enemy.cpp(91): warning C4996: 'UPawnSensingComponent::OnSeePawn': Pawn sensing is deprecated. AI Perception should be used instead. Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+[2025.10.06-18.06.32:705][141]CompilerResultsLog: [9/11] Link [x64] UnrealEditor-Slash_Project-6201.lib (0:00.21 at +0:28)
+[2025.10.06-18.06.32:705][141]CompilerResultsLog: C:\Program Files\Epic Games\UE_5.5\Engine\Source\Runtime\CoreUObject\Public\UObject\Object.h(150): warning C4996: 'UPawnSensingComponent': Pawn sensing is deprecated. AI Perception should be used instead. Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+[2025.10.06-18.06.32:705][141]CompilerResultsLog: C:\Program Files\Epic Games\UE_5.5\Engine\Source\Runtime\CoreUObject\Public\UObject\Object.h(150): note: the template instantiation context (the oldest one first) is
+[2025.10.06-18.06.32:705][141]CompilerResultsLog: C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Source\Slash_Project\Private\Enemy\Enemy.cpp(33): note: see reference to function template instantiation 'TReturnType *UObject::CreateDefaultSubobject<UPawnSensingComponent>(FName,bool)' being compiled
+[2025.10.06-18.06.32:705][141]CompilerResultsLog:         with
+[2025.10.06-18.06.32:705][141]CompilerResultsLog:         [
+[2025.10.06-18.06.32:705][141]CompilerResultsLog:             TReturnType=UPawnSensingComponent
+[2025.10.06-18.06.32:705][141]CompilerResultsLog:         ]
+[2025.10.06-18.06.32:705][141]CompilerResultsLog: [10/11] Link [x64] UnrealEditor-Slash_Project-6201.dll (0:01.34 at +0:28)
+[2025.10.06-18.06.32:705][141]CompilerResultsLog: [11/11] WriteMetadata Slash_ProjectEditor.target (0:00.46 at +0:30)
+[2025.10.06-18.06.32:705][141]CompilerResultsLog: C:\Program Files\Epic Games\UE_5.5\Engine\Source\Runtime\CoreUObject\Public\UObject\Object.h(150): warning C4996: 'UPawnSensingComponent::StaticClass': Pawn sensing is deprecated. AI Perception should be used instead. Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+[2025.10.06-18.06.32:705][141]CompilerResultsLog:    Creating library C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Intermediate\Build\Win64\x64\UnrealEditor\Development\Slash_Project\UnrealEditor-Slash_Project-6201.lib and object C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Intermediate\Build\Win64\x64\UnrealEditor\Development\Slash_Project\UnrealEditor-Slash_Project-6201.exp
+[2025.10.06-18.06.32:705][141]CompilerResultsLog:    Creating object C:\Users\Usuario\Desktop\UnrealEngineUnity\UE5_Slash_Project\Slash_Project\Binaries\Win64\UnrealEditor-Slash_Project-6201.exp
+[2025.10.06-18.06.32:705][141]CompilerResultsLog: ---------------------- Done ----------------------
+[2025.10.06-18.06.32:705][141]CompilerResultsLog: 
+[2025.10.06-18.06.32:705][141]CompilerResultsLog:     Rebuild All: 1 succeeded, 0 failed, 0 skipped
+[2025.10.06-18.06.32:705][141]CompilerResultsLog: 
+[2025.10.06-18.06.32:705][141]CompilerResultsLog: 1 build system warning(s):
+[2025.10.06-18.06.32:705][141]CompilerResultsLog:    - License not activated
+[2025.10.06-18.06.32:705][141]CompilerResultsLog: 
+[2025.10.06-18.06.32:705][141]CompilerResultsLog: Total time in XGE executor: 33.64 seconds
+[2025.10.06-18.06.32:705][141]CompilerResultsLog: Total execution time: 37.80 seconds
+[2025.10.06-18.06.32:705][141]LogMainFrame: MainFrame: Module compiling took 38.179 seconds
+[2025.10.06-18.06.33:258][141]LogUObjectHash: Compacting FUObjectHashTables data took  11.42ms
+[2025.10.06-18.06.33:369][141]LogClass: UPackage /Script/Slash_Project Reload.
+[2025.10.06-18.06.33:369][141]LogClass: UClass SlashCharacter Reload.
+[2025.10.06-18.06.33:425][141]LogClass: Could not find existing class SlashCharacter in package /Script/Slash_Project for reload, assuming new or modified class
+[2025.10.06-18.06.33:425][141]LogClass: Function AttachWeaponToBack is new or belongs to a modified class.
+[2025.10.06-18.06.33:425][141]LogClass: Function AttachWeaponToHand is new or belongs to a modified class.
+[2025.10.06-18.06.33:425][141]LogClass: Function FinishEquipping is new or belongs to a modified class.
+[2025.10.06-18.06.33:425][141]LogClass: Function HitReactEnd is new or belongs to a modified class.
+[2025.10.06-18.06.33:549][141]Re-instancing SlashCharacter after reload.
+[2025.10.06-18.06.34:117][141]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2025.10.06-18.06.34:139][141]LogBlueprint: Warning: Blueprint /Game/AncientContent/Blueprints/Abilities/GameplayAbilityUtils is missing GeneratedClass asset tag
+[2025.10.06-18.06.34:199][141]Display: HotReload took 39.7s.
+[2025.10.06-18.06.34:199][141]Display: Reload/Re-instancing Complete: 1 package changed, 1 class changed, 16 classes unchanged, 4 enums unchanged, 11 functions remapped
+[2025.10.06-18.06.38:044][232]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.06-18.06.38:219][232]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.06-18.06.38:233][232]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Minimal_Default_2
+[2025.10.06-18.06.38:392][232]LogPlayLevel: PIE: StaticDuplicateObject took: (0.156157s)
+[2025.10.06-18.06.38:392][232]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Minimal_Default_2.Minimal_Default_2 to /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 (0.159672s)
+[2025.10.06-18.06.38:551][232]LogUObjectHash: Compacting FUObjectHashTables data took  20.36ms
+[2025.10.06-18.06.38:566][232]LogChaosDD: Creating Chaos Debug Draw Scene for world Minimal_Default_2
+[2025.10.06-18.06.38:649][232]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2'.
+[2025.10.06-18.06.38:688][232]LogPlayLevel: PIE: World Init took: (0.126047s)
+[2025.10.06-18.06.38:735][232]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2025.10.06-18.06.38:740][232]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.06-18.06.38:740][232]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.06-18.06.38:740][232]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.06-18.06.38:740][232]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.06-18.06.38:740][232]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.06-18.06.38:740][232]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.06-18.06.38:740][232]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.06-18.06.38:740][232]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.06-18.06.38:744][232]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.06-18.06.38:744][232]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.06-18.06.38:744][232]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.06-18.06.38:752][232]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.06-18.06.38:774][232]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.10.06-18.06.38:780][232]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.06-18.06.38:780][232]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.06-18.06.38:781][232]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.06-18.06.38:792][232]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2025.10.06-18.06.38:792][232]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2025.10.06-18.06.38:798][232]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2025.10.06-18.06.38:799][232]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2025.10.06-18.06.38:799][232]LogInit: FAudioDevice initialized with ID 3.
+[2025.10.06-18.06.38:799][232]LogAudio: Display: Audio Device (ID: 3) registered with world 'Minimal_Default_2'.
+[2025.10.06-18.06.38:800][232]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2025.10.06-18.06.38:877][232]LogLoad: Game class is 'BP_GameMode_C'
+[2025.10.06-18.06.39:049][232]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 up for play (max tick rate 60) at 2025.10.06-20.06.39
+[2025.10.06-18.06.39:090][232]LogWorld: Bringing up level for play took: 0.209009
+[2025.10.06-18.06.39:416][232]LogOnline: OSS: Created online subsystem instance for: :Context_6
+[2025.10.06-18.06.39:522][232]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Echo'
+[2025.10.06-18.06.39:604][232]PIE: Server logged in
+[2025.10.06-18.06.39:605][232]PIE: Play in editor total start time 1.523 seconds.
+[2025.10.06-18.06.43:123][312]LogTemp: Warning: ASlashCharacter::AddSouls
+[2025.10.06-18.06.44:333][347]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.06-18.06.44:333][347]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Minimal_Default_2
+[2025.10.06-18.06.44:349][347]LogWorld: UWorld::CleanupWorld for Minimal_Default_2, bSessionEnded=true, bCleanupResources=true
+[2025.10.06-18.06.44:355][347]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.06-18.06.44:436][347]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.06-18.06.44:442][347]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.06-18.06.44:482][347]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.06-18.06.44:483][347]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2025.10.06-18.06.44:483][347]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.10.06-18.06.44:494][347]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.10.06-18.06.44:553][347]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2025.10.06-18.06.44:895][350]LogPlayLevel: Display: Destroying online subsystem :Context_6

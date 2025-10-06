@@ -103,6 +103,9 @@
     <ClCompile Include="..\..\Source\Slash_Project\Private\Interfaces\HitInterface.cpp">
       <Filter>Source\Slash_Project\Private\Interfaces</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\Source\Slash_Project\Private\Interfaces\PickupInterface.cpp">
+      <Filter>Source\Slash_Project\Private\Interfaces</Filter>
+    </ClCompile>
     <Filter Include="Source\Slash_Project\Private\Items">
       <UniqueIdentifier>{B5ABFF33-EF40-3A20-8924-52FD06A882A6}</UniqueIdentifier>
     </Filter>
@@ -182,6 +185,9 @@
       <UniqueIdentifier>{38480C40-8164-3928-B754-AA8293745698}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\Slash_Project\Public\Interfaces\HitInterface.h">
+      <Filter>Source\Slash_Project\Public\Interfaces</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Slash_Project\Public\Interfaces\PickupInterface.h">
       <Filter>Source\Slash_Project\Public\Interfaces</Filter>
     </ClCompile>
     <Filter Include="Source\Slash_Project\Public\Items">

@@ -18,6 +18,7 @@ SLASH_PROJECT_API UClass* Z_Construct_UClass_ABaseCharacter();
 SLASH_PROJECT_API UClass* Z_Construct_UClass_AItem_NoRegister();
 SLASH_PROJECT_API UClass* Z_Construct_UClass_ASlashCharacter();
 SLASH_PROJECT_API UClass* Z_Construct_UClass_ASlashCharacter_NoRegister();
+SLASH_PROJECT_API UClass* Z_Construct_UClass_UPickupInterface_NoRegister();
 SLASH_PROJECT_API UClass* Z_Construct_UClass_USlashOverlay_NoRegister();
 SLASH_PROJECT_API UEnum* Z_Construct_UEnum_Slash_Project_EActionState();
 UPackage* Z_Construct_UPackage__Script_Slash_Project();
@@ -226,6 +227,7 @@ struct Z_Construct_UClass_ASlashCharacter_Statics
 		{ &Z_Construct_UFunction_ASlashCharacter_HitReactEnd, "HitReactEnd" }, // 105052294
 	};
 	static_assert(UE_ARRAY_COUNT(FuncInfo) < 2048);
+	static const UECodeGen_Private::FImplementedInterfaceParams InterfaceParams[];
 	static constexpr FCppClassTypeInfoStatic StaticCppClassTypeInfo = {
 		TCppClassTypeTraits<ASlashCharacter>::IsAbstract,
 	};
@@ -257,6 +259,9 @@ UObject* (*const Z_Construct_UClass_ASlashCharacter_Statics::DependentSingletons
 	(UObject* (*)())Z_Construct_UPackage__Script_Slash_Project,
 };
 static_assert(UE_ARRAY_COUNT(Z_Construct_UClass_ASlashCharacter_Statics::DependentSingletons) < 16);
+const UECodeGen_Private::FImplementedInterfaceParams Z_Construct_UClass_ASlashCharacter_Statics::InterfaceParams[] = {
+	{ Z_Construct_UClass_UPickupInterface_NoRegister, (int32)VTABLE_OFFSET(ASlashCharacter, IPickupInterface), false },  // 401179013
+};
 const UECodeGen_Private::FClassParams Z_Construct_UClass_ASlashCharacter_Statics::ClassParams = {
 	&ASlashCharacter::StaticClass,
 	"Game",
@@ -264,11 +269,11 @@ const UECodeGen_Private::FClassParams Z_Construct_UClass_ASlashCharacter_Statics
 	DependentSingletons,
 	FuncInfo,
 	Z_Construct_UClass_ASlashCharacter_Statics::PropPointers,
-	nullptr,
+	InterfaceParams,
 	UE_ARRAY_COUNT(DependentSingletons),
 	UE_ARRAY_COUNT(FuncInfo),
 	UE_ARRAY_COUNT(Z_Construct_UClass_ASlashCharacter_Statics::PropPointers),
-	0,
+	UE_ARRAY_COUNT(InterfaceParams),
 	0x009000A4u,
 	METADATA_PARAMS(UE_ARRAY_COUNT(Z_Construct_UClass_ASlashCharacter_Statics::Class_MetaDataParams), Z_Construct_UClass_ASlashCharacter_Statics::Class_MetaDataParams)
 };
@@ -292,10 +297,10 @@ ASlashCharacter::~ASlashCharacter() {}
 struct Z_CompiledInDeferFile_FID_Users_Usuario_Desktop_UnrealEngineUnity_UE5_Slash_Project_Slash_Project_Source_Slash_Project_Public_Characters_SlashCharacter_h_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
-		{ Z_Construct_UClass_ASlashCharacter, ASlashCharacter::StaticClass, TEXT("ASlashCharacter"), &Z_Registration_Info_UClass_ASlashCharacter, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(ASlashCharacter), 1885289961U) },
+		{ Z_Construct_UClass_ASlashCharacter, ASlashCharacter::StaticClass, TEXT("ASlashCharacter"), &Z_Registration_Info_UClass_ASlashCharacter, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(ASlashCharacter), 686364715U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_Usuario_Desktop_UnrealEngineUnity_UE5_Slash_Project_Slash_Project_Source_Slash_Project_Public_Characters_SlashCharacter_h_622590485(TEXT("/Script/Slash_Project"),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_Usuario_Desktop_UnrealEngineUnity_UE5_Slash_Project_Slash_Project_Source_Slash_Project_Public_Characters_SlashCharacter_h_1914834339(TEXT("/Script/Slash_Project"),
 	Z_CompiledInDeferFile_FID_Users_Usuario_Desktop_UnrealEngineUnity_UE5_Slash_Project_Slash_Project_Source_Slash_Project_Public_Characters_SlashCharacter_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_Usuario_Desktop_UnrealEngineUnity_UE5_Slash_Project_Slash_Project_Source_Slash_Project_Public_Characters_SlashCharacter_h_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
