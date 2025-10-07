@@ -26,6 +26,7 @@ class SLASH_PROJECT_API ASlashCharacter : public ABaseCharacter, public IPickupI
 
 public:
 	ASlashCharacter();
+	virtual void Tick(float DeltaTime) override;
 	virtual void SetupPlayerInputComponent(class UInputComponent* PlayerInputComponent) override;
 	virtual void Jump() override;
 	virtual float TakeDamage(float DamageAmount, struct FDamageEvent const& DamageEvent, class AController* EventInstigator, AActor* DamageCauser) override;
@@ -57,6 +58,8 @@ protected:
 	void Arm();
 	void PlayEquipMontage(const FName& SectionName);
 	virtual void Die() override;
+	bool HasEnoughStamina();
+	bool IsOccupied();
 
 	UFUNCTION(BlueprintCallable)
 	void AttachWeaponToBack();
@@ -105,4 +108,5 @@ private:
 public:
 	FORCEINLINE ECharacterState GetCharacterState() const { return CharacterState; }
 	FORCEINLINE EActionState GetActionState() const { return ActionState; }
+	
 };
