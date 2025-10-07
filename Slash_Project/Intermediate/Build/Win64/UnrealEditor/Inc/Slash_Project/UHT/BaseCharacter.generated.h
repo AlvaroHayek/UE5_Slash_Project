@@ -16,6 +16,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 
 #define FID_Users_Usuario_Desktop_UnrealEngineUnity_UE5_Slash_Project_Slash_Project_Source_Slash_Project_Public_Characters_BaseCharacter_h_18_RPC_WRAPPERS_NO_PURE_DECLS \
 	DECLARE_FUNCTION(execSetWeaponCollisionEnabled); \
+	DECLARE_FUNCTION(execDodgeEnd); \
 	DECLARE_FUNCTION(execAttackEnd); \
 	DECLARE_FUNCTION(execGetRotationWarpTarget); \
 	DECLARE_FUNCTION(execGetTranslationWarpTarget);
