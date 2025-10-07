@@ -1894,3 +1894,335 @@ Skipped package /AudioModulation/Volume was expected to be found in plugin Audio
 [2025.10.07-12.46.04:560][218]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.10.07-12.46.04:560][218]AssetCheck: /Game/Maps/Minimal_Default_2 Validating asset
 [2025.10.07-12.46.04:560][218]AssetCheck: /Game/Blueprints/Items/Pickups/Soul/BP_Soul Validating asset
+[2025.10.07-12.47.30:708][802]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 321.020111
+[2025.10.07-12.47.30:942][809]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.07-12.47.30:942][810]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 321.220184, Update Interval: 352.056641
+[2025.10.07-12.48.39:652][823]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.10.07-12.51.41:811][268]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2025.10.07-12.51.41:835][268]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.10.07-12.51.41:835][268]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=21472
+[2025.10.07-12.51.41:867][269]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.10.07-12.51.41:870][269]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=44100, DeviceID={0.0.0.00000000}.{a6cfb85f-2618-431e-bd23-0177754ea7a2}, Name=Auriculares (Vieta Pro Calm 2 Stereo)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=19.55
+[2025.10.07-12.51.41:870][269]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.10.07-12.51.41:872][269]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.10.07-12.51.45:864][386]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Altavoces (Realtek(R) Audio), InstanceID=1
+[2025.10.07-14.50.56:507][386]LogShaderCompilers: Warning: Distributed compilation controller didn't receive a completed task in 7149.193192 seconds!
+[2025.10.07-14.51.00:000][387]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [7154 Seconds] waiting for h/w. InstanceID=1
+[2025.10.07-14.51.00:288][387]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.10.07-14.51.00:288][387]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=21472
+[2025.10.07-14.51.00:310][387]LogHttp: Warning: 00000461DEFF3800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.10.07-14.51.00:310][387]LogHttp: Warning: 00000461DEFF3800: libcurl info message cache 0 (Too old connection (7188 seconds idle), disconnect it)
+[2025.10.07-14.51.00:310][387]LogHttp: Warning: 00000461DEFF3800: libcurl info message cache 1 (Connection 0 seems to be dead)
+[2025.10.07-14.51.00:310][387]LogHttp: Warning: 00000461DEFF3800: libcurl info message cache 2 (Closing connection)
+[2025.10.07-14.51.00:310][387]LogHttp: Warning: 00000461DEFF3800: libcurl info message cache 3 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.10.07-14.51.00:311][387]LogHttp: Warning: 00000461DEFF3800: libcurl info message cache 4 (Could not resolve host: datarouter.ol.epicgames.com)
+[2025.10.07-14.51.00:311][387]LogHttp: Warning: 00000461DEFF3800: libcurl info message cache 5 (Closing connection)
+[2025.10.07-14.51.00:312][387]LogEOSSDK: Warning: LogHttp: 00000461DEFDBA00: invalid HTTP response code received. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B372B732C-499B-1F68-DCD9-15B3BD3A0F14%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.16.4-36651368%20-%20%2B%2BEOSSDK%2BRelease-1.16.4-CL-36651368&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.10.07-14.51.00:312][387]LogEOSSDK: Warning: LogHttp: 00000461DEFDBA00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.10.07-14.51.00:312][387]LogEOSSDK: Warning: LogHttp: 00000461DEFDBA00: libcurl info message cache 0 (Too old connection (7188 seconds idle), disconnect it)
+[2025.10.07-14.51.00:312][387]LogEOSSDK: Warning: LogHttp: 00000461DEFDBA00: libcurl info message cache 1 (Connection 4 seems to be dead)
+[2025.10.07-14.51.00:312][387]LogEOSSDK: Warning: LogHttp: 00000461DEFDBA00: libcurl info message cache 2 (Closing connection)
+[2025.10.07-14.51.00:312][387]LogEOSSDK: Warning: LogHttp: 00000461DEFDBA00: libcurl info message cache 3 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.10.07-14.51.00:313][388]LogEOSSDK: Warning: LogHttp: 00000461DEFDBA00: libcurl info message cache 4 (Too old connection (7248 seconds idle), disconnect it)
+[2025.10.07-14.51.00:313][388]LogEOSSDK: Warning: LogHttp: 00000461DEFDBA00: libcurl info message cache 5 (Connection 5 seems to be dead)
+[2025.10.07-14.51.00:313][388]LogEOSSDK: Warning: LogHttp: 00000461DEFDBA00: libcurl info message cache 6 (Closing connection)
+[2025.10.07-14.51.00:313][388]LogEOSSDK: Warning: LogHttp: 00000461DEFDBA00: libcurl info message cache 7 (TLSv1.3 (IN), TLS alert, close notify (256):)
+[2025.10.07-14.51.00:313][388]LogEOSSDK: Warning: LogHttp: 00000461DEFDBA00: libcurl info message cache 8 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.10.07-14.51.00:313][388]LogEOSSDK: Warning: LogHttp: 00000461DEFDBA00: libcurl info message cache 9 (Could not resolve host: api.epicgames.dev)
+[2025.10.07-14.51.00:313][388]LogEOSSDK: Warning: LogHttp: 00000461DEFDBA00: libcurl info message cache 10 (Closing connection)
+[2025.10.07-14.51.00:340][388]LogEOSSDK: Warning: LogHttp: 00000461DEFD1E00: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=2E7A4F834068FDC6A7E354AC549FEE6F, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.10.07-14.51.00:340][388]LogEOSSDK: Warning: LogHttp: 00000461DEFD1E00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.10.07-14.51.00:340][388]LogEOSSDK: Warning: LogHttp: 00000461DEFD1E00: libcurl info message cache 0 (Found bundle for host: 0x461d7080de0 [serially])
+[2025.10.07-14.51.00:340][388]LogEOSSDK: Warning: LogHttp: 00000461DEFD1E00: libcurl info message cache 1 (Could not resolve host: api.epicgames.dev)
+[2025.10.07-14.51.00:340][389]LogEOSSDK: Warning: LogHttp: 00000461DEFD1E00: libcurl info message cache 2 (Closing connection)
+[2025.10.07-14.51.00:340][389]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B372B732C-499B-1F68-DCD9-15B3BD3A0F14%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.16.4-36651368%20-%20%2B%2BEOSSDK%2BRelease-1.16.4-CL-36651368&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2025.10.07-14.51.00:340][389]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=2E7A4F834068FDC6A7E354AC549FEE6F
+[2025.10.07-14.51.00:383][389]LogEOSSDK: Warning: LogHttp: 00000461DEFD9000: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.10.07-14.51.00:383][389]LogEOSSDK: Warning: LogHttp: 00000461DEFD9000: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.10.07-14.51.00:383][389]LogEOSSDK: Warning: LogHttp: 00000461DEFD9000: libcurl info message cache 0 (Could not resolve host: api.epicgames.dev)
+[2025.10.07-14.51.00:383][389]LogEOSSDK: Warning: LogHttp: 00000461DEFD9000: libcurl info message cache 1 (Closing connection)
+[2025.10.07-14.51.00:383][389]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.10.07-14.51.00:418][391]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.10.07-14.51.00:421][391]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{58ea4715-9790-4598-9427-e0f8b9d39fd0}, Name=Altavoces (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=102.16
+[2025.10.07-14.51.00:421][391]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.10.07-14.51.00:425][391]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.10.07-14.51.02:654][413]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7733.005859
+[2025.10.07-14.51.02:654][413]LogEOSSDK: Warning: LogHttp: Retry 1 on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.10.07-14.51.02:655][413]LogEOSSDK: Warning: LogHttp: Retry 1 on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=2E7A4F834068FDC6A7E354AC549FEE6F
+[2025.10.07-14.51.03:153][427]LogEOSSDK: Warning: LogHttp: Success on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=2E7A4F834068FDC6A7E354AC549FEE6F
+[2025.10.07-14.51.03:187][429]LogEOSSDK: Warning: LogHttp: Success on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.10.07-14.51.03:468][436]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.07-14.51.03:468][436]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7733.787109, Update Interval: 346.502869
+[2025.10.07-14.56.56:751][961]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8087.085449
+[2025.10.07-14.56.57:086][971]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.07-14.56.57:086][972]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8087.388672, Update Interval: 345.951721
+[2025.10.07-15.02.53:527][633]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8443.837891
+[2025.10.07-15.02.53:863][643]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.07-15.02.53:863][643]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8444.139648, Update Interval: 317.245392
+[2025.10.07-15.08.37:823][923]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8788.115234
+[2025.10.07-15.08.38:061][930]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.07-15.08.38:061][930]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8788.317383, Update Interval: 315.092010
+[2025.10.07-15.09.44:799][925]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Auriculares (Vieta Pro Calm 2 Stereo), InstanceID=1
+[2025.10.07-15.09.44:805][925]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.10.07-15.09.44:805][925]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=21472
+[2025.10.07-15.09.45:039][932]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.10.07-15.09.45:041][932]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=44100, DeviceID={0.0.0.00000000}.{a6cfb85f-2618-431e-bd23-0177754ea7a2}, Name=Auriculares (Vieta Pro Calm 2 Stereo)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=221.96
+[2025.10.07-15.09.45:041][932]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.10.07-15.09.45:045][932]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.10.07-15.11.41:453][230]LogSlate: Took 0.016870 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.10.07-15.11.46:792][231]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_17
+[2025.10.07-15.11.46:792][231]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_17'.
+[2025.10.07-15.11.48:185][231]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_18
+[2025.10.07-15.11.48:186][231]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_18'.
+[2025.10.07-15.11.50:981][231]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_19
+[2025.10.07-15.11.50:981][231]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_19'.
+[2025.10.07-15.12.01:798][231]LogSlate: Window 'Import Content' being destroyed
+[2025.10.07-15.12.01:873][231]LogInterchangeEngine: [Pending] Importing
+[2025.10.07-15.12.02:295][231]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.10.07-15.12.02:295][231]LogInterchangeEngine: [Success] Import Done
+[2025.10.07-15.12.02:302][231]LogAnimationCompression: Display: Storing compressed animation data for /Game/AncientContent/Characters/Vampire/No_Root_Bone_6/Stand_To_Roll.Stand_To_Roll, at AnimationSequence/a9777c45453146e2631d244351ef3505f229679f
+[2025.10.07-15.12.30:475][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2025.10.07-15.12.30:478][ 12]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Minimal_Default_2' took 0.193
+[2025.10.07-15.12.30:482][ 12]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AncientContent/Characters/Vampire/No_Root_Bone_6/Stand_To_Roll] ([1] browsable assets)...
+[2025.10.07-15.12.30:719][ 12]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/AncientContent/Characters/Vampire/No_Root_Bone_6/Stand_To_Roll.Stand_To_Roll]
+[2025.10.07-15.12.30:719][ 12]OBJ SavePackage: Finished generating thumbnails for package [/Game/AncientContent/Characters/Vampire/No_Root_Bone_6/Stand_To_Roll]
+[2025.10.07-15.12.30:740][ 12]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AncientContent/Characters/Vampire/No_Root_Bone_6/Stand_To_Roll_Auto1
+[2025.10.07-15.12.30:740][ 12]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Stand_To_Roll_Auto1D4F4FEDF4B4200478836C0A84B1298FA.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Autosaves/Game/AncientContent/Characters/Vampire/No_Root_Bone_6/Stand_To_Roll_Auto1.uasset'
+[2025.10.07-15.12.30:742][ 12]LogFileHelpers: Auto-saving content packages took 0.262
+[2025.10.07-15.14.37:231][801]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9147.519531
+[2025.10.07-15.14.37:564][811]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.07-15.14.37:564][811]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9147.819336, Update Interval: 352.336792
+[2025.10.07-15.15.05:504][ 37]LogSlate: Window 'Import Content' being destroyed
+[2025.10.07-15.15.05:570][ 37]LogInterchangeEngine: [Pending] Importing
+[2025.10.07-15.15.06:086][ 37]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.10.07-15.15.06:086][ 37]LogInterchangeEngine: [Success] Import Done
+[2025.10.07-15.15.06:089][ 37]LogAnimationCompression: Display: Storing compressed animation data for /Game/AncientContent/Characters/Vampire/Root_Bone_6/Stand_To_Roll.Stand_To_Roll, at AnimationSequence/ccec497f205b589724aec5d4d03e303133943f94
+[2025.10.07-15.15.09:982][ 91]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/AncientContent/Characters/Vampire/Root_Bone_6/Stand_To_Roll.Stand_To_Roll
+[2025.10.07-15.15.10:769][ 91]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_20
+[2025.10.07-15.15.10:769][ 91]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_20'.
+[2025.10.07-15.15.10:784][ 91]LogStreaming: Display: FlushAsyncLoading(503): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.07-15.15.11:027][ 91]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.10.07-15.15.12:020][ 91]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_21
+[2025.10.07-15.15.12:021][ 91]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_21'.
+[2025.10.07-15.15.13:199][ 91]LogSlate: Took 0.019243 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.10.07-15.15.13:241][ 91]LogUObjectGlobals: Warning: Failed to find object 'Class /Script/ApexDestruction.DestructibleMesh'
+[2025.10.07-15.15.13:259][ 91]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_22
+[2025.10.07-15.15.13:260][ 91]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_22'.
+[2025.10.07-15.17.32:702][823]LogInterchangeEngine: [Pending] Importing
+[2025.10.07-15.17.33:281][823]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.10.07-15.17.33:281][823]LogInterchangeEngine: [Success] Import Done
+[2025.10.07-15.17.33:293][823]LogAnimationCompression: Display: Storing compressed animation data for /Game/AncientContent/Characters/Vampire/No_Root_Bone_6/Stand_To_Roll.Stand_To_Roll, at AnimationSequence/ace04d6ea6e610d78c0a87de19b5392e344a13e4
+[2025.10.07-15.17.33:423][824]LogInterchangeEngine: [Pending] Importing
+[2025.10.07-15.17.34:422][824]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.10.07-15.17.34:422][824]LogInterchangeEngine: [Success] Import Done
+[2025.10.07-15.17.37:550][849]AssetReimport: Reimported asset Stand_To_Roll from C:/Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/AncientContent/Characters/Vampire/No_Root_Bone_6/Stand To Roll.fbx.
+[2025.10.07-15.17.37:552][849]AssetReimport: Reimported asset Stand_To_Roll from C:/Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/AncientContent/Characters/Vampire/Root_Bone_6/Stand To Roll.fbx.
+[2025.10.07-15.17.45:644][928]LogSlate: Window 'Message Log' being destroyed
+[2025.10.07-15.17.45:801][928]LogSlate: Window 'Message Log' being destroyed
+[2025.10.07-15.17.48:322][971]LogSkinnedMeshComp: Warning: GetSocketInfoByName(RightHandSocket): No SkeletalMesh for Component(DebugSkelMeshComponent_0) Actor(AnimationEditorPreviewActor /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0)
+[2025.10.07-15.17.48:322][971]LogSkinnedMeshComp: Warning: GetSocketInfoByName(LeftHandSocket): No SkeletalMesh for Component(DebugSkelMeshComponent_0) Actor(AnimationEditorPreviewActor /Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0)
+[2025.10.07-15.17.48:408][971]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2025.10.07-15.17.48:409][971]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.07-15.17.48:426][971]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2025.10.07-15.17.48:426][971]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.07-15.17.48:585][971]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2025.10.07-15.17.48:585][971]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.07-15.17.48:686][971]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2025.10.07-15.17.54:874][ 94]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/AncientContent/Characters/Vampire/Root_Bone_6/Stand_To_Roll.Stand_To_Roll
+[2025.10.07-15.17.54:877][ 94]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_23
+[2025.10.07-15.17.54:878][ 94]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_23'.
+[2025.10.07-15.17.55:490][ 94]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.10.07-15.17.56:169][ 94]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_24
+[2025.10.07-15.17.56:170][ 94]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_24'.
+[2025.10.07-15.17.57:001][ 94]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_25
+[2025.10.07-15.17.57:001][ 94]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_25'.
+[2025.10.07-15.18.28:227][810]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2025.10.07-15.18.29:594][810]LogSlate: Window 'Save Content' being destroyed
+[2025.10.07-15.18.29:627][810]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.07-15.18.29:687][810]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AncientContent/Characters/Vampire/Root_Bone_6/Stand_To_Roll] ([1] browsable assets)...
+[2025.10.07-15.18.29:715][810]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/AncientContent/Characters/Vampire/Root_Bone_6/Stand_To_Roll.Stand_To_Roll]
+[2025.10.07-15.18.29:715][810]OBJ SavePackage: Finished generating thumbnails for package [/Game/AncientContent/Characters/Vampire/Root_Bone_6/Stand_To_Roll]
+[2025.10.07-15.18.29:736][810]LogSavePackage: Moving output files for package: /Game/AncientContent/Characters/Vampire/Root_Bone_6/Stand_To_Roll
+[2025.10.07-15.18.29:737][810]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Stand_To_Roll64E7BE5C4166CB62E94AC49C84BBE39D.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/AncientContent/Characters/Vampire/Root_Bone_6/Stand_To_Roll.uasset'
+[2025.10.07-15.18.29:763][810]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AncientContent/Characters/Vampire/No_Root_Bone_6/Stand_To_Roll] ([1] browsable assets)...
+[2025.10.07-15.18.29:781][810]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/AncientContent/Characters/Vampire/No_Root_Bone_6/Stand_To_Roll.Stand_To_Roll]
+[2025.10.07-15.18.29:781][810]OBJ SavePackage: Finished generating thumbnails for package [/Game/AncientContent/Characters/Vampire/No_Root_Bone_6/Stand_To_Roll]
+[2025.10.07-15.18.29:796][810]LogSavePackage: Moving output files for package: /Game/AncientContent/Characters/Vampire/No_Root_Bone_6/Stand_To_Roll
+[2025.10.07-15.18.29:796][810]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Stand_To_RollE91723F7461DB0946F972F870076B3AC.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/AncientContent/Characters/Vampire/No_Root_Bone_6/Stand_To_Roll.uasset'
+[2025.10.07-15.18.29:851][810]LogFileHelpers: InternalPromptForCheckoutAndSave took 223.672 ms (total: 669.822 ms)
+[2025.10.07-15.18.29:918][810]LogContentValidation: Display: Starting to validate 2 assets
+[2025.10.07-15.18.29:918][810]LogContentValidation: Enabled validators:
+[2025.10.07-15.18.29:918][810]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.07-15.18.29:918][810]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.07-15.18.29:918][810]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.07-15.18.29:918][810]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.07-15.18.29:918][810]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.07-15.18.29:918][810]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.07-15.18.29:918][810]AssetCheck: /Game/AncientContent/Characters/Vampire/Root_Bone_6/Stand_To_Roll Validating asset
+[2025.10.07-15.18.29:919][810]AssetCheck: /Game/AncientContent/Characters/Vampire/No_Root_Bone_6/Stand_To_Roll Validating asset
+[2025.10.07-15.19.27:758][272]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Blueprints/Characters/ABP_Echo_IK.ABP_Echo_IK
+[2025.10.07-15.19.27:780][272]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_26
+[2025.10.07-15.19.27:782][272]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_26'.
+[2025.10.07-15.19.27:864][272]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_27
+[2025.10.07-15.19.27:865][272]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_27'.
+[2025.10.07-15.19.27:998][272]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'DebugSkelMeshComponent_0' with 'Echo'
+[2025.10.07-15.19.28:000][272]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.10.07-15.19.29:213][272]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_28
+[2025.10.07-15.19.29:214][272]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_28'.
+[2025.10.07-15.19.30:036][272]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_29
+[2025.10.07-15.19.30:036][272]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_29'.
+[2025.10.07-15.19.38:735][403]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_30
+[2025.10.07-15.19.38:735][403]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_30'.
+[2025.10.07-15.19.40:341][432]LogStreaming: Display: FlushAsyncLoading(508): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.07-15.19.40:385][432]LogAssetEditorSubsystem: Opening Asset editor for IKRetargeter /Game/Blueprints/Characters/Rigs/RTG_T-pose.RTG_T-pose
+[2025.10.07-15.19.40:565][432]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_31
+[2025.10.07-15.19.40:566][432]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_31'.
+[2025.10.07-15.19.41:363][432]LogTexture: Display: Building textures: /Game/AncientContent/Characters/Echo/Mixamo_Animations/Textures/Erika_Archer_Clothes_diffuse.Erika_Archer_Clothes_diffuse (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 280.999983 MB), EncodeSpeed: Fast
+[2025.10.07-15.19.41:402][432]LogTexture: Display: Building textures: /Game/AncientContent/Characters/Echo/Mixamo_Animations/Textures/Erika_Archer_Clothes_normal.Erika_Archer_Clothes_normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 337.499988 MB), EncodeSpeed: Fast
+[2025.10.07-15.19.41:454][432]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SKM_T-Pose) ...
+[2025.10.07-15.19.41:464][432]LogTexture: Display: Building textures: /Game/AncientContent/Characters/Echo/Mixamo_Animations/Textures/FemaleFitA_StdNM.FemaleFitA_StdNM (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 337.499988 MB), EncodeSpeed: Fast
+[2025.10.07-15.19.41:488][432]LogTexture: Display: Building textures: /Game/AncientContent/Characters/Echo/Mixamo_Animations/Textures/FemaleFitA_Body_diffuse.FemaleFitA_Body_diffuse (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 280.999983 MB), EncodeSpeed: Fast
+[2025.10.07-15.19.41:493][432]LogTexture: Display: Building textures: /Game/AncientContent/Characters/Echo/Mixamo_Animations/Textures/FemaleFitA_eyelash_diffuse.FemaleFitA_eyelash_diffuse (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2025.10.07-15.19.41:964][432]LogSkeletalMesh: Building Skeletal Mesh SKM_T-Pose...
+[2025.10.07-15.19.42:996][432]LogSkeletalMesh: Built Skeletal Mesh [1.05s] /Game/AncientContent/Characters/Echo/Mixamo_Animations/SKM_T-Pose.SKM_T-Pose
+[2025.10.07-15.19.43:041][432]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_31:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.10.07-15.19.43:082][432]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'DebugSkelMeshComponent_1' with 'Echo'
+[2025.10.07-15.19.44:574][432]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_32
+[2025.10.07-15.19.44:574][432]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_32'.
+[2025.10.07-15.19.55:287][609]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_33
+[2025.10.07-15.19.55:288][609]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_33'.
+[2025.10.07-15.19.55:457][611]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_34
+[2025.10.07-15.19.55:457][611]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_34'.
+[2025.10.07-15.19.57:793][644]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_35
+[2025.10.07-15.19.57:794][644]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_35'.
+[2025.10.07-15.20.06:532][777]LogStreaming: Display: FlushAsyncLoading(512): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.07-15.20.06:534][777]LogAssetEditorSubsystem: Opening Asset editor for IKRetargeter /Game/AncientContent/Characters/Vampire/Rigs/RTG_Vampire.RTG_Vampire
+[2025.10.07-15.20.06:629][777]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_36
+[2025.10.07-15.20.06:630][777]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_36'.
+[2025.10.07-15.20.06:752][777]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_36:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.10.07-15.20.06:757][777]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'DebugSkelMeshComponent_1' with 'Echo'
+[2025.10.07-15.20.08:440][777]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_37
+[2025.10.07-15.20.08:440][777]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_37'.
+[2025.10.07-15.20.08:715][778]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_38
+[2025.10.07-15.20.08:723][778]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_38'.
+[2025.10.07-15.20.18:373][952]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2025.10.07-15.20.20:090][952]LogSlate: Window 'Save Content' being destroyed
+[2025.10.07-15.20.20:135][952]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.07-15.20.20:191][952]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AncientContent/Characters/Vampire/Root_Bone_6/Stand_To_Roll] ([1] browsable assets)...
+[2025.10.07-15.20.20:220][952]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/AncientContent/Characters/Vampire/Root_Bone_6/Stand_To_Roll.Stand_To_Roll]
+[2025.10.07-15.20.20:220][952]OBJ SavePackage: Finished generating thumbnails for package [/Game/AncientContent/Characters/Vampire/Root_Bone_6/Stand_To_Roll]
+[2025.10.07-15.20.20:240][952]LogSavePackage: Moving output files for package: /Game/AncientContent/Characters/Vampire/Root_Bone_6/Stand_To_Roll
+[2025.10.07-15.20.20:250][952]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Stand_To_Roll8A05B5BB457F03C41723909D5BDADB27.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/AncientContent/Characters/Vampire/Root_Bone_6/Stand_To_Roll.uasset'
+[2025.10.07-15.20.20:285][952]LogFileHelpers: InternalPromptForCheckoutAndSave took 149.728 ms (total: 819.550 ms)
+[2025.10.07-15.20.20:404][952]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.07-15.20.20:404][952]LogContentValidation: Enabled validators:
+[2025.10.07-15.20.20:404][952]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.07-15.20.20:404][952]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.07-15.20.20:404][952]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.07-15.20.20:404][952]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.07-15.20.20:404][952]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.07-15.20.20:404][952]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.07-15.20.20:404][952]AssetCheck: /Game/AncientContent/Characters/Vampire/Root_Bone_6/Stand_To_Roll Validating asset
+[2025.10.07-15.21.06:629][750]LogSlate: Window 'Export Animations' being destroyed
+[2025.10.07-15.21.07:965][750]LogSlate: Window 'Batch Export Options' being destroyed
+[2025.10.07-15.21.08:461][750]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Blueprints/Characters/Animations/HitReact/Stand_To_Roll.Stand_To_Roll (Required Memory Estimate: 2.01 MB)
+[2025.10.07-15.21.08:498][750]LogTemp: Display: Duplicate and Retarget - New Asset Created: Stand_To_Roll
+[2025.10.07-15.21.08:605][750]LogShaderCompilers: Display: ================================================
+[2025.10.07-15.21.08:605][750]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.10.07-15.21.08:616][750]LogShaderCompilers: Display: Total job queries 574, among them cache hits 171 (29.79%), DDC hits 378 (65.85%), Duplicates 3 (0.52%)
+[2025.10.07-15.21.08:616][750]LogShaderCompilers: Display: Tracking 400 distinct input hashes that result in 268 distinct outputs (67.00%)
+[2025.10.07-15.21.08:616][750]LogShaderCompilers: Display: RAM used: 162.75 KiB of 819.20 MiB budget. Usage: 0.02%
+[2025.10.07-15.21.08:616][750]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.10.07-15.21.08:616][750]LogShaderCompilers: Display: Shaders Compiled: 22
+[2025.10.07-15.21.08:616][750]LogShaderCompilers: Display: Jobs assigned 22, completed 22 (100%)
+[2025.10.07-15.21.08:616][750]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2025.10.07-15.21.08:616][750]LogShaderCompilers: Display: Time job spent in pending queue: average 4.53 s, longest 8.28 s
+[2025.10.07-15.21.08:616][750]LogShaderCompilers: Display: Job execution time: average 3.68 s, max 8.17 s
+[2025.10.07-15.21.08:616][750]LogShaderCompilers: Display: Job life time (pending + execution): average 8.22 s, max 10.04
+[2025.10.07-15.21.08:616][750]LogShaderCompilers: Display: Shader code size: average 6.953 KiB, min 3.949 KiB, max 10.969 KiB
+[2025.10.07-15.21.08:616][750]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 10.08 s
+[2025.10.07-15.21.08:616][750]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.10.07-15.21.08:616][750]LogShaderCompilers: Display: Jobs were issued in 22 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.10.07-15.21.08:619][750]LogShaderCompilers: Display: Average processing rate: 2.18 jobs/sec
+[2025.10.07-15.21.08:619][750]LogShaderCompilers: Display: Total thread time: 27.324 s
+[2025.10.07-15.21.08:619][750]LogShaderCompilers: Display: Total thread preprocess time: 12.821 s
+[2025.10.07-15.21.08:619][750]LogShaderCompilers: Display: Percentage time preprocessing: 46.92%
+[2025.10.07-15.21.08:619][750]LogShaderCompilers: Display: Effective parallelization: 2.71 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.10.07-15.21.08:619][750]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.10.07-15.21.08:619][750]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    4 times, average 1.63 sec, max 1.79 sec, min 1.43 sec)
+[2025.10.07-15.21.08:619][750]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    1 times, average 1.43 sec, max 1.43 sec, min 1.43 sec)
+[2025.10.07-15.21.08:619][750]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    4 times, average 1.27 sec, max 1.36 sec, min 1.22 sec)
+[2025.10.07-15.21.08:619][750]LogShaderCompilers: Display:              TShadowDepthPSPixelShadowDepth_VirtualShadowMap (compiled    1 times, average 1.22 sec, max 1.22 sec, min 1.22 sec)
+[2025.10.07-15.21.08:619][750]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    1 times, average 1.03 sec, max 1.03 sec, min 1.03 sec)
+[2025.10.07-15.21.08:619][750]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.10.07-15.21.08:619][750]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 23.92% of total time (compiled    4 times, average 1.63 sec, max 1.79 sec, min 1.43 sec)
+[2025.10.07-15.21.08:620][750]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 18.55% of total time (compiled    4 times, average 1.27 sec, max 1.36 sec, min 1.22 sec)
+[2025.10.07-15.21.08:620][750]LogShaderCompilers: Display:                                                 FLumenCardPS - 14.62% of total time (compiled    4 times, average 1.00 sec, max 1.07 sec, min 0.88 sec)
+[2025.10.07-15.21.08:620][750]LogShaderCompilers: Display:                                                 FLumenCardVS - 13.48% of total time (compiled    4 times, average 0.92 sec, max 0.97 sec, min 0.80 sec)
+[2025.10.07-15.21.08:620][750]LogShaderCompilers: Display:                                                 FDepthOnlyPS - 5.23% of total time (compiled    1 times, average 1.43 sec, max 1.43 sec, min 1.43 sec)
+[2025.10.07-15.21.08:620][750]LogShaderCompilers: Display: === Material stats ===
+[2025.10.07-15.21.08:620][750]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.10.07-15.21.08:620][750]LogShaderCompilers: Display: Materials Translated:    178
+[2025.10.07-15.21.08:620][750]LogShaderCompilers: Display: Material Total Translate Time: 0.15 s
+[2025.10.07-15.21.08:620][750]LogShaderCompilers: Display: Material Translation Only: 0.08 s (52%)
+[2025.10.07-15.21.08:620][750]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (3%)
+[2025.10.07-15.21.08:620][750]LogShaderCompilers: Display: Material Cache Hits: 53 (30%)
+[2025.10.07-15.21.08:620][750]LogShaderCompilers: Display: ================================================
+[2025.10.07-15.21.08:630][750]LogAnimationCompression: Display: Storing compressed animation data for /Game/Blueprints/Characters/Animations/HitReact/Stand_To_Roll.Stand_To_Roll, at AnimationSequence/47b472573e20037e1f40d2bd25c27687297e7971
+[2025.10.07-15.21.08:728][750]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9538.986328
+[2025.10.07-15.21.10:053][765]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.07-15.21.10:053][765]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9540.246094, Update Interval: 351.055023
+[2025.10.07-15.22.16:293][346]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Blueprints/Characters/Animations/HitReact/Stand_To_Roll.Stand_To_Roll
+[2025.10.07-15.22.16:294][346]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_39
+[2025.10.07-15.22.16:337][346]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_39'.
+[2025.10.07-15.22.16:375][346]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'DebugSkelMeshComponent_0' with 'Echo'
+[2025.10.07-15.22.16:377][346]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_39:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.10.07-15.22.17:329][346]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_40
+[2025.10.07-15.22.17:333][346]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_40'.
+[2025.10.07-15.22.17:811][346]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_39:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.10.07-15.22.18:779][346]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_41
+[2025.10.07-15.22.18:780][346]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_41'.
+[2025.10.07-15.22.36:154][551]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2025.10.07-15.22.37:051][551]LogSlate: Window 'Save Content' being destroyed
+[2025.10.07-15.22.37:108][551]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.07-15.22.37:205][551]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Characters/Animations/HitReact/Stand_To_Roll] ([1] browsable assets)...
+[2025.10.07-15.22.37:248][551]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Blueprints/Characters/Animations/HitReact/Stand_To_Roll.Stand_To_Roll]
+[2025.10.07-15.22.37:248][551]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/Animations/HitReact/Stand_To_Roll]
+[2025.10.07-15.22.37:280][551]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/Animations/HitReact/Stand_To_Roll
+[2025.10.07-15.22.37:280][551]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Stand_To_Roll7FB7062D47F5AB59946B0783D1086E91.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Characters/Animations/HitReact/Stand_To_Roll.uasset'
+[2025.10.07-15.22.37:549][551]LogFileHelpers: InternalPromptForCheckoutAndSave took 440.023 ms (total: 1.25 sec)
+[2025.10.07-15.22.37:654][551]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.07-15.22.37:654][551]LogContentValidation: Enabled validators:
+[2025.10.07-15.22.37:654][551]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.07-15.22.37:654][551]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.07-15.22.37:656][551]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.07-15.22.37:656][551]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.07-15.22.37:656][551]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.07-15.22.37:656][551]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.07-15.22.37:656][551]AssetCheck: /Game/Blueprints/Characters/Animations/HitReact/Stand_To_Roll Validating asset
+[2025.10.07-15.23.23:047][533]LogContentBrowser: Attempting asset rename: Stand_To_Roll -> DodgeToIdle
+[2025.10.07-15.23.23:965][533]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.07-15.23.23:966][533]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Characters/Animations/HitReact/DodgeToIdle] ([1] browsable assets)...
+[2025.10.07-15.23.23:966][533]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Characters/Animations/HitReact/DodgeToIdle]
+[2025.10.07-15.23.24:009][533]LogSavePackage: Moving output files for package: /Game/Blueprints/Characters/Animations/HitReact/DodgeToIdle
+[2025.10.07-15.23.24:010][533]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/DodgeToIdle8D12043D4381E273492D938D5C3D8C23.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Characters/Animations/HitReact/DodgeToIdle.uasset'
+[2025.10.07-15.23.24:083][533]LogFileHelpers: InternalPromptForCheckoutAndSave took 118.239 ms (total: 1.37 sec)
+[2025.10.07-15.23.24:324][533]LogUObjectHash: Compacting FUObjectHashTables data took   8.65ms
+[2025.10.07-15.23.24:397][533]LogUObjectHash: Compacting FUObjectHashTables data took   9.04ms
+[2025.10.07-15.23.24:461][533]LogUObjectHash: Compacting FUObjectHashTables data took   6.10ms
+[2025.10.07-15.23.24:623][533]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.07-15.23.24:623][533]LogContentValidation: Enabled validators:
+[2025.10.07-15.23.24:623][533]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.07-15.23.24:623][533]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.07-15.23.24:623][533]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.07-15.23.24:623][533]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.07-15.23.24:623][533]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.07-15.23.24:623][533]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.07-15.23.24:624][533]AssetCheck: /Game/Blueprints/Characters/Animations/HitReact/DodgeToIdle Validating asset
+[2025.10.07-15.25.32:286][511]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Blueprints/Characters/Animations/HitReact/ReactFromBack.ReactFromBack
+[2025.10.07-15.25.32:387][511]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_39:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.10.07-15.25.32:662][511]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_42
+[2025.10.07-15.25.32:662][511]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_42'.
+[2025.10.07-15.25.32:704][511]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2025.10.07-15.25.32:704][511]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.07-15.25.32:840][512]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
