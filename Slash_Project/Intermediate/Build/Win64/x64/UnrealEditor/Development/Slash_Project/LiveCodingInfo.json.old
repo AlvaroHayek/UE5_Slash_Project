@@ -2,7 +2,6 @@
 	"RemapUnityFiles": 
 	{
 		"Module.Slash_Project.cpp.obj": [
-			"AttributeComponent.gen.cpp.obj",
 			"BaseCharacter.gen.cpp.obj",
 			"Bird.gen.cpp.obj",
 			"BreakableActor.gen.cpp.obj",
@@ -23,8 +22,6 @@
 			"BreakableActor.cpp.obj",
 			"BaseCharacter.cpp.obj",
 			"SlashAnimInstance.cpp.obj",
-			"SlashCharacter.cpp.obj",
-			"AttributeComponent.cpp.obj",
 			"Enemy.cpp.obj",
 			"HealthBar.cpp.obj",
 			"HealthBarComponent.cpp.obj",
@@ -32,12 +29,15 @@
 			"SlashOverlay.cpp.obj",
 			"HitInterface.cpp.obj",
 			"PickupInterface.cpp.obj",
+			"Item.cpp.obj",
 			"Weapon.cpp.obj",
 			"Bird.cpp.obj",
 			"Slash_Project.cpp.obj",
+			"AttributeComponent.gen.cpp.obj",
 			"Slash_Project.init.gen.cpp.obj",
 			"Soul.gen.cpp.obj",
-			"Item.cpp.obj",
+			"SlashCharacter.cpp.obj",
+			"AttributeComponent.cpp.obj",
 			"Soul.cpp.obj",
 			"Treasure.cpp.obj"
 		]
