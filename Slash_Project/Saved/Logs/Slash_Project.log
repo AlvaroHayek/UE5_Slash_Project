@@ -2246,3 +2246,751 @@ Skipped package /AudioModulation/Volume was expected to be found in plugin Audio
 [2025.10.09-12.33.45:453][123]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.10.09-12.33.45:453][123]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.10.09-12.33.45:453][123]AssetCheck: /Game/Maps/Minimal_Default_2 Validating asset
+[2025.10.09-12.34.26:252][343]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2803.327637
+[2025.10.09-12.34.26:486][350]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.09-12.34.26:486][350]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2803.527588, Update Interval: 339.605103
+[2025.10.09-12.40.46:421][707]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3183.503418
+[2025.10.09-12.40.46:655][714]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.09-12.40.46:655][714]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3183.705811, Update Interval: 310.014343
+[2025.10.09-12.46.46:678][482]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3543.763428
+[2025.10.09-12.46.46:909][489]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.09-12.46.46:909][489]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3543.962646, Update Interval: 333.295074
+[2025.10.09-12.49.17:244][990]LogDerivedDataCache: C:/Users/Usuario/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.10.09-12.53.04:312][774]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3921.413330
+[2025.10.09-12.53.04:548][781]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.09-12.53.04:548][781]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3921.615234, Update Interval: 313.491638
+[2025.10.09-12.53.26:698][430]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_24
+[2025.10.09-12.53.26:698][430]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_24'.
+[2025.10.09-12.53.29:544][430]LogSlate: Window 'Compatible Skeleton for Animation Blueprint' being destroyed
+[2025.10.09-12.53.29:550][430]LogStreaming: Display: FlushAsyncLoading(515): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.09-12.53.29:600][430]LogContentBrowser: Deferred new asset file creation: ABP_Enemy_Child
+[2025.10.09-12.53.29:613][430]LogContentBrowser: Creating deferred item: ABP_Enemy_Child
+[2025.10.09-12.53.29:617][430]LogAutomationController: Ignoring very large delta of 3.23 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.10.09-12.53.29:635][431]LogContentBrowser: Renaming the item being created (Deferred Item: ABP_Enemy_Child).
+[2025.10.09-12.53.34:966][591]LogContentBrowser: Attempting asset rename: ABP_Enemy_Child -> ABP_Insect
+[2025.10.09-12.53.34:977][591]LogContentBrowser: End creating deferred item ABP_Enemy_Child
+[2025.10.09-12.53.34:978][591]LogStreaming: Display: FlushAsyncLoading(516): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.09-12.53.38:143][676]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.10.09-12.53.38:170][676]LogContentBrowser: Creating deferred item: NewFolder
+[2025.10.09-12.53.38:185][677]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.10.09-12.53.40:639][751]LogContentBrowser: Attempting asset rename: NewFolder -> Insect
+[2025.10.09-12.53.40:639][751]LogContentBrowser: End creating deferred item NewFolder
+[2025.10.09-12.53.45:561][897]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_25
+[2025.10.09-12.53.45:562][897]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_25'.
+[2025.10.09-12.53.47:218][936]LogMetaData: Removing '/Game/Blueprints/Enemy/Insect/ABP_Insect.SKEL_ABP_Insect_C' ref from Metadata '/Game/Blueprints/Enemy/ABP_Insect.PackageMetaData'
+[2025.10.09-12.53.47:218][936]LogMetaData: Removing '/Game/Blueprints/Enemy/Insect/ABP_Insect.ABP_Insect_C' ref from Metadata '/Game/Blueprints/Enemy/ABP_Insect.PackageMetaData'
+[2025.10.09-12.53.47:218][936]LogMetaData: Removing '/Game/Blueprints/Enemy/Insect/ABP_Insect.ABP_Insect:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/Enemy/ABP_Insect.PackageMetaData'
+[2025.10.09-12.53.47:218][936]LogMetaData: Removing '/Game/Blueprints/Enemy/Insect/ABP_Insect.ABP_Insect:EventGraph.K2Node_CallParentFunction_0' ref from Metadata '/Game/Blueprints/Enemy/ABP_Insect.PackageMetaData'
+[2025.10.09-12.53.47:218][936]LogMetaData: Removing '/Game/Blueprints/Enemy/Insect/ABP_Insect.ABP_Insect:EventGraph.K2Node_CallFunction_0' ref from Metadata '/Game/Blueprints/Enemy/ABP_Insect.PackageMetaData'
+[2025.10.09-12.53.47:220][936]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.09-12.53.47:220][936]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Enemy/Insect/ABP_Insect] ([2] browsable assets)...
+[2025.10.09-12.53.47:234][936]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Blueprints/Enemy/Insect/ABP_Insect.ABP_Insect]
+[2025.10.09-12.53.47:234][936]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemy/Insect/ABP_Insect]
+[2025.10.09-12.53.47:261][936]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemy/Insect/ABP_Insect
+[2025.10.09-12.53.47:261][936]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/ABP_InsectA020DF9944F71E036B554E886AD04A49.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Enemy/Insect/ABP_Insect.uasset'
+[2025.10.09-12.53.47:269][936]LogFileHelpers: InternalPromptForCheckoutAndSave took 49.190 ms (total: 1.30 sec)
+[2025.10.09-12.53.47:330][936]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.10.09-12.53.47:356][936]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2025.10.09-12.53.47:377][936]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.10.09-12.53.47:399][936]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.10.09-12.53.47:399][936]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.09-12.53.47:399][936]LogContentValidation: Enabled validators:
+[2025.10.09-12.53.47:399][936]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.09-12.53.47:399][936]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.09-12.53.47:399][936]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.09-12.53.47:399][936]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.09-12.53.47:399][936]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.09-12.53.47:399][936]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.09-12.53.47:399][936]AssetCheck: /Game/Blueprints/Enemy/Insect/ABP_Insect Validating asset
+[2025.10.09-12.54.23:737][ 22]LogStreaming: Display: FlushAsyncLoading(517): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.09-12.54.23:742][ 22]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/ParagonMinions/Characters/Buff/Buff_Blue/Animations/Fly_Fwd_FullSpeed.Fly_Fwd_FullSpeed (Required Memory Estimate: 0.30 MB)
+[2025.10.09-12.54.23:743][ 22]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/ParagonMinions/Characters/Buff/Buff_Blue/Animations/Fly_Fwd_MidSpeed.Fly_Fwd_MidSpeed (Required Memory Estimate: 0.30 MB)
+[2025.10.09-12.54.23:745][ 22]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/ParagonMinions/Characters/Buff/Buff_Blue/Animations/Idle_A.Idle_A (Required Memory Estimate: 0.53 MB)
+[2025.10.09-12.54.23:755][ 22]LogAnimationCompression: Display: Storing compressed animation data for /Game/ParagonMinions/Characters/Buff/Buff_Blue/Animations/Fly_Fwd_MidSpeed.Fly_Fwd_MidSpeed, at AnimationSequence/2081db515e0b6401d6679be23930d1246b106666
+[2025.10.09-12.54.23:755][ 22]LogAnimationCompression: Display: Storing compressed animation data for /Game/ParagonMinions/Characters/Buff/Buff_Blue/Animations/Fly_Fwd_FullSpeed.Fly_Fwd_FullSpeed, at AnimationSequence/e1edd7436b595557824cd52e57e291e8db242053
+[2025.10.09-12.54.23:756][ 22]LogAnimationCompression: Display: Storing compressed animation data for /Game/ParagonMinions/Characters/Buff/Buff_Blue/Animations/Idle_A.Idle_A, at AnimationSequence/83dac7cb6d94214ea2f95e93a1d43f40eeb370b6
+[2025.10.09-12.54.23:760][ 22]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace1D /Game/ParagonMinions/Characters/Buff/Buff_Blue/Animations/Blendspaces/Fly_MidSpeed_FullSpeed.Fly_MidSpeed_FullSpeed
+[2025.10.09-12.54.23:761][ 22]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_26
+[2025.10.09-12.54.23:761][ 22]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_26'.
+[2025.10.09-12.54.23:769][ 22]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.10.09-12.54.24:121][ 22]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_27
+[2025.10.09-12.54.24:122][ 22]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_27'.
+[2025.10.09-12.54.24:686][ 22]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_28
+[2025.10.09-12.54.24:686][ 22]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_28'.
+[2025.10.09-12.57.01:233][676]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.10.09-12.57.01:233][676]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.10.09-12.57.01:233][676]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.09-12.57.01:416][676]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2025.10.09-12.57.02:435][703]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.10.09-12.57.02:436][703]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2025.10.09-12.57.02:436][703]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.09-12.57.02:550][703]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2025.10.09-12.57.03:670][732]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2025.10.09-12.57.03:670][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.09-12.57.03:740][732]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2025.10.09-12.57.03:741][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.09-12.57.03:780][732]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2025.10.09-12.58.34:375][442]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2025.10.09-12.58.35:375][442]LogSlate: Window 'Save Content' being destroyed
+[2025.10.09-12.58.35:382][442]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.09-12.58.35:407][442]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ParagonMinions/Characters/Buff/Buff_Blue/Animations/Blendspaces/Fly_MidSpeed_FullSpeed] ([1] browsable assets)...
+[2025.10.09-12.58.35:419][442]OBJ SavePackage:     Rendered thumbnail for [BlendSpace1D /Game/ParagonMinions/Characters/Buff/Buff_Blue/Animations/Blendspaces/Fly_MidSpeed_FullSpeed.Fly_MidSpeed_FullSpeed]
+[2025.10.09-12.58.35:419][442]OBJ SavePackage: Finished generating thumbnails for package [/Game/ParagonMinions/Characters/Buff/Buff_Blue/Animations/Blendspaces/Fly_MidSpeed_FullSpeed]
+[2025.10.09-12.58.35:421][442]LogSavePackage: Moving output files for package: /Game/ParagonMinions/Characters/Buff/Buff_Blue/Animations/Blendspaces/Fly_MidSpeed_FullSpeed
+[2025.10.09-12.58.35:422][442]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Fly_MidSpeed_FullSpeed6BD92D2449DE3AFDE1A62690693AFA73.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/ParagonMinions/Characters/Buff/Buff_Blue/Animations/Blendspaces/Fly_MidSpeed_FullSpeed.uasset'
+[2025.10.09-12.58.35:432][442]LogFileHelpers: InternalPromptForCheckoutAndSave took 48.579 ms (total: 1.35 sec)
+[2025.10.09-12.58.35:463][442]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.09-12.58.35:463][442]LogContentValidation: Enabled validators:
+[2025.10.09-12.58.35:463][442]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.09-12.58.35:463][442]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.09-12.58.35:463][442]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.09-12.58.35:463][442]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.09-12.58.35:463][442]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.09-12.58.35:463][442]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.09-12.58.35:463][442]AssetCheck: /Game/ParagonMinions/Characters/Buff/Buff_Blue/Animations/Blendspaces/Fly_MidSpeed_FullSpeed Validating asset
+[2025.10.09-12.58.45:326][737]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Blueprints/Enemy/Insect/ABP_Insect.ABP_Insect
+[2025.10.09-12.58.45:329][737]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_29
+[2025.10.09-12.58.45:329][737]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_29'.
+[2025.10.09-12.58.45:345][737]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_30
+[2025.10.09-12.58.45:346][737]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_30'.
+[2025.10.09-12.58.45:353][737]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.10.09-12.58.45:824][737]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_31
+[2025.10.09-12.58.45:825][737]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_31'.
+[2025.10.09-12.59.06:035][333]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4283.145996
+[2025.10.09-12.59.06:270][340]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.09-12.59.06:270][340]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4283.347168, Update Interval: 330.048523
+[2025.10.09-12.59.10:180][456]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.10.09-12.59.11:272][456]LogSlate: Window 'Save Content' being destroyed
+[2025.10.09-12.59.11:281][456]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.09-12.59.11:302][456]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Enemy/Insect/ABP_Insect] ([2] browsable assets)...
+[2025.10.09-12.59.11:313][456]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Blueprints/Enemy/Insect/ABP_Insect.ABP_Insect]
+[2025.10.09-12.59.11:313][456]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemy/Insect/ABP_Insect]
+[2025.10.09-12.59.11:318][456]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemy/Insect/ABP_Insect
+[2025.10.09-12.59.11:319][456]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/ABP_Insect3F0F1044482B118AB812F5BC558545EB.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Enemy/Insect/ABP_Insect.uasset'
+[2025.10.09-12.59.11:328][456]LogFileHelpers: InternalPromptForCheckoutAndSave took 46.375 ms (total: 1.39 sec)
+[2025.10.09-12.59.11:358][456]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.09-12.59.11:358][456]LogContentValidation: Enabled validators:
+[2025.10.09-12.59.11:359][456]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.09-12.59.11:359][456]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.09-12.59.11:359][456]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.09-12.59.11:359][456]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.09-12.59.11:359][456]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.09-12.59.11:359][456]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.09-12.59.11:359][456]AssetCheck: /Game/Blueprints/Enemy/Insect/ABP_Insect Validating asset
+[2025.10.09-12.59.24:363][840]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2025.10.09-12.59.29:036][978]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Enemy/Raptor/BP_Raptor.BP_Raptor
+[2025.10.09-12.59.29:036][978]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_32
+[2025.10.09-12.59.29:037][978]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_32'.
+[2025.10.09-12.59.33:944][103]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2025.10.09-12.59.35:512][142]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2025.10.09-12.59.35:512][142]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.09-12.59.35:601][142]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.10.09-12.59.36:576][171]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2025.10.09-12.59.37:477][171]LogSlate: Window 'Save Content' being destroyed
+[2025.10.09-12.59.37:485][171]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.09-12.59.37:513][171]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Enemy/Raptor/BP_Raptor] ([2] browsable assets)...
+[2025.10.09-12.59.37:531][171]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Enemy/Raptor/BP_Raptor.BP_Raptor]
+[2025.10.09-12.59.37:531][171]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemy/Raptor/BP_Raptor]
+[2025.10.09-12.59.37:538][171]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemy/Raptor/BP_Raptor
+[2025.10.09-12.59.37:539][171]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/BP_Raptor6DD9A18647F9CB04F1748EA4BB25751E.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Enemy/Raptor/BP_Raptor.uasset'
+[2025.10.09-12.59.37:550][171]LogFileHelpers: InternalPromptForCheckoutAndSave took 65.632 ms (total: 1.46 sec)
+[2025.10.09-12.59.37:579][171]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.09-12.59.37:579][171]LogContentValidation: Enabled validators:
+[2025.10.09-12.59.37:579][171]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.09-12.59.37:579][171]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.09-12.59.37:579][171]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.09-12.59.37:579][171]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.09-12.59.37:579][171]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.09-12.59.37:579][171]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.09-12.59.37:579][171]AssetCheck: /Game/Blueprints/Enemy/Raptor/BP_Raptor Validating asset
+[2025.10.09-13.00.04:609][980]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Items/Weapons/BP_RaptorWeapon.BP_RaptorWeapon
+[2025.10.09-13.00.04:609][980]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_33
+[2025.10.09-13.00.04:609][980]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_33'.
+[2025.10.09-13.00.18:589][372]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2025.10.09-13.00.21:205][447]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.09-13.00.21:239][447]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.09-13.00.21:239][447]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Minimal_Default_2
+[2025.10.09-13.00.21:248][447]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008706s)
+[2025.10.09-13.00.21:248][447]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Minimal_Default_2.Minimal_Default_2 to /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 (0.008742s)
+[2025.10.09-13.00.21:273][447]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2025.10.09-13.00.21:277][447]LogChaosDD: Creating Chaos Debug Draw Scene for world Minimal_Default_2
+[2025.10.09-13.00.21:277][447]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2'.
+[2025.10.09-13.00.21:278][447]LogPlayLevel: PIE: World Init took: (0.001793s)
+[2025.10.09-13.00.21:279][447]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2025.10.09-13.00.21:279][447]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.09-13.00.21:279][447]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.09-13.00.21:279][447]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.09-13.00.21:279][447]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.09-13.00.21:279][447]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.09-13.00.21:279][447]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.09-13.00.21:279][447]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.09-13.00.21:279][447]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.09-13.00.21:279][447]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.09-13.00.21:279][447]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.09-13.00.21:279][447]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.09-13.00.21:281][447]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.09-13.00.21:303][447]LogAudioMixer: Display: Using Audio Hardware Device Auriculares (Vieta Pro Calm 2 Stereo)
+[2025.10.09-13.00.21:304][447]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.09-13.00.21:304][447]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.09-13.00.21:304][447]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.09-13.00.21:304][447]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2025.10.09-13.00.21:304][447]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2025.10.09-13.00.21:307][447]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2025.10.09-13.00.21:307][447]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2025.10.09-13.00.21:307][447]LogInit: FAudioDevice initialized with ID 7.
+[2025.10.09-13.00.21:307][447]LogAudio: Display: Audio Device (ID: 7) registered with world 'Minimal_Default_2'.
+[2025.10.09-13.00.21:307][447]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2025.10.09-13.00.21:310][447]LogLoad: Game class is 'BP_GameMode_C'
+[2025.10.09-13.00.21:319][447]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 up for play (max tick rate 0) at 2025.10.09-15.00.21
+[2025.10.09-13.00.21:321][447]LogWorld: Bringing up level for play took: 0.010696
+[2025.10.09-13.00.21:352][447]LogOnline: OSS: Created online subsystem instance for: :Context_40
+[2025.10.09-13.00.21:358][447]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'CharacterMesh0' with 'Echo'
+[2025.10.09-13.00.21:365][447]PIE: Server logged in
+[2025.10.09-13.00.21:366][447]PIE: Play in editor total start time 0.148 seconds.
+[2025.10.09-13.00.53:678][408]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.09-13.00.53:678][408]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Minimal_Default_2
+[2025.10.09-13.00.53:679][408]LogWorld: UWorld::CleanupWorld for Minimal_Default_2, bSessionEnded=true, bCleanupResources=true
+[2025.10.09-13.00.53:681][408]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.09-13.00.53:685][408]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.09-13.00.53:695][408]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.09-13.00.53:718][408]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.09-13.00.53:718][408]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2025.10.09-13.00.53:719][408]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2025.10.09-13.00.53:721][408]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2025.10.09-13.00.53:726][408]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.09-13.00.53:735][408]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2025.10.09-13.00.54:017][411]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2025.10.09-13.01.13:641][995]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_34
+[2025.10.09-13.01.13:642][995]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_34'.
+[2025.10.09-13.01.13:738][996]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_35
+[2025.10.09-13.01.13:738][996]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_35'.
+[2025.10.09-13.01.13:815][997]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_36
+[2025.10.09-13.01.13:815][997]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_36'.
+[2025.10.09-13.01.13:860][998]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_37
+[2025.10.09-13.01.13:860][998]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_37'.
+[2025.10.09-13.01.18:355][132]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Blueprints/Enemy/Raptor/ABP_Raptor.ABP_Raptor
+[2025.10.09-13.01.18:356][132]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_38
+[2025.10.09-13.01.18:356][132]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_38'.
+[2025.10.09-13.01.18:377][132]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_39
+[2025.10.09-13.01.18:377][132]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_39'.
+[2025.10.09-13.01.18:394][132]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_39:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.10.09-13.01.18:764][132]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_40
+[2025.10.09-13.01.18:764][132]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_40'.
+[2025.10.09-13.02.53:212][881]LogShaderCompilers: Display: ================================================
+[2025.10.09-13.02.53:212][881]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.10.09-13.02.53:212][881]LogShaderCompilers: Display: Total job queries 547, among them cache hits 142 (25.96%), DDC hits 394 (72.03%), Duplicates 3 (0.55%)
+[2025.10.09-13.02.53:212][881]LogShaderCompilers: Display: Tracking 402 distinct input hashes that result in 281 distinct outputs (69.90%)
+[2025.10.09-13.02.53:212][881]LogShaderCompilers: Display: RAM used: 167.82 KiB of 819.20 MiB budget. Usage: 0.02%
+[2025.10.09-13.02.53:212][881]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.10.09-13.02.53:212][881]LogShaderCompilers: Display: Shaders Compiled: 8
+[2025.10.09-13.02.53:212][881]LogShaderCompilers: Display: Jobs assigned 8, completed 8 (100%)
+[2025.10.09-13.02.53:212][881]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.05 s
+[2025.10.09-13.02.53:212][881]LogShaderCompilers: Display: Job execution time: average 2.86 s, max 3.02 s
+[2025.10.09-13.02.53:212][881]LogShaderCompilers: Display: Job life time (pending + execution): average 2.91 s, max 3.06
+[2025.10.09-13.02.53:212][881]LogShaderCompilers: Display: Shader code size: average 7.292 KiB, min 4.672 KiB, max 11.586 KiB
+[2025.10.09-13.02.53:212][881]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 3.07 s
+[2025.10.09-13.02.53:212][881]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.10.09-13.02.53:212][881]LogShaderCompilers: Display: Jobs were issued in 8 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.10.09-13.02.53:212][881]LogShaderCompilers: Display: Average processing rate: 2.60 jobs/sec
+[2025.10.09-13.02.53:212][881]LogShaderCompilers: Display: Total thread time: 5.002 s
+[2025.10.09-13.02.53:212][881]LogShaderCompilers: Display: Total thread preprocess time: 10.288 s
+[2025.10.09-13.02.53:212][881]LogShaderCompilers: Display: Percentage time preprocessing: 205.67%
+[2025.10.09-13.02.53:212][881]LogShaderCompilers: Display: Effective parallelization: 1.63 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.10.09-13.02.53:212][881]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.10.09-13.02.53:212][881]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 0.75 sec, max 0.76 sec, min 0.74 sec)
+[2025.10.09-13.02.53:212][881]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 0.59 sec, max 0.61 sec, min 0.58 sec)
+[2025.10.09-13.02.53:212][881]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    2 times, average 0.59 sec, max 0.60 sec, min 0.57 sec)
+[2025.10.09-13.02.53:212][881]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    2 times, average 0.57 sec, max 0.58 sec, min 0.56 sec)
+[2025.10.09-13.02.53:212][881]LogShaderCompilers: Display:              TShadowDepthPSPixelShadowDepth_VirtualShadowMap (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.10.09-13.02.53:212][881]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.10.09-13.02.53:212][881]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 30.03% of total time (compiled    2 times, average 0.75 sec, max 0.76 sec, min 0.74 sec)
+[2025.10.09-13.02.53:212][881]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 23.78% of total time (compiled    2 times, average 0.59 sec, max 0.61 sec, min 0.58 sec)
+[2025.10.09-13.02.53:212][881]LogShaderCompilers: Display:                                                 FLumenCardPS - 23.46% of total time (compiled    2 times, average 0.59 sec, max 0.60 sec, min 0.57 sec)
+[2025.10.09-13.02.53:212][881]LogShaderCompilers: Display:                                                 FLumenCardVS - 22.74% of total time (compiled    2 times, average 0.57 sec, max 0.58 sec, min 0.56 sec)
+[2025.10.09-13.02.53:213][881]LogShaderCompilers: Display:              TShadowDepthPSPixelShadowDepth_VirtualShadowMap - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.10.09-13.02.53:213][881]LogShaderCompilers: Display: === Material stats ===
+[2025.10.09-13.02.53:213][881]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.10.09-13.02.53:213][881]LogShaderCompilers: Display: Materials Translated:    177
+[2025.10.09-13.02.53:213][881]LogShaderCompilers: Display: Material Total Translate Time: 0.18 s
+[2025.10.09-13.02.53:213][881]LogShaderCompilers: Display: Material Translation Only: 0.07 s (41%)
+[2025.10.09-13.02.53:213][881]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.10.09-13.02.53:213][881]LogShaderCompilers: Display: Material Cache Hits: 35 (20%)
+[2025.10.09-13.02.53:213][881]LogShaderCompilers: Display: ================================================
+[2025.10.09-13.05.24:795][427]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4661.921875
+[2025.10.09-13.05.25:029][434]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.09-13.05.25:029][434]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4662.122070, Update Interval: 313.828552
+[2025.10.09-13.05.45:431][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2025.10.09-13.05.45:434][ 43]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Minimal_Default_2' took 0.060
+[2025.10.09-13.05.45:434][ 43]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Items/Weapons/BP_RaptorWeapon] ([2] browsable assets)...
+[2025.10.09-13.05.45:434][ 43]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Items/Weapons/BP_RaptorWeapon]
+[2025.10.09-13.05.45:452][ 43]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Items/Weapons/BP_RaptorWeapon_Auto4
+[2025.10.09-13.05.45:452][ 43]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/BP_RaptorWeapon_Auto49F80AD0F47ECCF88EF1A0D80295A1011.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Autosaves/Game/Blueprints/Items/Weapons/BP_RaptorWeapon_Auto4.uasset'
+[2025.10.09-13.05.45:454][ 43]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Enemy/Insect/ABP_Insect] ([2] browsable assets)...
+[2025.10.09-13.05.45:472][ 43]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Blueprints/Enemy/Insect/ABP_Insect.ABP_Insect]
+[2025.10.09-13.05.45:472][ 43]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemy/Insect/ABP_Insect]
+[2025.10.09-13.05.45:479][ 43]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Enemy/Insect/ABP_Insect_Auto4
+[2025.10.09-13.05.45:479][ 43]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/ABP_Insect_Auto472C3C7154FCC78550E97D28196F09CCE.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Autosaves/Game/Blueprints/Enemy/Insect/ABP_Insect_Auto4.uasset'
+[2025.10.09-13.05.45:480][ 43]LogFileHelpers: Auto-saving content packages took 0.046
+[2025.10.09-13.07.38:993][417]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2025.10.09-13.07.41:719][497]LogStreaming: Display: FlushAsyncLoading(518): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.09-13.07.41:722][497]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/ParagonMinions/Characters/Buff/Buff_Blue/Animations/Death_Bwd.Death_Bwd (Required Memory Estimate: 0.18 MB)
+[2025.10.09-13.07.41:725][497]LogAnimationCompression: Display: Storing compressed animation data for /Game/ParagonMinions/Characters/Buff/Buff_Blue/Animations/Death_Bwd.Death_Bwd, at AnimationSequence/8d50ff6e445d673ee3e4b3beb4d9ca09f6ef15e9
+[2025.10.09-13.07.41:826][497]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_41
+[2025.10.09-13.07.41:826][497]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_41'.
+[2025.10.09-13.07.41:909][498]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_42
+[2025.10.09-13.07.41:910][498]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_42'.
+[2025.10.09-13.08.30:174][148]LogSlate: Window 'Create a New Animation Asset' being destroyed
+[2025.10.09-13.08.30:193][148]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/ParagonMinions/Characters/Buff/Buff_Blue/Animations/Dead_Bwd.Dead_Bwd (Required Memory Estimate: 0.11 MB)
+[2025.10.09-13.08.30:194][148]LogAnimationCompression: Display: Storing compressed animation data for /Game/ParagonMinions/Characters/Buff/Buff_Blue/Animations/Dead_Bwd.Dead_Bwd, at AnimationSequence/52b55da8ea69770b27b42de667fbc8e12cb2f120
+[2025.10.09-13.08.30:355][148]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_43
+[2025.10.09-13.08.30:355][148]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_43'.
+[2025.10.09-13.08.30:397][148]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2025.10.09-13.08.30:397][148]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.09-13.08.30:447][148]LogAutomationController: Ignoring very large delta of 26.72 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.10.09-13.08.30:474][149]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2025.10.09-13.09.03:575][133]LogStreaming: Display: FlushAsyncLoading(519): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.09-13.09.03:578][133]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/ParagonMinions/Characters/Buff/Buff_Blue/Animations/Death_Fwd.Death_Fwd (Required Memory Estimate: 0.20 MB)
+[2025.10.09-13.09.03:584][133]LogAnimationCompression: Display: Storing compressed animation data for /Game/ParagonMinions/Characters/Buff/Buff_Blue/Animations/Death_Fwd.Death_Fwd, at AnimationSequence/b027c7805b37337927b60e06cb2bbe64aef22940
+[2025.10.09-13.09.03:681][133]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_44
+[2025.10.09-13.09.03:681][133]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_44'.
+[2025.10.09-13.09.03:707][133]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2025.10.09-13.09.03:708][133]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.09-13.09.03:778][134]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2025.10.09-13.09.23:966][379]LogSlate: Window 'Create a New Animation Asset' being destroyed
+[2025.10.09-13.09.23:979][379]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/ParagonMinions/Characters/Buff/Buff_Blue/Animations/Dead_Fwd.Dead_Fwd (Required Memory Estimate: 0.11 MB)
+[2025.10.09-13.09.23:979][379]LogAnimationCompression: Display: Storing compressed animation data for /Game/ParagonMinions/Characters/Buff/Buff_Blue/Animations/Dead_Fwd.Dead_Fwd, at AnimationSequence/a26e0310e61da91c8e336c1fc42a3340992222e3
+[2025.10.09-13.09.24:138][379]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_45
+[2025.10.09-13.09.24:139][379]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_45'.
+[2025.10.09-13.09.24:187][379]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2025.10.09-13.09.24:187][379]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.09-13.09.24:236][379]LogAutomationController: Ignoring very large delta of 12.10 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.10.09-13.09.24:263][380]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2025.10.09-13.09.35:590][708]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2025.10.09-13.09.35:595][708]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.09-13.09.35:631][708]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Items/Weapons/BP_RaptorWeapon] ([2] browsable assets)...
+[2025.10.09-13.09.35:631][708]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Items/Weapons/BP_RaptorWeapon]
+[2025.10.09-13.09.35:643][708]LogSavePackage: Moving output files for package: /Game/Blueprints/Items/Weapons/BP_RaptorWeapon
+[2025.10.09-13.09.35:644][708]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/BP_RaptorWeapon5B5A548E4506726A20D4A8836B60DE48.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Items/Weapons/BP_RaptorWeapon.uasset'
+[2025.10.09-13.09.35:646][708]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Enemy/Insect/ABP_Insect] ([2] browsable assets)...
+[2025.10.09-13.09.35:658][708]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Blueprints/Enemy/Insect/ABP_Insect.ABP_Insect]
+[2025.10.09-13.09.35:658][708]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemy/Insect/ABP_Insect]
+[2025.10.09-13.09.35:664][708]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemy/Insect/ABP_Insect
+[2025.10.09-13.09.35:665][708]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/ABP_InsectDF95BCE94CB3F6C031BEE3B0EAEB55A4.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Enemy/Insect/ABP_Insect.uasset'
+[2025.10.09-13.09.35:667][708]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ParagonMinions/Characters/Buff/Buff_Blue/Animations/Dead_Bwd] ([1] browsable assets)...
+[2025.10.09-13.09.35:678][708]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/ParagonMinions/Characters/Buff/Buff_Blue/Animations/Dead_Bwd.Dead_Bwd]
+[2025.10.09-13.09.35:678][708]OBJ SavePackage: Finished generating thumbnails for package [/Game/ParagonMinions/Characters/Buff/Buff_Blue/Animations/Dead_Bwd]
+[2025.10.09-13.09.35:683][708]LogSavePackage: Moving output files for package: /Game/ParagonMinions/Characters/Buff/Buff_Blue/Animations/Dead_Bwd
+[2025.10.09-13.09.35:683][708]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Dead_BwdCB0D77B84AC25A967BD31D92E0CD02FF.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/ParagonMinions/Characters/Buff/Buff_Blue/Animations/Dead_Bwd.uasset'
+[2025.10.09-13.09.35:761][708]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ParagonMinions/Characters/Buff/Buff_Blue/Animations/Dead_Fwd] ([1] browsable assets)...
+[2025.10.09-13.09.35:771][708]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/ParagonMinions/Characters/Buff/Buff_Blue/Animations/Dead_Fwd.Dead_Fwd]
+[2025.10.09-13.09.35:771][708]OBJ SavePackage: Finished generating thumbnails for package [/Game/ParagonMinions/Characters/Buff/Buff_Blue/Animations/Dead_Fwd]
+[2025.10.09-13.09.35:775][708]LogSavePackage: Moving output files for package: /Game/ParagonMinions/Characters/Buff/Buff_Blue/Animations/Dead_Fwd
+[2025.10.09-13.09.35:775][708]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Dead_Fwd0A0D517B49A37A24070A8E9E7316DFE5.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/ParagonMinions/Characters/Buff/Buff_Blue/Animations/Dead_Fwd.uasset'
+[2025.10.09-13.09.35:864][708]LogFileHelpers: InternalPromptForCheckoutAndSave took 268.351 ms (total: 1.73 sec)
+[2025.10.09-13.09.35:896][708]LogContentValidation: Display: Starting to validate 4 assets
+[2025.10.09-13.09.35:896][708]LogContentValidation: Enabled validators:
+[2025.10.09-13.09.35:896][708]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.09-13.09.35:896][708]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.09-13.09.35:896][708]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.09-13.09.35:896][708]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.09-13.09.35:896][708]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.09-13.09.35:896][708]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.09-13.09.35:896][708]AssetCheck: /Game/Blueprints/Items/Weapons/BP_RaptorWeapon Validating asset
+[2025.10.09-13.09.35:896][708]AssetCheck: /Game/Blueprints/Enemy/Insect/ABP_Insect Validating asset
+[2025.10.09-13.09.35:896][708]AssetCheck: /Game/ParagonMinions/Characters/Buff/Buff_Blue/Animations/Dead_Bwd Validating asset
+[2025.10.09-13.09.35:896][708]AssetCheck: /Game/ParagonMinions/Characters/Buff/Buff_Blue/Animations/Dead_Fwd Validating asset
+[2025.10.09-13.10.18:882][974]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2025.10.09-13.10.18:882][974]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2025.10.09-13.10.56:515][ 81]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2025.10.09-13.10.56:516][ 81]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.09-13.10.56:538][ 81]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2025.10.09-13.10.56:538][ 81]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.09-13.10.56:577][ 81]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2025.10.09-13.10.56:577][ 81]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.09-13.10.56:621][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2025.10.09-13.11.03:396][277]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Blueprints/Enemy/Insect/ABP_Insect.ABP_Insect
+[2025.10.09-13.11.03:396][277]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_46
+[2025.10.09-13.11.03:397][277]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_46'.
+[2025.10.09-13.11.03:407][277]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_47
+[2025.10.09-13.11.03:407][277]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_47'.
+[2025.10.09-13.11.03:417][277]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_47:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.10.09-13.11.03:783][277]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_48
+[2025.10.09-13.11.03:783][277]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_48'.
+[2025.10.09-13.11.15:010][587]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2025.10.09-13.11.16:123][587]LogSlate: Window 'Save Content' being destroyed
+[2025.10.09-13.11.16:131][587]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.09-13.11.16:151][587]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Enemy/Insect/ABP_Insect] ([2] browsable assets)...
+[2025.10.09-13.11.16:161][587]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Blueprints/Enemy/Insect/ABP_Insect.ABP_Insect]
+[2025.10.09-13.11.16:161][587]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemy/Insect/ABP_Insect]
+[2025.10.09-13.11.16:167][587]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemy/Insect/ABP_Insect
+[2025.10.09-13.11.16:168][587]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/ABP_Insect79B6DE7C43B47D9518E6978C23D357AE.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Enemy/Insect/ABP_Insect.uasset'
+[2025.10.09-13.11.16:178][587]LogFileHelpers: InternalPromptForCheckoutAndSave took 46.345 ms (total: 1.77 sec)
+[2025.10.09-13.11.16:209][587]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.09-13.11.16:209][587]LogContentValidation: Enabled validators:
+[2025.10.09-13.11.16:209][587]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.09-13.11.16:209][587]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.09-13.11.16:209][587]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.09-13.11.16:209][587]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.09-13.11.16:209][587]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.09-13.11.16:209][587]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.09-13.11.16:209][587]AssetCheck: /Game/Blueprints/Enemy/Insect/ABP_Insect Validating asset
+[2025.10.09-13.11.29:310][968]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2025.10.09-13.11.30:597][968]LogSlate: Window 'Save Content' being destroyed
+[2025.10.09-13.11.30:605][968]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.09-13.11.30:625][968]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Enemy/Insect/ABP_Insect] ([2] browsable assets)...
+[2025.10.09-13.11.30:637][968]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Blueprints/Enemy/Insect/ABP_Insect.ABP_Insect]
+[2025.10.09-13.11.30:637][968]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemy/Insect/ABP_Insect]
+[2025.10.09-13.11.30:643][968]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemy/Insect/ABP_Insect
+[2025.10.09-13.11.30:643][968]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/ABP_Insect58B997CE4DA43B87E207949FEC1A69C9.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Enemy/Insect/ABP_Insect.uasset'
+[2025.10.09-13.11.30:654][968]LogFileHelpers: InternalPromptForCheckoutAndSave took 47.797 ms (total: 1.82 sec)
+[2025.10.09-13.11.30:682][968]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.09-13.11.30:682][968]LogContentValidation: Enabled validators:
+[2025.10.09-13.11.30:682][968]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.09-13.11.30:682][968]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.09-13.11.30:682][968]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.09-13.11.30:682][968]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.09-13.11.30:682][968]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.09-13.11.30:682][968]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.09-13.11.30:683][968]AssetCheck: /Game/Blueprints/Enemy/Insect/ABP_Insect Validating asset
+[2025.10.09-13.11.34:619][ 86]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5031.740234
+[2025.10.09-13.11.34:821][ 92]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.09-13.11.34:821][ 92]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5031.907715, Update Interval: 349.526062
+[2025.10.09-13.11.57:046][755]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2025.10.09-13.12.12:301][209]LogContentBrowser: Deferred new asset file creation: BP_BaseEnemy_Child
+[2025.10.09-13.12.12:331][209]LogContentBrowser: Creating deferred item: BP_BaseEnemy_Child
+[2025.10.09-13.12.12:363][210]LogContentBrowser: Renaming the item being created (Deferred Item: BP_BaseEnemy_Child).
+[2025.10.09-13.12.17:104][353]LogContentBrowser: Attempting asset rename: BP_BaseEnemy_Child -> BP_Insect
+[2025.10.09-13.12.17:114][353]LogContentBrowser: End creating deferred item BP_BaseEnemy_Child
+[2025.10.09-13.12.17:115][353]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_49
+[2025.10.09-13.12.17:115][353]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_49'.
+[2025.10.09-13.12.20:499][443]LogMetaData: Removing '/Game/Blueprints/Enemy/Insect/BP_Insect.BP_Insect:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Enemy/BP_Insect.PackageMetaData'
+[2025.10.09-13.12.20:499][443]LogMetaData: Removing '/Game/Blueprints/Enemy/Insect/BP_Insect.SKEL_BP_Insect_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/Enemy/BP_Insect.PackageMetaData'
+[2025.10.09-13.12.20:499][443]LogMetaData: Removing '/Game/Blueprints/Enemy/Insect/BP_Insect.SKEL_BP_Insect_C' ref from Metadata '/Game/Blueprints/Enemy/BP_Insect.PackageMetaData'
+[2025.10.09-13.12.20:499][443]LogMetaData: Removing '/Game/Blueprints/Enemy/Insect/BP_Insect.BP_Insect_C' ref from Metadata '/Game/Blueprints/Enemy/BP_Insect.PackageMetaData'
+[2025.10.09-13.12.20:499][443]LogMetaData: Removing '/Game/Blueprints/Enemy/Insect/BP_Insect.BP_Insect:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/Enemy/BP_Insect.PackageMetaData'
+[2025.10.09-13.12.20:500][443]LogMetaData: Removing '/Game/Blueprints/Enemy/Insect/BP_Insect.BP_Insect:EventGraph.K2Node_CallParentFunction_0' ref from Metadata '/Game/Blueprints/Enemy/BP_Insect.PackageMetaData'
+[2025.10.09-13.12.20:500][443]LogMetaData: Removing '/Game/Blueprints/Enemy/Insect/BP_Insect.BP_Insect:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/Enemy/BP_Insect.PackageMetaData'
+[2025.10.09-13.12.20:500][443]LogMetaData: Removing '/Game/Blueprints/Enemy/Insect/BP_Insect.BP_Insect:EventGraph.K2Node_CallParentFunction_1' ref from Metadata '/Game/Blueprints/Enemy/BP_Insect.PackageMetaData'
+[2025.10.09-13.12.20:500][443]LogMetaData: Removing '/Game/Blueprints/Enemy/Insect/BP_Insect.BP_Insect:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/Enemy/BP_Insect.PackageMetaData'
+[2025.10.09-13.12.20:500][443]LogMetaData: Removing '/Game/Blueprints/Enemy/Insect/BP_Insect.BP_Insect:EventGraph.K2Node_CallParentFunction_2' ref from Metadata '/Game/Blueprints/Enemy/BP_Insect.PackageMetaData'
+[2025.10.09-13.12.20:500][443]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.09-13.12.20:500][443]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Enemy/Insect/BP_Insect] ([2] browsable assets)...
+[2025.10.09-13.12.20:501][443]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_50
+[2025.10.09-13.12.20:501][443]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_50'.
+[2025.10.09-13.12.20:539][443]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/Blueprints/Enemy/Insect/BP_Insect.BP_Insect_C]
+[2025.10.09-13.12.20:550][443]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Enemy/Insect/BP_Insect.BP_Insect]
+[2025.10.09-13.12.20:550][443]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemy/Insect/BP_Insect]
+[2025.10.09-13.12.20:557][443]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemy/Insect/BP_Insect
+[2025.10.09-13.12.20:557][443]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/BP_Insect8474CC144752635F79F6DC98BF4872E6.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Enemy/Insect/BP_Insect.uasset'
+[2025.10.09-13.12.20:563][443]LogFileHelpers: InternalPromptForCheckoutAndSave took 62.911 ms (total: 1.88 sec)
+[2025.10.09-13.12.20:611][443]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2025.10.09-13.12.20:636][443]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2025.10.09-13.12.20:658][443]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.10.09-13.12.20:682][443]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.10.09-13.12.20:682][443]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.09-13.12.20:682][443]LogContentValidation: Enabled validators:
+[2025.10.09-13.12.20:682][443]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.09-13.12.20:682][443]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.09-13.12.20:682][443]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.09-13.12.20:682][443]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.09-13.12.20:682][443]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.09-13.12.20:682][443]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.09-13.12.20:682][443]AssetCheck: /Game/Blueprints/Enemy/Insect/BP_Insect Validating asset
+[2025.10.09-13.13.29:552][462]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Altavoces (Realtek(R) Audio), InstanceID=1
+[2025.10.09-13.13.30:958][462]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2025.10.09-13.32.47:502][462]LogShaderCompilers: Warning: Distributed compilation controller didn't receive a completed task in 1156.056695 seconds!
+[2025.10.09-13.32.51:372][462]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2025.10.09-13.32.51:417][463]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.10.09-13.32.51:417][463]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=25128
+[2025.10.09-13.32.51:475][463]LogAutomationController: Ignoring very large delta of 1162.08 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.10.09-13.32.51:476][463]LogHttp: Warning: 00000B8A54ACB600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.10.09-13.32.51:476][463]LogHttp: Warning: 00000B8A54ACB600: libcurl info message cache 0 (Too old connection (1207 seconds idle), disconnect it)
+[2025.10.09-13.32.51:476][463]LogHttp: Warning: 00000B8A54ACB600: libcurl info message cache 1 (Connection 1 seems to be dead)
+[2025.10.09-13.32.51:476][463]LogHttp: Warning: 00000B8A54ACB600: libcurl info message cache 2 (Closing connection)
+[2025.10.09-13.32.51:476][463]LogHttp: Warning: 00000B8A54ACB600: libcurl info message cache 3 (Recv failure: Connection was reset)
+[2025.10.09-13.32.51:476][463]LogHttp: Warning: 00000B8A54ACB600: libcurl info message cache 4 (Send failure: Connection was reset)
+[2025.10.09-13.32.51:476][463]LogHttp: Warning: 00000B8A54ACB600: libcurl info message cache 5 (Recv failure: Connection was reset)
+[2025.10.09-13.32.51:476][463]LogHttp: Warning: 00000B8A54ACB600: libcurl info message cache 6 (Could not resolve host: datarouter.ol.epicgames.com)
+[2025.10.09-13.32.51:476][463]LogHttp: Warning: 00000B8A54ACB600: libcurl info message cache 7 (Closing connection)
+[2025.10.09-13.32.51:477][463]LogEOSSDK: Warning: LogHttp: 00000B8A50639000: invalid HTTP response code received. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7BB54E68C2-49FC-950A-E37A-90B55808D387%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.16.4-36651368%20-%20%2B%2BEOSSDK%2BRelease-1.16.4-CL-36651368&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.10.09-13.32.51:477][463]LogEOSSDK: Warning: LogHttp: 00000B8A50639000: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.10.09-13.32.51:477][463]LogEOSSDK: Warning: LogHttp: 00000B8A50639000: libcurl info message cache 0 (Too old connection (1208 seconds idle), disconnect it)
+[2025.10.09-13.32.51:477][463]LogEOSSDK: Warning: LogHttp: 00000B8A50639000: libcurl info message cache 1 (Connection 20 seems to be dead)
+[2025.10.09-13.32.51:477][464]LogEOSSDK: Warning: LogHttp: 00000B8A50639000: libcurl info message cache 2 (Closing connection)
+[2025.10.09-13.32.51:477][464]LogEOSSDK: Warning: LogHttp: 00000B8A50639000: libcurl info message cache 3 (Recv failure: Connection was reset)
+[2025.10.09-13.32.51:477][464]LogEOSSDK: Warning: LogHttp: 00000B8A50639000: libcurl info message cache 4 (Send failure: Connection was reset)
+[2025.10.09-13.32.51:477][464]LogEOSSDK: Warning: LogHttp: 00000B8A50639000: libcurl info message cache 5 (Recv failure: Connection was reset)
+[2025.10.09-13.32.51:477][464]LogEOSSDK: Warning: LogHttp: 00000B8A50639000: libcurl info message cache 6 (Could not resolve host: api.epicgames.dev)
+[2025.10.09-13.32.51:477][464]LogEOSSDK: Warning: LogHttp: 00000B8A50639000: libcurl info message cache 7 (Closing connection)
+[2025.10.09-13.32.51:513][464]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7BB54E68C2-49FC-950A-E37A-90B55808D387%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.16.4-36651368%20-%20%2B%2BEOSSDK%2BRelease-1.16.4-CL-36651368&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2025.10.09-13.32.51:522][465]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.10.09-13.32.51:537][465]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{58ea4715-9790-4598-9427-e0f8b9d39fd0}, Name=Altavoces (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=66.56
+[2025.10.09-13.32.51:537][465]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.10.09-13.32.51:549][465]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.10.09-13.32.51:578][465]LogEOSSDK: Warning: LogHttp: 00000B8A50631800: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=AE619948445AE9FD1503B895B45EE991, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.10.09-13.32.51:578][465]LogEOSSDK: Warning: LogHttp: 00000B8A50631800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.10.09-13.32.51:578][466]LogEOSSDK: Warning: LogHttp: 00000B8A50631800: libcurl info message cache 0 (Could not resolve host: api.epicgames.dev)
+[2025.10.09-13.32.51:578][466]LogEOSSDK: Warning: LogHttp: 00000B8A50631800: libcurl info message cache 1 (Closing connection)
+[2025.10.09-13.32.51:578][466]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=AE619948445AE9FD1503B895B45EE991
+[2025.10.09-13.32.52:611][476]LogEOSSDK: Warning: LogHttp: Retry 1 on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=AE619948445AE9FD1503B895B45EE991
+[2025.10.09-13.32.53:128][485]LogEOSSDK: Warning: LogHttp: Success on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.16.4-36651368&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=AE619948445AE9FD1503B895B45EE991
+[2025.10.09-13.32.54:090][491]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:57078'.
+[2025.10.09-13.32.54:100][491]LogUdpMessaging: Display: Added local interface '192.168.1.44' to multicast group '230.0.0.1:6666'
+[2025.10.09-13.33.29:956][563]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6347.128418
+[2025.10.09-13.33.33:891][681]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.09-13.33.33:891][681]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6351.030273, Update Interval: 319.722900
+[2025.10.09-15.21.18:537][765]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [6223 Seconds] waiting for h/w. InstanceID=1
+[2025.10.09-15.21.19:330][766]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.10.09-15.21.19:330][766]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=25128
+[2025.10.09-15.21.19:383][766]LogAutomationController: Ignoring very large delta of 6222.68 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.10.09-15.21.19:427][768]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.10.09-15.21.19:431][768]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{58ea4715-9790-4598-9427-e0f8b9d39fd0}, Name=Altavoces (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=69.09
+[2025.10.09-15.21.19:431][768]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.10.09-15.21.19:455][768]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.10.09-15.22.15:323][335]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Enemy/Insect/BP_Insect.BP_Insect
+[2025.10.09-15.22.15:324][335]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_51
+[2025.10.09-15.22.15:325][335]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_51'.
+[2025.10.09-15.22.17:611][374]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12874.823242
+[2025.10.09-15.22.18:001][382]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.09-15.22.18:001][382]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12875.197266, Update Interval: 355.255585
+[2025.10.09-15.22.22:383][488]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SkeletalMesh_64.svg'. File could not be found
+[2025.10.09-15.22.27:344][577]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'DefaultForeground'.'
+[2025.10.09-15.22.27:390][577]LogEditorClassViewer: Warning: AssetRegistry Blueprint /Game/AncientContent/Blueprints/Abilities/GameplayAbilityUtils.GameplayAbilityUtils is missing tag value for GeneratedClass. Blueprint will not be available to ClassViewer when unloaded.
+[2025.10.09-15.22.27:472][577]LogEditorClassViewer: Warning: Class /Game/Clinic/Demo/FirstPersonBP/FirstPersonOverview.FirstPersonOverview_C has parent /Script/IntroTutorials.EditorTutorial, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.10.09-15.22.27:472][577]LogEditorClassViewer: Warning: Class /Game/AncientContent/Blueprints/Character/BP_VaultingTriggerComponent.BP_VaultingTriggerComponent_C has parent /Script/AncientGame.AncientGameBoxComponentBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.10.09-15.22.27:472][577]LogEditorClassViewer: Warning: Class /Game/AncientContent/Blueprints/Character/BP_EchoCharacter.BP_EchoCharacter_C has parent /Script/ModularGameplayActors.ModularCharacter, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.10.09-15.22.27:472][577]LogEditorClassViewer: Warning: Class /Game/AncientContent/Blueprints/Camera/BP_ThirdPersonCameraMode.BP_ThirdPersonCameraMode_C has parent /Script/AncientGame.SpringArmCameraMode, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.10.09-15.22.27:472][577]LogEditorClassViewer: Warning: Class /Game/AncientContent/Blueprints/Abilities/GA_Vault.GA_Vault_C has parent /Script/GameplayAbilities.GameplayAbility, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.10.09-15.22.27:472][577]LogEditorClassViewer: Warning: Class /Game/AncientContent/Blueprints/Abilities/GA_SitStand.GA_SitStand_C has parent /Script/GameplayAbilities.GameplayAbility, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.10.09-15.22.27:472][577]LogEditorClassViewer: Warning: Class /Game/AncientContent/Characters/Echo/Echo_AnimBP.Echo_AnimBP_C has parent /Script/AncientGame.AncientGameAnimInstance, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.10.09-15.22.56:282][316]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2025.10.09-15.23.05:640][544]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.10.09-15.23.05:691][544]LogContentBrowser: Creating deferred item: NewFolder
+[2025.10.09-15.23.05:719][545]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.10.09-15.23.08:530][627]LogContentBrowser: Attempting asset rename: NewFolder -> Animations
+[2025.10.09-15.23.08:530][627]LogContentBrowser: End creating deferred item NewFolder
+[2025.10.09-15.24.47:172][378]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_52
+[2025.10.09-15.24.47:172][378]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_52'.
+[2025.10.09-15.24.47:351][378]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_53
+[2025.10.09-15.24.47:351][378]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_53'.
+[2025.10.09-15.24.50:505][378]LogSlate: Window 'Pick Skeleton' being destroyed
+[2025.10.09-15.24.50:537][378]LogContentBrowser: Deferred new asset file creation: NewAnimMontage
+[2025.10.09-15.24.50:553][378]LogContentBrowser: Creating deferred item: NewAnimMontage
+[2025.10.09-15.24.50:557][378]LogAutomationController: Ignoring very large delta of 3.88 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.10.09-15.24.50:620][380]LogContentBrowser: Renaming the item being created (Deferred Item: NewAnimMontage).
+[2025.10.09-15.24.54:637][491]LogContentBrowser: Attempting asset rename: NewAnimMontage -> AM_Death
+[2025.10.09-15.24.54:738][491]LogContentBrowser: End creating deferred item NewAnimMontage
+[2025.10.09-15.26.52:545][553]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/Blueprints/Enemy/Insect/Animations/AM_Death.AM_Death
+[2025.10.09-15.26.52:689][553]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2025.10.09-15.26.52:689][553]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.09-15.26.52:780][554]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2025.10.09-15.27.14:554][ 41]LogSlate: Took 0.051052 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2025.10.09-15.27.14:554][ 41]LogSlate: Last resort fallback font was requested. Font: '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf', Character: ' (U+f061)'
+[2025.10.09-15.27.14:571][ 41]LogSlate: Took 0.014641 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2025.10.09-15.27.19:714][175]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_54
+[2025.10.09-15.27.19:714][175]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_54'.
+[2025.10.09-15.28.06:628][305]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2025.10.09-15.28.07:729][305]LogSlate: Window 'Save Content' being destroyed
+[2025.10.09-15.28.07:767][305]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.09-15.28.07:812][305]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Enemy/Insect/Animations/AM_Death] ([1] browsable assets)...
+[2025.10.09-15.28.07:842][305]OBJ SavePackage:     Rendered thumbnail for [AnimMontage /Game/Blueprints/Enemy/Insect/Animations/AM_Death.AM_Death]
+[2025.10.09-15.28.07:842][305]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemy/Insect/Animations/AM_Death]
+[2025.10.09-15.28.07:844][305]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemy/Insect/Animations/AM_Death
+[2025.10.09-15.28.07:845][305]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/AM_DeathD327440E4751F77A124C19AFED2954F6.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Enemy/Insect/Animations/AM_Death.uasset'
+[2025.10.09-15.28.07:947][305]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Enemy/Insect/BP_Insect] ([2] browsable assets)...
+[2025.10.09-15.28.07:961][305]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Enemy/Insect/BP_Insect.BP_Insect]
+[2025.10.09-15.28.07:961][305]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemy/Insect/BP_Insect]
+[2025.10.09-15.28.07:969][305]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemy/Insect/BP_Insect
+[2025.10.09-15.28.07:970][305]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/BP_Insect51DC890A4EE9010286EA558017D184F7.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Enemy/Insect/BP_Insect.uasset'
+[2025.10.09-15.28.08:002][305]LogFileHelpers: InternalPromptForCheckoutAndSave took 235.751 ms (total: 2.12 sec)
+[2025.10.09-15.28.08:062][305]LogContentValidation: Display: Starting to validate 2 assets
+[2025.10.09-15.28.08:063][305]LogContentValidation: Enabled validators:
+[2025.10.09-15.28.08:063][305]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.09-15.28.08:063][305]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.09-15.28.08:063][305]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.09-15.28.08:063][305]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.09-15.28.08:063][305]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.09-15.28.08:063][305]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.09-15.28.08:063][305]AssetCheck: /Game/Blueprints/Enemy/Insect/Animations/AM_Death Validating asset
+[2025.10.09-15.28.08:063][305]AssetCheck: /Game/Blueprints/Enemy/Insect/BP_Insect Validating asset
+[2025.10.09-15.28.52:069][318]LogContentBrowser: Attempting asset rename: AM_Death -> AM_InsectDeath
+[2025.10.09-15.28.52:303][318]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.09-15.28.52:303][318]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enemy/Insect/Animations/AM_InsectDeath] ([1] browsable assets)...
+[2025.10.09-15.28.52:303][318]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemy/Insect/Animations/AM_InsectDeath]
+[2025.10.09-15.28.52:305][318]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemy/Insect/Animations/AM_InsectDeath
+[2025.10.09-15.28.52:305][318]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/AM_InsectDeathDEAEDFE34E4919A67FE0FEA76818CFDD.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Enemy/Insect/Animations/AM_InsectDeath.uasset'
+[2025.10.09-15.28.52:393][318]LogFileHelpers: InternalPromptForCheckoutAndSave took 90.036 ms (total: 2.21 sec)
+[2025.10.09-15.28.52:542][318]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2025.10.09-15.28.52:568][318]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2025.10.09-15.28.52:595][318]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.10.09-15.28.52:685][318]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.09-15.28.52:685][318]LogContentValidation: Enabled validators:
+[2025.10.09-15.28.52:685][318]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.09-15.28.52:685][318]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.09-15.28.52:686][318]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.09-15.28.52:686][318]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.09-15.28.52:686][318]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.09-15.28.52:686][318]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.09-15.28.52:686][318]AssetCheck: /Game/Blueprints/Enemy/Insect/Animations/AM_InsectDeath Validating asset
+[2025.10.09-15.29.01:800][584]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13278.969727
+[2025.10.09-15.29.02:169][595]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.09-15.29.02:169][595]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13279.303711, Update Interval: 318.948334
+[2025.10.09-15.29.41:708][571]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2025.10.09-15.29.42:756][571]LogSlate: Window 'Save Content' being destroyed
+[2025.10.09-15.29.42:789][571]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.09-15.29.42:845][571]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Enemy/Insect/BP_Insect] ([2] browsable assets)...
+[2025.10.09-15.29.42:874][571]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Enemy/Insect/BP_Insect.BP_Insect]
+[2025.10.09-15.29.42:874][571]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemy/Insect/BP_Insect]
+[2025.10.09-15.29.42:880][571]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemy/Insect/BP_Insect
+[2025.10.09-15.29.42:882][571]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/BP_InsectACF9B357476ECF6A34B674B18A905394.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Enemy/Insect/BP_Insect.uasset'
+[2025.10.09-15.29.42:914][571]LogFileHelpers: InternalPromptForCheckoutAndSave took 125.673 ms (total: 2.33 sec)
+[2025.10.09-15.29.42:983][571]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.09-15.29.42:983][571]LogContentValidation: Enabled validators:
+[2025.10.09-15.29.42:983][571]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.09-15.29.42:983][571]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.09-15.29.42:983][571]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.09-15.29.42:983][571]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.09-15.29.42:983][571]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.09-15.29.42:983][571]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.09-15.29.42:984][571]AssetCheck: /Game/Blueprints/Enemy/Insect/BP_Insect Validating asset
+[2025.10.09-15.29.44:652][605]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2025.10.09-15.30.38:899][102]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2025.10.09-15.30.38:899][102]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.09-15.30.38:928][102]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2025.10.09-15.30.38:928][102]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.09-15.30.38:977][102]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2025.10.09-15.30.38:977][102]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.09-15.30.39:025][102]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2025.10.09-15.30.40:172][122]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2025.10.09-15.30.40:172][122]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.09-15.30.40:277][122]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2025.10.09-15.30.41:399][139]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2025.10.09-15.30.41:399][139]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.09-15.30.41:464][139]LogWorld: UWorld::CleanupWorld for World_54, bSessionEnded=true, bCleanupResources=true
+[2025.10.09-15.30.41:464][139]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.09-15.30.41:471][139]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2025.10.09-15.30.41:471][139]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.09-15.30.41:514][139]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2025.10.09-15.30.54:137][434]LogContentBrowser: Deferred new asset file creation: BP_Weapon1
+[2025.10.09-15.30.54:184][434]LogContentBrowser: Creating deferred item: BP_Weapon1
+[2025.10.09-15.30.54:207][435]LogContentBrowser: Renaming the item being created (Deferred Item: BP_Weapon1).
+[2025.10.09-15.31.01:762][660]LogContentBrowser: Attempting asset rename: BP_Weapon1 -> BP_InsectWeapon
+[2025.10.09-15.31.01:858][660]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2025.10.09-15.31.01:879][660]LogContentBrowser: End creating deferred item BP_Weapon1
+[2025.10.09-15.31.01:880][660]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_55
+[2025.10.09-15.31.01:880][660]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_55'.
+[2025.10.09-15.31.04:894][746]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2025.10.09-15.31.06:020][746]LogSlate: Window 'Save Content' being destroyed
+[2025.10.09-15.31.06:050][746]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.09-15.31.06:110][746]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Items/Weapons/BP_InsectWeapon] ([2] browsable assets)...
+[2025.10.09-15.31.06:140][746]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Items/Weapons/BP_InsectWeapon.BP_InsectWeapon]
+[2025.10.09-15.31.06:140][746]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_56
+[2025.10.09-15.31.06:141][746]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_56'.
+[2025.10.09-15.31.06:175][746]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/Blueprints/Items/Weapons/BP_InsectWeapon.BP_InsectWeapon_C]
+[2025.10.09-15.31.06:175][746]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Items/Weapons/BP_InsectWeapon]
+[2025.10.09-15.31.06:188][746]LogSavePackage: Moving output files for package: /Game/Blueprints/Items/Weapons/BP_InsectWeapon
+[2025.10.09-15.31.06:188][746]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/BP_InsectWeaponBB9B8DF04B768088FF2A4F86B930CDDD.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Items/Weapons/BP_InsectWeapon.uasset'
+[2025.10.09-15.31.06:228][746]LogFileHelpers: InternalPromptForCheckoutAndSave took 177.474 ms (total: 2.51 sec)
+[2025.10.09-15.31.06:290][746]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.09-15.31.06:290][746]LogContentValidation: Enabled validators:
+[2025.10.09-15.31.06:290][746]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.09-15.31.06:290][746]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.09-15.31.06:290][746]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.09-15.31.06:290][746]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.09-15.31.06:290][746]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.09-15.31.06:290][746]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.09-15.31.06:290][746]AssetCheck: /Game/Blueprints/Items/Weapons/BP_InsectWeapon Validating asset
+[2025.10.09-15.31.10:289][853]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Items/Weapons/BP_InsectWeapon.BP_InsectWeapon
+[2025.10.09-15.31.10:289][853]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_57
+[2025.10.09-15.31.10:289][853]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_57'.
+[2025.10.09-15.32.14:140][456]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2025.10.09-15.32.14:143][456]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Minimal_Default_2' took 0.067
+[2025.10.09-15.32.14:144][456]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Items/Weapons/BP_InsectWeapon] ([2] browsable assets)...
+[2025.10.09-15.32.14:278][456]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Items/Weapons/BP_InsectWeapon.BP_InsectWeapon]
+[2025.10.09-15.32.14:279][456]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Items/Weapons/BP_InsectWeapon]
+[2025.10.09-15.32.14:301][456]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Items/Weapons/BP_InsectWeapon_Auto5
+[2025.10.09-15.32.14:301][456]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/BP_InsectWeapon_Auto56141C79F4CB28DD38A39D0AFBBB0469D.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Autosaves/Game/Blueprints/Items/Weapons/BP_InsectWeapon_Auto5.uasset'
+[2025.10.09-15.32.14:304][456]LogFileHelpers: Auto-saving content packages took 0.161
+[2025.10.09-15.32.33:893][980]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2025.10.09-15.32.45:554][237]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_58
+[2025.10.09-15.32.45:555][237]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_58'.
+[2025.10.09-15.32.47:147][258]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SkeletalMesh_64.svg'. File could not be found
+[2025.10.09-15.32.47:172][259]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_59
+[2025.10.09-15.32.47:172][259]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_59'.
+[2025.10.09-15.32.48:549][294]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/ParagonMinions/Characters/Buff/Buff_Blue/Meshes/Buff_Blue.Buff_Blue
+[2025.10.09-15.32.48:608][294]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_60
+[2025.10.09-15.32.48:609][294]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM6) returned false, for scene: 'World /Engine/Transient.World_60'.
+[2025.10.09-15.32.48:633][294]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_60:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.10.09-15.35.04:167][780]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13641.369141
+[2025.10.09-15.35.04:464][789]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.09-15.35.04:464][789]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13641.632812, Update Interval: 359.990845
+[2025.10.09-15.35.28:233][411]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2025.10.09-15.35.28:886][411]LogSlate: Window 'Save Content' being destroyed
+[2025.10.09-15.35.28:922][411]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.09-15.35.28:976][411]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Items/Weapons/BP_InsectWeapon] ([2] browsable assets)...
+[2025.10.09-15.35.29:008][411]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Items/Weapons/BP_InsectWeapon.BP_InsectWeapon]
+[2025.10.09-15.35.29:009][411]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Items/Weapons/BP_InsectWeapon]
+[2025.10.09-15.35.29:024][411]LogSavePackage: Moving output files for package: /Game/Blueprints/Items/Weapons/BP_InsectWeapon
+[2025.10.09-15.35.29:025][411]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/BP_InsectWeapon4534425D43990E14B8E9EC99A417F321.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Items/Weapons/BP_InsectWeapon.uasset'
+[2025.10.09-15.35.29:028][411]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ParagonMinions/Characters/Buff/Buff_Blue/Meshes/Buff_Blue_Skeleton] ([1] browsable assets)...
+[2025.10.09-15.35.29:047][411]OBJ SavePackage:     Rendered thumbnail for [Skeleton /Game/ParagonMinions/Characters/Buff/Buff_Blue/Meshes/Buff_Blue_Skeleton.Buff_Blue_Skeleton]
+[2025.10.09-15.35.29:047][411]OBJ SavePackage: Finished generating thumbnails for package [/Game/ParagonMinions/Characters/Buff/Buff_Blue/Meshes/Buff_Blue_Skeleton]
+[2025.10.09-15.35.29:050][411]LogSavePackage: Moving output files for package: /Game/ParagonMinions/Characters/Buff/Buff_Blue/Meshes/Buff_Blue_Skeleton
+[2025.10.09-15.35.29:051][411]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/Buff_Blue_Skeleton8EF67250434BF869173E279C8B48A6F6.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/ParagonMinions/Characters/Buff/Buff_Blue/Meshes/Buff_Blue_Skeleton.uasset'
+[2025.10.09-15.35.29:088][411]LogFileHelpers: InternalPromptForCheckoutAndSave took 166.238 ms (total: 2.68 sec)
+[2025.10.09-15.35.29:150][411]LogContentValidation: Display: Starting to validate 2 assets
+[2025.10.09-15.35.29:150][411]LogContentValidation: Enabled validators:
+[2025.10.09-15.35.29:150][411]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.09-15.35.29:150][411]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.09-15.35.29:150][411]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.09-15.35.29:150][411]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.09-15.35.29:150][411]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.09-15.35.29:150][411]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.09-15.35.29:151][411]AssetCheck: /Game/Blueprints/Items/Weapons/BP_InsectWeapon Validating asset
+[2025.10.09-15.35.29:151][411]AssetCheck: /Game/ParagonMinions/Characters/Buff/Buff_Blue/Meshes/Buff_Blue_Skeleton Validating asset
+[2025.10.09-15.37.55:219][608]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2025.10.09-15.38.01:211][741]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.09-15.38.01:267][741]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Items/Weapons/BP_InsectWeapon] ([2] browsable assets)...
+[2025.10.09-15.38.01:296][741]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Items/Weapons/BP_InsectWeapon.BP_InsectWeapon]
+[2025.10.09-15.38.01:296][741]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Items/Weapons/BP_InsectWeapon]
+[2025.10.09-15.38.01:312][741]LogSavePackage: Moving output files for package: /Game/Blueprints/Items/Weapons/BP_InsectWeapon
+[2025.10.09-15.38.01:313][741]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/BP_InsectWeapon80D246AE418CD5E440D35A9FE9629310.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Items/Weapons/BP_InsectWeapon.uasset'
+[2025.10.09-15.38.01:352][741]LogFileHelpers: InternalPromptForCheckoutAndSave took 139.772 ms (total: 2.82 sec)
+[2025.10.09-15.38.01:425][741]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.09-15.38.01:426][741]LogContentValidation: Enabled validators:
+[2025.10.09-15.38.01:426][741]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.09-15.38.01:426][741]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.09-15.38.01:426][741]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.09-15.38.01:426][741]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.09-15.38.01:426][741]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.09-15.38.01:426][741]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.09-15.38.01:426][741]AssetCheck: /Game/Blueprints/Items/Weapons/BP_InsectWeapon Validating asset
+[2025.10.09-15.38.48:440][ 96]LogEditorClassViewer: Warning: AssetRegistry Blueprint /Game/AncientContent/Blueprints/Abilities/GameplayAbilityUtils.GameplayAbilityUtils is missing tag value for GeneratedClass. Blueprint will not be available to ClassViewer when unloaded.
+[2025.10.09-15.38.48:469][ 96]LogEditorClassViewer: Warning: Class /Game/Clinic/Demo/FirstPersonBP/FirstPersonOverview.FirstPersonOverview_C has parent /Script/IntroTutorials.EditorTutorial, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.10.09-15.38.48:469][ 96]LogEditorClassViewer: Warning: Class /Game/AncientContent/Blueprints/Character/BP_VaultingTriggerComponent.BP_VaultingTriggerComponent_C has parent /Script/AncientGame.AncientGameBoxComponentBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.10.09-15.38.48:469][ 96]LogEditorClassViewer: Warning: Class /Game/AncientContent/Blueprints/Character/BP_EchoCharacter.BP_EchoCharacter_C has parent /Script/ModularGameplayActors.ModularCharacter, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.10.09-15.38.48:469][ 96]LogEditorClassViewer: Warning: Class /Game/AncientContent/Blueprints/Camera/BP_ThirdPersonCameraMode.BP_ThirdPersonCameraMode_C has parent /Script/AncientGame.SpringArmCameraMode, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.10.09-15.38.48:469][ 96]LogEditorClassViewer: Warning: Class /Game/AncientContent/Blueprints/Abilities/GA_Vault.GA_Vault_C has parent /Script/GameplayAbilities.GameplayAbility, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.10.09-15.38.48:469][ 96]LogEditorClassViewer: Warning: Class /Game/AncientContent/Blueprints/Abilities/GA_SitStand.GA_SitStand_C has parent /Script/GameplayAbilities.GameplayAbility, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.10.09-15.38.48:469][ 96]LogEditorClassViewer: Warning: Class /Game/AncientContent/Characters/Echo/Echo_AnimBP.Echo_AnimBP_C has parent /Script/AncientGame.AncientGameAnimInstance, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.10.09-15.38.51:475][162]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2025.10.09-15.38.52:316][162]LogSlate: Window 'Save Content' being destroyed
+[2025.10.09-15.38.52:355][162]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.09-15.38.52:429][162]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Enemy/Insect/BP_Insect] ([2] browsable assets)...
+[2025.10.09-15.38.52:458][162]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Enemy/Insect/BP_Insect.BP_Insect]
+[2025.10.09-15.38.52:459][162]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemy/Insect/BP_Insect]
+[2025.10.09-15.38.52:467][162]LogSavePackage: Moving output files for package: /Game/Blueprints/Enemy/Insect/BP_Insect
+[2025.10.09-15.38.52:469][162]LogSavePackage: Moving '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Saved/BP_Insect5B1D0CD446B04E8934BE35A714D4EAC2.tmp' to '../../../../../../Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Content/Blueprints/Enemy/Insect/BP_Insect.uasset'
+[2025.10.09-15.38.52:503][162]LogFileHelpers: InternalPromptForCheckoutAndSave took 149.170 ms (total: 2.97 sec)
+[2025.10.09-15.38.52:572][162]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.09-15.38.52:572][162]LogContentValidation: Enabled validators:
+[2025.10.09-15.38.52:572][162]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.09-15.38.52:572][162]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.09-15.38.52:572][162]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.09-15.38.52:572][162]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.09-15.38.52:572][162]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.09-15.38.52:572][162]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.09-15.38.52:573][162]AssetCheck: /Game/Blueprints/Enemy/Insect/BP_Insect Validating asset
+[2025.10.09-15.41.47:000][376]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14044.144531
+[2025.10.09-15.41.47:304][385]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.09-15.41.47:304][385]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14044.414062, Update Interval: 303.689697
