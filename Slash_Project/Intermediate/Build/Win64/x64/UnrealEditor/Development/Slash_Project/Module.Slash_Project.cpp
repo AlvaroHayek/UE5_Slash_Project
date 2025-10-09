@@ -31,6 +31,5 @@
 #include "C:/Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Source/Slash_Project/Private/Items/Item.cpp"
 #include "C:/Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Source/Slash_Project/Private/Items/Soul.cpp"
 #include "C:/Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Source/Slash_Project/Private/Items/Treasure.cpp"
-#include "C:/Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Source/Slash_Project/Private/Items/Weapons/Weapon.cpp"
 #include "C:/Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Source/Slash_Project/Private/Pawns/Bird.cpp"
 #include "C:/Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Source/Slash_Project/Slash_Project.cpp"
