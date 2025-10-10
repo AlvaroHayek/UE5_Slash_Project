@@ -3,6 +3,25 @@
 
 #include "Items/Soul.h"
 #include "Interfaces/PickupInterface.h"
+#include "Kismet/KismetSystemLibrary.h"
+
+void ASoul::Tick(float DeltaTime)
+{
+	Super::Tick(DeltaTime);
+}
+
+void ASoul::BeginPlay()
+{
+	Super::BeginPlay();
+
+	const FVector Start = GetActorLocation();
+	const FVector End = Start - FVector(0.f, 0.f, 2000.f);
+
+	UKismetSystemLibrary::LineTraceSingleForObjects(
+
+	)
+
+}
 
 void ASoul::OnSphereOverlap(UPrimitiveComponent* OverlappedComponent, AActor* OtherActor, UPrimitiveComponent* OtherComp, int32 OtherBodyIndex, bool bFromSweep, const FHitResult& SweepResult)
 {
