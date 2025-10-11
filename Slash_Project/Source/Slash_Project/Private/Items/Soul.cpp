@@ -8,6 +8,13 @@
 void ASoul::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
+
+	const double LocationZ = GetActorLocation().Z;
+	if (LocationZ > DesiredZ)
+	{
+		const FVector DeltaLocation = FVector(0.f, 0.f, DriftRate * DeltaTime);
+		AddActorWorldOffset(DeltaLocation);
+	}
 }
 
 void ASoul::BeginPlay()
@@ -34,6 +41,7 @@ void ASoul::BeginPlay()
 		HitResult,
 		true
 	);
+	DesiredZ = HitResult.ImpactPoint.Z + 50.f;
 
 }
 
