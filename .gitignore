@@ -1,6 +1,23 @@
 # Visual Studio 2015 user specific files
 .vs/
 
+# Ignore Unreal Engine Binaries and Intermediate folders
+/Binaries/
+/Intermediate/
+/Saved/
+
+*.VC.db
+*.opensdf
+*.sdf
+*.suo
+*.user
+*.userprefs
+*.log
+*.tlog
+*.obj
+*.pch
+*.pdb
+
 # Compiled Object files
 *.slo
 *.lo
