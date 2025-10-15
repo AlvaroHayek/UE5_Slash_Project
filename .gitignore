@@ -96,3 +96,12 @@ Saved/**/*.ini
 
 # Ignore all .bin files (if they're not required)
 *.bin
+
+# Ignore all .json files in Saved/
+Saved/**/*.json
+
+# Ignore all .png files in Saved/
+Saved/**/*.png
+
+# Ignore a concrete file
+Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
