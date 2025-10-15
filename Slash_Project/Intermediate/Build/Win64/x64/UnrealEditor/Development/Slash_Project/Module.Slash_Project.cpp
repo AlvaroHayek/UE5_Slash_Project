@@ -22,6 +22,7 @@
 #include "C:/Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Source/Slash_Project/Private/Breakable/BreakableActor.cpp"
 #include "C:/Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Source/Slash_Project/Private/Characters/BaseCharacter.cpp"
 #include "C:/Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Source/Slash_Project/Private/Characters/SlashAnimInstance.cpp"
+#include "C:/Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Source/Slash_Project/Private/Characters/SlashCharacter.cpp"
 #include "C:/Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Source/Slash_Project/Private/Components/AttributeComponent.cpp"
 #include "C:/Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Source/Slash_Project/Private/Enemy/Enemy.cpp"
 #include "C:/Users/Usuario/Desktop/UnrealEngineUnity/UE5_Slash_Project/Slash_Project/Source/Slash_Project/Private/HUD/HealthBar.cpp"
