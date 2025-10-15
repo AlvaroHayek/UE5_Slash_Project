@@ -90,3 +90,9 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Ignore all .ini files in Saved/
+Saved/**/*.ini
+
+# Ignore all .bin files (if they're not required)
+*.bin
