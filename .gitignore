@@ -2,10 +2,10 @@
 .vs/
 
 # Ignore Unreal Engine Binaries and Intermediate folders
-/Binaries/
-/Build/
-/Intermediate/
-/Saved/
+**/Binaries/
+**/Build/
+**/Intermediate/
+**/Saved/
 
 *.VC.db
 *.opensdf
