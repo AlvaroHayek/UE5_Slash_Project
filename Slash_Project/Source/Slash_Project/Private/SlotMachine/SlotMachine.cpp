@@ -13,7 +13,7 @@ ASlotMachine::ASlotMachine()
 	TotalSpins = 0;
 	TotalPayout = 0;
 
-	Symbols = { TEXT("Cherry"), TEXT("Lemon"), TEXT("Orange"), TEXT("Bell"), TEXT("Seven"), TEXT("Diamond"), TEXT("Watermelon")}
+	Symbols = { TEXT("Cherry"), TEXT("Lemon"), TEXT("Orange"), TEXT("Bell"), TEXT("Seven"), TEXT("Diamond"), TEXT("Watermelon") };
 
 }
 
