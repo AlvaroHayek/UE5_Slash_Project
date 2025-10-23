@@ -22,12 +22,22 @@ protected:
 	virtual void BeginPlay() override;
 
 private:
+	UPROPERTY(VisibleAnywhere)
 	TArray<FString> Symbols;
+
+	UPROPERTY(VisibleAnywhere)
 	TArray<FString> CurrentSpin;
+
+	UPROPERTY(VisibleAnywhere)
 	int32 NumReels;
 
+	UPROPERTY(VisibleAnywhere)
 	int32 TotalSpins;
+
+	UPROPERTY(VisibleAnywhere)
 	int32 TotalPayout;
+
+	UPROPERTY(VisibleAnywhere)
 	int32 BetAmount;
 
 	bool CheckWin();
