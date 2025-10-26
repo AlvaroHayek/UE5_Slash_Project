@@ -31,6 +31,7 @@ void ASlotMachine::Tick(float DeltaTime)
 
 void ASlotMachine::SpinMachine()
 {
+// Delete previous spin
 	CurrentSpin.Empty();
 
 	for (int32 i = 0; i < NumReels; i++)
