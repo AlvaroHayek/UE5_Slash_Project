@@ -75,7 +75,7 @@ protected:
 
 private:
 	bool IsUnoccupied();
-	bool DeadOrAttacking();
+	bool DeadOrAttackingOrEquippingWeapon();
 	void InitializeSlashOverlay();
 	void SetHUDHealth();
 
