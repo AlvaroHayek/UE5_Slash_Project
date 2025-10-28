@@ -11,7 +11,7 @@ ASlotMachine::ASlotMachine()
 	SetRootComponent(SlotMachineMesh);
 
 	Capsule = CreateDefaultSubobject<UCapsuleComponent>(TEXT("Capsule"));
-
+	Capsule->SetupAttachment(GetRootComponent());
 
 	NumReels = 3;
 	BetAmount = 10;
