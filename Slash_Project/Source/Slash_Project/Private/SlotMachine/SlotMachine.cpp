@@ -6,14 +6,19 @@
 
 ASlotMachine::ASlotMachine()
 {
-	PrimaryActorTick.bCanEverTick = true;
+	PrimaryActorTick.bCanEverTick = false;
+	SlotMachineMesh = CreateDefaultSubobject<USkeletalMeshComponent>(TEXT("SlotMachineMesh"));
+	SetRootComponent(SlotMachineMesh);
+
+	Capsule = CreateDefaultSubobject<UCapsuleComponent>(TEXT("Capsule"));
+
 
 	NumReels = 3;
 	BetAmount = 10;
 	TotalSpins = 0;
 	TotalPayout = 0;
 
-	Symbols = { TEXT("Cherry"), TEXT("Lemon"), TEXT("Orange"), TEXT("Bell"), TEXT("Seven"), TEXT("Diamond"), TEXT("Watermelon") };
+	Symbols = { TEXT("Watermelon"), TEXT("Orange"), TEXT("Seven"), TEXT("Clover"), TEXT("Spade") };
 
 }
 

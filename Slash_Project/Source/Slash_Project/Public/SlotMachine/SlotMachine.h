@@ -5,6 +5,7 @@
 #include "CoreMinimal.h"
 #include "GameFramework/Actor.h"
 #include "SlotMachine.generated.h"
+#include "Components/CapsuleComponent.h"
 
 UCLASS()
 class SLASH_PROJECT_API ASlotMachine : public AActor
@@ -22,6 +23,12 @@ protected:
 	virtual void BeginPlay() override;
 
 private:
+	UPROPERTY(VisibleAnywhere)
+	USkeletalMeshComponent* SlotMachineMesh;
+
+	UPROPERTY(VisibleAnywhere)
+	UCapsuleComponent* Capsule;
+
 	UPROPERTY(VisibleAnywhere)
 	TArray<FString> Symbols;
 
