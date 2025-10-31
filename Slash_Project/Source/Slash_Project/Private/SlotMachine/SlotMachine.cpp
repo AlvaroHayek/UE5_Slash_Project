@@ -13,6 +13,8 @@ ASlotMachine::ASlotMachine()
 	Capsule = CreateDefaultSubobject<UCapsuleComponent>(TEXT("Capsule"));
 	Capsule->SetupAttachment(GetRootComponent());
 
+
+
 	NumReels = 3;
 	BetAmount = 10;
 	TotalSpins = 0;
