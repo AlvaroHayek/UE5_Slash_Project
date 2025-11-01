@@ -15,6 +15,7 @@ ASlotMachine::ASlotMachine()
 
 
 
+
 	NumReels = 3;
 	BetAmount = 10;
 	TotalSpins = 0;
