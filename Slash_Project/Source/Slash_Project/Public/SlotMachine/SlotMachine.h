@@ -5,16 +5,18 @@
 #include "CoreMinimal.h"
 #include "GameFramework/Actor.h"
 #include "Components/CapsuleComponent.h"
+#include "Interfaces/HitInterface.h"
 #include "SlotMachine.generated.h"
 
 UCLASS()
-class SLASH_PROJECT_API ASlotMachine : public AActor
+class SLASH_PROJECT_API ASlotMachine : public AActor, public IHitInterface
 {
 	GENERATED_BODY()
 	
 public:	
 	ASlotMachine();
 	virtual void Tick(float DeltaTime) override;
+	virtual void GetHit_Implementation(const FVector& ImpactPoint, AActor* Hitter) override;
 
 	UFUNCTION(BlueprintCallable, Category = "SlotMachine")
 	void SpinMachine();
@@ -47,6 +49,7 @@ private:
 	UPROPERTY(VisibleAnywhere)
 	int32 BetAmount;
 
+	bool IsSpining();
 	bool CheckWin();
 	void CalculateRTP();
 	

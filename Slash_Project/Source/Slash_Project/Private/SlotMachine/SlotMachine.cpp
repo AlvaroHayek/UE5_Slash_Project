@@ -9,13 +9,15 @@ ASlotMachine::ASlotMachine()
 	PrimaryActorTick.bCanEverTick = false;
 	SlotMachineMesh = CreateDefaultSubobject<USkeletalMeshComponent>(TEXT("SlotMachineMesh"));
 	SetRootComponent(SlotMachineMesh);
+	SlotMachineMesh->SetGenerateOverlapEvents(true);
+	SlotMachineMesh->SetCollisionResponseToChannel(ECollisionChannel::ECC_Camera, ECollisionResponse::ECR_Ignore);
+	SlotMachineMesh->SetCollisionResponseToChannel(ECollisionChannel::ECC_Pawn, ECollisionResponse::ECR_Ignore);
+
 
 	Capsule = CreateDefaultSubobject<UCapsuleComponent>(TEXT("Capsule"));
 	Capsule->SetupAttachment(GetRootComponent());
-
-
-
-
+	Capsule->SetCollisionResponseToAllChannels(ECollisionResponse::ECR_Ignore);
+	Capsule->SetCollisionResponseToChannel(ECollisionChannel::ECC_Pawn, ECollisionResponse::ECR_Block);
 
 	NumReels = 3;
 	BetAmount = 10;
@@ -36,6 +38,10 @@ void ASlotMachine::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
 
+}
+
+void ASlotMachine::GetHit_Implementation(const FVector& ImpactPoint, AActor* Hitter)
+{
 }
 
 void ASlotMachine::SpinMachine()
