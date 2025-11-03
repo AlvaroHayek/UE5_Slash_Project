@@ -3,6 +3,7 @@
 
 #include "SlotMachine/SlotMachine.h"
 #include "Math/UnrealMathUtility.h"
+#include "Components/CapsuleComponent.h"
 
 ASlotMachine::ASlotMachine()
 {
@@ -45,6 +46,10 @@ void ASlotMachine::GetHit_Implementation(const FVector& ImpactPoint, AActor* Hit
 	if (bIsSpining) return;
 	bIsSpining = true;
 	UWorld* World = GetWorld();
+	if (World)
+	{
+		SpinMachine();
+	}
 }
 
 void ASlotMachine::SpinMachine()
@@ -76,6 +81,7 @@ void ASlotMachine::SpinMachine()
 	}
 
 	CalculateRTP();
+	bIsSpining = false;
 }
 
 bool ASlotMachine::CheckWin()

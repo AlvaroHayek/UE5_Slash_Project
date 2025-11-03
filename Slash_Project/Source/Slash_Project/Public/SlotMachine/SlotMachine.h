@@ -4,9 +4,10 @@
 
 #include "CoreMinimal.h"
 #include "GameFramework/Actor.h"
-#include "Components/CapsuleComponent.h"
 #include "Interfaces/HitInterface.h"
 #include "SlotMachine.generated.h"
+
+class UCapsuleComponent;
 
 UCLASS()
 class SLASH_PROJECT_API ASlotMachine : public AActor, public IHitInterface
