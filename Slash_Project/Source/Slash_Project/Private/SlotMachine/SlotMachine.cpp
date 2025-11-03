@@ -4,6 +4,7 @@
 #include "SlotMachine/SlotMachine.h"
 #include "Math/UnrealMathUtility.h"
 #include "Components/CapsuleComponent.h"
+#include "Engine/GameEngine.h"
 
 ASlotMachine::ASlotMachine()
 {
@@ -32,7 +33,10 @@ ASlotMachine::ASlotMachine()
 void ASlotMachine::BeginPlay()
 {
 	Super::BeginPlay();
-	
+	if (GEngine) 
+	{
+		GEngine->AddOnScreenDebugMessage(-1, 15.0f, FColor::Yellow, TEXT("Spinning!"));
+	}
 }
 
 void ASlotMachine::Tick(float DeltaTime)
@@ -43,6 +47,10 @@ void ASlotMachine::Tick(float DeltaTime)
 
 void ASlotMachine::GetHit_Implementation(const FVector& ImpactPoint, AActor* Hitter)
 {
+	if (GEngine)
+	{
+		GEngine->AddOnScreenDebugMessage(-1, 15.0f, FColor::Red, TEXT("Spinning!"));
+	}
 	if (bIsSpining) return;
 	bIsSpining = true;
 	UWorld* World = GetWorld();
