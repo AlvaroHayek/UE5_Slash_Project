@@ -18,7 +18,7 @@ public:
 	virtual void Tick(float DeltaTime) override;
 	virtual void GetHit_Implementation(const FVector& ImpactPoint, AActor* Hitter) override;
 
-	UFUNCTION(BlueprintCallable, Category = "SlotMachine")
+	UFUNCTION(BlueprintCallable, Category = "Slot Machine Properties")
 	void SpinMachine();
 
 protected:
@@ -31,25 +31,25 @@ private:
 	UPROPERTY(VisibleAnywhere)
 	UCapsuleComponent* Capsule;
 
-	UPROPERTY(VisibleAnywhere)
+	UPROPERTY(VisibleAnywhere, Category = "Slot Machine Properties")
 	TArray<FString> Symbols;
 
-	UPROPERTY(VisibleAnywhere)
+	UPROPERTY(VisibleAnywhere, Category = "Slot Machine Properties")
 	TArray<FString> CurrentSpin;
 
-	UPROPERTY(VisibleAnywhere)
+	UPROPERTY(VisibleAnywhere, Category = "Slot Machine Properties")
 	int32 NumReels;
 
-	UPROPERTY(VisibleAnywhere)
+	UPROPERTY(VisibleAnywhere, Category = "Slot Machine Properties")
 	int32 TotalSpins;
 
-	UPROPERTY(VisibleAnywhere)
+	UPROPERTY(VisibleAnywhere, Category = "Slot Machine Properties")
 	int32 TotalPayout;
 
-	UPROPERTY(VisibleAnywhere)
+	UPROPERTY(VisibleAnywhere, Category = "Slot Machine Properties")
 	int32 BetAmount;
 
-	bool IsSpining();
+	bool bIsSpining = false;
 	bool CheckWin();
 	void CalculateRTP();
 	

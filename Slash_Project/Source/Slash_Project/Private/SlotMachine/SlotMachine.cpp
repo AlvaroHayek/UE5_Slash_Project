@@ -42,6 +42,9 @@ void ASlotMachine::Tick(float DeltaTime)
 
 void ASlotMachine::GetHit_Implementation(const FVector& ImpactPoint, AActor* Hitter)
 {
+	if (bIsSpining) return;
+	bIsSpining = true;
+	UWorld* World = GetWorld();
 }
 
 void ASlotMachine::SpinMachine()
