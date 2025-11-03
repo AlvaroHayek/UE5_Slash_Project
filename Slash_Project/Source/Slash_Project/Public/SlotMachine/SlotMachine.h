@@ -5,6 +5,7 @@
 #include "CoreMinimal.h"
 #include "GameFramework/Actor.h"
 #include "Interfaces/HitInterface.h"
+#include "SlotMachine/SlotTypes.h"
 #include "SlotMachine.generated.h"
 
 class UCapsuleComponent;
