@@ -5,6 +5,7 @@
 #include "Math/UnrealMathUtility.h"
 #include "Components/CapsuleComponent.h"
 #include "Engine/GameEngine.h"
+#include "SlotMachine/SlotTypes.h"
 
 ASlotMachine::ASlotMachine()
 {

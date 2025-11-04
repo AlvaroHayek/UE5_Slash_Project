@@ -9,7 +9,7 @@ enum class ESlotState : uint8
 
 
 UENUM(BlueprintType)
-enum class ESlotResult : uint8
+enum ESlotResult
 {
 	ESR_SlotResult1 UMETA(DisplayName = "SlotResult1"),
 	ESR_SlotResult2 UMETA(DisplayName = "SlotResult2"),

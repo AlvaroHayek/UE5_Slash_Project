@@ -9,6 +9,7 @@
 #include "SlotMachine.generated.h"
 
 class UCapsuleComponent;
+class UAnimMontage;
 
 UCLASS()
 class SLASH_PROJECT_API ASlotMachine : public AActor, public IHitInterface
@@ -25,6 +26,9 @@ public:
 
 protected:
 	virtual void BeginPlay() override;
+
+	UPROPERTY(BlueprintReadOnly)
+	TEnumAsByte<ESlotResult> SlotResult;
 
 private:
 	UPROPERTY(VisibleAnywhere)
@@ -51,9 +55,16 @@ private:
 	UPROPERTY(VisibleAnywhere, Category = "Slot Machine Properties")
 	int32 BetAmount;
 
+	UPROPERTY(EditDefaultsOnly, Category = "Slot Machine Properties")
+	UAnimMontage* SlotSpinMontage;
+
+	UPROPERTY(EditAnywhere, Category = "Slot Machine Properties")
+	TArray<FName> SlotResultSections;
+
 	bool bIsSpining = false;
 	bool CheckWin();
 	void CalculateRTP();
 	
-
+public:
+	FORCEINLINE TEnumAsByte<ESlotResult> GetSlotResult() const { return SlotResult; }
 };
