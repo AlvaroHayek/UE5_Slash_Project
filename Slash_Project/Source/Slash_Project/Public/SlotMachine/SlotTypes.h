@@ -1,6 +1,14 @@
 #pragma once
 
 UENUM(BlueprintType)
+enum class ESlotState : uint8
+{
+	ESS_Idle UMETA(DisplayName = "Idle"),
+	ESS_Moving UMETA(DisplayName = "Moving")
+};
+
+
+UENUM(BlueprintType)
 enum class ESlotResult : uint8
 {
 	ESR_SlotResult1 UMETA(DisplayName = "SlotResult1"),
