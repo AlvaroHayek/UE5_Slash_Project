@@ -31,6 +31,9 @@ protected:
 	TEnumAsByte<ESlotResult> SlotResult;
 
 private:
+	void PlayMontageSection(UAnimMontage* Montage, const FName& SectionName);
+	int32 PlayRandomMontageSection(UAnimMontage* Montage, const TArray<FName>& SectionNames);
+
 	UPROPERTY(VisibleAnywhere)
 	USkeletalMeshComponent* SlotMachineMesh;
 
