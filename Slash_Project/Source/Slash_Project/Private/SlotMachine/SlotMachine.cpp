@@ -48,12 +48,12 @@ void ASlotMachine::Tick(float DeltaTime)
 
 void ASlotMachine::GetHit_Implementation(const FVector& ImpactPoint, AActor* Hitter)
 {
+	if (bIsSpining) return;
+	bIsSpining = true;
 	if (GEngine)
 	{
 		GEngine->AddOnScreenDebugMessage(-1, 15.0f, FColor::Red, TEXT("Spinning!"));
 	}
-	if (bIsSpining) return;
-	bIsSpining = true;
 	UWorld* World = GetWorld();
 	if (World)
 	{
@@ -95,12 +95,30 @@ void ASlotMachine::SpinMachine()
 
 void ASlotMachine::PlayMontageSection(UAnimMontage* Montage, const FName& SectionName)
 {
-
+	if (SlotMachineMesh)
+	{
+		UAnimInstance* AnimInstance = SlotMachineMesh->GetAnimInstance();
+		if (AnimInstance && Montage)
+		{
+			AnimInstance->Montage_Play(Montage);
+			AnimInstance->Montage_JumpToSection(SectionName, Montage);
+		}
+	}
 }
 
 int32 ASlotMachine::PlayRandomMontageSection(UAnimMontage* Montage, const TArray<FName>& SectionNames)
 {
+	if (SectionNames.Num() <= 0) return -1;
+	const int32 MaxSectionIndex = SectionNames.Num() - 1;
+	const int32 Selection = FMath::RandRange(0, MaxSectionIndex);
+	PlayMontageSection(Montage, SectionNames[Selection]);
+	return Selection;
+}
 
+int32 ASlotMachine::PlaySlotMachineMontage()
+{
+	const int32 Selection = PlayRandomMontageSection(SlotActionMontage, SlotActionSections);
+	return int32();
 }
 
 bool ASlotMachine::CheckWin()

@@ -33,6 +33,7 @@ protected:
 private:
 	void PlayMontageSection(UAnimMontage* Montage, const FName& SectionName);
 	int32 PlayRandomMontageSection(UAnimMontage* Montage, const TArray<FName>& SectionNames);
+	virtual int32 PlaySlotMachineMontage();
 
 	UPROPERTY(VisibleAnywhere)
 	USkeletalMeshComponent* SlotMachineMesh;
@@ -59,10 +60,10 @@ private:
 	int32 BetAmount;
 
 	UPROPERTY(EditDefaultsOnly, Category = "Slot Machine Properties")
-	UAnimMontage* SlotSpinMontage;
+	UAnimMontage* SlotActionMontage;
 
 	UPROPERTY(EditAnywhere, Category = "Slot Machine Properties")
-	TArray<FName> SlotResultSections;
+	TArray<FName> SlotActionSections;
 
 	bool bIsSpining = false;
 	bool CheckWin();
