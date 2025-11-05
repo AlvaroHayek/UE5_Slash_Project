@@ -65,6 +65,9 @@ private:
 	UPROPERTY(EditAnywhere, Category = "Slot Machine Properties")
 	TArray<FName> SlotActionSections;
 
+	UPROPERTY(BlueprintReadWrite, meta = (AllowPrivateAccess = "true"))
+	ESlotState SlotState = ESlotState::ESS_Idle;
+
 	bool bIsSpining = false;
 	bool CheckWin();
 	void CalculateRTP();

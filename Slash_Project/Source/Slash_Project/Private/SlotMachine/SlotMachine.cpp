@@ -34,10 +34,7 @@ ASlotMachine::ASlotMachine()
 void ASlotMachine::BeginPlay()
 {
 	Super::BeginPlay();
-	if (GEngine) 
-	{
-		GEngine->AddOnScreenDebugMessage(-1, 15.0f, FColor::Yellow, TEXT("Spinning!"));
-	}
+
 }
 
 void ASlotMachine::Tick(float DeltaTime)
@@ -50,14 +47,13 @@ void ASlotMachine::GetHit_Implementation(const FVector& ImpactPoint, AActor* Hit
 {
 	if (bIsSpining) return;
 	bIsSpining = true;
-	if (GEngine)
-	{
-		GEngine->AddOnScreenDebugMessage(-1, 15.0f, FColor::Red, TEXT("Spinning!"));
-	}
+	
 	UWorld* World = GetWorld();
 	if (World)
 	{
 		SpinMachine();
+		PlaySlotMachineMontage();
+		SlotState = ESlotState::ESS_Idle;
 	}
 }
 
@@ -117,8 +113,18 @@ int32 ASlotMachine::PlayRandomMontageSection(UAnimMontage* Montage, const TArray
 
 int32 ASlotMachine::PlaySlotMachineMontage()
 {
+	SlotState = ESlotState::ESS_Moving;
 	const int32 Selection = PlayRandomMontageSection(SlotActionMontage, SlotActionSections);
-	return int32();
+	TEnumAsByte<ESlotResult> Pose(Selection);
+	if (Pose < ESlotResult::ESR_MAX)
+	{
+		SlotResult = Pose;
+	}
+	if (GEngine)
+	{
+		GEngine->AddOnScreenDebugMessage(-1, 15.0f, FColor::Red, TEXT("Spinning!"));
+	}
+	return Selection;
 }
 
 bool ASlotMachine::CheckWin()
