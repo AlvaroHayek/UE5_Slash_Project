@@ -17,3 +17,15 @@ enum ESlotResult
 
 	ESR_MAX UMETA(DisplayName = "DefaultMax")
 };
+
+UENUM(BlueprintType)
+enum class ESlotSymbol : uint8
+{
+	ESSY_Watermelon UMETA(DisplayName = "Watermelon"),
+	ESSY_Orange UMETA(DisplayName = "Orange"),
+	ESSY_Seven UMETA(DisplayName = "Seven"),
+	ESSY_Clover UMETA(DisplayName = "Clover"),
+	ESSY_Spade UMETA(DisplayName = "Spade")
+};
+
+//Symbols = { TEXT("Watermelon"), TEXT("Orange"), TEXT("Seven"), TEXT("Clover"), TEXT("Spade")
