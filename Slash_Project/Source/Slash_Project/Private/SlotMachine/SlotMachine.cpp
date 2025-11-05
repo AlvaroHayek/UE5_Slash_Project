@@ -53,7 +53,6 @@ void ASlotMachine::GetHit_Implementation(const FVector& ImpactPoint, AActor* Hit
 	{
 		SpinMachine();
 		PlaySlotMachineMontage();
-		SlotState = ESlotState::ESS_Idle;
 	}
 }
 
