@@ -114,14 +114,36 @@ int32 ASlotMachine::PlaySlotMachineMontage()
 {
 	SlotState = ESlotState::ESS_Moving;
 	const int32 Selection = PlayRandomMontageSection(SlotActionMontage, SlotActionSections);
+	FString SlotMontageName = SlotActionMontage->GetName();
 	TEnumAsByte<ESlotResult> Pose(Selection);
 	if (Pose < ESlotResult::ESR_MAX)
 	{
 		SlotResult = Pose;
 	}
-	if (GEngine)
+
+	if (SlotActionMontage)
 	{
-		GEngine->AddOnScreenDebugMessage(-1, 15.0f, FColor::Red, TEXT("Spinning!"));
+		if (GEngine)
+		{
+			GEngine->AddOnScreenDebugMessage(-1, 15.0f, FColor::Red, FString::Printf(TEXT("Spinning! %s"), *SlotMontageName));
+			GEngine->AddOnScreenDebugMessage(-1, 15.0f, FColor::Green, FString::Printf(TEXT("Spinning! %d"), Selection));
+
+			const UEnum* EnumSlotResult = StaticEnum<ESlotResult>();
+			if (EnumSlotResult)
+			{
+				FString EnumSlotResultName = EnumSlotResult->GetNameStringByValue((int64)SlotResult.GetValue());
+				GEngine->AddOnScreenDebugMessage(-1, 15.0f, FColor::Blue, FString::Printf(TEXT("%s"), *EnumSlotResultName));
+
+			}
+		}
+	}
+	else
+	{
+		if (GEngine)
+		{
+			GEngine->AddOnScreenDebugMessage(-1, 15.0f, FColor::Red, TEXT("Spinning! nullptr"));
+		}
+
 	}
 	return Selection;
 }
