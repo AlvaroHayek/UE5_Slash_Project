@@ -19,7 +19,7 @@ enum ESlotResult
 };
 
 UENUM(BlueprintType)
-enum class ESlotSymbol : uint8
+enum ESlotSymbol
 {
 	ESSY_Watermelon UMETA(DisplayName = "Watermelon"),
 	ESSY_Orange UMETA(DisplayName = "Orange"),

@@ -112,7 +112,6 @@ int32 ASlotMachine::PlayRandomMontageSection(UAnimMontage* Montage, const TArray
 
 int32 ASlotMachine::PlaySlotMachineMontage()
 {
-	if (SlotState == ESlotState::ESS_Moving) return;
 	SlotState = ESlotState::ESS_Moving;
 	const int32 Selection = PlayRandomMontageSection(SlotActionMontage, SlotActionSections);
 	FString SlotMontageName = SlotActionMontage->GetName();
