@@ -93,6 +93,16 @@ void ASlotMachine::SpinMachine()
 	bIsSpining = false;
 }
 
+void ASlotMachine::PlayMontageSection(UAnimMontage* Montage, const FName& SectionName)
+{
+
+}
+
+int32 ASlotMachine::PlayRandomMontageSection(UAnimMontage* Montage, const TArray<FName>& SectionNames)
+{
+
+}
+
 bool ASlotMachine::CheckWin()
 {
 	return CurrentSpin[0] == CurrentSpin[1] && CurrentSpin[1] == CurrentSpin[2];
