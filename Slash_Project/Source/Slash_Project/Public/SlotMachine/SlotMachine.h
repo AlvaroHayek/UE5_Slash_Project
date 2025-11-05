@@ -30,6 +30,9 @@ protected:
 	UPROPERTY(BlueprintReadOnly)
 	TEnumAsByte<ESlotResult> SlotResult;
 
+	UPROPERTY(BlueprintReadOnly)
+	TEnumAsByte<ESlotSymbol> SlotSymbol;
+
 private:
 	void PlayMontageSection(UAnimMontage* Montage, const FName& SectionName);
 	int32 PlayRandomMontageSection(UAnimMontage* Montage, const TArray<FName>& SectionNames);
@@ -67,6 +70,9 @@ private:
 
 	UPROPERTY(BlueprintReadWrite, meta = (AllowPrivateAccess = "true"))
 	ESlotState SlotState = ESlotState::ESS_Idle;
+
+	UPROPERTY(EditAnywhere, Category = "Slot Machine Properties")
+	TArray<float> SlotSymbolAngles;
 
 	bool bIsSpining = false;
 	bool CheckWin();
