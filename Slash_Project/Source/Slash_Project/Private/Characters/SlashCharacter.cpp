@@ -232,6 +232,10 @@ void ASlashCharacter::EquipWeapon(AWeapon* Weapon)
 
 void ASlashCharacter::AttackEnd()
 {
+	if (GEngine)
+	{
+		GEngine->AddOnScreenDebugMessage(-1, 15.0f, FColor::Orange, TEXT("EndAttack"));
+	}
 	ActionState = EActionState::EAS_Unoccupied;
 }
 
