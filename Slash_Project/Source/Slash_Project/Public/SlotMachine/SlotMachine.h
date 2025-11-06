@@ -33,6 +33,9 @@ protected:
 	UPROPERTY(BlueprintReadOnly)
 	TEnumAsByte<ESlotSymbol> SlotSymbol;
 
+	UFUNCTION(BlueprintCallable)
+	virtual void SlotActionEnd();
+
 private:
 	void PlayMontageSection(UAnimMontage* Montage, const FName& SectionName);
 	int32 PlayRandomMontageSection(UAnimMontage* Montage, const TArray<FName>& SectionNames);

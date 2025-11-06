@@ -88,6 +88,10 @@ void ASlotMachine::SpinMachine()
 	bIsSpining = false;
 }
 
+void ASlotMachine::SlotActionEnd()
+{
+}
+
 void ASlotMachine::PlayMontageSection(UAnimMontage* Montage, const FName& SectionName)
 {
 	if (SlotMachineMesh)
