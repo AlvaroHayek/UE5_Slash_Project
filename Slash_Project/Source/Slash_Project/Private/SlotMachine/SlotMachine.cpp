@@ -56,6 +56,7 @@ void ASlotMachine::GetHit_Implementation(const FVector& ImpactPoint, AActor* Hit
 	}
 }
 
+
 void ASlotMachine::SpinMachine()
 {
 // Delete previous spin
