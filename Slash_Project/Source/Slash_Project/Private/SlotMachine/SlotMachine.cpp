@@ -93,6 +93,7 @@ void ASlotMachine::SlotActionEnd()
 	SlotState = ESlotState::ESS_Idle;
 }
 
+
 void ASlotMachine::PlayMontageSection(UAnimMontage* Montage, const FName& SectionName)
 {
 	if (SlotMachineMesh)
