@@ -220,8 +220,6 @@ void ASlashCharacter::Dodge()
 	}
 }
 
-
-
 void ASlashCharacter::EquipWeapon(AWeapon* Weapon)
 {
 	Weapon->Equip(GetMesh(), FName("RightHandSocket"), this, this);
