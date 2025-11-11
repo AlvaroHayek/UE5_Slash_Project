@@ -66,22 +66,28 @@ void ASlotMachine::SpinMachine()
 		int32 Index = FMath::RandRange(0, Symbols.Num() - 1);
 		CurrentSpin.Add(Symbols[Index]);
 	}
-
-	UE_LOG(LogTemp, Warning, TEXT("Spin Result: %s | %s | %s"),
-		*CurrentSpin[0], *CurrentSpin[1], *CurrentSpin[2]);
+	if (GEngine)
+	{
+		GEngine->AddOnScreenDebugMessage(-1, 15.0f, FColor::Blue, FString::Printf(TEXT("Spin Result: %s | %s | %s"), 
+			*CurrentSpin[0], *CurrentSpin[1], *CurrentSpin[2]));
+	}
 	TotalSpins++;
 
 	if (CheckWin())
 	{
 		int32 WinAmount = 100;
 		TotalPayout += WinAmount;
-
-		UE_LOG(LogTemp, Warning, TEXT("You won %d credits!"), WinAmount);
+		if (GEngine)
+		{
+			GEngine->AddOnScreenDebugMessage(-1, 15.0f, FColor::Magenta, FString::Printf(TEXT("You won %d credits!"), WinAmount));
+		}
 	}
-
 	else
 	{
-		UE_LOG(LogTemp, Warning, TEXT("You lost. "));
+		if (GEngine)
+		{
+			GEngine->AddOnScreenDebugMessage(-1, 15.0f, FColor::Magenta, FString::Printf(TEXT("You lost. ")));
+		}
 	}
 
 	CalculateRTP();
@@ -162,7 +168,10 @@ bool ASlotMachine::CheckWin()
 void ASlotMachine::CalculateRTP()
 {
 	float RTP = (TotalPayout * 1.0f) / (TotalSpins * BetAmount) * 100.0f;
-	UE_LOG(LogTemp, Warning, TEXT("Current RTP: %.2f%%"), RTP);
+	if (GEngine)
+	{
+		GEngine->AddOnScreenDebugMessage(-1, 15.0f, FColor::Magenta, FString::Printf(TEXT("Current RTP: %.2f%%"), RTP));
+	}
 }
 
 
