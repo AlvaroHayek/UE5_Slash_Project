@@ -77,6 +77,7 @@ private:
 	UPROPERTY(EditAnywhere, Category = "Slot Machine Properties")
 	TArray<float> SlotSymbolAngles;
 
+
 	bool bIsSpining = false;
 	bool CheckWin();
 	void CalculateRTP();
