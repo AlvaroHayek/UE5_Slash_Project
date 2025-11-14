@@ -28,4 +28,5 @@ enum ESlotSymbol
 	ESSY_Spade UMETA(DisplayName = "Spade")
 };
 
+
 //Symbols = { TEXT("Watermelon"), TEXT("Orange"), TEXT("Seven"), TEXT("Clover"), TEXT("Spade")
