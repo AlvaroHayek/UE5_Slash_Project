@@ -6,6 +6,9 @@
 #include "Items/Item.h"
 #include "EnergyOrb.generated.h"
 
+class USphereComponent;
+
+
 /**
  * 
  */
