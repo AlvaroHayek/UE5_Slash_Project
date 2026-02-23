@@ -4,11 +4,10 @@
 
 #include "CoreMinimal.h"
 #include "Items/Item.h"
+#include "Components/SphereComponent.h"
 #include "EnergyOrb.generated.h"
 
 class USphereComponent;
-
-
 /**
  * 
  */
@@ -17,7 +16,12 @@ class SLASH_PROJECT_API AEnergyOrb : public AItem
 {
 	GENERATED_BODY()
 
+public:
+	AEnergyOrb();
+	virtual void Tick(float DeltaTime) override;
+
 protected:
+	virtual void BeginPlay() override;
 	UPROPERTY(VisibleAnywhere)
 	USphereComponent* Attractor;
 	

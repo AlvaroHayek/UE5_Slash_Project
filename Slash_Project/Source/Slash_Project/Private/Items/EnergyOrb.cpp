@@ -3,10 +3,18 @@
 
 #include "Items/EnergyOrb.h"
 
-AEnergyOrb::EnergyOrb()
+AEnergyOrb::AEnergyOrb()
 {
 	PrimaryActorTick.bCanEverTick = true;
 
 	Attractor = CreateDefaultSubobject<USphereComponent>(TEXT("Attractor"));
 	Attractor->SetupAttachment(GetRootComponent());
+}
+
+void AEnergyOrb::Tick(float DeltaTime)
+{
+}
+
+void AEnergyOrb::BeginPlay()
+{
 }
