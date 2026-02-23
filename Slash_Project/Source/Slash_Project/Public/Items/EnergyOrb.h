@@ -16,5 +16,9 @@ UCLASS()
 class SLASH_PROJECT_API AEnergyOrb : public AItem
 {
 	GENERATED_BODY()
+
+protected:
+	UPROPERTY(VisibleAnywhere)
+	USphereComponent* Attractor;
 	
 };

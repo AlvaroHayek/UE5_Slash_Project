@@ -3,3 +3,10 @@
 
 #include "Items/EnergyOrb.h"
 
+AEnergyOrb::EnergyOrb()
+{
+	PrimaryActorTick.bCanEverTick = true;
+
+	Attractor = CreateDefaultSubobject<USphereComponent>(TEXT("Attractor"));
+	Attractor->SetupAttachment(GetRootComponent());
+}
